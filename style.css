@@ -55,3 +55,37 @@ main {
 .alert h2 { color: #ff7b72; }  /* Red for Survival */
 .stock h2 { color: #3fb950; }  /* Green for Stocks */
 .trend h2 { color: #d2a8ff; }  /* Purple for Trends */
+/* News List Styling */
+.news-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    max-height: 350px; /* Limits the height of the box */
+    overflow-y: auto;  /* Adds a scrollbar if the list is too long! */
+}
+
+.news-list li {
+    background-color: #21262d; /* Slightly lighter box for each news item */
+    margin-bottom: 12px;
+    padding: 12px;
+    border-radius: 6px;
+    border-left: 4px solid #8b949e;
+    line-height: 1.5;
+}
+
+/* Make links look clean */
+.news-list a {
+    color: #58a6ff;
+    text-decoration: none; /* Removes the underline */
+    font-weight: 500;
+}
+
+.news-list a:hover {
+    text-decoration: underline;
+    color: #79c0ff; /* Lightens up when the user hovers over it */
+}
+
+/* Match the left-border colors to our tags */
+.alert .news-list li { border-left-color: #ff7b72; }
+.stock .news-list li { border-left-color: #3fb950; }
+.trend .news-list li { border-left-color: #d2a8ff; }
