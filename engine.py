@@ -11,10 +11,6 @@ if not NEWS_API_KEY:
 
 # 1. The 3 Buckets
 topics = {
-# ... (Leave the rest of your code exactly as it is!)
-
-# 1. The 3 Buckets
-topics = {
     "survival": "food shortage OR energy crisis",
     "stock": "tech stocks OR market surge",
     "trend": "artificial intelligence OR new app"
@@ -36,7 +32,7 @@ for category, query in topics.items():
     data = response.json()
 
     if data.get("status") == "ok":
-        top_articles = data["articles"][:10] # Grabbing the top 3
+        top_articles = data["articles"][:15] # Grabbing the top 15!
         
         for article in top_articles:
             # We save both the title and the URL as a pair!
