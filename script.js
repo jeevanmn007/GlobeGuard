@@ -19,7 +19,10 @@ async function loadLiveData() {
                     </li>`;
             });
         }
-
+// Inject the AI Summaries into the new boxes
+        document.getElementById('survival-ai').innerText = "🤖 AI Briefing: " + data.survivalSummary;
+        document.getElementById('stock-ai').innerText = "🤖 AI Briefing: " + data.stockSummary;
+        document.getElementById('trend-ai').innerText = "🤖 AI Briefing: " + data.trendSummary;
         // Send the data to the right HTML sections
         buildNewsList('survival-list', data.survival, 'ALERT');
         buildNewsList('stock-list', data.stock, 'ACTION');

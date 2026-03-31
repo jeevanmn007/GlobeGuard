@@ -89,3 +89,17 @@ main {
 .alert .news-list li { border-left-color: #ff7b72; }
 .stock .news-list li { border-left-color: #3fb950; }
 .trend .news-list li { border-left-color: #d2a8ff; }
+/* AI Executive Summary Styling */
+.ai-summary {
+    background-color: #0d1117;
+    border: 1px solid #30363d;
+    border-top: 3px solid #00f2fe; /* Glowing cyber-blue top edge */
+    color: #c9d1d9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    font-style: italic;
+    font-size: 0.95em;
+    line-height: 1.6;
+    box-shadow: 0 4px 15px rgba(0, 242, 254, 0.05); /* Slight blue glow */
+}
