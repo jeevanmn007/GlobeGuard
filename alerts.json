@@ -1,6 +1,18 @@
 {
     "survival": [
         {
+            "title": "Cubans ready for Russian oil but some say not enough",
+            "link": "https://www.digitaljournal.com/world/cubans-ready-for-russian-oil-but-some-say-not-enough/article"
+        },
+        {
+            "title": "Baby Boomers Are the Richest Generation in History. Why Do Politicians Keep Spending More on Them?",
+            "link": "https://reason.com/video/2026/03/30/you-are-paying-for-retirees-lavish-lifestyles/"
+        },
+        {
+            "title": "All Eyes Are On Iran, Meanwhile in Gaza... Eight Months To Disarm Hamas?",
+            "link": "https://freerepublic.com/focus/f-news/4372879/posts"
+        },
+        {
             "title": "Food shock is inevitable due to the Iran war \u2013 and it could get bad",
             "link": "https://www.newscientist.com/article/2521311-food-shock-is-inevitable-due-to-the-iran-war-and-it-could-get-bad/"
         },
@@ -47,22 +59,14 @@
         {
             "title": "Chopping down areas of tropical rainforest is causing rising temperatures linked to thousands of deaths",
             "link": "https://theconversation.com/chopping-down-areas-of-tropical-rainforest-is-causing-rising-temperatures-linked-to-thousands-of-deaths-278737"
-        },
-        {
-            "title": "MAHA Split On Whether Trump Admin Is Actually Making America Healthy Again, New Poll Shows",
-            "link": "https://dailycaller.com/2026/03/30/voters-split-trumps-done-enough-to-make-america-healthy-again-poll/"
-        },
-        {
-            "title": "What are other countries doing to save energy and combat rising fuel costs?",
-            "link": "https://www.thejournal.ie/energy-conservation-fuel-costs-6998258-Mar2026/"
-        },
-        {
-            "title": "US farmers hit as fuel and fertilizer costs surge due to war",
-            "link": "https://freerepublic.com/focus/f-news/4372843/posts"
         }
     ],
-    "survivalSummary": "AI systems currently offline. See raw data below.",
+    "survivalSummary": "Global geopolitical instability, fueled by a volatile Middle East, Russian influence, and prolonged regional conflicts, is rapidly escalating fears of a broader confrontation and an imminent global food shock. This precarious situation is exacerbated by profound generational wealth disparities, accelerating environmental degradation, and significant domestic political challenges across numerous nations.",
     "stock": [
+        {
+            "title": "Airtel data centre arm Nxtra to raise $1 billion investment",
+            "link": "https://www.livemint.com/companies/airtel-nxtra-data-center-investment-alpha-wave-global-carlyle-11774887359101.html"
+        },
         {
             "title": "AI Agents Are Increasingly Evading Safeguards, According to UK Researchers",
             "link": "https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-more-and-more-devious-study-finds/"
@@ -118,13 +122,9 @@
         {
             "title": "How a Tiny Farm County Fought a Data Center Complex and\u00a0Won",
             "link": "https://civileats.com/2026/03/30/how-a-tiny-farm-county-fought-a-data-center-complex-and-won/"
-        },
-        {
-            "title": "Capitol AI ramps up UK and EU expansion with regional leadership and new advisory board",
-            "link": "https://www.globenewswire.com/news-release/2026/03/30/3264334/0/en/Capitol-AI-ramps-up-UK-and-EU-expansion-with-regional-leadership-and-new-advisory-board.html"
         }
     ],
-    "stockSummary": "AI systems currently offline. See raw data below.",
+    "stockSummary": "The global economy teeters on the brink of recession, marked by surging oil prices, high interest rates, and significant market volatility that's eroding even billionaire wealth, despite minor geopolitical upsides. Simultaneously, the accelerating AI and data center boom, while attracting immense investment, is creating profound societal friction through ethical evasion, job disruption, and local infrastructure pushback, intensifying debates around social support systems like basic income.",
     "trend": [
         {
             "title": "Self-flushing litter box keeps an AI eye on kitties' urinary health",
@@ -187,5 +187,5 @@
             "link": "https://www.computerweekly.com/feature/Hot-property-Azzurri-Groups-chicken-chain-and-the-greenfield-tech-opportunity"
         }
     ],
-    "trendSummary": "AI systems currently offline. See raw data below."
+    "trendSummary": "Artificial intelligence is rapidly solidifying its economic dominance, driving market momentum across diverse sectors from consumer health and fintech to big tech valuations and search paradigms, creating vast new opportunities. However, this transformative surge is simultaneously igniting urgent warnings about critical regulatory gaps, inadequate child safety, and severe civil liberties risks, demanding immediate global attention and robust safeguards."
 }
