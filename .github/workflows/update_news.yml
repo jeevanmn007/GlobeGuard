@@ -24,7 +24,8 @@ jobs:
 
       - name: 🧠 Run the AI Brain
         env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }} # Pulls from your Secret Vault
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} 
         run: python engine.py
 
       - name: 📤 Save and Upload to Website
