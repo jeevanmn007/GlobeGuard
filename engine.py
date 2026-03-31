@@ -13,7 +13,7 @@ if not NEWS_API_KEY or not GEMINI_API_KEY:
 # Configure the AI Brain
 genai.configure(api_key=GEMINI_API_KEY)
 # We use 'flash' because it is insanely fast
-ai_model = genai.GenerativeModel('gemini-1.5-flash') 
+ai_model = genai.GenerativeModel('gemini-2.0-flash')
 
 topics = {
     "survival": "food shortage OR energy crisis",
