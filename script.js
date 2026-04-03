@@ -73,7 +73,29 @@ scene.add(globe);
 
 // 2. Pump up the lighting so the colors look bright and cinematic
 const ambientLight = new THREE.AmbientLight(0xffffff, 2.5); 
-scene.add(ambientLight);
+scene.add(ambientLight);// 🪐 ORBITAL DEFENSE RINGS
+// Create a glowing, transparent white material
+const ringMaterial = new THREE.MeshBasicMaterial({
+    color: 0xffffff,
+    transparent: true,
+    opacity: 0.3, // Ghost-like transparency
+    blending: THREE.AdditiveBlending // This makes it GLOW like a hologram
+});
+
+// Create the ring shape (Radius 16.5 sits just outside our Earth's radius of 14)
+const ringGeometry = new THREE.TorusGeometry(16.5, 0.08, 16, 100);
+
+// Ring 1 (Tilted diagonally to the right)
+const ring1 = new THREE.Mesh(ringGeometry, ringMaterial);
+ring1.rotation.x = Math.PI / 2.5;
+ring1.rotation.y = Math.PI / 4;
+scene.add(ring1);
+
+// Ring 2 (Tilted diagonally to the left to form the "X")
+const ring2 = new THREE.Mesh(ringGeometry, ringMaterial);
+ring2.rotation.x = Math.PI / 2.5;
+ring2.rotation.y = -Math.PI / 4;
+scene.add(ring2);
 
 // 3. THE MAGIC FIX: Bring the camera WAY closer to make the Earth MASSIVE
 // 3. THE MAGIC FIX: Dialing in the perfect "Medium" size
@@ -92,4 +114,16 @@ window.addEventListener('resize', () => {
     renderer.setSize(window.innerWidth, window.innerHeight);
     camera.aspect = window.innerWidth / window.innerHeight;
     camera.updateProjectionMatrix();
+    // The Animation Loop 
+function animateGlobe() {
+    requestAnimationFrame(animateGlobe);
+    globe.rotation.y += 0.0015; // Earth spins
+    
+    // Make the rings spin along their paths!
+    ring1.rotation.z -= 0.002; 
+    ring2.rotation.z += 0.002;
+    
+    renderer.render(scene, camera);
+}
+animateGlobe();
 });
