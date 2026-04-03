@@ -59,27 +59,27 @@ document.body.appendChild(renderer.domElement);
 
 // Build the High-Tech Earth with Continents
 const textureLoader = new THREE.TextureLoader();
-// We are pulling a dark-mode satellite map of Earth from the internet!
-const earthTexture = textureLoader.load('https://unpkg.com/three-globe/example/img/earth-dark.jpg');
+// 1. Swap to a vibrant, realistic daytime Earth texture
+const earthTexture = textureLoader.load('https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg');
 
-const geometry = new THREE.SphereGeometry(14, 64, 64); // Smoother, rounder sphere
+const geometry = new THREE.SphereGeometry(14, 64, 64); 
 const material = new THREE.MeshStandardMaterial({ 
     map: earthTexture,
     transparent: true,
-    opacity: 0.8 // Make the earth itself slightly ghost-like
+    opacity: 0.85 // Slightly more solid so the landmasses pop!
 });
 const globe = new THREE.Mesh(geometry, material);
 scene.add(globe);
 
-// Because we are using a real texture now, we need to add a "Sun" to light it up!
-const ambientLight = new THREE.AmbientLight(0xffffff, 2.0); // Bright white light
+// 2. Pump up the lighting so the colors look bright and cinematic
+const ambientLight = new THREE.AmbientLight(0xffffff, 2.5); 
 scene.add(ambientLight);
 
-// CENTER THE CAMERA
-camera.position.z = 32; // Pull the camera back so the whole Earth fits
-camera.position.x = 0;  // 0 means DEAD CENTER
+// 3. THE MAGIC FIX: Bring the camera WAY closer to make the Earth MASSIVE
+camera.position.z = 18; // (We changed this from 32 down to 18)
+camera.position.x = 0;  // Dead center
 
-// The Animation Loop (makes it spin slowly!)
+// The Animation Loop 
 function animateGlobe() {
     requestAnimationFrame(animateGlobe);
     globe.rotation.y += 0.0015; // Slow spin to the right
