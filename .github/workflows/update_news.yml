@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: 🛠️ Install the Engine Tools
-        run: python -m pip install requests google-generativeai
+        run: python -m pip install requests google-generativeai yfinance pandas
 
       - name: 🧠 Run the AI Brain
         env:
