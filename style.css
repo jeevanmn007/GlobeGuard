@@ -103,3 +103,19 @@ main {
     line-height: 1.6;
     box-shadow: 0 4px 15px rgba(0, 242, 254, 0.05); /* Slight blue glow */
 }
+/* 🔮 THE HOLOGRAPHIC GLASS EFFECT */
+.category-box, section.card {
+    /* Make the background a see-through dark color */
+    background: rgba(15, 20, 25, 0.4) !important; 
+    /* The magic trick: blur whatever is spinning behind it! */
+    backdrop-filter: blur(8px); 
+    -webkit-backdrop-filter: blur(8px);
+    /* Add a subtle glowing border */
+    border: 1px solid rgba(0, 255, 204, 0.2) !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+/* Make sure our text stays bright and readable */
+p, h2, div, li {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+}

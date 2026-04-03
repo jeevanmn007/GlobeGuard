@@ -57,31 +57,35 @@ renderer.domElement.style.left = '0';
 renderer.domElement.style.zIndex = '-1'; 
 document.body.appendChild(renderer.domElement);
 
-// Build the Wireframe Earth
-const geometry = new THREE.SphereGeometry(14, 32, 32); 
-// We use a glowing cyan color for that "tech dashboard" vibe
-const material = new THREE.MeshBasicMaterial({ 
-    color: 0x00ffcc, 
-    wireframe: true, 
-    transparent: true, 
-    opacity: 0.15 
+// Build the High-Tech Earth with Continents
+const textureLoader = new THREE.TextureLoader();
+// We are pulling a dark-mode satellite map of Earth from the internet!
+const earthTexture = textureLoader.load('https://unpkg.com/three-globe/example/img/earth-dark.jpg');
+
+const geometry = new THREE.SphereGeometry(14, 64, 64); // Smoother, rounder sphere
+const material = new THREE.MeshStandardMaterial({ 
+    map: earthTexture,
+    transparent: true,
+    opacity: 0.8 // Make the earth itself slightly ghost-like
 });
 const globe = new THREE.Mesh(geometry, material);
 scene.add(globe);
 
-// Position the camera so the globe is slightly off to the side/background
-camera.position.z = 25;
-camera.position.x = 8;
+// Because we are using a real texture now, we need to add a "Sun" to light it up!
+const ambientLight = new THREE.AmbientLight(0xffffff, 2.0); // Bright white light
+scene.add(ambientLight);
+
+// CENTER THE CAMERA
+camera.position.z = 32; // Pull the camera back so the whole Earth fits
+camera.position.x = 0;  // 0 means DEAD CENTER
 
 // The Animation Loop (makes it spin slowly!)
 function animateGlobe() {
     requestAnimationFrame(animateGlobe);
-    globe.rotation.y += 0.001; // Slow horizontal spin
-    globe.rotation.x += 0.0005; // Slight vertical tilt
+    globe.rotation.y += 0.0015; // Slow spin to the right
     renderer.render(scene, camera);
 }
 animateGlobe();
-
 // Fix the globe if the user resizes their window
 window.addEventListener('resize', () => {
     renderer.setSize(window.innerWidth, window.innerHeight);
