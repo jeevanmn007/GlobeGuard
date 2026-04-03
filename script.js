@@ -76,7 +76,8 @@ const ambientLight = new THREE.AmbientLight(0xffffff, 2.5);
 scene.add(ambientLight);
 
 // 3. THE MAGIC FIX: Bring the camera WAY closer to make the Earth MASSIVE
-camera.position.z = 18; // (We changed this from 32 down to 18)
+// 3. THE MAGIC FIX: Dialing in the perfect "Medium" size
+camera.position.z = 24; // The Goldilocks zone!
 camera.position.x = 0;  // Dead center
 
 // The Animation Loop 
