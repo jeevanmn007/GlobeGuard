@@ -58,7 +58,7 @@ for ticker in tickers:
         print(f"Error fetching {ticker}: {e}")
 
 # 4. Generate AI Summaries
-for category in globe_guard_data:
+for category in ["survival", "stock", "trend"]:
     print(f"🤖 Asking AI to summarize {category}...")
     try:
         raw_text = str(globe_guard_data[category])
