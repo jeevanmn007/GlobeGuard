@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GlobeGuard | Survival & Investment Tracker</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
 </head>
 <body>
 
@@ -14,6 +15,13 @@
     </header>
 
     <main>
+        <div class="category-box" id="defcon-container" style="border-left-color: #ff3333; text-align: center;">
+    <h2 style="color: #ff3333; letter-spacing: 2px;">🌍 GLOBAL THREAT LEVEL</h2>
+    <div id="defcon-level" style="font-size: 3rem; font-weight: bold; margin: 10px 0; color: #ff3333;">SCANNING...</div>
+    <div class="ai-summary" id="action-plan" style="color: #fff; font-size: 1.1rem;">
+        Awaiting AI Strategic Directives...
+    </div>
+</div>
         <section class="card alert">
             <h2>🚨 URGENT: Survival & Resources</h2>
             <div class="ai-summary" id="survival-ai">Loading AI Executive Summary...</div>
