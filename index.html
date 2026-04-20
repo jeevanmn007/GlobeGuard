@@ -15,10 +15,10 @@
     </header>
 
     <main>
-        <div class="category-box" id="defcon-container" style="border-left-color: #ff3333; text-align: center;">
-    <h2 style="color: #ff3333; letter-spacing: 2px;">🌍 GLOBAL THREAT LEVEL</h2>
-    <div id="defcon-level" style="font-size: 3rem; font-weight: bold; margin: 10px 0; color: #ff3333;">SCANNING...</div>
-    <div class="ai-summary" id="action-plan" style="color: #fff; font-size: 1.1rem;">
+        <div class="category-box card" id="defcon-container">
+    <h2 style="color: #ff3333 !important;">🌍 GLOBAL THREAT LEVEL</h2>
+    <div id="defcon-level">SCANNING...</div>
+    <div class="ai-summary" id="action-plan">
         Awaiting AI Strategic Directives...
     </div>
 </div>
@@ -47,6 +47,15 @@
                 <li>Loading live data...</li>
             </ul>
         </section>
+        <section class="category-box card" id="seismic-container">
+    <h2>🌋 SEISMIC & PLANETARY DATA</h2>
+    <div class="ai-summary" id="seismicSummary">
+        Scanning tectonic activity...
+    </div>
+    <ul id="seismic" class="news-list">
+        <li>Awaiting geological uplink...</li>
+    </ul>
+</section>
     </main>
     <script src="script.js"></script>
 </body>
