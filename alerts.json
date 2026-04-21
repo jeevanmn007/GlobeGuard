@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is acutely destabilized, marked by the Iran conflict's far-reaching economic consequences, including a developing food crisis due to Strait of Hormuz blockades affecting fertilizer and feedstocks, sustained energy inflation, and specific state-sponsored cyber threats targeting US tech infrastructure slated for April 1st, all while the tech sector navigates rapid AI advancements and market volatility. This human-induced turbulence is underscored by a consistent pattern of moderate seismic activity across multiple critical regions, reminding us of underlying physical vulnerabilities. To secure assets and physical safety, first, immediately diversify critical supply chains, especially for agricultural inputs and energy, to mitigate the prolonged effects of geopolitical disruption and inflation. Second, fortify all digital assets with advanced, proactive cybersecurity measures and robust data backup strategies, prioritizing preparedness for the impending April 1st cyberattacks. Third, thoroughly review and update all emergency preparedness and physical security protocols, including communication plans and critical infrastructure resilience, to address both escalating geopolitical risks and persistent natural hazards.",
+    "strategicPlan": "The global threat landscape has significantly escalated, defined by a critical confluence of geopolitical, economic, and persistent physical vulnerabilities. The ongoing Iran conflict is generating a severe, slow-moving food and energy crisis due to the Strait of Hormuz blockade, evidenced by rising global prices and resource scarcity, further compounded by an explicit and imminent cyber threat targeting major US tech firms on April 1st. This precarious geopolitical situation is translating into volatile financial markets, while sustained significant seismic activity across multiple regions continues to present a constant background threat of natural disaster. To secure assets and ensure physical safety, immediately fortify all digital infrastructure and critical data against anticipated cyber offensives, diversify and localize your supply chains for essential resources like food and energy, and rigorously review and update all emergency preparedness and physical security protocols for both man-made and natural contingencies.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srtd"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 35 km WNW of Pante Makasar, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srrc"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 166 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srn6"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 7 km WNW of Cotacachi, Ecuador",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srr2"
         }
     ],
-    "seismicSummary": "Four Mag 5+ earthquakes just struck worldwide!"
+    "seismicSummary": "Alert: Multiple M5+ earthquakes just struck worldwide!"
 }
