@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, marked by intertwined geopolitical, economic, and physical threats. An active Iranian conflict is directly fueling a burgeoning global food and energy crisis through the Strait of Hormuz blockade, guaranteeing prolonged inflation and supply chain disruption, while concurrently posing a credible and imminent cyber threat to major US tech firms. Financially, though AI continues its rapid advancement, the tech sector's stability remains precarious under these pressures. This man-made instability is set against a backdrop of notable and widespread seismic activity across disparate regions, indicating an elevated baseline physical threat. To navigate this complex landscape, GlobeGuard directs the following: first, fortify all digital and financial assets through enhanced cybersecurity protocols and strategic portfolio diversification; second, proactively mitigate supply chain vulnerabilities by securing essential resources and exploring local or alternative sourcing for critical goods; and third, ensure robust personal and operational physical safety by reviewing and updating all emergency preparedness plans, including communication protocols and essential supply caches.",
+    "strategicPlan": "The global strategic environment is acutely destabilized, marked by the Iran conflict's far-reaching economic consequences, including a developing food crisis due to Strait of Hormuz blockades affecting fertilizer and feedstocks, sustained energy inflation, and specific state-sponsored cyber threats targeting US tech infrastructure slated for April 1st, all while the tech sector navigates rapid AI advancements and market volatility. This human-induced turbulence is underscored by a consistent pattern of moderate seismic activity across multiple critical regions, reminding us of underlying physical vulnerabilities. To secure assets and physical safety, first, immediately diversify critical supply chains, especially for agricultural inputs and energy, to mitigate the prolonged effects of geopolitical disruption and inflation. Second, fortify all digital assets with advanced, proactive cybersecurity measures and robust data backup strategies, prioritizing preparedness for the impending April 1st cyberattacks. Third, thoroughly review and update all emergency preparedness and physical security protocols, including communication plans and critical infrastructure resilience, to address both escalating geopolitical risks and persistent natural hazards.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srr2"
         }
     ],
-    "seismicSummary": "Alert: Four magnitude 5+ earthquakes just struck worldwide!"
+    "seismicSummary": "Four Mag 5+ earthquakes just struck worldwide!"
 }
