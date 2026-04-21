@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is currently characterized by a convergence of severe, escalating risks across geopolitical, financial, and physical domains. The ongoing Iran conflict is precipitating a global food and energy crisis, fostering long-term inflationary pressures, and has escalated to an imminent cyber threat against major US tech firms effective April 1. Concurrently, heightened seismic activity, notably multiple significant earthquakes near key industrial regions like Japan, introduces additional systemic physical vulnerabilities to infrastructure and global supply chains. To navigate this complex threat landscape, prioritize three immediate actions: First, enhance digital resilience by immediately fortifying cybersecurity defenses, particularly for any US tech-affiliated assets, and strategically diversify financial portfolios to include inflation-hedged investments. Second, strengthen physical preparedness by securing essential supplies (food, water, alternative energy sources) and updating emergency response plans, especially for locations in seismically active zones or with vulnerable supply lines. Third, proactively assess and reduce dependencies on critical global supply chains, particularly for energy and vital commodities, accelerating investment in localized production and renewable alternatives to build enduring resilience.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.6 (-1.22%)",
+            "title": "\ud83d\udcb0 NVDA: $199.88 (-1.08%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $266.38 (-2.44%)",
+            "title": "\ud83d\udcb0 AAPL: $266.17 (-2.52%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $426.33 (1.98%)",
+            "title": "\ud83d\udcb0 MSFT: $424.16 (1.46%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $146.83 (0.64%)",
+            "title": "\ud83d\udcb0 PLTR: $145.97 (0.05%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $252.09 (1.53%)",
+            "title": "\ud83d\udcb0 AMZN: $249.91 (0.66%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srtd"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 140 km E of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srvu"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 35 km WNW of Pante Makasar, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srrc"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 146 km E of Miyako, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srs6"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 166 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srn6"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5.4-5.7 earthquakes just struck worldwide!"
 }
