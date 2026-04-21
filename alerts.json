@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape has significantly escalated, defined by a critical confluence of geopolitical, economic, and persistent physical vulnerabilities. The ongoing Iran conflict is generating a severe, slow-moving food and energy crisis due to the Strait of Hormuz blockade, evidenced by rising global prices and resource scarcity, further compounded by an explicit and imminent cyber threat targeting major US tech firms on April 1st. This precarious geopolitical situation is translating into volatile financial markets, while sustained significant seismic activity across multiple regions continues to present a constant background threat of natural disaster. To secure assets and ensure physical safety, immediately fortify all digital infrastructure and critical data against anticipated cyber offensives, diversify and localize your supply chains for essential resources like food and energy, and rigorously review and update all emergency preparedness and physical security protocols for both man-made and natural contingencies.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.06 (0.19%)",
+            "title": "\ud83d\udcb0 NVDA: $201.71 (-0.17%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $273.05 (1.04%)",
+            "title": "\ud83d\udcb0 AAPL: $269.3 (-1.37%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $418.07 (-1.12%)",
+            "title": "\ud83d\udcb0 MSFT: $425.12 (1.69%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $145.89 (-0.34%)",
+            "title": "\ud83d\udcb0 PLTR: $147.69 (1.23%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.28 (-0.91%)",
+            "title": "\ud83d\udcb0 AMZN: $252.35 (1.64%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srn6"
         }
     ],
-    "seismicSummary": "Alert: Multiple M5+ earthquakes just struck worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
