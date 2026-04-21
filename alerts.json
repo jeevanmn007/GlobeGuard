@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a convergence of severe, escalating risks across geopolitical, financial, and physical domains. The ongoing Iran conflict is precipitating a global food and energy crisis, fostering long-term inflationary pressures, and has escalated to an imminent cyber threat against major US tech firms effective April 1. Concurrently, heightened seismic activity, notably multiple significant earthquakes near key industrial regions like Japan, introduces additional systemic physical vulnerabilities to infrastructure and global supply chains. To navigate this complex threat landscape, prioritize three immediate actions: First, enhance digital resilience by immediately fortifying cybersecurity defenses, particularly for any US tech-affiliated assets, and strategically diversify financial portfolios to include inflation-hedged investments. Second, strengthen physical preparedness by securing essential supplies (food, water, alternative energy sources) and updating emergency response plans, especially for locations in seismically active zones or with vulnerable supply lines. Third, proactively assess and reduce dependencies on critical global supply chains, particularly for energy and vital commodities, accelerating investment in localized production and renewable alternatives to build enduring resilience.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srs6"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5.4-5.7 earthquakes just struck worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
