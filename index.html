@@ -15,6 +15,30 @@
     </header>
 
     <main>
+        <button id="back-btn" class="back-button" style="display: none;">⬅ Back to Dashboard</button>
+
+<div id="dashboard-menu" class="grid-container">
+    <div class="menu-card" onclick="openSection('defcon-container')">
+        <h3>🌍 Global Threat</h3>
+        <p>View AI Threat Level & Strategy</p>
+    </div>
+    <div class="menu-card" onclick="openSection('survival-container')">
+        <h3>🚨 Survival Data</h3>
+        <p>Resources & Energy Crisis</p>
+    </div>
+    <div class="menu-card" onclick="openSection('stock-container')">
+        <h3>📈 Markets</h3>
+        <p>Live Tech & Financial Volatility</p>
+    </div>
+    <div class="menu-card" onclick="openSection('trend-container')">
+        <h3>💡 Trends</h3>
+        <p>AI & Tech Solutions</p>
+    </div>
+    <div class="menu-card" onclick="openSection('seismic-container')">
+        <h3>🌋 Seismic</h3>
+        <p>USGS Planetary Anomalies</p>
+    </div>
+</div>
         <div class="category-box card" id="defcon-container">
     <h2 style="color: #ff3333 !important;">🌍 GLOBAL THREAT LEVEL</h2>
     <div id="defcon-level">SCANNING...</div>

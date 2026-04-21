@@ -1,132 +1,116 @@
-/* GlobeGuard Dark Mode Theme */
+/* 🌍 PREMIUM APP THEME */
 body {
-    background-color: #0d1117;
-    color: #c9d1d9;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #09090b; /* Matte zinc-black */
+    color: #fafafa;
+    font-family: 'Inter', sans-serif;
     margin: 0;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    padding: 40px 20px;
 }
 
-header {
-    text-align: center;
-    margin-bottom: 40px;
+header { 
+    text-align: center; 
+    margin-bottom: 40px; 
 }
 
-h1 {
-    color: #58a6ff;
-    font-size: 3rem;
-    margin-bottom: 5px;
+h1 { 
+    font-size: 2.5rem; 
+    font-weight: 800; 
+    margin: 0; 
+    color: #ffffff; 
 }
 
-p {
-    color: #8b949e;
-    font-size: 1.2rem;
+header p { 
+    color: #a1a1aa; 
 }
 
-main {
-    display: flex;
-    flex-direction: column;
+main { 
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+
+/* THE DASHBOARD GRID */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
-    width: 100%;
-    max-width: 800px;
 }
 
-.card {
-    background-color: #161b22;
-    border: 1px solid #30363d;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
-    transition: transform 0.2s;
+.menu-card {
+    background-color: #18181b;
+    border: 1px solid #27272a;
+    border-radius: 12px;
+    padding: 24px;
+    cursor: pointer;
+    transition: all 0.2s ease;
 }
 
-.card:hover {
-    transform: translateY(-5px);
+.menu-card:hover {
+    background-color: #27272a;
+    transform: translateY(-3px); /* Makes it pop up when hovered! */
+    border-color: #00ffcc;
 }
 
-.card h2 {
-    margin-top: 0;
+.menu-card h3 { 
+    margin: 0 0 10px 0; 
+    color: #fff; 
+    font-size: 1.2rem; 
 }
 
-/* Category Colors */
-.alert h2 { color: #ff7b72; }  /* Red for Survival */
-.stock h2 { color: #3fb950; }  /* Green for Stocks */
-.trend h2 { color: #d2a8ff; }  /* Purple for Trends */
-/* News List Styling */
-.news-list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    max-height: 350px; /* Limits the height of the box */
-    overflow-y: auto;  /* Adds a scrollbar if the list is too long! */
+.menu-card p { 
+    margin: 0; 
+    color: #a1a1aa; 
+    font-size: 0.9rem; 
 }
 
-.news-list li {
-    background-color: #21262d; /* Slightly lighter box for each news item */
-    margin-bottom: 12px;
-    padding: 12px;
-    border-radius: 6px;
-    border-left: 4px solid #8b949e;
-    line-height: 1.5;
+/* THE BACK BUTTON */
+.back-button {
+    background-color: #18181b;
+    color: #00ffcc;
+    border: 1px solid #27272a;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    transition: all 0.2s ease;
 }
 
-/* Make links look clean */
-.news-list a {
-    color: #58a6ff;
-    text-decoration: none; /* Removes the underline */
-    font-weight: 500;
+.back-button:hover { 
+    background-color: #27272a; 
 }
 
-.news-list a:hover {
-    text-decoration: underline;
-    color: #79c0ff; /* Lightens up when the user hovers over it */
+/* THE DATA BOXES (Hidden by default now!) */
+.category-box {
+    display: none; /* Hide them initially */
+    background-color: #18181b;
+    border: 1px solid #27272a;
+    border-radius: 12px;
+    padding: 24px;
 }
 
-/* Match the left-border colors to our tags */
-.alert .news-list li { border-left-color: #ff7b72; }
-.stock .news-list li { border-left-color: #3fb950; }
-.trend .news-list li { border-left-color: #d2a8ff; }
-/* AI Executive Summary Styling */
-.ai-summary {
-    background-color: #0d1117;
-    border: 1px solid #30363d;
-    border-top: 3px solid #00f2fe; /* Glowing cyber-blue top edge */
-    color: #c9d1d9;
-    padding: 15px;
-    margin-bottom: 15px;
-    border-radius: 6px;
-    font-style: italic;
-    font-size: 0.95em;
-    line-height: 1.6;
-    box-shadow: 0 4px 15px rgba(0, 242, 254, 0.05); /* Slight blue glow */
-}
-/* 🔮 THE HOLOGRAPHIC GLASS EFFECT */
-.category-box, section.card {
-    /* Make the background a see-through dark color */
-    background: rgba(15, 20, 25, 0.4) !important; 
-    /* The magic trick: blur whatever is spinning behind it! */
-    backdrop-filter: blur(8px); 
-    -webkit-backdrop-filter: blur(8px);
-    /* Add a subtle glowing border */
-    border: 1px solid rgba(0, 255, 204, 0.2) !important;
-    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+h2 { 
+    color: #a1a1aa; 
+    border-bottom: 1px solid #27272a; 
+    padding-bottom: 10px; 
+    font-size: 1rem; 
+    text-shadow: none; 
 }
 
-/* Make sure our text stays bright and readable */
-p, h2, div, li {
-    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+.ai-summary { 
+    background-color: #09090b; 
+    border: 1px solid #27272a; 
+    padding: 16px; 
+    border-radius: 6px; 
+    border-left: 3px solid #00ffcc; 
+    margin-bottom: 20px; 
 }
-/* 🔮 Holographic Glowing Headings */
-h2 {
-    color: #ffffff !important; /* Start with clean, crisp white */
-    text-shadow:
-        0 0 5px rgba(0, 255, 204, 0.7), /* Add a cyan halo */
-        0 0 10px rgba(0, 255, 204, 0.5), /* A slightly larger glow */
-        0 0 20px rgba(0, 255, 204, 0.3) !important; /* The wide, soft halo */
-    letter-spacing: 2px; /* Add some professional character spacing */
-    font-weight: bold;
-    text-transform: uppercase; /* Make them feel more commanding */
+
+ul.news-list { 
+    list-style: none; 
+    padding: 0; 
+}
+
+ul.news-list li { 
+    padding: 12px 0; 
+    border-bottom: 1px dashed #27272a; 
 }
