@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, marked by an escalating geopolitical conflict with Iran driving severe energy and food supply chain disruptions, compounded by explicit cyber threats against major US tech firms which contributes to financial volatility even amidst rapid AI advancements, while significant seismic activity across the Pacific Rim and Central Asia signals ongoing geological instability. To secure assets and ensure physical safety, GlobeGuard must immediately: (1) Bolster cybersecurity defenses, particularly against state-sponsored attacks, and conduct a full IT infrastructure vulnerability assessment ahead of the explicit April 1st threat deadline; (2) Diversify critical supply chains for energy and food-related inputs, simultaneously stress-testing financial holdings against prolonged inflation and geopolitical disruption; and (3) Review and update emergency preparedness plans for all personnel and assets, with particular emphasis on readiness in seismically active regions and for extended global supply chain interruptions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.88 (-1.08%)",
+            "title": "\ud83d\udcb0 NVDA: $201.35 (0.74%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $266.17 (-2.52%)",
+            "title": "\ud83d\udcb0 AAPL: $271.33 (1.94%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $424.16 (1.46%)",
+            "title": "\ud83d\udcb0 MSFT: $430.74 (1.55%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $145.97 (0.05%)",
+            "title": "\ud83d\udcb0 PLTR: $151.2 (3.58%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.91 (0.66%)",
+            "title": "\ud83d\udcb0 AMZN: $252.86 (1.18%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srxu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 12 km SSW of Santiago Quiavicuzas, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sru5"
+            "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of Luganville, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss20"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 160 km SE of Khovd, Mongolia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1k"
+            "title": "\u26a0\ufe0f Mag 5 - 93 km ENE of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1u"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes hitting worldwide, including two major quakes near Japan!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
