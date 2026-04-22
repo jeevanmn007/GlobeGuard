@@ -69,12 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srvu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 35 km WNW of Pante Makasar, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srrc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 146 km E of Miyako, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srs6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 112 km ENE of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srxu"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
