@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.43 (1.28%)",
+            "title": "\ud83d\udcb0 NVDA: $202.5 (1.31%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $273.48 (2.75%)",
+            "title": "\ud83d\udcb0 AAPL: $273.17 (2.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $431.39 (1.7%)",
+            "title": "\ud83d\udcb0 MSFT: $432.92 (2.07%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $151.97 (4.11%)",
+            "title": "\ud83d\udcb0 PLTR: $152.62 (4.56%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.88 (1.59%)",
+            "title": "\ud83d\udcb0 AMZN: $255.36 (2.18%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 140 km E of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srvu"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 112 km ENE of Miyako, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srxu"
         },
@@ -75,6 +71,10 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 93 km ENE of Miyako, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1u"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 160 km SE of Khovd, Mongolia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1k"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
