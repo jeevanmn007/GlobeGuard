@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is critically unstable, marked by an escalating geopolitical conflict with Iran driving severe energy and food supply chain disruptions, compounded by explicit cyber threats against major US tech firms which contributes to financial volatility even amidst rapid AI advancements, while significant seismic activity across the Pacific Rim and Central Asia signals ongoing geological instability. To secure assets and ensure physical safety, GlobeGuard must immediately: (1) Bolster cybersecurity defenses, particularly against state-sponsored attacks, and conduct a full IT infrastructure vulnerability assessment ahead of the explicit April 1st threat deadline; (2) Diversify critical supply chains for energy and food-related inputs, simultaneously stress-testing financial holdings against prolonged inflation and geopolitical disruption; and (3) Review and update emergency preparedness plans for all personnel and assets, with particular emphasis on readiness in seismically active regions and for extended global supply chain interruptions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srtd"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 140 km E of Noda, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srvu"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 12 km SSW of Santiago Quiavicuzas, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sru5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 160 km SE of Khovd, Mongolia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1k"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple strong earthquakes hitting worldwide, including two major quakes near Japan!"
 }
