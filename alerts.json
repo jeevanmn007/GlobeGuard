@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence picture reveals an immediate and multifaceted threat convergence: an escalating geopolitical crisis driven by the Iran conflict is severely disrupting global food and energy supply chains, causing widespread inflation and directly threatening major US tech infrastructure with imminent cyberattacks. Concurrently, moderate but persistent seismic activity globally underscores ongoing natural hazard risks that could further destabilize vulnerable regions. To navigate this complex environment, prioritize immediate and decisive action: first, fortify digital and financial assets through enhanced cyber defenses and strategic investment diversification away from directly targeted sectors. Second, build robust resource resilience by securing essential supplies and accelerating transitions to localized, sustainable energy and food systems. Third, update and practice comprehensive emergency preparedness plans, accounting for both geopolitical instability and natural disaster scenarios to safeguard personnel and physical assets.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.5 (1.31%)",
+            "title": "\ud83d\udcb0 NVDA: $202.88 (0.19%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $273.17 (2.63%)",
+            "title": "\ud83d\udcb0 AAPL: $273.53 (0.13%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $432.92 (2.07%)",
+            "title": "\ud83d\udcb0 MSFT: $421.92 (-2.54%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $152.62 (4.56%)",
+            "title": "\ud83d\udcb0 PLTR: $146.53 (-3.99%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.36 (2.18%)",
+            "title": "\ud83d\udcb0 AMZN: $258.29 (1.15%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss8w"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of Luganville, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss20"
+            "title": "\u26a0\ufe0f Mag 4.9 - 206 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss8a"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple magnitude 5 earthquakes are striking worldwide!"
 }
