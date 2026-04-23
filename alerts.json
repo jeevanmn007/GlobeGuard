@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 112 km ENE of Miyako, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srxu"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of Luganville, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss20"
         },
@@ -73,8 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1u"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 160 km SE of Khovd, Mongolia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1k"
+            "title": "\u26a0\ufe0f Mag 4.9 - 206 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss8a"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 119 km E of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss7p"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
