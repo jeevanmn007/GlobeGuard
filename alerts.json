@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, marked by a pervasive geopolitical crisis centered on the Iran conflict, which is directly fueling a slow-moving food crisis via the Strait of Hormuz blockade, a severe energy crisis, and pervasive inflation that will impact grocery bills long-term. Financially, while major tech stocks are exhibiting strong growth driven by AI innovation, this burgeoning sector faces an imminent and direct cyber threat from Iran targeting major US tech firms on April 1. This digital vulnerability compounds persistent physical risks, as indicated by recent moderate seismic activity across various oceanic plates, underscoring ongoing geological stress. To navigate this complex threat matrix, immediately fortify digital defenses against state-sponsored cyberattacks, diversify and secure essential supply chains to mitigate the impact of ongoing economic crises, and review personal and operational emergency preparedness protocols, particularly for physical infrastructure vulnerabilities.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss20"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
