@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape presents a complex array of escalating threats: the Iran conflict is rapidly manifesting as a multi-faceted crisis, driving significant food and energy supply chain disruptions through the Strait of Hormuz, threatening sustained inflation, and posing explicit cyber attack risks against major US tech firms beginning April 1st. This geopolitical volatility unfolds amidst a booming, AI-driven tech market, yet persistent moderate seismic activity across critical maritime zones further underscores global physical vulnerabilities. Given this intricate threat environment, GlobeGuard directs immediate, proactive measures: secure all digital infrastructure with advanced, zero-trust protocols, particularly against the impending cyber threats; strategically diversify critical supply chains and fortify energy independence to mitigate economic volatility and resource scarcity; and establish robust contingency plans for physical assets and personnel, ensuring readiness for both economic disruptions and potential natural events.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 108 km WNW of Houma, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss90"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss8w"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of Luganville, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss20"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 93 km ENE of Miyako, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1u"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 206 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss8a"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 119 km E of Miyako, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss7p"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Multiple Mag 5 earthquakes strike globally!**"
 }
