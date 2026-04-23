@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex array of escalating threats: the Iran conflict is rapidly manifesting as a multi-faceted crisis, driving significant food and energy supply chain disruptions through the Strait of Hormuz, threatening sustained inflation, and posing explicit cyber attack risks against major US tech firms beginning April 1st. This geopolitical volatility unfolds amidst a booming, AI-driven tech market, yet persistent moderate seismic activity across critical maritime zones further underscores global physical vulnerabilities. Given this intricate threat environment, GlobeGuard directs immediate, proactive measures: secure all digital infrastructure with advanced, zero-trust protocols, particularly against the impending cyber threats; strategically diversify critical supply chains and fortify energy independence to mitigate economic volatility and resource scarcity; and establish robust contingency plans for physical assets and personnel, ensuring readiness for both economic disruptions and potential natural events.",
+    "strategicPlan": "The global situation is critical, marked by a pervasive geopolitical crisis centered on the Iran conflict, which is directly fueling a slow-moving food crisis via the Strait of Hormuz blockade, a severe energy crisis, and pervasive inflation that will impact grocery bills long-term. Financially, while major tech stocks are exhibiting strong growth driven by AI innovation, this burgeoning sector faces an imminent and direct cyber threat from Iran targeting major US tech firms on April 1. This digital vulnerability compounds persistent physical risks, as indicated by recent moderate seismic activity across various oceanic plates, underscoring ongoing geological stress. To navigate this complex threat matrix, immediately fortify digital defenses against state-sponsored cyberattacks, diversify and secure essential supply chains to mitigate the impact of ongoing economic crises, and review personal and operational emergency preparedness protocols, particularly for physical infrastructure vulnerabilities.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -47,19 +47,23 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
         },
         {
+            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+            "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
+        },
+        {
             "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
             "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/"
         },
         {
             "title": "AI Could Democratize One of Tech's Most Valuable Resources",
             "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/"
-        },
-        {
-            "title": "Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit",
-            "link": "https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/"
         }
     ],
     "seismic": [
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss9m"
+        },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 108 km WNW of Houma, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss90"
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of Luganville, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss20"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 93 km ENE of Miyako, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1u"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5 earthquakes strike globally!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported worldwide!"
 }
