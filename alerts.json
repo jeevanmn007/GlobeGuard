@@ -61,20 +61,20 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 11 km SE of Ier\u00e1petra, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - south of the Kermadec Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssgv"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss9m"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 108 km WNW of Houma, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss90"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 147 km E of Tatsug\u014d, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssga"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss8w"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
