@@ -43,10 +43,6 @@
     ],
     "trend": [
         {
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi"
-        },
-        {
             "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
             "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
         },
@@ -57,6 +53,10 @@
         {
             "title": "AI Could Democratize One of Tech's Most Valuable Resources",
             "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/"
+        },
+        {
+            "title": "Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit",
+            "link": "https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/"
         }
     ],
     "seismic": [
