@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a critical convergence of global threats: an active geopolitical conflict in the Strait of Hormuz is instigating a slow-moving food and energy crisis with long-term inflationary pressures, while simultaneously escalating explicit cyberattack threats against major US tech firms. This volatile strategic environment is underpinned by persistent, moderate seismic activity across key global regions, introducing unpredictable physical risks to infrastructure and logistics. Therefore, we issue the following directive: First, immediately audit and diversify your critical supply chains for essential commodities, hedging against inflationary impacts from the ongoing energy and fertilizer shortages. Second, fortify all digital assets and networks with advanced cybersecurity protocols, anticipating state-sponsored cyberattacks, particularly on April 1st. Third, ensure comprehensive physical safety measures are in place, including robust disaster preparedness plans and updated emergency supplies, maintaining acute awareness of regional seismic activity and its potential for disruption.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.58 (4.98%)",
+            "title": "\ud83d\udcb0 NVDA: $209.73 (5.05%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $271.12 (-0.84%)",
+            "title": "\ud83d\udcb0 AAPL: $270.2 (-1.18%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $419.61 (0.93%)",
+            "title": "\ud83d\udcb0 MSFT: $419.52 (0.91%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $140.72 (-0.6%)",
+            "title": "\ud83d\udcb0 PLTR: $142.14 (0.4%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.57 (2.15%)",
+            "title": "\ud83d\udcb0 AMZN: $262.35 (2.85%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssik"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes (Mag 5.3-5.8) just struck Greece, Russia, and the Kermadec Islands!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
