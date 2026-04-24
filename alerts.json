@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshc"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssiy"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - south of the Kermadec Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssgv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 119 km WNW of Ternate, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss9m"
+            "title": "\u26a0\ufe0f Mag 5.3 - 167 km E of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssik"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
