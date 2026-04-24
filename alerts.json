@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape is highly volatile, characterized by a severe convergence of geopolitical, economic, and physical threats. The ongoing Iran conflict is directly fueling a deepening global food and energy crisis through critical supply chain disruptions and inflationary pressures, while simultaneously posing an imminent cyber threat to major US tech firms. Despite this widespread instability, key technology sector stocks show surprising resilience. Concurrently, significant seismic activity across multiple continents, including notable events near Greece, Russia, and the Kermadec Islands, highlights persistent global physical vulnerabilities. To secure assets and ensure safety, immediately fortify digital defenses against sophisticated state-sponsored cyber threats, diversify investments to include essential physical commodities and resilient infrastructure, and proactively establish robust emergency preparedness plans, including supply chain resilience and awareness of regional seismic hazards.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssik"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple significant earthquakes, including a Mag 5.8 near Greece, have just been reported globally!"
 }
