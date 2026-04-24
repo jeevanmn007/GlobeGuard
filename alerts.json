@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence picture reveals an increasingly volatile and interconnected threat landscape: the escalating Iran conflict is directly causing a global energy and slow-moving food crisis due to the Strait of Hormuz blockade and fertilizer shortages, while simultaneously issuing explicit cyber threats against major US tech firms for April 1st, even as financial markets show mixed performance with a strong underlying AI boom. Compounding these geopolitical and economic stressors is a noticeable uptick in significant global seismic activity across multiple tectonic regions. Therefore, it is imperative to: 1) Immediately diversify and secure critical supply chains for essential resources like food and energy, exploring regional alternatives to mitigate geopolitical choke point vulnerabilities. 2) Drastically strengthen cybersecurity postures, conducting comprehensive audits and fortifying defenses against state-sponsored attacks, especially for operations reliant on targeted US tech infrastructure. 3) Review and update emergency preparedness and continuity plans for all personnel and physical assets, given the heightened global seismic instability and potential for cascading disruptions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.64 (-1.41%)",
+            "title": "\ud83d\udcb0 NVDA: $201.9 (1.13%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $273.43 (0.1%)",
+            "title": "\ud83d\udcb0 AAPL: $271.94 (-0.54%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $415.75 (-3.97%)",
+            "title": "\ud83d\udcb0 MSFT: $420.02 (1.03%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $141.57 (-7.24%)",
+            "title": "\ud83d\udcb0 PLTR: $140.64 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.08 (-0.11%)",
+            "title": "\ud83d\udcb0 AMZN: $258.41 (1.31%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssik"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Urgent: Multiple M5+ earthquakes are striking globally, including Greece, Russia, and the Kermadec Islands!**"
 }
