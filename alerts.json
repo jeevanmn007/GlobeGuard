@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Current intelligence indicates a multi-faceted global risk landscape characterized by acute geopolitical pressures in the Middle East, significant economic instability, and persistent natural hazards. The ongoing conflict involving Iran is directly fueling a global food and energy crisis, with the Strait of Hormuz blockade threatening essential supply chains and driving long-term inflation, while also posing a direct cyber threat to US tech infrastructure starting April 1st. Financially, while major tech stocks show resilience, the broader economic outlook is strained by these supply disruptions. Concurrently, a series of moderate seismic events across the Pacific Rim underscores the omnipresent threat of geological instability. To secure assets and ensure safety, we direct you to immediately reinforce cyber defenses and conduct vulnerability assessments for all digital assets, particularly in anticipation of April 1st; diversify critical supply chain dependencies, especially for energy and food-related commodities, and re-evaluate financial hedges against sustained inflationary pressures; and review and update emergency preparedness protocols for both personnel and physical infrastructure, especially in areas prone to seismic activity.",
+    "strategicPlan": "The global intelligence landscape reveals a critical confluence of threats: escalating geopolitical instability from the Iran conflict is actively generating a food and energy crisis with severe economic ramifications and humanitarian displacement, alongside an imminent cyber threat targeting major US tech firms. While key tech stocks show mixed but generally robust performance, the underlying financial and supply chain vulnerabilities are profound. Compounding this, significant seismic activity across the Pacific Rim introduces a persistent physical hazard. Therefore, the strategic directive is to immediately bolster cyber defenses against explicit state-sponsored threats, critically evaluate and secure diversified supply chains to mitigate the escalating food and energy shortages, and reinforce physical safety protocols and emergency preparedness plans in all seismically vulnerable operational areas.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssjg"
         }
     ],
-    "seismicSummary": "Multiple strong Mag 5+ earthquakes, including a 5.4 in Alaska, just struck worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck worldwide, including Alaska, Russia, and Chile!"
 }
