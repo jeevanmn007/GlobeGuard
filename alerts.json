@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating geopolitical and physical volatility. The ongoing Iran war is critically impacting global supply chains, fueling a slow-moving food and energy crisis with long-term inflationary pressures, and contributing to significant humanitarian displacement in the Levant. Concurrently, a credible cyber threat from Iran targeting major US tech firms on April 1 poses an immediate risk to digital infrastructure and market stability, despite current tech sector resilience. These man-made risks are overlaid with heightened physical threats, specifically a cluster of significant magnitude 5+ earthquakes off Kamchatka and another in Chile, indicating elevated tectonic instability in key regions. To secure assets and ensure safety, we must immediately reinforce all digital infrastructure against advanced persistent threats, diversify essential supply chains to build resilience against ongoing resource scarcity, and conduct a thorough geographic risk assessment for personnel and assets, with particular attention to regions prone to both seismic activity and geopolitical volatility.",
+    "strategicPlan": "The global strategic environment is critically strained, defined by the escalating geopolitical fallout from the Iran conflict, which is directly fueling a slow-moving food and energy crisis with humanitarian dimensions and explicit cyber threats against US tech infrastructure, even as major tech stocks show mixed resilience. This instability is compounded by heightened and widespread seismic activity across the Pacific Ring of Fire, posing significant physical risks in strategic locations. To secure assets and personnel, GlobeGuard mandates immediate action: First, enhance digital security protocols rigorously against state-sponsored cyber threats and strategically diversify financial portfolios to insulate against geopolitical and supply chain vulnerabilities. Second, implement comprehensive supply chain resilience plans for critical resources, prioritizing alternative sourcing for energy and food to counter ongoing inflation and potential shortages. Third, rigorously review and update physical safety and emergency response procedures for all personnel and assets, particularly within seismically active regions and areas prone to conflict displacement.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssiy"
+            "title": "\u26a0\ufe0f Mag 5.4 - 83 km SE of Akutan, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sssg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 167 km E of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssik"
+            "title": "\u26a0\ufe0f Mag 5.4 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssiy"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 164 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssjg"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes have struck, mainly near Petropavlovsk-Kamchatsky, Russia, plus one in Chile!"
+    "seismicSummary": "Multiple M5+ earthquakes are striking globally, impacting Alaska, Russia, and Chile!"
 }
