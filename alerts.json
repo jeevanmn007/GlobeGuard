@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, marked by escalating geopolitical conflict in the Middle East disrupting vital food and energy supply chains, creating humanitarian crises, and posing an imminent cyber threat to US tech firms, all while moderate seismic activity persists across various global regions. While certain tech assets show short-term resilience, the broader economic and physical landscape demands proactive mitigation. Therefore, GlobeGuard directs you to immediately bolster all digital defenses and contingency plans against impending state-sponsored cyberattacks; proactively diversify critical resource supply chains and investment portfolios to fortify against inflation and geopolitical shocks; and thoroughly assess and update regional emergency preparedness protocols for physical safety and assets, accounting for both conflict spillover and ongoing tectonic instability.",
+    "strategicPlan": "The global operational environment is critically unstable, marked by escalating geopolitical tensions surrounding the Iran conflict, which is generating a cascading food and energy crisis via supply chain blockades and inflationary pressures, while also displacing populations and threatening direct state-sponsored cyberattacks against US tech infrastructure. Financially, despite this turmoil, the tech sector demonstrates remarkable resilience, with key players showing significant gains, likely driven by AI advancements, yet simultaneously becoming a direct target for cyber warfare. Concurrently, moderate but persistent seismic activity across vulnerable global zones, from Alaska to the Kermadec Islands, underscores an enduring physical threat vector. To safeguard assets and ensure personnel safety, first, prioritize securing and diversifying critical supply chains for essential resources, particularly food and energy, to insulate against ongoing and potential future geopolitical disruptions. Second, immediately fortify all digital infrastructure and cybersecurity defenses against state-sponsored threats, implementing advanced threat detection and rapid response protocols. Third, update and rehearse comprehensive physical safety and emergency preparedness plans, with a specific focus on seismic event response and establishing redundant communication channels.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sssz"
         }
     ],
-    "seismicSummary": "Alert: Multiple significant earthquakes, including M5.4 in Alaska and M5.2 in Russia, have struck globally!"
+    "seismicSummary": "M5.4 Alaska, M5.2 Russia, and other significant quakes just reported globally!"
 }
