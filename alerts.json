@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically strained, defined by the escalating geopolitical fallout from the Iran conflict, which is directly fueling a slow-moving food and energy crisis with humanitarian dimensions and explicit cyber threats against US tech infrastructure, even as major tech stocks show mixed resilience. This instability is compounded by heightened and widespread seismic activity across the Pacific Ring of Fire, posing significant physical risks in strategic locations. To secure assets and personnel, GlobeGuard mandates immediate action: First, enhance digital security protocols rigorously against state-sponsored cyber threats and strategically diversify financial portfolios to insulate against geopolitical and supply chain vulnerabilities. Second, implement comprehensive supply chain resilience plans for critical resources, prioritizing alternative sourcing for energy and food to counter ongoing inflation and potential shortages. Third, rigorously review and update physical safety and emergency response procedures for all personnel and assets, particularly within seismically active regions and areas prone to conflict displacement.",
+    "strategicPlan": "Current intelligence indicates a multi-faceted global risk landscape characterized by acute geopolitical pressures in the Middle East, significant economic instability, and persistent natural hazards. The ongoing conflict involving Iran is directly fueling a global food and energy crisis, with the Strait of Hormuz blockade threatening essential supply chains and driving long-term inflation, while also posing a direct cyber threat to US tech infrastructure starting April 1st. Financially, while major tech stocks show resilience, the broader economic outlook is strained by these supply disruptions. Concurrently, a series of moderate seismic events across the Pacific Rim underscores the omnipresent threat of geological instability. To secure assets and ensure safety, we direct you to immediately reinforce cyber defenses and conduct vulnerability assessments for all digital assets, particularly in anticipation of April 1st; diversify critical supply chain dependencies, especially for energy and food-related commodities, and re-evaluate financial hedges against sustained inflationary pressures; and review and update emergency preparedness protocols for both personnel and physical infrastructure, especially in areas prone to seismic activity.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sssg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssiy"
+            "title": "\u26a0\ufe0f Mag 5.2 - 34 km SE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sst4"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 164 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssjg"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking globally, impacting Alaska, Russia, and Chile!"
+    "seismicSummary": "Multiple strong Mag 5+ earthquakes, including a 5.4 in Alaska, just struck worldwide!"
 }
