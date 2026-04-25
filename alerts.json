@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is marked by escalating geopolitical and physical volatility. The ongoing Iran war is critically impacting global supply chains, fueling a slow-moving food and energy crisis with long-term inflationary pressures, and contributing to significant humanitarian displacement in the Levant. Concurrently, a credible cyber threat from Iran targeting major US tech firms on April 1 poses an immediate risk to digital infrastructure and market stability, despite current tech sector resilience. These man-made risks are overlaid with heightened physical threats, specifically a cluster of significant magnitude 5+ earthquakes off Kamchatka and another in Chile, indicating elevated tectonic instability in key regions. To secure assets and ensure safety, we must immediately reinforce all digital infrastructure against advanced persistent threats, diversify essential supply chains to build resilience against ongoing resource scarcity, and conduct a thorough geographic risk assessment for personnel and assets, with particular attention to regions prone to both seismic activity and geopolitical volatility.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssjg"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes have struck, mainly near Petropavlovsk-Kamchatsky, Russia, plus one in Chile!"
 }
