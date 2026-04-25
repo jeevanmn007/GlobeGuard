@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a critical confluence of threats: escalating geopolitical instability from the Iran conflict is actively generating a food and energy crisis with severe economic ramifications and humanitarian displacement, alongside an imminent cyber threat targeting major US tech firms. While key tech stocks show mixed but generally robust performance, the underlying financial and supply chain vulnerabilities are profound. Compounding this, significant seismic activity across the Pacific Rim introduces a persistent physical hazard. Therefore, the strategic directive is to immediately bolster cyber defenses against explicit state-sponsored threats, critically evaluate and secure diversified supply chains to mitigate the escalating food and energy shortages, and reinforce physical safety protocols and emergency preparedness plans in all seismically vulnerable operational areas.",
+    "strategicPlan": "The global environment demands immediate strategic attention, marked by a critical confluence of geopolitical, economic, and physical threats. The escalating Iran conflict has ignited a multifaceted crisis, leading to significant disruptions in global food and energy supply chains, humanitarian displacement, and a credible, imminent cyber threat against major US tech firms, despite a resilient tech market performance. Simultaneously, persistent global seismic activity, with multiple recent magnitude 5+ earthquakes, highlights an enduring physical risk. To navigate this complex landscape, GlobeGuard advises three immediate actions: first, fortify digital and financial assets through robust cybersecurity protocols and strategic portfolio diversification, particularly given the explicit cyber threats; second, enhance supply chain resilience by evaluating critical dependencies and pre-positioning essential resources to mitigate the impacts of sustained food and energy volatility; and third, meticulously review and update all emergency preparedness and physical safety protocols for personnel and infrastructure, accounting for both geopolitical instability and the persistent seismic threat.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sst4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 164 km E of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssja"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 76 km NNW of Vallenar, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssjg"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssn7"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck worldwide, including Alaska, Russia, and Chile!"
+    "seismicSummary": "Multiple M4.9-5.4 earthquakes just struck Alaska, Russia, Chile, and the Kermadec Islands!"
 }
