@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment demands immediate strategic attention, marked by a critical confluence of geopolitical, economic, and physical threats. The escalating Iran conflict has ignited a multifaceted crisis, leading to significant disruptions in global food and energy supply chains, humanitarian displacement, and a credible, imminent cyber threat against major US tech firms, despite a resilient tech market performance. Simultaneously, persistent global seismic activity, with multiple recent magnitude 5+ earthquakes, highlights an enduring physical risk. To navigate this complex landscape, GlobeGuard advises three immediate actions: first, fortify digital and financial assets through robust cybersecurity protocols and strategic portfolio diversification, particularly given the explicit cyber threats; second, enhance supply chain resilience by evaluating critical dependencies and pre-positioning essential resources to mitigate the impacts of sustained food and energy volatility; and third, meticulously review and update all emergency preparedness and physical safety protocols for personnel and infrastructure, accounting for both geopolitical instability and the persistent seismic threat.",
+    "strategicPlan": "The global environment is critically strained, marked by escalating geopolitical conflict in the Middle East that is driving a slow-moving food crisis due to the Strait of Hormuz blockade and an energy crisis reflected in surging gas prices and panic buying, with long-term inflationary pressures on grocery bills and significant humanitarian displacement. Concurrently, a credible threat of cyberattacks from Iran targeting major US tech firms on April 1 introduces a severe digital dimension to the conflict, posing direct risks to the resilient but volatile tech sector. This is set against a backdrop of persistent, moderate seismic activity across several key regions, highlighting continuous natural physical threats. To secure assets and ensure physical safety, first, immediately enhance all digital asset security protocols, including multi-factor authentication and robust data backups, to mitigate the impending cyber threat. Second, bolster physical resilience by establishing at least a 30-day supply of essential provisions (food, water, medical supplies) and review local energy contingency plans to counteract the deepening food and energy supply chain disruptions. Third, maintain heightened situational awareness of both geopolitical developments, especially regarding cyber warfare escalation, and local natural disaster risks, ensuring emergency communication and evacuation plans are current and understood.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sst4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 76 km NNW of Vallenar, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssjg"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssn7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 35 km NW of Teeli, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sssz"
         }
     ],
-    "seismicSummary": "Multiple M4.9-5.4 earthquakes just struck Alaska, Russia, Chile, and the Kermadec Islands!"
+    "seismicSummary": "\u26a0\ufe0f Multiple significant earthquakes, including a Mag 5.4 in Alaska and a 5.2 in Russia, just struck globally!"
 }
