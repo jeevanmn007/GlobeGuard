@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is critically unstable, marked by escalating geopolitical tensions surrounding the Iran conflict, which is generating a cascading food and energy crisis via supply chain blockades and inflationary pressures, while also displacing populations and threatening direct state-sponsored cyberattacks against US tech infrastructure. Financially, despite this turmoil, the tech sector demonstrates remarkable resilience, with key players showing significant gains, likely driven by AI advancements, yet simultaneously becoming a direct target for cyber warfare. Concurrently, moderate but persistent seismic activity across vulnerable global zones, from Alaska to the Kermadec Islands, underscores an enduring physical threat vector. To safeguard assets and ensure personnel safety, first, prioritize securing and diversifying critical supply chains for essential resources, particularly food and energy, to insulate against ongoing and potential future geopolitical disruptions. Second, immediately fortify all digital infrastructure and cybersecurity defenses against state-sponsored threats, implementing advanced threat detection and rapid response protocols. Third, update and rehearse comprehensive physical safety and emergency preparedness plans, with a specific focus on seismic event response and establishing redundant communication channels.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sst4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssn7"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.7 - 35 km NW of Teeli, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sssz"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.6 - 22 km WSW of Tournavista, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sst2"
         }
     ],
-    "seismicSummary": "M5.4 Alaska, M5.2 Russia, and other significant quakes just reported globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
