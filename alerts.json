@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 11 km SE of Ier\u00e1petra, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssiy"
         },
@@ -73,8 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssik"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 119 km WNW of Ternate, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshk"
+            "title": "\u26a0\ufe0f Mag 5.1 - 164 km E of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssja"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 76 km NNW of Vallenar, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssjg"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
