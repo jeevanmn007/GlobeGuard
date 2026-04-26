@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "GlobeGuard assesses an escalating and multi-dimensional threat landscape. Geopolitically, the protracted conflict in Iran is directly causing a global food and energy crisis via the Strait of Hormuz blockade, with explicit threats now extending to cyberattacks against major US tech firms. Financially, while key technology stocks demonstrate remarkable resilience, this masks an underlying economic fragility driven by soaring commodity prices and supply chain disruptions. This volatile situation is compounded by persistent, widespread seismic activity globally, indicating a baseline level of physical instability. To navigate these converging risks, GlobeGuard directs immediate action: first, fortify digital infrastructure and implement robust cyber defense protocols in anticipation of state-sponsored tech attacks; second, strategically diversify and localize critical supply chains for essential commodities and energy resources to mitigate geopolitical choke points; and third, ensure comprehensive personal and organizational physical preparedness, including emergency contingency plans and asset redundancy, in recognition of ongoing global seismic volatility and potential broader instability.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssxt"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 83 km SE of Akutan, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sssg"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 34 km SE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sst4"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 82 km SSW of Paracas, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssvq"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sswn"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Urgent: Multiple M5 quakes hitting globally!"
 }
