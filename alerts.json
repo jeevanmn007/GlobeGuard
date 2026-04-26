@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an immediate and intensifying global risk matrix, dominated by the destabilizing Iran conflict, which is critically impacting global food and energy security, driving inflation, and directly threatening a significant cyber offensive against major US tech firms by April 1. This geopolitical and digital volatility unfolds against a backdrop of persistent, moderate global seismic activity, highlighting multifaceted vulnerabilities. To secure assets and ensure physical safety, clients are directed to (1) urgently fortify all digital defenses and conduct comprehensive vulnerability assessments, especially concerning critical infrastructure and financial holdings; (2) immediately re-evaluate and diversify supply chains for essential commodities to mitigate the ongoing and projected impacts of energy and food crises; and (3) update comprehensive physical preparedness plans, ensuring contingency measures are in place for both man-made disruptions and natural events, while strategically reviewing financial portfolios for exposure to anticipated market volatility.",
+    "strategicPlan": "The global risk posture is critically elevated, primarily driven by the escalating Iran conflict, which is now exerting broad-spectrum pressure across global supply chains, fueling a slow-moving food and energy crisis with lasting economic impacts on consumer costs, and is explicitly threatening major US tech infrastructure with imminent cyber attacks. While key tech financial assets currently exhibit relative stability, this resilience is precarious given the direct geopolitical cyber threats, all set against a backdrop of persistent moderate seismic activity worldwide, underscoring ongoing physical vulnerabilities. To navigate this complex environment, immediately reinforce all digital and operational defenses against state-sponsored cyber intrusions, aggressively diversify and secure critical supply chains to build resilience against geopolitical disruptions, and ensure robust, up-to-date emergency preparedness protocols are in place for physical assets and personnel, particularly in seismically active zones.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssxt"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - 77 km ENE of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st11"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 82 km SSW of Paracas, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssvq"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sswn"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 14 km ENE of Kentr\u00ed, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssve"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 5.5 in Mongolia, just reported globally!"
+    "seismicSummary": "Urgent: Multiple strong quakes just hit Mongolia, Japan, Peru, and New Zealand!"
 }
