@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a critical, multi-domain threat environment: the ongoing Iran conflict is precipitating a severe global food and energy crisis due to Strait of Hormuz disruptions and projected long-term inflation, while the digital sphere faces explicit cyber warfare threats from Iran against US tech infrastructure amidst an otherwise resilient tech sector showing AI-driven growth. This geopolitical and economic instability is compounded by persistent, significant seismic activity worldwide, underscoring a pervasive physical vulnerability. To navigate this complex landscape, GlobeGuard directs the following urgent actions: proactively secure and diversify critical supply chains for essential commodities; immediately bolster cyber defenses against state-sponsored threats, especially targeting tech assets; and comprehensively review and update emergency preparedness protocols for both geopolitical and natural disaster scenarios, including physical security and personnel safety plans.",
+    "strategicPlan": "The global strategic environment is critically unstable, defined by a multi-faceted crisis: the Iran conflict is driving severe, long-term global food and energy inflation via supply chain disruptions and blockade, alongside an explicit, imminent cyber warfare threat against US tech firms. This geopolitical and economic volatility unfolds against a backdrop of persistent moderate global seismic activity, underscoring inherent physical risks. To secure your assets and physical safety, immediately establish robust financial resilience through asset diversification and securing liquid capital against sustained economic shocks; rigorously enhance all digital defenses and critical data backup protocols against state-sponsored cyber threats; and decisively review and reinforce physical emergency preparedness plans, including essential supplies, in anticipation of prolonged disruptions and potential localized physical events.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssxt"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 34 km SE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sst4"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 82 km SSW of Paracas, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssvq"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sswn"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 14 km ENE of Kentr\u00ed, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssve"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 **Multiple strong earthquakes (Mag 4.9-5.9) strike globally, hitting Mongolia, Russia, Peru, and New Zealand!**"
+    "seismicSummary": "**Multiple significant earthquakes, including a Mag 5.9 in Mongolia, are striking worldwide!**"
 }
