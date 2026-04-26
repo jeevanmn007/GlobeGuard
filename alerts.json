@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, characterized by a complex interplay of escalating geopolitical instability stemming from the Iran conflict, which is profoundly disrupting critical global food and energy supply chains, driving inflation, and posing direct cyber threats to major tech infrastructure. Financially, while specific tech sectors show some resilience, the broader economic outlook is shadowed by these disruptions and long-term inflationary pressures. Concurrently, heightened seismic activity across multiple key regions underscores an increasing physical risk from natural disasters. To navigate this volatile environment, immediately review and secure critical supply chain redundancies, particularly for food and energy; fortify all digital assets against state-sponsored cyber intrusions with an emphasis on robust threat detection and incident response; and finally, conduct an urgent assessment of physical infrastructure and emergency preparedness plans, especially in seismically active zones, to mitigate potential natural disaster impacts.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.1 - 18 km W of Sarabetsu, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st1m"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 163 km SE of Khovd, Mongolia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssxt"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st11"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 82 km SSW of Paracas, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssvq"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sswn"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5-5.5 earthquakes are hitting worldwide!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
