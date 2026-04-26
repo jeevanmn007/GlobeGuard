@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating and multi-dimensional threat landscape. Geopolitically, the protracted conflict in Iran is directly causing a global food and energy crisis via the Strait of Hormuz blockade, with explicit threats now extending to cyberattacks against major US tech firms. Financially, while key technology stocks demonstrate remarkable resilience, this masks an underlying economic fragility driven by soaring commodity prices and supply chain disruptions. This volatile situation is compounded by persistent, widespread seismic activity globally, indicating a baseline level of physical instability. To navigate these converging risks, GlobeGuard directs immediate action: first, fortify digital infrastructure and implement robust cyber defense protocols in anticipation of state-sponsored tech attacks; second, strategically diversify and localize critical supply chains for essential commodities and energy resources to mitigate geopolitical choke points; and third, ensure comprehensive personal and organizational physical preparedness, including emergency contingency plans and asset redundancy, in recognition of ongoing global seismic volatility and potential broader instability.",
+    "strategicPlan": "The global intelligence assessment indicates a critical, multi-domain threat environment: the ongoing Iran conflict is precipitating a severe global food and energy crisis due to Strait of Hormuz disruptions and projected long-term inflation, while the digital sphere faces explicit cyber warfare threats from Iran against US tech infrastructure amidst an otherwise resilient tech sector showing AI-driven growth. This geopolitical and economic instability is compounded by persistent, significant seismic activity worldwide, underscoring a pervasive physical vulnerability. To navigate this complex landscape, GlobeGuard directs the following urgent actions: proactively secure and diversify critical supply chains for essential commodities; immediately bolster cyber defenses against state-sponsored threats, especially targeting tech assets; and comprehensively review and update emergency preparedness protocols for both geopolitical and natural disaster scenarios, including physical security and personnel safety plans.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sswn"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5 quakes hitting globally!"
+    "seismicSummary": "\ud83d\udea8 **Multiple strong earthquakes (Mag 4.9-5.9) strike globally, hitting Mongolia, Russia, Peru, and New Zealand!**"
 }
