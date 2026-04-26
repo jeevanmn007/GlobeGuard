@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by a severe and escalating geopolitical crisis centered on Iran, driving a multi-faceted food and energy scarcity exacerbated by the Strait of Hormuz blockade, resulting in widespread economic strain and persistent inflation, while simultaneously facing an explicit cyber threat to major US tech firms on April 1st. Financially, major tech stocks show some resilience, yet the broader economic impact points to significant long-term challenges. Concurrently, moderate seismic activity across various regions, though not immediately globally disruptive, underscores the constant background threat of physical instability. To secure assets and physical safety, GlobeGuard recommends the following immediate actions: First, urgently fortify all digital infrastructure and implement advanced threat detection and response protocols against the explicit cyber threat targeting US tech firms, ensuring robust data backups and operational continuity plans are in place. Second, proactively secure critical supply chains for essential resources, particularly food and energy, by diversifying sourcing and establishing contingency reserves to mitigate the impact of blockades and inflation-driven scarcity. Third, review and update all regional emergency preparedness plans, focusing on physical safety protocols for personnel and assets in areas vulnerable to supply disruptions, civil unrest stemming from economic hardship, or localized natural disasters, ensuring readiness for a spectrum of potential disruptions.",
+    "strategicPlan": "The global landscape is currently defined by a critical confluence of threats: a deepening geopolitical crisis surrounding the Iran conflict, which is directly fueling a pervasive worldwide food and energy crisis exacerbated by blockades and inflation, alongside an explicit, time-sensitive cyber threat targeting major US tech firms. This complex instability is underscored by persistent moderate seismic activity across multiple regions, reminding us of ongoing physical hazards. To navigate this volatile environment effectively and secure assets and physical safety, take the following immediate actions: first, **fortify all digital and financial assets** by immediately enhancing cyber defenses, especially given the April 1st threat, and diversify investment portfolios to mitigate inflationary pressures and market volatility. Second, **proactively secure essential resources** by establishing robust, diversified supply lines for food, water, and energy, cushioning against potential supply chain disruptions and price surges from global conflicts. Third, **implement and regularly review comprehensive emergency preparedness plans**, including a 72-hour survival kit and clear communication strategies, to ensure physical safety against both geopolitical fallout and potential natural disasters like earthquakes.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 168 km SE of Khovd, Mongolia",
+            "title": "\u26a0\ufe0f Mag 5.5 - 163 km SE of Khovd, Mongolia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssxt"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssve"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 **Global seismic activity: A 5.9 earthquake just hit Mongolia, with other significant quakes reported worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes reported globally, led by a Mag 5.5 in Mongolia!"
 }
