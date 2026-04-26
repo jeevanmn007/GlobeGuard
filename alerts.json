@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, defined by a multi-faceted crisis: the Iran conflict is driving severe, long-term global food and energy inflation via supply chain disruptions and blockade, alongside an explicit, imminent cyber warfare threat against US tech firms. This geopolitical and economic volatility unfolds against a backdrop of persistent moderate global seismic activity, underscoring inherent physical risks. To secure your assets and physical safety, immediately establish robust financial resilience through asset diversification and securing liquid capital against sustained economic shocks; rigorously enhance all digital defenses and critical data backup protocols against state-sponsored cyber threats; and decisively review and reinforce physical emergency preparedness plans, including essential supplies, in anticipation of prolonged disruptions and potential localized physical events.",
+    "strategicPlan": "The global strategic environment is critically unstable, dominated by the escalating humanitarian and economic fallout from the protracted conflict in Iran, which has triggered a slow-moving food and energy crisis via the Strait of Hormuz blockade and threatens long-term inflationary pressures on essential goods worldwide. While the tech sector shows surprising financial resilience with several major stocks performing strongly, this is immediately challenged by Iran's explicit threat to launch cyberattacks against US tech firms on April 1, introducing a severe digital vulnerability to critical infrastructure. Concurrently, consistent moderate seismic activity across diverse regions underscores a persistent baseline of physical hazards. In light of this multifaceted threat landscape, GlobeGuard advises partners to immediately secure and diversify critical supply chains for essential resources, fortify all digital defenses against anticipated cyberattacks with robust incident response planning, and review and enhance physical security and emergency preparedness protocols for both personnel and critical assets, particularly in vulnerable regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssve"
         }
     ],
-    "seismicSummary": "**Multiple significant earthquakes, including a Mag 5.9 in Mongolia, are striking worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes, up to Mag 5.9, are striking globally!"
 }
