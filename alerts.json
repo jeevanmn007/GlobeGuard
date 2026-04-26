@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, marked by a multi-front crisis: Geopolitically, the escalating conflict in Iran is directly fueling a global food and energy crisis through the Strait of Hormuz blockade and widespread fertilizer shortages, driving inflation and impacting worldwide stability, with an imminent threat of cyberattacks against major US tech firms on April 1st. Financially, while some tech stocks show resilience, this cyber threat poses a significant unquantified risk to market stability. Concurrently, moderate yet widespread seismic activity across key regions, including Alaska, Russia, Peru, and New Zealand, underscores persistent physical vulnerabilities that demand attention. In response, GlobeGuard advises immediate action: **First**, elevate and fortify digital security protocols across all critical infrastructure and financial platforms in anticipation of the April 1st cyber threat. **Second**, strategically diversify supply chains and rebalance investment portfolios to mitigate the compounding effects of food and energy inflation and potential future trade disruptions. **Third**, rigorously review and update emergency preparedness plans for both physical safety and communication resilience, especially for personnel and assets in seismically active zones.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - 168 km SE of Khovd, Mongolia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssxt"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 83 km SE of Akutan, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sssg"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 82 km SSW of Paracas, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssvq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sswn"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5 quakes strike globally: Alaska, Russia, Peru, and New Zealand!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
