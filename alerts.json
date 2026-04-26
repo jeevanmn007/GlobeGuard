@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk posture is critically elevated, primarily driven by the escalating Iran conflict, which is now exerting broad-spectrum pressure across global supply chains, fueling a slow-moving food and energy crisis with lasting economic impacts on consumer costs, and is explicitly threatening major US tech infrastructure with imminent cyber attacks. While key tech financial assets currently exhibit relative stability, this resilience is precarious given the direct geopolitical cyber threats, all set against a backdrop of persistent moderate seismic activity worldwide, underscoring ongoing physical vulnerabilities. To navigate this complex environment, immediately reinforce all digital and operational defenses against state-sponsored cyber intrusions, aggressively diversify and secure critical supply chains to build resilience against geopolitical disruptions, and ensure robust, up-to-date emergency preparedness protocols are in place for physical assets and personnel, particularly in seismically active zones.",
+    "strategicPlan": "The global situation demands immediate attention, characterized by a complex interplay of escalating geopolitical instability stemming from the Iran conflict, which is profoundly disrupting critical global food and energy supply chains, driving inflation, and posing direct cyber threats to major tech infrastructure. Financially, while specific tech sectors show some resilience, the broader economic outlook is shadowed by these disruptions and long-term inflationary pressures. Concurrently, heightened seismic activity across multiple key regions underscores an increasing physical risk from natural disasters. To navigate this volatile environment, immediately review and secure critical supply chain redundancies, particularly for food and energy; fortify all digital assets against state-sponsored cyber intrusions with an emphasis on robust threat detection and incident response; and finally, conduct an urgent assessment of physical infrastructure and emergency preparedness plans, especially in seismically active zones, to mitigate potential natural disaster impacts.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sswn"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong quakes just hit Mongolia, Japan, Peru, and New Zealand!"
+    "seismicSummary": "**Multiple Mag 5-5.5 earthquakes are hitting worldwide!**"
 }
