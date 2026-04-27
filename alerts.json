@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, characterized by simultaneous and escalating geopolitical, financial, and physical threats. The protracted conflict in Iran is directly fueling a severe global energy and food crisis, with the Strait of Hormuz blockade amplifying long-term supply chain vulnerabilities, while stock markets reflect underlying volatility despite some tech sector resilience. This geopolitical instability is compounded by an explicit and imminent cyber threat from Iran targeting major US tech firms, alongside a persistent pattern of moderate to strong seismic activity across key regions including Japan, Tajikistan, and Greece. To navigate this complex landscape, GlobeGuard directs immediate action: 1) **Secure supply chain resilience** by diversifying sources and assessing essential inventories to mitigate escalating food and energy disruptions. 2) **Fortify digital defenses** with heightened vigilance and robust cybersecurity protocols against state-sponsored attacks, particularly for critical infrastructure and data assets. 3) **Enhance physical preparedness** by reviewing and updating emergency response plans for personnel and assets in seismically active zones, ensuring readiness for potential natural disasters.",
+    "strategicPlan": "The global landscape is critically unstable, driven by a severe geopolitical conflict centered on Iran, which is causing widespread food and energy crises, significant supply chain disruptions, and escalating global economic instability, now compounded by explicit Iranian cyber threats against major US tech firms that could trigger widespread digital and financial market disruption. This complex environment is further complicated by a notable increase in seismic activity across multiple regions, presenting independent physical threats demanding immediate preparedness. Therefore, GlobeGuard advises decisive action: **first**, fortify both digital and physical defenses by enhancing cybersecurity protocols against state-sponsored attacks and ensuring robust contingency plans for physical safety and critical infrastructure resilience; **second**, proactively diversify critical supply chains for essential resources like food, energy, and industrial components to mitigate sustained geopolitical and inflationary pressures; and **third**, strategically re-evaluate asset portfolios, favoring resilient sectors and inflation-hedged investments while preparing for significant market volatility from both geopolitical events and potential cyber incidents.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.85 (2.2%)",
+            "title": "\ud83d\udcb0 NVDA: $215.32 (3.39%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $266.6 (-1.65%)",
+            "title": "\ud83d\udcb0 AAPL: $266.43 (-1.71%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $423.89 (-0.17%)",
+            "title": "\ud83d\udcb0 MSFT: $426.29 (0.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.1 (0.01%)",
+            "title": "\ud83d\udcb0 PLTR: $143.32 (0.16%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.43 (-0.21%)",
+            "title": "\ud83d\udcb0 AMZN: $261.82 (-0.82%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 77 km ENE of Miyako, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st11"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 40 km ESE of Ier\u00e1petra, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3w"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.6 - 103 km SW of Modisi, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3z"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple earthquakes up to Mag 6.1 reported across Japan, Tajikistan, and Greece!"
+    "seismicSummary": "**\ud83d\udea8 Urgent: Major Mag 6.1 earthquake in Japan reported amidst multiple strong quakes worldwide!**"
 }
