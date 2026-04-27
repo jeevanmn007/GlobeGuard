@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "Our current intelligence indicates a highly volatile global environment, marked by an acute convergence of geopolitical, economic, and physical threats. The protracted conflict impacting Iran continues to exert severe pressure on global food and energy security, driving widespread inflation and supply chain fragilities, while simultaneously posing an explicit and imminent cyber warfare threat against major US tech firms, signaling a new front of aggression. Concurrently, elevated seismic activity across critical regions including Japan, Tajikistan, and Greece underscores persistent physical risks to infrastructure and regional stability, all against a backdrop of cautious financial markets reflecting this uncertainty. To secure assets and ensure physical safety, we must immediately: 1) Mandate a comprehensive review and hardening of all critical digital infrastructure against state-sponsored cyber incursions, particularly ahead of the stated April 1 threat; 2) Implement strategies for immediate diversification and localization of essential food and energy supply chains to mitigate ongoing resource scarcity and price volatility; and 3) Update and drill physical emergency response protocols for facilities in seismically active or geopolitically sensitive zones, ensuring robust contingency planning for supply disruptions and potential infrastructure damage.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.27 (4.32%)",
+            "title": "\ud83d\udcb0 NVDA: $210.18 (0.92%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $271.06 (-0.87%)",
+            "title": "\ud83d\udcb0 AAPL: $267.47 (-1.32%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $424.62 (2.13%)",
+            "title": "\ud83d\udcb0 MSFT: $419.77 (-1.14%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.09 (1.07%)",
+            "title": "\ud83d\udcb0 PLTR: $143.38 (0.2%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.99 (3.49%)",
+            "title": "\ud83d\udcb0 AMZN: $261.28 (-1.03%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3w"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple earthquakes reported, including a Mag 6.1 in Japan!"
 }
