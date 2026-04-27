@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our current intelligence indicates a highly volatile global environment, marked by an acute convergence of geopolitical, economic, and physical threats. The protracted conflict impacting Iran continues to exert severe pressure on global food and energy security, driving widespread inflation and supply chain fragilities, while simultaneously posing an explicit and imminent cyber warfare threat against major US tech firms, signaling a new front of aggression. Concurrently, elevated seismic activity across critical regions including Japan, Tajikistan, and Greece underscores persistent physical risks to infrastructure and regional stability, all against a backdrop of cautious financial markets reflecting this uncertainty. To secure assets and ensure physical safety, we must immediately: 1) Mandate a comprehensive review and hardening of all critical digital infrastructure against state-sponsored cyber incursions, particularly ahead of the stated April 1 threat; 2) Implement strategies for immediate diversification and localization of essential food and energy supply chains to mitigate ongoing resource scarcity and price volatility; and 3) Update and drill physical emergency response protocols for facilities in seismically active or geopolitically sensitive zones, ensuring robust contingency planning for supply disruptions and potential infrastructure damage.",
+    "strategicPlan": "The global situation is critical, characterized by simultaneous and escalating geopolitical, financial, and physical threats. The protracted conflict in Iran is directly fueling a severe global energy and food crisis, with the Strait of Hormuz blockade amplifying long-term supply chain vulnerabilities, while stock markets reflect underlying volatility despite some tech sector resilience. This geopolitical instability is compounded by an explicit and imminent cyber threat from Iran targeting major US tech firms, alongside a persistent pattern of moderate to strong seismic activity across key regions including Japan, Tajikistan, and Greece. To navigate this complex landscape, GlobeGuard directs immediate action: 1) **Secure supply chain resilience** by diversifying sources and assessing essential inventories to mitigate escalating food and energy disruptions. 2) **Fortify digital defenses** with heightened vigilance and robust cybersecurity protocols against state-sponsored attacks, particularly for critical infrastructure and data assets. 3) **Enhance physical preparedness** by reviewing and updating emergency response plans for personnel and assets in seismically active zones, ensuring readiness for potential natural disasters.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.18 (0.92%)",
+            "title": "\ud83d\udcb0 NVDA: $212.85 (2.2%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $267.47 (-1.32%)",
+            "title": "\ud83d\udcb0 AAPL: $266.6 (-1.65%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $419.77 (-1.14%)",
+            "title": "\ud83d\udcb0 MSFT: $423.89 (-0.17%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.38 (0.2%)",
+            "title": "\ud83d\udcb0 PLTR: $143.1 (0.01%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.28 (-1.03%)",
+            "title": "\ud83d\udcb0 AMZN: $263.43 (-0.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3w"
         }
     ],
-    "seismicSummary": "Multiple earthquakes reported, including a Mag 6.1 in Japan!"
+    "seismicSummary": "\ud83d\udea8 Multiple earthquakes up to Mag 6.1 reported across Japan, Tajikistan, and Greece!"
 }
