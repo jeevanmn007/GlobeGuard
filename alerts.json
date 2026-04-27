@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st1m"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 163 km SE of Khovd, Mongolia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssxt"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 77 km ENE of Miyako, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st11"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 218 km WNW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st08"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 74 km E of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssyh"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
