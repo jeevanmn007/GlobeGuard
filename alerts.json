@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically volatile, characterized by an escalating geopolitical conflict with Iran driving a slow-moving food and energy crisis exacerbated by the Strait of Hormuz blockade, and a direct, imminent cyber threat against major US tech firms slated for April 1. This complex landscape is further complicated by persistent seismic activity across key regions, including two significant quakes in Japan, one in Tajikistan, and another off Russia, indicating underlying physical vulnerabilities. To navigate this confluence of threats, we must: 1) Immediately elevate and stress-test all cyber defenses and incident response protocols, particularly concerning digital assets and intellectual property, in anticipation of the April 1 tech threat from Iran. 2) Proactively diversify and bolster critical supply chain resilience for essential resources, including food, fertilizer, and energy, to mitigate the cascading economic impacts of the ongoing war. 3) Reinforce physical safety protocols and disaster preparedness plans for personnel and infrastructure, especially in seismically active regions and areas critical to global supply lines.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st11"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 218 km WNW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st08"
+            "title": "\u26a0\ufe0f Mag 4.9 - 40 km ESE of Ier\u00e1petra, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3w"
         }
     ],
-    "seismicSummary": "**M6.1 strikes Japan, with other significant quakes reported worldwide!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
