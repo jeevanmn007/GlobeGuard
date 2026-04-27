@@ -25,7 +25,7 @@
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $267.62 (-1.27%)",
+            "title": "\ud83d\udcb0 AAPL: $267.61 (-1.27%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
@@ -37,7 +37,7 @@
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.07 (-1.11%)",
+            "title": "\ud83d\udcb0 AMZN: $261.12 (-1.09%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -60,10 +60,6 @@
         }
     ],
     "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 6.1 - 18 km W of Sarabetsu, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st1m"
-        },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 26 km SW of Khorugh, Tajikistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3s"
