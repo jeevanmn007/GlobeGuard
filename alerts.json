@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is critically unstable, driven by a severe geopolitical conflict centered on Iran, which is causing widespread food and energy crises, significant supply chain disruptions, and escalating global economic instability, now compounded by explicit Iranian cyber threats against major US tech firms that could trigger widespread digital and financial market disruption. This complex environment is further complicated by a notable increase in seismic activity across multiple regions, presenting independent physical threats demanding immediate preparedness. Therefore, GlobeGuard advises decisive action: **first**, fortify both digital and physical defenses by enhancing cybersecurity protocols against state-sponsored attacks and ensuring robust contingency plans for physical safety and critical infrastructure resilience; **second**, proactively diversify critical supply chains for essential resources like food, energy, and industrial components to mitigate sustained geopolitical and inflationary pressures; and **third**, strategically re-evaluate asset portfolios, favoring resilient sectors and inflation-hedged investments while preparing for significant market volatility from both geopolitical events and potential cyber incidents.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.32 (3.39%)",
+            "title": "\ud83d\udcb0 NVDA: $216.61 (4.0%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $266.43 (-1.71%)",
+            "title": "\ud83d\udcb0 AAPL: $267.62 (-1.27%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $426.29 (0.39%)",
+            "title": "\ud83d\udcb0 MSFT: $424.82 (0.05%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.32 (0.16%)",
+            "title": "\ud83d\udcb0 PLTR: $143.1 (0.01%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.82 (-0.82%)",
+            "title": "\ud83d\udcb0 AMZN: $261.07 (-1.11%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3z"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Urgent: Major Mag 6.1 earthquake in Japan reported amidst multiple strong quakes worldwide!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
