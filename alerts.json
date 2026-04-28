@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critical confluence of threats: a severe and escalating geopolitical crisis originating from the Iran war is triggering a global food and fuel shortage, driving significant displacement and persistent inflation, while the digital domain faces rising cyber threats and fundamental shifts in the AI sector. Concurrently, moderate seismic activity continues across multiple regions. To secure assets and physical safety, first, strategically hedge against inflation by diversifying financial holdings towards resilient assets and fortifying essential supply chains; second, thoroughly review and update all emergency preparedness protocols, including food, water, and communication plans, for potential disruptions; and third, immediately bolster cyber defenses against evolving threats while monitoring the unstable AI landscape for critical security implications.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.96 (-1.69%)",
+            "title": "\ud83d\udcb0 NVDA: $213.17 (-1.59%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $270.63 (1.13%)",
+            "title": "\ud83d\udcb0 AAPL: $270.71 (1.16%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $426.8 (0.46%)",
+            "title": "\ud83d\udcb0 MSFT: $429.25 (1.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $141.68 (-0.99%)",
+            "title": "\ud83d\udcb0 PLTR: $141.18 (-1.34%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.6 (-0.58%)",
+            "title": "\ud83d\udcb0 AMZN: $259.7 (-0.54%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgnb"
         }
     ],
-    "seismicSummary": "Warning! Multiple moderate quakes up to Mag 5.2 reported across the globe!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
