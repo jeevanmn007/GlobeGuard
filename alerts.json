@@ -7,16 +7,16 @@
             "link": "https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis"
         },
         {
-            "title": "From panic buying in Chile to $8 gas in California, photos show how people around the world are grappling with a growing energy crisis",
-            "link": "https://www.businessinsider.com/iran-war-gas-prices-energy-crisis-photos-2026-3"
-        },
-        {
             "title": "From night life in Egypt to rice farming in Vietnam, the war in Iran is a drain",
             "link": "https://www.npr.org/2026/04/24/nx-s1-5775733/war-in-iran-food-fuel-global-south"
         },
         {
             "title": "The Iran war could haunt grocery bills long after the fighting stops",
             "link": "https://www.businessinsider.com/iran-war-fertilizer-shortage-grocery-inflation-long-after-fighting-stops-2026-4"
+        },
+        {
+            "title": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
+            "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/"
         }
     ],
     "stock": [
@@ -61,16 +61,16 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 26 km SW of Khorugh, Tajikistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3s"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 40 km ESE of Ier\u00e1petra, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000st3w"
+            "title": "\u26a0\ufe0f Mag 4.9 - 75 km ENE of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgm7"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 0 km SE of San Ignacio, Costa Rica",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sglc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 184 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sglz"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.6 - 140 km ESE of Kokopo, Papua New Guinea",
