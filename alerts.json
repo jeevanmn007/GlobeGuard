@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment demands urgent attention: geopolitical tensions surrounding Iran are directly contributing to a slow-moving global food crisis via the Strait of Hormuz blockade, exacerbating humanitarian displacement, and critically, posing an explicit cyber threat to US tech infrastructure commencing April 1st. This instability unfolds against a backdrop of mixed financial performance, with AI showing growth while inflation looms, and persistent moderate seismic activity underscoring latent physical risks worldwide. To secure assets and ensure safety, first, immediately fortify all digital defenses, especially for critical US tech infrastructure, in anticipation of the impending cyberattacks. Second, review and diversify critical supply chains, particularly for food and agricultural inputs, preparing for sustained inflationary pressures and resource scarcity. Third, update and practice comprehensive emergency preparedness plans for both physical security and humanitarian response, considering heightened global instability and ongoing seismic activity across vulnerable regions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.61 (4.0%)",
+            "title": "\ud83d\udcb0 NVDA: $212.34 (-1.97%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $267.61 (-1.27%)",
+            "title": "\ud83d\udcb0 AAPL: $271.54 (1.47%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $424.82 (0.05%)",
+            "title": "\ud83d\udcb0 MSFT: $426.78 (0.46%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.1 (0.01%)",
+            "title": "\ud83d\udcb0 PLTR: $141.87 (-0.86%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.12 (-1.09%)",
+            "title": "\ud83d\udcb0 AMZN: $260.19 (-0.36%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -47,16 +47,16 @@
             "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
         },
         {
+            "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
+            "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
+        },
+        {
             "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
             "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/"
         },
         {
             "title": "AI Could Democratize One of Tech's Most Valuable Resources",
             "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/"
-        },
-        {
-            "title": "OpenAI made economic proposals \u2014 here\u2019s what DC thinks of them",
-            "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgms"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 0 km SE of San Ignacio, Costa Rica",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sglc"
+            "title": "\u26a0\ufe0f Mag 4.8 - south of the Kermadec Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgmr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 10 km ENE of Argalast\u00ed, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgmz"
+            "title": "\u26a0\ufe0f Mag 4.8 - 0 km SE of San Ignacio, Costa Rica",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sglc"
         }
     ],
-    "seismicSummary": "URGENT: Multiple moderate earthquakes (Mag 4.7-4.9) just struck across the globe, from Japan to Costa Rica!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
