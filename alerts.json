@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment demands urgent attention: geopolitical tensions surrounding Iran are directly contributing to a slow-moving global food crisis via the Strait of Hormuz blockade, exacerbating humanitarian displacement, and critically, posing an explicit cyber threat to US tech infrastructure commencing April 1st. This instability unfolds against a backdrop of mixed financial performance, with AI showing growth while inflation looms, and persistent moderate seismic activity underscoring latent physical risks worldwide. To secure assets and ensure safety, first, immediately fortify all digital defenses, especially for critical US tech infrastructure, in anticipation of the impending cyberattacks. Second, review and diversify critical supply chains, particularly for food and agricultural inputs, preparing for sustained inflationary pressures and resource scarcity. Third, update and practice comprehensive emergency preparedness plans for both physical security and humanitarian response, considering heightened global instability and ongoing seismic activity across vulnerable regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgm7"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.8 - 152 km ESE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgms"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.8 - 0 km SE of San Ignacio, Costa Rica",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sglc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 184 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sglz"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - 140 km ESE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgk1"
+            "title": "\u26a0\ufe0f Mag 4.7 - 10 km ENE of Argalast\u00ed, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgmz"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: Multiple moderate earthquakes (Mag 4.7-4.9) just struck across the globe, from Japan to Costa Rica!"
 }
