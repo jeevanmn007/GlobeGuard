@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment demands immediate strategic attention, marked by a deepening geopolitical crisis from the Iran conflict and Strait of Hormuz blockade that is actively precipitating a long-term global food and fuel crisis, exacerbating inflationary pressures, and creating significant humanitarian displacement, while concurrently, the tech sector faces considerable internal upheaval, stock volatility, and emergent cybersecurity threats. This complex web of risks is underscored by persistent moderate seismic activity across multiple tectonically active regions globally. To navigate this volatile period, **immediately diversify critical supply chains and re-evaluate investment portfolios for resilience against commodity inflation and geopolitical shocks; urgently enhance cybersecurity protocols to mitigate emerging digital threats, particularly from 'killer script kiddies' targeting vulnerable infrastructure; and reinforce comprehensive emergency preparedness plans, focusing on both physical safety and the continuity of essential resources amidst potential further disruptions.**",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,27 +21,35 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.34 (-1.97%)",
+            "title": "\ud83d\udcb0 NVDA: $210.48 (-2.83%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $271.54 (1.47%)",
+            "title": "\ud83d\udcb0 AAPL: $269.91 (0.86%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $426.78 (0.46%)",
+            "title": "\ud83d\udcb0 MSFT: $428.5 (0.87%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $141.87 (-0.86%)",
+            "title": "\ud83d\udcb0 PLTR: $142.17 (-0.65%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.19 (-0.36%)",
+            "title": "\ud83d\udcb0 AMZN: $259.21 (-0.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
     "trend": [
+        {
+            "title": "Attack of the killer script kiddies",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai"
+        },
+        {
+            "title": "Microsoft and OpenAI\u2019s famed AGI agreement is dead",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract"
+        },
         {
             "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
             "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
@@ -49,33 +57,25 @@
         {
             "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
             "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
-        },
-        {
-            "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
-            "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/"
-        },
-        {
-            "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-            "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/"
         }
     ],
     "seismic": [
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgp4"
+        },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 75 km ENE of Noda, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgm7"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.8 - 8 km W of Ski\u00e1thos, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgnb"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.8 - 152 km ESE of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgms"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - south of the Kermadec Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgmr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 0 km SE of San Ignacio, Costa Rica",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sglc"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "ALERT: 4.8-5.2M earthquakes just reported across Fiji, Japan, Greece, and Papua New Guinea!"
 }
