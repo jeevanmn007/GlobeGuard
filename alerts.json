@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently in a state of heightened risk, marked by a severe geopolitical conflict in Iran that is actively destabilizing critical food and fuel supply chains, threatening long-term inflation and humanitarian displacement as evidenced by events in Lebanon. This economic fragility is compounded by significant volatility in key technology markets, underscored by a notable downturn in major tech stocks and deep structural instability within the crucial AI sector, alongside a rising threat from cyber incursions. Simultaneously, persistent moderate seismic activity across multiple global regions reinforces the constant presence of natural hazards. To navigate this complex threat matrix, GlobeGuard advises immediately securing essential personal and operational supply chains, diversifying and de-risking digital asset holdings against market volatility and increased cyber threats, and thoroughly reviewing and updating emergency preparedness and contingency plans for both geopolitical and natural disaster scenarios.",
+    "strategicPlan": "The global intelligence landscape presents a critical nexus of threats: the Iran conflict is actively accelerating a slow-moving global food and fuel crisis through supply chain disruption, driving inflation and large-scale displacement, which is concurrently reflected in a cautious financial market with broad tech sector downturns and significant uncertainty within the pivotal AI industry amidst rising cyber vulnerabilities. Adding to this volatility, a cluster of M5+ seismic events in the Prince Edward Islands region signals ongoing physical instability. To navigate this complex environment, GlobeGuard directs immediate action: first, fortify asset resilience by diversifying critical supply chains away from geopolitical choke points and re-evaluating investment portfolios for sustained inflation and tech market volatility; second, bolster digital defenses by enhancing cybersecurity protocols against evolving AI-enabled threats and persistent attacks; and third, ensure physical safety by thoroughly reviewing and updating emergency preparedness plans, securing essential resources and reliable communication channels.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.4 (-1.77%)",
+            "title": "\ud83d\udcb0 NVDA: $208.51 (-2.19%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $270.16 (-0.2%)",
+            "title": "\ud83d\udcb0 AAPL: $270.18 (-0.19%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $422.24 (-1.63%)",
+            "title": "\ud83d\udcb0 MSFT: $423.35 (-1.37%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.03 (-2.94%)",
+            "title": "\ud83d\udcb0 PLTR: $136.92 (-3.02%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.31 (0.62%)",
+            "title": "\ud83d\udcb0 AMZN: $263.56 (1.49%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 134 km NW of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgup"
+            "title": "\u26a0\ufe0f Mag 5.2 - Prince Edward Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 11 km NE of Arteche, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgt9"
+            "title": "\u26a0\ufe0f Mag 5.1 - Prince Edward Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1d"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - western Xizang",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgvv"
+            "title": "\u26a0\ufe0f Mag 5.1 - Prince Edward Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh18"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 10 km WNW of Huabal, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgvu"
+            "title": "\u26a0\ufe0f Mag 5 - Prince Edward Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1c"
         }
     ],
-    "seismicSummary": "URGENT: Four M4.8-4.9 earthquakes just rattled diverse global locations!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes are striking the Prince Edward Islands region!"
 }
