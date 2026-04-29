@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is currently defined by an escalating confluence of severe geopolitical, economic, and technological threats; specifically, the Iran conflict and Strait of Hormuz blockade are actively fueling a slow-moving, systemic global food crisis with long-term inflationary impacts and humanitarian displacement, while the tech sector faces significant AI governance reconfigurations and emergent, advanced cyber threats from 'script kiddies.' Though major tech stocks present a mixed financial picture, the broader economic stability is undermined, and dispersed moderate seismic activity in key regions adds a persistent layer of physical risk. To fortify assets and ensure safety, GlobeGuard directs three urgent actions: proactively diversify critical supply chains and investment portfolios to mitigate food and energy shocks; immediately bolster cybersecurity defenses against evolving AI-driven and opportunistic digital attacks; and rigorously update emergency preparedness plans, including diversified financial access and readiness for localized physical disruptions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgp4"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.9 - 15 km NNE of Alugan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgt9"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 200 km S of \u2018Ohonua, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgqy"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 75 km ENE of Noda, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgm7"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 8 km W of Ski\u00e1thos, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgnb"
         }
     ],
-    "seismicSummary": "Multiple M4.8-M5.2 earthquakes are striking diverse regions worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
