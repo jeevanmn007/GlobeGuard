@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a severe geopolitical landscape, stemming from the Iran war's direct impact on global food security via the Strait of Hormuz blockade, driving humanitarian displacement and long-term inflation, all while major tech markets experience a broad downturn amidst significant internal corporate and cybersecurity volatility within the critical AI sector. Concurrently, moderate seismic activity across the Pacific Rim underscores persistent physical vulnerabilities. To mitigate these convergent risks, first, immediately assess and diversify critical supply chains, prioritizing essential goods and local sourcing to enhance resilience against geopolitical disruptions. Second, strengthen digital and financial security by implementing robust cybersecurity measures and re-evaluating investment portfolios towards stability and liquidity given the market volatility. Third, urgently review and update all physical safety and emergency preparedness plans, especially for personnel and assets in tectonically active zones or regions susceptible to cascading humanitarian impacts.",
+    "strategicPlan": "The global environment is currently in a state of heightened risk, marked by a severe geopolitical conflict in Iran that is actively destabilizing critical food and fuel supply chains, threatening long-term inflation and humanitarian displacement as evidenced by events in Lebanon. This economic fragility is compounded by significant volatility in key technology markets, underscored by a notable downturn in major tech stocks and deep structural instability within the crucial AI sector, alongside a rising threat from cyber incursions. Simultaneously, persistent moderate seismic activity across multiple global regions reinforces the constant presence of natural hazards. To navigate this complex threat matrix, GlobeGuard advises immediately securing essential personal and operational supply chains, diversifying and de-risking digital asset holdings against market volatility and increased cyber threats, and thoroughly reviewing and updating emergency preparedness and contingency plans for both geopolitical and natural disaster scenarios.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.0 (-1.02%)",
+            "title": "\ud83d\udcb0 NVDA: $209.4 (-1.77%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $269.43 (-0.47%)",
+            "title": "\ud83d\udcb0 AAPL: $270.16 (-0.2%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $424.16 (-1.19%)",
+            "title": "\ud83d\udcb0 MSFT: $422.24 (-1.63%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.93 (-3.72%)",
+            "title": "\ud83d\udcb0 PLTR: $137.03 (-2.94%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.88 (1.61%)",
+            "title": "\ud83d\udcb0 AMZN: $261.31 (0.62%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgp4"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 134 km NW of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgup"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgt9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 200 km S of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgqy"
+            "title": "\u26a0\ufe0f Mag 4.8 - western Xizang",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgvv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 10 km WNW of Huabal, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgvu"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M4.9-5.2 earthquakes are striking the Pacific region!"
+    "seismicSummary": "URGENT: Four M4.8-4.9 earthquakes just rattled diverse global locations!"
 }
