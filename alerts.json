@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape presents a critical nexus of threats: the Iran conflict is actively accelerating a slow-moving global food and fuel crisis through supply chain disruption, driving inflation and large-scale displacement, which is concurrently reflected in a cautious financial market with broad tech sector downturns and significant uncertainty within the pivotal AI industry amidst rising cyber vulnerabilities. Adding to this volatility, a cluster of M5+ seismic events in the Prince Edward Islands region signals ongoing physical instability. To navigate this complex environment, GlobeGuard directs immediate action: first, fortify asset resilience by diversifying critical supply chains away from geopolitical choke points and re-evaluating investment portfolios for sustained inflation and tech market volatility; second, bolster digital defenses by enhancing cybersecurity protocols against evolving AI-enabled threats and persistent attacks; and third, ensure physical safety by thoroughly reviewing and updating emergency preparedness plans, securing essential resources and reliable communication channels.",
+    "strategicPlan": "The global strategic environment is in a state of elevated concern: the protracted conflict in Iran is directly fueling a slow-moving global food and fuel crisis through Strait of Hormuz disruptions, leading to humanitarian displacement and persistent inflationary pressures, as reflected in declining major tech stocks. This geopolitical strain is compounded by significant internal turbulence within the critical AI sector and an uptick in cyber threats, while a concentrated cluster of moderate seismic activity in the remote Prince Edward Islands region serves as a reminder of inherent physical vulnerabilities. To navigate this complex landscape, first, immediately review and diversify critical supply chains for essential goods and energy, prioritizing resilient local alternatives. Second, strengthen digital security postures and actively monitor the evolving AI landscape for strategic shifts and exploitable vulnerabilities. Third, audit and reinforce comprehensive emergency preparedness plans for physical safety and asset resilience, anticipating localized disruptions from both geopolitical and natural events.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.51 (-2.19%)",
+            "title": "\ud83d\udcb0 NVDA: $209.25 (-1.84%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $270.18 (-0.19%)",
+            "title": "\ud83d\udcb0 AAPL: $270.17 (-0.2%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $423.35 (-1.37%)",
+            "title": "\ud83d\udcb0 MSFT: $424.46 (-1.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.92 (-3.02%)",
+            "title": "\ud83d\udcb0 PLTR: $137.97 (-2.27%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.56 (1.49%)",
+            "title": "\ud83d\udcb0 AMZN: $263.04 (1.29%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1c"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes are striking the Prince Edward Islands region!"
+    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes are rapidly striking the Prince Edward Islands region!"
 }
