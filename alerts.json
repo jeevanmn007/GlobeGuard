@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is in a state of elevated concern: the protracted conflict in Iran is directly fueling a slow-moving global food and fuel crisis through Strait of Hormuz disruptions, leading to humanitarian displacement and persistent inflationary pressures, as reflected in declining major tech stocks. This geopolitical strain is compounded by significant internal turbulence within the critical AI sector and an uptick in cyber threats, while a concentrated cluster of moderate seismic activity in the remote Prince Edward Islands region serves as a reminder of inherent physical vulnerabilities. To navigate this complex landscape, first, immediately review and diversify critical supply chains for essential goods and energy, prioritizing resilient local alternatives. Second, strengthen digital security postures and actively monitor the evolving AI landscape for strategic shifts and exploitable vulnerabilities. Third, audit and reinforce comprehensive emergency preparedness plans for physical safety and asset resilience, anticipating localized disruptions from both geopolitical and natural events.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1c"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes are rapidly striking the Prince Edward Islands region!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
