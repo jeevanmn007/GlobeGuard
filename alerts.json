@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgp4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 15 km NNE of Alugan, Philippines",
+            "title": "\u26a0\ufe0f Mag 4.9 - 134 km NW of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgup"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 11 km NE of Arteche, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgt9"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 200 km S of \u2018Ohonua, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgqy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 75 km ENE of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sgm7"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
