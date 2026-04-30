@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a severe, escalating geopolitical crisis centered on the Iran war, which is directly fueling a protracted food and humanitarian crisis with pervasive inflationary pressures globally, compounded by significant instability and emerging cyber threats within the critical AI technology sector. Concurrently, persistent geological stresses are evident through increased seismic activity, including multiple M5+ quakes. To navigate this complex landscape, first, immediately assess and diversify critical supply chains, particularly for food and energy resources, to build resilience against sustained inflationary impacts, while prudently re-evaluating technology sector investments amidst market volatility. Second, fortify digital defenses against escalating cyber threats, ensuring robust protocols are in place to protect sensitive assets from opportunistic attacks. Third, review and update personal and organizational emergency preparedness plans, with a specific focus on geological event response, acknowledging the noted uptick in global seismic activity.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh18"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 26 km E of Aras-asan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh55"
+            "title": "\u26a0\ufe0f Mag 5 - 135 km WNW of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5+ earthquakes, including a 5.2, just struck the Prince Edward Islands region and Philippines!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
