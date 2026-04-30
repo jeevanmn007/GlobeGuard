@@ -69,12 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 26 km E of Aras-asan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh55"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - south of the Kermadec Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh70"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shd3"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
