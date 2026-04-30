@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly converging on critical vulnerabilities: a severe and expanding global food and fuel crisis, directly exacerbated by the ongoing conflict in Iran and the Strait of Hormuz blockade, is driving sustained inflation and humanitarian displacement in regions like Lebanon. Concurrently, the financial markets display significant instability, particularly in the tech sector amidst internal turmoil within critical AI development, alongside an escalating cyber threat from increasingly accessible attack vectors. Underlying these man-made crises, continuous moderate seismic activity, though currently in remote regions, serves as a constant reminder of inherent physical environmental risks. To navigate this complex environment, individuals must proactively secure essential resources by diversifying food and energy supply chains; re-evaluate financial portfolios for resilience against market volatility and geopolitical shocks, prioritizing liquidity and defensive assets; and bolster digital security protocols while maintaining robust physical emergency preparedness, accounting for both prolonged supply disruptions and potential seismic events.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.25 (-1.84%)",
+            "title": "\ud83d\udcb0 NVDA: $201.89 (-3.52%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $270.17 (-0.2%)",
+            "title": "\ud83d\udcb0 AAPL: $271.36 (0.44%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $424.46 (-1.12%)",
+            "title": "\ud83d\udcb0 MSFT: $404.82 (-4.63%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.97 (-2.27%)",
+            "title": "\ud83d\udcb0 PLTR: $139.75 (1.29%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.04 (1.29%)",
+            "title": "\ud83d\udcb0 AMZN: $259.82 (-1.22%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 234 km SE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh8r"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - Prince Edward Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1g"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Prince Edward Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh18"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 135 km WNW of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5 earthquakes detected near Prince Edward Islands and Tonga!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
