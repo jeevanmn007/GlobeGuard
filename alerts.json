@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global situation is critical, characterized by an escalating geopolitical crisis stemming from the Iran war, directly fueling a severe global food and fuel crisis, long-term inflation, and humanitarian displacement. This instability is mirrored by financial volatility in key tech sectors, emergent cybersecurity threats from \"killer script kiddies,\" and internal strife within the AI industry, all set against a backdrop of heightened seismic activity across the Pacific Ring of Fire. To navigate this complex environment, first, immediately re-evaluate and diversify your supply chains, prioritizing essential goods and local sourcing to mitigate the impacts of resource scarcity and inflation. Second, fortify all digital and financial assets against escalating cyber threats and market volatility, considering diversification strategies to protect against tech sector downturns and geopolitical instability. Third, update and rehearse emergency preparedness plans for both physical safety in seismically active regions and response to potential disruptions to critical infrastructure or personnel movements, especially in geopolitical flashpoints.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $200.4 (-4.23%)",
+            "title": "\ud83d\udcb0 NVDA: $200.88 (-4.0%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $272.51 (0.87%)",
+            "title": "\ud83d\udcb0 AAPL: $274.3 (1.53%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $400.8 (-5.58%)",
+            "title": "\ud83d\udcb0 MSFT: $409.01 (-3.64%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $138.78 (0.59%)",
+            "title": "\ud83d\udcb0 PLTR: $139.3 (0.96%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.85 (-1.21%)",
+            "title": "\ud83d\udcb0 AMZN: $265.74 (1.03%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh70"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**ALERT: Multiple strong quakes, up to Mag 5.7, just struck the Pacific region!**"
 }
