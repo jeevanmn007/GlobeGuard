@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $201.89 (-3.52%)",
+            "title": "\ud83d\udcb0 NVDA: $200.4 (-4.23%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $271.36 (0.44%)",
+            "title": "\ud83d\udcb0 AAPL: $272.51 (0.87%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $404.82 (-4.63%)",
+            "title": "\ud83d\udcb0 MSFT: $400.8 (-5.58%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $139.75 (1.29%)",
+            "title": "\ud83d\udcb0 PLTR: $138.78 (0.59%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.82 (-1.22%)",
+            "title": "\ud83d\udcb0 AMZN: $259.85 (-1.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh8r"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Prince Edward Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1g"
+            "title": "\u26a0\ufe0f Mag 5 - 135 km WNW of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Prince Edward Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh1d"
+            "title": "\u26a0\ufe0f Mag 5 - 26 km E of Aras-asan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh55"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Prince Edward Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh18"
+            "title": "\u26a0\ufe0f Mag 4.9 - south of the Kermadec Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh70"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
