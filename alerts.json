@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global threat landscape is rapidly converging on critical vulnerabilities: a severe and expanding global food and fuel crisis, directly exacerbated by the ongoing conflict in Iran and the Strait of Hormuz blockade, is driving sustained inflation and humanitarian displacement in regions like Lebanon. Concurrently, the financial markets display significant instability, particularly in the tech sector amidst internal turmoil within critical AI development, alongside an escalating cyber threat from increasingly accessible attack vectors. Underlying these man-made crises, continuous moderate seismic activity, though currently in remote regions, serves as a constant reminder of inherent physical environmental risks. To navigate this complex environment, individuals must proactively secure essential resources by diversifying food and energy supply chains; re-evaluate financial portfolios for resilience against market volatility and geopolitical shocks, prioritizing liquidity and defensive assets; and bolster digital security protocols while maintaining robust physical emergency preparedness, accounting for both prolonged supply disruptions and potential seismic events.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: Multiple Mag 5 earthquakes detected near Prince Edward Islands and Tonga!"
 }
