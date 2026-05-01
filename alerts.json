@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "Our assessment indicates a rapidly deteriorating global security environment: the escalating conflict in Iran is actively generating a widespread food and humanitarian crisis through critical supply chain disruptions via the Strait of Hormuz, profoundly impacting global stability and exacerbating regional displacement in areas like Lebanon, while simultaneously the technology sector faces significant volatility amid major AI industry power struggles and increasing cyber threats. This complex geopolitical and economic instability is underscored by a consistent global pattern of 5+ magnitude seismic events, highlighting an ongoing physical risk. To navigate this perilous landscape, GlobeGuard advises immediate action: first, fortify and diversify all critical supply chains to build resilience against resource scarcity and trade route disruptions; second, urgently bolster cybersecurity defenses and conduct thorough digital risk assessments given the intensified cyber threats and AI sector instability; and third, meticulously review and update physical emergency preparedness plans for all personnel and assets, with particular attention to regions prone to natural disasters.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh8r"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 70 km ENE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shh1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 135 km WNW of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - south of the Kermadec Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh70"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Multiple Mag 5 quakes active worldwide!**"
 }
