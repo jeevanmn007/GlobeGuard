@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh8r"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 135 km WNW of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - south of the Kermadec Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh70"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shd3"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
