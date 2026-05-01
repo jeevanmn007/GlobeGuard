@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our assessment indicates a rapidly deteriorating global security environment: the escalating conflict in Iran is actively generating a widespread food and humanitarian crisis through critical supply chain disruptions via the Strait of Hormuz, profoundly impacting global stability and exacerbating regional displacement in areas like Lebanon, while simultaneously the technology sector faces significant volatility amid major AI industry power struggles and increasing cyber threats. This complex geopolitical and economic instability is underscored by a consistent global pattern of 5+ magnitude seismic events, highlighting an ongoing physical risk. To navigate this perilous landscape, GlobeGuard advises immediate action: first, fortify and diversify all critical supply chains to build resilience against resource scarcity and trade route disruptions; second, urgently bolster cybersecurity defenses and conduct thorough digital risk assessments given the intensified cyber threats and AI sector instability; and third, meticulously review and update physical emergency preparedness plans for all personnel and assets, with particular attention to regions prone to natural disasters.",
+    "strategicPlan": "The global threat landscape is rapidly evolving, marked by a critical confluence of geopolitical, economic, and physical stressors. The protracted conflict in Iran continues to severely disrupt global supply chains, fueling an accelerating food and fuel crisis through the Strait of Hormuz blockade and its long-term impact on inflation and humanitarian displacement in regions like Lebanon. Concurrently, the tech sector exhibits significant volatility, underscored by major AI industry instability and heightened cybersecurity threats, while persistent, widespread seismic activity across multiple tectonic plates signals ongoing physical vulnerabilities. In light of this, immediate actions are imperative: 1) Proactively secure your food and essential supply chains, diversifying sources and monitoring local market stability for persistent inflation; 2) Immediately strengthen digital asset security protocols and review investment portfolios for resilience against tech sector volatility and broader market shifts; and 3) Ensure all physical safety and disaster preparedness plans are updated and rehearsed, with particular emphasis on readiness for seismic events.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 135 km WNW of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh7l"
+            "title": "\u26a0\ufe0f Mag 4.89 - 19 km SE of Silver Springs, Nevada",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5 quakes active worldwide!**"
+    "seismicSummary": "**URGENT: Multiple significant earthquakes, including a Mag 5.7, are shaking locations worldwide!**"
 }
