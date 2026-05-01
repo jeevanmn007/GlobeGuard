@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard identifies a critical confluence of threats: the escalating Iran war is fundamentally disrupting global supply chains, precipitating a slow-moving, widespread food and fuel crisis, driving inflation, and exacerbating humanitarian displacement, particularly evident in Lebanon. This severe geopolitical instability is further complicated by persistent, elevated global seismic activity, with significant magnitude 5+ earthquakes observed in strategically vital regions like Taiwan and the US mainland, posing risks to critical infrastructure. Concurrently, while major tech stocks show resilience, the digital domain faces heightened cybersecurity risks and significant turbulence within the AI sector. Therefore, we issue the following directives: First, **enhance your cybersecurity posture**, securing digital assets against the rising threat of 'script kiddies' and general cyber volatility. Second, **strategically review and diversify essential supply chain dependencies**, preparing for sustained inflationary pressures and potential commodity shortages. Third, **immediately update and exercise physical emergency preparedness protocols**, with a specific focus on seismic response and critical infrastructure resilience in affected zones.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.47 (-0.05%)",
+            "title": "\ud83d\udcb0 NVDA: $198.45 (-0.56%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $279.96 (3.17%)",
+            "title": "\ud83d\udcb0 AAPL: $280.14 (3.24%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $415.17 (1.81%)",
+            "title": "\ud83d\udcb0 MSFT: $414.44 (1.63%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $144.24 (3.69%)",
+            "title": "\ud83d\udcb0 PLTR: $144.07 (3.57%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.71 (1.38%)",
+            "title": "\ud83d\udcb0 AMZN: $268.26 (1.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shh1"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide now, from Taiwan to Nevada!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
