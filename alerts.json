@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by an immediate and escalating geopolitical crisis originating from the war in Iran and the Strait of Hormuz, directly triggering a severe, slow-moving food and fuel crisis globally, causing mass displacement and long-term inflationary pressures. While major tech stocks show resilience, this masks the underlying economic fragility driven by critical supply chain disruptions. This human-made crisis is compounded by a period of significant global seismic activity, including M5+ events in vulnerable regions like Taiwan and Nevada, alongside a turbulent tech sector facing internal strife and increasing low-level cyber threats. In response, all assets and physical safety must be prioritized: **First, immediately secure essential provisions for food, water, and fuel, diversifying supply chains to insulate against further geopolitical shocks and scarcity.** **Second, meticulously review and update emergency preparedness plans for physical safety, focusing on seismic event protocols, evacuation routes, and critical communication strategies, especially if located in geologically active zones.** **Third, strengthen digital and financial resilience by enhancing cybersecurity defenses, diversifying investment portfolios beyond singular digital platforms, and establishing robust offline backups for vital information, in anticipation of escalating cyber risks and market volatility.**",
+    "strategicPlan": "GlobeGuard identifies a critical confluence of threats: the escalating Iran war is fundamentally disrupting global supply chains, precipitating a slow-moving, widespread food and fuel crisis, driving inflation, and exacerbating humanitarian displacement, particularly evident in Lebanon. This severe geopolitical instability is further complicated by persistent, elevated global seismic activity, with significant magnitude 5+ earthquakes observed in strategically vital regions like Taiwan and the US mainland, posing risks to critical infrastructure. Concurrently, while major tech stocks show resilience, the digital domain faces heightened cybersecurity risks and significant turbulence within the AI sector. Therefore, we issue the following directives: First, **enhance your cybersecurity posture**, securing digital assets against the rising threat of 'script kiddies' and general cyber volatility. Second, **strategically review and diversify essential supply chain dependencies**, preparing for sustained inflationary pressures and potential commodity shortages. Third, **immediately update and exercise physical emergency preparedness protocols**, with a specific focus on seismic response and critical infrastructure resilience in affected zones.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.22 (-0.18%)",
+            "title": "\ud83d\udcb0 NVDA: $199.47 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $282.95 (4.27%)",
+            "title": "\ud83d\udcb0 AAPL: $279.96 (3.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $413.5 (1.4%)",
+            "title": "\ud83d\udcb0 MSFT: $415.17 (1.81%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $144.34 (3.76%)",
+            "title": "\ud83d\udcb0 PLTR: $144.24 (3.69%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.47 (1.29%)",
+            "title": "\ud83d\udcb0 AMZN: $268.71 (1.38%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shh1"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes striking globally!"
+    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide now, from Taiwan to Nevada!"
 }
