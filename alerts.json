@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly evolving, marked by a critical confluence of geopolitical, economic, and physical stressors. The protracted conflict in Iran continues to severely disrupt global supply chains, fueling an accelerating food and fuel crisis through the Strait of Hormuz blockade and its long-term impact on inflation and humanitarian displacement in regions like Lebanon. Concurrently, the tech sector exhibits significant volatility, underscored by major AI industry instability and heightened cybersecurity threats, while persistent, widespread seismic activity across multiple tectonic plates signals ongoing physical vulnerabilities. In light of this, immediate actions are imperative: 1) Proactively secure your food and essential supply chains, diversifying sources and monitoring local market stability for persistent inflation; 2) Immediately strengthen digital asset security protocols and review investment portfolios for resilience against tech sector volatility and broader market shifts; and 3) Ensure all physical safety and disaster preparedness plans are updated and rehearsed, with particular emphasis on readiness for seismic events.",
+    "strategicPlan": "The global environment is defined by a confluence of escalating geopolitical, financial, and physical threats: the ongoing Iran conflict is severely disrupting critical global supply chains via the Strait of Hormuz, precipitating a slow-moving but significant food crisis with long-term inflationary pressures. Financially, major tech stocks like NVDA and MSFT show notable volatility amidst internal strife and renegotiations within the vital AI sector, further compounded by emerging cybersecurity threats from malicious actors. This complex landscape is underpinned by a persistent baseline of physical risk, evidenced by multiple moderate seismic events across active tectonic zones globally. To navigate this period of heightened instability, secure your critical assets by immediately diversifying food and essential supply chains to mitigate scarcity and inflation risks, strengthening digital defenses against evolving cyber threats and data breaches, and ensuring robust emergency preparedness plans are meticulously in place for potential physical disruptions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.89 - 19 km SE of Silver Springs, Nevada",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980"
+            "title": "\u26a0\ufe0f Mag 4.9 - 14 km ESE of Ransiki, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shiq"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple significant earthquakes, including a Mag 5.7, are shaking locations worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, led by a Mag 5.7 in Papua New Guinea, have been reported globally!"
 }
