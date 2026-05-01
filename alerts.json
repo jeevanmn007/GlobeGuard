@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is critically unstable, defined by a severe and escalating geopolitical crisis stemming from the Iran conflict, which is actively disrupting global food supply chains via the Strait of Hormuz and fueling widespread humanitarian displacement in Lebanon. This profound instability coexists with a resilient but volatile tech market, where AI sector leadership is fracturing amid rising cybersecurity threats, while a significant uptick in global seismic activity adds an unpredictable layer of physical risk across multiple continents. GlobeGuard directs immediate, proactive measures: first, assess and diversify critical supply chains for essential goods, especially food and fertilizer, to build resilience against prolonged geopolitical disruption and inflation; second, fortify digital and financial asset security through robust protocols and diversified holdings, considering both cyber threats and regional economic instability; and third, review and reinforce physical safety protocols and emergency preparedness plans, particularly in seismically active regions, to mitigate immediate physical threats.",
+    "strategicPlan": "The global environment is marked by an immediate and escalating geopolitical crisis originating from the war in Iran and the Strait of Hormuz, directly triggering a severe, slow-moving food and fuel crisis globally, causing mass displacement and long-term inflationary pressures. While major tech stocks show resilience, this masks the underlying economic fragility driven by critical supply chain disruptions. This human-made crisis is compounded by a period of significant global seismic activity, including M5+ events in vulnerable regions like Taiwan and Nevada, alongside a turbulent tech sector facing internal strife and increasing low-level cyber threats. In response, all assets and physical safety must be prioritized: **First, immediately secure essential provisions for food, water, and fuel, diversifying supply chains to insulate against further geopolitical shocks and scarcity.** **Second, meticulously review and update emergency preparedness plans for physical safety, focusing on seismic event protocols, evacuation routes, and critical communication strategies, especially if located in geologically active zones.** **Third, strengthen digital and financial resilience by enhancing cybersecurity defenses, diversifying investment portfolios beyond singular digital platforms, and establishing robust offline backups for vital information, in anticipation of escalating cyber risks and market volatility.**",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.17 (-0.2%)",
+            "title": "\ud83d\udcb0 NVDA: $199.22 (-0.18%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $281.63 (3.79%)",
+            "title": "\ud83d\udcb0 AAPL: $282.95 (4.27%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $414.2 (1.58%)",
+            "title": "\ud83d\udcb0 MSFT: $413.5 (1.4%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.32 (3.03%)",
+            "title": "\ud83d\udcb0 PLTR: $144.34 (3.76%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.85 (1.43%)",
+            "title": "\ud83d\udcb0 AMZN: $268.47 (1.29%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shh1"
         }
     ],
-    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes are striking worldwide!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes striking globally!"
 }
