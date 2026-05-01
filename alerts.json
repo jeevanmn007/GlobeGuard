@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by an escalating, protracted geopolitical crisis stemming from the Iran conflict, actively disrupting critical food and fertilizer supply chains via the Strait of Hormuz and precipitating humanitarian displacement, with long-term economic repercussions on global grocery bills despite current resilience in key tech stocks amidst a volatile AI market and rising cyber threats. Concurrently, an observable uptick in moderate seismic activity across diverse global regions adds a layer of physical volatility to an already complex risk landscape. Therefore, I direct you to immediately fortify supply chain resilience against impending food and resource scarcity by actively diversifying sourcing and holding strategic reserves; second, enhance all digital defense protocols to counter evolving cyber threats and closely monitor the strategic implications of the volatile AI landscape; and third, review and update all emergency preparedness plans, particularly physical security and contingency protocols, acknowledging the heightened global seismic activity and general instability.",
+    "strategicPlan": "The global landscape is critically unstable, defined by a severe and escalating geopolitical crisis stemming from the Iran conflict, which is actively disrupting global food supply chains via the Strait of Hormuz and fueling widespread humanitarian displacement in Lebanon. This profound instability coexists with a resilient but volatile tech market, where AI sector leadership is fracturing amid rising cybersecurity threats, while a significant uptick in global seismic activity adds an unpredictable layer of physical risk across multiple continents. GlobeGuard directs immediate, proactive measures: first, assess and diversify critical supply chains for essential goods, especially food and fertilizer, to build resilience against prolonged geopolitical disruption and inflation; second, fortify digital and financial asset security through robust protocols and diversified holdings, considering both cyber threats and regional economic instability; and third, review and reinforce physical safety protocols and emergency preparedness plans, particularly in seismically active regions, to mitigate immediate physical threats.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.09 (1.26%)",
+            "title": "\ud83d\udcb0 NVDA: $199.17 (-0.2%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $281.6 (3.78%)",
+            "title": "\ud83d\udcb0 AAPL: $281.63 (3.79%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $414.41 (1.63%)",
+            "title": "\ud83d\udcb0 MSFT: $414.2 (1.58%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $145.73 (4.76%)",
+            "title": "\ud83d\udcb0 PLTR: $143.32 (3.03%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.78 (-0.48%)",
+            "title": "\ud83d\udcb0 AMZN: $268.85 (1.43%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shjp"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.17 - 19 km SE of Silver Springs, Nevada",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shj5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 70 km ENE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shh1"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple Magnitude 5+ earthquakes, including a 5.8 near Taiwan, are hitting globally!**"
+    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes are striking worldwide!"
 }
