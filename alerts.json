@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is defined by a confluence of escalating geopolitical, financial, and physical threats: the ongoing Iran conflict is severely disrupting critical global supply chains via the Strait of Hormuz, precipitating a slow-moving but significant food crisis with long-term inflationary pressures. Financially, major tech stocks like NVDA and MSFT show notable volatility amidst internal strife and renegotiations within the vital AI sector, further compounded by emerging cybersecurity threats from malicious actors. This complex landscape is underpinned by a persistent baseline of physical risk, evidenced by multiple moderate seismic events across active tectonic zones globally. To navigate this period of heightened instability, secure your critical assets by immediately diversifying food and essential supply chains to mitigate scarcity and inflation risks, strengthening digital defenses against evolving cyber threats and data breaches, and ensuring robust emergency preparedness plans are meticulously in place for potential physical disruptions.",
+    "strategicPlan": "The global environment is marked by an escalating, protracted geopolitical crisis stemming from the Iran conflict, actively disrupting critical food and fertilizer supply chains via the Strait of Hormuz and precipitating humanitarian displacement, with long-term economic repercussions on global grocery bills despite current resilience in key tech stocks amidst a volatile AI market and rising cyber threats. Concurrently, an observable uptick in moderate seismic activity across diverse global regions adds a layer of physical volatility to an already complex risk landscape. Therefore, I direct you to immediately fortify supply chain resilience against impending food and resource scarcity by actively diversifying sourcing and holding strategic reserves; second, enhance all digital defense protocols to counter evolving cyber threats and closely monitor the strategic implications of the volatile AI landscape; and third, review and update all emergency preparedness plans, particularly physical security and contingency protocols, acknowledging the heightened global seismic activity and general instability.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.57 (-4.63%)",
+            "title": "\ud83d\udcb0 NVDA: $202.09 (1.26%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $271.35 (0.44%)",
+            "title": "\ud83d\udcb0 AAPL: $281.6 (3.78%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $407.78 (-3.93%)",
+            "title": "\ud83d\udcb0 MSFT: $414.41 (1.63%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $139.11 (0.83%)",
+            "title": "\ud83d\udcb0 PLTR: $145.73 (4.76%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.06 (0.77%)",
+            "title": "\ud83d\udcb0 AMZN: $263.78 (-0.48%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,8 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 234 km SE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh8r"
+            "title": "\u26a0\ufe0f Mag 5.8 - 29 km ENE of Yilan, Taiwan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shjp"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shj5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 70 km ENE of Severo-Kuril\u2019sk, Russia",
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 14 km ESE of Ransiki, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shiq"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, led by a Mag 5.7 in Papua New Guinea, have been reported globally!"
+    "seismicSummary": "**Urgent: Multiple Magnitude 5+ earthquakes, including a 5.8 near Taiwan, are hitting globally!**"
 }
