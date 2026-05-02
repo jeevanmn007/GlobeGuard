@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is critically unstable, marked by a rapidly escalating and prolonged food crisis stemming from the Iran conflict and the Strait of Hormuz blockade, which is severely disrupting fertilizer and food supply chains with long-term economic repercussions. While major tech stocks exhibit deceptive resilience in current markets, this masks underlying global economic fragility, further complicated by persistent, moderate seismic activity across multiple geologically active regions. In response, GlobeGuard advises immediate action: first, prioritize securing diversified and localized supply chains for essential resources, particularly food and energy, to build resilience against geopolitical disruptions; second, strategically de-risk financial portfolios by exploring assets less exposed to global supply shocks and speculative tech trends, while maintaining liquidity; and third, reinforce personal and operational emergency preparedness, including robust communication plans and essential reserves, to mitigate both man-made crises and potential natural disasters.",
+    "strategicPlan": "The global threat landscape presents a critical confluence of challenges: geopolitical instability in Iran continues to fuel a slow-moving global food and fertilizer crisis, directly impacting supply chains and driving sustained inflation while also causing widespread strain on vulnerable populations. Financially, though major tech markets exhibit buoyancy, the AI sector is embroiled in significant contractual disputes and faces emerging AI-enabled cyber threats, demanding heightened digital vigilance. Physically, a notable cluster of moderate seismic activity, particularly near population centers in Japan and Indonesia, underscores an elevated tectonic risk profile. **Therefore, GlobeGuard directs immediate action:** 1) Diversify financial assets toward resilient sectors and secure essential food and water reserves to mitigate supply chain disruptions and inflation. 2) Proactively strengthen all cyber defenses against evolving AI-enhanced attacks, ensuring robust data backup and recovery protocols. 3) Review and update all emergency preparedness plans for seismic events, focusing on communication, evacuation routes, and designated safe zones for personnel and critical infrastructure, especially in identified high-risk regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsi"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Four strong earthquakes, including a Mag 5.7 in Japan, just struck worldwide!"
 }
