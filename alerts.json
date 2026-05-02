@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a critical confluence of escalating geopolitical and economic pressures stemming from the Iran conflict, precipitating a slow-moving global food and fuel crisis with long-term inflationary effects and significant humanitarian displacement. This instability is juxtaposed against a resilient, albeit volatile, tech market grappling with internal AI industry restructuring and emerging cyber threats. Concurrently, persistent global tectonic activity, evidenced by multiple M5+ earthquakes, underscores a pervasive physical instability. To secure assets and physical safety, prioritize immediate diversification of essential supply chains and investment portfolios to mitigate geopolitical chokehold risks and inflationary pressures; strengthen digital security protocols against evolving cyber threats; and review and fortify comprehensive disaster preparedness plans to account for both severe economic disruptions and continued seismic activity.",
+    "strategicPlan": "The current global landscape presents a complex threat matrix characterized by severe geopolitical instability stemming from the ongoing Iran conflict and the Strait of Hormuz blockade, which is actively precipitating a slow-moving but pervasive global food crisis, widespread inflation, and significant humanitarian displacement, despite some resilience in key tech sector financials. This volatile environment is further compounded by a notable uptick in significant seismic activity across multiple tectonically active regions, signaling heightened physical risks. In response, prioritize immediate assessment and diversification of critical supply chains, particularly for food, fuel, and raw materials, to mitigate the cascading economic and humanitarian effects. Simultaneously, conduct a thorough review of financial portfolios, emphasizing de-risking strategies and asset diversification away from potentially volatile sectors, while securing essential liquid reserves for unforeseen economic shocks. Finally, enhance physical safety protocols and emergency preparedness, especially for personnel and assets located in or transiting tectonically active zones, in light of the recent cluster of significant seismic events.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shjp"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 17 km SW of K\u014dya, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shs2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shnl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shj5"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 43 km NNW of Chamical, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shps"
         }
     ],
-    "seismicSummary": "M5.8 quake in Taiwan, plus multiple M5+ tremors hit globally!"
+    "seismicSummary": "**Urgent: M5.8 near Taiwan, M5.7 near Japan, and multiple other M5+ earthquakes just reported!**"
 }
