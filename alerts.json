@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically challenged by a multi-front risk landscape: the ongoing Iran conflict is directly causing a slow-moving, global food and fertilizer crisis via the Strait of Hormuz blockade, driving long-term inflation and resource drain, while simultaneous upheaval in the AI sector, marked by major corporate disagreements and rising 'script kiddie' threats, adds digital instability despite general resilience in key tech stocks. This is juxtaposed with significant seismic activity, particularly in vulnerable economic and population centers like Japan and Indonesia, signaling acute physical risks. To secure assets and ensure physical safety, GlobeGuard advises implementing robust food and essential supply chain diversification strategies, fortifying all digital infrastructure against advanced cyber threats, and immediately updating and practicing comprehensive emergency preparedness protocols for natural disasters, especially in seismically active regions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsh"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shnl"
+            "title": "\u26a0\ufe0f Mag 5.1 - 9 km WNW of Hicks Bay, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shut"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsi"
+            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shnl"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple strong (M5+) earthquakes, including a M5.7 in Japan, just struck globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
