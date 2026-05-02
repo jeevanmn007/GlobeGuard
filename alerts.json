@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape presents a complex threat matrix characterized by severe geopolitical instability stemming from the ongoing Iran conflict and the Strait of Hormuz blockade, which is actively precipitating a slow-moving but pervasive global food crisis, widespread inflation, and significant humanitarian displacement, despite some resilience in key tech sector financials. This volatile environment is further compounded by a notable uptick in significant seismic activity across multiple tectonically active regions, signaling heightened physical risks. In response, prioritize immediate assessment and diversification of critical supply chains, particularly for food, fuel, and raw materials, to mitigate the cascading economic and humanitarian effects. Simultaneously, conduct a thorough review of financial portfolios, emphasizing de-risking strategies and asset diversification away from potentially volatile sectors, while securing essential liquid reserves for unforeseen economic shocks. Finally, enhance physical safety protocols and emergency preparedness, especially for personnel and assets located in or transiting tectonically active zones, in light of the recent cluster of significant seismic events.",
+    "strategicPlan": "The global environment is critically stressed, marked by a severe and escalating food and resource crisis fueled by the Iran conflict and its impact on vital trade routes like the Strait of Hormuz, driving persistent inflation and threatening global stability; this geopolitical turmoil is contrasted by a resilient, yet intensely competitive and ethically fractured, AI sector facing heightened cybersecurity threats from emerging capabilities; simultaneously, elevated seismic activity across the Pacific Ring of Fire signals a persistent physical risk that could further disrupt critical infrastructure and supply chains. To navigate this complex landscape, GlobeGuard advises immediate action: prioritize securing and diversifying critical supply chains for food and essential resources, considering local and regional alternatives to mitigate geopolitical blockades and inflationary pressures; fortify digital defenses against sophisticated cyber threats emerging from the rapidly evolving, and internally contentious, AI landscape; and review and bolster emergency preparedness plans for physical safety and asset protection, particularly in regions prone to seismic activity or potential secondary impacts from global instability.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
             "link": "https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis"
+        },
+        {
+            "title": "The Invisible Force Making Food Less Nutritious",
+            "link": "https://news.slashdot.org/story/26/05/01/0123239/the-invisible-force-making-food-less-nutritious"
         },
         {
             "title": "From night life in Egypt to rice farming in Vietnam, the war in Iran is a drain",
@@ -13,10 +17,6 @@
         {
             "title": "The Iran war could haunt grocery bills long after the fighting stops",
             "link": "https://www.businessinsider.com/iran-war-fertilizer-shortage-grocery-inflation-long-after-fighting-stops-2026-4"
-        },
-        {
-            "title": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
-            "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/"
         }
     ],
     "stock": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shs2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shnl"
+            "title": "\u26a0\ufe0f Mag 5.2 - 217 km W of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsh"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shj5"
+            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shnl"
         }
     ],
-    "seismicSummary": "**Urgent: M5.8 near Taiwan, M5.7 near Japan, and multiple other M5+ earthquakes just reported!**"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just struck Taiwan, Japan, Indonesia, and Fiji!"
 }
