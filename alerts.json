@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically stressed, marked by a deepening food and resource crisis driven by the Strait of Hormuz blockade and the Iran conflict, alongside persistent moderate seismic activity worldwide and escalating cyber threats amidst significant turmoil within leading AI development. To counter this confluence of geopolitical, physical, and digital vulnerabilities, you must immediately: 1) Fortify resource independence by establishing robust reserves of food, water, and essential supplies, while diversifying critical supply chains. 2) Harden financial and digital security through advanced cybersecurity protocols, diversified investment strategies, and maintaining accessible physical currency. 3) Ensure comprehensive physical preparedness with updated emergency kits, clear family communication plans, and thorough understanding of local natural disaster response, especially for seismic events.",
+    "strategicPlan": "The global strategic landscape is acutely volatile, marked by a rapidly escalating humanitarian crisis driven by food and fuel shortages exacerbated by the Strait of Hormuz blockade and regional conflicts, while the foundational AI sector simultaneously grapples with significant internal fragmentation and emerging cyber threats. Despite this profound geopolitical instability, core tech financial markets exhibit surprising resilience, even as consistent moderate seismic activity worldwide underscores the ever-present physical vulnerabilities. To effectively navigate this complex environment, first, immediately secure operational continuity by diversifying essential supply chains and establishing robust emergency reserves for critical resources like food and energy; second, fortify your digital infrastructure with enhanced cybersecurity protocols and conduct thorough due diligence on AI platform dependencies amidst ongoing sector fragmentation; and third, critically assess and reinforce the physical resilience of key assets against potential localized disruptions, ensuring comprehensive emergency preparedness plans are actively maintained.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shza"
         }
     ],
-    "seismicSummary": "**Urgent: Four M4.9-M5.1 earthquakes just struck across the Pacific Rim!**"
+    "seismicSummary": "Multiple Magnitude 5 earthquakes are striking various global locations!"
 }
