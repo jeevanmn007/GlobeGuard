@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and escalating threat profile, characterized by severe geopolitical instability stemming from the war in Iran and its chokehold on global food and fuel supply chains via the Strait of Hormuz, creating widespread humanitarian crises. This is further compounded by significant internal and external volatility in the critical AI and cybersecurity sectors, even as major tech markets show relative resilience. Simultaneously, persistent moderate seismic activity across key global regions introduces an unpredictable physical risk to infrastructure. To navigate this perilous landscape and secure assets and safety, GlobeGuard directs immediate action to: **first**, fortify and diversify essential supply chains, especially for food and fuel, to withstand prolonged geopolitical disruption; **second**, drastically enhance digital defenses against evolving cyber threats, particularly those targeting AI infrastructure, and prepare for rapid shifts in the AI competitive landscape; and **third**, rigorously assess and strengthen physical asset security and geographical resilience, implementing robust emergency preparedness protocols in all operations, especially in seismically active and politically volatile regions.",
+    "strategicPlan": "The global strategic landscape is critically volatile, dominated by an escalating food and humanitarian crisis stemming from the war in Iran and the Strait of Hormuz blockade, which threatens global supply chains and fuels regional displacement. Concurrently, the vital AI technology sector faces significant instability due to internal power struggles and rising cyber threats, creating systemic vulnerabilities that demand vigilance. This complex geopolitical and technological flux persists against a backdrop of ongoing, moderate seismic activity across diverse regions, reminding us of persistent physical risks. To navigate this, GlobeGuard directs immediate action: first, secure critical supply chains by diversifying and localizing essential resources to mitigate food and commodity scarcity; second, fortify digital infrastructure and operational resilience against AI-driven cyber threats and service disruptions by monitoring tech sector instability; and third, enhance physical safety protocols and emergency preparedness plans for personnel and assets, anticipating localized impacts from both geopolitical events and natural hazards.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shxd"
         }
     ],
-    "seismicSummary": "**ALERT: Magnitude 5+ earthquakes just struck China, New Zealand, Papua New Guinea, and Indonesia!**"
+    "seismicSummary": "**Alert!** Multiple Mag 5 earthquakes just struck across the Pacific Rim."
 }
