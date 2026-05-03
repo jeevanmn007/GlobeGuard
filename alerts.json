@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is at a critical juncture, marked by an escalating geopolitical conflict centered on Iran that is directly driving a severe, slow-moving global food and fuel crisis, leading to widespread displacement and impacting the Global South. Concurrently, the digital landscape faces increased volatility from internal AI leadership disputes and rising cyber threats from \"script kiddies,\" while major tech stocks show mixed but generally positive performance, indicating a reliance on digital infrastructure amidst broader instability. This complex human-made crisis is overlaid by heightened and geographically diverse seismic activity across the Pacific Ring of Fire and other regions, posing significant physical risks to infrastructure and populations. To navigate these convergent threats, we issue the following directive: prioritize securing diversified essential supply chains for critical resources like food and fuel; fortify all digital assets and operational networks against evolving cyber threats; and immediately review and update emergency preparedness plans, ensuring robust physical safety protocols and infrastructure resilience, particularly for operations in seismically active zones.",
+    "strategicPlan": "GlobeGuard's immediate assessment reveals a volatile global landscape marked by a rapidly escalating global food crisis originating from the Strait of Hormuz blockade and the Iran conflict, leading to widespread displacement and resource scarcity. Concurrently, while major tech markets demonstrate resilience, significant internal strife within the AI sector and an uptick in AI-empowered cyber threats highlight growing digital vulnerabilities. Underlying this, sustained moderate seismic activity across key tectonic zones underscores ongoing physical risks to infrastructure and regional stability. To secure your assets and ensure physical safety, proactively diversify and secure essential supply chains, establishing at least three months' critical reserves against geopolitical disruptions. Secondly, fortify digital infrastructure by immediately enhancing AI-aware cybersecurity protocols and conducting comprehensive vulnerability assessments. Finally, maintain heightened situational awareness of global humanitarian crises and seismic events, reviewing and updating emergency preparedness plans for physical assets and personnel in at-risk regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 17 km SW of K\u014dya, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shs2"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 217 km W of Tual, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsh"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsi"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 51 km SSE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shwv"
         }
     ],
-    "seismicSummary": "**ALERT: Multiple M5+ earthquakes detected across the globe!**"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just struck across Indonesia, New Zealand, Papua New Guinea, and the South Sandwich Islands!"
 }
