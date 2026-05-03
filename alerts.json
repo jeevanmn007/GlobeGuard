@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a critically volatile global landscape, marked by escalating geopolitical conflict in the Middle East and the Strait of Hormuz blockade, precipitating a slow-moving food crisis and significant humanitarian displacement, which will exacerbate global instability. Concurrently, despite a generally resilient financial market for major tech stocks, the critical AI sector is experiencing significant internal upheaval and external cybersecurity threats, indicating potential for digital and market vulnerabilities. This complex human-made and economic strain is overlaid by a concerning pattern of heightened global seismic activity. To secure assets and ensure safety, we advise immediately diversifying critical supply chains and resource sourcing against geopolitical disruptions, strengthening digital defenses while closely monitoring the volatile AI sector for broader market and operational impacts, and urgently reviewing and updating emergency preparedness protocols for physical safety, particularly in seismically active regions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shy4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 9 km WNW of Hicks Bay, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shut"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 190 km W of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shze"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNE of Yonakuni, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shza"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 51 km SSE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shwv"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck across the Pacific Rim!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
