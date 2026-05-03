@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is critically volatile, dominated by an escalating food and humanitarian crisis stemming from the war in Iran and the Strait of Hormuz blockade, which threatens global supply chains and fuels regional displacement. Concurrently, the vital AI technology sector faces significant instability due to internal power struggles and rising cyber threats, creating systemic vulnerabilities that demand vigilance. This complex geopolitical and technological flux persists against a backdrop of ongoing, moderate seismic activity across diverse regions, reminding us of persistent physical risks. To navigate this, GlobeGuard directs immediate action: first, secure critical supply chains by diversifying and localizing essential resources to mitigate food and commodity scarcity; second, fortify digital infrastructure and operational resilience against AI-driven cyber threats and service disruptions by monitoring tech sector instability; and third, enhance physical safety protocols and emergency preparedness plans for personnel and assets, anticipating localized impacts from both geopolitical events and natural hazards.",
+    "strategicPlan": "The global environment is critically stressed, marked by a deepening food and resource crisis driven by the Strait of Hormuz blockade and the Iran conflict, alongside persistent moderate seismic activity worldwide and escalating cyber threats amidst significant turmoil within leading AI development. To counter this confluence of geopolitical, physical, and digital vulnerabilities, you must immediately: 1) Fortify resource independence by establishing robust reserves of food, water, and essential supplies, while diversifying critical supply chains. 2) Harden financial and digital security through advanced cybersecurity protocols, diversified investment strategies, and maintaining accessible physical currency. 3) Ensure comprehensive physical preparedness with updated emergency kits, clear family communication plans, and thorough understanding of local natural disaster response, especially for seismic events.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shut"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 51 km SSE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shwv"
+            "title": "\u26a0\ufe0f Mag 5 - 190 km W of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shze"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 127 km E of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shxd"
+            "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNE of Yonakuni, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shza"
         }
     ],
-    "seismicSummary": "**Alert!** Multiple Mag 5 earthquakes just struck across the Pacific Rim."
+    "seismicSummary": "**Urgent: Four M4.9-M5.1 earthquakes just struck across the Pacific Rim!**"
 }
