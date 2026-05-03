@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's immediate assessment reveals a volatile global landscape marked by a rapidly escalating global food crisis originating from the Strait of Hormuz blockade and the Iran conflict, leading to widespread displacement and resource scarcity. Concurrently, while major tech markets demonstrate resilience, significant internal strife within the AI sector and an uptick in AI-empowered cyber threats highlight growing digital vulnerabilities. Underlying this, sustained moderate seismic activity across key tectonic zones underscores ongoing physical risks to infrastructure and regional stability. To secure your assets and ensure physical safety, proactively diversify and secure essential supply chains, establishing at least three months' critical reserves against geopolitical disruptions. Secondly, fortify digital infrastructure by immediately enhancing AI-aware cybersecurity protocols and conducting comprehensive vulnerability assessments. Finally, maintain heightened situational awareness of global humanitarian crises and seismic events, reviewing and updating emergency preparedness plans for physical assets and personnel in at-risk regions.",
+    "strategicPlan": "The global landscape reveals a complex and critical confluence of threats: escalating geopolitical instability stemming from the war in Iran and the Strait of Hormuz blockade is driving a burgeoning food crisis and significant displacement in the Middle East, directly impacting supply chains and humanitarian efforts. This pervasive real-world turbulence is juxtaposed against a dynamic financial environment where major tech stocks show resilience, yet the pivotal AI sector is undergoing intense internal power struggles and facing rising \"script kiddie\" cyber threats, demanding vigilance. Concurrently, persistent moderate seismic activity across the Pacific Rim underscores an enduring physical threat from natural disasters. To navigate this volatile environment, immediately diversify food and essential supply chains to build resilience against geopolitical disruptions; fortify digital assets with advanced cybersecurity measures and critically assess investment exposure to the rapidly evolving AI landscape; and finally, urgently review and update all emergency preparedness protocols for physical safety, particularly for seismic events, ensuring robust contingency plans are in place.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 217 km W of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsh"
+            "title": "\u26a0\ufe0f Mag 5.1 - 111 km SW of Turpan, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shy4"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 9 km WNW of Hicks Bay, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shut"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsi"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 51 km SSE of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shwv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 127 km E of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shxd"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just struck across Indonesia, New Zealand, Papua New Guinea, and the South Sandwich Islands!"
+    "seismicSummary": "**Alert! Multiple M5+ earthquakes are striking across Asia and the Pacific.**"
 }
