@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by a critical convergence of escalating geopolitical tensions, significant financial sector volatility, and persistent tectonic activity. The ongoing conflict in Iran and the Strait of Hormuz blockade are actively fueling a widespread food and essential resource crisis, leading to humanitarian displacement and economic strain across the globe. Concurrently, while major tech stocks show growth, the volatile AI landscape, underscored by prominent corporate disputes and the rise of \"script kiddie\" cyber threats, signals underlying systemic risks and vulnerabilities within the digital domain. This complex scenario unfolds against a backdrop of continuous moderate seismic activity across multiple regions, emphasizing the ever-present threat of natural disasters. GlobeGuard therefore advises immediate action: first, diversify and secure essential supply chains, particularly for food and critical resources, to mitigate the impact of geopolitical disruptions; second, rigorously enhance cybersecurity defenses for all digital assets and prudently review investment diversification strategies given tech sector uncertainties; and third, update and practice comprehensive emergency preparedness plans for both physical safety and asset protection against sudden environmental shifts.",
+    "strategicPlan": "The global environment presents a complex and escalating threat profile, characterized by severe geopolitical instability stemming from the war in Iran and its chokehold on global food and fuel supply chains via the Strait of Hormuz, creating widespread humanitarian crises. This is further compounded by significant internal and external volatility in the critical AI and cybersecurity sectors, even as major tech markets show relative resilience. Simultaneously, persistent moderate seismic activity across key global regions introduces an unpredictable physical risk to infrastructure. To navigate this perilous landscape and secure assets and safety, GlobeGuard directs immediate action to: **first**, fortify and diversify essential supply chains, especially for food and fuel, to withstand prolonged geopolitical disruption; **second**, drastically enhance digital defenses against evolving cyber threats, particularly those targeting AI infrastructure, and prepare for rapid shifts in the AI competitive landscape; and **third**, rigorously assess and strengthen physical asset security and geographical resilience, implementing robust emergency preparedness protocols in all operations, especially in seismically active and politically volatile regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -51,12 +51,12 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract"
         },
         {
-            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-            "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
-        },
-        {
             "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
             "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
+        },
+        {
+            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+            "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shxd"
         }
     ],
-    "seismicSummary": "URGENT: Multiple M5+ earthquakes just struck globally, including China, New Zealand, and Indonesia!"
+    "seismicSummary": "**ALERT: Magnitude 5+ earthquakes just struck China, New Zealand, Papua New Guinea, and Indonesia!**"
 }
