@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is at a critical juncture, marked by an escalating geopolitical conflict centered on Iran that is directly driving a severe, slow-moving global food and fuel crisis, leading to widespread displacement and impacting the Global South. Concurrently, the digital landscape faces increased volatility from internal AI leadership disputes and rising cyber threats from \"script kiddies,\" while major tech stocks show mixed but generally positive performance, indicating a reliance on digital infrastructure amidst broader instability. This complex human-made crisis is overlaid by heightened and geographically diverse seismic activity across the Pacific Ring of Fire and other regions, posing significant physical risks to infrastructure and populations. To navigate these convergent threats, we issue the following directive: prioritize securing diversified essential supply chains for critical resources like food and fuel; fortify all digital assets and operational networks against evolving cyber threats; and immediately review and update emergency preparedness plans, ensuring robust physical safety protocols and infrastructure resilience, particularly for operations in seismically active zones.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsi"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**ALERT: Multiple M5+ earthquakes detected across the globe!**"
 }
