@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a critical convergence of geopolitical, physical, and digital threats: escalating conflict in Iran is severely disrupting global food and fuel supply chains via the Strait of Hormuz, contributing to a humanitarian crisis, and is now accompanied by significant seismic activity, including within the volatile Iranian region. Simultaneously, the tech landscape is undergoing major AI sector upheaval, bringing increased cybersecurity risks from emerging threats. To fortify against this complex risk profile, implement these critical directives: secure and diversify essential supply chains for food, fuel, and critical resources; immediately enhance cybersecurity protocols across all digital assets and infrastructure to counter sophisticated AI-driven attacks; and update and rehearse emergency preparedness plans, particularly for seismic events and regional instability, to ensure physical safety and operational continuity.",
+    "strategicPlan": "The global landscape presents a critical convergence of threats: a rapidly escalating geopolitical conflict centered on the Strait of Hormuz is instigating a severe, slow-moving global food and resource crisis, displacing populations and draining economies, while simultaneously, the vital technology sector, particularly AI, grapples with internal instability and a surge in cyber threats, signaling potential digital vulnerabilities and financial market volatility. This intricate global instability is further amplified by a notable uptick in significant seismic activity across multiple geologically unstable regions. In response, we must swiftly implement three critical directives: 1. Prioritize strengthening local and diversified food and critical resource supply chains to build resilience against geopolitical disruptions. 2. Conduct an immediate, comprehensive review and enhancement of all digital security postures and diversify critical digital asset holdings to counter escalating cyber risks and market volatility within the tech sector. 3. Update and exercise emergency preparedness plans for natural disasters, with a focus on seismic events, ensuring physical safety and readiness in vulnerable areas.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si3t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 86 km N of No\u015frat\u0101b\u0101d, Iran",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si6f"
+            "title": "\u26a0\ufe0f Mag 4.8 - 122 km ENE of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si98"
         }
     ],
-    "seismicSummary": "A major Magnitude 6 earthquake hit the Philippines, with several other significant quakes reported globally!"
+    "seismicSummary": "Urgent: A Mag 6 earthquake struck the Philippines, with multiple other significant quakes reported worldwide!"
 }
