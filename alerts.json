@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape presents an urgent convergence of critical threats: an escalating geopolitical food crisis, driven by the Iran conflict and Strait of Hormuz blockade, is disrupting vital fertilizer and feedstock supplies, leading to reduced food nutrition and widespread displacement in the Middle East. Financially, while major tech stocks (AAPL, MSFT, PLTR, AMZN) show resilience, the AI sector is in a state of flux with the dissolution of the Microsoft-OpenAI agreement and rising cyber vulnerabilities from \"script kiddies.\" Concurrently, significant seismic activity across the Pacific Rim and South America underscores persistent physical threats. In response, GlobeGuard issues the following directives: First, immediately assess and diversify critical supply chains, particularly for essential commodities, to mitigate the impact of geopolitical choke points and ensure resource stability. Second, bolster cybersecurity defenses against evolving digital threats and strategically monitor the volatile AI sector for both opportunities and risks, adapting investment and operational strategies accordingly. Third, proactively review and update physical safety protocols and emergency preparedness plans for personnel and assets, especially in seismically active regions, to ensure resilience against potential natural disasters.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shze"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNE of Yonakuni, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shza"
+            "title": "\u26a0\ufe0f Mag 4.9 - 94 km WNW of Copiap\u00f3, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si3t"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**URGENT: Major earthquakes, including a Magnitude 6 in the Philippines, reported globally!**"
 }
