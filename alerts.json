@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - 5 km WNW of Nena, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si2z"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 111 km SW of Turpan, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shy4"
         },
@@ -71,10 +75,6 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNE of Yonakuni, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shza"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 51 km SSE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shwv"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
