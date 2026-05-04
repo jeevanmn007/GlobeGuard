@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a severe confluence of interconnected threats: a rapidly escalating geopolitical crisis centered on Iran and the Strait of Hormuz is directly fueling a slow-moving global food and supply chain crisis, exacerbated by regional displacement and underlying issues of decreasing food nutrition. Financially, while some tech sectors show resilience, key market players like Apple and Nvidia are trending down, reflecting broader economic anxieties, while the critical AI sector is mired in internal power struggles and an alarming rise in cyber vulnerabilities. Simultaneously, persistent significant seismic activity across the Pacific Ring of Fire, with recent Magnitude 6 and 5 events, underscores a heightened physical risk across multiple populated regions. To secure assets and physical safety, immediately diversify and localize critical supply chains, particularly for food and essential resources, to mitigate geopolitical disruption; second, fortify all digital infrastructure against escalating cyber threats and enhance data redundancy, especially given AI sector volatility; and third, implement updated physical emergency preparedness plans, including relocation contingencies, for personnel and assets in or reliant on geopolitically volatile areas and seismically active zones.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.91 (-0.27%)",
+            "title": "\ud83d\udcb0 NVDA: $196.69 (-0.89%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $276.19 (-1.41%)",
+            "title": "\ud83d\udcb0 AAPL: $276.56 (-1.28%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $419.51 (1.22%)",
+            "title": "\ud83d\udcb0 MSFT: $414.9 (0.11%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $147.25 (2.21%)",
+            "title": "\ud83d\udcb0 PLTR: $146.75 (1.86%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.55 (1.23%)",
+            "title": "\ud83d\udcb0 AMZN: $270.08 (0.68%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si2z"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 190 km W of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shze"
+            "title": "\u26a0\ufe0f Mag 5.7 - 2 km SE of Zocoteaca de Le\u00f3n, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si51"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 94 km WNW of Copiap\u00f3, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si3t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNE of Yonakuni, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shza"
+            "title": "\u26a0\ufe0f Mag 4.8 - 62 km SSE of Kangding, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si54"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, up to Mag 6, are striking globally."
+    "seismicSummary": "Analyzing tectonic data..."
 }
