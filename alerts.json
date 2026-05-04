@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is marked by a severe convergence of high-impact risks: escalating geopolitical tensions surrounding Iran are directly fueling a slow-moving global food and humanitarian crisis, exacerbated by strategic choke point blockades and ongoing conflict, leading to mass displacement and critically strained supply chains. Concurrently, the essential technology sector faces significant internal strife within AI leadership and escalating external cyber threats from 'script kiddies', signaling systemic digital vulnerabilities for critical assets. These man-made pressures are compounded by persistent physical hazards, evidenced by recent significant seismic activity across multiple tectonically active regions, including near geopolitical flashpoints. To secure assets and physical safety, immediately: 1. Review and enhance digital security protocols for all critical assets, given the escalating cyber threat landscape and foundational tech volatility. 2. Establish robust, localized contingency plans for essential resources, particularly food and critical supplies, to circumvent potential supply chain disruptions from geopolitical choke points. 3. Ensure personal and operational disaster preparedness plans are updated and rehearsed, accounting for both natural seismic hazards and potential civic disruption stemming from regional instability.",
+    "strategicPlan": "The global intelligence assessment indicates a critical convergence of geopolitical, physical, and digital threats: escalating conflict in Iran is severely disrupting global food and fuel supply chains via the Strait of Hormuz, contributing to a humanitarian crisis, and is now accompanied by significant seismic activity, including within the volatile Iranian region. Simultaneously, the tech landscape is undergoing major AI sector upheaval, bringing increased cybersecurity risks from emerging threats. To fortify against this complex risk profile, implement these critical directives: secure and diversify essential supply chains for food, fuel, and critical resources; immediately enhance cybersecurity protocols across all digital assets and infrastructure to counter sophisticated AI-driven attacks; and update and rehearse emergency preparedness plans, particularly for seismic events and regional instability, to ensure physical safety and operational continuity.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $198.44 (-0.0%)",
+            "title": "\ud83d\udcb0 NVDA: $198.48 (0.02%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $276.74 (-1.21%)",
+            "title": "\ud83d\udcb0 AAPL: $276.83 (-1.18%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $414.68 (0.06%)",
+            "title": "\ud83d\udcb0 MSFT: $413.62 (-0.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $147.93 (2.68%)",
+            "title": "\ud83d\udcb0 PLTR: $146.03 (1.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.2 (1.1%)",
+            "title": "\ud83d\udcb0 AMZN: $272.05 (1.41%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -51,12 +51,12 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract"
         },
         {
-            "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
-            "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
-        },
-        {
             "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
             "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
+        },
+        {
+            "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
+            "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si6f"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes reported globally, including a Mag 6 in the Philippines and a Mag 5.7 in Mexico!"
+    "seismicSummary": "A major Magnitude 6 earthquake hit the Philippines, with several other significant quakes reported globally!"
 }
