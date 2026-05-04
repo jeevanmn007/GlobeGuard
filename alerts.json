@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape is marked by a severe convergence of high-impact risks: escalating geopolitical tensions surrounding Iran are directly fueling a slow-moving global food and humanitarian crisis, exacerbated by strategic choke point blockades and ongoing conflict, leading to mass displacement and critically strained supply chains. Concurrently, the essential technology sector faces significant internal strife within AI leadership and escalating external cyber threats from 'script kiddies', signaling systemic digital vulnerabilities for critical assets. These man-made pressures are compounded by persistent physical hazards, evidenced by recent significant seismic activity across multiple tectonically active regions, including near geopolitical flashpoints. To secure assets and physical safety, immediately: 1. Review and enhance digital security protocols for all critical assets, given the escalating cyber threat landscape and foundational tech volatility. 2. Establish robust, localized contingency plans for essential resources, particularly food and critical supplies, to circumvent potential supply chain disruptions from geopolitical choke points. 3. Ensure personal and operational disaster preparedness plans are updated and rehearsed, accounting for both natural seismic hazards and potential civic disruption stemming from regional instability.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.69 (-0.89%)",
+            "title": "\ud83d\udcb0 NVDA: $198.44 (-0.0%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $276.56 (-1.28%)",
+            "title": "\ud83d\udcb0 AAPL: $276.74 (-1.21%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $414.9 (0.11%)",
+            "title": "\ud83d\udcb0 MSFT: $414.68 (0.06%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $146.75 (1.86%)",
+            "title": "\ud83d\udcb0 PLTR: $147.93 (2.68%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $270.08 (0.68%)",
+            "title": "\ud83d\udcb0 AMZN: $271.2 (1.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si3t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 62 km SSE of Kangding, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si54"
+            "title": "\u26a0\ufe0f Mag 4.8 - 86 km N of No\u015frat\u0101b\u0101d, Iran",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si6f"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple strong earthquakes reported globally, including a Mag 6 in the Philippines and a Mag 5.7 in Mexico!"
 }
