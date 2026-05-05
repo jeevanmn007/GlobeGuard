@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely volatile, driven by the expanding geopolitical crisis around Iran, which is severely disrupting critical food and fuel supply chains through the Strait of Hormuz and exacerbating humanitarian displacement across the Middle East. This strategic pressure is compounded by significant internal instability within the AI sector, characterized by high-profile legal battles and an increase in opportunistic cyber threats, leading to mixed but generally cautious market sentiment in key tech stocks. Simultaneously, a consistent pattern of notable seismic activity worldwide underscores an enduring physical hazard risk to infrastructure and populations. To secure assets and physical safety, GlobeGuard advises immediate action: first, prioritize bolstering critical supply chain resilience and diversifying essential resource procurement to mitigate the impacts of geopolitical friction; second, fortify digital asset security against emerging cyber threats and prudently reassess financial portfolios given the tech sector's volatility; and third, enhance physical safety protocols and disaster preparedness plans, including structural integrity assessments, in response to elevated global seismic risks.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -51,12 +51,12 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract"
         },
         {
-            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-            "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
-        },
-        {
             "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
             "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
+        },
+        {
+            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+            "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si51"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 94 km WNW of Copiap\u00f3, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si3t"
+            "title": "\u26a0\ufe0f Mag 5.3 - Banda Sea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000siat"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 122 km ENE of Miyako, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si98"
+            "title": "\u26a0\ufe0f Mag 5.2 - 98 km ENE of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si9t"
         }
     ],
-    "seismicSummary": "**URGENT:** A Mag 6 earthquake just hit the Philippines, with multiple other significant quakes reported globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
