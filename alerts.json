@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global situation presents a complex and urgent risk profile. Geopolitically, the Strait of Hormuz blockade and the extended conflict in Iran are driving a severe, slow-moving food and nutrition crisis with significant humanitarian impacts, exemplified by displacement in Lebanon and widespread supply chain vulnerabilities. Financially, the tech sector is exhibiting heightened volatility and internal power struggles, alongside emerging cybersecurity threats from unsophisticated but persistent actors, indicating potential for digital disruption and asset devaluation. Concurrently, a noticeable uptick in moderate seismic activity across key regions, from the Pacific to the Americas, underscores an ongoing, elevated physical threat to infrastructure and regional stability. To mitigate these convergent risks, GlobeGuard advises **first**, securing diversified, localized food and water supplies and contingency planning for regional disruptions; **second**, fortifying digital asset protections against evolving cyber threats and reviewing tech sector exposure given internal volatility; and **third**, ensuring robust emergency preparedness for seismic events, particularly in vulnerable regions, and assessing infrastructure resilience against physical shocks.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000siat"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.8, just struck New Zealand, Indonesia, and Mexico!"
 }
