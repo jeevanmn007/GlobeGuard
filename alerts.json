@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "**Strategic Directive:** The global environment is critically unstable, marked by a deepening geopolitical conflict in the Middle East, particularly the war in Iran and the Strait of Hormuz blockade, which is precipitating a global food crisis characterized by both scarcity and nutritional degradation, and exacerbating humanitarian displacement. Financially, while major tech stocks show mixed, largely stable performance, underlying volatility in the critical AI sector, coupled with escalating cybersecurity threats from advanced script kiddies, signals potential for significant digital and economic disruption. Physically, persistent moderate seismic activity across multiple regions, including Indonesia, Mexico, and Japan, presents an ongoing risk of localized natural disasters that could further strain already fragile supply chains and humanitarian efforts. To mitigate these convergent risks, secure a diversified and robust supply chain for essential provisions, including a minimum three-month reserve of non-perishable food items; fortify all digital and financial assets with multi-layered cybersecurity protocols and consider diversifying investments away from single-point-of-failure tech ventures; and finally, immediately review and update comprehensive emergency preparedness plans for both natural disasters and regional instability, ensuring communication redundancies and designated safe havens are established.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 5 km WNW of Nena, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si2z"
+            "title": "\u26a0\ufe0f Mag 5.8 - 76 km S of Tambolaka, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sicu"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.7 - 2 km SE of Zocoteaca de Le\u00f3n, Mexico",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si9t"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Multiple strong earthquakes are striking worldwide right now!**"
 }
