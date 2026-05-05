@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critical juncture, characterized by an escalating geopolitical crisis in the Middle East that is actively creating a widespread food and resource scarcity, further compounded by humanitarian displacement in regions like Lebanon. Concurrently, the pivotal AI sector is experiencing profound internal instability and market volatility, as evidenced by significant stock dips and high-profile disputes, while persistent, substantial seismic activity across the Pacific Ring of Fire underscores inherent physical vulnerabilities and potential supply chain disruptions. To secure assets and ensure physical safety, first, immediately fortify essential provisions, establishing a minimum 30-day supply of food, water, and critical medications, concurrently reviewing and updating disaster preparedness plans for both physical security and potential infrastructure disruptions. Second, strategically diversify financial holdings, reducing over-reliance on volatile technology sectors while prioritizing digital asset security against a backdrop of increasing cyber threats and market uncertainty. Third, maintain heightened vigilance on global supply chain integrity and geopolitical shifts, preparing adaptable logistical and operational strategies to swiftly mitigate impacts from evolving conflicts and natural disasters.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si9t"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong M5+ earthquakes hit New Zealand, Indonesia, and Japan!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
