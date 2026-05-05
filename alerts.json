@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, characterized by an escalating, multifaceted food security crisis driven by geopolitical conflict in the Middle East and severe vulnerabilities along key supply routes like the Strait of Hormuz, compounded by widespread humanitarian displacement. Concurrently, significant internal upheaval and strategic uncertainty within the vital AI sector are amplifying global cybersecurity risks and contributing to market volatility. This complex geopolitical and digital fragility is further underscored by a notable surge in seismic activity across the Pacific Ring of Fire, signaling widespread physical instability in critical regions. To mitigate these immediate threats, first, secure diverse, non-perishable food and essential medical supplies, particularly given the ongoing global food crisis. Second, rigorously enhance cybersecurity measures for all digital assets to counter increased \"script kiddie\" threats and diversify investment portfolios beyond the volatile tech sector. Third, immediately review and activate comprehensive emergency preparedness plans for physical safety, especially for those in seismically active zones, ensuring robust communication and evacuation readiness.",
+    "strategicPlan": "The global landscape presents a critical juncture, characterized by an escalating geopolitical crisis in the Middle East that is actively creating a widespread food and resource scarcity, further compounded by humanitarian displacement in regions like Lebanon. Concurrently, the pivotal AI sector is experiencing profound internal instability and market volatility, as evidenced by significant stock dips and high-profile disputes, while persistent, substantial seismic activity across the Pacific Ring of Fire underscores inherent physical vulnerabilities and potential supply chain disruptions. To secure assets and ensure physical safety, first, immediately fortify essential provisions, establishing a minimum 30-day supply of food, water, and critical medications, concurrently reviewing and updating disaster preparedness plans for both physical security and potential infrastructure disruptions. Second, strategically diversify financial holdings, reducing over-reliance on volatile technology sectors while prioritizing digital asset security against a backdrop of increasing cyber threats and market uncertainty. Third, maintain heightened vigilance on global supply chain integrity and geopolitical shifts, preparing adaptable logistical and operational strategies to swiftly mitigate impacts from evolving conflicts and natural disasters.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.35 (-1.07%)",
+            "title": "\ud83d\udcb0 NVDA: $196.5 (-1.0%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $284.23 (2.67%)",
+            "title": "\ud83d\udcb0 AAPL: $284.18 (2.66%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $412.08 (-0.37%)",
+            "title": "\ud83d\udcb0 MSFT: $411.38 (-0.54%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.25 (-6.7%)",
+            "title": "\ud83d\udcb0 PLTR: $135.91 (-6.93%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $273.88 (0.67%)",
+            "title": "\ud83d\udcb0 AMZN: $273.55 (0.55%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si9t"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f ALERT: Four strong 5+ magnitude earthquakes just hit the Pacific Rim!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong M5+ earthquakes hit New Zealand, Indonesia, and Japan!"
 }
