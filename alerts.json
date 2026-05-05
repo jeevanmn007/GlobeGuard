@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex and urgent risk profile. Geopolitically, the Strait of Hormuz blockade and the extended conflict in Iran are driving a severe, slow-moving food and nutrition crisis with significant humanitarian impacts, exemplified by displacement in Lebanon and widespread supply chain vulnerabilities. Financially, the tech sector is exhibiting heightened volatility and internal power struggles, alongside emerging cybersecurity threats from unsophisticated but persistent actors, indicating potential for digital disruption and asset devaluation. Concurrently, a noticeable uptick in moderate seismic activity across key regions, from the Pacific to the Americas, underscores an ongoing, elevated physical threat to infrastructure and regional stability. To mitigate these convergent risks, GlobeGuard advises **first**, securing diversified, localized food and water supplies and contingency planning for regional disruptions; **second**, fortifying digital asset protections against evolving cyber threats and reviewing tech sector exposure given internal volatility; and **third**, ensuring robust emergency preparedness for seismic events, particularly in vulnerable regions, and assessing infrastructure resilience against physical shocks.",
+    "strategicPlan": "The global landscape currently exhibits a critical and rapidly converging threat profile. Geopolitically, the Strait of Hormuz blockade and the ongoing conflict in Iran are actively fueling a severe global food and fertilizer crisis, exacerbating humanitarian displacement and straining supply chains, especially in the Global South. Financially, while major tech stocks show mixed performance, Palantir's significant decline signals underlying strategic market unease. Technologically, the rise of widespread \"script kiddie\" cyber threats coupled with significant internal instability within leading AI development firms like OpenAI points to heightened digital vulnerabilities and potential disruption. Concurrently, a concerning cluster of Magnitude 5.2-5.8 seismic events across the Pacific Ring of Fire (New Zealand, Indonesia, Japan) indicates elevated physical risks to critical infrastructure and populations. To navigate this complex environment, secure assets, and ensure safety, prioritize proactively diversifying and localizing critical supply chains, especially for food and essential resources, to build resilience against geopolitical disruptions; simultaneously implement robust, multi-layered cybersecurity protocols and enhance digital resilience for all organizational and personal assets against escalating cyber threats and potential AI-related disruptions; and urgently review and reinforce all disaster preparedness and emergency response plans, focusing on seismic events and potential secondary impacts in high-risk zones.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $198.48 (0.02%)",
+            "title": "\ud83d\udcb0 NVDA: $197.48 (-0.5%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $276.83 (-1.18%)",
+            "title": "\ud83d\udcb0 AAPL: $282.57 (2.07%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $413.62 (-0.2%)",
+            "title": "\ud83d\udcb0 MSFT: $410.55 (-0.74%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $146.03 (1.36%)",
+            "title": "\ud83d\udcb0 PLTR: $136.09 (-6.81%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.05 (1.41%)",
+            "title": "\ud83d\udcb0 AMZN: $273.49 (0.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sicu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 2 km SE of Zocoteaca de Le\u00f3n, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si51"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - Banda Sea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000siat"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 98 km ENE of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si9t"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.8, just struck New Zealand, Indonesia, and Mexico!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ quakes just reported near New Zealand, Indonesia, and Japan!"
 }
