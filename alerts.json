@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is undergoing rapid, systemic deterioration, characterized by severe geopolitical conflicts, notably the war in Iran and the Strait of Hormuz blockade, which are triggering escalating food and energy crises and undermining global nutritional security. Financially, while major tech stocks show some resilience, significant strategic turbulence within the AI sector, coupled with rising cyber threats from \"script kiddies,\" signals underlying market volatility and digital vulnerabilities. Concurrently, persistent moderate seismic activity across critical regions like the Pacific Ring of Fire underscores ongoing physical risks. In response, GlobeGuard directs immediate action: 1) Prioritize supply chain resilience and localized resource diversification for essential goods, particularly food and energy, to mitigate geopolitical disruptions. 2) Fortify all digital assets with enhanced cybersecurity protocols and strategically diversify financial portfolios to navigate tech sector volatility and cyber risks. 3) Review and reinforce physical safety and emergency preparedness plans for all personnel and infrastructure, especially in seismically active zones, ensuring readiness for potential geological events.",
+    "strategicPlan": "GlobeGuard assesses the global threat level as critically elevated, driven by a dangerous convergence of geopolitical, economic, and physical vulnerabilities. The escalating conflict in Iran, exacerbated by the Strait of Hormuz blockade, is actively fueling a systemic food and energy crisis that threatens global supply chains and economic stability. Concurrently, the critical AI sector is experiencing significant internal turmoil and external cybersecurity threats, exemplified by 'killer script kiddies,' which, despite some resilience in major tech stocks, signals heightened digital risks. This is further compounded by persistent, moderate-to-strong seismic activity across key tectonic zones, posing direct physical hazards. To navigate this complex environment, secure your physical safety by establishing comprehensive emergency preparedness, including a minimum three-month supply of essential provisions and updated evacuation plans. Fortify your financial resilience through diversified asset allocation, considering real assets or defensive positions, while implementing enhanced security protocols for all digital financial accounts. Furthermore, proactively upgrade your digital security posture across all personal and organizational systems to counter the growing sophistication of cyber threats, safeguarding sensitive data and critical infrastructure.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.7 (5.19%)",
+            "title": "\ud83d\udcb0 NVDA: $207.83 (5.77%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $287.41 (1.14%)",
+            "title": "\ud83d\udcb0 AAPL: $287.51 (1.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $413.7 (0.56%)",
+            "title": "\ud83d\udcb0 MSFT: $413.96 (0.63%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.39 (-1.12%)",
+            "title": "\ud83d\udcb0 PLTR: $133.79 (-1.56%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $276.91 (1.23%)",
+            "title": "\ud83d\udcb0 AMZN: $274.99 (0.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes up to Mag 5.8 are urgently shaking across the Pacific Ring of Fire."
+    "seismicSummary": "Alert: Several strong quakes just struck the Pacific Rim, ranging from Mag 5.2 to 5.8!"
 }
