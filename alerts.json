@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses the global threat level as critically elevated, driven by a dangerous convergence of geopolitical, economic, and physical vulnerabilities. The escalating conflict in Iran, exacerbated by the Strait of Hormuz blockade, is actively fueling a systemic food and energy crisis that threatens global supply chains and economic stability. Concurrently, the critical AI sector is experiencing significant internal turmoil and external cybersecurity threats, exemplified by 'killer script kiddies,' which, despite some resilience in major tech stocks, signals heightened digital risks. This is further compounded by persistent, moderate-to-strong seismic activity across key tectonic zones, posing direct physical hazards. To navigate this complex environment, secure your physical safety by establishing comprehensive emergency preparedness, including a minimum three-month supply of essential provisions and updated evacuation plans. Fortify your financial resilience through diversified asset allocation, considering real assets or defensive positions, while implementing enhanced security protocols for all digital financial accounts. Furthermore, proactively upgrade your digital security posture across all personal and organizational systems to counter the growing sophistication of cyber threats, safeguarding sensitive data and critical infrastructure.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3"
         }
     ],
-    "seismicSummary": "Alert: Several strong quakes just struck the Pacific Rim, ranging from Mag 5.2 to 5.8!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
