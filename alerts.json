@@ -61,20 +61,20 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 127 km ENE of Pauanui, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sidq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.8 - 76 km S of Tambolaka, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sicu"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svbv"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 13 km NW of Tumbes, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svc4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 42 km NW of Dajal, Pakistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svi6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svfd"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
