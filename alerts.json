@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex and urgent convergence of threats: geopolitical tensions from the Iran conflict and Strait of Hormuz blockade are actively driving a severe global food and energy crisis, exacerbating supply chain vulnerabilities and impacting nutrition worldwide. Simultaneously, the tech sector, while showing broad financial resilience, is facing significant internal instability within leading AI entities and an emerging wave of AI-enabled cybersecurity threats. Beneath these layers, persistent seismic activity, notably around the Pacific Ring of Fire, signals ongoing physical risks. To navigate this environment, GlobeGuard advises immediate action: first, secure critical resources by diversifying energy supplies and bolstering resilient, long-term food stores; second, fortify digital infrastructure against advanced cyber threats and re-evaluate strategic tech dependencies amidst AI sector volatility; and third, meticulously review and enhance physical emergency preparedness plans, focusing on seismic resilience and continuity of operations.",
+    "strategicPlan": "The global intelligence landscape reveals a critical confluence of escalating threats: an ongoing geopolitical conflict centered in Iran is directly fueling a severe, slow-moving global food and energy crisis, impacting supply chains and socio-economic stability worldwide, exacerbated by an 'invisible force' diminishing food quality and the nascent \"largest energy crisis in modern history.\" Concurrently, the digital realm faces heightened vulnerability from increasingly sophisticated cyber threats (\"killer script kiddies\") and significant strategic instabilities within critical AI entities, as evidenced by the breakdown of Microsoft and OpenAI's AGI agreement and the Musk v. Altman disputes. Adding to this systemic fragility, recent significant seismic activity across the Pacific Ring of Fire (Alaska, Kermadec, Philippines, Papua New Guinea) underscores ongoing physical threats to infrastructure and populations in vulnerable regions. In response, GlobeGuard directs immediate action: first, fortify critical supply chains and diversify essential resource holdings, prioritizing localized resilience against projected food and energy shocks; second, implement advanced cybersecurity protocols and conduct thorough vulnerability assessments to mitigate escalating digital threats and AI-related instabilities; and third, reinforce physical safety protocols and emergency preparedness plans, particularly for seismic events and potential infrastructure impacts in high-risk zones, ensuring rapid response capabilities.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.74 (4.2%)",
+            "title": "\ud83d\udcb0 NVDA: $204.59 (4.12%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $286.12 (0.68%)",
+            "title": "\ud83d\udcb0 AAPL: $286.67 (0.88%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $416.87 (1.33%)",
+            "title": "\ud83d\udcb0 MSFT: $412.97 (0.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.01 (-0.66%)",
+            "title": "\ud83d\udcb0 PLTR: $132.81 (-2.28%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $273.82 (0.1%)",
+            "title": "\ud83d\udcb0 AMZN: $275.61 (0.75%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svmz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 134 km WNW of Panguna, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3"
+            "title": "\u26a0\ufe0f Mag 5.5 - 25 km ENE of Baganga, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svp9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svbv"
+            "title": "\u26a0\ufe0f Mag 5.2 - 134 km WNW of Panguna, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide right now!"
+    "seismicSummary": "**Alert: Multiple M5+ earthquakes are striking globally, from Alaska to Papua New Guinea!**"
 }
