@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, marked by a convergence of severe threats: escalating food and energy crises fueled by the Iran war and Strait of Hormuz blockade are fundamentally destabilizing global supply chains; concurrent significant instability in the AI sector (Microsoft/OpenAI, Palantir decline) combined with rising 'script kiddie' cyber threats signals pronounced digital and financial vulnerability; and a notable uptick in moderate seismic activity underscores persistent natural hazards across multiple regions. To navigate this complex environment, secure your assets by immediately assessing and diversifying critical supply chains for food and energy, establishing short-term reserves where feasible; protect your digital and financial holdings through enhanced cybersecurity measures and careful monitoring of volatile tech sector investments; and prioritize physical safety by updating and rehearsing emergency preparedness plans, particularly for seismic events, across all relevant operational and residential areas.",
+    "strategicPlan": "The global landscape presents a complex and urgent convergence of threats: geopolitical tensions from the Iran conflict and Strait of Hormuz blockade are actively driving a severe global food and energy crisis, exacerbating supply chain vulnerabilities and impacting nutrition worldwide. Simultaneously, the tech sector, while showing broad financial resilience, is facing significant internal instability within leading AI entities and an emerging wave of AI-enabled cybersecurity threats. Beneath these layers, persistent seismic activity, notably around the Pacific Ring of Fire, signals ongoing physical risks. To navigate this environment, GlobeGuard advises immediate action: first, secure critical resources by diversifying energy supplies and bolstering resilient, long-term food stores; second, fortify digital infrastructure against advanced cyber threats and re-evaluate strategic tech dependencies amidst AI sector volatility; and third, meticulously review and enhance physical emergency preparedness plans, focusing on seismic resilience and continuity of operations.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.5 (-1.0%)",
+            "title": "\ud83d\udcb0 NVDA: $204.74 (4.2%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $284.18 (2.66%)",
+            "title": "\ud83d\udcb0 AAPL: $286.12 (0.68%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $411.38 (-0.54%)",
+            "title": "\ud83d\udcb0 MSFT: $416.87 (1.33%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.91 (-6.93%)",
+            "title": "\ud83d\udcb0 PLTR: $135.01 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $273.55 (0.55%)",
+            "title": "\ud83d\udcb0 AMZN: $273.82 (0.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 235 km ESE of Attu Station, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svnr"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.6 - south of the Kermadec Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svmz"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 134 km WNW of Panguna, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svbv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 13 km NW of Tumbes, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svc4"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 42 km NW of Dajal, Pakistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svi6"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Strong quakes, up to Mag 5.2, reported globally."
+    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide right now!"
 }
