@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global situation is critical, marked by a convergence of severe threats: escalating food and energy crises fueled by the Iran war and Strait of Hormuz blockade are fundamentally destabilizing global supply chains; concurrent significant instability in the AI sector (Microsoft/OpenAI, Palantir decline) combined with rising 'script kiddie' cyber threats signals pronounced digital and financial vulnerability; and a notable uptick in moderate seismic activity underscores persistent natural hazards across multiple regions. To navigate this complex environment, secure your assets by immediately assessing and diversifying critical supply chains for food and energy, establishing short-term reserves where feasible; protect your digital and financial holdings through enhanced cybersecurity measures and careful monitoring of volatile tech sector investments; and prioritize physical safety by updating and rehearsing emergency preparedness plans, particularly for seismic events, across all relevant operational and residential areas.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -15,8 +15,8 @@
             "link": "https://www.npr.org/2026/04/24/nx-s1-5775733/war-in-iran-food-fuel-global-south"
         },
         {
-            "title": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
-            "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/"
+            "title": "The largest energy crisis in modern history is only beginning",
+            "link": "https://www.semafor.com/article/05/05/2026/the-largest-energy-crisis-in-modern-history-is-only-beginning"
         }
     ],
     "stock": [
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 134 km WNW of Panguna, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svbv"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 42 km NW of Dajal, Pakistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svi6"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svfd"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\u26a0\ufe0f Strong quakes, up to Mag 5.2, reported globally."
 }
