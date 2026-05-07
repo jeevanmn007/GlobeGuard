@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating global threat landscape characterized by the severe geopolitical and humanitarian repercussions of the ongoing Iran conflict, manifesting as a pervasive food and energy crisis exacerbated by the Strait of Hormuz blockade, while the critical artificial intelligence sector faces significant internal instability with major partnership realignments and growing cyber threats from advanced 'script kiddies,' all underscored by persistent global tectonic activity with multiple recent magnitude 5+ earthquakes. **Your immediate directive is three-fold:** first, secure your financial and physical assets by diversifying investments into essential commodities and reliable stores of value, while establishing a strategic reserve of non-perishable food, water, and alternative energy sources; second, bolster physical safety by developing comprehensive emergency preparedness plans, including secure communication methods and evacuation strategies, particularly if located in seismically active zones or regions vulnerable to supply chain disruptions; and third, fortify digital infrastructure against emerging AI-powered cyber threats through enhanced threat detection, robust authentication, and immutable backup solutions.",
+    "strategicPlan": "The global environment is critically unstable, characterized by a severe and escalating food and energy crisis stemming from the Iran conflict and Strait of Hormuz blockade, profoundly impacting global supply chains and vulnerable populations. This geopolitical instability is compounded by a digital landscape facing heightened cybersecurity threats and significant internal turmoil within the critical AI development sector, while persistent, substantial seismic activity across key regions like the Pacific Ring of Fire underscores enduring physical risks. To navigate this multi-faceted threat environment, immediately: 1) Fortify digital and financial assets through robust cybersecurity protocols and strategic investment diversification against systemic shocks. 2) Secure essential physical resources, including non-perishable food, water, and emergency power, to build resilience against anticipated supply chain disruptions and natural disasters. 3) Maintain acute vigilance on evolving geopolitical dynamics, critical trade routes, and technological advancements to anticipate and mitigate future shocks.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.04 (2.03%)",
+            "title": "\ud83d\udcb0 NVDA: $212.07 (2.04%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $288.49 (0.34%)",
+            "title": "\ud83d\udcb0 AAPL: $287.19 (-0.11%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $421.3 (1.77%)",
+            "title": "\ud83d\udcb0 MSFT: $422.48 (2.06%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.46 (2.74%)",
+            "title": "\ud83d\udcb0 PLTR: $136.52 (2.04%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.67 (-0.84%)",
+            "title": "\ud83d\udcb0 AMZN: $272.12 (-1.04%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svrl"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck diverse regions worldwide."
+    "seismicSummary": "Four M5+ earthquakes just struck across the globe!"
 }
