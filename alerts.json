@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is characterized by converging high-impact threats across geopolitical, technological, and physical domains. The war in Iran is catalyzing a multi-faceted food and energy crisis, with the Strait of Hormuz blockade impacting global fertilizer and feedstock supplies, threatening a \"slow-moving food crisis\" alongside an \"energy crisis\" of historic proportions. While key tech stocks demonstrate resilience, the significant internal power struggles and renegotiations within the AI sector, coupled with emerging cybersecurity threats from \"script kiddies,\" signal potential volatility and vulnerabilities within critical digital infrastructure. Simultaneously, a cluster of magnitude 5+ seismic events across the Pacific Ring of Fire highlights an elevated physical risk profile, threatening infrastructure and supply lines in a geologically active and economically vital region. In response, GlobeGuard directs the following actions: First, secure and diversify physical assets, prioritizing resilient supply chains for essential commodities and exploring localized food and energy autonomy. Second, fortify digital defenses against evolving cyber threats while closely monitoring the unstable AI landscape for strategic shifts and opportunities. Third, immediately review and enhance all emergency preparedness and response plans, ensuring robust protocols for both physical safety and operational continuity in regions susceptible to both geopolitical and natural disruptions.",
+    "strategicPlan": "GlobeGuard assesses an escalating global threat landscape characterized by the severe geopolitical and humanitarian repercussions of the ongoing Iran conflict, manifesting as a pervasive food and energy crisis exacerbated by the Strait of Hormuz blockade, while the critical artificial intelligence sector faces significant internal instability with major partnership realignments and growing cyber threats from advanced 'script kiddies,' all underscored by persistent global tectonic activity with multiple recent magnitude 5+ earthquakes. **Your immediate directive is three-fold:** first, secure your financial and physical assets by diversifying investments into essential commodities and reliable stores of value, while establishing a strategic reserve of non-perishable food, water, and alternative energy sources; second, bolster physical safety by developing comprehensive emergency preparedness plans, including secure communication methods and evacuation strategies, particularly if located in seismically active zones or regions vulnerable to supply chain disruptions; and third, fortify digital infrastructure against emerging AI-powered cyber threats through enhanced threat detection, robust authentication, and immutable backup solutions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.62 (2.3%)",
+            "title": "\ud83d\udcb0 NVDA: $212.04 (2.03%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $290.62 (1.08%)",
+            "title": "\ud83d\udcb0 AAPL: $288.49 (0.34%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $424.14 (2.46%)",
+            "title": "\ud83d\udcb0 MSFT: $421.3 (1.77%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $138.28 (3.36%)",
+            "title": "\ud83d\udcb0 PLTR: $137.46 (2.74%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $273.11 (-0.68%)",
+            "title": "\ud83d\udcb0 AMZN: $272.67 (-0.84%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 25 km ENE of Baganga, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svp9"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svw1"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 151 km WNW of Panguna, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svu7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svrl"
         }
     ],
-    "seismicSummary": "**Alert: Multiple Mag 5 earthquakes just struck across the Pacific Ring of Fire!**"
+    "seismicSummary": "Multiple M5+ earthquakes just struck diverse regions worldwide."
 }
