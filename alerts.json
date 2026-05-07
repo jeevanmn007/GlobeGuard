@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape is defined by an alarming convergence of critical threats. Geopolitically, the conflict in Iran and the Strait of Hormuz blockade are actively precipitating a severe, slow-moving global food and energy crisis, exacerbating resource scarcity and compromising nutritional quality worldwide, with significant humanitarian and economic repercussions, particularly for the Global South. Financially, while some tech sectors exhibit resilience, this occurs amidst significant AI-driven volatility, including the weaponization of AI by \"script kiddies\" and internal disputes among AI giants, signaling elevated cyber risk and an unpredictable technological future. Concurrently, persistent moderate seismic activity across diverse, tectonically active regions serves as a constant reminder of underlying physical instability. In response, GlobeGuard directs immediate action: first, prioritize securing diverse, robust stockpiles of essential food, water, and alternative energy, and critically assess personal and operational supply chain vulnerabilities; second, significantly bolster digital defenses and incident response protocols against the rising tide of AI-enhanced cyber threats; and third, meticulously review and update emergency preparedness plans for physical safety, focusing on communication redundancies and secure relocation strategies.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svp9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 134 km WNW of Panguna, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svm3"
+            "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svw1"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Alert: Multiple M5+ earthquakes reported across Alaska, Philippines, and the Kermadec Islands!**"
 }
