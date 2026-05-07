@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, characterized by a severe and escalating food and energy crisis stemming from the Iran conflict and Strait of Hormuz blockade, profoundly impacting global supply chains and vulnerable populations. This geopolitical instability is compounded by a digital landscape facing heightened cybersecurity threats and significant internal turmoil within the critical AI development sector, while persistent, substantial seismic activity across key regions like the Pacific Ring of Fire underscores enduring physical risks. To navigate this multi-faceted threat environment, immediately: 1) Fortify digital and financial assets through robust cybersecurity protocols and strategic investment diversification against systemic shocks. 2) Secure essential physical resources, including non-perishable food, water, and emergency power, to build resilience against anticipated supply chain disruptions and natural disasters. 3) Maintain acute vigilance on evolving geopolitical dynamics, critical trade routes, and technological advancements to anticipate and mitigate future shocks.",
+    "strategicPlan": "The global environment is currently characterized by a critical confluence of escalating threats: geopolitical tensions centered on Iran are severely disrupting global energy and food supply chains, leading to unprecedented resource scarcity, while the technology sector navigates significant internal strife within AI giants and a rapidly evolving, AI-amplified cyber threat landscape, despite pockets of financial resilience in specific tech stocks. This complex situation is underpinned by heightened geophysical instability, evidenced by significant seismic activity across multiple major fault lines. In response, GlobeGuard advises immediate action: prioritize diversification of essential resources by securing long-term food and energy supplies and evaluating alternative logistics channels; strengthen digital infrastructure and cybersecurity protocols, particularly against AI-enhanced threats, ensuring robust offline data backups; and review and update emergency preparedness plans, including physical asset protection and contingency relocation strategies, especially for assets in seismically active zones or critical supply chain nodes.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.07 (2.04%)",
+            "title": "\ud83d\udcb0 NVDA: $211.5 (1.77%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $287.19 (-0.11%)",
+            "title": "\ud83d\udcb0 AAPL: $287.44 (-0.02%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $422.48 (2.06%)",
+            "title": "\ud83d\udcb0 MSFT: $420.77 (1.65%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.52 (2.04%)",
+            "title": "\ud83d\udcb0 PLTR: $137.05 (2.44%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.12 (-1.04%)",
+            "title": "\ud83d\udcb0 AMZN: $271.17 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svu7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svrl"
+            "title": "\u26a0\ufe0f Mag 4.7 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svzd"
         }
     ],
-    "seismicSummary": "Four M5+ earthquakes just struck across the globe!"
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.3, are occurring globally."
 }
