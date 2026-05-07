@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, marked by an escalating, geopolitically driven food and energy crisis emanating from the war in Iran and the Strait of Hormuz blockade, alongside significant internal volatility within the crucial AI technology sector. This complex array of threats is compounded by a notable increase in seismic activity across the Pacific Ring of Fire, indicating a heightened confluence of geopolitical, economic, and physical risks. To secure assets and physical safety, prioritize establishing resilient local supply chains for critical resources, diversify financial portfolios to mitigate tech sector instability while bolstering robust cybersecurity defenses against evolving threats, and meticulously review and enhance emergency preparedness and infrastructure resilience, especially in areas prone to seismic events.",
+    "strategicPlan": "The global strategic environment is characterized by converging high-impact threats across geopolitical, technological, and physical domains. The war in Iran is catalyzing a multi-faceted food and energy crisis, with the Strait of Hormuz blockade impacting global fertilizer and feedstock supplies, threatening a \"slow-moving food crisis\" alongside an \"energy crisis\" of historic proportions. While key tech stocks demonstrate resilience, the significant internal power struggles and renegotiations within the AI sector, coupled with emerging cybersecurity threats from \"script kiddies,\" signal potential volatility and vulnerabilities within critical digital infrastructure. Simultaneously, a cluster of magnitude 5+ seismic events across the Pacific Ring of Fire highlights an elevated physical risk profile, threatening infrastructure and supply lines in a geologically active and economically vital region. In response, GlobeGuard directs the following actions: First, secure and diversify physical assets, prioritizing resilient supply chains for essential commodities and exploring localized food and energy autonomy. Second, fortify digital defenses against evolving cyber threats while closely monitoring the unstable AI landscape for strategic shifts and opportunities. Third, immediately review and enhance all emergency preparedness and response plans, ensuring robust protocols for both physical safety and operational continuity in regions susceptible to both geopolitical and natural disruptions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.83 (5.77%)",
+            "title": "\ud83d\udcb0 NVDA: $212.62 (2.3%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $287.51 (1.17%)",
+            "title": "\ud83d\udcb0 AAPL: $290.62 (1.08%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $413.96 (0.63%)",
+            "title": "\ud83d\udcb0 MSFT: $424.14 (2.46%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.79 (-1.56%)",
+            "title": "\ud83d\udcb0 PLTR: $138.28 (3.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $274.99 (0.53%)",
+            "title": "\ud83d\udcb0 AMZN: $273.11 (-0.68%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 235 km ESE of Attu Station, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svnr"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 25 km ENE of Baganga, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svp9"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svw1"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 281 km E of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svwn"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 151 km WNW of Panguna, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svu7"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes are striking various global locations!"
+    "seismicSummary": "**Alert: Multiple Mag 5 earthquakes just struck across the Pacific Ring of Fire!**"
 }
