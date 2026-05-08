@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is critically unstable, marked by a convergence of severe geopolitical, economic, and physical threats. Geopolitically, the ongoing war in Iran and the Strait of Hormuz blockade are actively precipitating a deepening, slow-motion food and energy crisis with global ramifications, directly impacting supply chains and resource availability. Financially, while some tech stocks show resilience, the critical AI sector is experiencing significant internal strife and external cyber threats, signaling potential market volatility and increased digital vulnerability. Concurrently, persistent seismic activity, particularly in the Papua New Guinea region, underscores ongoing physical risks that could exacerbate existing systemic stresses. In response, all GlobeGuard personnel and associated assets must immediately: 1. **Secure Essential Resources:** Prioritize establishing robust reserves of non-perishable food, potable water, and alternative energy sources, anticipating prolonged supply chain disruptions. 2. **Fortify Digital Assets:** Initiate an urgent, comprehensive audit and upgrade of all cybersecurity protocols and systems to defend against escalating and increasingly sophisticated digital threats. 3. **Enhance Physical Preparedness:** Review and update emergency response plans, focusing on physical safety and infrastructure resilience, particularly for operations located in or reliant on tectonically active regions.",
+    "strategicPlan": "The global strategic environment is critically unstable, defined by an accelerating energy and food crisis, exacerbated by the Strait of Hormuz blockade and the conflict in Iran, leading to widespread supply chain disruptions and declining nutritional quality globally. Financially, while major tech stocks show mixed performance, significant internal turmoil within the AI sector, coupled with a rise in 'script kiddie' cyber threats, signals increasing digital vulnerabilities. Concurrently, moderate seismic activity across diverse regions, including the Indian Ridge, Papua New Guinea, and Peru, highlights persistent and widespread physical risks. Therefore, immediately secure essential resources by assessing and fortifying personal and operational supply chains against food and energy shocks; enhance digital resilience through robust cybersecurity measures and strategically diversify tech investments away from potentially volatile AI-centric ventures; and comprehensively review and update emergency preparedness plans for physical safety in light of ongoing seismic activity and potential broader systemic collapse.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.32 (1.8%)",
+            "title": "\ud83d\udcb0 NVDA: $215.22 (1.76%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $292.7 (1.83%)",
+            "title": "\ud83d\udcb0 AAPL: $293.26 (2.02%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $415.56 (-1.24%)",
+            "title": "\ud83d\udcb0 MSFT: $415.06 (-1.36%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.64 (-0.3%)",
+            "title": "\ud83d\udcb0 PLTR: $137.8 (0.55%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.51 (0.49%)",
+            "title": "\ud83d\udcb0 AMZN: $272.68 (0.56%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swai"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, with magnitudes up to 5.9, reported across several global regions!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, up to Mag 5.9, reported in Peru, Papua New Guinea, and the Indian Ridge!"
 }
