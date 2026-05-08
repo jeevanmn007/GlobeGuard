@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment faces a critical confluence of threats: an escalating geopolitical conflict centered on Iran is driving a severe and protracted food and energy crisis, creating immense economic volatility and supply chain vulnerabilities. This systemic instability is further compounded by rising cybersecurity threats and strategic uncertainties within the AI sector, all while significant tectonic activity across multiple regions highlights pervasive physical risks. To navigate this complex landscape, immediately secure diversified access to essential resources, including non-perishable food and alternative energy; reinforce digital defenses against evolving cyber threats and strategically diversify financial assets; and maintain comprehensive, updated emergency preparedness plans for rapid response to physical disruptions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svwn"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 151 km WNW of Panguna, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svu7"
+            "title": "\u26a0\ufe0f Mag 4.8 - 55 km NNW of San Antonio de los Cobres, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw3f"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svzd"
+            "title": "\u26a0\ufe0f Mag 4.7 - 41 km E of Minami-S\u014dma, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw2r"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes just struck in the Pacific and Atlantic regions!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
