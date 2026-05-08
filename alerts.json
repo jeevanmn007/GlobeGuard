@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a high-severity risk profile marked by converging geopolitical, financial, and physical threats. An escalating war in Iran, coupled with the Strait of Hormuz blockade, is actively fueling a severe global energy and food crisis, impacting nutrition and supply chains globally. This geopolitical instability coincides with significant volatility in key technology stocks and critical disruptions within the AI sector, further complicated by an increase in cyber threats. Simultaneously, multiple moderate-to-strong seismic events across the southeast Indian Ridge, Papua New Guinea, and Panama indicate elevated physical risks and potential for localized disruptions. To mitigate these immediate and emerging challenges, GlobeGuard personnel must: 1. Immediately fortify and diversify critical supply chains for food, energy, and essential components, prioritizing localized sourcing and alternative transit routes to circumvent geopolitical chokepoints. 2. Implement robust cybersecurity upgrades and conduct a thorough review of digital asset protection and investment strategies, especially concerning AI and volatile tech sectors. 3. Proactively update and drill emergency response protocols for physical assets and personnel, with a specific focus on preparedness for seismic events and other natural disruptions in vulnerable regions.",
+    "strategicPlan": "The global situation is critical, defined by converging, severe threats: a rapidly escalating food and energy crisis driven by geopolitical conflict centered around Iran, the Strait of Hormuz blockade, and diminishing food nutrient density; significant instability within the critical AI and cybersecurity sectors amidst corporate power struggles and rising cyber threats; and persistent, notable seismic activity across multiple regions. While specific tech markets show some individual stock resilience, the overarching macroeconomic environment and foundational pillars of global stability are under severe strain, necessitating immediate action. To secure assets and physical safety, first, proactively secure diversified and resilient sources for essential resources like food, water, and energy, mitigating single-point-of-failure supply chains. Second, fortify both digital defenses against escalating cyber threats and physical infrastructure against ongoing seismic risks and broader disruptions. Third, review and de-risk financial portfolios, prioritizing liquidity and essential asset protection while establishing robust emergency protocols for both personal safety and asset recovery.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.79 (2.03%)",
+            "title": "\ud83d\udcb0 NVDA: $215.51 (1.9%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $293.55 (2.13%)",
+            "title": "\ud83d\udcb0 AAPL: $292.61 (1.8%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $416.38 (-1.04%)",
+            "title": "\ud83d\udcb0 MSFT: $415.9 (-1.16%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.96 (-0.8%)",
+            "title": "\ud83d\udcb0 PLTR: $135.37 (-1.23%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.17 (0.37%)",
+            "title": "\ud83d\udcb0 AMZN: $273.16 (0.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw44"
         }
     ],
-    "seismicSummary": "Strong earthquakes are occurring, including a M5.9 offshore, a M5.6 in Papua New Guinea, and a M4.8 in Panama."
+    "seismicSummary": "Multiple strong quakes, including a Mag 5.9, just struck locations across Papua New Guinea, Panama, and the Indian Ridge!"
 }
