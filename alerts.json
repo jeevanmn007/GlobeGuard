@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically strained by a severe and escalating food and energy crisis, directly fueled by geopolitical instability surrounding the Strait of Hormuz and the ongoing conflict in Iran, which is profoundly impacting global supply chains and market stability. Simultaneously, the digital domain faces a rapidly evolving threat landscape with heightened cybersecurity risks and significant turbulence within the AI development sector, while a persistent undercurrent of physical hazard is evidenced by continuous moderate seismic activity across multiple continents. To navigate this complex nexus of threats, GlobeGuard personnel must immediately prioritize securing diverse, localized supplies of essential provisions for 3-6 months, implement robust, multi-layered cybersecurity defenses with mandatory off-network backups for all critical digital assets, and review and update emergency preparedness plans, including structural integrity assessments and accessible kits, for all physical locations, especially those in tectonically active regions.",
+    "strategicPlan": "The global environment presents a high-severity risk profile marked by converging geopolitical, financial, and physical threats. An escalating war in Iran, coupled with the Strait of Hormuz blockade, is actively fueling a severe global energy and food crisis, impacting nutrition and supply chains globally. This geopolitical instability coincides with significant volatility in key technology stocks and critical disruptions within the AI sector, further complicated by an increase in cyber threats. Simultaneously, multiple moderate-to-strong seismic events across the southeast Indian Ridge, Papua New Guinea, and Panama indicate elevated physical risks and potential for localized disruptions. To mitigate these immediate and emerging challenges, GlobeGuard personnel must: 1. Immediately fortify and diversify critical supply chains for food, energy, and essential components, prioritizing localized sourcing and alternative transit routes to circumvent geopolitical chokepoints. 2. Implement robust cybersecurity upgrades and conduct a thorough review of digital asset protection and investment strategies, especially concerning AI and volatile tech sectors. 3. Proactively update and drill emergency response protocols for physical assets and personnel, with a specific focus on preparedness for seismic events and other natural disruptions in vulnerable regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.5 (1.77%)",
+            "title": "\ud83d\udcb0 NVDA: $215.79 (2.03%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $287.44 (-0.02%)",
+            "title": "\ud83d\udcb0 AAPL: $293.55 (2.13%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $420.77 (1.65%)",
+            "title": "\ud83d\udcb0 MSFT: $416.38 (-1.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.05 (2.44%)",
+            "title": "\ud83d\udcb0 PLTR: $135.96 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.17 (-1.39%)",
+            "title": "\ud83d\udcb0 AMZN: $272.17 (0.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - southeast Indian Ridge",
+            "title": "\u26a0\ufe0f Mag 5.9 - southeast Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5q"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.6 - 109 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6y"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 163 km SW of R\u00edo Grande, Panama",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw44"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 55 km NNW of San Antonio de los Cobres, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw3f"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 160 km SE of Khovd, Mongolia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6q"
         }
     ],
-    "seismicSummary": "Four significant earthquakes, up to Mag 5.4, just struck worldwide!"
+    "seismicSummary": "Strong earthquakes are occurring, including a M5.9 offshore, a M5.6 in Papua New Guinea, and a M4.8 in Panama."
 }
