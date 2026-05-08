@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, defined by an accelerating energy and food crisis, exacerbated by the Strait of Hormuz blockade and the conflict in Iran, leading to widespread supply chain disruptions and declining nutritional quality globally. Financially, while major tech stocks show mixed performance, significant internal turmoil within the AI sector, coupled with a rise in 'script kiddie' cyber threats, signals increasing digital vulnerabilities. Concurrently, moderate seismic activity across diverse regions, including the Indian Ridge, Papua New Guinea, and Peru, highlights persistent and widespread physical risks. Therefore, immediately secure essential resources by assessing and fortifying personal and operational supply chains against food and energy shocks; enhance digital resilience through robust cybersecurity measures and strategically diversify tech investments away from potentially volatile AI-centric ventures; and comprehensively review and update emergency preparedness plans for physical safety in light of ongoing seismic activity and potential broader systemic collapse.",
+    "strategicPlan": "The global strategic environment is critically unstable, marked by a severe and escalating energy and food crisis driven by the Iranian conflict and the Strait of Hormuz blockade, threatening widespread resource scarcity and supply chain fragility. Concurrently, the technology sector faces significant internal upheaval within the AI domain and a rising tide of sophisticated cyber threats, while financial markets show mixed resilience. This human-made instability is further complicated by persistent natural hazard risks, evidenced by recent heightened seismic activity across the Indian Ridge and Papua New Guinea. Therefore, GlobeGuard directs immediate and decisive action: secure your essential resource supply chains by establishing diversified sourcing and emergency reserves of critical consumables; bolster all digital assets with advanced, AI-augmented cybersecurity defenses and immediate vulnerability assessments; and update physical safety protocols and natural disaster preparedness plans, focusing on robust communication and pre-positioned safety caches in at-risk regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,15 +21,15 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.22 (1.76%)",
+            "title": "\ud83d\udcb0 NVDA: $215.2 (1.75%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $293.26 (2.02%)",
+            "title": "\ud83d\udcb0 AAPL: $293.32 (2.05%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $415.06 (-1.36%)",
+            "title": "\ud83d\udcb0 MSFT: $415.12 (-1.34%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
+            "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 76 km WNW of San Juan, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swai"
+            "title": "\u26a0\ufe0f Mag 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, up to Mag 5.9, reported in Peru, Papua New Guinea, and the Indian Ridge!"
+    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes detected, including a M5.9 and a M5.6 cluster near Papua New Guinea!"
 }
