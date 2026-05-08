@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - southeast Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5q"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svw1"
         },
@@ -71,10 +75,6 @@
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 163 km SW of R\u00edo Grande, Panama",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw44"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 55 km NNW of San Antonio de los Cobres, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw3f"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
