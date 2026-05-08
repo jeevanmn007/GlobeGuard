@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is rapidly deteriorating, marked by a confluence of severe geopolitical, economic, and physical threats. An escalating, interconnected global energy and food crisis, driven by geopolitical conflict in the Middle East and critical supply chain disruptions in the Strait of Hormuz, threatens widespread instability and economic shock, even as specific tech sectors show temporary market resilience amidst internal AI industry conflicts and rising cyber threats. Simultaneously, sustained moderate seismic activity worldwide serves as a constant reminder of inherent physical risks. In response, we must: 1. Proactively secure and diversify essential resources, focusing on localized and resilient supply chains for energy and food to mitigate coming shortages. 2. Fortify financial positions by de-risking portfolios towards tangible assets, essential commodities, and robust cybersecurity measures against evolving digital threats. 3. Implement comprehensive emergency preparedness plans, including contingencies for localized disruptions and ongoing seismic events, ensuring robust communication protocols and readily accessible survival supplies.",
+    "strategicPlan": "The global strategic environment is critically strained by a severe and escalating food and energy crisis, directly fueled by geopolitical instability surrounding the Strait of Hormuz and the ongoing conflict in Iran, which is profoundly impacting global supply chains and market stability. Simultaneously, the digital domain faces a rapidly evolving threat landscape with heightened cybersecurity risks and significant turbulence within the AI development sector, while a persistent undercurrent of physical hazard is evidenced by continuous moderate seismic activity across multiple continents. To navigate this complex nexus of threats, GlobeGuard personnel must immediately prioritize securing diverse, localized supplies of essential provisions for 3-6 months, implement robust, multi-layered cybersecurity defenses with mandatory off-network backups for all critical digital assets, and review and update emergency preparedness plans, including structural integrity assessments and accessible kits, for all physical locations, especially those in tectonically active regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5q"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 281 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svwn"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.8 - 163 km SW of R\u00edo Grande, Panama",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw44"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 55 km NNW of San Antonio de los Cobres, Argentina",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw3f"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 160 km SE of Khovd, Mongolia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6q"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple M4.8-M5.4 earthquakes have just struck globally!**"
+    "seismicSummary": "Four significant earthquakes, up to Mag 5.4, just struck worldwide!"
 }
