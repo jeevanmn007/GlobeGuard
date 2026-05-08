@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment faces a critical confluence of threats: an escalating geopolitical conflict centered on Iran is driving a severe and protracted food and energy crisis, creating immense economic volatility and supply chain vulnerabilities. This systemic instability is further compounded by rising cybersecurity threats and strategic uncertainties within the AI sector, all while significant tectonic activity across multiple regions highlights pervasive physical risks. To navigate this complex landscape, immediately secure diversified access to essential resources, including non-perishable food and alternative energy; reinforce digital defenses against evolving cyber threats and strategically diversify financial assets; and maintain comprehensive, updated emergency preparedness plans for rapid response to physical disruptions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svzd"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes just struck in the Pacific and Atlantic regions!"
 }
