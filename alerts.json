@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, defined by converging, severe threats: a rapidly escalating food and energy crisis driven by geopolitical conflict centered around Iran, the Strait of Hormuz blockade, and diminishing food nutrient density; significant instability within the critical AI and cybersecurity sectors amidst corporate power struggles and rising cyber threats; and persistent, notable seismic activity across multiple regions. While specific tech markets show some individual stock resilience, the overarching macroeconomic environment and foundational pillars of global stability are under severe strain, necessitating immediate action. To secure assets and physical safety, first, proactively secure diversified and resilient sources for essential resources like food, water, and energy, mitigating single-point-of-failure supply chains. Second, fortify both digital defenses against escalating cyber threats and physical infrastructure against ongoing seismic risks and broader disruptions. Third, review and de-risk financial portfolios, prioritizing liquidity and essential asset protection while establishing robust emergency protocols for both personal safety and asset recovery.",
+    "strategicPlan": "The global landscape is critically unstable, marked by a convergence of severe geopolitical, economic, and physical threats. Geopolitically, the ongoing war in Iran and the Strait of Hormuz blockade are actively precipitating a deepening, slow-motion food and energy crisis with global ramifications, directly impacting supply chains and resource availability. Financially, while some tech stocks show resilience, the critical AI sector is experiencing significant internal strife and external cyber threats, signaling potential market volatility and increased digital vulnerability. Concurrently, persistent seismic activity, particularly in the Papua New Guinea region, underscores ongoing physical risks that could exacerbate existing systemic stresses. In response, all GlobeGuard personnel and associated assets must immediately: 1. **Secure Essential Resources:** Prioritize establishing robust reserves of non-perishable food, potable water, and alternative energy sources, anticipating prolonged supply chain disruptions. 2. **Fortify Digital Assets:** Initiate an urgent, comprehensive audit and upgrade of all cybersecurity protocols and systems to defend against escalating and increasingly sophisticated digital threats. 3. **Enhance Physical Preparedness:** Review and update emergency response plans, focusing on physical safety and infrastructure resilience, particularly for operations located in or reliant on tectonically active regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.51 (1.9%)",
+            "title": "\ud83d\udcb0 NVDA: $215.32 (1.8%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $292.61 (1.8%)",
+            "title": "\ud83d\udcb0 AAPL: $292.7 (1.83%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $415.9 (-1.16%)",
+            "title": "\ud83d\udcb0 MSFT: $415.56 (-1.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.37 (-1.23%)",
+            "title": "\ud83d\udcb0 PLTR: $136.64 (-0.3%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $273.16 (0.73%)",
+            "title": "\ud83d\udcb0 AMZN: $272.51 (0.49%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 163 km SW of R\u00edo Grande, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw44"
+            "title": "\u26a0\ufe0f Mag 4.8 - 76 km WNW of San Juan, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swai"
         }
     ],
-    "seismicSummary": "Multiple strong quakes, including a Mag 5.9, just struck locations across Papua New Guinea, Panama, and the Indian Ridge!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, with magnitudes up to 5.9, reported across several global regions!"
 }
