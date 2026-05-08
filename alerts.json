@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is rapidly deteriorating, marked by a confluence of severe geopolitical, economic, and physical threats. An escalating, interconnected global energy and food crisis, driven by geopolitical conflict in the Middle East and critical supply chain disruptions in the Strait of Hormuz, threatens widespread instability and economic shock, even as specific tech sectors show temporary market resilience amidst internal AI industry conflicts and rising cyber threats. Simultaneously, sustained moderate seismic activity worldwide serves as a constant reminder of inherent physical risks. In response, we must: 1. Proactively secure and diversify essential resources, focusing on localized and resilient supply chains for energy and food to mitigate coming shortages. 2. Fortify financial positions by de-risking portfolios towards tangible assets, essential commodities, and robust cybersecurity measures against evolving digital threats. 3. Implement comprehensive emergency preparedness plans, including contingencies for localized disruptions and ongoing seismic events, ensuring robust communication protocols and readily accessible survival supplies.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5q"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svw1"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 281 km E of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svwn"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 163 km SW of R\u00edo Grande, Panama",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw44"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 55 km NNW of San Antonio de los Cobres, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw3f"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Urgent: Multiple M4.8-M5.4 earthquakes have just struck globally!**"
 }
