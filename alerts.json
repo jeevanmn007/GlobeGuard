@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critical juncture, characterized by a severe global food and energy crisis fueled by geopolitical conflict and supply chain disruptions, intersecting with significant volatility in the AI sector, escalating cyber threats, and heightened seismic activity across multiple regions. To navigate this complex environment and secure assets and safety, it is imperative to diversify critical holdings towards tangible resources resilient to systemic shocks, while fortifying digital infrastructure against sophisticated cyber incursions. Concurrently, proactively secure essential household provisions including food, water, and alternative energy sources, establish robust emergency communication plans, and assess local infrastructure resilience given the heightened tectonic activity. Maintain acute intelligence vigilance on evolving geopolitical flashpoints and global resource supply dynamics to facilitate agile decision-making and pre-emptive adaptation.",
+    "strategicPlan": "GlobeGuard assesses an escalating global threat landscape characterized by a severe convergence of geopolitical, economic, and physical stressors. The ongoing war in Iran and a Strait of Hormuz blockade are actively fueling a slow-moving global food and energy crisis, impacting nutritional security and supply chains with significant implications for the Global South. Concurrently, profound instability within the critical AI sector\u2014evidenced by the collapse of the Microsoft-OpenAI agreement, Musk v. Altman disputes, and heightened cyber threats from 'script kiddies'\u2014presents an evolving risk to digital infrastructure and innovation. This complex environment is further underscored by persistent, moderate seismic activity across key Pacific regions, reminding us of underlying natural hazards. To secure assets and ensure physical safety, GlobeGuard directs immediate action: 1) Proactively diversify and secure critical supply chains for food and energy, establishing resilient local reserves and reducing reliance on vulnerable global chokepoints. 2) Fortify digital defenses against sophisticated cyber threats, closely monitoring developments in AI for both risk and opportunity, and ensuring robust data integrity. 3) Review and update all physical emergency protocols, particularly for assets in seismically active zones, ensuring comprehensive preparedness for potential disruptions and maintaining operational continuity.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - southeast Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5q"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.8 - 292 km WSW of Adak, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple significant earthquakes, including a Mag 5.9, have been reported globally!"
+    "seismicSummary": "URGENT: Major quakes reported, including a 5.8 in Alaska and a 5.6 leading a cluster near Papua New Guinea."
 }
