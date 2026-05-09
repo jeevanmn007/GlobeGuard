@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, marked by a severe and escalating energy and food crisis driven by the Iranian conflict and the Strait of Hormuz blockade, threatening widespread resource scarcity and supply chain fragility. Concurrently, the technology sector faces significant internal upheaval within the AI domain and a rising tide of sophisticated cyber threats, while financial markets show mixed resilience. This human-made instability is further complicated by persistent natural hazard risks, evidenced by recent heightened seismic activity across the Indian Ridge and Papua New Guinea. Therefore, GlobeGuard directs immediate and decisive action: secure your essential resource supply chains by establishing diversified sourcing and emergency reserves of critical consumables; bolster all digital assets with advanced, AI-augmented cybersecurity defenses and immediate vulnerability assessments; and update physical safety protocols and natural disaster preparedness plans, focusing on robust communication and pre-positioned safety caches in at-risk regions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes detected, including a M5.9 and a M5.6 cluster near Papua New Guinea!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
