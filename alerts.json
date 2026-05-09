@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is highly volatile, characterized by a severe and escalating geopolitical crisis centered on the war in Iran, which is directly fueling a slow-moving, yet profound, global food and energy crisis exacerbated by the Strait of Hormuz blockade and broader resource strain. Concurrently, the technology sector, while showing some resilience in market valuations, is experiencing significant internal upheaval within the critical AI domain, marked by high-stakes contractual disputes and leadership instability at OpenAI, alongside rising sophisticated cyber threats. This precarious landscape is further underpinned by persistent tectonic instability, as evidenced by significant seismic activity in high-risk zones like Alaska and Papua New Guinea, underscoring the omnipresent threat of natural disasters. To navigate this complex threat matrix, we advise three critical actions: First, prioritize immediate diversification and secure strategic reserves of essential food and energy resources to mitigate supply chain disruptions. Second, conduct a comprehensive review of digital asset security protocols and reassess investment exposures to firms heavily reliant on the volatile AI sector. Third, ensure all physical safety protocols and emergency preparedness plans are fully updated and readily accessible, anticipating potential impacts from both geopolitical instability and natural phenomena.",
+    "strategicPlan": "The global strategic landscape is defined by a critical confluence of escalating geopolitical conflicts, severe resource scarcity, and heightened technological vulnerabilities. A protracted war in Iran is profoundly exacerbating an unfolding global food crisis, bottlenecking critical supply chains through the Strait of Hormuz, and fueling the nascent stages of the largest energy crisis in modern history, particularly impacting the Global South. Concurrently, we observe rising cyber threats from increasingly sophisticated actors, coupled with significant instability within the foundational AI sector as major players renegotiate vital agreements. Against this backdrop, persistent seismic activity across the Pacific Rim reminds us of the ever-present physical risks to infrastructure and stability. To secure assets and physical safety, GlobeGuard advises three immediate actions: first, prioritize building robust, diversified reserves of essential commodities like shelf-stable food, water, and emergency power to buffer against widespread supply chain disruptions; second, fortify digital defenses with advanced cybersecurity protocols and consider decentralized data storage to mitigate the growing threat of cyberattacks and protect against tech sector volatility; and third, establish and regularly review comprehensive emergency preparedness plans, accounting for potential physical disruptions in geographically vulnerable regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 109 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6y"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 113 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.85 - 108 km WSW of Crescent City, CA",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357576"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 5.8 quake hits Alaska, with multiple strong tremors also striking Papua New Guinea!"
+    "seismicSummary": "Widespread quake activity reported, including a 5.8 near Alaska and other notable quakes near Papua New Guinea and California."
 }
