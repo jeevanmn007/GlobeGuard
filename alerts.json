@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape presents a critical juncture, characterized by a severe global food and energy crisis fueled by geopolitical conflict and supply chain disruptions, intersecting with significant volatility in the AI sector, escalating cyber threats, and heightened seismic activity across multiple regions. To navigate this complex environment and secure assets and safety, it is imperative to diversify critical holdings towards tangible resources resilient to systemic shocks, while fortifying digital infrastructure against sophisticated cyber incursions. Concurrently, proactively secure essential household provisions including food, water, and alternative energy sources, establish robust emergency communication plans, and assess local infrastructure resilience given the heightened tectonic activity. Maintain acute intelligence vigilance on evolving geopolitical flashpoints and global resource supply dynamics to facilitate agile decision-making and pre-emptive adaptation.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw5q"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 292 km WSW of Adak, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 109 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6y"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\u26a0\ufe0f Multiple significant earthquakes, including a Mag 5.9, have been reported globally!"
 }
