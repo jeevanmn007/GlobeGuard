@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global landscape is acutely unstable, marked by converging geopolitical, financial, and physical threats. Geopolitically, the Strait of Hormuz blockade and the escalating war in Iran are driving a severe, multifaceted food and energy crisis, projected to intensify global instability. Financially, while parts of the tech sector remain robust, significant friction within the OpenAI-Microsoft partnership introduces volatility into critical AI development, alongside a pronounced rise in global cybersecurity risks. Concurrently, persistent seismic activity, particularly across the Pacific Ring of Fire, highlights ongoing physical safety vulnerabilities. To navigate this complex environment, GlobeGuard advises immediate action: First, fortify personal and organizational resilience by diversifying essential food and energy supply chains. Second, rigorously enhance digital security protocols and re-evaluate dependencies on rapidly evolving AI technologies given current market instability. Third, review and update all emergency preparedness plans, focusing on physical infrastructure and evacuation readiness for seismic events.",
+    "strategicPlan": "The global strategic environment is deteriorating rapidly, marked by a confluence of severe threats: escalating geopolitical conflict centered around the Strait of Hormuz threatens to deepen an already acute global food and energy crisis, while the critical AI sector is experiencing significant internal upheaval and heightened cybersecurity risks from sophisticated script kiddies. Simultaneously, elevated seismic activity across key tectonic zones, including the Pacific Ring of Fire and South Atlantic, indicates widespread physical instability. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, prioritize resilience by diversifying essential food and energy supply chains, localizing where possible, and securing critical reserves against further disruption; second, strengthen digital defenses and contingency plans against evolving cyber threats, while closely monitoring the volatile AI landscape for its broader economic and technological impacts; and third, review and update emergency preparedness protocols for physical safety, especially in seismically active regions, assessing structural integrity and evacuation routes.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swh0"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 113 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.85 - 108 km WSW of Crescent City, CA",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75357576"
         }
     ],
-    "seismicSummary": "**A 5.8 magnitude earthquake just hit Alaska, with multiple significant quakes also reported in Papua New Guinea and California!**"
+    "seismicSummary": "Multiple strong earthquakes are detected globally, led by a Mag 5.8 in Alaska!"
 }
