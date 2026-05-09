@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment presents a complex, multi-faceted threat landscape characterized by an accelerating global food and energy crisis stemming from the war in Iran and the Strait of Hormuz blockade, significant internal volatility within the critical AI sector, and escalating global seismic activity across multiple active fault lines. While tech markets show some resilience, underlying geopolitical instability and rising AI-driven cyber threats underscore systemic fragilities. Therefore, GlobeGuard advises immediate action: first, fortify physical resilience by establishing diversified local supply chains for essentials and maintaining robust emergency preparedness kits for food, water, and energy. Second, prudently secure financial assets through portfolio diversification, prioritizing investments in essential commodities and resilient infrastructure, while cautiously navigating the volatile AI sector. Third, bolster all digital defenses with advanced cybersecurity protocols, multi-factor authentication, and regular data backups to counter the growing threat of sophisticated, AI-enhanced cyberattacks.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes are striking across the globe!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
