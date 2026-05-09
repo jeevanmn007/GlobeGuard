@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating global threat landscape characterized by a severe convergence of geopolitical, economic, and physical stressors. The ongoing war in Iran and a Strait of Hormuz blockade are actively fueling a slow-moving global food and energy crisis, impacting nutritional security and supply chains with significant implications for the Global South. Concurrently, profound instability within the critical AI sector\u2014evidenced by the collapse of the Microsoft-OpenAI agreement, Musk v. Altman disputes, and heightened cyber threats from 'script kiddies'\u2014presents an evolving risk to digital infrastructure and innovation. This complex environment is further underscored by persistent, moderate seismic activity across key Pacific regions, reminding us of underlying natural hazards. To secure assets and ensure physical safety, GlobeGuard directs immediate action: 1) Proactively diversify and secure critical supply chains for food and energy, establishing resilient local reserves and reducing reliance on vulnerable global chokepoints. 2) Fortify digital defenses against sophisticated cyber threats, closely monitoring developments in AI for both risk and opportunity, and ensuring robust data integrity. 3) Review and update all physical emergency protocols, particularly for assets in seismically active zones, ensuring comprehensive preparedness for potential disruptions and maintaining operational continuity.",
+    "strategicPlan": "The current global environment is highly volatile, characterized by a severe and escalating geopolitical crisis centered on the war in Iran, which is directly fueling a slow-moving, yet profound, global food and energy crisis exacerbated by the Strait of Hormuz blockade and broader resource strain. Concurrently, the technology sector, while showing some resilience in market valuations, is experiencing significant internal upheaval within the critical AI domain, marked by high-stakes contractual disputes and leadership instability at OpenAI, alongside rising sophisticated cyber threats. This precarious landscape is further underpinned by persistent tectonic instability, as evidenced by significant seismic activity in high-risk zones like Alaska and Papua New Guinea, underscoring the omnipresent threat of natural disasters. To navigate this complex threat matrix, we advise three critical actions: First, prioritize immediate diversification and secure strategic reserves of essential food and energy resources to mitigate supply chain disruptions. Second, conduct a comprehensive review of digital asset security protocols and reassess investment exposures to firms heavily reliant on the volatile AI sector. Third, ensure all physical safety protocols and emergency preparedness plans are fully updated and readily accessible, anticipating potential impacts from both geopolitical instability and natural phenomena.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw6y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
+            "title": "\u26a0\ufe0f Mag 5 - 113 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 114 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sw71"
+            "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
         }
     ],
-    "seismicSummary": "URGENT: Major quakes reported, including a 5.8 in Alaska and a 5.6 leading a cluster near Papua New Guinea."
+    "seismicSummary": "\ud83d\udea8 5.8 quake hits Alaska, with multiple strong tremors also striking Papua New Guinea!"
 }
