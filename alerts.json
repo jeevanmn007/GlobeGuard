@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critically complex and volatile risk profile, demanding immediate and decisive action. Geopolitically, the war in Iran and its resultant Strait of Hormuz blockade are actively fueling a multi-front crisis, severely impacting global food and energy supplies, precipitating the \"largest energy crisis in modern history\" and a slow-moving food crisis, with significant destabilizing effects across the global south. While key technology stocks exhibit some resilience amidst this turmoil, the foundational AI sector faces internal corporate turmoil and escalating cybersecurity threats, as evidenced by major shifts in OpenAI's agreements and reports of advanced cyber exploits. Concurrently, persistent moderate seismic activity across the Pacific Ring of Fire and South Atlantic underscores ongoing physical risks that warrant continuous vigilance. To navigate this converging threat environment, GlobeGuard and its stakeholders must immediately: 1) Strategically assess and diversify critical supply chains for food, energy, and essential resources to mitigate geopolitical disruptions; 2) Implement advanced cybersecurity protocols and robust data protection measures to counter evolving digital threats; and 3) Proactively review and update comprehensive emergency preparedness plans for natural disasters, with particular attention to seismic events, ensuring physical safety and operational continuity.",
+    "strategicPlan": "The global strategic environment presents a complex, multi-faceted threat landscape characterized by an accelerating global food and energy crisis stemming from the war in Iran and the Strait of Hormuz blockade, significant internal volatility within the critical AI sector, and escalating global seismic activity across multiple active fault lines. While tech markets show some resilience, underlying geopolitical instability and rising AI-driven cyber threats underscore systemic fragilities. Therefore, GlobeGuard advises immediate action: first, fortify physical resilience by establishing diversified local supply chains for essentials and maintaining robust emergency preparedness kits for food, water, and energy. Second, prudently secure financial assets through portfolio diversification, prioritizing investments in essential commodities and resilient infrastructure, while cautiously navigating the volatile AI sector. Third, bolster all digital defenses with advanced cybersecurity protocols, multi-factor authentication, and regular data backups to counter the growing threat of sophisticated, AI-enhanced cyberattacks.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swhy"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swh0"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 113 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 100 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swcg"
         }
     ],
-    "seismicSummary": "**ALERT: Multiple strong earthquakes, including a Mag 5.8, are striking worldwide!**"
+    "seismicSummary": "Multiple Mag 5+ earthquakes are striking across the globe!"
 }
