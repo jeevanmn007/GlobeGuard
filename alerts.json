@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape is entering a critical phase, marked by a converging array of severe threats: an intensifying geopolitical conflict centered in Iran is directly exacerbating a global food crisis through supply chain disruptions and an unprecedented energy crisis, demanding immediate strategic foresight. Financially, while tech stocks show mixed resilience, significant internal strife within the foundational AI sector and rising cyber threats signal increasing systemic risk and volatility in critical digital infrastructure. Concurrently, persistent moderate seismic activity across multiple high-risk regions underscores an enduring, unpredictable physical threat layer. To navigate this complex environment, first, prioritize securing essential resources\u2014food, water, and alternative energy sources\u2014to mitigate supply chain vulnerabilities. Second, immediately enhance digital security protocols and diversify critical information assets, acknowledging the heightened cyber warfare risks and instability within the AI sector. Third, review and fortify physical safety plans and emergency kits, especially for seismic events, given the ongoing global tectonic activity.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 292 km WSW of Adak, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 27 km ENE of Ca\u00f1ete, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk0"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swh0"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 174 km SSW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk8"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes are striking worldwide!"
 }
