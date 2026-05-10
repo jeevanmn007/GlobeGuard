@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape presents a critical confluence of threats: a severe and escalating food and energy crisis exacerbated by geopolitical conflicts in Iran and the Strait of Hormuz, significant volatility within the AI tech sector amid internal power struggles and rising cyber threats, and notably elevated global seismic activity indicating widespread physical instability. To secure assets and ensure safety, GlobeGuard issues the following directives: First, immediately fortify digital asset security protocols against advanced cyber threats and strategically diversify financial holdings towards resilient sectors or tangible assets. Second, establish robust personal and familial reserves of essential food, water, and alternative energy supplies to mitigate impacts from anticipated supply chain disruptions. Third, thoroughly review and update emergency preparedness plans, with a specific emphasis on seismic event response given the persistent global tectonic activity.",
+    "strategicPlan": "The global landscape is deteriorating, characterized by a severe confluence of geopolitical conflict, escalating resource scarcity, and digital instability. The Strait of Hormuz blockade, alongside the war in Iran, is rapidly accelerating a global food and energy crisis, threatening supply chains and socio-economic stability, while persistent tectonic activity underscores inherent physical vulnerabilities. Simultaneously, the digital frontier faces increasing cyber threats and significant internal power struggles within the AI sector, creating an unpredictable environment despite a mixed performance in key tech stocks. To mitigate these integrated threats, immediately diversify critical resource reserves, prioritizing non-perishable food, water, and alternative energy; enhance digital and financial resilience by implementing robust cybersecurity protocols, securing digital assets offline where possible, and diversifying financial holdings beyond purely tech-dependent portfolios; and thoroughly review and reinforce comprehensive emergency preparedness plans, accounting for both geopolitical disruption and potential natural disasters.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swhy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swh0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 174 km SSW of Tual, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 57 km WNW of Turangi, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swi4"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just hit globally!"
+    "seismicSummary": "Global alert: Multiple strong earthquakes are striking from Chile to New Zealand!"
 }
