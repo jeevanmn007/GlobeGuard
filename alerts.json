@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swf4"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 27 km ENE of Ca\u00f1ete, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk0"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swhy"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swh0"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 113 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
