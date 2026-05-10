@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is deteriorating, characterized by a severe confluence of geopolitical conflict, escalating resource scarcity, and digital instability. The Strait of Hormuz blockade, alongside the war in Iran, is rapidly accelerating a global food and energy crisis, threatening supply chains and socio-economic stability, while persistent tectonic activity underscores inherent physical vulnerabilities. Simultaneously, the digital frontier faces increasing cyber threats and significant internal power struggles within the AI sector, creating an unpredictable environment despite a mixed performance in key tech stocks. To mitigate these integrated threats, immediately diversify critical resource reserves, prioritizing non-perishable food, water, and alternative energy; enhance digital and financial resilience by implementing robust cybersecurity protocols, securing digital assets offline where possible, and diversifying financial holdings beyond purely tech-dependent portfolios; and thoroughly review and reinforce comprehensive emergency preparedness plans, accounting for both geopolitical disruption and potential natural disasters.",
+    "strategicPlan": "The global environment is entering a period of severe instability, characterized by a rapidly escalating geopolitical conflict in the Middle East driving a global food and energy crisis that threatens supply chains and nutritional security, while financial markets exhibit volatility influenced by both resource scarcity and significant leadership instability in the critical AI sector, alongside persistent moderate seismic activity along the Pacific Ring of Fire indicating ongoing physical vulnerabilities. In response, GlobeGuard directs all personnel to immediately prioritize: 1) Diversifying and securing stockpiles of essential non-perishable food, water, and alternative energy supplies to buffer against escalating supply chain disruptions; 2) Rebalancing financial portfolios towards tangible assets and robust commodities, concurrently fortifying cybersecurity defenses against emergent digital threats; and 3) Implementing robust emergency preparedness plans, including communication and evacuation protocols, especially for operations in seismically active or geopolitically sensitive regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swi4"
         }
     ],
-    "seismicSummary": "Global alert: Multiple strong earthquakes are striking from Chile to New Zealand!"
+    "seismicSummary": "Multiple Mag 5 earthquakes are active across the Pacific Ring of Fire!"
 }
