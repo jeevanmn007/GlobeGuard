@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is entering a period of severe instability, characterized by a rapidly escalating geopolitical conflict in the Middle East driving a global food and energy crisis that threatens supply chains and nutritional security, while financial markets exhibit volatility influenced by both resource scarcity and significant leadership instability in the critical AI sector, alongside persistent moderate seismic activity along the Pacific Ring of Fire indicating ongoing physical vulnerabilities. In response, GlobeGuard directs all personnel to immediately prioritize: 1) Diversifying and securing stockpiles of essential non-perishable food, water, and alternative energy supplies to buffer against escalating supply chain disruptions; 2) Rebalancing financial portfolios towards tangible assets and robust commodities, concurrently fortifying cybersecurity defenses against emergent digital threats; and 3) Implementing robust emergency preparedness plans, including communication and evacuation protocols, especially for operations in seismically active or geopolitically sensitive regions.",
+    "strategicPlan": "The global intelligence landscape presents an immediate and compounding threat profile characterized by a severe, slow-moving global food and energy crisis fueled by the Iran conflict and Strait of Hormuz blockade, concurrent financial volatility in the AI sector marked by significant disputes and escalating cyber threats from 'killer script kiddies,' and persistent M5+ seismic activity across critical global regions. To mitigate these multi-domain risks, GlobeGuard advises three critical actions: first, secure and diversify essential resource holdings, focusing on food and energy supply chain resilience against geopolitical disruptions; second, fortify digital assets and cybersecurity defenses, given the escalating AI-driven vulnerabilities; and third, bolster physical preparedness and emergency response plans, recognizing the confluence of geopolitical instability and ongoing seismic risks.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk0"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 101 km SSE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swhy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 174 km SSW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 57 km WNW of Turangi, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swi4"
+            "title": "\u26a0\ufe0f Mag 5.2 - 27 km WSW of Madang, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr6"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes are active across the Pacific Ring of Fire!"
+    "seismicSummary": "**Four Mag 5.2-5.5 earthquakes just struck worldwide!**"
 }
