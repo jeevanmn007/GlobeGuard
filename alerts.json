@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence assessment reveals a critical, multi-faceted threat landscape: geopolitical tensions around the war in Iran and the Strait of Hormuz blockade are converging with an escalating energy and food crisis, further complicated by diminishing nutritional value in global food supplies, creating widespread instability. Financially, tech stocks show mixed but generally resilient performance, suggesting a complex interplay of market forces, while the digital realm faces increasing cyber threats from \"killer script kiddies\" and significant internal power struggles within the AI sector (e.g., OpenAI leadership conflicts) that could impact future technological stability. Underlying these human-made pressures, persistent Mag 5+ seismic activity across the Pacific Ring of Fire underscores a continuous physical risk, particularly to fragile supply chains and critical infrastructure. In response, GlobeGuard issues the following directive for securing assets and ensuring physical safety: prioritize immediate diversification of critical resource procurement, emphasizing localized supply chains for food and energy while establishing strategic reserves to buffer against geopolitical and economic shocks; simultaneously, elevate cybersecurity postures to counter evolving digital threats, closely monitoring the volatile AI landscape for both its risks and opportunities; and finally, fortify physical infrastructure and update disaster preparedness plans, especially for operations within seismically active zones, to mitigate the impacts of natural hazards.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swhy"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 27 km WSW of Madang, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 74 km W of Yenangyaung, Burma (Myanmar)",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sws5"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck diverse global locations!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
