@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, marked by a dangerous confluence of escalating geopolitical conflict in Iran\u2014intensifying a severe global food and energy crisis via the Strait of Hormuz blockade and broader supply chain disruption\u2014and significant internal volatility within the frontier AI sector, compounded by heightened cyberattack risks. This complex human-made instability is paralleled by persistent, substantial seismic activity across multiple global fault lines, underscoring omnipresent physical threats. To secure assets and physical safety, first, critically review and diversify your investment portfolio to include resilience against inflation and supply chain shocks, while immediately enhancing digital cybersecurity protocols given the rising threat landscape. Second, proactively secure essential personal and operational resources by identifying and mitigating vulnerabilities in your food, water, and energy supply chains, establishing modest, diversified reserves where practical. Third, urgently update and rehearse emergency preparedness plans\u2014including communication, evacuation, and disaster kits\u2014especially if operating in seismically active zones or regions susceptible to civil unrest, as physical risks remain high and unpredictable.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 74 km W of Yenangyaung, Burma (Myanmar)",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sws5"
+            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtd"
         }
     ],
-    "seismicSummary": "Urgent: Multiple magnitude 5+ earthquakes are striking worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
