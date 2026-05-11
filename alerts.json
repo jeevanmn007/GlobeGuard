@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 27 km ENE of Ca\u00f1ete, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 101 km SSE of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr8"
         },
@@ -75,6 +71,10 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtd"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 60 km ESE of Isen, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtz"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
