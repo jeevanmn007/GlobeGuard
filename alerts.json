@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly deteriorating, marked by an acute and deepening food and energy crisis exacerbated by the Strait of Hormuz blockade and the ongoing conflict in Iran, which is draining resources globally. This resource scarcity is compounded by persistent market volatility, despite localized strength in AI tech, while the AI sector itself faces internal leadership turmoil and an escalating threat from sophisticated cyber-attacks. Simultaneously, a concerning surge in M5+ seismic activity across the Pacific Ring of Fire introduces a significant and immediate physical threat, demanding heightened vigilance for potential natural disasters. To navigate this complex and perilous environment, we must prioritize securing diverse, localized supply chains for essential resources; fortifying digital and physical infrastructure against both cyber threats and seismic events; and strategically re-evaluating asset allocation to enhance resilience against geopolitical and market shocks.",
+    "strategicPlan": "The global strategic landscape is critically volatile, dominated by an escalating, multi-faceted crisis encompassing a severe food and energy crunch\u2014amplified by the war in Iran and the Strait of Hormuz blockade\u2014compounded by rising AI-powered cybersecurity threats and significant internal instability within leading AI developers, all against a backdrop of moderate market uncertainty. This complex geopolitical and technological fragility is underscored by persistent physical risks, as evidenced by recent moderate but multiple seismic events across the Pacific Ring of Fire. To secure assets and physical safety, immediately diversify and localize critical supply chains to mitigate resource scarcity; bolster cybersecurity defenses with AI-driven solutions while closely monitoring AI industry developments; and update emergency preparedness protocols, especially for physical assets and personnel in seismically active areas, accounting for potential cascading infrastructure impacts.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swte"
         }
     ],
-    "seismicSummary": "URGENT: Multiple M5 earthquakes reported across the Pacific!"
+    "seismicSummary": "Urgent: Four magnitude 5+ earthquakes just struck the Pacific, including Fiji, Solomon Islands, and Japan!"
 }
