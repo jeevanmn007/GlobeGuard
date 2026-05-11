@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by converging, escalating crises: a war-driven energy and food scarcity, intensified by the Strait of Hormuz blockade and long-term nutritional degradation, is generating profound geopolitical instability and humanitarian stress across the Global South. While key tech markets show mixed signals, significant volatility and power struggles within the frontier AI sector, coupled with rising cyber threats, pose a distinct digital security challenge, even as heightened seismic activity across the Pacific Ring of Fire underscores persistent physical risks that could disrupt critical infrastructure. To navigate this complex environment, it is imperative to: 1) Proactively diversify and secure holdings in essential commodities, particularly food and energy, to mitigate escalating supply chain disruptions; 2) Immediately bolster digital defenses with advanced, potentially AI-augmented, cybersecurity protocols against evolving threats; and 3) Thoroughly review and update emergency preparedness and business continuity plans, especially for assets and personnel located in seismically active regions.",
+    "strategicPlan": "GlobeGuard assessment indicates a severe convergence of global threats. Geopolitically, the Strait of Hormuz blockade and the ongoing war in Iran are accelerating a multi-faceted food and energy crisis, further complicated by systemic issues of food nutrition and a volatile AI landscape marked by high-profile corporate disputes and escalating cyber threats, all while key tech markets show signs of broad instability. Concurrently, the Pacific Ring of Fire is exhibiting notable seismic unrest, with multiple moderate quakes underscoring widespread physical vulnerabilities. In response, you must immediately: 1) Proactively diversify critical asset holdings, moving towards resilient and essential goods while securing alternative supply chain routes against escalating geopolitical and energy disruptions. 2) Elevate and audit all cybersecurity protocols to defend against sophisticated and evolving digital threats, especially given AI sector volatility. 3) Reinforce physical safety preparedness, particularly for seismic events, by reviewing emergency plans, securing essential provisions, and establishing clear communication strategies for at-risk personnel and assets.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $221.75 (3.04%)",
+            "title": "\ud83d\udcb0 NVDA: $220.36 (2.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $291.93 (-0.47%)",
+            "title": "\ud83d\udcb0 AAPL: $291.23 (-0.71%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $410.63 (-1.08%)",
+            "title": "\ud83d\udcb0 MSFT: $410.13 (-1.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.55 (-1.63%)",
+            "title": "\ud83d\udcb0 PLTR: $136.11 (-1.23%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.61 (-0.03%)",
+            "title": "\ud83d\udcb0 AMZN: $269.42 (-1.2%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 101 km SSE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr8"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 72 km NW of Malango, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swvm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 27 km WSW of Madang, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr6"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtd"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 60 km ESE of Isen, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtz"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swte"
         }
     ],
-    "seismicSummary": "**Multiple M5+ earthquakes are striking across Tonga, the Solomon Islands, Papua New Guinea, and Fiji right now!**"
+    "seismicSummary": "**Multiple M5+ earthquakes just hit the Pacific, including Solomon Islands, Fiji, and Japan!**"
 }
