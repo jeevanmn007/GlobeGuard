@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly deteriorating across multiple vectors: a critical geopolitical conflict centered on Iran is exacerbating a compounding global food and energy crisis, severely impacting supply chains via the Strait of Hormuz and highlighting widespread systemic fragility. Concurrently, the digital domain is experiencing heightened cyberattack risks and significant foundational instability within the AI sector, as major tech players grapple for control. This pervasive volatility is further compounded by a notable surge in seismic activity, with multiple powerful earthquakes registered across the Pacific Ring of Fire, posing immediate physical safety and infrastructure threats. Therefore, GlobeGuard directs immediate action: 1) Prioritize robust supply chain resilience by securing access to essential resources, particularly food and energy, through diversification and localized sourcing strategies to mitigate geopolitical disruptions. 2) Fortify digital defenses by implementing enhanced cybersecurity measures, including multi-factor authentication and data backups, and maintaining vigilance against sophisticated cyber threats targeting both assets and information infrastructure. 3) Reinforce emergency preparedness by updating and practicing contingency plans for physical safety, focusing on seismic event readiness and infrastructure disruption protocols, especially for assets and personnel in vulnerable regions.",
+    "strategicPlan": "The global environment is critically unstable, marked by an escalating geopolitical-driven resource crisis encompassing food and energy, exacerbated by ongoing conflict in Iran and a vital chokepoint blockade, which collectively threatens global supply chains and economic stability. This systemic vulnerability is compounded by increased cyber threats and significant internal disruptions within key AI development firms, while heightened tectonic activity across the Pacific Ring of Fire introduces substantial natural disaster risk, underscoring a multi-faceted crisis demanding immediate attention. GlobeGuard directs the following actions: 1) Proactively secure diversified critical resource supplies and establish at least 3-6 months of strategic reserves for essential provisions to mitigate impending food and energy scarcity. 2) Fortify digital assets and operational resilience by implementing advanced cybersecurity measures and robust incident response plans, re-evaluating dependencies on singular AI infrastructure given market volatility. 3) Assess and reinforce physical safety protocols and infrastructure against natural disasters, particularly for assets and personnel located in or reliant on seismically active regions, ensuring robust emergency communication and contingency logistics.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr8"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 72 km NW of Malango, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swvm"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 27 km WSW of Madang, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swr6"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtd"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 60 km ESE of Isen, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtz"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported across the Pacific!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just hit the South Pacific!"
 }
