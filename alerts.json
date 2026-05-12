@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global operational environment is at a critical juncture, marked by a potent combination of geopolitical tension, economic fragility, and elevated physical risks. The war in Iran and the ongoing Strait of Hormuz blockade are directly exacerbating a global food and energy crisis, stressing vital supply chains and contributing to inflationary pressures; concurrently, financial markets exhibit volatility, with leading tech stocks showing declines amid internal AI sector instability and emerging cyber threats. This complex picture is further compounded by a noticeable increase in seismic activity across the tectonically active Indo-Pacific arc, posing direct physical threats to infrastructure and personnel. To safeguard assets and ensure personnel safety, we must immediately secure diverse essential physical resources and alternative supply chains to mitigate global food and energy vulnerabilities, review and update emergency preparedness plans for all operations and personnel, especially within seismically active regions, and significantly reinforce digital infrastructure and cybersecurity measures against the backdrop of evolving cyber-attacks and AI-related instability.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.44 (1.97%)",
+            "title": "\ud83d\udcb0 NVDA: $217.29 (-0.98%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $292.68 (-0.13%)",
+            "title": "\ud83d\udcb0 AAPL: $293.95 (0.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $412.66 (-0.59%)",
+            "title": "\ud83d\udcb0 MSFT: $407.81 (-1.18%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.89 (-0.66%)",
+            "title": "\ud83d\udcb0 PLTR: $134.36 (-1.85%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.99 (-1.35%)",
+            "title": "\ud83d\udcb0 AMZN: $264.61 (-1.63%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple M5 earthquakes just struck the Pacific/Asia region!"
 }
