@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating systemic risks across geopolitical, financial, and physical domains. A severe and intensifying global food and energy crisis, stemming from the conflict in Iran and the Strait of Hormuz blockade, threatens supply chains and long-term nutritional security, while simultaneous market volatility and significant internal disruptions within the critical AI sector signal economic instability and increased cyber threats. This complex landscape is further exacerbated by a concerning pattern of moderate seismic activity across the Pacific Ring of Fire and Indian Ocean regions, indicating persistent physical hazards. To navigate these converging challenges, immediately focus on diversifying and securing essential food and energy reserves, fortifying digital infrastructure against escalating cyber risks and market shifts, and reviewing and reinforcing physical safety protocols and emergency preparedness plans, especially in tectonically active zones.",
+    "strategicPlan": "The global threat landscape is rapidly converging on critical vulnerabilities, demanding immediate, strategic action. Geopolitically, the Iran conflict and its ripple effects through the Strait of Hormuz are actively generating an escalating, global food and energy crisis, severely impacting supply chains and general populace well-being, while an underlying degradation of food quality compounds long-term survival concerns. Financially, while specific tech sectors show growth (NVDA), significant internal power struggles within key AI development firms like OpenAI signal instability and potential for increased cyber vulnerabilities, as highlighted by the rise of \"killer script kiddies.\" Concurrently, a notable cluster of moderate-to-strong seismic events across the Pacific Ring of Fire introduces an immediate physical risk layer, threatening infrastructure and further disrupting critical logistics. To secure assets and ensure physical safety, we recommend three urgent directives: first, aggressively diversify critical resource acquisition and supply chains, particularly for food and energy, to mitigate geopolitical disruptions; second, immediately enhance cybersecurity protocols and defenses against emerging AI-driven threats and sophisticated hacking attempts; and third, meticulously review and update emergency preparedness plans and physical asset security measures, especially for operations and personnel located in seismically active regions or along critical maritime routes.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swvm"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 79 km S of Hualien City, Taiwan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3h"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 224 km SE of Pondaguitan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3v"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 81 km WNW of Kirakira, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx2s"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Nicobar Islands, India region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 121 km ESE of Yigo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx06"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes have just struck the Solomon Islands, India, and Guam!"
+    "seismicSummary": "Multiple Magnitude 5 earthquakes strike the Solomon Islands, Taiwan, and Philippines."
 }
