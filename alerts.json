@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "**Strategic Directive:** The global environment currently exhibits a critical convergence of significant threats: an escalating geopolitical crisis rooted in the war in Iran and the Strait of Hormuz blockade is actively driving a severe global food and energy crisis, exacerbating economic strain. This instability is mirrored in key technology markets, with volatility influenced by significant leadership disputes within the AI sector and rising cybersecurity threats. Concurrently, persistent and notable seismic activity across the Pacific Ring of Fire, highlighted by multiple Magnitude 5+ earthquakes, presents a tangible physical risk to critical infrastructure and global supply chains. To secure assets and ensure physical safety, we recommend three immediate actions: first, bolster resilience against the looming food and energy crises by diversifying critical supply chains and securing essential provisions; second, fortify digital and financial assets through enhanced cybersecurity protocols and strategic portfolio diversification away from overly volatile tech sectors; and third, critically review and update emergency preparedness plans, particularly for personnel and assets within seismically active regions, ensuring robust communication and response capabilities.",
+    "strategicPlan": "The global strategic environment is marked by severe interconnected crises: a rapidly escalating geopolitical-resource crisis impacting food and energy supply chains, signaling profound economic strain; significant digital volatility driven by escalating cyber threats and power struggles within the AI sector; and heightened physical risks evidenced by persistent seismic activity across the Pacific Ring of Fire. To navigate this complex landscape, all entities must immediately prioritize securing essential food, water, and energy reserves, diversifying supply chains to mitigate economic shocks; simultaneously, fortify digital infrastructure against advanced cyber threats, review financial asset allocation for stability, and update data integrity protocols; and finally, for those in at-risk regions, update and practice natural disaster preparedness plans, ensuring comprehensive emergency kits and robust communication strategies are in place.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 289 km SW of Houma, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx9x"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 96 km W of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx5k"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 62 km E of \u2018Ohonua, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 79 km S of Hualien City, Taiwan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3h"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 224 km SE of Pondaguitan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3v"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 81 km WNW of Kirakira, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx2s"
         }
     ],
-    "seismicSummary": "**\u26a0\ufe0f Multiple moderate earthquakes (Mag 5.0-5.6) are active across the Solomon Islands, Taiwan, and Philippines!**"
+    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes, including a Mag 5.7, just hit Tonga, Solomon Islands, and Taiwan!"
 }
