@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is critically volatile, dominated by an escalating, multi-faceted crisis encompassing a severe food and energy crunch\u2014amplified by the war in Iran and the Strait of Hormuz blockade\u2014compounded by rising AI-powered cybersecurity threats and significant internal instability within leading AI developers, all against a backdrop of moderate market uncertainty. This complex geopolitical and technological fragility is underscored by persistent physical risks, as evidenced by recent moderate but multiple seismic events across the Pacific Ring of Fire. To secure assets and physical safety, immediately diversify and localize critical supply chains to mitigate resource scarcity; bolster cybersecurity defenses with AI-driven solutions while closely monitoring AI industry developments; and update emergency preparedness protocols, especially for physical assets and personnel in seismically active areas, accounting for potential cascading infrastructure impacts.",
+    "strategicPlan": "The global situation is critically volatile, marked by a dangerous convergence of escalating geopolitical tensions around the Strait of Hormuz driving a severe, interconnected food and energy crisis that is profoundly destabilizing the global south. Concurrently, the technology sector, while seeing some AI-centric assets like NVDA demonstrate resilience, faces significant internal strife among leading AI developers (OpenAI, Microsoft) and a palpable increase in sophisticated cyber threats, signaling profound technological instability and digital vulnerability. Against this backdrop, the Earth continues its regular seismic activity across multiple tectonically active regions, serving as a constant reminder of persistent physical hazards. To navigate this complex landscape, immediately secure a minimum of six months' worth of non-perishable food, water, and essential medical supplies; rigorously audit and fortify all digital infrastructure against advanced cyber threats, including implementing off-grid data backups; and review and update emergency preparedness plans for physical safety, including structural assessments and communications protocols, especially for assets in tectonically active or supply-chain-vulnerable regions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -25,7 +25,7 @@
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $292.68 (-0.22%)",
+            "title": "\ud83d\udcb0 AAPL: $292.68 (-0.13%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swvm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtd"
+            "title": "\u26a0\ufe0f Mag 4.8 - 121 km ESE of Yigo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx06"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 60 km ESE of Isen, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtz"
+            "title": "\u26a0\ufe0f Mag 4.8 - 43 km E of Salamanca, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swyj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swte"
+            "title": "\u26a0\ufe0f Mag 4.6 - 46 km WSW of San Pedro de Atacama, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swuu"
         }
     ],
-    "seismicSummary": "Urgent: Four magnitude 5+ earthquakes just struck the Pacific, including Fiji, Solomon Islands, and Japan!"
+    "seismicSummary": "URGENT: Moderate earthquakes (M4.6-5.2) just reported across the Solomon Islands, Guam, and Chile!"
 }
