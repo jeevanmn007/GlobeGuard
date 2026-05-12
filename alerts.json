@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is at a critical juncture, marked by a potent combination of geopolitical tension, economic fragility, and elevated physical risks. The war in Iran and the ongoing Strait of Hormuz blockade are directly exacerbating a global food and energy crisis, stressing vital supply chains and contributing to inflationary pressures; concurrently, financial markets exhibit volatility, with leading tech stocks showing declines amid internal AI sector instability and emerging cyber threats. This complex picture is further compounded by a noticeable increase in seismic activity across the tectonically active Indo-Pacific arc, posing direct physical threats to infrastructure and personnel. To safeguard assets and ensure personnel safety, we must immediately secure diverse essential physical resources and alternative supply chains to mitigate global food and energy vulnerabilities, review and update emergency preparedness plans for all operations and personnel, especially within seismically active regions, and significantly reinforce digital infrastructure and cybersecurity measures against the backdrop of evolving cyber-attacks and AI-related instability.",
+    "strategicPlan": "The global landscape is at a critical juncture, defined by an intensifying food and energy crisis originating from the war in Iran and Strait of Hormuz blockades, threatening global stability and exacerbating vulnerabilities, particularly in the Global South. Financially, the tech sector is exhibiting fragility with significant dips in major stocks and internal disputes among AI giants, compounded by a heightened risk of cyberattacks from 'script kiddies.' Simultaneously, persistent seismic activity across the Pacific Ring of Fire highlights an underlying physical threat to critical infrastructure and populations. To navigate this complex environment, secure assets, and ensure physical safety, we must immediately diversify food and energy reserves with a focus on localized resilience, bolster digital defenses against evolving cyber threats while cautiously reviewing tech investment portfolios, and conduct urgent, localized seismic vulnerability assessments across all at-risk holdings and personnel, implementing robust emergency protocols.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.29 (-0.98%)",
+            "title": "\ud83d\udcb0 NVDA: $218.24 (-0.54%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $293.95 (0.43%)",
+            "title": "\ud83d\udcb0 AAPL: $294.13 (0.5%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $407.81 (-1.18%)",
+            "title": "\ud83d\udcb0 MSFT: $408.48 (-1.01%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.36 (-1.85%)",
+            "title": "\ud83d\udcb0 PLTR: $133.97 (-2.13%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $264.61 (-1.63%)",
+            "title": "\ud83d\udcb0 AMZN: $264.12 (-1.81%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 96 km W of Lata, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx5k"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 79 km S of Hualien City, Taiwan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3h"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 81 km WNW of Kirakira, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx2s"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Nicobar Islands, India region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx36"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just struck the Pacific/Asia region!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes detected across the Western Pacific, including Solomon Islands, Taiwan, and Philippines!"
 }
