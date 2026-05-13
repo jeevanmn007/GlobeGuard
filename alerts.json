@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is marked by severe interconnected crises: a rapidly escalating geopolitical-resource crisis impacting food and energy supply chains, signaling profound economic strain; significant digital volatility driven by escalating cyber threats and power struggles within the AI sector; and heightened physical risks evidenced by persistent seismic activity across the Pacific Ring of Fire. To navigate this complex landscape, all entities must immediately prioritize securing essential food, water, and energy reserves, diversifying supply chains to mitigate economic shocks; simultaneously, fortify digital infrastructure against advanced cyber threats, review financial asset allocation for stability, and update data integrity protocols; and finally, for those in at-risk regions, update and practice natural disaster preparedness plans, ensuring comprehensive emergency kits and robust communication strategies are in place.",
+    "strategicPlan": "Our assessment indicates a rapidly deteriorating global risk landscape, where escalating geopolitical tensions surrounding Iran and the Strait of Hormuz are critically exacerbating a multi-faceted food and energy crisis, threatening global supply chains and economic stability. Concurrently, financial markets show mixed signals amidst significant internal strife within the AI sector and a rise in sophisticated cyber threats, while a concerning cluster of Magnitude 5+ seismic events across the Pacific Ring of Fire highlights an elevated risk of natural disasters in critical maritime regions. To secure assets and ensure physical safety, immediately diversify and stockpile essential food and energy provisions, reinforce all critical cybersecurity defenses, and develop robust emergency preparedness plans tailored for both geopolitical instability and heightened seismic activity.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 289 km SW of Houma, Tonga",
+            "title": "\u26a0\ufe0f Mag 5.7 - 275 km SW of Houma, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx9x"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3h"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes, including a Mag 5.7, just hit Tonga, Solomon Islands, and Taiwan!"
+    "seismicSummary": "Multiple M5+ earthquakes have just hit Tonga, Solomon Islands, and Taiwan."
 }
