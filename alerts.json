@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, marked by a severe geopolitical landscape dominated by the ongoing conflict in Iran, which is directly fueling a slow-moving global food and energy crisis, critically compounded by the Strait of Hormuz blockade. This instability unfolds against a backdrop of significant and widespread seismic activity across multiple high-risk regions, posing an underlying physical threat to global infrastructure and supply chains. Concurrently, while tech markets show mixed signals, internal strife within the AI sector and rising cyber threats ('killer script kiddies') indicate significant digital vulnerabilities. Therefore, GlobeGuard advises immediate action: first, prioritize enhancing personal and organizational resilience by establishing emergency reserves of essential food and fuel, and diversifying critical supply chains; second, rigorously review and fortify physical infrastructure and safety protocols in light of increased seismic risk; and third, strengthen digital asset security measures and recalibrate financial portfolios to mitigate against escalating geopolitical and technological volatility.",
+    "strategicPlan": "The global environment is currently characterized by an urgent confluence of crises. Geopolitically, the escalating war in Iran and the Strait of Hormuz blockade are accelerating a severe global food and energy crisis, impacting supply chains and long-term nutritional security. Financially, significant volatility is evident in key tech sectors, particularly AI, where internal strife and renegotiations signal heightened market instability and increased cybersecurity risks from emerging AI-enabled threats. Concurrently, a notable surge in 5+ magnitude seismic events across diverse active regions indicates an elevated global physical risk landscape. To navigate these interconnected threats, first, secure financial assets by diversifying portfolios towards resilient sectors and immediately bolstering digital defenses against sophisticated cyber-attacks. Second, fortify physical safety by establishing robust local food and energy reserves, critically evaluating supply chain vulnerabilities. Third, proactively review and update all emergency preparedness protocols, with a specific emphasis on earthquake response given the observed increase in global seismic activity.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.78 (0.61%)",
+            "title": "\ud83d\udcb0 NVDA: $227.45 (3.02%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $294.8 (0.72%)",
+            "title": "\ud83d\udcb0 AAPL: $297.95 (1.07%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $407.77 (-1.18%)",
+            "title": "\ud83d\udcb0 MSFT: $405.53 (-0.55%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.0 (-0.65%)",
+            "title": "\ud83d\udcb0 PLTR: $131.2 (-3.53%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.82 (-1.18%)",
+            "title": "\ud83d\udcb0 AMZN: $269.35 (1.33%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx9x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 96 km W of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx5k"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxdf"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Izu Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 55 km ENE of \u2018Ohonua, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes strike globally!"
+    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes worldwide, including two near Tonga!"
 }
