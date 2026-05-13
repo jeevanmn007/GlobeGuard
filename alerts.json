@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by an urgent confluence of crises. Geopolitically, the escalating war in Iran and the Strait of Hormuz blockade are accelerating a severe global food and energy crisis, impacting supply chains and long-term nutritional security. Financially, significant volatility is evident in key tech sectors, particularly AI, where internal strife and renegotiations signal heightened market instability and increased cybersecurity risks from emerging AI-enabled threats. Concurrently, a notable surge in 5+ magnitude seismic events across diverse active regions indicates an elevated global physical risk landscape. To navigate these interconnected threats, first, secure financial assets by diversifying portfolios towards resilient sectors and immediately bolstering digital defenses against sophisticated cyber-attacks. Second, fortify physical safety by establishing robust local food and energy reserves, critically evaluating supply chain vulnerabilities. Third, proactively review and update all emergency preparedness protocols, with a specific emphasis on earthquake response given the observed increase in global seismic activity.",
+    "strategicPlan": "The global environment is critically unstable, characterized by an escalating geopolitical crisis stemming from the war in Iran and the Strait of Hormuz blockade, which is directly precipitating a severe, slow-moving global food and energy crisis, impacting both availability and nutritional quality of essential resources. Financially, markets exhibit volatility, with strong performance in select tech names contrasted by significant declines in others, all within a landscape grappling with evolving AI power struggles and an increasing threat from sophisticated cyberattacks. Concurrently, persistent elevated seismic activity across multiple tectonically active regions adds an underlying layer of physical instability to an already precarious global situation. To secure assets and ensure physical safety, we strongly advise three immediate actions: first, strategically diversify financial holdings towards inflation-resistant assets and aggressively fortify digital infrastructure against the rising tide of cyber threats; second, prioritize establishing robust local food and energy reserves, cultivating redundant supply chains to mitigate severe global disruptions; and third, enhance personal and community resilience by fostering reliable information networks and maintaining hyper-vigilance against both geopolitical shifts and potential physical hazards.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $227.45 (3.02%)",
+            "title": "\ud83d\udcb0 NVDA: $226.73 (2.69%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.95 (1.07%)",
+            "title": "\ud83d\udcb0 AAPL: $299.53 (1.6%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $405.53 (-0.55%)",
+            "title": "\ud83d\udcb0 MSFT: $405.19 (-0.63%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.2 (-3.53%)",
+            "title": "\ud83d\udcb0 PLTR: $129.24 (-4.97%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $269.35 (1.33%)",
+            "title": "\ud83d\udcb0 AMZN: $269.49 (1.38%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes worldwide, including two near Tonga!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes just struck Tonga, Japan, and the South Sandwich Islands!"
 }
