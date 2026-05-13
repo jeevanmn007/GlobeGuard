@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence landscape presents an urgent and complex threat convergence: intensifying geopolitical conflict, particularly in the Middle East, is critically disrupting global food and energy supply chains, creating both an immediate blockade-driven food crisis and the largest energy crisis in modern history. This economic instability is mirrored by persistent financial market volatility and a contentious, uncertain future for AI development alongside an escalating threat from advanced cyberattacks. Concurrently, elevated seismic activity across the Pacific Ring of Fire underscores a heightened physical risk to infrastructure and populations. To secure assets and ensure physical safety, we must immediately take the following actions: First, actively audit and diversify critical supply chains for essential goods, prioritizing local sourcing and establishing robust buffer stocks of non-perishable food, water, and energy alternatives. Second, re-evaluate investment portfolios for defensive positioning against inflation and market downturns, while simultaneously fortifying digital assets and operational networks against increasing cyber threats. Third, develop and rigorously practice comprehensive emergency response plans for all personnel and critical assets, with specific attention to seismic event protocols and regional geopolitical instability.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple Mag 5+ earthquakes just struck Tonga, Solomon Islands, and Japan!"
 }
