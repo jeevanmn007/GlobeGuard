@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our assessment indicates a rapidly deteriorating global risk landscape, where escalating geopolitical tensions surrounding Iran and the Strait of Hormuz are critically exacerbating a multi-faceted food and energy crisis, threatening global supply chains and economic stability. Concurrently, financial markets show mixed signals amidst significant internal strife within the AI sector and a rise in sophisticated cyber threats, while a concerning cluster of Magnitude 5+ seismic events across the Pacific Ring of Fire highlights an elevated risk of natural disasters in critical maritime regions. To secure assets and ensure physical safety, immediately diversify and stockpile essential food and energy provisions, reinforce all critical cybersecurity defenses, and develop robust emergency preparedness plans tailored for both geopolitical instability and heightened seismic activity.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx5k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 62 km E of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
+            "title": "\u26a0\ufe0f Mag 5.1 - Izu Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 79 km S of Hualien City, Taiwan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3h"
+            "title": "\u26a0\ufe0f Mag 5.1 - 55 km ENE of \u2018Ohonua, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes have just hit Tonga, Solomon Islands, and Taiwan."
+    "seismicSummary": "Analyzing tectonic data..."
 }
