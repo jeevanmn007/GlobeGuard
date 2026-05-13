@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, marked by escalating geopolitical conflicts in the Middle East severely impacting vital food and energy supply chains, while the technology sector navigates significant internal disruptions and an expanding landscape of sophisticated cyber threats, all underscored by heightened seismic activity in critical oceanic regions. To mitigate these integrated risks, GlobeGuard advises three immediate actions: first, **diversify financial holdings** into inflation-resistant assets and essential commodities, simultaneously fortifying digital assets against sophisticated cyber threats; second, **prioritize comprehensive contingency planning** for family and community resilience, securing independent food, water, and energy sources, while remaining aware of regional seismic advisories; and third, **actively map and secure critical supply chains** for all essential goods and services, building redundancy and leveraging intelligence to pre-empt geopolitical and technological disruptions.",
+    "strategicPlan": "The global intelligence assessment reveals an acutely volatile environment, marked by a severe, interconnected food and energy crisis stemming from geopolitical conflict in Iran and the Strait of Hormuz blockade, alongside escalating cybersecurity risks from sophisticated actors and profound instability within the core AI sector. This complex geopolitical and technological landscape is compounded by persistent physical threats, underscored by a cluster of recent M5+ seismic events across critical global regions. To navigate this period, immediately secure diversified and resilient supply chains for essential resources, significantly bolster digital defenses and review AI dependencies against advanced cyber threats, and harden physical infrastructure and preparedness plans for natural disasters in at-risk areas.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 65 km N of Namuac, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxk1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxdf"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 55 km ENE of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxd4"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Four magnitude 5+ earthquakes just hit Japan, Tonga, and the South Sandwich Islands!"
+    "seismicSummary": "\u26a0\ufe0f Multiple strong magnitude 5+ earthquakes have struck worldwide, notably the Philippines and Japan!"
 }
