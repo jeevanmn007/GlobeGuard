@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and immediate threat matrix: geopolitically, the escalating conflict in Iran and the Strait of Hormuz blockade are directly fueling a severe global food and energy crisis, impacting vital supply chains and economic stability. This is compounded by mixed financial market signals in tech and significant internal disruption within the critical AI sector, alongside emerging cybersecurity vulnerabilities. Concurrently, a cluster of significant seismic events across the Pacific Ring of Fire and South Sandwich Islands region indicates a period of heightened geological instability. To navigate these converging threats, first, conduct an immediate audit of essential supply chains for food, fuel, and critical resources, diversifying acquisition and stockpiling where prudent to mitigate geopolitical disruptions. Second, prioritize physical safety by updating emergency preparedness kits and reviewing disaster response plans, particularly for seismic events given the recent heightened activity. Third, fortify digital assets by strengthening cybersecurity defenses against emerging threats and maintaining robust data backup and recovery protocols.",
+    "strategicPlan": "The global strategic environment is critically unstable, marked by a severe geopolitical landscape dominated by the ongoing conflict in Iran, which is directly fueling a slow-moving global food and energy crisis, critically compounded by the Strait of Hormuz blockade. This instability unfolds against a backdrop of significant and widespread seismic activity across multiple high-risk regions, posing an underlying physical threat to global infrastructure and supply chains. Concurrently, while tech markets show mixed signals, internal strife within the AI sector and rising cyber threats ('killer script kiddies') indicate significant digital vulnerabilities. Therefore, GlobeGuard advises immediate action: first, prioritize enhancing personal and organizational resilience by establishing emergency reserves of essential food and fuel, and diversifying critical supply chains; second, rigorously review and fortify physical infrastructure and safety protocols in light of increased seismic risk; and third, strengthen digital asset security measures and recalibrate financial portfolios to mitigate against escalating geopolitical and technological volatility.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple M5+ earthquakes just struck across various global regions!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes strike globally!"
 }
