@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is critically unstable, marked by an escalating geopolitical-driven food and energy crisis originating from the war in Iran and disruptions in the Strait of Hormuz, exacerbated by long-term nutritional degradation trends. This systemic vulnerability is compounded by significant internal instability within the critical AI sector and a rise in sophisticated cyber threats, despite mixed performance in major tech markets. Underpinning these complex pressures, persistent seismic activity in key global regions highlights ongoing physical risks. To navigate this environment, GlobeGuard must immediately: 1. Secure diversified energy and essential food supplies, emphasizing local resilience and long-term storage to mitigate escalating geopolitical and supply chain shocks. 2. Fortify digital infrastructure against advanced cyber threats, simultaneously re-evaluating and diversifying financial portfolios to account for AI sector volatility and broader economic uncertainty. 3. Implement robust physical safety protocols and conduct thorough structural integrity assessments for all critical assets in seismically active zones, ensuring comprehensive emergency preparedness.",
+    "strategicPlan": "The global strategic landscape is defined by an immediate and escalating confluence of critical threats: a severe, interconnected energy and food crisis driven by geopolitical instability in Iran and the Strait of Hormuz blockade, which is simultaneously straining global supply chains and impacting regional economies. This systemic pressure is occurring amidst a volatile financial market, where despite some tech sector resilience, rising cyber threats from increasingly sophisticated actors demand vigilance. Compounding these human-made and economic stressors, persistent, moderate seismic activity across diverse geographical regions underscores a pervasive, unpredictable physical vulnerability. To navigate this complex environment, GlobeGuard directs immediate action to: 1) Proactively secure and diversify essential resource supply chains, particularly for food and energy, to mitigate geopolitical disruption; 2) Implement robust, AI-enhanced cybersecurity protocols across all digital assets to counter escalating cyber threats; and 3) Develop and review localized contingency plans for physical safety and asset protection, accounting for both natural hazards and potential socio-economic disruptions.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxdf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxd4"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 16 km ENE of Jac\u00f3, Costa Rica",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxh5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - Carlsberg Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxi7"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.3 in the Philippines and 4.9 near Costa Rica, have just struck globally!"
+    "seismicSummary": "**Multiple magnitude 5 earthquakes are striking diverse global locations!**"
 }
