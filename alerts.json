@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is critically unstable, marked by a confluence of severe geopolitical, financial, and physical tectonic pressures. Geopolitically, the ongoing war in Iran and its impact on the Strait of Hormuz are rapidly escalating a global food and energy crisis, exacerbating supply chain vulnerabilities and impacting global south stability, while the digital realm faces increasing \"script kiddie\" cyber threats amid high-stakes power struggles within foundational AI organizations. Financially, though some AI-centric tech stocks show resilience, the broader market remains vulnerable to these profound macro-level disruptions. Concurrently, a heightened natural hazard environment is evidenced by multiple significant seismic events across seismically active regions, posing direct physical threats and infrastructure risks. To secure assets and physical safety in this volatile environment, GlobeGuard directs three immediate actions: first, establish robust emergency reserves for critical provisions like food, water, and fuel, and diversify essential supply chains to mitigate the emerging food and energy crises; second, implement advanced cybersecurity protocols, conduct regular digital asset audits, and ensure off-grid data redundancy given escalating cyber threats and AI sector instability; and third, review and reinforce physical safety plans and infrastructure resilience, especially for assets in seismically active zones, maintaining comprehensive emergency preparedness.",
+    "strategicPlan": "The global environment is critically unstable: escalating geopolitical conflicts, particularly the war in Iran and its Strait of Hormuz blockade, are fueling a severe, multi-faceted food and energy crisis with dire implications for global nutrition and supply chains. Financially, while key AI and tech stocks show resilience, broader market volatility is evident amidst significant internal disruptions within major AI entities and a surge in sophisticated cyber threats. Concurrently, a concerning uptick in global seismic activity, notably a Mag 6.2 event in Indonesia, underscores pervasive physical instability across critical regions. To navigate this complex threat landscape, GlobeGuard directs immediate action: first, **secure critical supply lines for essential food and energy, exploring localized and diversified sourcing strategies.** Second, **re-evaluate investment portfolios for resilience against market volatility, prioritizing defensive assets and fortifying digital defenses against sophisticated cyber attacks.** Third, **bolster physical emergency preparedness, focusing on seismic event readiness and robust communication protocols for key operational sites.**",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxn9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 51 km NNE of Namuac, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxk1"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxmm"
         }
     ],
-    "seismicSummary": "Urgent: A 6.2 earthquake just struck Indonesia, with multiple 5+ magnitude quakes reported globally!"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes detected worldwide, including a Mag 6.2 in Indonesia!**"
 }
