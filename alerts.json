@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a rapidly deteriorating landscape characterized by escalating geopolitical instability in the Middle East, actively propagating severe food and energy crises through supply chain disruptions and resource strain, threatening fundamental human security. This geopolitical tension is mirrored by financial volatility, where despite some resilience in specialized tech, the critical AI sector is experiencing significant internal upheaval and faces rising \"script kiddie\" cyber threats, further complicating digital asset security. Concurrently, elevated seismic activity globally introduces an unpredictable layer of physical risk to infrastructure and operations. To secure assets and ensure physical safety in this environment, GlobeGuard directs three urgent actions: first, establish robust localized food and alternative energy reserves, minimizing reliance on vulnerable global supply chains; second, diversify financial portfolios towards resilient assets and inflation hedges, reducing exposure to geopolitical hot zones and market volatility; and third, rigorously fortify all digital defenses with advanced cybersecurity measures, multi-factor authentication, and continuous threat monitoring against emergent cyberattack vectors.",
+    "strategicPlan": "The global threat landscape is critically complex, characterized by severe geopolitical instability stemming from the war in Iran and the Strait of Hormuz blockade, which are actively accelerating a global food and energy crisis with broad implications, including an \"invisible force\" reducing food nutritional value. Concurrently, we are observing an elevated pattern of significant global seismic activity across multiple key regions, indicating a period of heightened physical risk. Financially, while select tech stocks show upward movement, intense internal power struggles within the AI sector, alongside a rise in \"killer script kiddies,\" point to underlying systemic volatility and increased cyber threats. To navigate this escalating risk environment, GlobeGuard directs you to: first, immediately secure critical supply chains by establishing robust local resource networks and personal stockpiles to mitigate the worsening food and energy scarcity; second, fortify digital infrastructure against increasing cyber threats while strategically diversifying financial assets towards tangible, crisis-resilient holdings, given market volatility and AI sector instability; and third, update and thoroughly practice emergency preparedness protocols for seismic events and related natural disasters, acknowledging the widespread tectonic unrest.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $235.58 (4.32%)",
+            "title": "\ud83d\udcb0 NVDA: $235.67 (4.36%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.67 (-0.4%)",
+            "title": "\ud83d\udcb0 AAPL: $298.11 (-0.25%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $408.08 (0.71%)",
+            "title": "\ud83d\udcb0 MSFT: $409.35 (1.02%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.07 (2.32%)",
+            "title": "\ud83d\udcb0 PLTR: $133.66 (2.78%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.07 (-0.76%)",
+            "title": "\ud83d\udcb0 AMZN: $266.86 (-1.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.2 - 271 km WSW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxqf"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 32 km WNW of Darien, Colombia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxn9"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxmm"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes striking globally!"
+    "seismicSummary": "Multiple significant earthquakes, including a 6.2 in Indonesia, just struck worldwide!"
 }
