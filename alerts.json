@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by a critical convergence of geopolitical, financial, and physical threats: the war in Iran and its Strait of Hormuz blockade are actively driving a global food crisis \u2013 compounded by declining nutritional value \u2013 and escalating the largest energy crisis in modern history, profoundly impacting global stability. Concurrently, the digital landscape is fraught with heightened cybersecurity risks from 'killer script kiddies' and significant volatility within the AI sector, while financial markets show mixed performance. Underlying these, persistent moderate seismic activity in vulnerable regions like Colombia and the Philippines reminds us of ongoing natural hazards. To secure assets and ensure safety, we advise three immediate, actionable points: first, fortify digital and financial assets with robust cybersecurity and diversified investments; second, proactively establish resilient, localized supply chains for food, water, and energy to mitigate escalating resource scarcity; and third, develop comprehensive emergency preparedness plans for both geopolitical disruptions and natural disasters, maintaining vigilant intelligence on evolving threats.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly deteriorating landscape characterized by escalating geopolitical instability in the Middle East, actively propagating severe food and energy crises through supply chain disruptions and resource strain, threatening fundamental human security. This geopolitical tension is mirrored by financial volatility, where despite some resilience in specialized tech, the critical AI sector is experiencing significant internal upheaval and faces rising \"script kiddie\" cyber threats, further complicating digital asset security. Concurrently, elevated seismic activity globally introduces an unpredictable layer of physical risk to infrastructure and operations. To secure assets and ensure physical safety in this environment, GlobeGuard directs three urgent actions: first, establish robust localized food and alternative energy reserves, minimizing reliance on vulnerable global supply chains; second, diversify financial portfolios towards resilient assets and inflation hedges, reducing exposure to geopolitical hot zones and market volatility; and third, rigorously fortify all digital defenses with advanced cybersecurity measures, multi-factor authentication, and continuous threat monitoring against emergent cyberattack vectors.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $233.78 (3.52%)",
+            "title": "\ud83d\udcb0 NVDA: $235.58 (4.32%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.82 (-0.35%)",
+            "title": "\ud83d\udcb0 AAPL: $297.67 (-0.4%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $407.95 (0.68%)",
+            "title": "\ud83d\udcb0 MSFT: $408.08 (0.71%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.65 (1.23%)",
+            "title": "\ud83d\udcb0 PLTR: $133.07 (2.32%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.48 (-0.98%)",
+            "title": "\ud83d\udcb0 AMZN: $268.07 (-0.76%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxk1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxmm"
+            "title": "\u26a0\ufe0f Mag 5.2 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 16 km ENE of Jac\u00f3, Costa Rica",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxh5"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxmm"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes striking globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes striking globally!"
 }
