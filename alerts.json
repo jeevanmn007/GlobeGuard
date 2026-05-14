@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is critically complex, characterized by severe geopolitical instability stemming from the war in Iran and the Strait of Hormuz blockade, which are actively accelerating a global food and energy crisis with broad implications, including an \"invisible force\" reducing food nutritional value. Concurrently, we are observing an elevated pattern of significant global seismic activity across multiple key regions, indicating a period of heightened physical risk. Financially, while select tech stocks show upward movement, intense internal power struggles within the AI sector, alongside a rise in \"killer script kiddies,\" point to underlying systemic volatility and increased cyber threats. To navigate this escalating risk environment, GlobeGuard directs you to: first, immediately secure critical supply chains by establishing robust local resource networks and personal stockpiles to mitigate the worsening food and energy scarcity; second, fortify digital infrastructure against increasing cyber threats while strategically diversifying financial assets towards tangible, crisis-resilient holdings, given market volatility and AI sector instability; and third, update and thoroughly practice emergency preparedness protocols for seismic events and related natural disasters, acknowledging the widespread tectonic unrest.",
+    "strategicPlan": "The global threat landscape is critically unstable, marked by a confluence of severe geopolitical, financial, and physical tectonic pressures. Geopolitically, the ongoing war in Iran and its impact on the Strait of Hormuz are rapidly escalating a global food and energy crisis, exacerbating supply chain vulnerabilities and impacting global south stability, while the digital realm faces increasing \"script kiddie\" cyber threats amid high-stakes power struggles within foundational AI organizations. Financially, though some AI-centric tech stocks show resilience, the broader market remains vulnerable to these profound macro-level disruptions. Concurrently, a heightened natural hazard environment is evidenced by multiple significant seismic events across seismically active regions, posing direct physical threats and infrastructure risks. To secure assets and physical safety in this volatile environment, GlobeGuard directs three immediate actions: first, establish robust emergency reserves for critical provisions like food, water, and fuel, and diversify essential supply chains to mitigate the emerging food and energy crises; second, implement advanced cybersecurity protocols, conduct regular digital asset audits, and ensure off-grid data redundancy given escalating cyber threats and AI sector instability; and third, review and reinforce physical safety plans and infrastructure resilience, especially for assets in seismically active zones, maintaining comprehensive emergency preparedness.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $235.67 (4.36%)",
+            "title": "\ud83d\udcb0 NVDA: $235.74 (4.39%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $298.11 (-0.25%)",
+            "title": "\ud83d\udcb0 AAPL: $298.21 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $409.35 (1.02%)",
+            "title": "\ud83d\udcb0 MSFT: $409.43 (1.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.66 (2.78%)",
+            "title": "\ud83d\udcb0 PLTR: $133.73 (2.83%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.86 (-1.21%)",
+            "title": "\ud83d\udcb0 AMZN: $267.22 (-1.08%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, including a 6.2 in Indonesia, just struck worldwide!"
+    "seismicSummary": "Urgent: A 6.2 earthquake just struck Indonesia, with multiple 5+ magnitude quakes reported globally!"
 }
