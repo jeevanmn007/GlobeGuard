@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals an acutely volatile environment, marked by a severe, interconnected food and energy crisis stemming from geopolitical conflict in Iran and the Strait of Hormuz blockade, alongside escalating cybersecurity risks from sophisticated actors and profound instability within the core AI sector. This complex geopolitical and technological landscape is compounded by persistent physical threats, underscored by a cluster of recent M5+ seismic events across critical global regions. To navigate this period, immediately secure diversified and resilient supply chains for essential resources, significantly bolster digital defenses and review AI dependencies against advanced cyber threats, and harden physical infrastructure and preparedness plans for natural disasters in at-risk areas.",
+    "strategicPlan": "The global landscape is critically unstable, marked by an escalating geopolitical-driven food and energy crisis originating from the war in Iran and disruptions in the Strait of Hormuz, exacerbated by long-term nutritional degradation trends. This systemic vulnerability is compounded by significant internal instability within the critical AI sector and a rise in sophisticated cyber threats, despite mixed performance in major tech markets. Underpinning these complex pressures, persistent seismic activity in key global regions highlights ongoing physical risks. To navigate this environment, GlobeGuard must immediately: 1. Secure diversified energy and essential food supplies, emphasizing local resilience and long-term storage to mitigate escalating geopolitical and supply chain shocks. 2. Fortify digital infrastructure against advanced cyber threats, simultaneously re-evaluating and diversifying financial portfolios to account for AI sector volatility and broader economic uncertainty. 3. Implement robust physical safety protocols and conduct thorough structural integrity assessments for all critical assets in seismically active zones, ensuring comprehensive emergency preparedness.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 65 km N of Namuac, Philippines",
+            "title": "\u26a0\ufe0f Mag 5.3 - 51 km NNE of Namuac, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxk1"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxdf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Izu Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxd4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 16 km ENE of Jac\u00f3, Costa Rica",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxh5"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple strong magnitude 5+ earthquakes have struck worldwide, notably the Philippines and Japan!"
+    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.3 in the Philippines and 4.9 near Costa Rica, have just struck globally!"
 }
