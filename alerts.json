@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape presents an urgent and multifaceted risk profile. Geopolitically, the escalating conflict in Iran and the Strait of Hormuz blockade are directly fueling a critical food and energy crisis, creating profound supply chain vulnerabilities and economic instability across the globe. Financially, while major tech stocks show mixed performance, significant turbulence within the AI sector, particularly concerning Microsoft and OpenAI, signals increased cybersecurity risks and potential disruptions to critical digital infrastructure. Concurrently, the persistent moderate seismic activity across disparate regions, including the Philippines and Costa Rica, reminds us of inherent physical vulnerabilities that demand attention. To proactively mitigate these converging threats, GlobeGuard personnel must: first, immediately audit and diversify critical resource supply chains to build resilience against food and energy shortages; second, fortify all digital defenses and cybersecurity protocols in anticipation of heightened cyber threats and AI-related disruptions; and third, meticulously review and upgrade emergency preparedness plans for both physical safety and asset protection, with particular emphasis on seismically active or resource-scarce operational zones.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a critical convergence of geopolitical, financial, and physical threats: the war in Iran and its Strait of Hormuz blockade are actively driving a global food crisis \u2013 compounded by declining nutritional value \u2013 and escalating the largest energy crisis in modern history, profoundly impacting global stability. Concurrently, the digital landscape is fraught with heightened cybersecurity risks from 'killer script kiddies' and significant volatility within the AI sector, while financial markets show mixed performance. Underlying these, persistent moderate seismic activity in vulnerable regions like Colombia and the Philippines reminds us of ongoing natural hazards. To secure assets and ensure safety, we advise three immediate, actionable points: first, fortify digital and financial assets with robust cybersecurity and diversified investments; second, proactively establish resilient, localized supply chains for food, water, and energy to mitigate escalating resource scarcity; and third, develop comprehensive emergency preparedness plans for both geopolitical disruptions and natural disasters, maintaining vigilant intelligence on evolving threats.",
     "survival": [
         {
             "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.83 (2.29%)",
+            "title": "\ud83d\udcb0 NVDA: $233.78 (3.52%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $298.87 (1.38%)",
+            "title": "\ud83d\udcb0 AAPL: $297.82 (-0.35%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $405.21 (-0.63%)",
+            "title": "\ud83d\udcb0 MSFT: $407.95 (0.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.05 (-4.37%)",
+            "title": "\ud83d\udcb0 PLTR: $131.65 (1.23%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $270.13 (1.62%)",
+            "title": "\ud83d\udcb0 AMZN: $267.48 (-0.98%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 32 km WNW of Darien, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxn9"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 51 km NNE of Namuac, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxk1"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 16 km ENE of Jac\u00f3, Costa Rica",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxh5"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - Carlsberg Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxi7"
         }
     ],
-    "seismicSummary": "**\u26a0\ufe0f URGENT:** Multiple Mag 4.8-5.3 earthquakes are shaking diverse global locations!"
+    "seismicSummary": "Multiple Mag 5 earthquakes striking globally!"
 }
