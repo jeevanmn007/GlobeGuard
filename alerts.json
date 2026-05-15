@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, characterized by simultaneous geopolitical, financial, and tectonic stresses. Widespread resource scarcity, exacerbated by the ongoing war in Iran, an intensifying energy crisis, and ecological degradation like overfishing, threatens global stability and food security, while the tech sector grapples with significant AI market volatility, including the OpenAI-Microsoft dispute, and escalating cyber threats. Concurrently, a potent 6.7 magnitude earthquake near Japan, alongside other seismic events, underscores acute physical vulnerabilities in critical regions. To mitigate these compounding risks, immediately diversify and localize essential resource procurement, rigorously upgrade all digital and physical cybersecurity defenses, and fortify disaster preparedness protocols, especially for seismic events and supply chain disruptions.",
+    "strategicPlan": "The global environment is critically unstable, facing escalating threats across geopolitical, financial, and physical domains. A foundational energy crisis and pervasive food insecurity, exacerbated by the war in Iran, nutrient depletion, and overfishing, underpin a volatile geopolitical landscape. Concurrently, the tech sector exhibits mixed financial performance amidst rising cybersecurity threats and significant internal instability within leading AI development, while a pattern of moderate to strong seismic activity, particularly along the Pacific Ring of Fire, poses immediate physical risks and potential for infrastructure disruption. To secure your assets and physical safety, GlobeGuard advises: (1) Prioritize comprehensive emergency preparedness, including diversified food, water, and energy reserves, while securing physical locations against potential seismic events; (2) Immediately review and strengthen all digital security protocols and safeguard critical data against evolving cyber threats; and (3) Strategically re-evaluate and diversify asset portfolios to mitigate risks from market fluctuations and geopolitical shocks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxx0"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Major M6.7 earthquake rocks Japan, with multiple other significant quakes reported worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes, including a 6.7 in Japan, have just struck across several regions!"
 }
