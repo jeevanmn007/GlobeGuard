@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a critical confluence of escalating geopolitical, financial, and physical threats demanding immediate attention. Geopolitically, the world faces a deepening energy crisis, exacerbated by the war in Iran impacting global food and fuel supplies, alongside critical ecological crises such as overfishing and declining food nutrition. Financially, markets exhibit mixed stability, with key tech stocks showing volatility amidst this uncertainty. Concurrently, the digital realm is increasingly vulnerable to sophisticated cyberattacks, while the strategic future of critical AI development remains fractured and uncertain. Physically, a marked increase in significant seismic activity across the Pacific Ring of Fire underscores a heightened risk of natural disasters. To navigate this complex environment, GlobeGuard advises three immediate actions: First, strategically rebalance and diversify financial portfolios towards resilient, tangible assets and essential commodities to mitigate economic volatility and supply chain disruptions. Second, implement robust, multi-layered cybersecurity defenses and conduct thorough vulnerability assessments to protect against evolving digital threats. Third, ensure comprehensive physical safety and operational continuity by establishing robust emergency preparedness plans, securing essential supplies, and evaluating infrastructure resilience, particularly for assets and personnel located within seismically active or geopolitically unstable regions.",
+    "strategicPlan": "The global intelligence assessment reveals a highly complex and unstable environment, characterized by converging geopolitical, financial, and physical threats. Geopolitically, critical global resource scarcity is rapidly intensifying, driven by an accelerating energy crisis, declining food nutrition, and unsustainable practices like overfishing, all exacerbated by regional conflicts such as the war in Iran. This is compounded by a rising tide of cyber threats and significant internal instability within the critical AI sector, creating technological uncertainty. Financially, markets exhibit mixed signals with key tech players showing declines, reflecting underlying anxieties. Physically, elevated seismic activity, notably a magnitude 6.7 earthquake near Japan, signals increased geological volatility in critical regions. Therefore, GlobeGuard issues the following strategic directives: First, prioritize securing diversified and resilient supply chains for critical resources, particularly food and energy, to insulate against geopolitical disruptions and ecological pressures. Second, immediately enhance cybersecurity protocols to defend against escalating digital threats, and fortify physical infrastructure with robust natural disaster preparedness plans, especially in seismically active regions. Third, conduct an urgent review of asset portfolios, particularly exposure to the volatile AI sector, and consider recalibrating investments in light of technological uncertainties and global financial anxieties.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $230.29 (-2.31%)",
+            "title": "\ud83d\udcb0 NVDA: $226.6 (-3.88%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.39 (1.4%)",
+            "title": "\ud83d\udcb0 AAPL: $300.09 (0.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $427.83 (4.49%)",
+            "title": "\ud83d\udcb0 MSFT: $423.23 (3.37%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.07 (1.01%)",
+            "title": "\ud83d\udcb0 PLTR: $134.2 (0.35%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.64 (-1.34%)",
+            "title": "\ud83d\udcb0 AMZN: $263.61 (-1.35%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxwq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.2 - 271 km WSW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxqf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 119 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxu9"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 11 km WNW of Palca, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxz1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - Bonin Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxx0"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes, including a M6.7 in Japan, have just struck globally!"
+    "seismicSummary": "**Urgent: A powerful M6.7 earthquake just struck near \u014cfunato, Japan, amidst multiple global seismic events!**"
 }
