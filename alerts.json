@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critical convergence of systemic threats: escalating geopolitical conflict stemming from the war in Iran is profoundly exacerbating a nascent global energy crisis and deepening food insecurity through resource depletion and quality degradation across vulnerable regions. Concurrently, the volatile tech sector is experiencing significant internal power struggles and a discernible rise in cyber threats, while the physical world faces heightened seismic activity, evidenced by multiple substantial earthquakes across the Pacific Ring of Fire, posing immediate risks to infrastructure and populations. To navigate this complex threat environment, immediately diversify and secure essential resource supply chains, fortify all digital assets with advanced, AI-aware cybersecurity protocols, and rigorously review and enhance physical disaster preparedness plans, particularly for seismic events in high-risk zones.",
+    "strategicPlan": "The global intelligence landscape reveals a critical confluence of escalating geopolitical, financial, and physical threats demanding immediate attention. Geopolitically, the world faces a deepening energy crisis, exacerbated by the war in Iran impacting global food and fuel supplies, alongside critical ecological crises such as overfishing and declining food nutrition. Financially, markets exhibit mixed stability, with key tech stocks showing volatility amidst this uncertainty. Concurrently, the digital realm is increasingly vulnerable to sophisticated cyberattacks, while the strategic future of critical AI development remains fractured and uncertain. Physically, a marked increase in significant seismic activity across the Pacific Ring of Fire underscores a heightened risk of natural disasters. To navigate this complex environment, GlobeGuard advises three immediate actions: First, strategically rebalance and diversify financial portfolios towards resilient, tangible assets and essential commodities to mitigate economic volatility and supply chain disruptions. Second, implement robust, multi-layered cybersecurity defenses and conduct thorough vulnerability assessments to protect against evolving digital threats. Third, ensure comprehensive physical safety and operational continuity by establishing robust emergency preparedness plans, securing essential supplies, and evaluating infrastructure resilience, particularly for assets and personnel located within seismically active or geopolitically unstable regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $227.38 (-3.55%)",
+            "title": "\ud83d\udcb0 NVDA: $230.29 (-2.31%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.07 (1.29%)",
+            "title": "\ud83d\udcb0 AAPL: $302.39 (1.4%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $423.9 (3.53%)",
+            "title": "\ud83d\udcb0 MSFT: $427.83 (4.49%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.51 (-0.16%)",
+            "title": "\ud83d\udcb0 PLTR: $135.07 (1.01%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.96 (-1.59%)",
+            "title": "\ud83d\udcb0 AMZN: $263.64 (-1.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxu9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Volcano Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
+            "title": "\u26a0\ufe0f Mag 4.9 - 11 km WNW of Palca, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxz1"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes just struck, including a 6.7 near Japan and a 6.2 near Indonesia!"
+    "seismicSummary": "Urgent: Multiple strong earthquakes, including a M6.7 in Japan, have just struck globally!"
 }
