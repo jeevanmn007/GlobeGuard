@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global environment is critically unstable, marked by a dangerous confluence of geopolitical, financial, and physical threats. The escalating conflict in Iran is directly fueling a severe, slow-moving global food and energy crisis, exacerbated by the Strait of Hormuz blockade and an invisible force diminishing food nutrition, creating widespread instability and a significant drain on the Global South. Financially, while select tech stocks demonstrate growth, the critical AI sector is experiencing significant internal strife and volatility, concurrent with rising cyber threats from less sophisticated actors. Concurrently, a surge in notable seismic activity across the Pacific Ring of Fire and Colombia introduces immediate physical hazards and potential for further supply chain disruptions. To secure assets and ensure physical safety, GlobeGuard advises three immediate, actionable priorities: First, strategically diversify and localize all critical supply chains, prioritizing essential food and energy resources to mitigate geopolitical choke point vulnerabilities; second, rigorously enhance digital infrastructure and cybersecurity protocols, ensuring robust data backup and defense against evolving cyber threats; and third, activate and review comprehensive physical safety and emergency preparedness plans, particularly for personnel and infrastructure located in or dependent on tectonically active regions.",
+    "strategicPlan": "The global situation demands immediate attention: a severe and compounding crisis in food, energy, and marine resources, exacerbated by conflict in key regions and declining nutritional value in staples, threatens widespread instability and supply chain collapse. Concurrently, the digital landscape is increasingly volatile with significant internal power struggles fracturing critical AI development and a rising tide of sophisticated cyber threats (\"killer script kiddies\") imperiling digital assets and infrastructure. This systemic fragility is underscored by persistent, significant seismic activity across the Pacific Ring of Fire and South America, introducing further unpredictable physical disruption to vulnerable supply routes and populations. To mitigate these interwoven risks, immediately diversify critical resource acquisition and food supply chains, bolstering resilience against geopolitical and environmental shocks; fortify all digital infrastructure with advanced AI-driven cybersecurity defenses to counter escalating cyber threats; and review and update emergency preparedness and physical asset contingency plans, particularly for operations or personnel in seismically active or critical resource-dependent regions.",
     "survival": [
-        {
-            "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
-            "link": "https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis"
-        },
         {
             "title": "The Invisible Force Making Food Less Nutritious",
             "link": "https://news.slashdot.org/story/26/05/01/0123239/the-invisible-force-making-food-less-nutritious"
@@ -17,6 +13,10 @@
         {
             "title": "The largest energy crisis in modern history is only beginning",
             "link": "https://www.semafor.com/article/05/05/2026/the-largest-energy-crisis-in-modern-history-is-only-beginning"
+        },
+        {
+            "title": "Photos: How overfishing in Southeast Asia is an ecological and human crisis",
+            "link": "https://www.npr.org/sections/the-picture-show/2026/04/18/nx-s1-5766110/overfishing-in-southeast-asia"
         }
     ],
     "stock": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes are striking globally, led by a 6.2 magnitude near Indonesia, with other 5+ quakes reported across the Pacific to Colombia!**"
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple strong quakes detected worldwide, with a Mag 6.2 near Indonesia!"
 }
