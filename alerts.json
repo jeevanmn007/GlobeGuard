@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape characterized by escalating global resource scarcity due to the ongoing Iran conflict, a nascent energy crisis, and pervasive food insecurity, further complicated by significant internal instability within the critical AI sector and increasing cyber threats. Concurrently, heightened seismic activity across the Pacific Ring of Fire, particularly near Japan and Indonesia, presents an immediate physical risk to global supply chains and critical infrastructure. To navigate this complex environment, secure diversified supply chains for essential resources, fortify all digital assets against evolving cyber threats and tech disruption, and urgently review and implement robust physical safety and disaster preparedness protocols for personnel and critical infrastructure, especially for assets in seismically active zones.",
+    "strategicPlan": "The global intelligence picture reveals a critical convergence of systemic threats: escalating geopolitical conflict stemming from the war in Iran is profoundly exacerbating a nascent global energy crisis and deepening food insecurity through resource depletion and quality degradation across vulnerable regions. Concurrently, the volatile tech sector is experiencing significant internal power struggles and a discernible rise in cyber threats, while the physical world faces heightened seismic activity, evidenced by multiple substantial earthquakes across the Pacific Ring of Fire, posing immediate risks to infrastructure and populations. To navigate this complex threat environment, immediately diversify and secure essential resource supply chains, fortify all digital assets with advanced, AI-aware cybersecurity protocols, and rigorously review and enhance physical disaster preparedness plans, particularly for seismic events in high-risk zones.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $235.74 (4.39%)",
+            "title": "\ud83d\udcb0 NVDA: $227.38 (-3.55%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $298.21 (-0.22%)",
+            "title": "\ud83d\udcb0 AAPL: $302.07 (1.29%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $409.43 (1.04%)",
+            "title": "\ud83d\udcb0 MSFT: $423.9 (3.53%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.73 (2.83%)",
+            "title": "\ud83d\udcb0 PLTR: $133.51 (-0.16%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.22 (-1.08%)",
+            "title": "\ud83d\udcb0 AMZN: $262.96 (-1.59%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
         }
     ],
-    "seismicSummary": "Urgent: A major 6.7 magnitude earthquake just struck Japan, with multiple other strong tremors across the Pacific!"
+    "seismicSummary": "Multiple strong earthquakes just struck, including a 6.7 near Japan and a 6.2 near Indonesia!"
 }
