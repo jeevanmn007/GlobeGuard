@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention: a severe and compounding crisis in food, energy, and marine resources, exacerbated by conflict in key regions and declining nutritional value in staples, threatens widespread instability and supply chain collapse. Concurrently, the digital landscape is increasingly volatile with significant internal power struggles fracturing critical AI development and a rising tide of sophisticated cyber threats (\"killer script kiddies\") imperiling digital assets and infrastructure. This systemic fragility is underscored by persistent, significant seismic activity across the Pacific Ring of Fire and South America, introducing further unpredictable physical disruption to vulnerable supply routes and populations. To mitigate these interwoven risks, immediately diversify critical resource acquisition and food supply chains, bolstering resilience against geopolitical and environmental shocks; fortify all digital infrastructure with advanced AI-driven cybersecurity defenses to counter escalating cyber threats; and review and update emergency preparedness and physical asset contingency plans, particularly for operations or personnel in seismically active or critical resource-dependent regions.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape characterized by escalating global resource scarcity due to the ongoing Iran conflict, a nascent energy crisis, and pervasive food insecurity, further complicated by significant internal instability within the critical AI sector and increasing cyber threats. Concurrently, heightened seismic activity across the Pacific Ring of Fire, particularly near Japan and Indonesia, presents an immediate physical risk to global supply chains and critical infrastructure. To navigate this complex environment, secure diversified supply chains for essential resources, fortify all digital assets against evolving cyber threats and tech disruption, and urgently review and implement robust physical safety and disaster preparedness protocols for personnel and critical infrastructure, especially for assets in seismically active zones.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.7 - 49 km ESE of \u014cfunato, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxwq"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6.2 - 271 km WSW of Tual, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxqf"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxu9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 32 km WNW of Darien, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxn9"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple strong quakes detected worldwide, with a Mag 6.2 near Indonesia!"
+    "seismicSummary": "Urgent: A major 6.7 magnitude earthquake just struck Japan, with multiple other strong tremors across the Pacific!"
 }
