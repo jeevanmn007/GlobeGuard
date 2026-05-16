@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment faces multifaceted, escalating threats: geopolitical tensions driven by the burgeoning energy crisis, regional conflicts exacerbating global food insecurity, and the systemic degradation of agricultural yields, all contributing to widespread resource scarcity. Financially, markets reflect significant volatility, particularly within the critical AI sector experiencing internal disruption and a surge in cyber threats, creating an uncertain investment landscape. Concurrently, heightened seismic activity across vulnerable regions including the Caribbean, Southeast Asia, and South Pacific signals persistent physical risks requiring immediate attention. To navigate this complex environment, GlobeGuard directs the following actions: 1) Strategically diversify and localize critical resource dependencies, focusing on food and energy resilience planning; 2) Conduct an immediate review of investment portfolios, emphasizing cybersecurity infrastructure and AI sector exposure, prioritizing assets resilient to market shifts and digital threats; and 3) Proactively update and reinforce physical safety protocols and disaster preparedness plans for personnel and assets situated in identified seismically active zones.",
+    "strategicPlan": "An immediate assessment reveals a critical and rapidly deteriorating global landscape defined by profound resource scarcity and geopolitical instability, significant market volatility, and escalating physical threats. The intensifying war in Iran, coupled with severe energy and food crises and ecological degradation from overfishing, is straining global supply chains and human well-being. Financially, a mixed tech market, highlighted by a notable drop in NVDA amidst a turbulent AI sector and rising 'script kiddie' cyber threats, signals widespread digital and economic uncertainty. Simultaneously, a surge in significant seismic activity across the Caribbean and South Pacific presents tangible, immediate physical dangers to infrastructure and populations. **Therefore, GlobeGuard directs immediate action to:** 1) Secure physical safety and operational resilience by implementing robust disaster preparedness plans, particularly for assets and personnel in seismically active and coastal regions. 2) Mitigate resource vulnerabilities by diversifying critical supply chains for food and energy, exploring localized sourcing, and optimizing existing inventories. 3) Bolster cybersecurity posture with advanced threat detection, multi-factor authentication, and incident response strategies to counter both sophisticated and accessible cyber attacks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - 86 km E of Codrington, Antigua and Barbuda",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26136000"
+            "title": "\u26a0\ufe0f Mag 6 - 70 km ESE of Codrington, Antigua and Barbuda",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy84"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.7 - 33 km NE of Auki, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy8k"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 92 km E of Port-Vila, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy90"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 94 km E of Port-Vila, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7l"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 86 km E of Port-Vila, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7u"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 5 km WSW of Badak, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy76"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes detected globally, led by a M6.1 near Antigua and Barbuda!**"
+    "seismicSummary": "\ud83d\udea8 M6-7 earthquake near Codrington, plus multiple M5+ quakes reported globally!"
 }
