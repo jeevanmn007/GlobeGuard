@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, marked by simultaneous, escalating crises: a protracted war in Iran is intensifying global food and energy scarcity, compounded by diminishing food nutrition and severe overfishing, pointing to widespread resource depletion and potential societal unrest. Financially, a volatile tech sector, exemplified by significant dips in key players like NVDA, signals underlying market fragility amidst broader economic stress, further complicated by a heightened cyber threat landscape and profound strategic instability within the critical AI sector. Physically, elevated seismic activity, including a potent 6.7 magnitude earthquake near Japan, introduces immediate infrastructure vulnerability and potential supply chain disruptions. To mitigate these convergent risks, secure diverse, resilient resource supply chains for both food and energy; re-evaluate and de-risk investment portfolios, prioritizing asset liquidity and stability over speculative growth; and finally, implement advanced cybersecurity protocols while immediately reviewing and strengthening physical disaster preparedness plans for critical assets and personnel, particularly in seismically vulnerable regions.",
+    "strategicPlan": "Strategic Directive: The global environment is characterized by an escalating poly-crisis, encompassing simultaneous and severe strains on global food and energy systems exacerbated by ongoing geopolitical conflicts and environmental degradation, significant internal volatility and cyber threats within the critical AI sector impacting key technology players, and heightened global seismic activity, notably a 6.7 magnitude quake near Japan, signaling increased physical infrastructure risk. To secure assets and personnel, immediately: 1) Diversify and secure essential resource supply chains, focusing on resilient local alternatives for food and energy to mitigate systemic scarcity; 2) Strengthen cybersecurity protocols and re-evaluate technology investments, particularly within the AI sector, in light of increased digital threats and market uncertainty; and 3) Ensure robust emergency preparedness plans are in place for physical assets and personnel, particularly in seismically active regions, to mitigate impacts from natural disasters.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxwq"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy5x"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 11 km WNW of Palca, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxz1"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 71 km SSW of Ollag\u00fce, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy50"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - Bonin Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxx0"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Major Mag 6.7 quake near \u014cfunato, Japan, plus multiple other quakes reported globally!**"
+    "seismicSummary": "URGENT: Japan hit by a powerful Mag 6.7 earthquake, with multiple other quakes reported globally!"
 }
