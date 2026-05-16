@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical confluence of escalating threats: geopolitical instability, driven by the ongoing Iran conflict, is severely impacting global food and energy security, exacerbated by systemic resource degradation and overfishing. Financially, the critical AI sector is experiencing significant volatility due to major partnership breakdowns (OpenAI/Microsoft) and rising cyber threats, reflected in key market fluctuations. Concurrently, persistent and notable seismic activity, particularly across the Pacific Rim near Japan and South America, underscores ongoing physical vulnerabilities. To secure assets and ensure physical safety, we strongly advise immediately diversifying and localizing essential resource supply chains, implementing advanced cybersecurity protocols to fortify digital infrastructure, and meticulously reviewing and updating emergency preparedness plans for all physical locations, especially those in seismically active regions.",
+    "strategicPlan": "The global environment is critically unstable, marked by simultaneous, escalating crises: a protracted war in Iran is intensifying global food and energy scarcity, compounded by diminishing food nutrition and severe overfishing, pointing to widespread resource depletion and potential societal unrest. Financially, a volatile tech sector, exemplified by significant dips in key players like NVDA, signals underlying market fragility amidst broader economic stress, further complicated by a heightened cyber threat landscape and profound strategic instability within the critical AI sector. Physically, elevated seismic activity, including a potent 6.7 magnitude earthquake near Japan, introduces immediate infrastructure vulnerability and potential supply chain disruptions. To mitigate these convergent risks, secure diverse, resilient resource supply chains for both food and energy; re-evaluate and de-risk investment portfolios, prioritizing asset liquidity and stability over speculative growth; and finally, implement advanced cybersecurity protocols while immediately reviewing and strengthening physical disaster preparedness plans for critical assets and personnel, particularly in seismically vulnerable regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxx0"
         }
     ],
-    "seismicSummary": "URGENT: A major M6.7 earthquake just hit Japan, topping multiple other quakes reported worldwide!"
+    "seismicSummary": "**\ud83d\udea8 Major Mag 6.7 quake near \u014cfunato, Japan, plus multiple other quakes reported globally!**"
 }
