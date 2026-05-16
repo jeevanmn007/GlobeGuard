@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an immediate and intensifying convergence of systemic threats. Geopolitically, a deepening global food crisis driven by war, environmental degradation, and reduced nutritional value, combined with a nascent yet significant energy crisis, threatens widespread instability, market volatility, and resource scarcity. Concurrently, heightened cybersecurity vulnerabilities are evidenced by increasing 'script kiddie' attacks and significant internal strife within the critical AI sector, posing risks to digital infrastructure and trust. This complex environment is further destabilized by elevated seismic activity, with multiple significant earthquakes across the Caribbean and Pacific Ring of Fire, raising concerns for physical infrastructure and supply chain resilience. To navigate this volatile period, we urgently advise: (1) Diversify and localize critical resource dependencies, particularly food and energy, to mitigate supply chain disruptions and protect against economic shocks. (2) Immediately strengthen and audit all cybersecurity protocols and defenses against evolving digital threats, including contingency plans for AI-related service interruptions. (3) Review and update physical emergency preparedness plans and asset security measures, especially for operations in seismically active regions, ensuring readiness for potential infrastructure impacts and humanitarian needs.",
+    "strategicPlan": "The global environment presents a complex, escalating threat profile marked by interconnected systemic vulnerabilities: deepening food and energy crises exacerbated by ongoing geopolitical conflicts and ecological degradation, significant strategic shifts and heightened cyber risks within the critical AI sector, and concurrently, increased tectonic activity across multiple vulnerable regions, notably the Caribbean and Southwest Pacific. To secure assets and ensure safety, it is imperative to immediately diversify and fortify critical resource supply chains and stress-test resilience plans against scarcity and inflation; bolster cybersecurity defenses with a focus on AI-amplified threats and conduct immediate vulnerability assessments; and evaluate and reinforce physical infrastructure in seismically active zones, while updating emergency preparedness and communication protocols.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7l"
         }
     ],
-    "seismicSummary": "Urgent: M6-7 quake in the Caribbean and multiple M5s just hit the Pacific!"
+    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes, including a M6 in the Caribbean, just struck globally."
 }
