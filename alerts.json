@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, facing escalating threats across geopolitical, financial, and physical domains. A foundational energy crisis and pervasive food insecurity, exacerbated by the war in Iran, nutrient depletion, and overfishing, underpin a volatile geopolitical landscape. Concurrently, the tech sector exhibits mixed financial performance amidst rising cybersecurity threats and significant internal instability within leading AI development, while a pattern of moderate to strong seismic activity, particularly along the Pacific Ring of Fire, poses immediate physical risks and potential for infrastructure disruption. To secure your assets and physical safety, GlobeGuard advises: (1) Prioritize comprehensive emergency preparedness, including diversified food, water, and energy reserves, while securing physical locations against potential seismic events; (2) Immediately review and strengthen all digital security protocols and safeguard critical data against evolving cyber threats; and (3) Strategically re-evaluate and diversify asset portfolios to mitigate risks from market fluctuations and geopolitical shocks.",
+    "strategicPlan": "The global environment presents a critical confluence of escalating threats: geopolitical instability, driven by the ongoing Iran conflict, is severely impacting global food and energy security, exacerbated by systemic resource degradation and overfishing. Financially, the critical AI sector is experiencing significant volatility due to major partnership breakdowns (OpenAI/Microsoft) and rising cyber threats, reflected in key market fluctuations. Concurrently, persistent and notable seismic activity, particularly across the Pacific Rim near Japan and South America, underscores ongoing physical vulnerabilities. To secure assets and ensure physical safety, we strongly advise immediately diversifying and localizing essential resource supply chains, implementing advanced cybersecurity protocols to fortify digital infrastructure, and meticulously reviewing and updating emergency preparedness plans for all physical locations, especially those in seismically active regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxwq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 119 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxu9"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 11 km WNW of Palca, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxz1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 71 km SSW of Ollag\u00fce, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy50"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - Bonin Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxx0"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes, including a 6.7 in Japan, have just struck across several regions!"
+    "seismicSummary": "URGENT: A major M6.7 earthquake just hit Japan, topping multiple other quakes reported worldwide!"
 }
