@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by an acute convergence of systemic risks across geopolitical, financial, and physical domains. Widespread food insecurity and an impending global energy crisis, exacerbated by regional conflicts and unsustainable resource practices, threaten fundamental stability, while the financial markets show mixed resilience with notable volatility in key tech sectors amidst significant internal strife within the AI industry and rising cyber threats. Concurrently, persistent moderate seismic activity in vulnerable, tectonically active regions underscores ongoing physical vulnerabilities. To navigate this complex environment, GlobeGuard advises three immediate actions: first, prioritize comprehensive supply chain resilience, focusing on the diversification and securing of essential food, water, and energy resources; second, fortify digital infrastructure and update cybersecurity protocols against evolving AI-driven threats and potential tech sector instability; and third, meticulously review and implement robust emergency preparedness and physical safety plans, particularly for personnel and assets in seismically active or resource-constrained areas.",
+    "strategicPlan": "The global intelligence landscape indicates a critical confluence of escalating threats: systemic food and energy crises are intensifying, exacerbated by geopolitical conflict (Iran) and resource depletion (overfishing, nutrition decline). Financially, key tech sectors exhibit volatility (NVDA down), while the strategic AI landscape is in disarray amidst internal power struggles and external cyber threats. This complex environment is undergirded by persistent, notable seismic activity across multiple high-risk zones globally, signaling underlying physical instability. Consequently, GlobeGuard must immediately implement a proactive strategy: 1) Diversify and secure critical resource supply chains, particularly food and energy, to build resilience against impending shortages and price volatility. 2) Re-evaluate and fortify digital infrastructure and investment portfolios, anticipating continued tech sector instability and heightened cyber threats. 3) Update and exercise emergency preparedness protocols for both physical safety against potential seismic events and broader infrastructure disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 94 km E of Port-Vila, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7l"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 5 km WSW of Badak, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy76"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 11 km WNW of Palca, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxz1"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 71 km SSW of Ollag\u00fce, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy50"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes are striking globally!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just struck worldwide!"
 }
