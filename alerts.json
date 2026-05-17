@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is currently defined by a confluence of acute and systemic risks: escalating resource crises driven by geopolitical conflicts (Iran war), widespread food and energy insecurity, and critical environmental degradation (overfishing) are severely straining global supply chains and human welfare. Financially, major tech stocks exhibit volatility with notable dips for key players like NVDA and AMZN, signaling market uncertainty amidst these broader pressures. Concurrently, the digital realm faces heightened 'script kiddie' cyber threats and significant strategic uncertainty in the AI sector due to internal conflicts, while the physical world is experiencing notable seismic activity across the Caribbean and Pacific, posing direct natural hazard risks. To navigate this complex landscape, implement the following:\n1.  **Shore up essential reserves:** Proactively secure and diversify access to critical resources like non-perishable food, water, and alternative energy solutions, considering the ongoing global scarcity and conflict-driven disruptions.\n2.  **Elevate digital security posture:** Immediately enhance cybersecurity protocols, emphasizing robust authentication, data redundancy, and proactive threat intelligence to counter rising \"script kiddie\" attacks and protect digital assets.\n3.  **Validate physical safety plans:** Review and update emergency preparedness protocols, including securing dwellings against seismic events, establishing clear communication plans, and maintaining readily accessible go-bags for rapid deployment if physical displacement becomes necessary.",
+    "strategicPlan": "Our strategic assessment reveals a rapidly converging and escalating global risk landscape. While the baseline global threat level is 1, a confluence of persistent geopolitical conflicts, notably the war in Iran, is accelerating an unprecedented energy crisis and exacerbating global food insecurity through systemic nutrient depletion and overfishing, creating profound resource strain. This resource precarity is mirrored by market volatility in key tech sectors, underscored by evolving cyber threats from AI-enhanced 'script kiddies' and significant internal disruption within the AI industry. Concurrently, a concerning surge in seismic activity across the Caribbean and the Pacific Ring of Fire signals heightened physical risks to infrastructure and populations in these active geological zones. To secure assets and ensure physical safety in this complex environment, we must urgently diversify and localize essential resource supply chains to build resilience against geopolitical and environmental shocks; immediately bolster cyber defenses against increasingly sophisticated, AI-enabled threats by conducting thorough system audits and employee training; and proactively review and reinforce physical infrastructure while updating comprehensive emergency preparedness plans for all personnel and assets situated in seismically active areas.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy84"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 86 km ENE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syc2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - 33 km NE of Auki, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy8k"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 92 km E of Port-Vila, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy90"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 94 km E of Port-Vila, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7l"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a M6-7 off Codrington, have hit the Caribbean and Pacific!"
+    "seismicSummary": "URGENT: A M6 quake near Antigua leads multiple strong earthquakes globally!"
 }
