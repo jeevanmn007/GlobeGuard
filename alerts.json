@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals acute systemic risk, driven by converging geopolitical, financial, and physical threats. An escalating energy crisis, deepening global food insecurity exacerbated by the Iran conflict and overfishing, alongside declining nutritional quality, creates widespread strain. Financially, markets exhibit volatility with key tech players showing mixed performance, while the critical AI sector faces significant internal disarray and escalating cyber threats from \"script kiddies.\" Concurrently, heightened seismic activity across the Pacific Ring of Fire presents direct physical risks. To navigate this complex threat landscape, GlobeGuard directs immediate action: first, fortify supply chain resilience by diversifying and localizing critical resource procurement, especially food and energy; second, proactively strengthen cybersecurity defenses and incident response capabilities against increasingly sophisticated digital threats; and third, review and update all emergency preparedness protocols for physical assets and personnel, maintaining heightened situational awareness regarding tectonic activity, particularly within the Pacific Rim.",
+    "strategicPlan": "The global threat landscape is critically complex, characterized by a dangerous convergence of escalating resource scarcity\u2014spanning food, nutrition, and energy\u2014amplified by geopolitical conflicts, environmental degradation, and significant instability within the foundational AI sector. This precarious situation is underscored by pervasive cyber threats and persistent moderate seismic activity across the Pacific Ring of Fire, posing ongoing physical infrastructure and safety risks, while financial markets show specific sector vulnerabilities despite overall mixed performance. To navigate this environment, immediately: 1) Diversify and localize critical resource supply chains to build resilience against global shocks; 2) Strengthen cyber defenses and implement robust data redundancy protocols to mitigate pervasive digital threats and AI sector volatility; and 3) Rigorously review and update physical safety and emergency preparedness plans, particularly for seismic events in at-risk regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syc2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 33 km NE of Auki, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy8k"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 92 km E of Port-Vila, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy90"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 109 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syby"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 24 km NW of Liuzhou, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sye4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 93 km ENE of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syak"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported across the Pacific Rim!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple strong earthquakes, including a Mag 5.7 in Russia, are striking across the Pacific region!"
 }
