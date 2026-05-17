@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global operating environment is currently defined by a confluence of acute and systemic risks: escalating resource crises driven by geopolitical conflicts (Iran war), widespread food and energy insecurity, and critical environmental degradation (overfishing) are severely straining global supply chains and human welfare. Financially, major tech stocks exhibit volatility with notable dips for key players like NVDA and AMZN, signaling market uncertainty amidst these broader pressures. Concurrently, the digital realm faces heightened 'script kiddie' cyber threats and significant strategic uncertainty in the AI sector due to internal conflicts, while the physical world is experiencing notable seismic activity across the Caribbean and Pacific, posing direct natural hazard risks. To navigate this complex landscape, implement the following:\n1.  **Shore up essential reserves:** Proactively secure and diversify access to critical resources like non-perishable food, water, and alternative energy solutions, considering the ongoing global scarcity and conflict-driven disruptions.\n2.  **Elevate digital security posture:** Immediately enhance cybersecurity protocols, emphasizing robust authentication, data redundancy, and proactive threat intelligence to counter rising \"script kiddie\" attacks and protect digital assets.\n3.  **Validate physical safety plans:** Review and update emergency preparedness protocols, including securing dwellings against seismic events, establishing clear communication plans, and maintaining readily accessible go-bags for rapid deployment if physical displacement becomes necessary.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7l"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple strong earthquakes, including a M6-7 off Codrington, have hit the Caribbean and Pacific!"
 }
