@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents an acute, multifaceted threat profile spanning geopolitical, financial, and physical domains. Geopolitically, the intensifying war in Iran, coupled with a historic energy crisis and systemic food insecurity (including less nutritious staples and overfishing), threatens widespread global stability and supply chains. Financially, market volatility, highlighted by significant dips in key tech stocks amidst broader uncertainty, alongside internal upheaval in the critical AI sector, signals economic fragility and tech disruption risks. Concurrently, a notable cluster of seismic activity, including a M6 earthquake in the Caribbean and multiple M5+ events across the Pacific, elevates immediate natural disaster concerns in vulnerable regions. Therefore, GlobeGuard directs three urgent actions: first, diversify financial assets beyond volatile tech into more resilient holdings, while fortifying cybersecurity defenses against escalating digital threats; second, implement robust, localized food and energy contingency plans to secure essential resources against geopolitical and supply chain disruptions; and third, meticulously review and reinforce natural disaster preparedness and emergency protocols for all personnel and critical infrastructure, especially in seismically active and politically sensitive areas.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy7l"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 6 near Antigua, just struck various global locations!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
