@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly converging global threat picture, characterized by significant geopolitical and physical stressors. The ongoing war in Iran is profoundly destabilizing global food and fuel supplies, contributing to an emerging, historic energy crisis, further complicated by environmental degradation impacting nutritional value and overfishing. Financially, tech markets exhibit volatility amidst broader economic uncertainty, while the strategic AI sector faces significant internal disruption and an increasing threat from sophisticated cyber actors. Concurrently, multiple significant seismic events across diverse, vulnerable regions underscore underlying planetary instability. To secure assets and ensure physical safety, GlobeGuard directs the following: First, **fortify resource independence** by diversifying energy access and establishing robust, localized non-perishable food reserves. Second, **enhance financial resilience** through strategic diversification of portfolios, prioritizing stable, tangible assets, and maintaining high liquidity. Third, **implement comprehensive physical and digital security protocols**, including advanced emergency preparedness for seismic activity and rigorous reinforcement of cybersecurity infrastructure against evolving threats.",
+    "strategicPlan": "The global environment signals acute systemic risk, driven by converging geopolitical, financial, and physical threats. An escalating energy crisis, deepening global food insecurity exacerbated by the Iran conflict and overfishing, alongside declining nutritional quality, creates widespread strain. Financially, markets exhibit volatility with key tech players showing mixed performance, while the critical AI sector faces significant internal disarray and escalating cyber threats from \"script kiddies.\" Concurrently, heightened seismic activity across the Pacific Ring of Fire presents direct physical risks. To navigate this complex threat landscape, GlobeGuard directs immediate action: first, fortify supply chain resilience by diversifying and localizing critical resource procurement, especially food and energy; second, proactively strengthen cybersecurity defenses and incident response capabilities against increasingly sophisticated digital threats; and third, review and update all emergency preparedness protocols for physical assets and personnel, maintaining heightened situational awareness regarding tectonic activity, particularly within the Pacific Rim.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 70 km ESE of Codrington, Antigua and Barbuda",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy84"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 86 km ENE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syc2"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 92 km E of Port-Vila, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy90"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 109 km SSE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syby"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, led by a M6 near Antigua, just struck globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported across the Pacific Rim!"
 }
