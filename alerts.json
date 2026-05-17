@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly deteriorating, marked by an escalating, multi-faceted energy and food crisis exacerbated by geopolitical conflict, significant internal instability and cybersecurity threats within the critical AI sector, and consistent, moderate tectonic activity across the Pacific Ring of Fire. To navigate this complex environment, GlobeGuard directs you to: first, prioritize diversification into tangible assets and local, resilient supply chains to mitigate global energy and food supply shocks; second, strengthen personal and community preparedness for potential infrastructure disruptions and natural disasters, particularly in tectonically active zones; and third, re-evaluate exposure to the volatile AI sector, ensuring robust cybersecurity protocols are in place against escalating cyber threats and unpredictable technological shifts.",
+    "strategicPlan": "The global landscape is rapidly destabilizing, characterized by an escalating energy crisis and the Iran conflict's pervasive impact on global food and fuel security, compounded by a long-term decline in food nutritional value and the stark warning of critical infrastructure failures like Cuba's grid collapse. Financially, market volatility persists, with mixed tech performance masking significant underlying pressures and deep internal instability within the critical AI sector, while moderate seismic activity serves as a constant reminder of physical risks. To secure assets and ensure physical safety, GlobeGuard directs the following: 1) Immediately diversify and localize essential resource stockpiles, focusing on food, water, and emergency power, to build resilience against supply chain disruptions and escalating shortages. 2) Proactively secure digital and financial assets by bolstering cybersecurity defenses against AI-enhanced threats and evaluating exposure to the volatile AI sector's supply chain instabilities. 3) Assess and reinforce personal and community critical infrastructure, including communication and power systems, against both localized physical events and broader cascading systemic failures.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 86 km ENE of Severo-Kuril\u2019sk, Russia",
+            "title": "\u26a0\ufe0f Mag 5.4 - 84 km ENE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syc2"
         },
         {
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sye4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 93 km ENE of Miyako, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syak"
+            "title": "\u26a0\ufe0f Mag 4.8 - 192 km ESE of Kimbe, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syex"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, including a 5.7, have just struck across the Pacific region!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 5.4 in Russia, have just struck across the globe!"
 }
