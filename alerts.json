@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely complex, presenting an immediate confluence of geopolitical, financial, and physical tectonic risks. Geopolitically, the escalating conflict in Iran is directly fueling a burgeoning global energy crisis and deepening food insecurity\u2014both in supply and nutritional value\u2014while critical infrastructure faces increasing localized grid collapses and pervasive cyber threats from expanding capabilities. This instability is compounded by significant internal power struggles within the foundational AI sector, contributing to a volatile financial market as evidenced by key tech stock fluctuations. Simultaneously, heightened global seismic activity, particularly near populated landmasses in Burma and Papua New Guinea, introduces a critical layer of physical risk. To strategically mitigate these converging threats, secure decentralized energy and food reserves, focusing on local sourcing and non-grid reliant solutions; bolster cybersecurity protocols and implement redundant data backups, assuming increased digital threat vectors from both state and non-state actors; and review and reinforce comprehensive emergency preparedness plans for physical infrastructure and personnel, especially within seismically active regions.",
+    "strategicPlan": "GlobeGuard assesses an escalating, multi-domain global risk profile marked by profound geopolitical instability emanating from the war in Iran, which is severely impacting global energy and food supplies and driving an unprecedented energy crisis, while simultaneously degrading food nutritional quality and exposing critical infrastructure vulnerabilities like the Cuba grid collapse. Financially, major tech equities show caution amidst this volatility, compounded by active cyber threats from \"script kiddies\" and significant instability within leading AI entities, all underscored by persistent, worldwide tectonic activity. To navigate this complex and deteriorating threat landscape, immediate proactive measures are paramount: secure and diversify essential resource supply chains for food, water, and energy; fortify digital defenses against evolving cyber and AI-driven threats; and enhance physical preparedness for both natural disasters and infrastructure disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.32 (-4.42%)",
+            "title": "\ud83d\udcb0 NVDA: $221.02 (-1.91%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $300.23 (0.68%)",
+            "title": "\ud83d\udcb0 AAPL: $297.14 (-1.03%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $421.92 (3.05%)",
+            "title": "\ud83d\udcb0 MSFT: $419.59 (-0.55%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.99 (0.19%)",
+            "title": "\ud83d\udcb0 PLTR: $133.13 (-0.64%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $264.14 (-1.15%)",
+            "title": "\ud83d\udcb0 AMZN: $266.75 (0.99%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 31 km WNW of Finschhafen, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syfk"
+            "title": "\u26a0\ufe0f Mag 5.1 - 26 km NW of Liuzhou, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just struck across the globe!"
+    "seismicSummary": "\ud83d\udea8 Four Mag 5+ quakes reported worldwide!"
 }
