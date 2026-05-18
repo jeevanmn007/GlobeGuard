@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently marked by a critical convergence of threats: a deepening global energy and food scarcity exacerbated by regional conflicts and infrastructure failures, significant instability within the high-tech sector reflected in key market corrections and AI governance disputes, and a notable uptick in global seismic activity with multiple Mag 5+ events. This complex, multi-layered risk landscape demands immediate and decisive action. Therefore, we advise prioritizing the diversification and securing of critical physical assets, particularly food, water, and alternative energy sources; fortifying digital defenses against sophisticated cyber threats and AI-driven vulnerabilities; and reviewing and updating emergency preparedness protocols for natural disasters, especially for assets and personnel in seismically active regions.",
+    "strategicPlan": "The global operating environment is exhibiting heightened systemic fragility. Geopolitically, the escalating war in Iran is exacerbating a severe global energy crisis and widespread food insecurity, evidenced by direct impacts from Vietnam to Egypt and critical infrastructure failures like the Cuba grid collapse. Financially, while major tech stocks show mixed performance, significant leadership instability within critical AI firms like OpenAI and rising 'script kiddie' cyber threats indicate potential future tech sector volatility and digital vulnerabilities. Concurrently, a cluster of M5+ seismic events across disparate fault lines, including the West Chile Rise, Mid-Indian Ridge, and notably near Syriam, Burma, signals an elevated physical risk profile globally. In response, you must immediately secure digital assets by enhancing cybersecurity protocols and diversifying investments beyond traditional tech, establish robust personal and family resilience through stockpiling essential non-perishable resources and developing alternative energy contingencies, and maintain continuous vigilance on geopolitical shifts, energy market dynamics, and regional seismic indicators to inform pre-emptive physical safety and evacuation strategies.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $221.26 (-1.8%)",
+            "title": "\ud83d\udcb0 NVDA: $222.15 (-1.41%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $296.08 (-1.38%)",
+            "title": "\ud83d\udcb0 AAPL: $297.67 (-0.85%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $422.99 (0.25%)",
+            "title": "\ud83d\udcb0 MSFT: $422.92 (0.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.09 (0.07%)",
+            "title": "\ud83d\udcb0 PLTR: $135.3 (0.98%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.2 (0.4%)",
+            "title": "\ud83d\udcb0 AMZN: $264.67 (0.2%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg1"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - Bouvet Island region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sykw"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syh2"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 36 km SSE of Syriam, Burma (Myanmar)",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 26 km NW of Liuzhou, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just struck globally, from Chile to China!"
+    "seismicSummary": "Multiple M5.2-5.4 earthquakes have just been reported globally!"
 }
