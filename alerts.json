@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global threat landscape is acutely complex, presenting an immediate confluence of geopolitical, financial, and physical tectonic risks. Geopolitically, the escalating conflict in Iran is directly fueling a burgeoning global energy crisis and deepening food insecurity\u2014both in supply and nutritional value\u2014while critical infrastructure faces increasing localized grid collapses and pervasive cyber threats from expanding capabilities. This instability is compounded by significant internal power struggles within the foundational AI sector, contributing to a volatile financial market as evidenced by key tech stock fluctuations. Simultaneously, heightened global seismic activity, particularly near populated landmasses in Burma and Papua New Guinea, introduces a critical layer of physical risk. To strategically mitigate these converging threats, secure decentralized energy and food reserves, focusing on local sourcing and non-grid reliant solutions; bolster cybersecurity protocols and implement redundant data backups, assuming increased digital threat vectors from both state and non-state actors; and review and reinforce comprehensive emergency preparedness plans for physical infrastructure and personnel, especially within seismically active regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 84 km ENE of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syc2"
+            "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syh2"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 36 km SSE of Syriam, Burma (Myanmar)",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 109 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syby"
+            "title": "\u26a0\ufe0f Mag 5 - 31 km WNW of Finschhafen, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syfk"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple magnitude 5 earthquakes just struck across the globe!"
 }
