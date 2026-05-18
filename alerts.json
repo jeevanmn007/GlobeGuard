@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is rapidly destabilizing, characterized by an escalating energy crisis and the Iran conflict's pervasive impact on global food and fuel security, compounded by a long-term decline in food nutritional value and the stark warning of critical infrastructure failures like Cuba's grid collapse. Financially, market volatility persists, with mixed tech performance masking significant underlying pressures and deep internal instability within the critical AI sector, while moderate seismic activity serves as a constant reminder of physical risks. To secure assets and ensure physical safety, GlobeGuard directs the following: 1) Immediately diversify and localize essential resource stockpiles, focusing on food, water, and emergency power, to build resilience against supply chain disruptions and escalating shortages. 2) Proactively secure digital and financial assets by bolstering cybersecurity defenses against AI-enhanced threats and evaluating exposure to the volatile AI sector's supply chain instabilities. 3) Assess and reinforce personal and community critical infrastructure, including communication and power systems, against both localized physical events and broader cascading systemic failures.",
+    "strategicPlan": "The global situation demands immediate, decisive action, as geopolitical tensions from the Iran conflict accelerate a profound energy crisis and exacerbate food insecurity, evidenced by diminishing nutritional value and critical infrastructure failures like Cuba's grid collapse. While financial markets show mixed signals with NVDA declining amidst other tech gains, the escalating cyber threat from 'killer script kiddies' and significant instability within foundational AI development (e.g., Microsoft/OpenAI renegotiations) introduce profound digital vulnerabilities, all against a backdrop of increased seismic activity with multiple 5+ magnitude earthquakes across key strategic regions in Russia, Papua New Guinea, and China. To secure assets and ensure physical safety, GlobeGuard directs you to: first, immediately assess and diversify your critical resource reserves, focusing on sustainable food, water, and energy contingencies; second, implement advanced cybersecurity protocols, including offline backups and enhanced threat detection, particularly given the turbulent AI landscape; and third, review and reinforce physical safety protocols and infrastructure resilience plans against both seismic events and prolonged utility disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syby"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 24 km NW of Liuzhou, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sye4"
+            "title": "\u26a0\ufe0f Mag 5 - 31 km WNW of Finschhafen, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syfk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 192 km ESE of Kimbe, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syex"
+            "title": "\u26a0\ufe0f Mag 5 - 24 km NW of Liuzhou, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sye4"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 5.4 in Russia, have just struck across the globe!"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes strike Russia, Papua New Guinea, and China!"
 }
