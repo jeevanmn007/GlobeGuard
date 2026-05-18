@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, characterized by a deepening energy crisis exacerbated by the ongoing conflict in Iran, which threatens global food security and critical infrastructure resilience as evidenced by the Cuban grid collapse. This volatile geopolitical landscape is compounded by significant strategic instability within the AI sector and an escalating cyber threat from sophisticated actors, all underwritten by a notable uptick in global seismic activity with multiple moderate-to-strong earthquakes across diverse regions. To secure assets and physical safety, immediately diversify investment portfolios towards tangible, resilient sectors and fortify digital defenses against evolving cyber threats; establish robust emergency preparedness, including backup power, food, water, and communication redundancies, particularly for those in seismically active or infrastructure-vulnerable areas; and audit and secure critical supply chains for essential commodities, identifying alternative sources and contingency logistics to mitigate widespread disruption.",
+    "strategicPlan": "The global landscape is characterized by escalating systemic crises: a deepening energy and food insecurity crisis exacerbated by geopolitical conflict (Iran), coupled with critical infrastructure failures (Cuba) and declining food nutritional value, all while the foundational AI sector experiences significant instability and a discernible uptick in advanced cyber threats. Financially, key tech indicators show slight contraction amidst this widespread volatility, further underscoring market uncertainty, while physical risks are highlighted by elevated global seismic activity, including a moderate tremor near a populated area (Myanmar). To navigate this complex environment, immediately diversify and localize critical resource buffers, prioritizing secure energy alternatives and long-shelf-life nutritional reserves. Simultaneously, fortify digital asset security protocols against advanced cyber threats, conducting immediate audits of AI-dependent systems and implementing multi-layered defensive strategies. Finally, review and bolster physical safety protocols and infrastructure resilience plans, particularly for potential seismic events and critical grid disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0"
         }
     ],
-    "seismicSummary": "Four M5+ earthquakes have just struck globally!"
+    "seismicSummary": "**Four Mag 5+ earthquakes reported globally!**"
 }
