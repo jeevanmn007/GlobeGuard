@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating, multi-domain global risk profile marked by profound geopolitical instability emanating from the war in Iran, which is severely impacting global energy and food supplies and driving an unprecedented energy crisis, while simultaneously degrading food nutritional quality and exposing critical infrastructure vulnerabilities like the Cuba grid collapse. Financially, major tech equities show caution amidst this volatility, compounded by active cyber threats from \"script kiddies\" and significant instability within leading AI entities, all underscored by persistent, worldwide tectonic activity. To navigate this complex and deteriorating threat landscape, immediate proactive measures are paramount: secure and diversify essential resource supply chains for food, water, and energy; fortify digital defenses against evolving cyber and AI-driven threats; and enhance physical preparedness for both natural disasters and infrastructure disruptions.",
+    "strategicPlan": "The global environment is currently marked by a critical convergence of threats: a deepening global energy and food scarcity exacerbated by regional conflicts and infrastructure failures, significant instability within the high-tech sector reflected in key market corrections and AI governance disputes, and a notable uptick in global seismic activity with multiple Mag 5+ events. This complex, multi-layered risk landscape demands immediate and decisive action. Therefore, we advise prioritizing the diversification and securing of critical physical assets, particularly food, water, and alternative energy sources; fortifying digital defenses against sophisticated cyber threats and AI-driven vulnerabilities; and reviewing and updating emergency preparedness protocols for natural disasters, especially for assets and personnel in seismically active regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $221.02 (-1.91%)",
+            "title": "\ud83d\udcb0 NVDA: $221.26 (-1.8%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.14 (-1.03%)",
+            "title": "\ud83d\udcb0 AAPL: $296.08 (-1.38%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $419.59 (-0.55%)",
+            "title": "\ud83d\udcb0 MSFT: $422.99 (0.25%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.13 (-0.64%)",
+            "title": "\ud83d\udcb0 PLTR: $134.09 (0.07%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.75 (0.99%)",
+            "title": "\ud83d\udcb0 AMZN: $265.2 (0.4%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Four Mag 5+ quakes reported worldwide!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just struck globally, from Chile to China!"
 }
