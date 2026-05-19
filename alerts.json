@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture indicates a rapidly converging threat landscape defined by critical resource scarcity, escalating geopolitical instability, and physical volatility. Geopolitically, the prolonged conflict in Iran continues to strain global food and fuel supplies, exacerbating an emerging energy crisis predicted to be the largest in modern history, while critical infrastructure failures, such as Cuba's grid collapse, highlight system fragility. Financially, major tech stocks show modest declines amidst significant internal upheaval within the AI sector, marked by the breakdown of the Microsoft-OpenAI agreement and high-profile disputes, alongside an increasing threat from AI-enabled cyberattacks. This complex environment is further destabilized by a notable uptick in global seismic activity, with multiple significant earthquakes registered across various regions. Therefore, prioritize immediate and robust emergency preparedness by securing essential supplies and establishing reliable communication alternatives; strategically diversify critical assets and investments to hedge against resource volatility and tech sector uncertainties; and urgently reinforce digital defenses to counter the escalating threat of sophisticated, AI-enhanced cyberattacks.",
+    "strategicPlan": "The global situation is critical, marked by a multi-faceted convergence of severe geopolitical instability from the ongoing war in Iran and a burgeoning energy crisis, coupled with a silent degradation of global food nutrition and critical infrastructure failures. While financial markets show mixed resilience in the tech sector, a volatile cyber threat environment is rapidly evolving, highlighted by 'killer script kiddies' and major AI sector realignments. This is further complicated by persistent, widespread moderate seismic activity across multiple global regions. To mitigate these integrated risks, immediately implement comprehensive resource security measures, ensuring redundancy in critical supplies; elevate and fortify all digital and network defenses against sophisticated cyber threats; and establish robust physical safety and emergency preparedness plans, ready for rapid deployment in response to escalating events.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sym0"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple significant earthquakes, including a Mag 5.7 in Vanuatu, just struck globally."
+    "seismicSummary": "Urgent: Multiple significant earthquakes, including a Mag 5.7 near Vanuatu, just reported globally!"
 }
