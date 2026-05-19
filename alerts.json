@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, marked by a multi-faceted convergence of severe geopolitical instability from the ongoing war in Iran and a burgeoning energy crisis, coupled with a silent degradation of global food nutrition and critical infrastructure failures. While financial markets show mixed resilience in the tech sector, a volatile cyber threat environment is rapidly evolving, highlighted by 'killer script kiddies' and major AI sector realignments. This is further complicated by persistent, widespread moderate seismic activity across multiple global regions. To mitigate these integrated risks, immediately implement comprehensive resource security measures, ensuring redundancy in critical supplies; elevate and fortify all digital and network defenses against sophisticated cyber threats; and establish robust physical safety and emergency preparedness plans, ready for rapid deployment in response to escalating events.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly converging threat matrix: escalating geopolitical instability, epitomized by the War in Iran's strain on the global south, is exacerbating a foundational energy crisis and deepening food insecurity, further compounded by an \"invisible force\" making food less nutritious, which is directly reflected in a notable downturn across critical tech financial markets. Simultaneously, the digital domain faces severe vulnerability from emerging 'killer script kiddie' activity amidst profound structural instability within the core AI ecosystem, as evidenced by the Microsoft/OpenAI agreement collapse and the Musk-Altman dispute, while heightened global seismic activity across multiple regions introduces an additional layer of unpredictable physical risk to infrastructure already stressed by events like the Cuba grid collapse. To navigate this complex environment, GlobeGuard directs you to immediately: 1. Secure and diversify access to essential resources, prioritizing localized food and energy resilience, and re-evaluate financial asset allocations towards stability, moving away from volatile tech. 2. Conduct an urgent, comprehensive audit and upgrade of all digital security protocols and infrastructure to counter elevated cyber threats and AI-related vulnerabilities. 3. Review and reinforce physical asset integrity and emergency preparedness plans, accounting for increased geological activity and systemic infrastructure fragility.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $222.32 (-1.33%)",
+            "title": "\ud83d\udcb0 NVDA: $221.83 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.84 (-0.8%)",
+            "title": "\ud83d\udcb0 AAPL: $297.42 (-0.14%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $423.54 (0.38%)",
+            "title": "\ud83d\udcb0 MSFT: $418.26 (-1.25%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.14 (0.86%)",
+            "title": "\ud83d\udcb0 PLTR: $133.94 (-0.89%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $264.86 (0.27%)",
+            "title": "\ud83d\udcb0 AMZN: $256.37 (-3.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sykw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 26 km NW of Liuzhou, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 168 km E of Atka, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sym0"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 13 km SSW of Port-Vila, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syr2"
         }
     ],
-    "seismicSummary": "Urgent: Multiple significant earthquakes, including a Mag 5.7 near Vanuatu, just reported globally!"
+    "seismicSummary": "Multiple strong earthquakes detected globally, including a 5.7 and 4.8 near Port-Vila, Vanuatu!"
 }
