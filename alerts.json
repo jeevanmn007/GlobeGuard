@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Global stability is currently under severe strain, characterized by a confluence of escalating geopolitical conflicts like the ongoing war in Iran impacting global food and fuel, a nascent but profound energy crisis, and critical infrastructure vulnerabilities evidenced by the Cuban grid collapse. This environment is further complicated by significant market volatility, particularly within the tech sector and the prominent AI industry where major foundational agreements are fracturing, while concurrently we observe a discernible uptick in global seismic activity. In light of these compounding threats, your immediate focus must be threefold: **First**, rigorously review and diversify asset portfolios, emphasizing resilience against economic turbulence and bolstering cyber defenses amidst rising digital threats. **Second**, implement robust contingency plans for potential resource scarcity, particularly concerning energy and food supplies, by exploring localized storage and alternative solutions. **Third**, enhance physical safety protocols and emergency preparedness, especially for seismic events, given the recent global tremors.",
+    "strategicPlan": "The global intelligence landscape is marked by a complex and rapidly escalating threat matrix, combining geopolitical, economic, and physical vulnerabilities. Geopolitically, the war in Iran is directly fueling a significant global energy crisis and intensifying food scarcity, compounded by concerns over nutrition decline and critical infrastructure fragility like grid collapses. Financially, the technology sector exhibits notable instability, with key AI agreements unraveling and new cyber threats emerging, while persistent moderate seismic activity worldwide underscores ongoing natural hazard risks. To navigate these challenges, we advise three immediate actions: First, **diversify and secure essential supply chains** for food and energy to mitigate escalating geopolitical and resource shocks. Second, **fortify digital and operational security postures** against evolving AI-driven threats and potential cyber attacks. Third, **review and update all emergency preparedness protocols** for both physical safety and asset protection against natural disasters and systemic disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 25 km ESE of Pampa de Tate, Peru",
+            "title": "\u26a0\ufe0f Mag 5.8 - 20 km ESE of Pampa de Tate, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syt5"
         },
         {
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syu7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 168 km E of Atka, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sym0"
+            "title": "\u26a0\ufe0f Mag 4.8 - 13 km SSW of Port-Vila, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syr2"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: A 5.9M earthquake in Peru leads multiple strong tremors worldwide!"
+    "seismicSummary": "**Urgent: Multiple significant earthquakes globally, including a Mag 5.8 in Peru and a 5.7 in Vanuatu!**"
 }
