@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of threats: persistent geopolitical conflict centered on Iran is severely impacting global food and energy security, exacerbated by a nascent worldwide energy crisis and systemic infrastructure failures. Concurrently, while tech markets are mixed, the crucial AI sector faces significant internal instability and emerging sophisticated cyber threats, mirroring a broader digital risk environment. This is set against a backdrop of elevated physical risk, evidenced by a notable increase in moderate-to-strong seismic activity across multiple continents. To effectively navigate these integrated challenges, you must immediately secure critical assets by establishing redundant food and energy reserves, fortify all digital defenses against evolving AI-enabled cyber threats with robust data backups, and meticulously review and strengthen physical emergency preparedness plans, including securing property and maintaining readily accessible go-bags for rapid deployment.",
+    "strategicPlan": "The global intelligence picture indicates a rapidly converging threat landscape defined by critical resource scarcity, escalating geopolitical instability, and physical volatility. Geopolitically, the prolonged conflict in Iran continues to strain global food and fuel supplies, exacerbating an emerging energy crisis predicted to be the largest in modern history, while critical infrastructure failures, such as Cuba's grid collapse, highlight system fragility. Financially, major tech stocks show modest declines amidst significant internal upheaval within the AI sector, marked by the breakdown of the Microsoft-OpenAI agreement and high-profile disputes, alongside an increasing threat from AI-enabled cyberattacks. This complex environment is further destabilized by a notable uptick in global seismic activity, with multiple significant earthquakes registered across various regions. Therefore, prioritize immediate and robust emergency preparedness by securing essential supplies and establishing reliable communication alternatives; strategically diversify critical assets and investments to hedge against resource volatility and tech sector uncertainties; and urgently reinforce digital defenses to counter the escalating threat of sophisticated, AI-enhanced cyberattacks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sykw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syh2"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 26 km NW of Liuzhou, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 168 km E of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sym0"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes detected worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Multiple significant earthquakes, including a Mag 5.7 in Vanuatu, just struck globally."
 }
