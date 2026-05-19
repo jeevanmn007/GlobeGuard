@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, marked by an accelerating energy crisis, deepening food insecurity exacerbated by ongoing geopolitical conflicts, and significant market downturns across key tech sectors. This systemic vulnerability is further compounded by a fragmented AI landscape and a concerning uptick in global seismic activity, particularly in high-risk zones. To secure assets and ensure physical safety, GlobeGuard advises immediate action: diversify and harden digital assets against rising cyber threats, while re-evaluating financial portfolios for resilience; proactively secure essential resources such as food, water, and independent power solutions, anticipating potential supply chain disruptions and grid vulnerabilities; and review and update physical emergency protocols, including evacuation routes and communication plans, in light of heightened seismic risks and general geopolitical instability.",
+    "strategicPlan": "Global stability is currently under severe strain, characterized by a confluence of escalating geopolitical conflicts like the ongoing war in Iran impacting global food and fuel, a nascent but profound energy crisis, and critical infrastructure vulnerabilities evidenced by the Cuban grid collapse. This environment is further complicated by significant market volatility, particularly within the tech sector and the prominent AI industry where major foundational agreements are fracturing, while concurrently we observe a discernible uptick in global seismic activity. In light of these compounding threats, your immediate focus must be threefold: **First**, rigorously review and diversify asset portfolios, emphasizing resilience against economic turbulence and bolstering cyber defenses amidst rising digital threats. **Second**, implement robust contingency plans for potential resource scarcity, particularly concerning energy and food supplies, by exploring localized storage and alternative solutions. **Third**, enhance physical safety protocols and emergency preparedness, especially for seismic events, given the recent global tremors.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $221.91 (-0.18%)",
+            "title": "\ud83d\udcb0 NVDA: $220.61 (-0.77%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.69 (-0.05%)",
+            "title": "\ud83d\udcb0 AAPL: $298.97 (0.38%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $418.23 (-1.25%)",
+            "title": "\ud83d\udcb0 MSFT: $417.42 (-1.44%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.8 (-0.25%)",
+            "title": "\ud83d\udcb0 PLTR: $135.26 (0.09%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.96 (-2.23%)",
+            "title": "\ud83d\udcb0 AMZN: $259.34 (-2.08%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000synm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 168 km E of Atka, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sym0"
+            "title": "\u26a0\ufe0f Mag 5 - 35 km WNW of Gazli, Uzbekistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syu7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 13 km SSW of Port-Vila, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syr2"
+            "title": "\u26a0\ufe0f Mag 4.9 - 168 km E of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sym0"
         }
     ],
-    "seismicSummary": "**URGENT: A 5.9 earthquake just struck Peru, alongside a 5.7 and other strong quakes worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Urgent: A 5.9M earthquake in Peru leads multiple strong tremors worldwide!"
 }
