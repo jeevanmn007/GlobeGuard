@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by escalating systemic crises: a deepening energy and food insecurity crisis exacerbated by geopolitical conflict (Iran), coupled with critical infrastructure failures (Cuba) and declining food nutritional value, all while the foundational AI sector experiences significant instability and a discernible uptick in advanced cyber threats. Financially, key tech indicators show slight contraction amidst this widespread volatility, further underscoring market uncertainty, while physical risks are highlighted by elevated global seismic activity, including a moderate tremor near a populated area (Myanmar). To navigate this complex environment, immediately diversify and localize critical resource buffers, prioritizing secure energy alternatives and long-shelf-life nutritional reserves. Simultaneously, fortify digital asset security protocols against advanced cyber threats, conducting immediate audits of AI-dependent systems and implementing multi-layered defensive strategies. Finally, review and bolster physical safety protocols and infrastructure resilience plans, particularly for potential seismic events and critical grid disruptions.",
+    "strategicPlan": "The global intelligence assessment reveals a critical convergence of threats: persistent geopolitical conflict centered on Iran is severely impacting global food and energy security, exacerbated by a nascent worldwide energy crisis and systemic infrastructure failures. Concurrently, while tech markets are mixed, the crucial AI sector faces significant internal instability and emerging sophisticated cyber threats, mirroring a broader digital risk environment. This is set against a backdrop of elevated physical risk, evidenced by a notable increase in moderate-to-strong seismic activity across multiple continents. To effectively navigate these integrated challenges, you must immediately secure critical assets by establishing redundant food and energy reserves, fortify all digital defenses against evolving AI-enabled cyber threats with robust data backups, and meticulously review and strengthen physical emergency preparedness plans, including securing property and maintaining readily accessible go-bags for rapid deployment.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - West Chile Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg1"
+            "title": "\u26a0\ufe0f Mag 5.7 - 51 km SSW of Port-Vila, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000synm"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Bouvet Island region",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syh2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 36 km SSE of Syriam, Burma (Myanmar)",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syg0"
+            "title": "\u26a0\ufe0f Mag 5.1 - 26 km NW of Liuzhou, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik"
         }
     ],
-    "seismicSummary": "**Four Mag 5+ earthquakes reported globally!**"
+    "seismicSummary": "Multiple M5+ earthquakes detected worldwide!"
 }
