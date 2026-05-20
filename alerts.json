@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, characterized by a converging set of high-impact threats: ongoing geopolitical conflict (Iran) is intensifying a burgeoning global energy crisis and exacerbating food insecurity, while vulnerable regions face immediate grid collapses. This systemic fragility is further compounded by a heightened, evolving cybersecurity threat from sophisticated actors, amidst significant internal instability within the AI industry itself. Concurrently, a pronounced increase in global seismic activity poses tangible risks to infrastructure and populations across multiple strategic regions, all against a backdrop of volatile tech sector performance. To navigate this complex landscape, implement three immediate directives: first, secure all critical assets by diversifying investments into resilient, tangible holdings and local resource initiatives; second, aggressively upgrade and stress-test all cybersecurity defenses, particularly against AI-enhanced threats; and third, establish comprehensive, multi-hazard emergency preparedness protocols, ensuring physical safety and supply chain redundancy for all personnel and key operational hubs.",
+    "strategicPlan": "The global intelligence landscape reveals a profound and accelerating convergence of systemic risks: geopolitically, the war in Iran is intensifying a widespread energy and food crisis, exacerbated by nutritional degradation and critical infrastructure vulnerabilities, as seen in Cuba's grid collapse. Financially, key tech sectors exhibit bearish trends amidst significant AI industry strife and escalating cyber threats. This pervasive fragility is compounded by a notable uptick in global seismic activity, underscoring widespread physical risks. To navigate this complex environment, GlobeGuard advises: immediately secure and diversify essential resources (food, water, energy) to counter escalating supply chain and infrastructure failures; fortify digital assets against emerging AI-driven cyber threats through robust security measures and comprehensive data backups; and bolster physical safety protocols and emergency preparedness, specifically for seismic events, across all operational sites.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syx6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 35 km WNW of Gazli, Uzbekistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syu7"
+            "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Sape, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes reported worldwide!"
 }
