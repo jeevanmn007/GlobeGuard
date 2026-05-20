@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape: pervasive geopolitical instability from the war in Iran is deepening a global energy crisis and exacerbating food insecurity and nutritional challenges, while critical infrastructure remains highly vulnerable. Concurrently, the foundational AI sector faces significant internal turmoil and escalating cyber threats, casting uncertainty over the broader tech market. These anthropogenic pressures are underscored by a noticeable uptick in significant seismic activity across multiple high-risk global regions. In response, we issue three urgent directives: first, actively re-evaluate and diversify investment portfolios away from speculative tech, while implementing advanced cybersecurity measures; second, enhance physical resilience by securing emergency power, essential supplies, and actionable disaster response plans for infrastructure failures and seismic events; and third, proactively secure essential food and energy supplies, anticipating continued supply chain pressures and price volatility.",
+    "strategicPlan": "The global landscape demands immediate strategic attention, characterized by escalating geopolitical instability stemming from deepening energy and food crises, exacerbated by regional conflicts and systemic infrastructure vulnerabilities, even as the global food supply faces an 'invisible force' reducing its nutritional value. While specific tech sectors show a measure of financial resilience, the crucial AI domain is fraught with internal disputes and faces an amplified threat from increasingly sophisticated cyberattacks. Concurrently, a significant uptick in seismic activity across critical, populated regions globally underscores an urgent need for physical preparedness. To navigate this converging threat matrix, we direct three immediate actions: first, prioritize the development of diversified, localized, and resilient supply chains for essential resources to insulate against geopolitical and environmental shocks. Second, rigorously enhance digital infrastructure and cybersecurity defenses against emerging AI-driven threats, while critically re-evaluating strategic dependencies within the volatile AI development sphere. Third, immediately bolster physical infrastructure resilience and update comprehensive emergency preparedness protocols, particularly in seismically active zones, to safeguard personnel and assets against immediate physical harm.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.89 (1.94%)",
+            "title": "\ud83d\udcb0 NVDA: $223.99 (1.53%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $298.82 (-0.05%)",
+            "title": "\ud83d\udcb0 AAPL: $301.48 (0.84%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $416.89 (-0.13%)",
+            "title": "\ud83d\udcb0 MSFT: $420.25 (0.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.81 (0.41%)",
+            "title": "\ud83d\udcb0 PLTR: $135.94 (0.5%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $264.86 (2.13%)",
+            "title": "\ud83d\udcb0 AMZN: $263.83 (1.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 8 km E of Wadomari, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw4"
+            "title": "\u26a0\ufe0f Mag 6.6 - southern East Pacific Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1d"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 20 km ESE of Pampa de Tate, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syt5"
+            "title": "\u26a0\ufe0f Mag 5.9 - 8 km E of Wadomari, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw4"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 19 km N of Sincik, Turkey",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, including a Mag 5.9, just struck Japan, Peru, Turkey, and Indonesia."
+    "seismicSummary": "Multiple strong earthquakes, including a 6.6, have struck worldwide!"
 }
