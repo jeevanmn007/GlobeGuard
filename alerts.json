@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a profound and accelerating convergence of systemic risks: geopolitically, the war in Iran is intensifying a widespread energy and food crisis, exacerbated by nutritional degradation and critical infrastructure vulnerabilities, as seen in Cuba's grid collapse. Financially, key tech sectors exhibit bearish trends amidst significant AI industry strife and escalating cyber threats. This pervasive fragility is compounded by a notable uptick in global seismic activity, underscoring widespread physical risks. To navigate this complex environment, GlobeGuard advises: immediately secure and diversify essential resources (food, water, energy) to counter escalating supply chain and infrastructure failures; fortify digital assets against emerging AI-driven cyber threats through robust security measures and comprehensive data backups; and bolster physical safety protocols and emergency preparedness, specifically for seismic events, across all operational sites.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape: pervasive geopolitical instability from the war in Iran is deepening a global energy crisis and exacerbating food insecurity and nutritional challenges, while critical infrastructure remains highly vulnerable. Concurrently, the foundational AI sector faces significant internal turmoil and escalating cyber threats, casting uncertainty over the broader tech market. These anthropogenic pressures are underscored by a noticeable uptick in significant seismic activity across multiple high-risk global regions. In response, we issue three urgent directives: first, actively re-evaluate and diversify investment portfolios away from speculative tech, while implementing advanced cybersecurity measures; second, enhance physical resilience by securing emergency power, essential supplies, and actionable disaster response plans for infrastructure failures and seismic events; and third, proactively secure essential food and energy supplies, anticipating continued supply chain pressures and price volatility.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.61 (-0.77%)",
+            "title": "\ud83d\udcb0 NVDA: $224.89 (1.94%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $298.97 (0.38%)",
+            "title": "\ud83d\udcb0 AAPL: $298.82 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $417.42 (-1.44%)",
+            "title": "\ud83d\udcb0 MSFT: $416.89 (-0.13%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.26 (0.09%)",
+            "title": "\ud83d\udcb0 PLTR: $135.81 (0.41%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.34 (-2.08%)",
+            "title": "\ud83d\udcb0 AMZN: $264.86 (2.13%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes reported worldwide!"
+    "seismicSummary": "Multiple significant earthquakes, including a Mag 5.9, just struck Japan, Peru, Turkey, and Indonesia."
 }
