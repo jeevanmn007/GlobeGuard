@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape demands immediate strategic attention, characterized by escalating geopolitical instability stemming from deepening energy and food crises, exacerbated by regional conflicts and systemic infrastructure vulnerabilities, even as the global food supply faces an 'invisible force' reducing its nutritional value. While specific tech sectors show a measure of financial resilience, the crucial AI domain is fraught with internal disputes and faces an amplified threat from increasingly sophisticated cyberattacks. Concurrently, a significant uptick in seismic activity across critical, populated regions globally underscores an urgent need for physical preparedness. To navigate this converging threat matrix, we direct three immediate actions: first, prioritize the development of diversified, localized, and resilient supply chains for essential resources to insulate against geopolitical and environmental shocks. Second, rigorously enhance digital infrastructure and cybersecurity defenses against emerging AI-driven threats, while critically re-evaluating strategic dependencies within the volatile AI development sphere. Third, immediately bolster physical infrastructure resilience and update comprehensive emergency preparedness protocols, particularly in seismically active zones, to safeguard personnel and assets against immediate physical harm.",
+    "strategicPlan": "GlobeGuard's strategic assessment indicates a severe, multifaceted global threat environment: the war in Iran is exacerbating a nascent energy crisis and undermining global food security, while significant internal turbulence and escalating cyber threats challenge the otherwise robust tech and AI sectors. Concurrently, heightened tectonic activity, evidenced by a Magnitude 6.6 event and multiple substantial quakes across critical regions, presents ongoing physical risks. To safeguard interests and ensure resilience, we issue the following directive: First, immediately diversify and secure all financial assets, prioritizing robust cybersecurity measures against sophisticated threats. Second, enhance physical preparedness by ensuring access to essential resources and establishing comprehensive disaster response plans, particularly for seismic events. Third, maintain vigilant intelligence on evolving geopolitical flashpoints, energy market dynamics, and the rapidly shifting landscape of AI technology to anticipate cascading impacts.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $223.99 (1.53%)",
+            "title": "\ud83d\udcb0 NVDA: $223.47 (1.3%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $301.48 (0.84%)",
+            "title": "\ud83d\udcb0 AAPL: $302.25 (1.1%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $420.25 (0.68%)",
+            "title": "\ud83d\udcb0 MSFT: $421.06 (0.87%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.94 (0.5%)",
+            "title": "\ud83d\udcb0 PLTR: $137.15 (1.4%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.83 (1.73%)",
+            "title": "\ud83d\udcb0 AMZN: $265.01 (2.19%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a 6.6, have struck worldwide!"
+    "seismicSummary": "URGENT: Multiple significant earthquakes, including a 6.6, have struck across the globe!"
 }
