@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical confluence of escalating threats: geopolitical instability centered on the war in Iran is driving an unprecedented global energy and food crisis, exacerbated by inherent vulnerabilities in critical infrastructure and diminishing nutritional value in food supplies. Simultaneously, the digital domain faces a sharp increase in sophisticated cyber threats, with significant power shifts and renegotiations within the pivotal AI sector adding another layer of systemic uncertainty. This pervasive instability is further underscored by heightened global seismic activity, with multiple significant earthquakes impacting key regions. Given this complex risk landscape, GlobeGuard advises immediate action: first, fortify critical resource independence by diversifying supply chains and establishing local redundancies for essential consumables and energy; second, proactively enhance digital defenses with advanced, AI-powered cybersecurity measures against escalating threats, while closely monitoring AI sector shifts; and third, bolster physical infrastructure resilience, updating emergency protocols and preparedness plans across all critical assets, particularly in seismically active areas.",
+    "strategicPlan": "The global environment presents a complex, volatile threat matrix: escalating geopolitical instability from the war in Iran exacerbates an intensifying energy and food crisis, while a burgeoning sophisticated cyber threat landscape develops amidst significant shifts within the AI sector despite resilient tech markets, all overlaid by a demonstrable increase in global tectonic activity with multiple significant seismic events. To navigate this emergent reality, we must immediately: 1) Bolster resilience by diversifying critical supply chains, with emphasis on localizing essential food and energy resources; 2) Fortify both digital and physical infrastructure against advanced cyber threats and potential grid failures, assessing vulnerabilities across all assets; and 3) Strategically review and, if necessary, re-position critical assets and personnel to mitigate the impacts of localized geopolitical instability, energy disruptions, and heightened seismic risks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1d"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 8 km E of Wadomari, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw4"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz3x"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 19 km N of Sincik, Turkey",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syx6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Sape, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Global alert: Major earthquakes, including a Mag 6.6, are occurring now!"
+    "seismicSummary": "URGENT: Global quakes up to Mag 6.6 reported now!"
 }
