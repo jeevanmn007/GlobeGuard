@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape demands immediate attention, marked by escalating geopolitical instability from the ongoing war in Iran, which is severely impacting global food and fuel supplies and initiating a major energy crisis, as evidenced by critical infrastructure failures like Cuba's grid collapse. This volatile environment is further compounded by a rapidly evolving cyber threat from advanced AI-driven 'script kiddies' and significant internal disruptions within the AI development sector. While tech markets show some upward resilience, the increasing frequency of substantial seismic events, including a critical magnitude 4.9 earthquake near Bandar Abbas, Iran, introduces a potent physical threat that could amplify existing geopolitical tensions and supply chain vulnerabilities. To navigate this complex threat matrix, immediately secure your financial resilience through diversified assets less susceptible to geopolitical or energy shocks; bolster your digital and physical defenses against sophisticated cyber threats and potential infrastructure disruptions; and establish comprehensive emergency preparedness plans, including essential supplies and communication protocols, to ensure personal and family safety amidst escalating global volatility.",
+    "strategicPlan": "The global intelligence picture reveals a critically escalating environment, marked by a dangerous confluence of geopolitical, economic, and physical threats. Geopolitically, the Iran conflict is exacerbating a nascent global energy crisis and degrading food security, further compounded by critical infrastructure failures like Cuba's grid collapse and the widespread reduction in food nutritional value. Financially, while major tech markets show mixed performance, the rise of AI-enabled cyber threats introduces profound digital vulnerabilities amidst an unstable AI landscape. This is underscored by significant global tectonic activity, including a concerning M4.9 earthquake near Bandar Abbas, Iran, which directly impacts an already volatile strategic region. In response, GlobeGuard directs immediate action: 1. Fortify digital infrastructure and implement advanced cybersecurity protocols against evolving, AI-enabled threats, ensuring critical data integrity and system resilience. 2. Diversify and secure essential resource supply chains, establishing robust emergency reserves for food and energy to mitigate escalating global scarcity. 3. Proactively update and exercise physical safety protocols and asset protection strategies, with specific emphasis on high-risk geopolitical zones and areas prone to increased seismic activity, particularly those with critical infrastructure.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $223.47 (1.3%)",
+            "title": "\ud83d\udcb0 NVDA: $219.61 (-1.73%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.25 (1.1%)",
+            "title": "\ud83d\udcb0 AAPL: $303.55 (0.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $421.06 (0.87%)",
+            "title": "\ud83d\udcb0 MSFT: $417.85 (-0.76%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.15 (1.4%)",
+            "title": "\ud83d\udcb0 PLTR: $137.4 (0.18%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.01 (2.19%)",
+            "title": "\ud83d\udcb0 AMZN: $265.07 (0.02%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6i"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 A major M6.6 earthquake just struck, among multiple global seismic events!"
+    "seismicSummary": "URGENT: A magnitude 6.6 earthquake and multiple other strong quakes are hitting globally!"
 }
