@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex, volatile threat matrix: escalating geopolitical instability from the war in Iran exacerbates an intensifying energy and food crisis, while a burgeoning sophisticated cyber threat landscape develops amidst significant shifts within the AI sector despite resilient tech markets, all overlaid by a demonstrable increase in global tectonic activity with multiple significant seismic events. To navigate this emergent reality, we must immediately: 1) Bolster resilience by diversifying critical supply chains, with emphasis on localizing essential food and energy resources; 2) Fortify both digital and physical infrastructure against advanced cyber threats and potential grid failures, assessing vulnerabilities across all assets; and 3) Strategically review and, if necessary, re-position critical assets and personnel to mitigate the impacts of localized geopolitical instability, energy disruptions, and heightened seismic risks.",
+    "strategicPlan": "The global environment is escalating rapidly across multiple vectors: a major geopolitical conflict is exacerbating a nascent global energy crisis and systemic food insecurity, amplified by critical infrastructure fragility. This widespread instability is further compounded by heightened global seismic activity in several key regions and the emergence of advanced AI-driven cyber threats, even as major tech markets demonstrate surprising resilience amidst internal AI industry disputes. To secure your assets and physical safety, first, prioritize immediate diversification into tangible assets and establish secure caches of essential resources, fostering local community resilience. Second, fortify all digital defenses against sophisticated, AI-driven cyber-attacks, ensuring robust data integrity and resilient communication channels. Third, execute a comprehensive review of personal and operational emergency protocols and supply chain vulnerabilities, with a strong emphasis on physical safety and readiness for both natural and man-made disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz3x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 19 km N of Sincik, Turkey",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syx6"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Sape, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 159 km WNW of Lautoka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syxz"
         }
     ],
-    "seismicSummary": "URGENT: Global quakes up to Mag 6.6 reported now!"
+    "seismicSummary": "**Alert: A M6.6 earthquake and multiple other strong quakes just struck globally!**"
 }
