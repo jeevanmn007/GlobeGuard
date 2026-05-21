@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is rapidly deteriorating, marked by a dangerous convergence of escalating geopolitical tensions, resource depletion, and systemic vulnerabilities. Geopolitically, the war in Iran is profoundly exacerbating an already critical global energy crisis and driving widespread food insecurity, further complicated by reduced nutritional value in global supplies; while select tech stocks show mixed stability, the macro-economic foundations are under severe stress. Concurrently, cyber threats are democratizing, signaling a pervasive digital risk, and internal strife within the AI sector introduces significant technological uncertainty. Adding to this volatility, moderate seismic activity, critically including a 4.9 magnitude earthquake near Bandar Abbas, Iran, amplifies humanitarian and logistical risks in an already conflict-ridden region. To secure assets and ensure physical safety, GlobeGuard must immediately: 1) Prioritize establishing resilient, localized supply chains for essential food, water, and energy, investing in backup solutions to mitigate widespread scarcity and nutritional decline; 2) Intensify cyber-defense postures against emerging and democratized hacking threats, conducting proactive vulnerability assessments and establishing robust data integrity protocols; and 3) Develop comprehensive, multi-hazard emergency plans that account for both escalating geopolitical instability and the increased risk of natural disasters, particularly seismic events, ensuring physical safety and communication redundancy.",
+    "strategicPlan": "The global strategic assessment reveals a critically interconnected threat landscape: a severe and escalating energy and food crisis, fueled by geopolitical conflict in Iran and systemic infrastructure vulnerabilities like Cuba's grid collapse, underpins significant economic uncertainty despite mixed market signals. Concurrently, profound instability in critical AI development, marked by internal power struggles and an increase in accessible cyber threats, compounds digital risks, while moderate seismic activity, notably a tremor near Bandar Abbas, Iran, highlights inherent physical vulnerabilities capable of exacerbating existing crises. To navigate this multifaceted environment, immediately: 1) Fortify digital assets with enhanced cybersecurity measures and multi-factor authentication against evolving cyber threats; 2) Diversify and decentralize essential resource stockpiles including food, water, and backup power to mitigate supply chain and energy disruptions; and 3) Develop and rehearse robust physical emergency plans, particularly for infrastructure failures and regional seismic events.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.37 (-1.84%)",
+            "title": "\ud83d\udcb0 NVDA: $219.51 (-1.77%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $304.64 (0.79%)",
+            "title": "\ud83d\udcb0 AAPL: $304.99 (0.91%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $419.14 (-0.46%)",
+            "title": "\ud83d\udcb0 MSFT: $419.09 (-0.47%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.54 (0.28%)",
+            "title": "\ud83d\udcb0 PLTR: $137.41 (0.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.68 (1.01%)",
+            "title": "\ud83d\udcb0 AMZN: $268.46 (1.3%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz43"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6d"
+            "title": "\u26a0\ufe0f Mag 4.7 - 104 km SE of Pondaguitan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szad"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.7, just struck globally!"
+    "seismicSummary": "**GLOBAL ALERT:** Multiple significant earthquakes reported worldwide, with a max Mag 5.7!"
 }
