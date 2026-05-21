@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is escalating rapidly across multiple vectors: a major geopolitical conflict is exacerbating a nascent global energy crisis and systemic food insecurity, amplified by critical infrastructure fragility. This widespread instability is further compounded by heightened global seismic activity in several key regions and the emergence of advanced AI-driven cyber threats, even as major tech markets demonstrate surprising resilience amidst internal AI industry disputes. To secure your assets and physical safety, first, prioritize immediate diversification into tangible assets and establish secure caches of essential resources, fostering local community resilience. Second, fortify all digital defenses against sophisticated, AI-driven cyber-attacks, ensuring robust data integrity and resilient communication channels. Third, execute a comprehensive review of personal and operational emergency protocols and supply chain vulnerabilities, with a strong emphasis on physical safety and readiness for both natural and man-made disruptions.",
+    "strategicPlan": "The global landscape demands immediate attention, marked by escalating geopolitical instability from the ongoing war in Iran, which is severely impacting global food and fuel supplies and initiating a major energy crisis, as evidenced by critical infrastructure failures like Cuba's grid collapse. This volatile environment is further compounded by a rapidly evolving cyber threat from advanced AI-driven 'script kiddies' and significant internal disruptions within the AI development sector. While tech markets show some upward resilience, the increasing frequency of substantial seismic events, including a critical magnitude 4.9 earthquake near Bandar Abbas, Iran, introduces a potent physical threat that could amplify existing geopolitical tensions and supply chain vulnerabilities. To navigate this complex threat matrix, immediately secure your financial resilience through diversified assets less susceptible to geopolitical or energy shocks; bolster your digital and physical defenses against sophisticated cyber threats and potential infrastructure disruptions; and establish comprehensive emergency preparedness plans, including essential supplies and communication protocols, to ensure personal and family safety amidst escalating global volatility.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz3x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Sape, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
+            "title": "\u26a0\ufe0f Mag 5 - southern East Pacific Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 159 km WNW of Lautoka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syxz"
+            "title": "\u26a0\ufe0f Mag 4.9 - 61 km W of Bandar Abbas, Iran",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6i"
         }
     ],
-    "seismicSummary": "**Alert: A M6.6 earthquake and multiple other strong quakes just struck globally!**"
+    "seismicSummary": "\ud83d\udea8 A major M6.6 earthquake just struck, among multiple global seismic events!"
 }
