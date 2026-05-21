@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critically escalating environment, marked by a dangerous confluence of geopolitical, economic, and physical threats. Geopolitically, the Iran conflict is exacerbating a nascent global energy crisis and degrading food security, further compounded by critical infrastructure failures like Cuba's grid collapse and the widespread reduction in food nutritional value. Financially, while major tech markets show mixed performance, the rise of AI-enabled cyber threats introduces profound digital vulnerabilities amidst an unstable AI landscape. This is underscored by significant global tectonic activity, including a concerning M4.9 earthquake near Bandar Abbas, Iran, which directly impacts an already volatile strategic region. In response, GlobeGuard directs immediate action: 1. Fortify digital infrastructure and implement advanced cybersecurity protocols against evolving, AI-enabled threats, ensuring critical data integrity and system resilience. 2. Diversify and secure essential resource supply chains, establishing robust emergency reserves for food and energy to mitigate escalating global scarcity. 3. Proactively update and exercise physical safety protocols and asset protection strategies, with specific emphasis on high-risk geopolitical zones and areas prone to increased seismic activity, particularly those with critical infrastructure.",
+    "strategicPlan": "The global strategic environment is rapidly deteriorating, marked by a dangerous convergence of escalating geopolitical tensions, resource depletion, and systemic vulnerabilities. Geopolitically, the war in Iran is profoundly exacerbating an already critical global energy crisis and driving widespread food insecurity, further complicated by reduced nutritional value in global supplies; while select tech stocks show mixed stability, the macro-economic foundations are under severe stress. Concurrently, cyber threats are democratizing, signaling a pervasive digital risk, and internal strife within the AI sector introduces significant technological uncertainty. Adding to this volatility, moderate seismic activity, critically including a 4.9 magnitude earthquake near Bandar Abbas, Iran, amplifies humanitarian and logistical risks in an already conflict-ridden region. To secure assets and ensure physical safety, GlobeGuard must immediately: 1) Prioritize establishing resilient, localized supply chains for essential food, water, and energy, investing in backup solutions to mitigate widespread scarcity and nutritional decline; 2) Intensify cyber-defense postures against emerging and democratized hacking threats, conducting proactive vulnerability assessments and establishing robust data integrity protocols; and 3) Develop comprehensive, multi-hazard emergency plans that account for both escalating geopolitical instability and the increased risk of natural disasters, particularly seismic events, ensuring physical safety and communication redundancy.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.61 (-1.73%)",
+            "title": "\ud83d\udcb0 NVDA: $219.37 (-1.84%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $303.55 (0.43%)",
+            "title": "\ud83d\udcb0 AAPL: $304.64 (0.79%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $417.85 (-0.76%)",
+            "title": "\ud83d\udcb0 MSFT: $419.14 (-0.46%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.4 (0.18%)",
+            "title": "\ud83d\udcb0 PLTR: $137.54 (0.28%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.07 (0.02%)",
+            "title": "\ud83d\udcb0 AMZN: $267.68 (1.01%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.6 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1d"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz3x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1t"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 61 km W of Bandar Abbas, Iran",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6i"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 258 km WSW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz43"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6d"
         }
     ],
-    "seismicSummary": "URGENT: A magnitude 6.6 earthquake and multiple other strong quakes are hitting globally!"
+    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.7, just struck globally!"
 }
