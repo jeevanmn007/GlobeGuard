@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic assessment reveals a critically interconnected threat landscape: a severe and escalating energy and food crisis, fueled by geopolitical conflict in Iran and systemic infrastructure vulnerabilities like Cuba's grid collapse, underpins significant economic uncertainty despite mixed market signals. Concurrently, profound instability in critical AI development, marked by internal power struggles and an increase in accessible cyber threats, compounds digital risks, while moderate seismic activity, notably a tremor near Bandar Abbas, Iran, highlights inherent physical vulnerabilities capable of exacerbating existing crises. To navigate this multifaceted environment, immediately: 1) Fortify digital assets with enhanced cybersecurity measures and multi-factor authentication against evolving cyber threats; 2) Diversify and decentralize essential resource stockpiles including food, water, and backup power to mitigate supply chain and energy disruptions; and 3) Develop and rehearse robust physical emergency plans, particularly for infrastructure failures and regional seismic events.",
+    "strategicPlan": "The global environment is trending towards systemic fragility, marked by an accelerating energy crisis, diminishing food nutrition, and critical resource scarcity exacerbated by the war in Iran and regional infrastructure failures like Cuba's grid collapse. Concurrently, the tech sector is undergoing significant internal upheaval, with major AI governance disputes and an uptick in cyber threats, while financial markets exhibit cautious stability amidst these underlying tensions. This complex geopolitical and economic instability is underscored by widespread moderate seismic activity across several key regions, including a notable event near Bandar Abbas, Iran, suggesting a volatile and unpredictable physical environment. In response, GlobeGuard advises immediate action: **First, diversify and fortify digital and physical asset portfolios against cyber threats and economic shocks, particularly in energy and raw materials.** **Second, establish robust, decentralized energy and food resilience strategies at a personal and community level to mitigate supply chain vulnerabilities.** **Third, maintain hyper-local and regional situational awareness, with pre-planned contingency measures for geopolitical shifts, infrastructure disruptions, and potential seismic events impacting critical supply lines.**",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz3x"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 61 km W of Bandar Abbas, Iran",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6i"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 104 km SE of Pondaguitan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szad"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6d"
         }
     ],
-    "seismicSummary": "**GLOBAL ALERT:** Multiple significant earthquakes reported worldwide, with a max Mag 5.7!"
+    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 4.7-4.9 earthquakes just struck diverse regions worldwide!"
 }
