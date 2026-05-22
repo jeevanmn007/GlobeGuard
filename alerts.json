@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is acutely strained by a confluence of systemic risks. Geopolitically, the ongoing conflict in Iran is exacerbating a foundational energy crisis and intensifying food insecurity globally, while critical infrastructure fragility is increasingly evident, as seen in Cuba's grid collapse. Financially, while major tech stocks exhibit mixed modest movements, the critical AI sector is in flux due to high-profile corporate disputes, coinciding with an explicit warning of escalating cyber threats from 'killer script kiddies.' This complex human-made instability is paralleled by a pattern of heightened tectonic activity across diverse regions, indicating a globally stressed physical and geopolitical landscape. To navigate this period, immediately diversify and secure your critical energy and food reserves to enhance self-sufficiency, fortify your digital infrastructure with advanced cybersecurity protocols and robust backup solutions against emerging threats, and comprehensively assess the structural integrity of primary physical assets while finalizing emergency preparedness and communication plans.",
+    "strategicPlan": "The global environment is currently marked by a critical confluence of escalating geopolitical, economic, and physical threats. Geopolitically, the protracted conflict in Iran is directly fueling a burgeoning global energy crisis and exacerbating food insecurity, while systemic infrastructure vulnerabilities are evident in recent grid collapses and the diminished nutritional value of global food supplies. Financially, significant turbulence within the AI sector, alongside emerging cybersecurity threats from \"script kiddies,\" signals potential digital asset volatility and heightened cyber risk. Concurrently, a marked increase in significant seismic activity across the Pacific Ring of Fire indicates elevated physical hazards. To secure assets and ensure safety, we must immediately: 1) Diversify and fortify tangible assets, including critical supplies (food, water, energy reserves) and physical security measures, to mitigate geopolitical and seismic disruptions; 2) Audit and enhance digital security protocols, anticipating increased cyber threats and market volatility stemming from AI sector instability; and 3) Develop or update robust emergency preparedness plans, focusing on grid independence, supply chain resilience, and natural disaster response, particularly for tectonically active regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.58 (-0.88%)",
+            "title": "\ud83d\udcb0 NVDA: $215.4 (-1.87%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.46 (1.47%)",
+            "title": "\ud83d\udcb0 AAPL: $309.08 (1.34%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $418.7 (-0.09%)",
+            "title": "\ud83d\udcb0 MSFT: $418.82 (-0.06%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.0 (-0.3%)",
+            "title": "\ud83d\udcb0 PLTR: $136.82 (-0.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.68 (-0.29%)",
+            "title": "\ud83d\udcb0 AMZN: $266.61 (-0.69%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sze1"
+            "title": "\u26a0\ufe0f Mag 5.4 - 160 km W of Lata, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5"
         }
     ],
-    "seismicSummary": "Multiple strong magnitude 5 earthquakes are striking across the globe!"
+    "seismicSummary": "Multiple significant earthquakes (Mag 5.4-5.9) are striking diverse locations globally!"
 }
