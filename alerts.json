@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex, urgent threat matrix: Geopolitically, the war in Iran is profoundly stressing global food and energy supplies, signaling the beginning of a major energy crisis, while simultaneously, the digital domain faces escalating cyber threats and significant leadership turmoil within the foundational AI sector. These systemic vulnerabilities are compounded by persistent, globally dispersed seismic activity, emphasizing the inherent physical risks. Therefore, GlobeGuard issues this directive: 1) Prioritize the immediate establishment of diversified contingency reserves for critical energy, water, and food supplies to mitigate resource scarcity. 2) Implement an aggressive, comprehensive upgrade of all digital security protocols to counter rising cyber threats and safeguard against industry volatility. 3) Review and enhance physical safety measures, including emergency preparedness kits and structural resilience assessments, in light of sustained global seismic activity.",
+    "strategicPlan": "The global environment is acutely strained by a confluence of systemic risks. Geopolitically, the ongoing conflict in Iran is exacerbating a foundational energy crisis and intensifying food insecurity globally, while critical infrastructure fragility is increasingly evident, as seen in Cuba's grid collapse. Financially, while major tech stocks exhibit mixed modest movements, the critical AI sector is in flux due to high-profile corporate disputes, coinciding with an explicit warning of escalating cyber threats from 'killer script kiddies.' This complex human-made instability is paralleled by a pattern of heightened tectonic activity across diverse regions, indicating a globally stressed physical and geopolitical landscape. To navigate this period, immediately diversify and secure your critical energy and food reserves to enhance self-sufficiency, fortify your digital infrastructure with advanced cybersecurity protocols and robust backup solutions against emerging threats, and comprehensively assess the structural integrity of primary physical assets while finalizing emergency preparedness and communication plans.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.29 (-1.01%)",
+            "title": "\ud83d\udcb0 NVDA: $217.58 (-0.88%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.74 (1.56%)",
+            "title": "\ud83d\udcb0 AAPL: $309.46 (1.47%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $418.3 (-0.19%)",
+            "title": "\ud83d\udcb0 MSFT: $418.7 (-0.09%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.76 (-1.2%)",
+            "title": "\ud83d\udcb0 PLTR: $137.0 (-0.3%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.23 (-0.09%)",
+            "title": "\ud83d\udcb0 AMZN: $267.68 (-0.29%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sze1"
         }
     ],
-    "seismicSummary": "Multiple 5+ magnitude earthquakes just hit worldwide!"
+    "seismicSummary": "Multiple strong magnitude 5 earthquakes are striking across the globe!"
 }
