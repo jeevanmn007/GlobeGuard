@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is trending towards systemic fragility, marked by an accelerating energy crisis, diminishing food nutrition, and critical resource scarcity exacerbated by the war in Iran and regional infrastructure failures like Cuba's grid collapse. Concurrently, the tech sector is undergoing significant internal upheaval, with major AI governance disputes and an uptick in cyber threats, while financial markets exhibit cautious stability amidst these underlying tensions. This complex geopolitical and economic instability is underscored by widespread moderate seismic activity across several key regions, including a notable event near Bandar Abbas, Iran, suggesting a volatile and unpredictable physical environment. In response, GlobeGuard advises immediate action: **First, diversify and fortify digital and physical asset portfolios against cyber threats and economic shocks, particularly in energy and raw materials.** **Second, establish robust, decentralized energy and food resilience strategies at a personal and community level to mitigate supply chain vulnerabilities.** **Third, maintain hyper-local and regional situational awareness, with pre-planned contingency measures for geopolitical shifts, infrastructure disruptions, and potential seismic events impacting critical supply lines.**",
+    "strategicPlan": "The global strategic environment is critically unstable, characterized by a dangerous convergence of escalating geopolitical conflicts, exemplified by the war in Iran which is profoundly exacerbating an emerging global energy crisis and systemic food insecurity. Simultaneously, the digital domain faces increasing sophisticated cyber threats and significant internal turmoil within the pivotal AI sector, while persistent seismic activity, notably impacting regions already in flux like Iran, adds a tangible layer of physical vulnerability. To navigate this complex threat matrix, immediately prioritize diversifying and securing your access to essential resources, fortify both digital and physical security protocols against disruption and intrusion, and establish robust, multi-scenario contingency frameworks to ensure operational continuity and personal safety amidst widespread systemic risks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -29,7 +29,7 @@
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $419.09 (-0.47%)",
+            "title": "\ud83d\udcb0 MSFT: $419.09 (-0.25%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 116 km ESE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szdy"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sze1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 61 km W of Bandar Abbas, Iran",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6i"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 258 km WSW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz43"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.7 - 104 km SE of Pondaguitan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szad"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6d"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 4.7-4.9 earthquakes just struck diverse regions worldwide!"
+    "seismicSummary": "\ud83d\udea8 Urgent: A Magnitude 5.8 earthquake just struck near Bitung, Indonesia, leading recent global seismic activity!"
 }
