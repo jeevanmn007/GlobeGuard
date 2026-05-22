@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, characterized by a dangerous convergence of escalating geopolitical conflicts, exemplified by the war in Iran which is profoundly exacerbating an emerging global energy crisis and systemic food insecurity. Simultaneously, the digital domain faces increasing sophisticated cyber threats and significant internal turmoil within the pivotal AI sector, while persistent seismic activity, notably impacting regions already in flux like Iran, adds a tangible layer of physical vulnerability. To navigate this complex threat matrix, immediately prioritize diversifying and securing your access to essential resources, fortify both digital and physical security protocols against disruption and intrusion, and establish robust, multi-scenario contingency frameworks to ensure operational continuity and personal safety amidst widespread systemic risks.",
+    "strategicPlan": "The current global intelligence landscape indicates a compounding array of severe threats, integrating geopolitical, economic, and physical dimensions. Geopolitically, the protracted conflict in Iran is directly fueling a burgeoning, unprecedented global energy crisis and exacerbating food insecurity, creating significant market volatility and economic strain across the globe. This economic instability is further complicated by a rapidly evolving and hostile cyber domain, with AI development facing significant internal disruption and heightened security risks. Adding a critical physical dimension, notable seismic activity, including a tremor near Bandar Abbas, Iran, emphasizes the potential for natural hazards to intersect with existing geopolitical hotspots and disrupt critical infrastructure. To navigate this complex environment, secure your assets by diversifying essential resource stockpiles and financial instruments against supply chain shocks; bolster digital defenses immediately to counter advanced cyber threats; and ensure robust contingency planning for critical infrastructure outages and natural disasters, especially in high-risk zones.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 116 km ESE of Bitung, Indonesia",
+            "title": "\u26a0\ufe0f Mag 5.9 - 113 km ESE of Bitung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szdy"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sze1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 61 km W of Bandar Abbas, Iran",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6i"
+            "title": "\u26a0\ufe0f Mag 4.9 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szfp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 104 km SE of Pondaguitan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szad"
+            "title": "\u26a0\ufe0f Mag 4.9 - 61 km W of Bandar Abbas, Iran",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz6i"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: A Magnitude 5.8 earthquake just struck near Bitung, Indonesia, leading recent global seismic activity!"
+    "seismicSummary": "Multiple strong quakes, including a Mag 5.9 near Bitung, just hit globally!"
 }
