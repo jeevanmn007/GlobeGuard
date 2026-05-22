@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an accelerating confluence of systemic risks, with geopolitical instability from the protracted Iran conflict fueling a deepening global energy crisis and severe food insecurity, exemplified by grid collapses and reduced nutritional value in crops. This volatile environment is further complicated by significant internal strife within the critical AI sector, increasing cyber vulnerabilities from 'script kiddie' attacks and contributing to market fluctuations, all undergirded by a concerning pattern of heightened tectonic activity across multiple high-risk seismic zones. To navigate this complex landscape, first, immediately fortify critical infrastructure and personal preparedness plans against energy disruptions and natural disasters, ensuring redundant systems and emergency supplies. Second, strengthen digital defenses against emerging cyber threats, particularly those leveraging AI vulnerabilities, and diversify vital information assets. Third, secure essential resource supply chains\u2014especially food and fuel\u2014through local sourcing and strategic reserves, while adjusting financial portfolios to hedge against persistent inflation and market volatility.",
+    "strategicPlan": "The global environment presents a complex, urgent threat matrix: Geopolitically, the war in Iran is profoundly stressing global food and energy supplies, signaling the beginning of a major energy crisis, while simultaneously, the digital domain faces escalating cyber threats and significant leadership turmoil within the foundational AI sector. These systemic vulnerabilities are compounded by persistent, globally dispersed seismic activity, emphasizing the inherent physical risks. Therefore, GlobeGuard issues this directive: 1) Prioritize the immediate establishment of diversified contingency reserves for critical energy, water, and food supplies to mitigate resource scarcity. 2) Implement an aggressive, comprehensive upgrade of all digital security protocols to counter rising cyber threats and safeguard against industry volatility. 3) Review and enhance physical safety measures, including emergency preparedness kits and structural resilience assessments, in light of sustained global seismic activity.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.51 (-1.77%)",
+            "title": "\ud83d\udcb0 NVDA: $217.29 (-1.01%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $304.99 (0.91%)",
+            "title": "\ud83d\udcb0 AAPL: $309.74 (1.56%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $419.09 (-0.25%)",
+            "title": "\ud83d\udcb0 MSFT: $418.3 (-0.19%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.41 (0.19%)",
+            "title": "\ud83d\udcb0 PLTR: $135.76 (-1.2%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.46 (1.3%)",
+            "title": "\ud83d\udcb0 AMZN: $268.23 (-0.09%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sze1"
+            "title": "\u26a0\ufe0f Mag 5.6 - 173 km E of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szfp"
+            "title": "\u26a0\ufe0f Mag 5.1 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sze1"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong quakes, up to Mag 5.9 near Bitung, just hit worldwide!"
+    "seismicSummary": "Multiple 5+ magnitude earthquakes just hit worldwide!"
 }
