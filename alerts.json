@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is exhibiting heightened fragility, marked by an an escalating energy crisis, persistent food insecurity compounded by regional conflicts and systemic nutritional decline, and significant volatility in the critical technology sector as evidenced by mixed market performance and AI leadership disputes. Concurrently, an elevated pattern of moderate seismic activity across key fault lines underscores persistent physical risks, creating a complex, interconnected threat matrix requiring immediate and decisive action. To secure your interests and safety, prioritize three key areas: 1) Implement robust supply chain diversification for essential resources, particularly energy and food, to counter geopolitical disruptions and infrastructure vulnerabilities. 2) Bolster your digital security posture against evolving cyber threats, actively monitoring the fractured AI development landscape for both opportunities and risks. 3) Review and reinforce physical safety protocols and emergency preparedness plans, especially in tectonically active zones, to ensure readiness for potential natural disasters.",
+    "strategicPlan": "The global strategic landscape is defined by a confluence of escalating systemic risks: geopolitical instability, driven by the expanding economic impact of the war in Iran and the nascent, profound energy crisis, is directly threatening global food security and supply chains while key technological sectors like AI grapple with internal friction and increasing cybersecurity vulnerabilities, as evidenced by fluctuating market performance. Simultaneously, a notable uptick in significant seismic activity, particularly near population centers like Hawaii and across the Pacific Ring of Fire, signals a heightened physical threat matrix. Therefore, immediately secure your operational continuity by diversifying and localizing critical resource supply chains to mitigate geopolitical disruptions, fortify your digital infrastructure against evolving cyber threats, and comprehensively review and update emergency preparedness plans for physical assets and personnel, including disaster recovery protocols, in anticipation of continued geophysical instability.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 156 km W of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 100 km SSE of Bengkulu, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 64 km SSE of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szr9"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, led by a 5.96 near Hawaii, are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Major 5.96 quake strikes Hawaii; other significant tremors reported worldwide."
 }
