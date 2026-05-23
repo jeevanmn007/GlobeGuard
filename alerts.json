@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "GlobeGuard assesses the global threat level as critically elevated, driven by a dangerous confluence of escalating geopolitical instability\u2014marked by the war in Iran fueling an intensifying energy crisis and exacerbating global food insecurity\u2014and significant volatility within the critical tech sector due to internal conflicts and rising cybersecurity threats. This is compounded by notably elevated global seismic activity, presenting immediate physical risks across multiple regions. To navigate this complex environment, individuals must prioritize physical safety by updating emergency preparedness for seismic events and potential infrastructure disruptions; concurrently, re-evaluate and diversify asset portfolios to build resilience against energy and food inflation, hedging against market volatility and pervasive cyber risks; and finally, secure critical personal and operational resources, including food, water, and alternative energy, while rigorously enhancing digital defenses against advanced persistent threats.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.96 - 13 km S of Honaunau-Napoopoo, Hawaii",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - southeast Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.6 - 173 km E of Atka, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgm"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 160 km W of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple strong earthquakes hitting globally, including a near-Mag 6 in Hawaii!"
 }
