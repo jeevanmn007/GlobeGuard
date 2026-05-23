@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is acutely strained, marked by a critical confluence of escalating systemic risks. Geopolitically, the pervasive war in Iran, coupled with a nascent but historic energy crisis, is directly impacting global food security and exposing severe infrastructure vulnerabilities, as evidenced by Cuba's grid collapse. Financially, while key tech stocks exhibit mixed performance, the broader economic outlook is shadowed by these resource crises and increasing cyber threats, intensified by internal strife within the critical AI sector. Concurrently, persistent significant seismic activity across multiple volatile regions, including Hawaii and Indonesia, underscores a heightened physical hazard landscape. To navigate this complex environment, individuals must proactively: 1) Diversify and secure essential resource supplies\u2014food, water, and alternative energy\u2014to mitigate supply chain disruptions; 2) Fortify digital and financial resilience through robust cybersecurity measures and strategic diversification of assets away from single points of failure; and 3) Implement comprehensive physical safety protocols, including emergency preparedness kits and structural assessments, particularly in seismically active or infrastructurally vulnerable areas.",
+    "strategicPlan": "The global strategic environment is exhibiting heightened fragility, marked by an an escalating energy crisis, persistent food insecurity compounded by regional conflicts and systemic nutritional decline, and significant volatility in the critical technology sector as evidenced by mixed market performance and AI leadership disputes. Concurrently, an elevated pattern of moderate seismic activity across key fault lines underscores persistent physical risks, creating a complex, interconnected threat matrix requiring immediate and decisive action. To secure your interests and safety, prioritize three key areas: 1) Implement robust supply chain diversification for essential resources, particularly energy and food, to counter geopolitical disruptions and infrastructure vulnerabilities. 2) Bolster your digital security posture against evolving cyber threats, actively monitoring the fractured AI development landscape for both opportunities and risks. 3) Review and reinforce physical safety protocols and emergency preparedness plans, especially in tectonically active zones, to ensure readiness for potential natural disasters.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -55,8 +55,8 @@
             "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
         },
         {
-            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-            "link": "https://www.wired.com/story/livestream-musk-v-altman-trial/"
+            "title": "\u2018De-Extinction\u2019 Start-up Just Hatched Baby Chicks From a 3D-Printed Artificial Egg",
+            "link": "https://gizmodo.com/de-extinction-start-up-just-hatched-baby-chicks-from-a-3d-printed-artificial-egg-2000760190"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.96 near Hawaii, just struck worldwide."
+    "seismicSummary": "Multiple strong earthquakes, led by a 5.96 near Hawaii, are striking worldwide!"
 }
