@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence indicates a rapidly converging threat landscape: a worsening global energy crisis and pervasive food insecurity, directly exacerbated by the ongoing conflict in Iran, are simultaneously eroding foundational stability. Financially, significant tech market volatility, underscored by critical leadership disputes and emerging cybersecurity vulnerabilities within the AI sector, suggests broader economic uncertainty. Concurrently, a surge in global seismic activity, highlighted by a near-Mag 6 event in Hawaii, demands immediate attention to physical safety and infrastructure resilience. To navigate this complex environment, clients must immediately **1) fortify their energy and food supply chains and emergency reserves**, **2) rigorously audit and enhance cybersecurity defenses and data redundancy protocols**, and **3) implement or update comprehensive physical disaster preparedness plans for all personnel and assets located in tectonically active regions.**",
+    "strategicPlan": "GlobeGuard assesses a rapidly escalating, multi-faceted global threat matrix. Geopolitically, the ongoing conflict in Iran is directly exacerbating a burgeoning global energy crisis and intensifying food scarcity across the Global South, underscored by critical infrastructure failures such as the dire grid collapse in Cuba, signaling widespread resource instability. Financially, tech markets exhibit volatility with key players down, while the AI sector is experiencing significant internal disruption (Microsoft/OpenAI split, Musk/Altman conflict), coupled with a rising \"killer script kiddie\" cyber threat, indicating both economic vulnerability and digital insecurity. Concurrently, a cluster of significant seismic events, including a near-6.0 magnitude quake in Hawaii and others across the Pacific Ring of Fire, points to heightened geological instability. To secure your position, prioritize diversifying your asset portfolio toward resilient, tangible holdings resistant to inflationary pressures and supply chain disruptions; immediately fortify digital infrastructure and cybersecurity defenses against increasingly sophisticated threats; and ensure robust physical preparedness plans, including emergency supplies and communication redundancies, particularly if situated in tectonically active or resource-dependent regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,7 +69,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 160 km W of Lata, Solomon Islands",
+            "title": "\u26a0\ufe0f Mag 5.3 - 156 km W of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
         }
     ],
-    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes reported worldwide!"
+    "seismicSummary": "**URGENT: A near-Mag 6 earthquake just struck Hawaii, with multiple other Mag 5+ tremors reported worldwide!**"
 }
