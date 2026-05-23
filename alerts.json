@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly converging towards heightened instability, driven by a compounding energy crisis and resource depletion from ongoing conflicts, which is now visibly impacting food security and critical national infrastructures like Cuba's grid. While financial markets exhibit minor volatility in key tech sectors, the broader economic outlook is overshadowed by these pervasive survival pressures and a mounting cyber threat from evolving AI-driven attacks, further complicated by internal instability within the AI industry. This complex geopolitical and digital fragility is alarmingly underscored by a significant uptick in global seismic activity, with multiple moderate-to-strong earthquakes suggesting increased physical instability across various regions. Given this confluence of threats, GlobeGuard urgently advises three core actions: first, immediately secure and diversify essential physical resources, including non-perishable supplies and off-grid power solutions, while strategically re-evaluating investment portfolios to mitigate market volatility; second, significantly enhance both personal and digital security protocols to counter sophisticated cyber threats and ensure robust emergency communication; and third, meticulously review and fortify all emergency preparedness plans, focusing on structural resilience, seismic readiness, and logistical contingencies for infrastructure failures.",
+    "strategicPlan": "GlobeGuard's intelligence indicates a rapidly converging threat landscape: a worsening global energy crisis and pervasive food insecurity, directly exacerbated by the ongoing conflict in Iran, are simultaneously eroding foundational stability. Financially, significant tech market volatility, underscored by critical leadership disputes and emerging cybersecurity vulnerabilities within the AI sector, suggests broader economic uncertainty. Concurrently, a surge in global seismic activity, highlighted by a near-Mag 6 event in Hawaii, demands immediate attention to physical safety and infrastructure resilience. To navigate this complex environment, clients must immediately **1) fortify their energy and food supply chains and emergency reserves**, **2) rigorously audit and enhance cybersecurity defenses and data redundancy protocols**, and **3) implement or update comprehensive physical disaster preparedness plans for all personnel and assets located in tectonically active regions.**",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 173 km E of Atka, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgm"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 160 km W of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 100 km SSE of Bengkulu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a Mag 5.96 in Hawaii, just struck worldwide!**"
+    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes reported worldwide!"
 }
