@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses the global threat level as critically elevated, driven by a dangerous confluence of escalating geopolitical instability\u2014marked by the war in Iran fueling an intensifying energy crisis and exacerbating global food insecurity\u2014and significant volatility within the critical tech sector due to internal conflicts and rising cybersecurity threats. This is compounded by notably elevated global seismic activity, presenting immediate physical risks across multiple regions. To navigate this complex environment, individuals must prioritize physical safety by updating emergency preparedness for seismic events and potential infrastructure disruptions; concurrently, re-evaluate and diversify asset portfolios to build resilience against energy and food inflation, hedging against market volatility and pervasive cyber risks; and finally, secure critical personal and operational resources, including food, water, and alternative energy, while rigorously enhancing digital defenses against advanced persistent threats.",
+    "strategicPlan": "The global strategic landscape is rapidly converging towards heightened instability, driven by a compounding energy crisis and resource depletion from ongoing conflicts, which is now visibly impacting food security and critical national infrastructures like Cuba's grid. While financial markets exhibit minor volatility in key tech sectors, the broader economic outlook is overshadowed by these pervasive survival pressures and a mounting cyber threat from evolving AI-driven attacks, further complicated by internal instability within the AI industry. This complex geopolitical and digital fragility is alarmingly underscored by a significant uptick in global seismic activity, with multiple moderate-to-strong earthquakes suggesting increased physical instability across various regions. Given this confluence of threats, GlobeGuard urgently advises three core actions: first, immediately secure and diversify essential physical resources, including non-perishable supplies and off-grid power solutions, while strategically re-evaluating investment portfolios to mitigate market volatility; second, significantly enhance both personal and digital security protocols to counter sophisticated cyber threats and ensure robust emergency communication; and third, meticulously review and fortify all emergency preparedness plans, focusing on structural resilience, seismic readiness, and logistical contingencies for infrastructure failures.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 103 km SSE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgb"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 173 km E of Atka, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgm"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 160 km W of Lata, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes hitting globally, including a near-Mag 6 in Hawaii!"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a Mag 5.96 in Hawaii, just struck worldwide!**"
 }
