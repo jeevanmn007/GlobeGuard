@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 113 km ESE of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szdy"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 103 km SSE of Lorengau, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgb"
         },
@@ -75,6 +71,10 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 160 km W of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szk5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 296 km NW of Nagqu, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szjs"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
