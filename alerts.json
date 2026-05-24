@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly converging, characterized by escalating geopolitical pressures stemming from the ongoing conflict in Iran, which is severely exacerbating a nascent global energy and food crisis, already compounded by declining nutritional value in staple crops and critical infrastructure failures like Cuba's grid collapse. While financial markets show mixed performance with a slight downward trend in key tech stocks, the underlying economic stress from resource scarcity is profound. Simultaneously, we face a heightened and evolving cyber threat from AI-augmented 'script kiddies' amidst significant instability in core AI development agreements, while routine tectonic activity underscores persistent physical vulnerabilities across multiple regions. To navigate this complex environment, GlobeGuard advises three immediate actions: first, diversify your asset portfolio towards tangible, essential resources and resilient infrastructure, mitigating against both market volatility and resource scarcity; second, fortify personal and operational resilience by securing independent power and food reserves, preparing for localized grid disruptions and supply chain shocks; and third, urgently reassess and upgrade digital security protocols to defend against increasingly sophisticated, AI-driven cyber threats, maintaining vigilance on evolving AI capabilities.",
+    "strategicPlan": "GlobeGuard's intelligence indicates a critical and deteriorating global landscape: Geopolitically, ongoing conflicts like the Iran war are exacerbating a nascent but severe energy and food crisis, while escalating cyber threats target critical infrastructure amidst significant volatility in key financial markets, as evidenced by recent tech stock dips. This systemic instability is further compounded by a notable increase in global seismic activity, with multiple significant quakes detected from Alaska to Turkey, highlighting widespread physical vulnerabilities. In response, GlobeGuard directs immediate action to mitigate converging risks: 1) Diversify and secure critical energy and supply chain dependencies, particularly food and fuel, against ongoing geopolitical pressures. 2) Enhance digital asset protection by reinforcing advanced cybersecurity measures and ensuring robust, off-grid data redundancies against evolving cyber threats. 3) Review and upgrade emergency preparedness protocols and communication redundancies, securing physical assets and personnel in seismically active or infrastructurally vulnerable regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 100 km SSE of Bengkulu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
+            "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of La Paz, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 22 km SSE of Saimbeyli, Turkey",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szu1"
         }
     ],
-    "seismicSummary": "Breaking: Several Mag 4.9-5.3 earthquakes just hit globally, including Alaska, Indonesia, Turkey, and Samoa!"
+    "seismicSummary": "Multiple M4.9-5.3 earthquakes are striking globally right now!"
 }
