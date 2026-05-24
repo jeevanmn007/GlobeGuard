@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence indicates a critical and deteriorating global landscape: Geopolitically, ongoing conflicts like the Iran war are exacerbating a nascent but severe energy and food crisis, while escalating cyber threats target critical infrastructure amidst significant volatility in key financial markets, as evidenced by recent tech stock dips. This systemic instability is further compounded by a notable increase in global seismic activity, with multiple significant quakes detected from Alaska to Turkey, highlighting widespread physical vulnerabilities. In response, GlobeGuard directs immediate action to mitigate converging risks: 1) Diversify and secure critical energy and supply chain dependencies, particularly food and fuel, against ongoing geopolitical pressures. 2) Enhance digital asset protection by reinforcing advanced cybersecurity measures and ensuring robust, off-grid data redundancies against evolving cyber threats. 3) Review and upgrade emergency preparedness protocols and communication redundancies, securing physical assets and personnel in seismically active or infrastructurally vulnerable regions.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape where escalating geopolitical instability, driven by resource scarcity and conflict, intersects with volatile financial markets and persistent physical vulnerabilities. The deepening global energy crisis, compounded by the Iran conflict's drain on food and fuel, alongside the less visible but equally potent threat of diminishing food nutritional value and critical infrastructure failures like Cuba's grid collapse, signals profound systemic fragility. Simultaneously, financial markets exhibit caution amidst this backdrop, while significant seismic activity continues across multiple high-risk zones, reminding us of persistent natural hazards. The digital domain also remains highly contested, with rising 'script kiddie' threats and significant restructuring within the AI sector, underscoring evolving cyber risks. In this multifaceted environment, immediate and decisive action is critical to secure assets and ensure safety: First, fortify your resource resilience by diversifying critical supply chains and assessing local self-sufficiency, particularly regarding food and energy. Second, enhance digital security protocols against sophisticated cyber threats, ensuring redundant data backups and robust network defenses for all critical assets. Third, for personnel and assets located in tectonically active regions, immediately review and update emergency preparedness plans, conduct structural integrity checks, and pre-position essential survival caches.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 22 km SSE of Saimbeyli, Turkey",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szud"
+            "title": "\u26a0\ufe0f Mag 4.9 - 112 km ESE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxs"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 141 km SSW of Gataivai, Samoa",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szu1"
+            "title": "\u26a0\ufe0f Mag 4.9 - 22 km SSE of Saimbeyli, Turkey",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szud"
         }
     ],
-    "seismicSummary": "Multiple M4.9-5.3 earthquakes are striking globally right now!"
+    "seismicSummary": "Multiple M4.9-5.3 earthquakes are happening now across the globe!"
 }
