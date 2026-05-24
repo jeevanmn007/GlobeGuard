@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape where escalating geopolitical instability, driven by resource scarcity and conflict, intersects with volatile financial markets and persistent physical vulnerabilities. The deepening global energy crisis, compounded by the Iran conflict's drain on food and fuel, alongside the less visible but equally potent threat of diminishing food nutritional value and critical infrastructure failures like Cuba's grid collapse, signals profound systemic fragility. Simultaneously, financial markets exhibit caution amidst this backdrop, while significant seismic activity continues across multiple high-risk zones, reminding us of persistent natural hazards. The digital domain also remains highly contested, with rising 'script kiddie' threats and significant restructuring within the AI sector, underscoring evolving cyber risks. In this multifaceted environment, immediate and decisive action is critical to secure assets and ensure safety: First, fortify your resource resilience by diversifying critical supply chains and assessing local self-sufficiency, particularly regarding food and energy. Second, enhance digital security protocols against sophisticated cyber threats, ensuring redundant data backups and robust network defenses for all critical assets. Third, for personnel and assets located in tectonically active regions, immediately review and update emergency preparedness plans, conduct structural integrity checks, and pre-position essential survival caches.",
+    "strategicPlan": "The current global intelligence picture reveals a profound convergence of systemic risks: A rapidly escalating geopolitical energy crisis, exacerbated by ongoing conflicts, threatens worldwide stability and is actively degrading global food security and nutritional quality, while critical infrastructure remains highly vulnerable to collapse. This complex environment is further complicated by a burgeoning cyber threat landscape and significant internal turbulence within the pivotal tech sector, all against a backdrop of observable, elevated seismic activity across multiple key regions. In response, immediately secure local energy and food redundancies, significantly strengthen digital defenses against pervasive cyber threats, and proactively review and upgrade all physical contingency plans and asset safeguarding measures, particularly in seismically active zones.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 12 km ENE of Cortes, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxz"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 168 km SW of Nikolski, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szx2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of La Paz, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 112 km ESE of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxs"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 22 km SSE of Saimbeyli, Turkey",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szud"
         }
     ],
-    "seismicSummary": "Multiple M4.9-5.3 earthquakes are happening now across the globe!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck globally, notably in the Philippines, Alaska, and near Easter Island!"
 }
