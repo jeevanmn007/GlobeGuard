@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is exhibiting critical systemic instability, marked by a confluence of escalating geopolitical conflicts (Iran), a deepening global energy crisis, pervasive food insecurity (both nutritional quality and supply chain resilience), and alarming fragility in critical national infrastructure evidenced by grid collapses; financially, major tech markets are showing caution amidst this turbulence, while persistent moderate seismic activity across multiple key fault lines adds a significant physical risk layer, and the digital landscape faces escalating cyber threats compounded by significant restructuring within core AI development partnerships. To navigate this complex threat matrix, immediately establish and secure redundant local resource networks (food, water, energy) and communication backups, preparing for protracted periods of infrastructure disruption; proactively audit and harden both digital defenses against escalating cyber threats and physical safe zones with comprehensive emergency kits, specifically accounting for regional disruptions including seismic events; and re-evaluate and diversify all strategic asset portfolios, prioritizing investments in resilient infrastructure, essential commodities, and decentralized systems, while judiciously reducing exposure to regions with heightened geopolitical or systemic instability.",
+    "strategicPlan": "GlobeGuard assesses a critical and interconnected global risk landscape, defined by an accelerating energy crisis threatening food security and international stability, concurrent financial volatility in key tech sectors, and strategic turbulence within the nascent AI industry. This multifaceted geopolitical and economic fragility is further underscored by persistent moderate seismic activity across global fault lines, signaling latent physical infrastructure risks. To secure your assets and physical safety, you must take immediate action: strategically diversify your critical resources and investments to fortify against economic shocks and supply chain disruptions; rigorously update contingency plans for localized grid failures and natural disasters, ensuring robust independent power and communication; and, fortify your digital defenses against sophisticated cyber threats while maintaining vigilant scrutiny of information integrity amidst the evolving AI landscape.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szu1"
         }
     ],
-    "seismicSummary": "Warning: Multiple moderate earthquakes (M4.9-M5.3) just hit across the globe!"
+    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.3, are just reported across the globe!"
 }
