@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a critical and interconnected global risk landscape, defined by an accelerating energy crisis threatening food security and international stability, concurrent financial volatility in key tech sectors, and strategic turbulence within the nascent AI industry. This multifaceted geopolitical and economic fragility is further underscored by persistent moderate seismic activity across global fault lines, signaling latent physical infrastructure risks. To secure your assets and physical safety, you must take immediate action: strategically diversify your critical resources and investments to fortify against economic shocks and supply chain disruptions; rigorously update contingency plans for localized grid failures and natural disasters, ensuring robust independent power and communication; and, fortify your digital defenses against sophisticated cyber threats while maintaining vigilant scrutiny of information integrity amidst the evolving AI landscape.",
+    "strategicPlan": "The global threat landscape is rapidly converging, characterized by escalating geopolitical pressures stemming from the ongoing conflict in Iran, which is severely exacerbating a nascent global energy and food crisis, already compounded by declining nutritional value in staple crops and critical infrastructure failures like Cuba's grid collapse. While financial markets show mixed performance with a slight downward trend in key tech stocks, the underlying economic stress from resource scarcity is profound. Simultaneously, we face a heightened and evolving cyber threat from AI-augmented 'script kiddies' amidst significant instability in core AI development agreements, while routine tectonic activity underscores persistent physical vulnerabilities across multiple regions. To navigate this complex environment, GlobeGuard advises three immediate actions: first, diversify your asset portfolio towards tangible, essential resources and resilient infrastructure, mitigating against both market volatility and resource scarcity; second, fortify personal and operational resilience by securing independent power and food reserves, preparing for localized grid disruptions and supply chain shocks; and third, urgently reassess and upgrade digital security protocols to defend against increasingly sophisticated, AI-driven cyber threats, maintaining vigilance on evolving AI capabilities.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szu1"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.3, are just reported across the globe!"
+    "seismicSummary": "Breaking: Several Mag 4.9-5.3 earthquakes just hit globally, including Alaska, Indonesia, Turkey, and Samoa!"
 }
