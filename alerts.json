@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating and multi-faceted global risk environment. Geopolitically, the protracted conflict in Iran continues to strain global food and fuel supplies, exacerbating an emerging energy crisis and leading to diminished nutritional quality in food, while critical infrastructure remains vulnerable as exemplified by Cuba's grid collapse. Financially, tech markets exhibit volatility with key players showing mixed performance, reflecting underlying economic uncertainty and potential for broader market shifts. Concurrently, the planet is experiencing heightened tectonic stress, evidenced by significant seismic activity across the Pacific Ring of Fire, signaling persistent physical threats. To secure assets and physical safety, we direct you to immediately diversify and secure essential resources, strengthen all digital resilience against emergent cyber and AI-driven threats, and enhance regional disaster preparedness, particularly for seismic events in at-risk zones.",
+    "strategicPlan": "The global intelligence assessment indicates a critical period characterized by escalating resource insecurity, driven by intensifying geopolitical conflict in Iran and a burgeoning worldwide energy crisis, which together threaten food supplies and national grids from Vietnam to Cuba. This systemic fragility is compounded by underlying tectonic instabilities, evidenced by significant seismic activity across the Philippines, Indonesia, and Turkey, and financial market jitters reflecting internal turmoil within the AI sector and rising cyber warfare. To mitigate these convergent risks, GlobeGuard directs immediate action: first, prioritize the secure acquisition and storage of diverse, resilient essential supplies, including food, water, and decentralized energy solutions, to counter resource scarcity and infrastructure vulnerabilities; second, fortify all digital assets and critical communication networks against sophisticated cyber threats and the volatile tech landscape through robust security protocols and off-site data backups; and third, meticulously review and update emergency preparedness plans, ensuring physical safety and asset protection protocols are current for all operational locations given persistent seismic activity.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 168 km SW of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of La Paz, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 112 km ESE of Bitung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxs"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 22 km SSE of Saimbeyli, Turkey",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szud"
         }
     ],
-    "seismicSummary": "Urgent: Multiple earthquakes, including a Mag 5.5 in the Philippines, just struck globally!"
+    "seismicSummary": "**URGENT: Multiple significant earthquakes, including a 5.5-magnitude, have struck across the Philippines, Indonesia, and Turkey.**"
 }
