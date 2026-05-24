@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is critically strained by a confluence of high-impact threats: an escalating war in Iran is profoundly exacerbating an unprecedented energy crisis and global food insecurity, while financial markets exhibit caution amid significant internal shifts within the AI sector and a rising tide of accessible cyber threats. Concurrently, a marked increase in significant seismic activity across multiple high-risk zones signals a period of heightened physical instability. In response, GlobeGuard directs immediate action: 1) Diversify and fortify critical resource reserves, prioritizing tangible assets and local supply chain resilience to mitigate geopolitical and market volatility. 2) Drastically enhance digital security protocols and operational redundancy against sophisticated cyber threats leveraging AI, ensuring critical data and infrastructure integrity. 3) Update and rigorously drill emergency preparedness plans for physical safety, focusing on robust communication, independent power solutions, and response protocols for potential seismic events and wider infrastructure failures.",
+    "strategicPlan": "The global landscape presents a critically complex and volatile environment, marked by severe geopolitical instability stemming from the war in Iran, which is exacerbating an emerging global energy crisis and systemic food insecurity impacting nutrition and supply chains. Simultaneously, digital infrastructure faces escalating cyber threats and significant internal friction within the critical AI sector, while the physical world is experiencing heightened seismic activity across multiple high-risk regions globally, demanding immediate attention to both visible and invisible threats. To navigate this confluence of challenges, we advise three immediate actions: first, reinforce digital defenses and diversify critical assets to protect against escalating cyber threats and market volatility; second, develop robust personal and localized emergency preparedness plans, including communication redundancies and essential supply stockpiles, particularly if situated in tectonically active zones or near vulnerable infrastructure; and third, strategically secure resilient access to independent energy, water, and nutrient-dense food sources to mitigate the accelerating global resource crises.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
         }
     ],
-    "seismicSummary": "**Urgent: Hawaii struck by a near-6.0 magnitude earthquake, with multiple other strong tremors detected globally!**"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes, including a near-6 in Hawaii, just hit worldwide!"
 }
