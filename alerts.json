@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a profound convergence of systemic risks: A rapidly escalating geopolitical energy crisis, exacerbated by ongoing conflicts, threatens worldwide stability and is actively degrading global food security and nutritional quality, while critical infrastructure remains highly vulnerable to collapse. This complex environment is further complicated by a burgeoning cyber threat landscape and significant internal turbulence within the pivotal tech sector, all against a backdrop of observable, elevated seismic activity across multiple key regions. In response, immediately secure local energy and food redundancies, significantly strengthen digital defenses against pervasive cyber threats, and proactively review and upgrade all physical contingency plans and asset safeguarding measures, particularly in seismically active zones.",
+    "strategicPlan": "GlobeGuard assesses an escalating and multi-faceted global risk environment. Geopolitically, the protracted conflict in Iran continues to strain global food and fuel supplies, exacerbating an emerging energy crisis and leading to diminished nutritional quality in food, while critical infrastructure remains vulnerable as exemplified by Cuba's grid collapse. Financially, tech markets exhibit volatility with key players showing mixed performance, reflecting underlying economic uncertainty and potential for broader market shifts. Concurrently, the planet is experiencing heightened tectonic stress, evidenced by significant seismic activity across the Pacific Ring of Fire, signaling persistent physical threats. To secure assets and physical safety, we direct you to immediately diversify and secure essential resources, strengthen all digital resilience against emergent cyber and AI-driven threats, and enhance regional disaster preparedness, particularly for seismic events in at-risk zones.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 12 km ENE of Cortes, Philippines",
+            "title": "\u26a0\ufe0f Mag 5.5 - 13 km E of Cortes, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxz"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szx2"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of La Paz, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 112 km ESE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxs"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck globally, notably in the Philippines, Alaska, and near Easter Island!"
+    "seismicSummary": "Urgent: Multiple earthquakes, including a Mag 5.5 in the Philippines, just struck globally!"
 }
