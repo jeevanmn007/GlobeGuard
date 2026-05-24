@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses the current global landscape as critically unstable, marked by a converging array of severe systemic risks. Geopolitically, the escalating energy crisis, widespread food insecurity amplified by ongoing conflicts like the war in Iran, and critical infrastructure failures (e.g., Cuba's grid collapse) are creating widespread societal vulnerabilities. This is compounded by significant volatility in the tech sector, evidenced by disputes between major AI players and the emerging threat of AI-enhanced cyberattacks, which is reflected in the mixed performance of key tech stocks. Simultaneously, heightened global seismic activity, with multiple significant earthquakes across diverse fault lines, signals an elevated risk of disruptive physical events. In response, you must immediately: 1. Enhance personal and operational resilience by diversifying essential resource stockpiles (food, water, power alternatives) and reviewing supply chain vulnerabilities; 2. Fortify digital defenses with robust cybersecurity protocols and comprehensive data backup solutions to mitigate escalating AI-driven cyber threats; and 3. Prioritize physical safety by updating emergency preparedness plans, ensuring adequate disaster supplies, and conducting structural assessments of critical assets in seismically active regions.",
+    "strategicPlan": "The global strategic environment is exhibiting critical systemic instability, marked by a confluence of escalating geopolitical conflicts (Iran), a deepening global energy crisis, pervasive food insecurity (both nutritional quality and supply chain resilience), and alarming fragility in critical national infrastructure evidenced by grid collapses; financially, major tech markets are showing caution amidst this turbulence, while persistent moderate seismic activity across multiple key fault lines adds a significant physical risk layer, and the digital landscape faces escalating cyber threats compounded by significant restructuring within core AI development partnerships. To navigate this complex threat matrix, immediately establish and secure redundant local resource networks (food, water, energy) and communication backups, preparing for protracted periods of infrastructure disruption; proactively audit and harden both digital defenses against escalating cyber threats and physical safe zones with comprehensive emergency kits, specifically accounting for regional disruptions including seismic events; and re-evaluate and diversify all strategic asset portfolios, prioritizing investments in resilient infrastructure, essential commodities, and decentralized systems, while judiciously reducing exposure to regions with heightened geopolitical or systemic instability.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.96 - 13 km S of Honaunau-Napoopoo, Hawaii",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.7 - southeast Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 168 km SW of Nikolski, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 100 km SSE of Bengkulu, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 22 km SSE of Saimbeyli, Turkey",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szud"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 141 km SSW of Gataivai, Samoa",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szu1"
         }
     ],
-    "seismicSummary": "**ALERT: Four major Mag 5+ earthquakes just struck Hawaii, Indian Ridge, Alaska, and Indonesia!**"
+    "seismicSummary": "Warning: Multiple moderate earthquakes (M4.9-M5.3) just hit across the globe!"
 }
