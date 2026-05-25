@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a multifaceted and escalating threat environment, encompassing critical resource scarcity, geopolitical instability, technological volatility, and heightened physical risks. Pervasive energy and food crises, exacerbated by ongoing conflicts like the war in Iran and critical infrastructure failures, point to severe global supply chain vulnerabilities, while financial markets show cautious stagnation amid significant AI industry disputes and an elevated cyber threat landscape. Concurrently, a notable concentration of moderate seismic activity, particularly across the Philippine region, demands urgent attention to physical preparedness. To navigate these converging threats, GlobeGuard personnel must prioritize three actionable imperatives: **First**, immediately audit and diversify essential supply chains for food, water, and energy, ensuring resilience against resource shocks. **Second**, fortify all digital infrastructure with robust cybersecurity protocols and develop contingency plans for AI-driven disruptions and market volatility. **Third**, review and update all physical emergency preparedness and structural integrity assessments, especially for assets and personnel located in tectonically active zones.",
+    "strategicPlan": "The global intelligence landscape reveals a dangerous convergence of escalating systemic risks: geopolitically, the protracted war in Iran is deepening an acute global energy crisis, exacerbating food insecurity and nutritional degradation, and highlighting critical infrastructure fragility as evidenced by Cuba's grid collapse. Financially, major tech stocks show mixed to negative trends, reflecting underlying market anxieties amidst this instability. Technologically, the rise of accessible 'script kiddie' cyber threats and significant internal instability within leading AI entities signals a volatile digital frontier. Physically, a notable cluster of moderate seismic events across the Pacific Ring of Fire elevates geohazard potential, demanding vigilance. To secure your assets and ensure physical safety, GlobeGuard advises: First, immediately fortify critical infrastructure and supply chains by diversifying energy sources and localizing resilience against resource scarcity. Second, bolster digital defenses with advanced cybersecurity protocols and ensure robust data redundancy given escalating cyber threats and AI sector volatility. Third, update and rehearse comprehensive emergency preparedness plans, with a specific focus on seismic response and broader infrastructure failure scenarios.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szzw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of La Paz, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
+            "title": "\u26a0\ufe0f Mag 4.9 - 224 km NE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t019"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes have struck, including a 5.5 in the Philippines and another south of Africa!"
+    "seismicSummary": "Multiple M5+ quakes are striking globally, including a M5.5 in the Philippines!"
 }
