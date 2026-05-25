@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is critically unstable, marked by escalating geopolitical conflicts driving widespread energy and food crises, significant volatility in key technology markets amid major AI sector realignments and increasing cyber threats, and persistent moderate seismic activity across vulnerable regions. This confluence of factors points to a heightened risk of cascading failures affecting critical infrastructure, supply chains, and social stability. To secure assets and physical safety, GlobeGuard issues three immediate directives: First, **aggressively de-risk and diversify financial and digital asset portfolios**, prioritizing resilient investments and fortifying cybersecurity against the escalating threat of sophisticated attacks. Second, **establish localized redundancies and secure essential resource independence**, focusing on robust contingency plans for food, water, and energy to counter global supply chain disruptions and infrastructure collapses. Third, **proactively enhance physical safety and operational resilience**, reinforcing critical infrastructure, updating emergency response protocols for natural disasters like earthquakes, and ensuring comprehensive personnel preparedness in susceptible geographic zones.",
+    "strategicPlan": "GlobeGuard assesses a critically elevated global threat level, driven by the interconnected challenges of escalating resource scarcity, as evidenced by diminishing food nutrition, the global economic drain of the Iran war, and a burgeoning energy crisis compounded by critical infrastructure collapses like Cuba's grid failure. Financially, while major tech stocks exhibit minor fluctuations, the underlying systemic vulnerabilities indicate continued market instability. Simultaneously, a significant uptick in global seismic activity, including a Mag 6.9 in Chile, underscores heightened physical risks, while evolving cyber threats and shifts in the AI landscape introduce new digital vulnerabilities. To secure assets and ensure safety, we direct the following: First, fortify digital and financial assets with robust cybersecurity and diversified, resilient investment strategies to counter market volatility and emerging cyber threats. Second, localize and harden essential supply chains, particularly for food and energy, to mitigate geopolitical and resource-driven disruptions. Third, immediately review and reinforce physical safety protocols and disaster preparedness for seismic events, especially in at-risk locations, given the current tectonic unrest.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.9 - 29 km ENE of Calama, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04s"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 113 km ESE of Bitung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04f"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - south of Africa",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t015"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 54 km E of Santa Maria, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szzw"
         }
     ],
-    "seismicSummary": "**Alert! Multiple Mag 5+ earthquakes just reported, including in Indonesia, Papua New Guinea, the Philippines, and south of Africa.**"
+    "seismicSummary": "URGENT: A magnitude 6.9 earthquake just struck Chile, with multiple other quakes reported globally!"
 }
