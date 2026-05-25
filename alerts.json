@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a high-alert convergence of escalating geopolitical, financial, and physical threats. Geopolitically, the protracted conflict in Iran is significantly exacerbating a nascent global energy crisis, as evidenced by critical infrastructure failures like Cuba's grid collapse, while simultaneously driving food insecurity and declining nutritional quality on a global scale. Financially, key technology sectors exhibit mixed performance and considerable internal volatility, particularly within the AI domain, alongside a rising tide of cyber threats from \"script kiddies.\" Concurrently, a notable cluster of strong seismic activity in the Philippines and Indonesian archipelago signals heightened geological instability, posing a direct physical hazard in a vulnerable region. To navigate this complex threat landscape, prioritize physical resilience by ensuring robust emergency preparedness, including diversified energy and food reserves; fortify digital assets against escalating cyber threats by enhancing security protocols and data protection; and strategically re-evaluate and diversify financial portfolios to mitigate against the impacts of geopolitical instability, energy inflation, and potential market volatility.",
+    "strategicPlan": "The global landscape is currently defined by a multifaceted and escalating threat environment, encompassing critical resource scarcity, geopolitical instability, technological volatility, and heightened physical risks. Pervasive energy and food crises, exacerbated by ongoing conflicts like the war in Iran and critical infrastructure failures, point to severe global supply chain vulnerabilities, while financial markets show cautious stagnation amid significant AI industry disputes and an elevated cyber threat landscape. Concurrently, a notable concentration of moderate seismic activity, particularly across the Philippine region, demands urgent attention to physical preparedness. To navigate these converging threats, GlobeGuard personnel must prioritize three actionable imperatives: **First**, immediately audit and diversify essential supply chains for food, water, and energy, ensuring resilience against resource shocks. **Second**, fortify all digital infrastructure with robust cybersecurity protocols and develop contingency plans for AI-driven disruptions and market volatility. **Third**, review and update all physical emergency preparedness and structural integrity assessments, especially for assets and personnel located in tectonically active zones.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxz"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - south of Africa",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t015"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 54 km E of Santa Maria, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szzw"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 31 km ENE of La Paz, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 112 km ESE of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxs"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a 5.5, are striking the Philippines!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes have struck, including a 5.5 in the Philippines and another south of Africa!"
 }
