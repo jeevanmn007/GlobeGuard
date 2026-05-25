@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat matrix is intensifying across geopolitical, financial, and physical domains. Systemic risks include a compounding energy crisis, regional conflicts severely impacting global food security, and demonstrating critical infrastructure vulnerabilities. Simultaneously, the digital landscape faces escalating cyber threats fueled by a volatile AI development race, while financial markets show significant tech sector volatility. Persistent moderate seismic activity in key regions further highlights environmental instability. Our directive is clear: Secure localized essential resources against supply chain disruptions, fortify digital and financial assets by enhancing cybersecurity and diversifying investments, and develop comprehensive contingency plans for both infrastructure failures and natural disasters to ensure continuity and safety.",
+    "strategicPlan": "The global intelligence assessment indicates a critical convergence of systemic risks. Geopolitically, the ongoing war in Iran, coupled with an emerging global energy crisis and the deteriorating nutritional value of food, signals intensifying resource scarcity and widespread instability, exemplified by the cascading infrastructure failures like Cuba's grid collapse. Financially, tech markets exhibit volatility amid significant internal shifts in critical AI development and a rising tide of cyber threats, demanding vigilance. Concurrently, persistent elevated seismic activity, with multiple Mag 5 events globally, underscores a heightened physical threat from natural disasters. In response, GlobeGuard directs immediate action: first, fortify digital and financial assets through robust cybersecurity protocols and diversified holdings; second, establish comprehensive preparedness plans for potential infrastructure disruptions and resource shortages, including emergency food, water, and power solutions; and third, conduct a localized risk assessment to identify and mitigate specific vulnerabilities to natural phenomena, ensuring physical safety and supply chain resilience.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t02k"
         }
     ],
-    "seismicSummary": "URGENT: Multiple magnitude 5 earthquakes reported worldwide!"
+    "seismicSummary": "Multiple Mag 5 earthquakes just reported globally, including near Papua New Guinea, the Philippines, and the South Sandwich Islands!"
 }
