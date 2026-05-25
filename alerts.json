@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a dangerous convergence of escalating systemic risks: geopolitically, the protracted war in Iran is deepening an acute global energy crisis, exacerbating food insecurity and nutritional degradation, and highlighting critical infrastructure fragility as evidenced by Cuba's grid collapse. Financially, major tech stocks show mixed to negative trends, reflecting underlying market anxieties amidst this instability. Technologically, the rise of accessible 'script kiddie' cyber threats and significant internal instability within leading AI entities signals a volatile digital frontier. Physically, a notable cluster of moderate seismic events across the Pacific Ring of Fire elevates geohazard potential, demanding vigilance. To secure your assets and ensure physical safety, GlobeGuard advises: First, immediately fortify critical infrastructure and supply chains by diversifying energy sources and localizing resilience against resource scarcity. Second, bolster digital defenses with advanced cybersecurity protocols and ensure robust data redundancy given escalating cyber threats and AI sector volatility. Third, update and rehearse comprehensive emergency preparedness plans, with a specific focus on seismic response and broader infrastructure failure scenarios.",
+    "strategicPlan": "The global threat matrix is intensifying across geopolitical, financial, and physical domains. Systemic risks include a compounding energy crisis, regional conflicts severely impacting global food security, and demonstrating critical infrastructure vulnerabilities. Simultaneously, the digital landscape faces escalating cyber threats fueled by a volatile AI development race, while financial markets show significant tech sector volatility. Persistent moderate seismic activity in key regions further highlights environmental instability. Our directive is clear: Secure localized essential resources against supply chain disruptions, fortify digital and financial assets by enhancing cybersecurity and diversifying investments, and develop comprehensive contingency plans for both infrastructure failures and natural disasters to ensure continuity and safety.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 13 km E of Cortes, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxz"
+            "title": "\u26a0\ufe0f Mag 5 - 104 km ESE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t028"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - south of Africa",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szzw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 224 km NE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t019"
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t02k"
         }
     ],
-    "seismicSummary": "Multiple M5+ quakes are striking globally, including a M5.5 in the Philippines!"
+    "seismicSummary": "URGENT: Multiple magnitude 5 earthquakes reported worldwide!"
 }
