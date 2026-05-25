@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a critical convergence of systemic risks. Geopolitically, the ongoing war in Iran, coupled with an emerging global energy crisis and the deteriorating nutritional value of food, signals intensifying resource scarcity and widespread instability, exemplified by the cascading infrastructure failures like Cuba's grid collapse. Financially, tech markets exhibit volatility amid significant internal shifts in critical AI development and a rising tide of cyber threats, demanding vigilance. Concurrently, persistent elevated seismic activity, with multiple Mag 5 events globally, underscores a heightened physical threat from natural disasters. In response, GlobeGuard directs immediate action: first, fortify digital and financial assets through robust cybersecurity protocols and diversified holdings; second, establish comprehensive preparedness plans for potential infrastructure disruptions and resource shortages, including emergency food, water, and power solutions; and third, conduct a localized risk assessment to identify and mitigate specific vulnerabilities to natural phenomena, ensuring physical safety and supply chain resilience.",
+    "strategicPlan": "The global strategic landscape is critically unstable, marked by escalating geopolitical conflicts driving widespread energy and food crises, significant volatility in key technology markets amid major AI sector realignments and increasing cyber threats, and persistent moderate seismic activity across vulnerable regions. This confluence of factors points to a heightened risk of cascading failures affecting critical infrastructure, supply chains, and social stability. To secure assets and physical safety, GlobeGuard issues three immediate directives: First, **aggressively de-risk and diversify financial and digital asset portfolios**, prioritizing resilient investments and fortifying cybersecurity against the escalating threat of sophisticated attacks. Second, **establish localized redundancies and secure essential resource independence**, focusing on robust contingency plans for food, water, and energy to counter global supply chain disruptions and infrastructure collapses. Third, **proactively enhance physical safety and operational resilience**, reinforcing critical infrastructure, updating emergency response protocols for natural disasters like earthquakes, and ensuring comprehensive personnel preparedness in susceptible geographic zones.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 113 km ESE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04f"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 104 km ESE of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t028"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 54 km E of Santa Maria, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szzw"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t02k"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes just reported globally, including near Papua New Guinea, the Philippines, and the South Sandwich Islands!"
+    "seismicSummary": "**Alert! Multiple Mag 5+ earthquakes just reported, including in Indonesia, Papua New Guinea, the Philippines, and south of Africa.**"
 }
