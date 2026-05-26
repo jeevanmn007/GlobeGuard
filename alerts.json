@@ -1,14 +1,10 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by a convergence of severe, interconnected threats. Geopolitically, the protracted war in Iran is deepening a global energy crisis and exacerbating food insecurity, eroding nutritional quality and demonstrating infrastructure fragility as seen in Cuba's grid collapse. Financially, while tech markets show mixed performance, significant instability within the AI sector, coupled with rising cybersecurity threats, signals potential for market volatility and digital vulnerabilities. Physically, the planet is experiencing heightened seismic activity, underlined by a substantial M6.9 earthquake in Chile and multiple M5+ events across the Pacific Ring of Fire, indicating increased geophysical instability. To mitigate these immediate risks, GlobeGuard directs you to: (1) Diversify and localize essential reserves of long-shelf-life food and independent energy sources to secure against supply chain and grid failures; (2) Fortify digital defenses with multi-layered cybersecurity and secure offline backups against escalating cyber threats and AI-related vulnerabilities; and (3) Critically review physical safety protocols, conducting immediate structural assessments for primary assets located in seismically active regions.",
+    "strategicPlan": "The global environment is converging towards a state of acute systemic fragility, driven by an escalating energy crisis directly impacting global food security through fertilizer shortages and manifesting in critical infrastructure failures. This is compounded by an increasingly volatile digital landscape, marked by pervasive cyber threats from unsophisticated actors and significant instability within the AI sector, while financial markets show cautious downward pressure on key tech stocks. Simultaneously, a notable uptick in global tectonic activity, particularly across the Pacific Ring of Fire, introduces a significant physical dimension to these accumulating pressures. To mitigate these multifaceted risks, prioritize the secure diversification of essential energy and food supplies; fortify digital asset protection and cyber defenses while strategically assessing and diversifying AI dependencies; and implement robust physical safety protocols, verifying infrastructure resilience and ensuring comprehensive emergency preparedness for seismic events and utility disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
             "link": "https://news.slashdot.org/story/26/05/01/0123239/the-invisible-force-making-food-less-nutritious"
-        },
-        {
-            "title": "From night life in Egypt to rice farming in Vietnam, the war in Iran is a drain",
-            "link": "https://www.npr.org/2026/04/24/nx-s1-5775733/war-in-iran-food-fuel-global-south"
         },
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -17,6 +13,10 @@
         {
             "title": "Cuba grid collapse: The situation is growing more dire, experts say",
             "link": "https://abcnews.com/International/cuba-grid-collapse-situation-growing-dire-experts/story?id=133001706"
+        },
+        {
+            "title": "How fertilizer shortages caused by the energy crisis threaten food security",
+            "link": "https://www.nature.com/articles/d41586-026-01409-8"
         }
     ],
     "stock": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t028"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Major 6.9 magnitude earthquake in Chile, with multiple others reported globally!"
+    "seismicSummary": "**Urgent: A massive 6.9 earthquake just hit Chile, with multiple other strong quakes reported globally!**"
 }
