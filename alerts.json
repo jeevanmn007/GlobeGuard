@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is converging towards a state of acute systemic fragility, driven by an escalating energy crisis directly impacting global food security through fertilizer shortages and manifesting in critical infrastructure failures. This is compounded by an increasingly volatile digital landscape, marked by pervasive cyber threats from unsophisticated actors and significant instability within the AI sector, while financial markets show cautious downward pressure on key tech stocks. Simultaneously, a notable uptick in global tectonic activity, particularly across the Pacific Ring of Fire, introduces a significant physical dimension to these accumulating pressures. To mitigate these multifaceted risks, prioritize the secure diversification of essential energy and food supplies; fortify digital asset protection and cyber defenses while strategically assessing and diversifying AI dependencies; and implement robust physical safety protocols, verifying infrastructure resilience and ensuring comprehensive emergency preparedness for seismic events and utility disruptions.",
+    "strategicPlan": "The global strategic environment is exhibiting heightened instability across critical domains. A deepening and protracted energy crisis is directly fueling systemic food insecurity through fertilizer shortages and diminishing nutritional quality, evidenced by infrastructure collapses like Cuba's. Concurrently, the digital landscape faces escalating, AI-amplified cyber threats amidst significant internal turmoil and strategic shifts within the AI industry itself. These geopolitical and technological pressures are set against a backdrop of elevated global seismic activity, with recent moderate-to-strong quakes, including a Mag 6.9 in Chile, indicating an urgent need for physical preparedness. To navigate this complex threat matrix, GlobeGuard directs immediate action: First, prioritize energy resilience and localized food security, assessing backup power solutions and diversifying food sources. Second, fortify cybersecurity defenses against AI-driven attacks and prudently re-evaluate digital asset exposure, particularly within the volatile AI sector. Third, conduct urgent structural integrity assessments and develop robust contingency plans for assets and personnel in seismically active regions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.33 (-1.9%)",
+            "title": "\ud83d\udcb0 NVDA: $213.41 (-0.89%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $308.82 (1.26%)",
+            "title": "\ud83d\udcb0 AAPL: $310.04 (0.4%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $418.57 (-0.12%)",
+            "title": "\ud83d\udcb0 MSFT: $415.07 (-0.84%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.88 (-0.39%)",
+            "title": "\ud83d\udcb0 PLTR: $137.39 (0.37%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.32 (-0.8%)",
+            "title": "\ud83d\udcb0 AMZN: $263.6 (-1.02%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai"
         },
         {
+            "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
+            "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
+        },
+        {
             "title": "Microsoft and OpenAI\u2019s famed AGI agreement is dead",
             "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract"
         },
         {
             "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
             "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
-        },
-        {
-            "title": "\u2018De-Extinction\u2019 Start-up Just Hatched Baby Chicks From a 3D-Printed Artificial Egg",
-            "link": "https://gizmodo.com/de-extinction-start-up-just-hatched-baby-chicks-from-a-3d-printed-artificial-egg-2000760190"
         }
     ],
     "seismic": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t05n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 104 km ESE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t028"
+            "title": "\u26a0\ufe0f Mag 4.9 - 66 km SW of Gambiran Satu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t06t"
         }
     ],
-    "seismicSummary": "**Urgent: A massive 6.9 earthquake just hit Chile, with multiple other strong quakes reported globally!**"
+    "seismicSummary": "Major M6.9 earthquake just struck Chile, with multiple other quakes reported globally!"
 }
