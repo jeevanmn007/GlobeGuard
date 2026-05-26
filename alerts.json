@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "We are entering a period of profound convergence, where an escalating global energy crisis is directly exacerbating food insecurity and exposing critical infrastructure vulnerabilities, as evidenced by Cuba's grid collapse. Financially, major tech sector indicators show a slight, persistent decline, reflecting broader market unease. Concurrently, the digital domain faces mounting cyber threats and internal strife within the AI industry, while the physical world is experiencing heightened tectonic instability with multiple significant earthquakes, including a powerful M6.9 in Chile. Therefore, secure your position by immediately reviewing and bolstering emergency provisions, including food, water, and alternative energy sources; enhance digital asset security through robust backup strategies and multi-factor authentication; and conduct a comprehensive assessment of physical safety protocols and emergency preparedness, especially for those in seismically active areas.",
+    "strategicPlan": "The global landscape presents a critical confluence of systemic threats demanding immediate attention: an escalating energy crisis is demonstrably fueling widespread food insecurity and nutrient degradation, further destabilizing critical infrastructure as evidenced by Cuba's grid collapse. Concurrently, the digital domain faces increased vulnerability from sophisticated cyber threats, potentially augmented by AI, while major tech stocks show a slight downturn, reflecting underlying market unease. Physically, a notable uptick in significant seismic activity across the Tonga, Kermadec, and Owen Fracture Zones signals heightened geological instability, particularly around the Pacific Ring of Fire. To navigate this complex environment, GlobeGuard advises three immediate actions: first, bolster personal and operational resilience by securing diversified, long-term food and water supplies and establishing robust backup energy solutions; second, fortify digital assets with advanced cybersecurity measures and multi-factor authentication, while strategically diversifying financial portfolios to mitigate single-sector volatility; and third, immediately review and update all emergency preparedness plans, focusing on seismic event protocols and comprehensive communication strategies for at-risk personnel and locations.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.9 - 29 km ENE of Calama, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04s"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 180 km NE of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpe"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Owen Fracture Zone region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpd"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 152 km SSW of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpf"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f **URGENT:** A powerful M6.9 earthquake just struck Chile, amid several other M5+ quakes worldwide!"
+    "seismicSummary": "Alert: Multiple M5+ earthquakes just struck, with two near Tonga!"
 }
