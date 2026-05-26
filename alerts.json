@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is exhibiting heightened instability across critical domains. A deepening and protracted energy crisis is directly fueling systemic food insecurity through fertilizer shortages and diminishing nutritional quality, evidenced by infrastructure collapses like Cuba's. Concurrently, the digital landscape faces escalating, AI-amplified cyber threats amidst significant internal turmoil and strategic shifts within the AI industry itself. These geopolitical and technological pressures are set against a backdrop of elevated global seismic activity, with recent moderate-to-strong quakes, including a Mag 6.9 in Chile, indicating an urgent need for physical preparedness. To navigate this complex threat matrix, GlobeGuard directs immediate action: First, prioritize energy resilience and localized food security, assessing backup power solutions and diversifying food sources. Second, fortify cybersecurity defenses against AI-driven attacks and prudently re-evaluate digital asset exposure, particularly within the volatile AI sector. Third, conduct urgent structural integrity assessments and develop robust contingency plans for assets and personnel in seismically active regions.",
+    "strategicPlan": "The global environment is critically stressed, marked by a deepening energy crisis directly fueling widespread fertilizer shortages, jeopardizing food security, and contributing to a decline in nutritional quality globally, exemplified by Cuba's grid collapse. Financially, major tech stocks are uniformly experiencing minor downturns, indicating market caution amid this volatility, while the tectonic plate activity remains notably high with significant seismic events across Chile, Indonesia, and other regions, signaling inherent physical instability. This complex interplay of resource depletion, economic uncertainty, and geophysical hazards is further complicated by escalating cyber threats from AI-enabled actors and significant internal strife within the leading AI development spheres. To secure assets and ensure physical safety, immediately diversify and localize critical food and energy reserves, audit and rebalance investment portfolios toward resilient assets, and fortify both physical emergency preparedness plans for seismic events and digital defenses against sophisticated cyberattacks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $213.41 (-0.89%)",
+            "title": "\ud83d\udcb0 NVDA: $213.24 (-0.97%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.04 (0.4%)",
+            "title": "\ud83d\udcb0 AAPL: $308.26 (-0.18%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $415.07 (-0.84%)",
+            "title": "\ud83d\udcb0 MSFT: $415.74 (-0.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.39 (0.37%)",
+            "title": "\ud83d\udcb0 PLTR: $136.68 (-0.15%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.6 (-1.02%)",
+            "title": "\ud83d\udcb0 AMZN: $263.68 (-0.99%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t05n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 66 km SW of Gambiran Satu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t06t"
+            "title": "\u26a0\ufe0f Mag 5.1 - Owen Fracture Zone region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpd"
         }
     ],
-    "seismicSummary": "Major M6.9 earthquake just struck Chile, with multiple other quakes reported globally!"
+    "seismicSummary": "URGENT: Mag 6.9 in Chile leads multiple global quakes above 5!"
 }
