@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly converging, presenting an urgent confluence of systemic risks: an unfolding energy crisis is directly impacting global food security through fertilizer shortages, as evidenced by critical infrastructure failures like the Cuban grid collapse. This instability is compounded by persistent elevated seismic activity worldwide (M5+ events in Tonga, Indonesia, Chile, Owen Fracture Zone), indicating heightened physical vulnerabilities. Simultaneously, the digital domain faces increasing threats from sophisticated cyber actors, potentially leveraging advanced AI tools, despite internal turmoil within leading AI development organizations and a slight, broad decline in major tech stocks.\n\nTo navigate this complex environment, secure essential assets and ensure physical safety by immediately fortifying localized energy and food supply chains against systemic disruption; rigorously auditing and enhancing digital defenses against evolving AI-powered cyber threats; and maintaining robust, redundant preparedness plans for both widespread infrastructure failure and natural disaster scenarios.",
+    "strategicPlan": "GlobeGuard assesses a critical and converging threat landscape: an unprecedented global energy crisis is accelerating, directly causing fertilizer shortages and diminishing food nutritional value, while exposing widespread critical infrastructure vulnerabilities as seen in Cuba. This systemic instability coincides with a volatile tech market, where significant power shifts within the AI sector and rising cyber threats from 'script kiddies' signal digital insecurity. Underlying these human-made pressures, elevated seismic activity across the Indian-Antarctic Ridge and Pacific Ring of Fire indicates persistent natural hazards. To navigate this period of heightened risk, immediately implement strategies to localize and secure diverse food and energy reserves, bolstering independence from vulnerable global supply chains. Simultaneously, fortify all digital and financial assets against cyber-attacks and market volatility, considering the ongoing tech sector restructuring. Lastly, ensure comprehensive physical safety protocols are in place, including robust emergency provisions and communication plans, for all personnel and critical assets.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.86 (-0.22%)",
+            "title": "\ud83d\udcb0 NVDA: $211.44 (-1.59%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $308.33 (-0.16%)",
+            "title": "\ud83d\udcb0 AAPL: $311.43 (1.01%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $416.03 (-0.61%)",
+            "title": "\ud83d\udcb0 MSFT: $413.53 (-0.6%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.6 (-0.2%)",
+            "title": "\ud83d\udcb0 PLTR: $133.77 (-2.07%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.29 (-0.39%)",
+            "title": "\ud83d\udcb0 AMZN: $271.79 (2.45%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - western Indian-Antarctic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvt"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 6 - western Indian-Antarctic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvr"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 180 km NE of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpe"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 131 km SE of Bitung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 26 km NE of Calama, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snt8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - Owen Fracture Zone region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpd"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
+    "seismicSummary": "**Urgent: Two M6 earthquakes just struck the western Indian-Antarctic Ridge, alongside other M5+ activity near Tonga and Indonesia!**"
 }
