@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critical confluence of systemic threats demanding immediate attention: an escalating energy crisis is demonstrably fueling widespread food insecurity and nutrient degradation, further destabilizing critical infrastructure as evidenced by Cuba's grid collapse. Concurrently, the digital domain faces increased vulnerability from sophisticated cyber threats, potentially augmented by AI, while major tech stocks show a slight downturn, reflecting underlying market unease. Physically, a notable uptick in significant seismic activity across the Tonga, Kermadec, and Owen Fracture Zones signals heightened geological instability, particularly around the Pacific Ring of Fire. To navigate this complex environment, GlobeGuard advises three immediate actions: first, bolster personal and operational resilience by securing diversified, long-term food and water supplies and establishing robust backup energy solutions; second, fortify digital assets with advanced cybersecurity measures and multi-factor authentication, while strategically diversifying financial portfolios to mitigate single-sector volatility; and third, immediately review and update all emergency preparedness plans, focusing on seismic event protocols and comprehensive communication strategies for at-risk personnel and locations.",
+    "strategicPlan": "The global intelligence picture reveals an urgent confluence of systemic vulnerabilities: A profound, escalating energy crisis is directly eroding global food security, threatening societal stability as demonstrated by critical infrastructure failures, while financial markets reflect underlying caution with minor downturns in key tech sectors. Concurrently, the digital realm is increasingly volatile with heightened cyber threats and internal strife within major AI development, and sustained seismic activity in critical regions underscores an elevated physical risk. To navigate this landscape, immediately secure essential provisions and diversify local energy dependencies to mitigate supply chain disruptions; fortify digital perimeters and review asset protection strategies against evolving cyber exploitation and market shifts; and ensure robust physical contingency plans are in place for potential natural disasters or localized infrastructure failures.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpe"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t05n"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - Owen Fracture Zone region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpd"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 152 km SSW of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpf"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 212 km ENE of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snps"
         }
     ],
-    "seismicSummary": "Alert: Multiple M5+ earthquakes just struck, with two near Tonga!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ quakes, topped by a 5.4, just struck the Tonga-Fiji region!"
 }
