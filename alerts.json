@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals an urgent confluence of systemic vulnerabilities: A profound, escalating energy crisis is directly eroding global food security, threatening societal stability as demonstrated by critical infrastructure failures, while financial markets reflect underlying caution with minor downturns in key tech sectors. Concurrently, the digital realm is increasingly volatile with heightened cyber threats and internal strife within major AI development, and sustained seismic activity in critical regions underscores an elevated physical risk. To navigate this landscape, immediately secure essential provisions and diversify local energy dependencies to mitigate supply chain disruptions; fortify digital perimeters and review asset protection strategies against evolving cyber exploitation and market shifts; and ensure robust physical contingency plans are in place for potential natural disasters or localized infrastructure failures.",
+    "strategicPlan": "The global landscape is characterized by a critical confluence of escalating systemic risks: a deepening energy crisis threatens global food security and infrastructure stability, evidenced by fertilizer shortages and regional grid collapses. Financially, major tech markets exhibit minor, cautious retractions amidst this uncertainty, while the digital domain faces heightened cyber threats, potentially amplified by evolving AI capabilities and industry volatility. Underpinning these challenges is persistent global tectonic instability, underscored by multiple recent Mag 5+ seismic events across diverse regions. To navigate this complex environment, GlobeGuard advises immediate action: prioritize strengthening operational resilience by diversifying energy and food supply chains and establishing robust backup systems against infrastructure failures; concurrently, fortify digital security defenses against advanced cyber threats and review financial portfolios for stability and diversification; finally, ensure comprehensive emergency preparedness plans are current, well-rehearsed, and include specific contingencies for natural disasters and communication redundancies across all key assets and personnel.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpe"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 131 km SE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntr"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 26 km NE of Calama, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snt8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - Owen Fracture Zone region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpd"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 152 km SSW of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpf"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 212 km ENE of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snps"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ quakes, topped by a 5.4, just struck the Tonga-Fiji region!"
+    "seismicSummary": "ALERT: Multiple Mag 5.1-5.4 earthquakes are hitting across diverse global locations!"
 }
