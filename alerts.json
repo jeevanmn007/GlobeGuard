@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly converging, characterized by a deepening, interconnected energy and food security crisis that is degrading nutritional value and precipitating critical infrastructure failures, as evidenced by Cuba's grid collapse. Concurrently, the digital sphere faces an intensified cyber threat from \"script kiddies\" potentially leveraging advanced AI, amid significant internal shifts and disagreements within leading AI development organizations. Financially, key tech market players display cautious volatility, reflecting broader economic anxieties. This complex geopolitical and financial instability is underpinned by significant global seismic activity, including notable events in populated, vulnerable regions. Therefore, to strategically secure your assets and physical safety: 1) immediately review and diversify critical energy and food supply chains, establishing localized redundancies and emergency reserves; 2) bolster cybersecurity defenses with advanced, multi-layered protocols and mandatory user training to counter evolving digital threats; and 3) enhance disaster preparedness and physical asset resilience, particularly in seismically active areas, with updated emergency plans and communication redundancies.",
+    "strategicPlan": "**Strategic Directive: Convergent Threat Posture**\n\nWe are entering a phase of significant systemic vulnerability marked by a convergence of critical resource scarcity, escalating technological instability, and persistent geodynamic activity. The unfolding energy crisis is directly impacting global food security through fertilizer shortages and demonstrating infrastructure fragility, as evidenced by the Cuban grid collapse, while the AI sector faces profound disruption amidst internal conflicts and emerging cyber threats from sophisticated \"script kiddies.\" Financially, key tech stocks show mixed signals, indicative of underlying market uncertainty, all against a backdrop of sustained high-magnitude seismic events across critical oceanic ridges and volatile Pacific regions, demanding immediate proactive measures. To mitigate these risks, prioritize immediate diversification and securing of essential resources like non-perishable food and independent energy solutions to buffer against escalating supply chain disruptions; fortify all digital assets and networks against AI-driven cyber threats, including robust offline backups, given the volatile state of AI development; and ensure physical preparedness for potential localized infrastructure failures and natural disasters, reviewing emergency protocols and establishing communication redundancies.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.4 (-1.14%)",
+            "title": "\ud83d\udcb0 NVDA: $212.6 (-1.05%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.9 (0.51%)",
+            "title": "\ud83d\udcb0 AAPL: $310.85 (0.82%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $413.38 (-0.64%)",
+            "title": "\ud83d\udcb0 MSFT: $412.67 (-0.81%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.12 (-2.55%)",
+            "title": "\ud83d\udcb0 PLTR: $132.51 (-2.99%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.14 (2.21%)",
+            "title": "\ud83d\udcb0 AMZN: $271.85 (2.47%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 131 km SE of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntr"
+            "title": "\u26a0\ufe0f Mag 5.3 - 280 km WNW of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snxg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 26 km NE of Calama, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snt8"
+            "title": "\u26a0\ufe0f Mag 5.1 - 131 km SE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntr"
         }
     ],
-    "seismicSummary": "URGENT: Two Mag 6 quakes hit the Indian-Antarctic Ridge, plus Mag 5.1s in Indonesia and Chile!"
+    "seismicSummary": "\ud83d\udea8 Two M6 earthquakes just hit the Indian-Antarctic Ridge, plus M5+ activity near Tonga and Indonesia!"
 }
