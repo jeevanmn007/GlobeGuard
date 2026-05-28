@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is under escalating strain: a deepening energy crisis is directly compounding food insecurity through fertilizer shortages and diminishing nutritional value, with acute manifestations like Cuba's grid collapse signaling broader systemic vulnerability. Concurrently, while tech financials demonstrate resilience, the planet itself continues to exhibit significant geophysical instability with persistent seismic activity. To navigate this complex landscape, individuals must immediately prioritize localized self-sufficiency measures for critical resources, rigorously stress-test financial portfolios against commodity and supply chain shocks, and establish robust emergency protocols for physical safety, accounting for both infrastructural failure and natural disasters.",
+    "strategicPlan": "The global operating environment is characterized by a critical and escalating energy crisis, directly threatening food security through fertilizer shortages and manifesting in immediate grid collapses like Cuba's, all set against a backdrop of persistent moderate seismic activity across key regions. While major tech stocks like PLTR and MSFT show surprising market buoyancy, the underlying systemic vulnerabilities in essential resources remain profound, even as AI and biotechnological advancements rapidly accelerate, attracting significant ethical and regulatory attention. To secure assets and ensure physical safety, prioritize immediate diversification of investments into resilient physical and resource-based assets, implement robust contingency plans for energy independence and food security, and maintain constant strategic vigilance on evolving geopolitical dynamics and the transformative impact of emerging technologies.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp29"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes, up to Mag 5.3, detected worldwide!**"
+    "seismicSummary": "Multiple Magnitude 5 earthquakes just struck worldwide!"
 }
