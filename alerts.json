@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by an escalating, multi-faceted energy crisis directly precipitating food security threats via fertilizer shortages and manifesting in critical infrastructure failures, as seen in Cuba's grid collapse. This systemic instability unfolds while major technology stocks demonstrate surprising resilience, likely driven by significant investment and ongoing regulatory debates surrounding AI's rapid advancement. Concurrently, persistent global seismic activity, evidenced by multiple Mag 5+ earthquakes across active zones, underscores a baseline of inherent physical vulnerability. To strategically mitigate these interconnected risks, first, secure localized, diversified reserves of essential resources, including food, water, and alternative power, to buffer against escalating supply chain disruptions and infrastructure failures. Second, meticulously evaluate and fortify personal and community-level infrastructure against energy grid collapses and natural disaster impacts, ensuring robust communication and emergency preparedness. Finally, diversify financial assets beyond single-sector exposure, remaining keenly aware of the evolving regulatory landscape for AI, which, despite its current market strength, could significantly reshape future economic and societal stability.",
+    "strategicPlan": "The global operating environment is under escalating strain: a deepening energy crisis is directly compounding food insecurity through fertilizer shortages and diminishing nutritional value, with acute manifestations like Cuba's grid collapse signaling broader systemic vulnerability. Concurrently, while tech financials demonstrate resilience, the planet itself continues to exhibit significant geophysical instability with persistent seismic activity. To navigate this complex landscape, individuals must immediately prioritize localized self-sufficiency measures for critical resources, rigorously stress-test financial portfolios against commodity and supply chain shocks, and establish robust emergency protocols for physical safety, accounting for both infrastructural failure and natural disasters.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.35 (0.82%)",
+            "title": "\ud83d\udcb0 NVDA: $214.25 (0.78%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.61 (-0.08%)",
+            "title": "\ud83d\udcb0 AAPL: $312.51 (0.53%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $427.86 (3.68%)",
+            "title": "\ud83d\udcb0 MSFT: $426.99 (3.47%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $141.95 (7.12%)",
+            "title": "\ud83d\udcb0 PLTR: $143.34 (8.17%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.26 (0.15%)",
+            "title": "\ud83d\udcb0 AMZN: $274.0 (0.79%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp4a"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 280 km WNW of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snxg"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 49 km ESE of Adak, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 68 km SSE of Soe, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snzn"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 133 km SW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp29"
         }
     ],
-    "seismicSummary": "Four magnitude 5+ earthquakes have struck diverse global locations!"
+    "seismicSummary": "**Multiple strong earthquakes, up to Mag 5.3, detected worldwide!**"
 }
