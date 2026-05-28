@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief indicates a confluence of escalating threats: a critical energy crisis is rapidly destabilizing global food security through fertilizer shortages and reduced nutritional value, exemplified by severe grid failures in Cuba. Simultaneously, the digital landscape is increasingly hostile with emerging AI-driven cyber threats and significant shifts in AI governance, while financial markets show mixed signals in a volatile tech sector. Underlying these human-made stressors, elevated global seismic activity, including multiple significant quakes on the Indian-Antarctic Ridge and Pacific Ring of Fire, points to increased planetary instability. To secure assets and physical safety, prioritize local resilience by securing diverse, non-perishable food and water supplies, and developing alternative energy sources; fortify digital defenses against evolving cyber threats with robust offline backups and diversified asset storage; and review and update emergency preparedness plans, including communication strategies and evacuation routes, maintaining a diversified portfolio with an emphasis on tangible, resilient assets.",
+    "strategicPlan": "The global environment is critically stressed, characterized by an escalating, unprecedented energy crisis directly fueling widespread food insecurity and societal instability, as evidenced by the severe Cuban grid collapse and looming fertilizer shortages. This geopolitical and economic turbulence is compounded by a rapidly evolving digital threat landscape with heightened cyber attacks, alongside significant strategic realignments and ethical concerns within the AI sector. Beneath these human-induced pressures, persistent and notable tectonic activity, including two magnitude 6 earthquakes on the Western Indian-Antarctic Ridge, signals ongoing geological tension. To navigate this escalating multi-domain threat, immediately secure diversified and localized energy and food reserves to build resilience against supply chain disruptions, bolster cybersecurity defenses across all critical infrastructure and personal systems against advanced threats, and update emergency preparedness protocols for prolonged outages and seismic events.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snxg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 131 km SE of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntr"
+            "title": "\u26a0\ufe0f Mag 5.2 - 49 km ESE of Adak, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9"
         }
     ],
-    "seismicSummary": "URGENT: Multiple earthquakes, including two Mag 6s, reported from the Indian-Antarctic Ridge to Tonga and Indonesia!"
+    "seismicSummary": "**URGENT: Multiple M6 earthquakes reported on the Indian-Antarctic Ridge, with other strong quakes near Tonga and Alaska!**"
 }
