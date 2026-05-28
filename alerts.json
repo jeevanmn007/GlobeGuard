@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly escalating, multi-layered global risk environment. We are currently facing a deepening energy crisis, directly impacting food security through fertilizer shortages and global infrastructure stability, as evidenced by Cuba's widespread grid collapse, alongside a concerning degradation in food nutritional value. Financially, while certain tech sectors show resilience, the underlying economic stability remains threatened by these fundamental resource challenges. Concurrently, global seismic activity is elevated with multiple significant quakes in diverse regions, indicating ongoing physical instability, while the digital domain is under strain from increasing cyber attacks and significant internal power struggles and ethical concerns within the foundational AI industry. In response, we advise three immediate actions: first, prioritize securing essential resources through the diversification and localization of energy and food supplies; second, reinforce cybersecurity protocols across all digital assets and diversify financial holdings, favoring tangible assets or resilient growth sectors while preparing for market volatility; and third, maintain heightened situational awareness regarding local infrastructure stability and develop robust emergency preparedness plans for potential physical disruptions, including natural disasters and grid failures.",
+    "strategicPlan": "The global landscape is characterized by an escalating, multi-faceted energy crisis directly precipitating food security threats via fertilizer shortages and manifesting in critical infrastructure failures, as seen in Cuba's grid collapse. This systemic instability unfolds while major technology stocks demonstrate surprising resilience, likely driven by significant investment and ongoing regulatory debates surrounding AI's rapid advancement. Concurrently, persistent global seismic activity, evidenced by multiple Mag 5+ earthquakes across active zones, underscores a baseline of inherent physical vulnerability. To strategically mitigate these interconnected risks, first, secure localized, diversified reserves of essential resources, including food, water, and alternative power, to buffer against escalating supply chain disruptions and infrastructure failures. Second, meticulously evaluate and fortify personal and community-level infrastructure against energy grid collapses and natural disaster impacts, ensuring robust communication and emergency preparedness. Finally, diversify financial assets beyond single-sector exposure, remaining keenly aware of the evolving regulatory landscape for AI, which, despite its current market strength, could significantly reshape future economic and societal stability.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,52 +21,48 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.12 (-0.23%)",
+            "title": "\ud83d\udcb0 NVDA: $214.35 (0.82%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.11 (0.08%)",
+            "title": "\ud83d\udcb0 AAPL: $310.61 (-0.08%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $424.22 (2.8%)",
+            "title": "\ud83d\udcb0 MSFT: $427.86 (3.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $137.06 (3.43%)",
+            "title": "\ud83d\udcb0 PLTR: $141.95 (7.12%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $269.86 (-0.73%)",
+            "title": "\ud83d\udcb0 AMZN: $272.26 (0.15%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
     "trend": [
         {
-            "title": "Attack of the killer script kiddies",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai"
-        },
-        {
             "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
             "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
         },
         {
-            "title": "Microsoft and OpenAI\u2019s famed AGI agreement is dead",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract"
+            "title": "\u2018De-Extinction\u2019 Start-up Just Hatched Baby Chicks From a 3D-Printed Artificial Egg",
+            "link": "https://gizmodo.com/de-extinction-start-up-just-hatched-baby-chicks-from-a-3d-printed-artificial-egg-2000760190"
         },
         {
-            "title": "Why Elon Musk and Sam Altman are fighting over OpenAI",
-            "link": "https://www.bbc.com/news/videos/ckger3y52k2o"
+            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+            "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/"
+        },
+        {
+            "title": "Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models",
+            "link": "https://gizmodo.com/trump-reportedly-considering-executive-order-aimed-at-vetting-new-ai-models-2000754493"
         }
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - western Indian-Antarctic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvt"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 6 - western Indian-Antarctic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvr"
+            "title": "\u26a0\ufe0f Mag 5.3 - Revilla Gigedo Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp4a"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 280 km WNW of Neiafu, Tonga",
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 49 km ESE of Adak, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 68 km SSE of Soe, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snzn"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong earthquakes detected, including two Magnitude 6 events at the Western Indian-Antarctic Ridge, plus others in Tonga and Alaska!**"
+    "seismicSummary": "Four magnitude 5+ earthquakes have struck diverse global locations!"
 }
