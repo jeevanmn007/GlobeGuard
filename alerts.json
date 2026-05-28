@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critically escalating and interconnected threat matrix. We are confronting a profound energy crisis that is directly driving widespread food insecurity through fertilizer shortages and systemic nutritional degradation, dramatically exemplified by the complete grid collapse in Cuba and pervasive infrastructure vulnerability. This is simultaneously compounded by a volatile AI landscape, which is democratizing and intensifying cyber warfare, alongside noticeable, sustained seismic activity globally that underscores underlying physical volatility. Financial markets reflect this instability, with major tech stocks exhibiting mixed performance under pressure. To mitigate these escalating risks, GlobeGuard directs immediate action: fortify energy independence and diversify critical food supply chains, emphasizing local sourcing; significantly enhance all cybersecurity protocols against advanced, AI-driven threats; and meticulously review and upgrade emergency preparedness and off-grid operational capabilities, particularly for grid failure and natural disaster response.",
+    "strategicPlan": "GlobeGuard assesses a rapidly escalating, multi-layered global risk environment. We are currently facing a deepening energy crisis, directly impacting food security through fertilizer shortages and global infrastructure stability, as evidenced by Cuba's widespread grid collapse, alongside a concerning degradation in food nutritional value. Financially, while certain tech sectors show resilience, the underlying economic stability remains threatened by these fundamental resource challenges. Concurrently, global seismic activity is elevated with multiple significant quakes in diverse regions, indicating ongoing physical instability, while the digital domain is under strain from increasing cyber attacks and significant internal power struggles and ethical concerns within the foundational AI industry. In response, we advise three immediate actions: first, prioritize securing essential resources through the diversification and localization of energy and food supplies; second, reinforce cybersecurity protocols across all digital assets and diversify financial holdings, favoring tangible assets or resilient growth sectors while preparing for market volatility; and third, maintain heightened situational awareness regarding local infrastructure stability and develop robust emergency preparedness plans for potential physical disruptions, including natural disasters and grid failures.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.6 (-1.05%)",
+            "title": "\ud83d\udcb0 NVDA: $212.12 (-0.23%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.85 (0.82%)",
+            "title": "\ud83d\udcb0 AAPL: $311.11 (0.08%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $412.67 (-0.81%)",
+            "title": "\ud83d\udcb0 MSFT: $424.22 (2.8%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.51 (-2.99%)",
+            "title": "\ud83d\udcb0 PLTR: $137.06 (3.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.85 (2.47%)",
+            "title": "\ud83d\udcb0 AMZN: $269.86 (-0.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Two M6 quakes hit Indian-Antarctic Ridge; M5s in Tonga, Alaska!"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes detected, including two Magnitude 6 events at the Western Indian-Antarctic Ridge, plus others in Tonga and Alaska!**"
 }
