@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically stressed, characterized by an escalating, unprecedented energy crisis directly fueling widespread food insecurity and societal instability, as evidenced by the severe Cuban grid collapse and looming fertilizer shortages. This geopolitical and economic turbulence is compounded by a rapidly evolving digital threat landscape with heightened cyber attacks, alongside significant strategic realignments and ethical concerns within the AI sector. Beneath these human-induced pressures, persistent and notable tectonic activity, including two magnitude 6 earthquakes on the Western Indian-Antarctic Ridge, signals ongoing geological tension. To navigate this escalating multi-domain threat, immediately secure diversified and localized energy and food reserves to build resilience against supply chain disruptions, bolster cybersecurity defenses across all critical infrastructure and personal systems against advanced threats, and update emergency preparedness protocols for prolonged outages and seismic events.",
+    "strategicPlan": "The global intelligence picture reveals a critically escalating and interconnected threat matrix. We are confronting a profound energy crisis that is directly driving widespread food insecurity through fertilizer shortages and systemic nutritional degradation, dramatically exemplified by the complete grid collapse in Cuba and pervasive infrastructure vulnerability. This is simultaneously compounded by a volatile AI landscape, which is democratizing and intensifying cyber warfare, alongside noticeable, sustained seismic activity globally that underscores underlying physical volatility. Financial markets reflect this instability, with major tech stocks exhibiting mixed performance under pressure. To mitigate these escalating risks, GlobeGuard directs immediate action: fortify energy independence and diversify critical food supply chains, emphasizing local sourcing; significantly enhance all cybersecurity protocols against advanced, AI-driven threats; and meticulously review and upgrade emergency preparedness and off-grid operational capabilities, particularly for grid failure and natural disaster response.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple M6 earthquakes reported on the Indian-Antarctic Ridge, with other strong quakes near Tonga and Alaska!**"
+    "seismicSummary": "\ud83d\udea8 Urgent: Two M6 quakes hit Indian-Antarctic Ridge; M5s in Tonga, Alaska!"
 }
