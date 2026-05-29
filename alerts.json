@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is undergoing rapid destabilization, primarily driven by a severe and escalating energy crisis that directly threatens fundamental food security through widespread fertilizer shortages, as starkly evidenced by the ongoing grid collapse in Cuba and a broader decline in global food nutrition. This critical resource instability is unfolding amidst a mixed financial market where leading tech giants experience minor contractions, yet AI and data intelligence firms like Microsoft and Palantir demonstrate significant gains, reflecting a strategic divergence of capital towards perceived future solutions and efficiencies in a turbulent world. Concurrently, persistent moderate seismic activity across multiple continents underscores an enduring physical threat, capable of compounding existing vulnerabilities in critical infrastructure and global supply chains. To safeguard assets and ensure physical safety, first, immediately secure and diversify your access to essential energy and food resources at local and regional levels; second, conduct a thorough audit to harden all critical infrastructure against both physical seismic events and systemic disruptions; and third, strategically re-evaluate financial portfolios, prioritizing investments in resilience, essential services, and technologies that demonstrably address fundamental resource challenges.",
+    "strategicPlan": "The global environment presents a complex and volatile threat matrix, marked by a critical convergence of geopolitical, financial, and physical risks. Geopolitically, the race for AI dominance fuels friction, while financially, an escalating energy crisis threatens global food security through fertilizer shortages and declining nutritional value, exacerbating infrastructure vulnerabilities as evidenced by grid collapses. These systemic pressures are underscored by persistent, moderate global seismic activity, which introduces further physical instability to already stressed supply chains. To secure assets and ensure safety, we must act decisively: first, re-evaluate and diversify digital and financial portfolios towards resilient sectors capable of navigating resource scarcity and technological disruption; second, prioritize the establishment of localized essential resource reserves\u2014food, water, and independent power\u2014to build immediate resilience against potential infrastructure failures; and third, meticulously bolster physical security measures and emergency preparedness plans, adapting to the increased likelihood of cascading systemic shocks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp82"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spfj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 250 km ESE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spd9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 86 km S of Pacocha, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp7p"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 56 km NNW of Kendari, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb8"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes are striking worldwide!"
+    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
 }
