@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is characterized by a critical and escalating energy crisis, directly threatening food security through fertilizer shortages and manifesting in immediate grid collapses like Cuba's, all set against a backdrop of persistent moderate seismic activity across key regions. While major tech stocks like PLTR and MSFT show surprising market buoyancy, the underlying systemic vulnerabilities in essential resources remain profound, even as AI and biotechnological advancements rapidly accelerate, attracting significant ethical and regulatory attention. To secure assets and ensure physical safety, prioritize immediate diversification of investments into resilient physical and resource-based assets, implement robust contingency plans for energy independence and food security, and maintain constant strategic vigilance on evolving geopolitical dynamics and the transformative impact of emerging technologies.",
+    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic risks: an escalating, unprecedented energy crisis is actively fueling widespread fertilizer shortages, thereby critically threatening global food security and nutrition, further exacerbated by precarious critical infrastructure exemplified by Cuba's grid collapse. While major tech sector assets exhibit resilience, this trend highlights strategic shifts amid profound geopolitical and economic instability, all undergirded by persistent, significant seismic activity globally, particularly along the Pacific Ring of Fire. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, prioritize diversification and localization of essential energy and food supply chains to mitigate macro-level shocks; second, strategically re-evaluate financial portfolios toward defensive positions in essential services and resilient infrastructure, including critical AI/data technologies; and third, bolster preparedness protocols for physical disruptions, encompassing robust off-grid power, communication plans, and pre-staged safety measures for all personnel and critical operations.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp4a"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 49 km ESE of Adak, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 68 km SSE of Soe, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snzn"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 133 km SW of Tual, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp29"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp42"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 73 km SE of Sinabang, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y"
         }
     ],
-    "seismicSummary": "Multiple Magnitude 5 earthquakes just struck worldwide!"
+    "seismicSummary": "**Urgent: Multiple M4.7-5.3 earthquakes detected across global regions!**"
 }
