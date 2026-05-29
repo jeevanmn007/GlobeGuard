@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is defined by an escalating convergence of critical threats: a burgeoning energy crisis is directly fueling a systemic food security collapse, making foundational resources increasingly precarious and evidenced by infrastructure failures like Cuba's grid collapse. Financially, while targeted AI and data-centric tech sectors demonstrate remarkable resilience and growth, this buoyancy exists against a backdrop of increasing macroeconomic instability and geopolitical friction over technological dominance. Concurrently, persistent moderate seismic activity across diverse regions underscores a constant, underlying physical hazard that demands vigilant preparedness.\n\nTherefore, your immediate strategic focus must be on **securing self-sufficiency in critical resources**, including diversified food and localized energy solutions, to mitigate supply chain disruptions. Second, **re-evaluate and diversify financial assets** away from singular market dependencies, favoring robust, value-preserving investments and potentially resilient tech sectors, while remaining highly liquid to adapt to rapid market shifts. Lastly, **bolster physical infrastructure and emergency protocols** against both localized power disruptions and potential seismic events, ensuring continuity and safety for personnel and critical operations.",
+    "strategicPlan": "The global environment is undergoing rapid destabilization, primarily driven by a severe and escalating energy crisis that directly threatens fundamental food security through widespread fertilizer shortages, as starkly evidenced by the ongoing grid collapse in Cuba and a broader decline in global food nutrition. This critical resource instability is unfolding amidst a mixed financial market where leading tech giants experience minor contractions, yet AI and data intelligence firms like Microsoft and Palantir demonstrate significant gains, reflecting a strategic divergence of capital towards perceived future solutions and efficiencies in a turbulent world. Concurrently, persistent moderate seismic activity across multiple continents underscores an enduring physical threat, capable of compounding existing vulnerabilities in critical infrastructure and global supply chains. To safeguard assets and ensure physical safety, first, immediately secure and diversify your access to essential energy and food resources at local and regional levels; second, conduct a thorough audit to harden all critical infrastructure against both physical seismic events and systemic disruptions; and third, strategically re-evaluate financial portfolios, prioritizing investments in resilience, essential services, and technologies that demonstrably address fundamental resource challenges.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.04 (1.3%)",
+            "title": "\ud83d\udcb0 NVDA: $211.14 (-1.45%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.74 (-0.25%)",
+            "title": "\ud83d\udcb0 AAPL: $312.06 (-0.14%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $443.25 (3.81%)",
+            "title": "\ud83d\udcb0 MSFT: $450.24 (5.45%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $156.68 (9.31%)",
+            "title": "\ud83d\udcb0 PLTR: $156.54 (9.21%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.14 (-1.04%)",
+            "title": "\ud83d\udcb0 AMZN: $270.64 (-1.23%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb8"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide!"
+    "seismicSummary": "Multiple M5 earthquakes are striking worldwide!"
 }
