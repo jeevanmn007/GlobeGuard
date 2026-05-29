@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is characterized by an unprecedented confluence of systemic risks: a rapidly escalating energy crisis is directly fueling widespread food insecurity and threatening critical grid stability, while the very nutritional quality of our food supply degrades. This critical resource instability is underscored by persistent moderate global seismic activity, yet paradoxically, financial markets remain buoyant, driven largely by advancements in AI and biotech. To navigate this complex environment, GlobeGuard advises immediate action: first, secure diversified, physically accessible provisions\u2014including energy, water, and shelf-stable food\u2014to build immediate resilience against widespread resource scarcity and infrastructure failures. Second, develop and regularly review comprehensive local contingency plans for power outages, supply chain disruptions, and natural hazards, focusing on communication, medical readiness, and essential self-sufficiency. Third, strategically evaluate and invest in adaptive technologies that enhance energy independence, localized resource production, and advanced predictive analytics, while closely monitoring the evolving ethical and regulatory landscape of AI for both risk mitigation and emergent opportunities.",
+    "strategicPlan": "Our current analysis reveals a critical confluence of systemic global risks. An escalating energy crisis is directly fueling a severe, multi-faceted food insecurity threat, compounded by declining nutritional value in key staples. Simultaneously, the rapid, largely unregulated advancement of AI and biotech presents profound ethical, economic, and security challenges, even as specific tech sectors demonstrate robust financial growth. This environment is further complicated by persistent, geographically dispersed seismic activity worldwide. In response, GlobeGuard directs immediate action: prioritize resilience by securing diversified food reserves and alternative energy solutions to mitigate supply chain disruptions; fortify digital and financial assets through enhanced cybersecurity and strategic diversification, closely monitoring AI regulatory developments; and urgently review and reinforce physical safety protocols and emergency preparedness plans, particularly for seismic events, across all critical assets and personnel.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.25 (0.78%)",
+            "title": "\ud83d\udcb0 NVDA: $216.78 (1.18%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.51 (0.53%)",
+            "title": "\ud83d\udcb0 AAPL: $311.26 (-0.4%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $426.99 (3.47%)",
+            "title": "\ud83d\udcb0 MSFT: $444.25 (4.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.34 (8.17%)",
+            "title": "\ud83d\udcb0 PLTR: $155.94 (8.79%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $274.0 (0.79%)",
+            "title": "\ud83d\udcb0 AMZN: $271.78 (-0.81%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp82"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Revilla Gigedo Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp4a"
+            "title": "\u26a0\ufe0f Mag 5.2 - 250 km ESE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spd9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 86 km S of Pacocha, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp7p"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 133 km SW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp29"
+            "title": "\u26a0\ufe0f Mag 4.9 - 56 km NNW of Kendari, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb8"
         }
     ],
-    "seismicSummary": "**Magnitude 5 quakes hitting worldwide!**"
+    "seismicSummary": "URGENT: Multiple strong earthquakes, led by a M5.3 in China, just struck worldwide!"
 }
