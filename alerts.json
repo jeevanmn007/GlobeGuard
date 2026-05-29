@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic risks: an escalating, unprecedented energy crisis is actively fueling widespread fertilizer shortages, thereby critically threatening global food security and nutrition, further exacerbated by precarious critical infrastructure exemplified by Cuba's grid collapse. While major tech sector assets exhibit resilience, this trend highlights strategic shifts amid profound geopolitical and economic instability, all undergirded by persistent, significant seismic activity globally, particularly along the Pacific Ring of Fire. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, prioritize diversification and localization of essential energy and food supply chains to mitigate macro-level shocks; second, strategically re-evaluate financial portfolios toward defensive positions in essential services and resilient infrastructure, including critical AI/data technologies; and third, bolster preparedness protocols for physical disruptions, encompassing robust off-grid power, communication plans, and pre-staged safety measures for all personnel and critical operations.",
+    "strategicPlan": "The global environment is currently defined by a confluence of escalating systemic risks: an accelerating, multifaceted energy crisis is directly catalyzing severe global food insecurity through critical fertilizer shortages and leading to infrastructure failures such as Cuba's grid collapse, while an \"invisible force\" further degrades nutritional value. This complex geopolitical fragility is underscored by persistent global tectonic instability, evidenced by multiple significant earthquakes across diverse regions. Financially, while major tech assets, particularly Microsoft and Palantir, demonstrate resilience and significant growth, indicating a potential flight to perceived stable or future-oriented assets, the broader economy faces immense pressure from commodity and supply chain disruptions. Simultaneously, the rapid advancement of AI technology continues, drawing increasing attention from ethical leadership and national regulatory bodies, signaling a critical phase of integration and oversight. In response, secure assets by diversifying beyond traditional financial instruments into tangibles that hedge against food and energy inflation, while strategically capitalizing on the robust performance of key tech sectors, particularly AI and data analytics. Ensure physical safety through comprehensive emergency preparedness, focusing on robust energy backups, diversified food sourcing, and earthquake readiness protocols tailored to local seismic risks. Finally, maintain acute awareness of global energy market shifts, agricultural supply chain vulnerabilities, and emerging AI regulatory frameworks to anticipate and adapt to rapidly evolving geopolitical and technological landscapes.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 106 km SW of Turpan, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp82"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - Revilla Gigedo Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp4a"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 86 km S of Pacocha, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp7p"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 133 km SW of Tual, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp29"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp42"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 73 km SE of Sinabang, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp6y"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple M4.7-5.3 earthquakes detected across global regions!**"
+    "seismicSummary": "ALERT: Multiple strong earthquakes, up to Mag 5.3, are striking worldwide!"
 }
