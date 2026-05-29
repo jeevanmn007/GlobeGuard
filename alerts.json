@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our current analysis reveals a critical confluence of systemic global risks. An escalating energy crisis is directly fueling a severe, multi-faceted food insecurity threat, compounded by declining nutritional value in key staples. Simultaneously, the rapid, largely unregulated advancement of AI and biotech presents profound ethical, economic, and security challenges, even as specific tech sectors demonstrate robust financial growth. This environment is further complicated by persistent, geographically dispersed seismic activity worldwide. In response, GlobeGuard directs immediate action: prioritize resilience by securing diversified food reserves and alternative energy solutions to mitigate supply chain disruptions; fortify digital and financial assets through enhanced cybersecurity and strategic diversification, closely monitoring AI regulatory developments; and urgently review and reinforce physical safety protocols and emergency preparedness plans, particularly for seismic events, across all critical assets and personnel.",
+    "strategicPlan": "The global landscape is defined by an escalating convergence of critical threats: a burgeoning energy crisis is directly fueling a systemic food security collapse, making foundational resources increasingly precarious and evidenced by infrastructure failures like Cuba's grid collapse. Financially, while targeted AI and data-centric tech sectors demonstrate remarkable resilience and growth, this buoyancy exists against a backdrop of increasing macroeconomic instability and geopolitical friction over technological dominance. Concurrently, persistent moderate seismic activity across diverse regions underscores a constant, underlying physical hazard that demands vigilant preparedness.\n\nTherefore, your immediate strategic focus must be on **securing self-sufficiency in critical resources**, including diversified food and localized energy solutions, to mitigate supply chain disruptions. Second, **re-evaluate and diversify financial assets** away from singular market dependencies, favoring robust, value-preserving investments and potentially resilient tech sectors, while remaining highly liquid to adapt to rapid market shifts. Lastly, **bolster physical infrastructure and emergency protocols** against both localized power disruptions and potential seismic events, ensuring continuity and safety for personnel and critical operations.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.78 (1.18%)",
+            "title": "\ud83d\udcb0 NVDA: $217.04 (1.3%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.26 (-0.4%)",
+            "title": "\ud83d\udcb0 AAPL: $311.74 (-0.25%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $444.25 (4.04%)",
+            "title": "\ud83d\udcb0 MSFT: $443.25 (3.81%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $155.94 (8.79%)",
+            "title": "\ud83d\udcb0 PLTR: $156.68 (9.31%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.78 (-0.81%)",
+            "title": "\ud83d\udcb0 AMZN: $271.14 (-1.04%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
         },
         {
+            "title": "Mistral CEO Says the Pope\u2019s Comments Are a Big Problem for Europe\u2019s War on American Tech",
+            "link": "https://gizmodo.com/mistral-ceo-says-the-popes-comments-are-a-big-problem-for-europes-war-on-american-tech-2000764700"
+        },
+        {
             "title": "\u2018De-Extinction\u2019 Start-up Just Hatched Baby Chicks From a 3D-Printed Artificial Egg",
             "link": "https://gizmodo.com/de-extinction-start-up-just-hatched-baby-chicks-from-a-3d-printed-artificial-egg-2000760190"
         },
         {
             "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
             "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/"
-        },
-        {
-            "title": "Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models",
-            "link": "https://gizmodo.com/trump-reportedly-considering-executive-order-aimed-at-vetting-new-ai-models-2000754493"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb8"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, led by a M5.3 in China, just struck worldwide!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide!"
 }
