@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is critically stressed, marked by a systemic energy crisis directly threatening global food security through supply chain disruptions and diminished nutritional value, alongside escalating geopolitical tensions surrounding the rapid, ethically complex, and nationally contested development of artificial intelligence. Financial markets exhibit extreme selectivity, rewarding core AI infrastructure while other sectors face sustained pressure, all against a backdrop of persistent global tectonic instability evidenced by multiple significant seismic events. To navigate this complex landscape, secure vital assets by diversifying investments into resilient infrastructure and essential AI technologies; fortify physical safety by establishing comprehensive emergency plans with robust communication protocols and self-sufficiency measures; and proactively engage in securing localized, sustainable energy and food sources to mitigate dependency on volatile global systems.",
+    "strategicPlan": "The current global intelligence picture reveals a rapidly deteriorating risk environment, marked by a burgeoning energy crisis directly threatening global food security through fertilizer shortages and manifesting in critical infrastructure failures like the Cuban grid collapse. Financially, while key strategic technology sectors like AI and data analytics (Microsoft, Palantir) show robust growth, broader market fluctuations indicate underlying uncertainty and a selective flight to perceived resilience. This technological surge is accompanied by intensifying geopolitical competition and ethical scrutiny, as highlighted by papal discourse and European tech rivalry with American firms. Underpinning these socio-economic stresses is a sustained pattern of moderate magnitude seismic events across various global fault lines, indicating persistent physical instability. To navigate this complex landscape, GlobeGuard directs immediate action: first, fortify personal and operational energy resilience and diversify food sourcing to mitigate supply chain disruptions; second, strategically re-evaluate financial portfolios, prioritizing investments in resilient infrastructure, essential resources, and leading AI/data intelligence solutions; and third, enhance physical preparedness protocols for unexpected infrastructure failures and natural hazard events, ensuring robust emergency communication and sustainment capabilities.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spd9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spgb"
+            "title": "\u26a0\ufe0f Mag 5 - 195 km NNW of Kilmia, Yemen",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spie"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 56 km NNW of Kendari, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb8"
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spgb"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just struck across the globe!"
+    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes reported across disparate global locations!"
 }
