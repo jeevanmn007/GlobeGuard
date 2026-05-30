@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and volatile threat matrix, marked by a critical convergence of geopolitical, financial, and physical risks. Geopolitically, the race for AI dominance fuels friction, while financially, an escalating energy crisis threatens global food security through fertilizer shortages and declining nutritional value, exacerbating infrastructure vulnerabilities as evidenced by grid collapses. These systemic pressures are underscored by persistent, moderate global seismic activity, which introduces further physical instability to already stressed supply chains. To secure assets and ensure safety, we must act decisively: first, re-evaluate and diversify digital and financial portfolios towards resilient sectors capable of navigating resource scarcity and technological disruption; second, prioritize the establishment of localized essential resource reserves\u2014food, water, and independent power\u2014to build immediate resilience against potential infrastructure failures; and third, meticulously bolster physical security measures and emergency preparedness plans, adapting to the increased likelihood of cascading systemic shocks.",
+    "strategicPlan": "GlobeGuard assesses an escalating global systemic risk characterized by the nascent but rapidly expanding energy and food security crisis, highlighted by infrastructure failures and direct threats to global nutrition, set against a backdrop of intense geopolitical and ethical debates surrounding AI's influence on technology markets and international relations, all while persistent global seismic activity underscores fundamental physical vulnerabilities. To secure assets and physical safety, immediately diversify energy sources and secure local or resilient food supply chains, given the escalating global energy crisis and its direct impact on food production; strategically re-evaluate financial portfolios, favoring assets in AI infrastructure and data security that demonstrate resilience against emerging regulatory landscapes and geopolitical tech fragmentation; and enhance physical infrastructure resilience against potential grid failures while maintaining robust emergency preparedness protocols, acknowledging the systemic risks of energy disruption and ongoing seismic instability.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp7p"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5+ earthquakes just struck worldwide!"
 }
