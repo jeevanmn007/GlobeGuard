@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our current intelligence indicates a rapidly escalating confluence of systemic risks, demanding immediate strategic recalibration. Geopolitically, the onset of the largest energy crisis in modern history is directly threatening global food security through fertilizer shortages and demonstrating immediate societal collapse risks via critical infrastructure failures like Cuba's grid. Financially, while AI-centric technologies like Microsoft and Palantir show robust growth amidst broader tech moderation, the underlying economic instability from energy and food crises suggests increasing volatility. These human-driven pressures are set against a backdrop of persistent, significant global tectonic activity, reminding us of inherent physical vulnerabilities. To mitigate these multifaceted threats, GlobeGuard advises immediate action: first, fortify energy independence and secure resilient supply chains for essential resources, particularly food; second, strategically de-risk financial portfolios by investing in core infrastructure resilience and selective AI advancements, while preparing for economic shifts; and third, ensure robust personal and community-level preparedness plans for infrastructure outages and natural disasters, including critical supplies and communication redundancies.",
+    "strategicPlan": "The global environment is rapidly deteriorating, marked by an accelerating and multifaceted energy crisis that directly fuels severe food security issues, already evident in infrastructure collapses like Cuba's grid failure and widespread fertilizer shortages. Concurrently, while financial markets exhibit resilience and a pivot towards AI and advanced technology, this innovation introduces profound ethical dilemmas and intensifies geopolitical competition. Beneath these socioeconomic and technological shifts, persistent tectonic activity across various global regions adds an unpredictable physical risk layer to an already volatile world. To secure assets and physical safety amidst this complex landscape, GlobeGuard advises three immediate priorities: First, fortify personal and operational energy independence through resilient off-grid solutions and reduced consumption to mitigate infrastructure failures. Second, proactively secure diverse food supply chains by localizing procurement and building long-term reserves, acknowledging threats to both availability and nutritional quality. Third, diversify critical assets, both financial and digital, while rigorously enhancing physical safety protocols and emergency preparedness against both man-made systemic disruptions and natural seismic events.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spfj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 250 km ESE of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spd9"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 195 km NNW of Kilmia, Yemen",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spie"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spgb"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 119 km SW of Jiquilillo, Nicaragua",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spid"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple Mag 5+ earthquakes reported worldwide!**"
+    "seismicSummary": "Urgent: Several M5+ earthquakes are striking diverse regions worldwide!"
 }
