@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating global systemic risk characterized by the nascent but rapidly expanding energy and food security crisis, highlighted by infrastructure failures and direct threats to global nutrition, set against a backdrop of intense geopolitical and ethical debates surrounding AI's influence on technology markets and international relations, all while persistent global seismic activity underscores fundamental physical vulnerabilities. To secure assets and physical safety, immediately diversify energy sources and secure local or resilient food supply chains, given the escalating global energy crisis and its direct impact on food production; strategically re-evaluate financial portfolios, favoring assets in AI infrastructure and data security that demonstrate resilience against emerging regulatory landscapes and geopolitical tech fragmentation; and enhance physical infrastructure resilience against potential grid failures while maintaining robust emergency preparedness protocols, acknowledging the systemic risks of energy disruption and ongoing seismic instability.",
+    "strategicPlan": "The global strategic environment is critically unstable, driven by a deepening and escalating energy crisis that is directly threatening global food security through fertilizer shortages and systemic supply chain disruptions, already manifesting in grid collapses and widespread projections of scarcity. This pervasive resource insecurity intertwines with rapid, contentious advancements in AI, sparking geopolitical and ethical debates that could reshape technological access and market dynamics. While select tech sectors show resilience in financial markets, the broader economic outlook is volatile, all set against a consistent backdrop of moderate global seismic activity, a persistent reminder of physical vulnerabilities. To navigate this complex threat landscape, GlobeGuard advises three immediate actions: first, prioritize securing diversified, localized reserves for critical energy and food supplies to build resilience against systemic resource scarcity; second, fortify digital and financial assets against market volatility and potential regulatory shifts by monitoring evolving tech governance and diversifying investment portfolios; and third, enhance physical preparedness, including robust communication redundancies and emergency power solutions, to withstand both localized events and broader societal instabilities.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 106 km SW of Turpan, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp82"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spfj"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spd9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 86 km S of Pacocha, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sp7p"
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spgb"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 56 km NNW of Kendari, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spb8"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5+ earthquakes just struck worldwide!"
+    "seismicSummary": "**Multiple magnitude 5 earthquakes are striking globally!**"
 }
