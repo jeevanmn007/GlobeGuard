@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our strategic assessment reveals a rapidly converging threat landscape defined by critical systemic vulnerabilities, financial volatility, and escalating geophysical instability. The deepening global energy crisis and associated fertilizer shortages are directly compromising food security and the resilience of essential infrastructure, exemplified by the widespread grid collapse in Cuba and reports of declining food nutrition. Financially, while certain sectors like advanced AI/data exhibit strong performance, broader tech market fluctuations signal underlying economic re-evaluation. Concurrently, a surge in Magnitude 5+ seismic events globally, from the Caribbean to the Pacific, indicates an elevated and unpredictable physical threat. To navigate this complex environment, first, immediately review and fortify critical supply chains for energy and food, reducing dependency on vulnerable external factors. Second, strategically rebalance investment portfolios toward assets demonstrating resilience, intrinsic value, or those critical to enabling future stability and technological advancement. Third, execute comprehensive physical security audits and enhance disaster preparedness protocols, especially for assets located in seismically active or infrastructure-fragile zones, to safeguard personnel and physical holdings.",
+    "strategicPlan": "The global environment is rapidly deteriorating, marked by an accelerating energy crisis threatening widespread food insecurity and societal instability, exacerbated by volatile financial markets showing a defensive pivot towards resilient AI infrastructure. Simultaneously, we observe a notable uptick in significant global seismic activity, indicating a period of heightened physical vulnerability. To secure assets and physical safety, prioritize immediate diversification of energy reserves and establish redundant, localized supply chains for essential goods to mitigate escalating energy and food security risks; re-evaluate and fortify investment portfolios, favoring resilient AI/data infrastructure and hard assets while preparing for continued market volatility; and conduct immediate, comprehensive audits of physical infrastructure for seismic resilience, updating emergency preparedness plans to include off-grid communication and power capabilities.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkp"
         }
     ],
-    "seismicSummary": "Four strong M5+ earthquakes just struck across the globe!"
+    "seismicSummary": "Multiple M5+ quakes just hit from Barbados to the Pacific!"
 }
