@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a critical and rapidly escalating confluence of threats: a profound energy crisis is actively undermining global stability and accelerating food insecurity through critical fertilizer shortages and diminished nutritional value of crops. This geopolitical and economic strain is exacerbated by tangible infrastructure failures, as seen in Cuba's grid collapse, while the financial markets exhibit significant volatility with major tech stocks diverging. Simultaneously, a concerning surge in global tectonic activity, evidenced by multiple Magnitude 5+ earthquakes across disparate regions, introduces an additional layer of unpredictable physical risk. To navigate this complex and dangerous environment, **first, prioritize immediate resource independence by diversifying food and water storage, and implementing energy efficiency measures to mitigate supply chain fragilities.** **Second, fortify financial resilience by rebalancing asset portfolios towards tangible, inflation-resistant holdings and monitoring systemic economic indicators for shifts.** **Third, enhance physical safety by reinforcing personal and property preparedness for severe infrastructure disruptions and potential seismic events, ensuring robust emergency communication and evacuation plans are in place.**",
+    "strategicPlan": "The global intelligence brief reveals an urgent, multifaceted threat landscape characterized by a rapidly escalating energy crisis that is fundamentally disrupting global food security and basic infrastructure, as evidenced by critical shortages and grid collapses. This systemic vulnerability is unfolding against a backdrop of significant and widespread global seismic activity, while the technology sector, particularly AI, remains a complex arena of innovation, geopolitical contention, and selective financial resilience amidst broader market volatility. To navigate this environment, **first**, prioritize securing diversified, localized access to essential food, water, and energy resources, emphasizing personal and community self-sufficiency to mitigate systemic supply chain failures. **Second**, immediately review and bolster emergency protocols and physical infrastructure resilience against seismic events across all operational footprints, maintaining acute situational awareness of localized disruptions. **Finally**, re-evaluate and diversify asset portfolios towards resilient physical commodities and strategically sound technological investments, recognizing the ongoing importance of AI development while hedging against broader market volatility and geopolitical shifts.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkc"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - 81 km SE of Lae, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkp"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 195 km NNW of Kilmia, Yemen",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spie"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spgb"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 24 km NNW of Murghob, Tajikistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkb"
         }
     ],
-    "seismicSummary": "Strong earthquakes detected globally, including Mag 5.6 near Barbados!"
+    "seismicSummary": "\u26a0\ufe0f Urgent: Multiple magnitude 5 earthquakes, including a 5.6 near Barbados, are striking globally!"
 }
