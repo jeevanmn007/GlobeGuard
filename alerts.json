@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief reveals an urgent, multifaceted threat landscape characterized by a rapidly escalating energy crisis that is fundamentally disrupting global food security and basic infrastructure, as evidenced by critical shortages and grid collapses. This systemic vulnerability is unfolding against a backdrop of significant and widespread global seismic activity, while the technology sector, particularly AI, remains a complex arena of innovation, geopolitical contention, and selective financial resilience amidst broader market volatility. To navigate this environment, **first**, prioritize securing diversified, localized access to essential food, water, and energy resources, emphasizing personal and community self-sufficiency to mitigate systemic supply chain failures. **Second**, immediately review and bolster emergency protocols and physical infrastructure resilience against seismic events across all operational footprints, maintaining acute situational awareness of localized disruptions. **Finally**, re-evaluate and diversify asset portfolios towards resilient physical commodities and strategically sound technological investments, recognizing the ongoing importance of AI development while hedging against broader market volatility and geopolitical shifts.",
+    "strategicPlan": "The global strategic environment is rapidly escalating in complexity and risk, characterized by a deepening energy crisis driving critical fertilizer shortages and diminishing global food nutrition, evidenced by acute infrastructure collapse like Cuba's grid failure. While financial markets exhibit a mixed performance, with certain AI and data-centric technology firms showing significant resilience amidst broader declines, a persistent pattern of moderate seismic activity across vulnerable regions underscores ongoing physical threats. In response, prioritize immediate and decisive action: first, secure diversified energy backups and robust, long-term food provisions to mitigate the escalating resource crisis; second, defensively re-evaluate and fortify financial portfolios, favoring assets with proven resilience against systemic shocks and strategic importance in the evolving technological landscape; and third, meticulously review and update emergency preparedness protocols, including redundant communication systems and pre-positioned survival supplies, in anticipation of localized disruptions from both geopolitical and physical events.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkc"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 72 km NW of Port-Vila, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splm"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 81 km SE of Lae, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkp"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 195 km NNW of Kilmia, Yemen",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spie"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spgb"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Urgent: Multiple magnitude 5 earthquakes, including a 5.6 near Barbados, are striking globally!"
+    "seismicSummary": "Four M5+ earthquakes just struck globally!"
 }
