@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently characterized by a critical confluence of escalating systemic threats: a deepening energy crisis is demonstrably fueling a looming food security crisis, both through fertilizer shortages impacting global supply chains and the documented decrease in nutritional content of staples, directly contributing to grid collapses such as seen in Cuba. Financially, markets reflect this instability, with select AI/data sectors experiencing significant gains (MSFT, PLTR) while broader tech experiences downturns (NVDA, AAPL, AMZN), indicating a flight to perceived value amidst volatility, all set against a backdrop of notable physical instability evidenced by multiple Magnitude 5+ seismic events across the Caribbean and Pacific. To mitigate these immediate and developing risks, GlobeGuard directs the following actions: First, establish robust, decentralized energy redundancies and secure a minimum of six months' diversified, nutrient-dense food provisions to counter supply chain disruptions and declining food quality. Second, re-evaluate and strategically reallocate financial assets towards tangible, inflation-resistant holdings and critical infrastructure sectors, while maintaining liquidity to capitalize on market shifts. Third, proactively enhance physical safety by assessing and reinforcing structural integrity in seismically active areas and ensuring comprehensive emergency communication and survival plans are current and accessible.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The global landscape is rapidly converging into a period of heightened instability: a deepening energy crisis is directly driving widespread food insecurity and declining nutritional value, exemplified by critical fertilizer shortages and regional infrastructure failures like the Cuba grid collapse. Financially, while some tech majors face slight corrections, the AI and data analytics sectors are surging, signaling a strategic shift in market value. This complex geopolitical and economic flux is underscored by a concerning uptick in significant seismic activity across the Pacific, including a Magnitude 6 event near Valpara\u00edso, Chile. To navigate these converging risks, prioritize immediate physical safety through diversified local food/energy reserves and robust emergency preparedness; protect assets by strategically rebalancing portfolios towards essential commodities, resilient infrastructure, and high-performing AI/data analytics; and fortify operational resilience by bolstering critical supply chain integrity and enhancing defenses against both physical and cyber threats to essential services.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 137 km SSE of Oistins, Barbados",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkc"
+            "title": "\u26a0\ufe0f Mag 6 - 36 km NW of Valpara\u00edso, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqc"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splm"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes just struck various locations worldwide!"
+    "seismicSummary": "**URGENT: A magnitude 6 earthquake just hit near Valpara\u00edso, Chile, alongside three magnitude 5 events across the Pacific!**"
 }
