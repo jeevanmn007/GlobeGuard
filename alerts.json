@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a critical, multi-axis global threat: an escalating energy crisis driving widespread food insecurity through compromised nutrition and fertilizer shortages, compounded by contentious AI regulatory debates, all while financial markets show selective tech strength amidst general volatility. This geopolitical and economic turbulence is undergirded by a notable increase in significant seismic activity across the Pacific Rim and Caribbean. To proactively mitigate these threats, immediately diversify asset portfolios towards resilient hard assets and strategic AI infrastructure, reinforce physical infrastructure and local emergency protocols against seismic events and grid failures, and implement robust contingency plans for critical food and energy supply chain disruptions.",
+    "strategicPlan": "The global landscape is currently characterized by a critical confluence of escalating systemic threats: a deepening energy crisis is demonstrably fueling a looming food security crisis, both through fertilizer shortages impacting global supply chains and the documented decrease in nutritional content of staples, directly contributing to grid collapses such as seen in Cuba. Financially, markets reflect this instability, with select AI/data sectors experiencing significant gains (MSFT, PLTR) while broader tech experiences downturns (NVDA, AAPL, AMZN), indicating a flight to perceived value amidst volatility, all set against a backdrop of notable physical instability evidenced by multiple Magnitude 5+ seismic events across the Caribbean and Pacific. To mitigate these immediate and developing risks, GlobeGuard directs the following actions: First, establish robust, decentralized energy redundancies and secure a minimum of six months' diversified, nutrient-dense food provisions to counter supply chain disruptions and declining food quality. Second, re-evaluate and strategically reallocate financial assets towards tangible, inflation-resistant holdings and critical infrastructure sectors, while maintaining liquidity to capitalize on market shifts. Third, proactively enhance physical safety by assessing and reinforcing structural integrity in seismically active areas and ensuring comprehensive emergency communication and survival plans are current and accessible.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkc"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sppt"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splv"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 72 km NW of Port-Vila, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splm"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 81 km SE of Lae, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkp"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Four M5+ earthquakes have just struck globally, spanning Barbados to the Pacific!"
+    "seismicSummary": "Multiple Mag 5 earthquakes just struck various locations worldwide!"
 }
