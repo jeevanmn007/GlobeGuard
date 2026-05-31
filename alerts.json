@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is rapidly deteriorating, marked by an accelerating energy crisis threatening widespread food insecurity and societal instability, exacerbated by volatile financial markets showing a defensive pivot towards resilient AI infrastructure. Simultaneously, we observe a notable uptick in significant global seismic activity, indicating a period of heightened physical vulnerability. To secure assets and physical safety, prioritize immediate diversification of energy reserves and establish redundant, localized supply chains for essential goods to mitigate escalating energy and food security risks; re-evaluate and fortify investment portfolios, favoring resilient AI/data infrastructure and hard assets while preparing for continued market volatility; and conduct immediate, comprehensive audits of physical infrastructure for seismic resilience, updating emergency preparedness plans to include off-grid communication and power capabilities.",
+    "strategicPlan": "GlobeGuard assesses a critical, multi-axis global threat: an escalating energy crisis driving widespread food insecurity through compromised nutrition and fertilizer shortages, compounded by contentious AI regulatory debates, all while financial markets show selective tech strength amidst general volatility. This geopolitical and economic turbulence is undergirded by a notable increase in significant seismic activity across the Pacific Rim and Caribbean. To proactively mitigate these threats, immediately diversify asset portfolios towards resilient hard assets and strategic AI infrastructure, reinforce physical infrastructure and local emergency protocols against seismic events and grid failures, and implement robust contingency plans for critical food and energy supply chain disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkp"
         }
     ],
-    "seismicSummary": "Multiple M5+ quakes just hit from Barbados to the Pacific!"
+    "seismicSummary": "\ud83d\udea8 Four M5+ earthquakes have just struck globally, spanning Barbados to the Pacific!"
 }
