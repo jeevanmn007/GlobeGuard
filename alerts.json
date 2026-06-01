@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence picture reveals a profound and accelerating convergence of systemic risks. Geopolitically, the escalating energy crisis is directly fueling widespread food insecurity and threatening critical infrastructure stability, as evidenced by the dire situation in Cuba and global fertilizer shortages, while the AI discourse highlights intense tech-geopolitical competition. Financial markets reflect this uncertainty, with a distinct pivot towards strategic AI and data intelligence assets (Microsoft, Palantir) even as broader tech giants face headwinds. This complex geopolitical and economic environment is underscored by a notable increase in global seismic activity across multiple regions, signaling an elevated physical threat landscape. Therefore, it is imperative to immediately secure assets and enhance safety protocols by (1) prioritizing comprehensive emergency preparedness, including robust off-grid power solutions, non-perishable provisions, and secure communication plans, especially in seismically vulnerable areas; (2) proactively diversifying and localizing critical resource acquisition, particularly for food and energy, to hedge against supply chain disruptions and grid vulnerabilities; and (3) strategically re-evaluating financial and operational investments, favoring resilient technologies and decentralized solutions that offer tangible utility and intelligence capabilities in an increasingly volatile world.",
+    "strategicPlan": "The global environment is currently characterized by a critical convergence of threats: a deepening energy crisis is driving unprecedented food insecurity and quality degradation, exemplified by critical grid failures and fertilizer shortages, while significant tectonic instability across the Pacific Rim poses immediate physical risks to infrastructure and supply lines. This geopolitical and physical volatility occurs against a backdrop of complex financial market behavior, where key tech sectors show resilience amidst broader economic pressures, and rapid AI and biotech advancements present both profound ethical challenges and strategic opportunities. To navigate this complex landscape, prioritize securing diversified, resilient energy and localized food reserves; concurrently, conduct immediate vulnerability assessments of critical infrastructure against both seismic events and grid failures, implementing robust contingency plans for physical safety and operational continuity; and strategically rebalance financial portfolios towards essential services and defensive technologies, leveraging AI/biotech for resilience while actively mitigating their inherent risks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.14 (-1.45%)",
+            "title": "\ud83d\udcb0 NVDA: $224.16 (6.17%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.06 (-0.14%)",
+            "title": "\ud83d\udcb0 AAPL: $307.91 (-1.33%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $450.24 (5.45%)",
+            "title": "\ud83d\udcb0 MSFT: $460.78 (2.34%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $156.54 (9.21%)",
+            "title": "\ud83d\udcb0 PLTR: $161.69 (3.29%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $270.64 (-1.23%)",
+            "title": "\ud83d\udcb0 AMZN: $262.55 (-2.99%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sps9"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Strong earthquakes, including a Mag 6 near Valpara\u00edso, Chile, are striking worldwide!"
+    "seismicSummary": "**URGENT: A magnitude 6.0 earthquake just struck Chile, among multiple significant quakes worldwide!**"
 }
