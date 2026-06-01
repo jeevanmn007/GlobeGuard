@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape is rapidly converging into a period of heightened instability: a deepening energy crisis is directly driving widespread food insecurity and declining nutritional value, exemplified by critical fertilizer shortages and regional infrastructure failures like the Cuba grid collapse. Financially, while some tech majors face slight corrections, the AI and data analytics sectors are surging, signaling a strategic shift in market value. This complex geopolitical and economic flux is underscored by a concerning uptick in significant seismic activity across the Pacific, including a Magnitude 6 event near Valpara\u00edso, Chile. To navigate these converging risks, prioritize immediate physical safety through diversified local food/energy reserves and robust emergency preparedness; protect assets by strategically rebalancing portfolios towards essential commodities, resilient infrastructure, and high-performing AI/data analytics; and fortify operational resilience by bolstering critical supply chain integrity and enhancing defenses against both physical and cyber threats to essential services.",
+    "strategicPlan": "The global landscape currently reflects a critical convergence of systemic threats: a rapidly escalating energy and food security crisis, already manifesting in widespread grid instability and resource scarcity, is coinciding with heightened and sustained seismic activity across key Pacific regions, demanding immediate attention to physical infrastructure resilience. Financially, while AI-centric tech continues to see targeted growth, the broader market shows underlying volatility. To navigate this complex environment, prioritize immediate and localized resilience by securing diversified, non-grid dependent energy solutions and establishing robust, localized food storage and procurement strategies. Concurrently, conduct immediate structural integrity assessments for critical assets located in seismically active zones and ensure comprehensive emergency preparedness protocols are in place for all personnel and facilities. Finally, re-evaluate technological dependencies and investment portfolios, shifting focus towards AI-driven analytics platforms and self-sustaining infrastructure to capitalize on emergent trends and mitigate systemic vulnerabilities.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 36 km NW of Valpara\u00edso, Chile",
+            "title": "\u26a0\ufe0f Mag 6 - 33 km NW of Valpara\u00edso, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqc"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splm"
         }
     ],
-    "seismicSummary": "**URGENT: A magnitude 6 earthquake just hit near Valpara\u00edso, Chile, alongside three magnitude 5 events across the Pacific!**"
+    "seismicSummary": "URGENT: A magnitude 6 earthquake just struck Chile, with multiple magnitude 5s reported elsewhere!"
 }
