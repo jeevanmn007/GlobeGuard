@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape currently reflects a critical convergence of systemic threats: a rapidly escalating energy and food security crisis, already manifesting in widespread grid instability and resource scarcity, is coinciding with heightened and sustained seismic activity across key Pacific regions, demanding immediate attention to physical infrastructure resilience. Financially, while AI-centric tech continues to see targeted growth, the broader market shows underlying volatility. To navigate this complex environment, prioritize immediate and localized resilience by securing diversified, non-grid dependent energy solutions and establishing robust, localized food storage and procurement strategies. Concurrently, conduct immediate structural integrity assessments for critical assets located in seismically active zones and ensure comprehensive emergency preparedness protocols are in place for all personnel and facilities. Finally, re-evaluate technological dependencies and investment portfolios, shifting focus towards AI-driven analytics platforms and self-sustaining infrastructure to capitalize on emergent trends and mitigate systemic vulnerabilities.",
+    "strategicPlan": "The global landscape is characterized by a rapidly intensifying confluence of systemic threats: a nascent, severe energy crisis is now actively degrading global food security through fertilizer shortages and reduced nutritional value, while critical infrastructure globally, exemplified by Cuba's grid collapse, demonstrates extreme fragility. Geopolitically, the rise of AI is generating ideological friction and a \"tech war\" dynamic, with financial markets reflecting a defensive pivot towards strategic AI and defense platforms like Microsoft and Palantir amidst broader market caution. This profound instability is underpinned by elevated global seismic activity, with significant quakes across major fault lines. To navigate this complex environment, first, immediately audit and bolster your essential food and energy reserves, prioritizing localized resilience and diversified supply chains against future disruptions. Second, review and harden all critical infrastructure against both systemic failures and increased natural disaster risks, ensuring robust emergency protocols and communication redundancies. Third, strategically re-align investment portfolios towards companies demonstrating proven resilience and those at the forefront of adaptive technologies, particularly in AI and security, while vigilantly monitoring market shifts for emerging risks and opportunities.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sppt"
+            "title": "\u26a0\ufe0f Mag 5.7 - Izu Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spru"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splv"
+            "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sprv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 72 km NW of Port-Vila, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000splm"
+            "title": "\u26a0\ufe0f Mag 5 - 264 km E of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sps9"
         }
     ],
-    "seismicSummary": "URGENT: A magnitude 6 earthquake just struck Chile, with multiple magnitude 5s reported elsewhere!"
+    "seismicSummary": "URGENT: A Mag 6 just struck Chile, amidst multiple strong quakes globally!"
 }
