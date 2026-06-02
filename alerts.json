@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is deteriorating, marked by an escalating energy crisis that directly threatens global food security through fertilizer shortages and reduced nutrient density, while simultaneously exposing critical infrastructure vulnerabilities as evidenced by Cuba's grid collapse. This systemic strain is further complicated by persistent, significant seismic activity, exemplified by the recent Mag 6.2 event in Italy, posing immediate physical risks and potential supply chain disruptions. While certain tech sectors show financial resilience, the fundamental threats to basic sustenance and stability demand urgent, proactive measures. To secure assets and ensure physical safety, immediately establish robust emergency reserves of energy and essential non-perishable provisions; concurrently, conduct comprehensive vulnerability assessments and reinforce critical infrastructure against both grid failures and seismic events, while strategically diversifying asset portfolios to include tangible assets resilient to escalating systemic risks.",
+    "strategicPlan": "The global intelligence landscape reveals a critical convergence of threats: a deepening, foundational energy crisis is actively degrading global food security through fertilizer shortages and diminished nutritional value, further evidenced by localized grid collapses. Simultaneously, significant seismic instability continues globally, highlighted by a Magnitude 6.2 event in Italy, posing direct physical risks. While financial markets show mixed signals with some AI-driven tech resilient amidst broader volatility, the overarching challenge is systemic vulnerability. To navigate this environment, immediately prioritize securing diverse essential food and energy reserves, fortify physical assets and ensure comprehensive emergency preparedness against geological events, and strategically diversify financial portfolios towards hard assets and critical infrastructure investments to hedge against escalating systemic disruptions.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spz7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - Macquarie Island region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spti"
+            "title": "\u26a0\ufe0f Mag 4.7 - 48 km E of Farkh\u0101r, Afghanistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spzq"
         }
     ],
-    "seismicSummary": "**Urgent: A major 6.2 magnitude earthquake struck near Scarcelli, Italy, with several other significant quakes reported globally!**"
+    "seismicSummary": "URGENT: A M6.2 earthquake just struck Italy, with multiple other quakes reported worldwide!"
 }
