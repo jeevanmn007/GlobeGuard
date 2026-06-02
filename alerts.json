@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is critically unstable, driven by a converging threat matrix encompassing geopolitical, economic, and physical tectonic pressures. An unprecedented energy crisis is rapidly exacerbating global food insecurity through fertilizer shortages and declining nutritional value, while critical infrastructure vulnerabilities are increasingly evident, as seen in Cuba's grid collapse. Concurrently, heightened seismic activity, with significant quakes across Italy, Japan, and Indonesia, poses immediate physical risks to global stability and infrastructure. Financially, while specific AI and data sectors demonstrate resilience, broader market volatility suggests underlying fragility, further complicated by the ethical and competitive dynamics of advancing AI technologies. To secure your assets and physical safety in this volatile climate, immediately prioritize the diversification and long-term storage of essential resources, including food and alternative energy, to hedge against escalating supply chain and nutritional risks. Simultaneously, conduct a comprehensive structural integrity assessment of all critical physical assets, establishing robust emergency communication and disaster response protocols tailored to potential seismic events and widespread infrastructure disruptions. Finally, strategically diversify financial portfolios to navigate market volatility, capitalizing on resilient sectors while fortifying digital security measures to safeguard vital information against evolving threats.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global operating environment is deteriorating, marked by an escalating energy crisis that directly threatens global food security through fertilizer shortages and reduced nutrient density, while simultaneously exposing critical infrastructure vulnerabilities as evidenced by Cuba's grid collapse. This systemic strain is further complicated by persistent, significant seismic activity, exemplified by the recent Mag 6.2 event in Italy, posing immediate physical risks and potential supply chain disruptions. While certain tech sectors show financial resilience, the fundamental threats to basic sustenance and stability demand urgent, proactive measures. To secure assets and ensure physical safety, immediately establish robust emergency reserves of energy and essential non-perishable provisions; concurrently, conduct comprehensive vulnerability assessments and reinforce critical infrastructure against both grid failures and seismic events, while strategically diversifying asset portfolios to include tangible assets resilient to escalating systemic risks.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.2 - 17 km WSW of Scarcelli, Italy",
+            "title": "\u26a0\ufe0f Mag 6.2 - 22 km WSW of Scarcelli, Italy",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spxm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - Izu Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spru"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 205 km WNW of Abepura, Indonesia",
+            "title": "\u26a0\ufe0f Mag 5.4 - 207 km WNW of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spya"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sprv"
+            "title": "\u26a0\ufe0f Mag 4.9 - 278 km WNW of Houma, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spz7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - Macquarie Island region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spti"
         }
     ],
-    "seismicSummary": "Mag 6.2 hits Italy, with other strong quakes striking worldwide!"
+    "seismicSummary": "**Urgent: A major 6.2 magnitude earthquake struck near Scarcelli, Italy, with several other significant quakes reported globally!**"
 }
