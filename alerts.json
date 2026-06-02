@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "Global intelligence indicates a converging severe risk landscape: a nascent, escalating global energy crisis is directly threatening food security and nutrition, while critical infrastructure shows fragility (e.g., Cuba). This resource scarcity will likely drive significant financial volatility, even as some tech sectors remain resilient. Concurrently, heightened seismic activity is observed across the Pacific Ring of Fire, signifying increased physical tectonic instability. To navigate this complex environment, first, secure diverse, non-perishable food and water supplies alongside evaluating alternative energy solutions to mitigate grid dependency; second, re-evaluate asset portfolios for resilience against resource-driven inflation and market volatility, considering diversification into tangible assets or essential service sectors; and third, reinforce emergency preparedness plans for seismic events and prolonged utility disruptions, ensuring robust communication and medical contingencies.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The global environment is critically unstable, driven by a converging threat matrix encompassing geopolitical, economic, and physical tectonic pressures. An unprecedented energy crisis is rapidly exacerbating global food insecurity through fertilizer shortages and declining nutritional value, while critical infrastructure vulnerabilities are increasingly evident, as seen in Cuba's grid collapse. Concurrently, heightened seismic activity, with significant quakes across Italy, Japan, and Indonesia, poses immediate physical risks to global stability and infrastructure. Financially, while specific AI and data sectors demonstrate resilience, broader market volatility suggests underlying fragility, further complicated by the ethical and competitive dynamics of advancing AI technologies. To secure your assets and physical safety in this volatile climate, immediately prioritize the diversification and long-term storage of essential resources, including food and alternative energy, to hedge against escalating supply chain and nutritional risks. Simultaneously, conduct a comprehensive structural integrity assessment of all critical physical assets, establishing robust emergency communication and disaster response protocols tailored to potential seismic events and widespread infrastructure disruptions. Finally, strategically diversify financial portfolios to navigate market volatility, capitalizing on resilient sectors while fortifying digital security measures to safeguard vital information against evolving threats.",
     "survival": [
         {
             "title": "The Invisible Force Making Food Less Nutritious",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.2 - 17 km WSW of Scarcelli, Italy",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spxm"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - Izu Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spru"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 205 km WNW of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spya"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sprv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 264 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sps9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Macquarie Island region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spti"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 5 earthquakes are striking across the globe, from Japan to the Southern Pacific!"
+    "seismicSummary": "Mag 6.2 hits Italy, with other strong quakes striking worldwide!"
 }
