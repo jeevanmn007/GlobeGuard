@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a critical convergence of threats: a deepening, foundational energy crisis is actively degrading global food security through fertilizer shortages and diminished nutritional value, further evidenced by localized grid collapses. Simultaneously, significant seismic instability continues globally, highlighted by a Magnitude 6.2 event in Italy, posing direct physical risks. While financial markets show mixed signals with some AI-driven tech resilient amidst broader volatility, the overarching challenge is systemic vulnerability. To navigate this environment, immediately prioritize securing diverse essential food and energy reserves, fortify physical assets and ensure comprehensive emergency preparedness against geological events, and strategically diversify financial portfolios towards hard assets and critical infrastructure investments to hedge against escalating systemic disruptions.",
+    "strategicPlan": "The global intelligence assessment indicates a critical confluence of threats: an escalating energy crisis is fundamentally destabilizing economies, precipitating widespread food insecurity, and exposing severe infrastructure vulnerabilities, as starkly demonstrated by Cuba's grid collapse. This economic volatility is further compounded by a fluctuating tech market and significant geopolitical friction surrounding AI development, while concurrently, a heightened physical threat is underscored by notable seismic events, including a Mag 6.2 in Italy. In response, GlobeGuard directs immediate action: **First**, fortify critical infrastructure and secure diversified, resilient supply chains for essential resources like energy, food, and water. **Second**, conduct a rapid stress-test of financial assets against energy shocks and tech market downturns, considering strategic hedges or reallocation towards stability. **Third**, update and drill comprehensive emergency preparedness plans, ensuring robust communication protocols and physical safety measures, especially for personnel and assets located in seismically active or infrastructurally vulnerable zones.",
     "survival": [
-        {
-            "title": "The Invisible Force Making Food Less Nutritious",
-            "link": "https://news.slashdot.org/story/26/05/01/0123239/the-invisible-force-making-food-less-nutritious"
-        },
         {
             "title": "The largest energy crisis in modern history is only beginning",
             "link": "https://www.semafor.com/article/05/05/2026/the-largest-energy-crisis-in-modern-history-is-only-beginning"
@@ -17,27 +13,31 @@
         {
             "title": "How fertilizer shortages caused by the energy crisis threaten food security",
             "link": "https://www.nature.com/articles/d41586-026-01409-8"
+        },
+        {
+            "title": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
+            "link": "https://www.bbc.com/news/articles/c0j2ep13le2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.36 (6.26%)",
+            "title": "\ud83d\udcb0 NVDA: $225.62 (0.56%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $306.31 (-1.84%)",
+            "title": "\ud83d\udcb0 AAPL: $310.32 (1.31%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $460.52 (2.28%)",
+            "title": "\ud83d\udcb0 MSFT: $443.35 (-3.73%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $160.65 (2.63%)",
+            "title": "\ud83d\udcb0 PLTR: $151.35 (-5.79%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.26 (-3.47%)",
+            "title": "\ud83d\udcb0 AMZN: $260.37 (-0.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spzq"
         }
     ],
-    "seismicSummary": "URGENT: A M6.2 earthquake just struck Italy, with multiple other quakes reported worldwide!"
+    "seismicSummary": "**Urgent: A major 6.2 magnitude earthquake has struck Italy, with multiple other significant quakes reported worldwide!**"
 }
