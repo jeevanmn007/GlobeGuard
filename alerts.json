@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating systemic risks: a deepening energy crisis driving widespread food insecurity exacerbated by geopolitical conflict in critical regions and acute infrastructure vulnerabilities. Financially, major tech stocks are experiencing notable declines, signaling market instability, while substantial seismic activity, including a Magnitude 6.2 earthquake in Italy, highlights persistent physical threats and potential for sudden regional disruption. To navigate this complex landscape, immediately secure liquid assets and diversify investment portfolios away from volatile tech, prioritizing resilience against inflation and supply chain shocks. Additionally, fortify operational continuity by bolstering energy independence and securing diversified, long-term food supplies. Finally, urgently review and update all emergency preparedness protocols, especially for natural disaster response and physical safety in seismically active areas.",
+    "strategicPlan": "The global operating environment is entering a period of critical instability, marked by a pervasive energy crisis escalating into widespread food insecurity and systemic threats to critical infrastructure, exemplified by Cuba's grid collapse. This geopolitical fragility coincides with significant financial market volatility, with major tech stocks largely declining, indicating broader economic uncertainty. Concurrently, increased global seismic activity, including a notable M6.2 earthquake in Italy, introduces an immediate physical risk. To secure assets and ensure physical safety in this complex landscape, first, establish critical energy and food supply chain redundancies to buffer against escalating scarcity and market shocks. Second, implement robust contingency plans for infrastructure disruptions, focusing on resilient power and communication alternatives. Third, conduct immediate seismic vulnerability assessments for all key assets and personnel, ensuring structural reinforcement and emergency readiness in high-risk zones.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $222.43 (-0.86%)",
+            "title": "\ud83d\udcb0 NVDA: $222.82 (-0.69%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.53 (2.68%)",
+            "title": "\ud83d\udcb0 AAPL: $315.2 (2.9%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $441.83 (-4.06%)",
+            "title": "\ud83d\udcb0 MSFT: $441.31 (-4.17%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $152.51 (-5.06%)",
+            "title": "\ud83d\udcb0 PLTR: $152.17 (-5.28%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.42 (-1.09%)",
+            "title": "\ud83d\udcb0 AMZN: $256.52 (-1.81%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spzq"
         }
     ],
-    "seismicSummary": "**Urgent: A M6.2 earthquake just struck near Scarcelli, Italy, with other significant seismic activity reported globally!**"
+    "seismicSummary": "URGENT: Multiple earthquakes reported, with a major M6.2 in Italy!"
 }
