@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is entering a period of critical instability, marked by a pervasive energy crisis escalating into widespread food insecurity and systemic threats to critical infrastructure, exemplified by Cuba's grid collapse. This geopolitical fragility coincides with significant financial market volatility, with major tech stocks largely declining, indicating broader economic uncertainty. Concurrently, increased global seismic activity, including a notable M6.2 earthquake in Italy, introduces an immediate physical risk. To secure assets and ensure physical safety in this complex landscape, first, establish critical energy and food supply chain redundancies to buffer against escalating scarcity and market shocks. Second, implement robust contingency plans for infrastructure disruptions, focusing on resilient power and communication alternatives. Third, conduct immediate seismic vulnerability assessments for all key assets and personnel, ensuring structural reinforcement and emergency readiness in high-risk zones.",
+    "strategicPlan": "The global strategic landscape is rapidly deteriorating, marked by an accelerating and historic energy crisis, exacerbated by regional conflicts like the war in Iran driving widespread food and fertilizer shortages, and manifesting in critical infrastructure failures such as Cuba's grid collapse. This geopolitical instability is mirrored in significant volatility across financial markets, with key tech stocks experiencing notable declines. Concurrently, persistent moderate seismic activity across various global regions highlights an underlying physical vulnerability to natural phenomena. To secure assets and physical safety in this escalating environment, immediately prioritize the diversification and securing of essential resources and liquid capital, moving away from over-reliance on volatile markets. Furthermore, establish robust, redundant provisions for critical necessities like food, water, and independent power to withstand severe supply chain disruptions and infrastructure outages. Finally, fortify all personal and operational security protocols, ensuring comprehensive emergency preparedness plans are in place for both localized failures and potential natural hazards.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.2 - 22 km WSW of Scarcelli, Italy",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spxm"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 207 km WNW of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spya"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 278 km WNW of Houma, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spz7"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 48 km E of Farkh\u0101r, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spzq"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.6 - 232 km E of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq2c"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.6 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spzv"
         }
     ],
-    "seismicSummary": "URGENT: Multiple earthquakes reported, with a major M6.2 in Italy!"
+    "seismicSummary": "Four moderate earthquakes, including a Mag 4.9 near Tonga, just struck worldwide!"
 }
