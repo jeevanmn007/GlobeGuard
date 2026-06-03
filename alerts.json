@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is marked by a dangerous convergence of escalating crises: a severe and deepening energy crisis is directly fueling widespread food insecurity, exacerbated by active geopolitical conflicts in regions like Iran and critical infrastructure vulnerabilities evident in Cuba. This complex geopolitical instability is mirrored in a significant downturn across major tech markets, signaling broad economic anxiety. Concurrently, heightened physical threats are manifest through a cluster of moderate seismic events along the Pacific Ring of Fire, including a notable 5.7 magnitude quake off the Oregon coast, indicating elevated tectonic stress. Given this multifaceted environment, GlobeGuard advises immediate action to bolster resilience: first, secure your physical safety by updating and ensuring readily accessible emergency preparedness kits, sufficient for at least 72 hours, especially if located in seismically active zones or near critical infrastructure; second, fortify financial assets by diversifying portfolios beyond growth-oriented tech and into more resilient, inflation-hedged sectors, or by increasing liquid reserves; and third, mitigate supply chain risks by identifying critical dependencies for essential goods and exploring local sourcing alternatives or maintaining diversified personal reserves.",
+    "strategicPlan": "The global strategic environment is deteriorating rapidly, characterized by an escalating energy crisis directly impacting food security and critical infrastructure, concurrent with significant financial market downturns across key tech sectors and heightened global seismic activity. Amidst these profound geopolitical and physical stressors, systemic shifts surrounding AI further contribute to an uncertain future. To navigate this complex threat environment, immediate and decisive action is required: First, prioritize securing diverse and redundant energy and food supplies to fortify against infrastructure vulnerabilities and supply chain disruptions. Second, re-evaluate asset portfolios for resilience against market volatility, favoring liquidity and tangible holdings over speculative ventures. Third, implement robust emergency preparedness plans, particularly for seismic events, ensuring secure vital documents and redundant communication channels across all operational fronts.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,7 +21,7 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.63 (-3.23%)",
+            "title": "\ud83d\udcb0 NVDA: $214.75 (-3.62%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
@@ -29,15 +29,15 @@
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $428.27 (-2.95%)",
+            "title": "\ud83d\udcb0 MSFT: $427.34 (-3.17%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $142.04 (-6.65%)",
+            "title": "\ud83d\udcb0 PLTR: $142.2 (-6.55%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.2 (-2.85%)",
+            "title": "\ud83d\udcb0 AMZN: $250.02 (-2.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcu"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes, including a 5.7 off Oregon, just struck globally!"
+    "seismicSummary": "**Global alert: Several M5+ earthquakes just struck, including a 5.7 near Oregon!**"
 }
