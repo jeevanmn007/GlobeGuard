@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly deteriorating and interconnected risk environment. Geopolitical tensions, exemplified by an escalating energy crisis, the war in Iran's profound impact on global food supply, and widespread fertilizer shortages, are precipitating a severe humanitarian and economic crisis, further underscored by critical infrastructure failures like the Cuba grid collapse. This instability is mirrored in a significant downturn across major tech markets, signaling broader financial contraction and investor apprehension. Concurrently, elevated seismic activity, particularly along the Pacific Ring of Fire with multiple 5+ magnitude quakes, introduces an acute physical threat, underscoring systemic vulnerabilities. To navigate this complex landscape, GlobeGuard directs immediate action: first, **secure and diversify critical financial assets**, prioritizing liquidity and resilient investments amidst market volatility; second, **establish robust personal and organizational preparedness for resource scarcity**, focusing on food, water, and energy independence; and third, **rigorously review and fortify emergency response plans** for both infrastructure failures and elevated physical hazards, particularly in seismically active zones.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $222.82 (-0.69%)",
+            "title": "\ud83d\udcb0 NVDA: $217.21 (-2.52%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $315.2 (2.9%)",
+            "title": "\ud83d\udcb0 AAPL: $311.37 (-1.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $441.31 (-4.17%)",
+            "title": "\ud83d\udcb0 MSFT: $426.61 (-3.33%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $152.17 (-5.28%)",
+            "title": "\ud83d\udcb0 PLTR: $144.17 (-5.26%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.52 (-1.81%)",
+            "title": "\ud83d\udcb0 AMZN: $250.37 (-2.4%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 154 km WSW of Pistol River, Oregon",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq93"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.6 - Vanuatu region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq90"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 76 km S of Daroot-Korgon, Kyrgyzstan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq7x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - Pitcairn Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq6g"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - 6 km NW of El Cortezo, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq6f"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - 232 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq2c"
+            "title": "\u26a0\ufe0f Mag 5.08 - 64 km W of Petrolia, CA",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370186"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ quakes, up to 5.7 off Oregon, just struck globally!"
 }
