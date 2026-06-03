@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly deteriorating, marked by an accelerating and historic energy crisis, exacerbated by regional conflicts like the war in Iran driving widespread food and fertilizer shortages, and manifesting in critical infrastructure failures such as Cuba's grid collapse. This geopolitical instability is mirrored in significant volatility across financial markets, with key tech stocks experiencing notable declines. Concurrently, persistent moderate seismic activity across various global regions highlights an underlying physical vulnerability to natural phenomena. To secure assets and physical safety in this escalating environment, immediately prioritize the diversification and securing of essential resources and liquid capital, moving away from over-reliance on volatile markets. Furthermore, establish robust, redundant provisions for critical necessities like food, water, and independent power to withstand severe supply chain disruptions and infrastructure outages. Finally, fortify all personal and operational security protocols, ensuring comprehensive emergency preparedness plans are in place for both localized failures and potential natural hazards.",
+    "strategicPlan": "The global landscape is characterized by a rapidly escalating convergence of systemic risks. A deepening energy crisis is directly fueling widespread food insecurity through fertilizer shortages and exacerbating geopolitical conflicts, as seen in Iran, while revealing critical infrastructure vulnerabilities like Cuba's grid collapse. Financially, this instability is evident in significant downturns across key tech sector stocks. Underlying these immediate human and economic pressures, moderate seismic activity serves as a persistent reminder of our planet's inherent physical volatility. To secure assets and physical safety, prioritize securing diversified energy reserves and non-perishable food supplies; immediately review and de-risk investment portfolios, shifting towards liquidity and defensive assets; and reinforce critical infrastructure resilience while maintaining robust emergency protocols for potential grid failures and natural disaster response.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 278 km WNW of Houma, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spz7"
+            "title": "\u26a0\ufe0f Mag 4.9 - Pitcairn Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq6g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 48 km E of Farkh\u0101r, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spzq"
+            "title": "\u26a0\ufe0f Mag 4.6 - 6 km NW of El Cortezo, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq6f"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.6 - 232 km E of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq2c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.6 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spzv"
+            "title": "\u26a0\ufe0f Mag 4.57 - 6 km WNW of Kahaluu-Keauhou, Hawaii",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74975297"
         }
     ],
-    "seismicSummary": "Four moderate earthquakes, including a Mag 4.9 near Tonga, just struck worldwide!"
+    "seismicSummary": "**Multiple Mag 4.5-4.9 earthquakes just struck Pitcairn, Panama, Fiji, and Hawaii!**"
 }
