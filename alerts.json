@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by a rapidly escalating convergence of systemic risks. A deepening energy crisis is directly fueling widespread food insecurity through fertilizer shortages and exacerbating geopolitical conflicts, as seen in Iran, while revealing critical infrastructure vulnerabilities like Cuba's grid collapse. Financially, this instability is evident in significant downturns across key tech sector stocks. Underlying these immediate human and economic pressures, moderate seismic activity serves as a persistent reminder of our planet's inherent physical volatility. To secure assets and physical safety, prioritize securing diversified energy reserves and non-perishable food supplies; immediately review and de-risk investment portfolios, shifting towards liquidity and defensive assets; and reinforce critical infrastructure resilience while maintaining robust emergency protocols for potential grid failures and natural disaster response.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 76 km S of Daroot-Korgon, Kyrgyzstan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq7x"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - Pitcairn Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq6g"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.6 - 232 km E of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq2c"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.57 - 6 km WNW of Kahaluu-Keauhou, Hawaii",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74975297"
         }
     ],
-    "seismicSummary": "**Multiple Mag 4.5-4.9 earthquakes just struck Pitcairn, Panama, Fiji, and Hawaii!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
