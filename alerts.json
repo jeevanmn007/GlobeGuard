@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our current intelligence indicates a rapidly deteriorating global security environment, characterized by an escalating and unprecedented energy crisis, intensifying food insecurity driven by regional conflicts and fertilizer shortages, and critical infrastructure vulnerabilities exemplified by collapsing grids. While certain technology sectors demonstrate surprising market resilience, the foundational stability of global resource chains is under severe stress, compounded by persistent, moderate seismic activity across key geographic regions. To secure your assets and physical safety, prioritize the diversification and localization of critical resource acquisition, rigorously evaluate and rebalance financial portfolios towards resilient and tangible assets while maintaining strategic tech positions, and urgently reinforce comprehensive emergency preparedness plans, including off-grid capabilities and robust physical security.",
+    "strategicPlan": "The global landscape indicates a critical period of compounding crises, marked by an intensifying energy shortage, severe food insecurity exacerbated by the war in Iran and fertilizer supply disruptions, and immediate infrastructure vulnerabilities such as Cuba's grid collapse. While major tech stocks show resilience and AI dominates industry trends, underlying geopolitical friction and widespread moderate seismic activity across disparate regions (China, Peru, Tonga, Mid-Atlantic Ridge) underscore pervasive instability. To effectively mitigate these layered threats, GlobeGuard directs you to secure your assets by diversifying investment portfolios towards essential resources and resilient sectors, enhance physical safety through robust emergency preparedness, including reliable energy alternatives and communication plans, and maintain acute vigilance on regional conflict escalations and critical supply chain vulnerabilities.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.54 (-1.49%)",
+            "title": "\ud83d\udcb0 NVDA: $219.24 (2.09%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.02 (0.24%)",
+            "title": "\ud83d\udcb0 AAPL: $311.27 (0.33%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $433.7 (1.49%)",
+            "title": "\ud83d\udcb0 MSFT: $427.3 (-0.01%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $145.21 (2.12%)",
+            "title": "\ud83d\udcb0 PLTR: $140.89 (-0.92%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.24 (1.69%)",
+            "title": "\ud83d\udcb0 AMZN: $253.8 (1.51%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 202 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcw"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 39 km NE of San Fernando, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcu"
+            "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNW of Huocheng, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqlk"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 48 km SW of Santiago de Cao, Peru",
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 72 km SE of Pangai, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqf7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqim"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just reported in Russia, Peru, and Tonga!"
+    "seismicSummary": "Multiple ~Mag 4.9 earthquakes are striking across the globe!"
 }
