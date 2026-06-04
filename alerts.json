@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically stressed by a deepening energy crisis driving widespread food insecurity and critical infrastructure fragility, exemplified by the Cuba grid collapse and the war in Iran's impact on supply chains; this geopolitical instability is mirrored by a significant downturn across major tech financial markets and compounded by concurrent, elevated seismic activity across key Pacific Rim regions, indicating a multifaceted and escalating threat landscape. To navigate this, immediately prioritize the diversification of financial assets towards tangible, resilient holdings; secure a robust emergency preparedness kit including non-perishable food, water, and off-grid power solutions sufficient for extended self-sufficiency; and establish clear communication and evacuation plans, particularly if located in seismically active zones or near critical infrastructure.",
+    "strategicPlan": "Our current intelligence indicates a rapidly deteriorating global security environment, characterized by an escalating and unprecedented energy crisis, intensifying food insecurity driven by regional conflicts and fertilizer shortages, and critical infrastructure vulnerabilities exemplified by collapsing grids. While certain technology sectors demonstrate surprising market resilience, the foundational stability of global resource chains is under severe stress, compounded by persistent, moderate seismic activity across key geographic regions. To secure your assets and physical safety, prioritize the diversification and localization of critical resource acquisition, rigorously evaluate and rebalance financial portfolios towards resilient and tangible assets while maintaining strategic tech positions, and urgently reinforce comprehensive emergency preparedness plans, including off-grid capabilities and robust physical security.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.75 (-3.62%)",
+            "title": "\ud83d\udcb0 NVDA: $211.54 (-1.49%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.26 (-1.57%)",
+            "title": "\ud83d\udcb0 AAPL: $311.02 (0.24%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $427.34 (-3.17%)",
+            "title": "\ud83d\udcb0 MSFT: $433.7 (1.49%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $142.2 (-6.55%)",
+            "title": "\ud83d\udcb0 PLTR: $145.21 (2.12%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $250.02 (-2.53%)",
+            "title": "\ud83d\udcb0 AMZN: $254.24 (1.69%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 154 km WSW of Pistol River, Oregon",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq93"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 202 km SSE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcw"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 62 km W of Petrolia, CA",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370186"
+            "title": "\u26a0\ufe0f Mag 4.9 - 48 km SW of Santiago de Cao, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqi3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 72 km SE of Pangai, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqf7"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just hit across the globe!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just reported in Russia, Peru, and Tonga!"
 }
