@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is currently characterized by a critical convergence of threats: a rapidly escalating energy crisis is actively fueling widespread food insecurity and geopolitical instability, as evidenced by the conflict in Iran and the grid collapse in Cuba, directly translating into significant market downturns across major tech sectors. This profound economic and social volatility is underscored by concurrent, widespread seismic activity, including a notable M5.7 event off the US Pacific coast, indicating a heightened physical risk environment globally. Given this complex interplay of geopolitical instability, economic contraction, and physical threats, it is imperative to immediately fortify resilience across all vectors. First, secure robust non-perishable food and water supplies for at least 30 days, coupled with diversified personal energy sources to mitigate escalating energy and food insecurity. Second, re-evaluate financial portfolios for defensive assets, ensure significant liquid reserves, and consider inflation-hedged investments to safeguard against further market volatility. Third, update and practice comprehensive emergency preparedness plans for physical safety, focusing on structural integrity assessments, establishing redundant communication systems, and assembling grab-and-go kits for all family members.",
+    "strategicPlan": "The global environment is critically stressed by a deepening energy crisis driving widespread food insecurity and critical infrastructure fragility, exemplified by the Cuba grid collapse and the war in Iran's impact on supply chains; this geopolitical instability is mirrored by a significant downturn across major tech financial markets and compounded by concurrent, elevated seismic activity across key Pacific Rim regions, indicating a multifaceted and escalating threat landscape. To navigate this, immediately prioritize the diversification of financial assets towards tangible, resilient holdings; secure a robust emergency preparedness kit including non-perishable food, water, and off-grid power solutions sufficient for extended self-sufficiency; and establish clear communication and evacuation plans, particularly if located in seismically active zones or near critical infrastructure.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq93"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - Vanuatu region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq90"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 202 km SSE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcw"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 39 km NE of San Fernando, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcu"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 62 km W of Petrolia, CA",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370186"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes just struck globally, including Oregon!"
+    "seismicSummary": "Multiple M5 earthquakes just hit across the globe!"
 }
