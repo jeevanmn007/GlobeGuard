@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape indicates a critical period of compounding crises, marked by an intensifying energy shortage, severe food insecurity exacerbated by the war in Iran and fertilizer supply disruptions, and immediate infrastructure vulnerabilities such as Cuba's grid collapse. While major tech stocks show resilience and AI dominates industry trends, underlying geopolitical friction and widespread moderate seismic activity across disparate regions (China, Peru, Tonga, Mid-Atlantic Ridge) underscore pervasive instability. To effectively mitigate these layered threats, GlobeGuard directs you to secure your assets by diversifying investment portfolios towards essential resources and resilient sectors, enhance physical safety through robust emergency preparedness, including reliable energy alternatives and communication plans, and maintain acute vigilance on regional conflict escalations and critical supply chain vulnerabilities.",
+    "strategicPlan": "The global strategic environment is critically unstable, characterized by an escalating, foundational energy crisis that is exacerbating widespread food insecurity due to regional conflicts and compounding infrastructure vulnerabilities, as evidenced by Cuba's grid collapse. Despite general resilience in major tech equities, this sector faces increasing ethical and regulatory pressure, posing future friction points. This dynamic human-made complexity is underscored by persistent, moderate global tectonic activity, posing an ongoing physical threat across diverse regions. Therefore, GlobeGuard directs immediate action to: 1) Secure and diversify critical energy and food reserves to build resilience against pervasive supply chain disruptions and resource scarcity; 2) Strategically re-evaluate financial portfolios for exposure to systemic shocks, ensuring diversification beyond current tech market trends while closely monitoring evolving AI ethical and regulatory landscapes; and 3) Implement robust, localized disaster preparedness protocols, including redundant power systems and comprehensive emergency supplies, to safeguard physical assets and personnel against both infrastructure failures and seismic events.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.24 (2.09%)",
+            "title": "\ud83d\udcb0 NVDA: $218.66 (1.82%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.27 (0.33%)",
+            "title": "\ud83d\udcb0 AAPL: $311.23 (0.31%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $427.3 (-0.01%)",
+            "title": "\ud83d\udcb0 MSFT: $428.05 (0.17%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $140.89 (-0.92%)",
+            "title": "\ud83d\udcb0 PLTR: $141.7 (-0.35%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.8 (1.51%)",
+            "title": "\ud83d\udcb0 AMZN: $253.79 (1.51%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -51,15 +51,19 @@
             "link": "https://gizmodo.com/mistral-ceo-says-the-popes-comments-are-a-big-problem-for-europes-war-on-american-tech-2000764700"
         },
         {
-            "title": "\u2018De-Extinction\u2019 Start-up Just Hatched Baby Chicks From a 3D-Printed Artificial Egg",
-            "link": "https://gizmodo.com/de-extinction-start-up-just-hatched-baby-chicks-from-a-3d-printed-artificial-egg-2000760190"
+            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+            "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/"
         },
         {
-            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-            "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/"
+            "title": "\u2018De-Extinction\u2019 Start-up Just Hatched Baby Chicks From a 3D-Printed Artificial Egg",
+            "link": "https://gizmodo.com/de-extinction-start-up-just-hatched-baby-chicks-from-a-3d-printed-artificial-egg-2000760190"
         }
     ],
     "seismic": [
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 70 km SW of Modisi, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqnh"
+        },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNW of Huocheng, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqlk"
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 72 km SE of Pangai, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqf7"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqim"
         }
     ],
-    "seismicSummary": "Multiple ~Mag 4.9 earthquakes are striking across the globe!"
+    "seismicSummary": "\ud83d\udea8 Four Mag 4.9 earthquakes just reported worldwide!"
 }
