@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, characterized by an escalating, foundational energy crisis that is exacerbating widespread food insecurity due to regional conflicts and compounding infrastructure vulnerabilities, as evidenced by Cuba's grid collapse. Despite general resilience in major tech equities, this sector faces increasing ethical and regulatory pressure, posing future friction points. This dynamic human-made complexity is underscored by persistent, moderate global tectonic activity, posing an ongoing physical threat across diverse regions. Therefore, GlobeGuard directs immediate action to: 1) Secure and diversify critical energy and food reserves to build resilience against pervasive supply chain disruptions and resource scarcity; 2) Strategically re-evaluate financial portfolios for exposure to systemic shocks, ensuring diversification beyond current tech market trends while closely monitoring evolving AI ethical and regulatory landscapes; and 3) Implement robust, localized disaster preparedness protocols, including redundant power systems and comprehensive emergency supplies, to safeguard physical assets and personnel against both infrastructure failures and seismic events.",
+    "strategicPlan": "The global landscape is entering a period of acute systemic instability, marked by a burgeoning energy crisis that is directly fueling unprecedented food insecurity and supply chain fragility, evident in geopolitical conflicts and critical infrastructure failures like Cuba's grid collapse. While select technology sectors display isolated growth, this financial resilience belies escalating geopolitical tensions and a heightened risk of broader economic contagion. Concurrently, sustained, widespread moderate seismic activity across multiple continents serves as a constant reminder of underlying physical vulnerabilities, challenging global stability on multiple fronts. In response, GlobeGuard advises immediate action: first, prioritize securing essential resources by diversifying energy sources and establishing robust, localized food reserves; second, fortify financial assets through strategic portfolio diversification and ensuring adequate liquidity against systemic shocks; and third, implement comprehensive emergency preparedness protocols, including off-grid solutions and disaster response plans, to enhance physical safety and operational continuity.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqi3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 72 km SE of Pangai, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqf7"
+            "title": "\u26a0\ufe0f Mag 4.8 - 166 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqn7"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Four Mag 4.9 earthquakes just reported worldwide!"
+    "seismicSummary": "Alert! Multiple Mag 4.9 earthquakes have just struck across the globe!"
 }
