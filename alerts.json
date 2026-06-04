@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is deteriorating rapidly, characterized by an escalating energy crisis directly impacting food security and critical infrastructure, concurrent with significant financial market downturns across key tech sectors and heightened global seismic activity. Amidst these profound geopolitical and physical stressors, systemic shifts surrounding AI further contribute to an uncertain future. To navigate this complex threat environment, immediate and decisive action is required: First, prioritize securing diverse and redundant energy and food supplies to fortify against infrastructure vulnerabilities and supply chain disruptions. Second, re-evaluate asset portfolios for resilience against market volatility, favoring liquidity and tangible holdings over speculative ventures. Third, implement robust emergency preparedness plans, particularly for seismic events, ensuring secure vital documents and redundant communication channels across all operational fronts.",
+    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic vulnerabilities: a rapidly intensifying energy crisis is now overtly contributing to widespread food insecurity, exacerbated by geopolitical conflicts and infrastructure fragility, as financial markets reflect this instability with a broad downturn across key tech sectors. Simultaneously, a notable increase in magnitude 5+ seismic events across the Pacific Ring of Fire introduces an immediate and significant physical threat to affected regions. To navigate this complex and volatile environment, GlobeGuard advises three urgent, actionable steps: first, proactively secure essential resource independence by fortifying critical supply chains and establishing robust reserves for energy, food, and water; second, re-evaluate and de-risk financial portfolios, prioritizing liquidity and diversifying investments into resilient, tangible assets; and third, meticulously review and update all emergency preparedness and continuity plans, with particular emphasis on seismic response protocols, to ensure the physical safety of personnel and the operational integrity of assets in high-risk zones.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqcu"
         }
     ],
-    "seismicSummary": "**Global alert: Several M5+ earthquakes just struck, including a 5.7 near Oregon!**"
+    "seismicSummary": "Urgent: Multiple strong earthquakes, including a 5.7 near Oregon, have just struck globally!"
 }
