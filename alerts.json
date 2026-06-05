@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is entering a period of acute systemic instability, marked by a burgeoning energy crisis that is directly fueling unprecedented food insecurity and supply chain fragility, evident in geopolitical conflicts and critical infrastructure failures like Cuba's grid collapse. While select technology sectors display isolated growth, this financial resilience belies escalating geopolitical tensions and a heightened risk of broader economic contagion. Concurrently, sustained, widespread moderate seismic activity across multiple continents serves as a constant reminder of underlying physical vulnerabilities, challenging global stability on multiple fronts. In response, GlobeGuard advises immediate action: first, prioritize securing essential resources by diversifying energy sources and establishing robust, localized food reserves; second, fortify financial assets through strategic portfolio diversification and ensuring adequate liquidity against systemic shocks; and third, implement comprehensive emergency preparedness protocols, including off-grid solutions and disaster response plans, to enhance physical safety and operational continuity.",
+    "strategicPlan": "The global strategic landscape is rapidly deteriorating into a period of profound instability, characterized by an accelerating, multi-faceted energy crisis directly fueling widespread food insecurity and exacerbating regional conflicts such as the war in Iran and localized infrastructure failures like Cuba's grid collapse. While major tech stocks demonstrate a surprising resilience amidst these geopolitical and economic stressors, societal scrutiny over AI ethics and data center energy consumption is intensifying. Beneath this volatile surface, moderate seismic activity across diverse regions underscores persistent physical vulnerabilities. To navigate this environment, we advise three immediate actions: first, aggressively diversify and localize essential resource procurement, particularly energy and food supplies, to mitigate systemic supply chain shocks. Second, critically re-evaluate and de-risk financial portfolios, favoring assets resilient to inflation and geopolitical turmoil, while closely monitoring the long-term energy demands of the tech sector. Third, fortify critical physical infrastructure against both natural disasters and grid interruptions, concurrently updating and rehearsing comprehensive emergency preparedness protocols.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 77 km S of Gorontalo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqrh"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 70 km SW of Modisi, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqnh"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 48 km SW of Santiago de Cao, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqi3"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 166 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqn7"
         }
     ],
-    "seismicSummary": "Alert! Multiple Mag 4.9 earthquakes have just struck across the globe!"
+    "seismicSummary": "\ud83d\udea8 Global alerts for multiple earthquakes up to magnitude 5.2!"
 }
