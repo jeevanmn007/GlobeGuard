@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a severe, interconnected energy crisis that is exacerbating geopolitical instability, most notably with the war in Iran, driving widespread food insecurity through fertilizer shortages, and exposing critical infrastructure fragilities as seen in Cuba's grid collapse. This volatile environment is mirrored in financial markets, where major tech companies show declining valuations amidst increasing societal scrutiny over their energy demands and ethical implications, even as tectonic activity remains a constant physical threat with significant seismic events reported across multiple regions globally. To secure assets and physical safety, prioritize immediate efforts to diversify critical resource supply chains\u2014especially for energy and food\u2014and bolster essential utility resilience; reinforce digital asset protection and conduct a thorough reassessment of exposure to volatile financial and technological markets; and finally, conduct urgent physical site assessments for vulnerabilities to both natural disasters and escalating geopolitical flashpoints.",
+    "strategicPlan": "The current global intelligence picture reveals a rapidly deteriorating environment marked by an escalating, foundational energy crisis that is directly exacerbating global food insecurity and geopolitical tensions, exemplified by the war in Iran and widespread grid instability. This systemic pressure is reflected in significant downturns across key tech stocks, signaling market fragility and potential regulatory headwinds for the digital economy, especially concerning AI infrastructure. Concurrently, sustained moderate seismic activity across the Pacific Ring of Fire underscores persistent physical threats in vulnerable regions, requiring heightened situational awareness. To navigate this complex threat matrix, immediately prioritize three actions: First, **fortify essential resource autonomy** by securing diversified energy sources and establishing a minimum 30-day supply of food and critical provisions to buffer against supply chain disruptions. Second, **re-evaluate digital and financial asset exposure**, implementing robust cybersecurity measures and strategically diversifying investments away from volatile tech sectors, considering the emerging regulatory landscape for AI. Third, for personnel and assets in seismically active zones, **verify and update emergency response protocols**, including evacuation plans and resilient communication strategies, to mitigate risks from natural disasters.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $213.31 (-2.45%)",
+            "title": "\ud83d\udcb0 NVDA: $208.26 (-4.76%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.4 (0.7%)",
+            "title": "\ud83d\udcb0 AAPL: $312.02 (0.25%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $425.35 (-0.63%)",
+            "title": "\ud83d\udcb0 MSFT: $419.49 (-2.0%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $138.35 (-2.36%)",
+            "title": "\ud83d\udcb0 PLTR: $137.1 (-3.24%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.68 (-0.04%)",
+            "title": "\ud83d\udcb0 AMZN: $252.9 (-0.35%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 97 km NNE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqvk"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 7 km NNW of Manito, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squy"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - Pacific-Antarctic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squw"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 77 km S of Gorontalo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqrh"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 103 km NNW of Villa General Roca, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqtb"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 126 km SE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqtv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 70 km SW of Modisi, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqnh"
         }
     ],
-    "seismicSummary": "Multiple Mag 4.9-5.2 earthquakes just struck worldwide!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide!"
 }
