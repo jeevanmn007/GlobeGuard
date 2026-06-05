@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "We are entering a period of pronounced global instability marked by a cascading energy crisis fueling widespread food insecurity and inflation, intensified by ongoing geopolitical conflicts and critical infrastructure failures, a severe economic pressure reflected in a significant downturn across key equity markets, especially in the tech sector. Concurrently, moderate but persistent seismic activity across vulnerable regions underscores the ever-present physical threats that can further disrupt fragile systems. To navigate this complex landscape, prioritize financial resilience by shifting exposure from volatile tech towards diversified, inflation-resistant assets and essential physical commodities; enhance resource security by establishing robust personal and organizational reserves of energy, food, and water, while reviewing emergency response plans for infrastructure disruptions and natural hazards; and maintain acute strategic awareness of evolving geopolitical dynamics impacting critical supply chains and energy security, adapting strategies to anticipate the societal and regulatory impacts of emerging technologies like AI.",
+    "strategicPlan": "The global strategic environment is confronting a grave convergence of threats: an accelerating, systemic energy and food crisis exacerbated by geopolitical conflict in Iran and critical infrastructure failures like Cuba's grid collapse, mirrored by a significant downturn across major technology markets. This instability is compounded by an elevated global seismic activity profile, posing inherent physical risks. Consequently, to safeguard assets and ensure physical safety, we advise immediately diversifying investment portfolios towards stable, resilient sectors and away from volatile tech, fortifying personal and community-level food, water, and energy reserves to enhance supply chain independence, and meticulously updating emergency response protocols and physical site security measures, especially for potential seismic events and widespread infrastructure disruptions.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $205.54 (-6.0%)",
+            "title": "\ud83d\udcb0 NVDA: $205.1 (-6.2%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.33 (-0.61%)",
+            "title": "\ud83d\udcb0 AAPL: $307.34 (-1.25%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $417.12 (-2.55%)",
+            "title": "\ud83d\udcb0 MSFT: $416.67 (-2.66%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.82 (-4.85%)",
+            "title": "\ud83d\udcb0 PLTR: $135.53 (-4.35%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $247.92 (-2.31%)",
+            "title": "\ud83d\udcb0 AMZN: $246.03 (-3.06%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzx"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 97 km NNE of Lospalos, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqvk"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Pacific-Antarctic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squw"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 77 km S of Gorontalo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqrh"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5 earthquakes reported across various regions!**"
+    "seismicSummary": "**\u26a0\ufe0f Four M5+ earthquakes reported across diverse regions.**"
 }
