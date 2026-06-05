@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly deteriorating into a period of profound instability, characterized by an accelerating, multi-faceted energy crisis directly fueling widespread food insecurity and exacerbating regional conflicts such as the war in Iran and localized infrastructure failures like Cuba's grid collapse. While major tech stocks demonstrate a surprising resilience amidst these geopolitical and economic stressors, societal scrutiny over AI ethics and data center energy consumption is intensifying. Beneath this volatile surface, moderate seismic activity across diverse regions underscores persistent physical vulnerabilities. To navigate this environment, we advise three immediate actions: first, aggressively diversify and localize essential resource procurement, particularly energy and food supplies, to mitigate systemic supply chain shocks. Second, critically re-evaluate and de-risk financial portfolios, favoring assets resilient to inflation and geopolitical turmoil, while closely monitoring the long-term energy demands of the tech sector. Third, fortify critical physical infrastructure against both natural disasters and grid interruptions, concurrently updating and rehearsing comprehensive emergency preparedness protocols.",
+    "strategicPlan": "The global landscape is currently defined by a severe, interconnected energy crisis that is exacerbating geopolitical instability, most notably with the war in Iran, driving widespread food insecurity through fertilizer shortages, and exposing critical infrastructure fragilities as seen in Cuba's grid collapse. This volatile environment is mirrored in financial markets, where major tech companies show declining valuations amidst increasing societal scrutiny over their energy demands and ethical implications, even as tectonic activity remains a constant physical threat with significant seismic events reported across multiple regions globally. To secure assets and physical safety, prioritize immediate efforts to diversify critical resource supply chains\u2014especially for energy and food\u2014and bolster essential utility resilience; reinforce digital asset protection and conduct a thorough reassessment of exposure to volatile financial and technological markets; and finally, conduct urgent physical site assessments for vulnerabilities to both natural disasters and escalating geopolitical flashpoints.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.66 (1.82%)",
+            "title": "\ud83d\udcb0 NVDA: $213.31 (-2.45%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.23 (0.31%)",
+            "title": "\ud83d\udcb0 AAPL: $313.4 (0.7%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $428.05 (0.17%)",
+            "title": "\ud83d\udcb0 MSFT: $425.35 (-0.63%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $141.7 (-0.35%)",
+            "title": "\ud83d\udcb0 PLTR: $138.35 (-2.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.79 (1.51%)",
+            "title": "\ud83d\udcb0 AMZN: $253.68 (-0.04%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqrh"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 103 km NNW of Villa General Roca, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqtb"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 126 km SE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqtv"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 70 km SW of Modisi, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqnh"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 57 km NNW of Huocheng, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqlk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 48 km SW of Santiago de Cao, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqi3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Global alerts for multiple earthquakes up to magnitude 5.2!"
+    "seismicSummary": "Multiple Mag 4.9-5.2 earthquakes just struck worldwide!"
 }
