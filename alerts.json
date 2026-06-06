@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape signals a rapidly escalating crisis, characterized by an unprecedented energy shortage, geopolitical conflicts directly impacting global food supply, and widespread market contractions evident in significant tech stock declines. This complex instability is further underscored by persistent, moderate seismic activity across several key regions, posing an additional layer of physical risk. To fortify against these integrated threats, immediately prioritize securing diversified alternative energy sources and essential provisions for sustained self-sufficiency; re-evaluate financial portfolios to enhance resilience against market volatility, favoring tangible, defensible assets; and establish robust contingency plans for physical safety, including emergency communications and potential relocation strategies, especially for assets or personnel in high-risk zones.",
+    "strategicPlan": "The global environment is in a state of critical flux, marked by a rapidly accelerating and systemic energy crisis, escalating geopolitical instability evidenced by the conflict in Iran impacting global food supplies, and critical infrastructure failures as seen in Cuba. This pervasive instability is contributing to severe social distress and is reflected in a broad market downturn across major tech equities, indicating deep economic uncertainty. Concurrently, persistent moderate seismic activity across multiple tectonically active regions underscores underlying physical vulnerabilities, demanding heightened awareness for potential cascade effects. In light of these converging threats, **secure resilient, diversified energy and essential supply chains, particularly off-grid solutions, to mitigate against further infrastructure failures and commodity scarcity.** **Strategically de-risk financial portfolios by prioritizing liquidity and tangible assets, while preparing for prolonged economic volatility.** **Finally, update and drill comprehensive emergency preparedness plans, focusing on robust communication, secure shelter, and independent resource stockpiles to safeguard physical safety and continuity of operations against both social and geophysical disruptions.**",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squw"
         }
     ],
-    "seismicSummary": "Urgent: Four M5.3-M5.6 earthquakes just struck diverse global locations!"
+    "seismicSummary": "Multiple strong Mag 5+ earthquakes, including a 5.6, are striking worldwide!"
 }
