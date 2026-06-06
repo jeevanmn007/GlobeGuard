@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critical convergence of systemic risks: an escalating, multi-faceted energy crisis is directly fueling widespread food insecurity through severe fertilizer shortages, exacerbated by regional conflicts like the war in Iran and demonstrated infrastructure fragility such as Cuba's grid collapse. This precarious geopolitical and resource landscape is mirrored by significant financial market turbulence, with major tech stocks experiencing notable downturns indicative of broader economic uncertainty. Concurrently, persistent moderate seismic activity across various global regions, including the Pacific Ring of Fire and remote areas, underscores an underlying physical planetary unrest. Therefore, GlobeGuard's Strategic Directive is to immediately secure your financial holdings against continued market volatility; fortify physical resilience by prioritizing local energy independence and establishing robust food and water reserves to mitigate supply chain and grid vulnerabilities; and maintain heightened, proactive situational awareness regarding local infrastructure stability and evolving geopolitical flashpoints to anticipate and react effectively to emergent threats.",
+    "strategicPlan": "The global landscape signals a rapidly escalating crisis, characterized by an unprecedented energy shortage, geopolitical conflicts directly impacting global food supply, and widespread market contractions evident in significant tech stock declines. This complex instability is further underscored by persistent, moderate seismic activity across several key regions, posing an additional layer of physical risk. To fortify against these integrated threats, immediately prioritize securing diversified alternative energy sources and essential provisions for sustained self-sufficiency; re-evaluate financial portfolios to enhance resilience against market volatility, favoring tangible, defensible assets; and establish robust contingency plans for physical safety, including emergency communications and potential relocation strategies, especially for assets or personnel in high-risk zones.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -15,8 +15,8 @@
             "link": "https://abcnews.com/International/cuba-grid-collapse-situation-growing-dire-experts/story?id=133001706"
         },
         {
-            "title": "How fertilizer shortages caused by the energy crisis threaten food security",
-            "link": "https://www.nature.com/articles/d41586-026-01409-8"
+            "title": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
+            "link": "https://www.bbc.com/news/articles/c0j2ep13le2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
     ],
     "stock": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squw"
         }
     ],
-    "seismicSummary": "**Multiple M5+ earthquakes detected across diverse regions, including near populated areas!**"
+    "seismicSummary": "Urgent: Four M5.3-M5.6 earthquakes just struck diverse global locations!"
 }
