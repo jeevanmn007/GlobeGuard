@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence indicates a rapidly deteriorating global environment marked by an accelerating energy crisis and severe food insecurity, directly exacerbated by intensifying conflict in the Middle East and critical infrastructure failures like Cuba's grid collapse. This geopolitical instability is reflected in a significant, broad-based downturn across major financial markets, signaling a pervasive economic contraction, while persistent moderate seismic activity worldwide, especially along the Pacific Ring of Fire, underscores enduring natural hazard risks. To secure assets and physical safety, first, immediately review and diversify financial holdings towards stable assets, while simultaneously securing tangible reserves of essential commodities, including food, water, and independent energy. Second, activate or update comprehensive emergency preparedness plans, prioritizing responses to regional instability, potential grid failures, and natural disasters, particularly for personnel and assets in seismically active or conflict-prone areas. Third, maintain heightened vigilance on global supply chain integrity, energy market volatility, and escalating geopolitical hotspots, especially the Middle East, to enable proactive adaptation to evolving threats and localized disruptions.",
+    "strategicPlan": "The global strategic environment is rapidly deteriorating, marked by an escalating energy crisis, intensifying geopolitical conflicts generating widespread humanitarian crises and supply chain disruptions, and significant declines across major financial markets, particularly in tech. Concurrently, heightened global seismic activity, evidenced by multiple M5+ earthquakes across diverse regions, reminds us of persistent physical threats. Therefore, immediately secure personal and organizational resilience: first, diversify financial portfolios towards inflation-resistant assets and essential commodities to mitigate market volatility; second, bolster physical safety through robust emergency preparedness, including updated supply caches and communication plans; and third, critically assess and reinforce vital infrastructure against both physical and cascading failures, anticipating further strain from energy scarcity and geopolitical pressures.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr0g"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck globally!"
 }
