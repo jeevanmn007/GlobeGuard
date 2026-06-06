@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzx"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 221 km ENE of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
         },
@@ -73,8 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr4k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 2 km WSW of Santa Mar\u00eda, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr0g"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 47 km WSW of Magdalena, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr2y"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
