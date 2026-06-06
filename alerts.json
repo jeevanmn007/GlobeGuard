@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critical nexus of escalating threats: a burgeoning worldwide energy and food crisis intensified by geopolitical conflict and severe infrastructure fragility, exemplified by the Cuba grid collapse, is now compounded by a significant downturn across major technology stocks, signaling broader market instability. Concurrently, persistent, widespread seismic activity globally underscores ongoing physical risks that require immediate consideration. GlobeGuard directs principals to execute three urgent directives: first, secure diversified and resilient energy and food supply chains, mitigating critical dependencies and bolstering local reserves to preempt sustained resource scarcity. Second, rigorously re-evaluate all investment portfolios, prioritizing liquidity and defensive assets to navigate the observed tech sector volatility and broader market fragility. Third, proactively enhance physical safety and operational resilience by updating comprehensive emergency protocols for both grid failures and seismic events, focusing on immediate response capabilities and long-term recovery for all personnel and critical assets in vulnerable regions.",
+    "strategicPlan": "GlobeGuard's intelligence indicates a rapidly deteriorating global environment marked by an accelerating energy crisis and severe food insecurity, directly exacerbated by intensifying conflict in the Middle East and critical infrastructure failures like Cuba's grid collapse. This geopolitical instability is reflected in a significant, broad-based downturn across major financial markets, signaling a pervasive economic contraction, while persistent moderate seismic activity worldwide, especially along the Pacific Ring of Fire, underscores enduring natural hazard risks. To secure assets and physical safety, first, immediately review and diversify financial holdings towards stable assets, while simultaneously securing tangible reserves of essential commodities, including food, water, and independent energy. Second, activate or update comprehensive emergency preparedness plans, prioritizing responses to regional instability, potential grid failures, and natural disasters, particularly for personnel and assets in seismically active or conflict-prone areas. Third, maintain heightened vigilance on global supply chain integrity, energy market volatility, and escalating geopolitical hotspots, especially the Middle East, to enable proactive adaptation to evolving threats and localized disruptions.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 97 km NNE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqvk"
+            "title": "\u26a0\ufe0f Mag 5.2 - 2 km WSW of Santa Mar\u00eda, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 0 km SSW of Quetzalapa, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr0g"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes hitting globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes are striking worldwide!"
 }
