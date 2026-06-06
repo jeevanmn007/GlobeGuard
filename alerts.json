@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly deteriorating. We are experiencing an intensifying global energy and food crisis, exacerbated by active geopolitical conflicts and failing critical infrastructure, which is now manifesting as significant market volatility across key tech sectors, evidenced by widespread declines. This precarious environment is underscored by persistent global seismic activity, a constant reminder of inherent physical vulnerabilities. To navigate these converging threats, GlobeGuard must immediately: 1) Rebalance asset portfolios, prioritizing stability and securing critical resource inventories against escalating costs and supply chain disruptions; 2) Conduct rigorous audits of essential supply chains, particularly for food and energy, establishing robust contingency plans for potential grid failures and regional shortages; and 3) Elevate physical safety protocols, maintaining heightened situational awareness regarding geopolitical developments and factoring in comprehensive natural disaster preparedness.",
+    "strategicPlan": "The global landscape presents a critical nexus of escalating threats: a burgeoning worldwide energy and food crisis intensified by geopolitical conflict and severe infrastructure fragility, exemplified by the Cuba grid collapse, is now compounded by a significant downturn across major technology stocks, signaling broader market instability. Concurrently, persistent, widespread seismic activity globally underscores ongoing physical risks that require immediate consideration. GlobeGuard directs principals to execute three urgent directives: first, secure diversified and resilient energy and food supply chains, mitigating critical dependencies and bolstering local reserves to preempt sustained resource scarcity. Second, rigorously re-evaluate all investment portfolios, prioritizing liquidity and defensive assets to navigate the observed tech sector volatility and broader market fragility. Third, proactively enhance physical safety and operational resilience by updating comprehensive emergency protocols for both grid failures and seismic events, focusing on immediate response capabilities and long-term recovery for all personnel and critical assets in vulnerable regions.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzx"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 221 km ENE of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 97 km NNE of Lospalos, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqvk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 7 km NNW of Manito, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - Pacific-Antarctic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squw"
+            "title": "\u26a0\ufe0f Mag 5.1 - 0 km SSW of Quetzalapa, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes reported globally!"
+    "seismicSummary": "Multiple M5+ earthquakes hitting globally!"
 }
