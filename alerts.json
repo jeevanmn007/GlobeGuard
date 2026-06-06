@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is in a state of critical flux, marked by a rapidly accelerating and systemic energy crisis, escalating geopolitical instability evidenced by the conflict in Iran impacting global food supplies, and critical infrastructure failures as seen in Cuba. This pervasive instability is contributing to severe social distress and is reflected in a broad market downturn across major tech equities, indicating deep economic uncertainty. Concurrently, persistent moderate seismic activity across multiple tectonically active regions underscores underlying physical vulnerabilities, demanding heightened awareness for potential cascade effects. In light of these converging threats, **secure resilient, diversified energy and essential supply chains, particularly off-grid solutions, to mitigate against further infrastructure failures and commodity scarcity.** **Strategically de-risk financial portfolios by prioritizing liquidity and tangible assets, while preparing for prolonged economic volatility.** **Finally, update and drill comprehensive emergency preparedness plans, focusing on robust communication, secure shelter, and independent resource stockpiles to safeguard physical safety and continuity of operations against both social and geophysical disruptions.**",
+    "strategicPlan": "The global environment is signaling a critical inflection point, marked by a pervasive and intensifying energy crisis that is directly fueling geopolitical instability (e.g., Iran conflict impacting food supply) and infrastructure failures (Cuba's grid collapse), leading to widespread societal strain and significant drops across major tech equities. This complex financial and geopolitical pressure cooker is unfolding against a backdrop of notable, sustained seismic activity globally, indicating an elevated baseline of physical instability. To navigate this converging threat landscape, you must immediately: 1) Fortify your energy independence and essential resource supply chains, assessing vulnerabilities to grid failures and commodity shortages. 2) Re-evaluate and de-risk financial portfolios, prioritizing liquidity and defensive assets amidst significant market corrections. 3) Enhance physical preparedness, updating emergency plans and supplies, with particular attention to infrastructure resilience and potential geological events given the persistent seismic activity.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squw"
         }
     ],
-    "seismicSummary": "Multiple strong Mag 5+ earthquakes, including a 5.6, are striking worldwide!"
+    "seismicSummary": "Multiple M5+ earthquakes, including a 5.6, just reported!"
 }
