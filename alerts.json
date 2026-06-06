@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is rapidly deteriorating, marked by an escalating energy crisis, intensifying geopolitical conflicts generating widespread humanitarian crises and supply chain disruptions, and significant declines across major financial markets, particularly in tech. Concurrently, heightened global seismic activity, evidenced by multiple M5+ earthquakes across diverse regions, reminds us of persistent physical threats. Therefore, immediately secure personal and organizational resilience: first, diversify financial portfolios towards inflation-resistant assets and essential commodities to mitigate market volatility; second, bolster physical safety through robust emergency preparedness, including updated supply caches and communication plans; and third, critically assess and reinforce vital infrastructure against both physical and cascading failures, anticipating further strain from energy scarcity and geopolitical pressures.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "The largest energy crisis in modern history is only beginning",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 2 km WSW of Santa Mar\u00eda, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
+            "title": "\u26a0\ufe0f Mag 5.2 - 100 km ESE of Modisi, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr4k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr0g"
+            "title": "\u26a0\ufe0f Mag 5.2 - 2 km WSW of Santa Mar\u00eda, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
