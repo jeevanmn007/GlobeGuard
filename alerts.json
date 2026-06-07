@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence brief indicates an elevated and complex threat environment, marked by escalating geopolitical conflicts driving widespread humanitarian crises in food and energy security, evidenced by the Middle East's hunger crisis and Cuba's grid collapse. Simultaneously, financial markets are signaling significant instability with major tech downturns, while persistent, widespread seismic activity globally underscores ongoing physical threats. Therefore, effective risk mitigation requires immediate, comprehensive action: **First,** fortify your immediate supply chains and secure essential resources against geopolitical disruptions and energy scarcity. **Second,** re-evaluate and diversify financial portfolios towards resilient, liquid assets to hedge against market volatility. **Third,** ensure robust physical safety protocols and emergency preparedness are in place, specifically addressing seismic events and potential infrastructure failures.",
+    "strategicPlan": "The global strategic environment is exhibiting a critical convergence of threats: escalating geopolitical conflicts in the Middle East are directly driving widespread food and energy insecurity while simultaneously major tech financial markets are experiencing significant downturns, all against a backdrop of heightened, geographically diverse seismic activity. To fortify against these integrated risks, **first**, immediately assess and secure resilient, localized food and energy supply chains, prioritizing essential consumables and reducing reliance on vulnerable international routes; **second**, critically review financial portfolios for diversification, mitigating exposure to current market volatility by re-allocating assets to more stable sectors and hard assets; and **third**, reinforce physical safety protocols by updating emergency preparedness plans, including earthquake readiness, for both primary residences and critical assets, ensuring communication and evacuation strategies are current and rehearsed.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr6c"
+            "title": "\u26a0\ufe0f Mag 5.5 - 139 km SE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8v"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 221 km ENE of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
+            "title": "\u26a0\ufe0f Mag 5.4 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr6c"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 7 km W of Prok\u00f3pi, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7d"
         }
     ],
-    "seismicSummary": "Major M5+ earthquakes just hit worldwide, from Russia to Greece!"
+    "seismicSummary": "M6.1 earthquake near Severo-Kuril\u2019sk, Russia, tops multiple strong quakes reported worldwide!"
 }
