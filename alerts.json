@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "GlobeGuard assesses the global environment as critically unstable, characterized by escalating geopolitical conflicts, notably the war in Iran, which is severely disrupting global food and energy security, alongside a widespread contraction in major tech equities signaling deeper economic fragility. This precarious situation is compounded by a sustained pattern of elevated seismic activity across key global regions. To navigate this complex threat landscape, immediately prioritize securing financial assets by rebalancing portfolios towards defensive and resilient holdings; enhance household and community resilience through robust provisioning of essentials and emergency power, while evaluating local supply chain vulnerabilities; and critically, update and rehearse comprehensive emergency preparedness plans for both natural disasters and potential civil unrest, ensuring rapid response and communication protocols are in place.",
+    "strategicPlan": "Current global intelligence indicates a compounding threat landscape where escalating geopolitical conflicts, particularly in the Middle East, are severely impacting global food security and energy stability, evidenced by widespread hunger and critical infrastructure failures like Cuba's grid collapse. Simultaneously, a broad downturn across major tech stocks signals significant financial market instability and investor uncertainty. Underlying this instability is a concerning uptick in global seismic activity, with multiple moderate to strong quakes across disparate regions. To secure assets and physical safety, we advise three immediate actions: first, re-evaluate financial holdings to prioritize diversification and liquidity, safeguarding against further market volatility; second, ensure robust emergency provisions for food, water, and alternative energy sources, preparing for potential supply chain disruptions and grid vulnerabilities; and third, update and practice regional emergency and evacuation plans, acknowledging heightened seismic activity and localized infrastructure risks.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8v"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong earthquakes, including a Mag 6.1 near Russia, reported globally!**"
+    "seismicSummary": "**URGENT:** Multiple significant earthquakes (Mag 5.5-6.1), including a 6.1 in Russia, are striking globally."
 }
