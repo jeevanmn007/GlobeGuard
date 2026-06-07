@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape presents a converging threat profile: Geopolitically, escalating conflicts in the Middle East are driving widespread food and energy insecurity, exacerbated by infrastructure vulnerabilities such as Cuba's grid collapse and rising energy costs; financially, a significant downturn across major tech stocks signals pronounced market instability; and physically, a cluster of moderate (Mag 5+) seismic events across the Pacific Rim underscores persistent tectonic risks. In response, GlobeGuard directs immediate action: first, secure your physical safety by conducting a rapid audit of essential household provisions (non-perishable food, water, alternative energy) and reviewing local emergency plans for infrastructure resilience; second, safeguard your financial assets by diversifying holdings to include resilient, non-market-correlated assets and ensuring robust liquidity; and third, update personal and family emergency communication strategies, accounting for potential widespread disruptions.",
     "survival": [
-        {
-            "title": "The largest energy crisis in modern history is only beginning",
-            "link": "https://www.semafor.com/article/05/05/2026/the-largest-energy-crisis-in-modern-history-is-only-beginning"
-        },
         {
             "title": "How the war in Iran is affecting your dinner plate",
             "link": "https://www.scientificamerican.com/article/how-the-war-in-iran-is-affecting-your-dinner-plate/"
@@ -17,6 +13,10 @@
         {
             "title": "Middle East conflict pushing millions into hunger, WFP says",
             "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
+        },
+        {
+            "title": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
+            "link": "https://www.bbc.com/news/articles/c0j2ep13le2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
     ],
     "stock": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr4k"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple magnitude 5 earthquakes just struck the Pacific region!"
 }
