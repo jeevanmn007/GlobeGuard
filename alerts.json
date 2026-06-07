@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is currently characterized by a convergence of severe and escalating threats across geopolitical, financial, and physical domains. Geopolitically, ongoing conflicts in the Middle East are exacerbating a widespread humanitarian crisis and food insecurity, while critical infrastructure failures, exemplified by Cuba's grid collapse and the cost-of-living crisis in developed nations, underscore systemic vulnerabilities in energy and essential services. Financially, a broad downturn in major tech stocks signals significant economic headwinds and investor uncertainty. Concurrently, heightened global seismic activity, with multiple significant earthquakes across diverse regions, introduces an unpredictable and potent physical risk to infrastructure and populations. To effectively navigate this complex landscape, secure your assets, and ensure physical safety: first, prioritize the diversification and localization of essential resources, including food, water, and emergency supplies, to build resilience against supply chain disruptions and escalating costs. Second, conduct a thorough audit of critical personal and business infrastructure, focusing on establishing redundant communication systems and reliable backup power solutions. Third, immediately review and update all emergency protocols for physical hazards, reinforce structural integrity where applicable, and ensure robust, multi-channel communication plans are in place for all personnel and dependents in the event of a rapid-onset crisis.",
+    "strategicPlan": "GlobeGuard assesses the global environment as critically unstable, characterized by escalating geopolitical conflicts, notably the war in Iran, which is severely disrupting global food and energy security, alongside a widespread contraction in major tech equities signaling deeper economic fragility. This precarious situation is compounded by a sustained pattern of elevated seismic activity across key global regions. To navigate this complex threat landscape, immediately prioritize securing financial assets by rebalancing portfolios towards defensive and resilient holdings; enhance household and community resilience through robust provisioning of essentials and emergency power, while evaluating local supply chain vulnerabilities; and critically, update and rehearse comprehensive emergency preparedness plans for both natural disasters and potential civil unrest, ensuring rapid response and communication protocols are in place.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7l"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - Easter Island region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr9r"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 15 km WNW of Pun\u0101kha, Bhutan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr9j"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - 139 km SE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8v"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr6c"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes are striking globally, led by a M6.1 near Russia, with other significant activity in Bhutan and Fiji!"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes, including a Mag 6.1 near Russia, reported globally!**"
 }
