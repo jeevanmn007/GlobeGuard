@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global strategic landscape is defined by a critical convergence of escalating geopolitical instability, significant financial contraction, and persistent physical hazards. Conflicts in the Middle East are directly driving widespread food and energy insecurity, exacerbated by critical infrastructure failures like Cuba's grid collapse, while major tech stocks experience a broad downturn signaling deeper economic apprehension. Concurrently, persistent seismic activity across multiple regions reminds us of inherent physical threats, collectively elevating the global risk profile. This confluence demands immediate and focused attention to resilience. Therefore, you must: 1) Strategically re-evaluate and diversify financial portfolios by de-risking from volatile assets and considering stable alternatives; 2) Prioritize securing and decentralizing essential resources, including emergency food, water, and alternative energy, to build localized self-sufficiency against supply chain disruptions; and 3) Establish robust, decentralized communication channels and physical safety protocols to prepare for infrastructure failures and maintain critical situational awareness.",
+    "strategicPlan": "The current global intelligence brief indicates an elevated and complex threat environment, marked by escalating geopolitical conflicts driving widespread humanitarian crises in food and energy security, evidenced by the Middle East's hunger crisis and Cuba's grid collapse. Simultaneously, financial markets are signaling significant instability with major tech downturns, while persistent, widespread seismic activity globally underscores ongoing physical threats. Therefore, effective risk mitigation requires immediate, comprehensive action: **First,** fortify your immediate supply chains and secure essential resources against geopolitical disruptions and energy scarcity. **Second,** re-evaluate and diversify financial portfolios towards resilient, liquid assets to hedge against market volatility. **Third,** ensure robust physical safety protocols and emergency preparedness are in place, specifically addressing seismic events and potential infrastructure failures.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 22 km E of Venilale, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr5i"
+            "title": "\u26a0\ufe0f Mag 5.2 - 7 km W of Prok\u00f3pi, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7d"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes are striking globally!"
+    "seismicSummary": "Major M5+ earthquakes just hit worldwide, from Russia to Greece!"
 }
