@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a converging threat profile: Geopolitically, escalating conflicts in the Middle East are driving widespread food and energy insecurity, exacerbated by infrastructure vulnerabilities such as Cuba's grid collapse and rising energy costs; financially, a significant downturn across major tech stocks signals pronounced market instability; and physically, a cluster of moderate (Mag 5+) seismic events across the Pacific Rim underscores persistent tectonic risks. In response, GlobeGuard directs immediate action: first, secure your physical safety by conducting a rapid audit of essential household provisions (non-perishable food, water, alternative energy) and reviewing local emergency plans for infrastructure resilience; second, safeguard your financial assets by diversifying holdings to include resilient, non-market-correlated assets and ensuring robust liquidity; and third, update personal and family emergency communication strategies, accounting for potential widespread disruptions.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The global strategic landscape is defined by a critical convergence of escalating geopolitical instability, significant financial contraction, and persistent physical hazards. Conflicts in the Middle East are directly driving widespread food and energy insecurity, exacerbated by critical infrastructure failures like Cuba's grid collapse, while major tech stocks experience a broad downturn signaling deeper economic apprehension. Concurrently, persistent seismic activity across multiple regions reminds us of inherent physical threats, collectively elevating the global risk profile. This confluence demands immediate and focused attention to resilience. Therefore, you must: 1) Strategically re-evaluate and diversify financial portfolios by de-risking from volatile assets and considering stable alternatives; 2) Prioritize securing and decentralizing essential resources, including emergency food, water, and alternative energy, to build localized self-sufficiency against supply chain disruptions; and 3) Establish robust, decentralized communication channels and physical safety protocols to prepare for infrastructure failures and maintain critical situational awareness.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.1 - 124 km SE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7l"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr6c"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 22 km E of Venilale, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr5i"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 100 km ESE of Modisi, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr4k"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just struck the Pacific region!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes are striking globally!"
 }
