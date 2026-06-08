@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "Current global intelligence indicates a compounding threat landscape where escalating geopolitical conflicts, particularly in the Middle East, are severely impacting global food security and energy stability, evidenced by widespread hunger and critical infrastructure failures like Cuba's grid collapse. Simultaneously, a broad downturn across major tech stocks signals significant financial market instability and investor uncertainty. Underlying this instability is a concerning uptick in global seismic activity, with multiple moderate to strong quakes across disparate regions. To secure assets and physical safety, we advise three immediate actions: first, re-evaluate financial holdings to prioritize diversification and liquidity, safeguarding against further market volatility; second, ensure robust emergency provisions for food, water, and alternative energy sources, preparing for potential supply chain disruptions and grid vulnerabilities; and third, update and practice regional emergency and evacuation plans, acknowledging heightened seismic activity and localized infrastructure risks.",
+    "strategicPlan": "**Strategic Directive**\n\nThe current global landscape presents a complex and escalating threat matrix, characterized by profound geopolitical instability, significant financial market contractions, and heightened physical vulnerabilities. Geopolitically, the \"war in Iran\" and broader Middle East conflict are demonstrably driving global food insecurity and energy crises, exacerbating existing vulnerabilities as seen in Cuba's grid collapse and severe energy cost burdens in developed nations. Financially, major tech equities are experiencing notable downturns, signaling market volatility and potential economic headwinds. Concurrently, a concerning surge in high-magnitude seismic events, including a powerful M7.8 in the Philippines, M6.1 in Russia, and M5.6 in Bhutan, poses immediate physical threats to infrastructure and human safety, with the potential to further disrupt global supply chains. In this volatile environment, immediately secure your position by (1) establishing robust personal and operational energy redundancies and diversifying essential resource stockpiles, (2) urgently reviewing and practicing comprehensive natural disaster preparedness protocols, especially for seismic events, and (3) strengthening supply chain resilience to anticipate and mitigate further geopolitical and physical disruptions.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 7.8 - 24 km WSW of Burias, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srb1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6.1 - 124 km SE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7l"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.6 - 15 km WNW of Pun\u0101kha, Bhutan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr9j"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.5 - 139 km SE of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8v"
         }
     ],
-    "seismicSummary": "**URGENT:** Multiple significant earthquakes (Mag 5.5-6.1), including a 6.1 in Russia, are striking globally."
+    "seismicSummary": "Urgent: Multiple strong earthquakes are occurring globally, led by a major M7.8 in the Philippines!"
 }
