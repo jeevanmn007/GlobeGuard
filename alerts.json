@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "**Strategic Directive**\n\nThe current global landscape presents a complex and escalating threat matrix, characterized by profound geopolitical instability, significant financial market contractions, and heightened physical vulnerabilities. Geopolitically, the \"war in Iran\" and broader Middle East conflict are demonstrably driving global food insecurity and energy crises, exacerbating existing vulnerabilities as seen in Cuba's grid collapse and severe energy cost burdens in developed nations. Financially, major tech equities are experiencing notable downturns, signaling market volatility and potential economic headwinds. Concurrently, a concerning surge in high-magnitude seismic events, including a powerful M7.8 in the Philippines, M6.1 in Russia, and M5.6 in Bhutan, poses immediate physical threats to infrastructure and human safety, with the potential to further disrupt global supply chains. In this volatile environment, immediately secure your position by (1) establishing robust personal and operational energy redundancies and diversifying essential resource stockpiles, (2) urgently reviewing and practicing comprehensive natural disaster preparedness protocols, especially for seismic events, and (3) strengthening supply chain resilience to anticipate and mitigate further geopolitical and physical disruptions.",
+    "strategicPlan": "The global landscape demands immediate strategic attention, characterized by a potent confluence of escalating geopolitical instability, significant economic headwinds, and heightened physical threats. Geopolitically, active conflicts in the Middle East are severely impacting global food and energy supplies, intensifying humanitarian crises, while critical infrastructure vulnerabilities are evident from events like Cuba's grid collapse. Financially, a widespread downturn in major tech stocks signals broad market apprehension and potential economic contraction, exacerbated by these global uncertainties. Concurrently, a surge in seismic activity, including a powerful M7.8 earthquake in the Philippines, poses immediate physical dangers and logistical disruptions across vulnerable regions. In response, GlobeGuard directs all personnel to: 1) Immediately review and update personal and operational emergency preparedness protocols, focusing on seismic events, power outages, and potential supply chain disruptions; 2) Proactively secure critical financial and physical assets through diversification and establishing robust liquidity reserves against market volatility; and 3) Prioritize securing essential resource access, particularly food and energy, by strengthening local supply chains and maintaining adequate contingency reserves.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7.8 - 24 km WSW of Burias, Philippines",
+            "title": "\u26a0\ufe0f Mag 7.8 - 26 km SW of Kablalan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srb1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 6.5 - 19 km SW of Balangonan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcg"
         },
         {
             "title": "\u26a0\ufe0f Mag 6.1 - 124 km SE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - Easter Island region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr9r"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.6 - 15 km WNW of Pun\u0101kha, Bhutan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr9j"
+            "title": "\u26a0\ufe0f Mag 6 - 4 km ENE of Pangyan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes are occurring globally, led by a major M7.8 in the Philippines!"
+    "seismicSummary": "URGENT: Philippines just hit by a massive magnitude 7.8 earthquake and multiple other strong tremors!"
 }
