@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a critically elevated threat profile, stemming from an immediate, severe cluster of high-magnitude seismic events in the Philippines demanding urgent attention for physical safety and regional infrastructure stability. This acute physical threat is occurring amidst a rapidly deteriorating geopolitical and humanitarian crisis, underscored by escalating conflicts in the Middle East driving widespread food insecurity, critical energy grid vulnerabilities exemplified by Cuba's collapse, and mounting global cost-of-living pressures impacting basic survival. While the technology sector shows mixed financial signals and engages in ongoing ethical debates, these broader systemic shocks represent the most pervasive and immediate risk to global stability and resource access. To secure assets and ensure physical safety, GlobeGuard directs immediate activation of emergency response protocols for personnel and critical infrastructure in seismically active zones, particularly the Philippines; a comprehensive review and diversification of critical supply chains, especially for food and energy, to build resilience against geopolitical disruption and resource scarcity; and fortification of financial positions through robust cash reserves and strategic hedging against commodity volatility, while adjusting investment portfolios to mitigate exposure to heightened geopolitical risks.",
+    "strategicPlan": "The global intelligence brief indicates an escalating threat landscape marked by a critical convergence of systemic risks. Geopolitically, intensifying conflicts in the Middle East are severely impacting global food security and regional stability, compounded by critical infrastructure vulnerabilities as seen in Cuba. Financially, major tech stocks show volatility amidst increasing regulatory and ethical scrutiny, suggesting broader market headwinds. Most critically, heightened geophysical instability is evident with significant seismic events, including a powerful M7.8 in the Philippines and an M6.1 near Cuba, posing immediate physical threats. Therefore, we advise **first**, an immediate audit and reinforcement of emergency preparedness and asset resilience protocols, particularly for operations and personnel within seismically active zones, to mitigate physical and supply chain disruptions. **Second**, reassess and diversify financial asset portfolios, prioritizing stability against market volatility and geopolitical shocks, while also evaluating exposure to sectors facing increased regulatory pressure. **Third**, secure and localize critical resource dependencies, focusing on diversified food and energy supplies to build resilience against global supply chain disruptions and escalating costs.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.07 (1.94%)",
+            "title": "\ud83d\udcb0 NVDA: $207.45 (1.15%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.86 (2.12%)",
+            "title": "\ud83d\udcb0 AAPL: $302.43 (-1.6%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $410.28 (-1.53%)",
+            "title": "\ud83d\udcb0 MSFT: $411.64 (-1.21%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.14 (0.45%)",
+            "title": "\ud83d\udcb0 PLTR: $135.74 (0.15%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.23 (0.08%)",
+            "title": "\ud83d\udcb0 AMZN: $244.37 (-0.68%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6 - 4 km ENE of Pangyan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
+            "title": "\u26a0\ufe0f Mag 6.1 - 104 km WNW of Mantua, Cuba",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6 - 16 km WSW of Balangonan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srbe"
+            "title": "\u26a0\ufe0f Mag 6 - 4 km ENE of Pangyan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
         }
     ],
-    "seismicSummary": "Urgent: A 7.8 magnitude earthquake and multiple strong aftershocks have struck the Philippines."
+    "seismicSummary": "A major 7.8 magnitude earthquake has struck the Philippines amidst several other strong quakes, including a 6.1 in Cuba."
 }
