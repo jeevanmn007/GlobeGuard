@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief indicates an escalating threat landscape marked by a critical convergence of systemic risks. Geopolitically, intensifying conflicts in the Middle East are severely impacting global food security and regional stability, compounded by critical infrastructure vulnerabilities as seen in Cuba. Financially, major tech stocks show volatility amidst increasing regulatory and ethical scrutiny, suggesting broader market headwinds. Most critically, heightened geophysical instability is evident with significant seismic events, including a powerful M7.8 in the Philippines and an M6.1 near Cuba, posing immediate physical threats. Therefore, we advise **first**, an immediate audit and reinforcement of emergency preparedness and asset resilience protocols, particularly for operations and personnel within seismically active zones, to mitigate physical and supply chain disruptions. **Second**, reassess and diversify financial asset portfolios, prioritizing stability against market volatility and geopolitical shocks, while also evaluating exposure to sectors facing increased regulatory pressure. **Third**, secure and localize critical resource dependencies, focusing on diversified food and energy supplies to build resilience against global supply chain disruptions and escalating costs.",
+    "strategicPlan": "Global stability is rapidly deteriorating due to a convergence of severe, immediate threats. Geopolitically, widespread conflict in the Middle East is driving critical food and energy insecurity, exacerbating a growing cost-of-living crisis across multiple regions, exemplified by Cuba's complete grid collapse. This fragility is now critically compounded by a surge in major seismic activity, including a Magnitude 7.8 in the Philippines and a Magnitude 6.1 near Cuba, amplifying existing vulnerabilities and infrastructure risks. Financially, while certain tech sectors show resilience, key market leaders exhibit downward trends amidst broader geopolitical uncertainty and emerging regulatory debates around AI and data infrastructure. This confluence demands immediate, strategic action to safeguard assets and personnel.\n\n**Strategic Directive:**\n1.  **Prioritize robust emergency preparedness:** Given the severe global seismic activity and critical infrastructure failures, immediately review and update all emergency response plans, ensuring robust communication protocols, secure evacuation routes, and adequate supply caches for sustenance and medical needs, particularly for assets or personnel in tectonically active zones.\n2.  **Secure essential resource buffers:** With escalating global food and energy insecurity, establish diversified, localized stockpiles of non-perishable food, potable water, and alternative energy solutions to insulate operations and personnel from critical supply chain disruptions and escalating costs.\n3.  **Diversify and de-risk financial holdings:** Amidst increasing geopolitical volatility and mixed market signals, conduct an urgent review of all investment portfolios to ensure maximal diversification, favoring assets with proven resilience to systemic shocks and mitigating exposure to single points of failure, particularly in sectors highly susceptible to geopolitical instability or rapid regulatory shifts.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.45 (1.15%)",
+            "title": "\ud83d\udcb0 NVDA: $208.64 (1.73%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.43 (-1.6%)",
+            "title": "\ud83d\udcb0 AAPL: $301.54 (-1.89%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $411.64 (-1.21%)",
+            "title": "\ud83d\udcb0 MSFT: $411.74 (-1.18%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.74 (0.15%)",
+            "title": "\ud83d\udcb0 PLTR: $136.47 (0.69%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.37 (-0.68%)",
+            "title": "\ud83d\udcb0 AMZN: $245.22 (-0.33%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,7 +65,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srb1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.5 - 19 km SW of Balangonan, Philippines",
+            "title": "\u26a0\ufe0f Mag 6.5 - 20 km WSW of Balangonan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcg"
         },
         {
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6 - 4 km ENE of Pangyan, Philippines",
+            "title": "\u26a0\ufe0f Mag 6 - 6 km SSW of Pangyan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
         }
     ],
-    "seismicSummary": "A major 7.8 magnitude earthquake has struck the Philippines amidst several other strong quakes, including a 6.1 in Cuba."
+    "seismicSummary": "A powerful 7.8 magnitude earthquake has struck the Philippines, alongside multiple strong quakes there and a 6.1 near Cuba!"
 }
