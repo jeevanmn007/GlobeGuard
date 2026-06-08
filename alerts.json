@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Global stability is rapidly deteriorating due to a convergence of severe, immediate threats. Geopolitically, widespread conflict in the Middle East is driving critical food and energy insecurity, exacerbating a growing cost-of-living crisis across multiple regions, exemplified by Cuba's complete grid collapse. This fragility is now critically compounded by a surge in major seismic activity, including a Magnitude 7.8 in the Philippines and a Magnitude 6.1 near Cuba, amplifying existing vulnerabilities and infrastructure risks. Financially, while certain tech sectors show resilience, key market leaders exhibit downward trends amidst broader geopolitical uncertainty and emerging regulatory debates around AI and data infrastructure. This confluence demands immediate, strategic action to safeguard assets and personnel.\n\n**Strategic Directive:**\n1.  **Prioritize robust emergency preparedness:** Given the severe global seismic activity and critical infrastructure failures, immediately review and update all emergency response plans, ensuring robust communication protocols, secure evacuation routes, and adequate supply caches for sustenance and medical needs, particularly for assets or personnel in tectonically active zones.\n2.  **Secure essential resource buffers:** With escalating global food and energy insecurity, establish diversified, localized stockpiles of non-perishable food, potable water, and alternative energy solutions to insulate operations and personnel from critical supply chain disruptions and escalating costs.\n3.  **Diversify and de-risk financial holdings:** Amidst increasing geopolitical volatility and mixed market signals, conduct an urgent review of all investment portfolios to ensure maximal diversification, favoring assets with proven resilience to systemic shocks and mitigating exposure to single points of failure, particularly in sectors highly susceptible to geopolitical instability or rapid regulatory shifts.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
         }
     ],
-    "seismicSummary": "A powerful 7.8 magnitude earthquake has struck the Philippines, alongside multiple strong quakes there and a 6.1 near Cuba!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
