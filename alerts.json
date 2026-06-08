@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence picture reveals a convergent and escalating threat environment. Geopolitically, the deepening Middle East conflict is driving widespread food insecurity and energy price volatility, exacerbated by critical infrastructure failures like Cuba's grid collapse. Financially, significant downturns across major tech stocks signal a tightening global economy. This is compounded by an immediate, high-magnitude physical threat from a cluster of severe earthquakes in the Philippines. To navigate this complex landscape, we advise three critical actions: First, immediately review and de-risk financial portfolios, prioritizing liquidity and defensive assets amidst market instability. Second, for personnel and assets in tectonically active zones, enforce rigorous disaster preparedness protocols, focusing on earthquake and tsunami response. Third, fortify essential supply chains against both geopolitical disruption and natural disaster impacts, emphasizing diversification and local resilience measures for critical resources like food and energy.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global intelligence landscape indicates a critically elevated threat profile, stemming from an immediate, severe cluster of high-magnitude seismic events in the Philippines demanding urgent attention for physical safety and regional infrastructure stability. This acute physical threat is occurring amidst a rapidly deteriorating geopolitical and humanitarian crisis, underscored by escalating conflicts in the Middle East driving widespread food insecurity, critical energy grid vulnerabilities exemplified by Cuba's collapse, and mounting global cost-of-living pressures impacting basic survival. While the technology sector shows mixed financial signals and engages in ongoing ethical debates, these broader systemic shocks represent the most pervasive and immediate risk to global stability and resource access. To secure assets and ensure physical safety, GlobeGuard directs immediate activation of emergency response protocols for personnel and critical infrastructure in seismically active zones, particularly the Philippines; a comprehensive review and diversification of critical supply chains, especially for food and energy, to build resilience against geopolitical disruption and resource scarcity; and fortification of financial positions through robust cash reserves and strategic hedging against commodity volatility, while adjusting investment portfolios to mitigate exposure to heightened geopolitical risks.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $205.1 (-6.2%)",
+            "title": "\ud83d\udcb0 NVDA: $209.07 (1.94%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $307.34 (-1.25%)",
+            "title": "\ud83d\udcb0 AAPL: $313.86 (2.12%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $416.67 (-2.66%)",
+            "title": "\ud83d\udcb0 MSFT: $410.28 (-1.53%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.53 (-4.35%)",
+            "title": "\ud83d\udcb0 PLTR: $136.14 (0.45%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.03 (-3.06%)",
+            "title": "\ud83d\udcb0 AMZN: $246.23 (0.08%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srbe"
         }
     ],
-    "seismicSummary": "A massive Mag 7.8 earthquake and multiple other strong quakes have just struck the Philippines!"
+    "seismicSummary": "Urgent: A 7.8 magnitude earthquake and multiple strong aftershocks have struck the Philippines."
 }
