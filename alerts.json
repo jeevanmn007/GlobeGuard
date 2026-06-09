@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global situation presents a critical confluence of escalating threats: geopolitical conflicts in the Middle East are severely impacting global food security and supply chains, alongside critical infrastructure failures such as Cuba's grid collapse and domestic energy cost crises. Financially, major tech stocks are broadly declining, signaling market volatility amidst intense AI development and regulatory scrutiny. Concurrently, a series of significant magnitude 5+ earthquakes in the Philippines highlights severe and ongoing physical tectonic instability in vulnerable regions. In response, GlobeGuard directs immediate action to: 1. Secure and diversify essential food and energy reserves, preparing for further supply chain disruptions and cost escalations. 2. Re-evaluate and fortify financial portfolios with defensive assets, anticipating continued market volatility, particularly within the tech sector. 3. Swiftly assess and reinforce physical infrastructure in high-risk zones, implementing comprehensive disaster preparedness and response protocols.",
+    "strategicPlan": "Strategic Directive: The global landscape is marked by a concerning convergence of severe geopolitical instability, financial fragility, and persistent seismic threat. Escalating conflicts, particularly in the Middle East, are triggering widespread food and energy crises, threatening millions and exposing critical infrastructure vulnerabilities globally, exemplified by Cuba's grid collapse. Concurrently, major tech stocks are experiencing significant declines, signaling broader market corrections and investor apprehension, while the high frequency of magnitude 5+ earthquakes across active seismic zones underscores constant physical risks. To navigate this complex and volatile environment, immediately secure and diversify all essential resource supply chains; proactively reassess and de-risk financial portfolios against sustained market volatility, particularly in the tech sector; and urgently reinforce physical preparedness plans and communication protocols for all personnel and critical assets.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $205.22 (-1.64%)",
+            "title": "\ud83d\udcb0 NVDA: $208.19 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $290.68 (-3.6%)",
+            "title": "\ud83d\udcb0 AAPL: $290.55 (-3.64%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $403.36 (-2.03%)",
+            "title": "\ud83d\udcb0 MSFT: $403.41 (-2.02%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.7 (-3.5%)",
+            "title": "\ud83d\udcb0 PLTR: $132.07 (-3.22%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.56 (-0.27%)",
+            "title": "\ud83d\udcb0 AMZN: $244.19 (-0.42%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srpu"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 163 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvv"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 21 km SW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srp0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 65 km SSW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sruf"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 4 km SSW of Bukid, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sru0"
+            "title": "\u26a0\ufe0f Mag 5.1 - southeast Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvn"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes are hitting the Philippines now!"
+    "seismicSummary": "Several M5 earthquakes are striking globally, with two reported in the Philippines."
 }
