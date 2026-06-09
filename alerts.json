@@ -61,20 +61,20 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7.8 - 26 km SW of Kablalan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srb1"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 6.5 - 20 km WSW of Balangonan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcg"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6.1 - 104 km WNW of Mantua, Cuba",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6 - 6 km SSW of Pangyan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
+            "title": "\u26a0\ufe0f Mag 5.7 - 54 km SSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srds"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.6 - 56 km SSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srf8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srgz"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
