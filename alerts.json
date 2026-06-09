@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence brief reveals a critical convergence of threats: escalating geopolitical conflicts in the Middle East and Iran are profoundly impacting global food security and energy affordability, leading to widespread humanitarian crises and cost-of-living challenges, while vital infrastructure vulnerabilities are starkly evident in Cuba's ongoing grid collapse, now compounded by a significant Mag 6.1 earthquake in the same region, signaling heightened physical instability. Financially, major tech stocks show volatility, reflecting underlying economic uncertainty despite some AI sector resilience. Given this volatile confluence, GlobeGuard directs immediate action to safeguard assets and ensure physical safety: first, secure essential resources by diversifying non-perishable food stocks and establishing redundant power solutions to counter supply chain disruptions and energy grid fragility; second, reinforce physical infrastructure for seismic resilience and develop robust, off-grid communication protocols in anticipation of further environmental and systemic shocks; and third, maintain acute vigilance on regional geopolitical shifts, localizing critical dependencies where feasible to mitigate international volatility and protect against cascading effects on daily life.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 54 km SSW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srds"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 56 km SSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srf8"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srgz"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - 12 km WSW of Balangonan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srfx"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Urgent: A Mag 6.1 earthquake near Cuba and multiple strong quakes just hit globally!"
 }
