@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global landscape is marked by a concerning convergence of severe geopolitical instability, financial fragility, and persistent seismic threat. Escalating conflicts, particularly in the Middle East, are triggering widespread food and energy crises, threatening millions and exposing critical infrastructure vulnerabilities globally, exemplified by Cuba's grid collapse. Concurrently, major tech stocks are experiencing significant declines, signaling broader market corrections and investor apprehension, while the high frequency of magnitude 5+ earthquakes across active seismic zones underscores constant physical risks. To navigate this complex and volatile environment, immediately secure and diversify all essential resource supply chains; proactively reassess and de-risk financial portfolios against sustained market volatility, particularly in the tech sector; and urgently reinforce physical preparedness plans and communication protocols for all personnel and critical assets.",
+    "strategicPlan": "GlobeGuard's analysis reveals an escalating global risk matrix. Geopolitically, ongoing conflicts in Iran and the Middle East are directly contributing to severe food insecurity and supply chain disruptions, mirrored by critical infrastructure vulnerabilities as seen in Cuba's grid collapse and widespread energy cost pressures. Financially, a broad downturn across key tech stocks signals significant market apprehension. Concurrently, a surge in 5+ magnitude seismic events across the Pacific Ring of Fire and Indian Ridge underscores persistent physical threats to infrastructure and populations. Therefore, we advise immediate focus on three strategic areas: first, reinforce supply chain resilience by diversifying critical resource procurement and securing emergency provisions; second, review financial portfolios for diversification and liquidity, especially away from volatile tech sectors; and third, meticulously audit and update physical infrastructure resilience and emergency response protocols for all assets located in seismically active zones.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvn"
         }
     ],
-    "seismicSummary": "Several M5 earthquakes are striking globally, with two reported in the Philippines."
+    "seismicSummary": "Alert! Multiple M5+ earthquakes, including two in the Philippines, reported worldwide."
 }
