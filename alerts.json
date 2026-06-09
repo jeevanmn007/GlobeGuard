@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a rapidly deteriorating environment marked by escalating geopolitical conflicts in the Middle East driving widespread food and energy insecurity, underscored by a significant downturn across major tech markets. This volatile landscape is critically compounded by physical vulnerabilities, exemplified by a major 6.1 magnitude earthquake near Cuba that has undoubtedly exacerbated the ongoing and dire grid collapse. This confluence of geopolitical, economic, and physical stressors demands immediate and decisive action: first, review and secure critical resources by establishing robust emergency reserves of food, water, and alternative energy, while diversifying essential supply chains to mitigate geopolitical impacts; second, rebalance financial portfolios away from highly volatile tech sectors, preparing for sustained market uncertainty and potential broader economic contraction; and third, fortify physical safety by updating disaster preparedness plans, securing essential infrastructure, and confirming emergency communication protocols to withstand potential cascading disruptions from both natural and man-made events.",
+    "strategicPlan": "The current global situation presents a critical confluence of escalating threats: geopolitical conflicts in the Middle East are severely impacting global food security and supply chains, alongside critical infrastructure failures such as Cuba's grid collapse and domestic energy cost crises. Financially, major tech stocks are broadly declining, signaling market volatility amidst intense AI development and regulatory scrutiny. Concurrently, a series of significant magnitude 5+ earthquakes in the Philippines highlights severe and ongoing physical tectonic instability in vulnerable regions. In response, GlobeGuard directs immediate action to: 1. Secure and diversify essential food and energy reserves, preparing for further supply chain disruptions and cost escalations. 2. Re-evaluate and fortify financial portfolios with defensive assets, anticipating continued market volatility, particularly within the tech sector. 3. Swiftly assess and reinforce physical infrastructure in high-risk zones, implementing comprehensive disaster preparedness and response protocols.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,27 +21,31 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.05 (-3.16%)",
+            "title": "\ud83d\udcb0 NVDA: $205.22 (-1.64%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $290.75 (-3.58%)",
+            "title": "\ud83d\udcb0 AAPL: $290.68 (-3.6%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $402.02 (-2.36%)",
+            "title": "\ud83d\udcb0 MSFT: $403.36 (-2.03%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $129.57 (-5.06%)",
+            "title": "\ud83d\udcb0 PLTR: $131.7 (-3.5%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $243.3 (-0.78%)",
+            "title": "\ud83d\udcb0 AMZN: $244.56 (-0.27%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
     "trend": [
+        {
+            "title": "Apple\u2019s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+            "link": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/"
+        },
         {
             "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
             "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
@@ -53,29 +57,25 @@
         {
             "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
             "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/"
-        },
-        {
-            "title": "\u2018De-Extinction\u2019 Start-up Just Hatched Baby Chicks From a 3D-Printed Artificial Egg",
-            "link": "https://gizmodo.com/de-extinction-start-up-just-hatched-baby-chicks-from-a-3d-printed-artificial-egg-2000760190"
         }
     ],
     "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 6.1 - 104 km WNW of Mantua, Cuba",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx"
-        },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 21 km SSW of Lumatil, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srpu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srku"
+            "title": "\u26a0\ufe0f Mag 5.2 - 21 km SW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srp0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 197 km SSE of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srkc"
+            "title": "\u26a0\ufe0f Mag 5.1 - 65 km SSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sruf"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 4 km SSW of Bukid, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sru0"
         }
     ],
-    "seismicSummary": "Urgent: A 6.1 magnitude earthquake just struck Cuba, alongside multiple strong quakes worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes are hitting the Philippines now!"
 }
