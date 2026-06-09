@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical convergence of escalating geopolitical instability, significant humanitarian crises, and active geophysical threats. Ongoing conflicts, notably in the Middle East, are driving widespread food insecurity and energy poverty, evidenced by global food supply impacts and millions facing hunger, while critical infrastructure failures\u2014such as the severe 'Cuba grid collapse' now critically compounded by a recent Mag 6.1 earthquake\u2014exacerbate these conditions. Financial markets reflect this pervasive uncertainty, with major tech stocks showing volatility, further shadowed by emerging societal and geopolitical tensions surrounding rapid AI development and infrastructure strain. To secure assets and physical safety, first, prioritize immediate assessment and diversification of critical supply chains for essential goods, including food and energy, to mitigate impacts from geopolitical disruptions and infrastructure failures. Second, enhance personal and localized emergency preparedness plans, focusing on power outages, communication redundancy, and securing physical assets against potential civil unrest or natural disasters, especially in seismically active or vulnerable regions. Third, review and fortify financial portfolios by diversifying investments into resilient sectors and tangible assets, while closely monitoring market shifts driven by global instability and technological advancements.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly deteriorating environment marked by escalating geopolitical conflicts in the Middle East driving widespread food and energy insecurity, underscored by a significant downturn across major tech markets. This volatile landscape is critically compounded by physical vulnerabilities, exemplified by a major 6.1 magnitude earthquake near Cuba that has undoubtedly exacerbated the ongoing and dire grid collapse. This confluence of geopolitical, economic, and physical stressors demands immediate and decisive action: first, review and secure critical resources by establishing robust emergency reserves of food, water, and alternative energy, while diversifying essential supply chains to mitigate geopolitical impacts; second, rebalance financial portfolios away from highly volatile tech sectors, preparing for sustained market uncertainty and potential broader economic contraction; and third, fortify physical safety by updating disaster preparedness plans, securing essential infrastructure, and confirming emergency communication protocols to withstand potential cascading disruptions from both natural and man-made events.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.64 (1.73%)",
+            "title": "\ud83d\udcb0 NVDA: $202.05 (-3.16%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $301.54 (-1.89%)",
+            "title": "\ud83d\udcb0 AAPL: $290.75 (-3.58%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $411.74 (-1.18%)",
+            "title": "\ud83d\udcb0 MSFT: $402.02 (-2.36%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $136.47 (0.69%)",
+            "title": "\ud83d\udcb0 PLTR: $129.57 (-5.06%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $245.22 (-0.33%)",
+            "title": "\ud83d\udcb0 AMZN: $243.3 (-0.78%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srgz"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 21 km SSW of Lumatil, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srpu"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srku"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 197 km SSE of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srkc"
         }
     ],
-    "seismicSummary": "**URGENT:** A Mag 6.1 quake near Cuba and multiple other strong quakes reported globally!"
+    "seismicSummary": "Urgent: A 6.1 magnitude earthquake just struck Cuba, alongside multiple strong quakes worldwide!"
 }
