@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a rapidly converging threat environment: escalating geopolitical conflicts are severely impacting global food and energy security, driving millions into hunger and exacerbating critical infrastructure vulnerabilities as seen with Cuba's grid collapse and widespread energy poverty. Financially, while key tech stocks exhibit mixed performance, the accelerating influence of AI and emerging ESG pressures on data infrastructure signal significant strategic shifts. Concurrently, persistent, high-magnitude seismic activity across the Pacific Ring of Fire underscores constant physical risks. In response, GlobeGuard mandates immediate, decisive action: first, diversify and localize critical resource supply chains to build resilience against food and energy shocks; second, fortify personal and operational infrastructure by investing in robust backup power solutions and comprehensive vulnerability assessments; and third, rigorously update and drill natural disaster preparedness protocols, especially for seismic events, to secure both assets and physical safety.",
+    "strategicPlan": "The global situation demands immediate attention, marked by escalating geopolitical instability in the Middle East driving widespread food insecurity and exacerbating energy crises, coupled with a notable downturn across key tech markets and persistent significant seismic activity across the Pacific Rim. To navigate this complex landscape, prioritize securing essential food and energy reserves while diversifying critical supply chains to mitigate regional disruptions; re-evaluate financial portfolios for defensive positioning against market volatility, considering assets less exposed to tech downturns and geopolitical shocks; and conduct immediate reviews of emergency preparedness plans, particularly for seismic events, to secure physical assets and ensure personal safety.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.79 (-2.11%)",
+            "title": "\ud83d\udcb0 NVDA: $201.48 (-3.22%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $292.58 (0.7%)",
+            "title": "\ud83d\udcb0 AAPL: $292.43 (0.65%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $403.55 (0.03%)",
+            "title": "\ud83d\udcb0 MSFT: $399.02 (-1.09%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.5 (0.33%)",
+            "title": "\ud83d\udcb0 PLTR: $130.68 (-1.05%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $239.35 (-1.98%)",
+            "title": "\ud83d\udcb0 AMZN: $238.51 (-2.33%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -47,16 +47,16 @@
             "link": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/"
         },
         {
+            "title": "MacOS 27 Golden Gate: Top New Features",
+            "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/"
+        },
+        {
             "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
             "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
         },
         {
             "title": "Mistral CEO Says the Pope\u2019s Comments Are a Big Problem for Europe\u2019s War on American Tech",
             "link": "https://gizmodo.com/mistral-ceo-says-the-popes-comments-are-a-big-problem-for-europes-war-on-american-tech-2000764700"
-        },
-        {
-            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
-            "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvv"
         }
     ],
-    "seismicSummary": "**URGENT: Mag 6 quake near New Zealand, multiple Mag 5+ quakes reported in Russia!**"
+    "seismicSummary": "**Urgent! A Mag 6 earthquake hit New Zealand, with multiple Mag 5+ quakes also striking Russia!**"
 }
