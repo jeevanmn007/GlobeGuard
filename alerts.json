@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's analysis reveals an escalating global risk matrix. Geopolitically, ongoing conflicts in Iran and the Middle East are directly contributing to severe food insecurity and supply chain disruptions, mirrored by critical infrastructure vulnerabilities as seen in Cuba's grid collapse and widespread energy cost pressures. Financially, a broad downturn across key tech stocks signals significant market apprehension. Concurrently, a surge in 5+ magnitude seismic events across the Pacific Ring of Fire and Indian Ridge underscores persistent physical threats to infrastructure and populations. Therefore, we advise immediate focus on three strategic areas: first, reinforce supply chain resilience by diversifying critical resource procurement and securing emergency provisions; second, review financial portfolios for diversification and liquidity, especially away from volatile tech sectors; and third, meticulously audit and update physical infrastructure resilience and emergency response protocols for all assets located in seismically active zones.",
+    "strategicPlan": "The current global intelligence picture reveals a rapidly converging threat environment: escalating geopolitical conflicts are severely impacting global food and energy security, driving millions into hunger and exacerbating critical infrastructure vulnerabilities as seen with Cuba's grid collapse and widespread energy poverty. Financially, while key tech stocks exhibit mixed performance, the accelerating influence of AI and emerging ESG pressures on data infrastructure signal significant strategic shifts. Concurrently, persistent, high-magnitude seismic activity across the Pacific Ring of Fire underscores constant physical risks. In response, GlobeGuard mandates immediate, decisive action: first, diversify and localize critical resource supply chains to build resilience against food and energy shocks; second, fortify personal and operational infrastructure by investing in robust backup power solutions and comprehensive vulnerability assessments; and third, rigorously update and drill natural disaster preparedness protocols, especially for seismic events, to secure both assets and physical safety.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.19 (-0.22%)",
+            "title": "\ud83d\udcb0 NVDA: $203.79 (-2.11%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $290.55 (-3.64%)",
+            "title": "\ud83d\udcb0 AAPL: $292.58 (0.7%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $403.41 (-2.02%)",
+            "title": "\ud83d\udcb0 MSFT: $403.55 (0.03%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.07 (-3.22%)",
+            "title": "\ud83d\udcb0 PLTR: $132.5 (0.33%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.19 (-0.42%)",
+            "title": "\ud83d\udcb0 AMZN: $239.35 (-1.98%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 21 km SSW of Lumatil, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srpu"
+            "title": "\u26a0\ufe0f Mag 6 - Auckland Islands, New Zealand region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srxn"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.7 - 33 km ESE of Ol\u2019ga, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss03"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss1g"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 163 km ESE of Petropavlovsk-Kamchatsky, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 21 km SW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srp0"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - southeast Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvn"
         }
     ],
-    "seismicSummary": "Alert! Multiple M5+ earthquakes, including two in the Philippines, reported worldwide."
+    "seismicSummary": "**URGENT: Mag 6 quake near New Zealand, multiple Mag 5+ quakes reported in Russia!**"
 }
