@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by escalating geopolitical instability in the Middle East driving widespread food insecurity and exacerbating energy crises, coupled with a notable downturn across key tech markets and persistent significant seismic activity across the Pacific Rim. To navigate this complex landscape, prioritize securing essential food and energy reserves while diversifying critical supply chains to mitigate regional disruptions; re-evaluate financial portfolios for defensive positioning against market volatility, considering assets less exposed to tech downturns and geopolitical shocks; and conduct immediate reviews of emergency preparedness plans, particularly for seismic events, to secure physical assets and ensure personal safety.",
+    "strategicPlan": "The global situation demands immediate attention, marked by escalating geopolitical conflicts in the Middle East and beyond driving severe food and energy insecurity, while major tech markets exhibit significant contraction amidst underlying economic uncertainty despite continued AI integration. This human-driven instability is underscored by a notable uptick in seismic activity across the Pacific Rim, including a Magnitude 6 event in New Zealand, signaling a complex and volatile threat landscape combining geopolitical, financial, and physical hazards. To secure assets and ensure safety, immediately diversify and localize critical resource caches, particularly food and emergency power; audit and reinforce physical infrastructure against both natural disasters and potential supply chain disruptions; and critically re-evaluate investment portfolios for defensive resilience against market volatility, prioritizing tangible assets and stable sectors.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $201.48 (-3.22%)",
+            "title": "\ud83d\udcb0 NVDA: $200.42 (-3.73%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $292.43 (0.65%)",
+            "title": "\ud83d\udcb0 AAPL: $291.58 (0.35%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $399.02 (-1.09%)",
+            "title": "\ud83d\udcb0 MSFT: $397.36 (-1.5%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.68 (-1.05%)",
+            "title": "\ud83d\udcb0 PLTR: $130.21 (-1.41%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.51 (-2.33%)",
+            "title": "\ud83d\udcb0 AMZN: $238.0 (-2.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss1g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 163 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvv"
+            "title": "\u26a0\ufe0f Mag 5.1 - 7 km NW of Nuing, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srzt"
         }
     ],
-    "seismicSummary": "**Urgent! A Mag 6 earthquake hit New Zealand, with multiple Mag 5+ quakes also striking Russia!**"
+    "seismicSummary": "**URGENT: Mag 6 earthquake near Auckland Islands, with multiple strong quakes reported globally!**"
 }
