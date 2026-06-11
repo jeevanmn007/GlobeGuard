@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex threat matrix: escalating geopolitical conflicts are driving widespread food and energy insecurity and infrastructural vulnerabilities, while financial markets exhibit selective tech resilience amidst underlying volatility, and moderate seismic activity persists along critical global fault lines. To secure assets and ensure physical safety, GlobeGuard directs you to: fortify supply chains against geopolitical disruption and energy volatility by diversifying sources and establishing strategic reserves of essential commodities; rebalance investment portfolios with a focus on defensive assets and resilient tech, while hedging against market volatility and monitoring geopolitical shifts for timely adjustments; and conduct immediate reviews of physical infrastructure security and emergency preparedness plans, particularly for seismic events and critical grid failures, ensuring robust communication and evacuation protocols.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.14 (1.36%)",
+            "title": "\ud83d\udcb0 NVDA: $204.87 (2.22%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $296.27 (1.61%)",
+            "title": "\ud83d\udcb0 AAPL: $295.63 (1.39%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $388.95 (-2.12%)",
+            "title": "\ud83d\udcb0 MSFT: $390.34 (-1.77%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.03 (0.63%)",
+            "title": "\ud83d\udcb0 PLTR: $131.08 (0.67%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $239.38 (0.58%)",
+            "title": "\ud83d\udcb0 AMZN: $241.51 (1.47%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4s"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5.4-5.5 earthquakes reported across Chile, Philippines, and Tonga!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
