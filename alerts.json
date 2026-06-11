@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by escalating geopolitical conflicts in the Middle East and beyond driving severe food and energy insecurity, while major tech markets exhibit significant contraction amidst underlying economic uncertainty despite continued AI integration. This human-driven instability is underscored by a notable uptick in seismic activity across the Pacific Rim, including a Magnitude 6 event in New Zealand, signaling a complex and volatile threat landscape combining geopolitical, financial, and physical hazards. To secure assets and ensure safety, immediately diversify and localize critical resource caches, particularly food and emergency power; audit and reinforce physical infrastructure against both natural disasters and potential supply chain disruptions; and critically re-evaluate investment portfolios for defensive resilience against market volatility, prioritizing tangible assets and stable sectors.",
+    "strategicPlan": "The global environment presents a critical convergence of escalating geopolitical tensions, significant economic instability, and persistent physical threats. Active conflicts in the Middle East are severely impacting global food security and energy costs, while critical infrastructure failures, exemplified by Cuba's grid collapse, highlight widespread vulnerabilities. This geopolitical fragility is mirrored by a downturn in major tech stocks amidst an accelerating AI landscape and calls for ethical oversight, signaling a period of market apprehension. Concurrently, heightened seismic activity across the Pacific Ring of Fire demands immediate attention to physical safety and infrastructure integrity. Therefore, GlobeGuard directs you to: first, fortify financial resilience by diversifying portfolios towards stable assets and ensuring liquidity against market volatility and inflationary pressures; second, secure essential resources by reinforcing local supply chains and establishing contingency reserves for food and energy; and third, implement and rigorously test comprehensive disaster preparedness protocols, prioritizing seismic event readiness for all personnel and critical infrastructure.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss03"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss1g"
+            "title": "\u26a0\ufe0f Mag 5.4 - 176 km ESE of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 7 km NW of Nuing, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srzt"
+            "title": "\u26a0\ufe0f Mag 5.2 - 156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss1g"
         }
     ],
-    "seismicSummary": "**URGENT: Mag 6 earthquake near Auckland Islands, with multiple strong quakes reported globally!**"
+    "seismicSummary": "URGENT: Multiple strong earthquakes detected globally, including a M6 near New Zealand!"
 }
