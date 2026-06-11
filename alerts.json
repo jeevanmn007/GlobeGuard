@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical convergence of escalating geopolitical tensions, significant economic instability, and persistent physical threats. Active conflicts in the Middle East are severely impacting global food security and energy costs, while critical infrastructure failures, exemplified by Cuba's grid collapse, highlight widespread vulnerabilities. This geopolitical fragility is mirrored by a downturn in major tech stocks amidst an accelerating AI landscape and calls for ethical oversight, signaling a period of market apprehension. Concurrently, heightened seismic activity across the Pacific Ring of Fire demands immediate attention to physical safety and infrastructure integrity. Therefore, GlobeGuard directs you to: first, fortify financial resilience by diversifying portfolios towards stable assets and ensuring liquidity against market volatility and inflationary pressures; second, secure essential resources by reinforcing local supply chains and establishing contingency reserves for food and energy; and third, implement and rigorously test comprehensive disaster preparedness protocols, prioritizing seismic event readiness for all personnel and critical infrastructure.",
+    "strategicPlan": "The global environment is characterized by escalating geopolitical instability, particularly in the Middle East impacting global food and energy security, underscored by infrastructure fragility like Cuba's grid collapse and the widespread financial strain on households. Financially, major tech markets are exhibiting volatility amidst rapid AI advancement and concurrent ethical and geopolitical debates, while persistent moderate seismic activity across the Pacific Ring of Fire highlights continuous physical hazard exposure. To secure assets and physical safety, immediately diversify critical asset holdings, including financial portfolios and essential resource stockpiles, to enhance resilience against supply chain disruptions and economic shifts. Concurrently, prioritize strengthening critical infrastructure, especially energy systems, and develop localized contingency plans for potential grid failures or resource scarcity. Finally, proactively assess and bolster physical safety protocols and infrastructure in seismically active regions, ensuring robust emergency response plans and supply chains are in place to mitigate natural disaster impacts.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - Auckland Islands, New Zealand region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srxn"
+            "title": "\u26a0\ufe0f Mag 5.5 - 58 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss57"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 33 km ESE of Ol\u2019ga, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss03"
+            "title": "\u26a0\ufe0f Mag 5.4 - 59 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6g"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 176 km ESE of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss1g"
+            "title": "\u26a0\ufe0f Mag 5.2 - 117 km NW of Vallenar, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5y"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes detected globally, including a M6 near New Zealand!"
+    "seismicSummary": "**Urgent: Multiple M5+ earthquakes just struck globally, with a cluster near Sarangani, Philippines!**"
 }
