@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is characterized by escalating geopolitical instability, particularly in the Middle East impacting global food and energy security, underscored by infrastructure fragility like Cuba's grid collapse and the widespread financial strain on households. Financially, major tech markets are exhibiting volatility amidst rapid AI advancement and concurrent ethical and geopolitical debates, while persistent moderate seismic activity across the Pacific Ring of Fire highlights continuous physical hazard exposure. To secure assets and physical safety, immediately diversify critical asset holdings, including financial portfolios and essential resource stockpiles, to enhance resilience against supply chain disruptions and economic shifts. Concurrently, prioritize strengthening critical infrastructure, especially energy systems, and develop localized contingency plans for potential grid failures or resource scarcity. Finally, proactively assess and bolster physical safety protocols and infrastructure in seismically active regions, ensuring robust emergency response plans and supply chains are in place to mitigate natural disaster impacts.",
+    "strategicPlan": "The global environment signals acute instability, marked by a reported 'war in Iran' exacerbating food and energy insecurity, widespread humanitarian crises from Middle East conflicts, and critical infrastructure failures like Cuba's grid collapse. This geopolitical turmoil coincides with a fragile financial landscape where major tech equities show slight contraction despite targeted AI growth, indicating broader market uncertainty. Simultaneously, a surge in moderate seismic activity across the Pacific Ring of Fire introduces significant physical risks. GlobeGuard's immediate directive is to secure assets and physical safety through three primary actions: 1. Immediately diversify critical liquid assets into stable, tangible holdings, and re-evaluate supply chain resilience for essential goods. 2. Implement robust emergency preparedness plans, including redundant power, water, and communication systems, especially for those in seismically active or politically volatile regions. 3. Proactively assess and mitigate local infrastructure vulnerabilities, while maintaining heightened situational awareness regarding evolving geopolitical and environmental threats to ensure adaptive capacity.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $200.42 (-3.73%)",
+            "title": "\ud83d\udcb0 NVDA: $202.13 (0.85%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $291.58 (0.35%)",
+            "title": "\ud83d\udcb0 AAPL: $290.67 (-0.31%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $397.36 (-1.5%)",
+            "title": "\ud83d\udcb0 MSFT: $390.53 (-1.72%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.21 (-1.41%)",
+            "title": "\ud83d\udcb0 PLTR: $129.56 (-0.5%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.0 (-2.53%)",
+            "title": "\ud83d\udcb0 AMZN: $237.13 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 128 km NW of Vallenar, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss82"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 58 km S of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss57"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 176 km ESE of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4s"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 117 km NW of Vallenar, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5y"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple M5+ earthquakes just struck globally, with a cluster near Sarangani, Philippines!**"
+    "seismicSummary": "**\ud83d\udea8 Multiple Mag 5.4-5.5 earthquakes have struck Chile, the Philippines, and Tonga!**"
 }
