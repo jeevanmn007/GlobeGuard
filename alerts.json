@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals acute instability, marked by a reported 'war in Iran' exacerbating food and energy insecurity, widespread humanitarian crises from Middle East conflicts, and critical infrastructure failures like Cuba's grid collapse. This geopolitical turmoil coincides with a fragile financial landscape where major tech equities show slight contraction despite targeted AI growth, indicating broader market uncertainty. Simultaneously, a surge in moderate seismic activity across the Pacific Ring of Fire introduces significant physical risks. GlobeGuard's immediate directive is to secure assets and physical safety through three primary actions: 1. Immediately diversify critical liquid assets into stable, tangible holdings, and re-evaluate supply chain resilience for essential goods. 2. Implement robust emergency preparedness plans, including redundant power, water, and communication systems, especially for those in seismically active or politically volatile regions. 3. Proactively assess and mitigate local infrastructure vulnerabilities, while maintaining heightened situational awareness regarding evolving geopolitical and environmental threats to ensure adaptive capacity.",
+    "strategicPlan": "The global environment presents a complex threat matrix: escalating geopolitical conflicts are driving widespread food and energy insecurity and infrastructural vulnerabilities, while financial markets exhibit selective tech resilience amidst underlying volatility, and moderate seismic activity persists along critical global fault lines. To secure assets and ensure physical safety, GlobeGuard directs you to: fortify supply chains against geopolitical disruption and energy volatility by diversifying sources and establishing strategic reserves of essential commodities; rebalance investment portfolios with a focus on defensive assets and resilient tech, while hedging against market volatility and monitoring geopolitical shifts for timely adjustments; and conduct immediate reviews of physical infrastructure security and emergency preparedness plans, particularly for seismic events and critical grid failures, ensuring robust communication and evacuation protocols.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.13 (0.85%)",
+            "title": "\ud83d\udcb0 NVDA: $203.14 (1.36%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $290.67 (-0.31%)",
+            "title": "\ud83d\udcb0 AAPL: $296.27 (1.61%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.53 (-1.72%)",
+            "title": "\ud83d\udcb0 MSFT: $388.95 (-2.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $129.56 (-0.5%)",
+            "title": "\ud83d\udcb0 PLTR: $131.03 (0.63%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $237.13 (-0.37%)",
+            "title": "\ud83d\udcb0 AMZN: $239.38 (0.58%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4s"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Multiple Mag 5.4-5.5 earthquakes have struck Chile, the Philippines, and Tonga!**"
+    "seismicSummary": "URGENT: Multiple Mag 5.4-5.5 earthquakes reported across Chile, Philippines, and Tonga!"
 }
