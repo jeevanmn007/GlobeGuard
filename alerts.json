@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a converging global threat landscape marked by escalating geopolitical instability, financial caution, and persistent physical vulnerabilities. Intensifying Middle East conflicts are severely impacting global food security and exacerbating humanitarian crises, alongside critical infrastructure failures and mounting cost-of-living pressures, while the geopolitical implications of AI's development introduce new points of friction. Concurrently, major tech stocks are experiencing a broad market downturn, signaling investor apprehension. Physically, ongoing moderate seismic activity across key regions like Vanuatu, Azerbaijan, and Russia underscores the enduring threat of sudden natural disasters. To secure assets and ensure physical safety, GlobeGuard issues the following directive: First, fortify essential supply chains by securing critical reserves and exploring localized sourcing to mitigate immediate food and energy insecurity. Second, conduct a comprehensive resilience audit of all critical infrastructure and digital assets against both physical and cyber threats, ensuring robust backup systems. Third, re-evaluate financial portfolios, prioritizing liquidity and diversification into defensive assets to navigate anticipated market volatility.",
+    "strategicPlan": "The global strategic environment is deteriorating rapidly, characterized by widespread geopolitical conflict leading to severe humanitarian crises and escalating food and energy insecurity, as evidenced by the Iran war's impact on supply chains, Cuba's grid collapse, and Middle East hunger. This instability is mirrored in cautious financial markets, with major tech stocks generally declining despite AI development trends, indicating broader economic concerns. Concurrently, a surge in significant seismic activity across multiple, diverse regions presents an acute physical threat, capable of disrupting critical infrastructure and exacerbating existing vulnerabilities. Therefore, immediate action is required: **first,** de-risk financial portfolios by diversifying investments beyond volatile growth tech and securing tangible assets, while optimizing personal energy consumption to insulate against rising costs; **second,** enhance physical resilience by establishing robust emergency preparedness kits and communication plans, particularly in seismically active zones or areas vulnerable to infrastructure failure; and **third,** proactively map and secure alternative supply chains for essential goods to mitigate the impacts of geopolitical conflicts and natural disasters.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.77 (-0.05%)",
+            "title": "\ud83d\udcb0 NVDA: $204.95 (0.04%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $291.35 (-1.45%)",
+            "title": "\ud83d\udcb0 AAPL: $290.67 (-1.68%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $387.47 (-0.74%)",
+            "title": "\ud83d\udcb0 MSFT: $389.01 (-0.34%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $128.0 (-2.35%)",
+            "title": "\ud83d\udcb0 PLTR: $128.1 (-2.28%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $236.19 (-2.2%)",
+            "title": "\ud83d\udcb0 AMZN: $237.89 (-1.5%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5 - 30 km SSW of Daliao, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssit"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 68 km NNW of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssct"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.9 - 123 km W of El Aguilar, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssir"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 10 km SW of Qutqashen, Azerbaijan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssg4"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssfk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 203 km S of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssfb"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple earthquakes up to Mag 5 reported globally!**"
+    "seismicSummary": "**Global alert: Several magnitude 4.9-5 earthquakes are striking worldwide now!**"
 }
