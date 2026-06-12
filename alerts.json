@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex and urgent threat matrix, combining severe geopolitical instability with direct impacts on essential resources and persistent natural hazards. Ongoing conflicts in the Middle East are driving widespread hunger and energy crises, as evidenced by the dire grid collapse in Cuba and warnings from the WFP, while major tech equities show a generally upward trend, reflecting a segmented economic reality. Simultaneously, significant M5+ seismic events in active zones like Chile and Philippines highlight persistent tectonic risks that could further disrupt already strained global systems. To navigate this multifaceted environment, GlobeGuard directs immediate action: 1) Diversify essential supply chains, focusing on localized and resilient sources to mitigate food and energy vulnerability; 2) Conduct a comprehensive review of critical infrastructure dependencies, establishing robust contingency plans for potential disruptions like grid collapses; and 3) Proactively enhance emergency preparedness for natural disasters, particularly in seismically active regions, ensuring physical safety and operational continuity.",
+    "strategicPlan": "The current global strategic environment is characterized by a concerning confluence of escalating geopolitical instability, particularly in the Middle East, which is severely impacting global food security and supply chains, alongside acute infrastructure vulnerabilities exemplified by the Cuban grid collapse and widespread energy poverty. While major tech companies demonstrate continued financial resilience, driven by AI advancements, this progress simultaneously ignites significant ethical and regulatory debates regarding its societal impact. This complex human-made volatility is set against a backdrop of persistent, moderate seismic activity across key Pacific fault lines, signifying ongoing natural hazard risks. To navigate this multifaceted threat landscape, GlobeGuard advises immediate action: first, prioritize securing diversified local and regional supply chains for essential goods, particularly food and energy, to mitigate geopolitical disruption and economic pressure; second, conduct a thorough audit of digital infrastructure resilience and cybersecurity protocols, leveraging emerging AI capabilities while robustly addressing ethical governance frameworks; and third, reinforce physical safety protocols and comprehensive emergency preparedness plans, especially in seismically active zones, to safeguard personnel and assets against natural disasters.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss82"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 59 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6g"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 117 km NW of Vallenar, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5y"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 123 km NW of Vallenar, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7x"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 62 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7v"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 68 km NNW of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssct"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple M5+ earthquakes reported in Chile and the Philippines!**"
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.5, just struck worldwide!"
 }
