@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is deteriorating rapidly, characterized by widespread geopolitical conflict leading to severe humanitarian crises and escalating food and energy insecurity, as evidenced by the Iran war's impact on supply chains, Cuba's grid collapse, and Middle East hunger. This instability is mirrored in cautious financial markets, with major tech stocks generally declining despite AI development trends, indicating broader economic concerns. Concurrently, a surge in significant seismic activity across multiple, diverse regions presents an acute physical threat, capable of disrupting critical infrastructure and exacerbating existing vulnerabilities. Therefore, immediate action is required: **first,** de-risk financial portfolios by diversifying investments beyond volatile growth tech and securing tangible assets, while optimizing personal energy consumption to insulate against rising costs; **second,** enhance physical resilience by establishing robust emergency preparedness kits and communication plans, particularly in seismically active zones or areas vulnerable to infrastructure failure; and **third,** proactively map and secure alternative supply chains for essential goods to mitigate the impacts of geopolitical conflicts and natural disasters.",
+    "strategicPlan": "The global threat landscape is acutely elevated, marked by escalating geopolitical conflicts in the Middle East that are severely destabilizing global food supply chains and exacerbating humanitarian crises, alongside critical energy infrastructure failures and pervasive energy poverty. Financially, key tech market segments show volatility amidst accelerating AI adoption and related ethical debates, indicating underlying economic uncertainty. Physically, persistent seismic activity, particularly across the Pacific Ring of Fire, highlights ongoing natural hazard risks. To secure assets and physical safety, prioritize immediate review and diversification of emergency food, water, and essential energy reserves; fortify financial resilience through strategic investment diversification and enhanced liquidity; and crucially, update all personal and structural emergency preparedness plans, particularly for seismic events, given the observed tectonic activity.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.95 (0.04%)",
+            "title": "\ud83d\udcb0 NVDA: $205.19 (0.16%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $290.67 (-1.68%)",
+            "title": "\ud83d\udcb0 AAPL: $291.13 (-1.52%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $389.01 (-0.34%)",
+            "title": "\ud83d\udcb0 MSFT: $390.74 (0.1%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $128.1 (-2.28%)",
+            "title": "\ud83d\udcb0 PLTR: $127.99 (-2.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $237.89 (-1.5%)",
+            "title": "\ud83d\udcb0 AMZN: $238.55 (-1.23%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 65 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssje"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 30 km SSW of Daliao, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssit"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 68 km NNW of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssct"
+            "title": "\u26a0\ufe0f Mag 4.9 - 137 km N of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssjl"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 123 km W of El Aguilar, Argentina",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssir"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 10 km SW of Qutqashen, Azerbaijan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssg4"
         }
     ],
-    "seismicSummary": "**Global alert: Several magnitude 4.9-5 earthquakes are striking worldwide now!**"
+    "seismicSummary": "Multiple significant earthquakes, including a Mag 5.2, just reported globally."
 }
