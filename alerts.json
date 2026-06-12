@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global strategic environment is characterized by a concerning confluence of escalating geopolitical instability, particularly in the Middle East, which is severely impacting global food security and supply chains, alongside acute infrastructure vulnerabilities exemplified by the Cuban grid collapse and widespread energy poverty. While major tech companies demonstrate continued financial resilience, driven by AI advancements, this progress simultaneously ignites significant ethical and regulatory debates regarding its societal impact. This complex human-made volatility is set against a backdrop of persistent, moderate seismic activity across key Pacific fault lines, signifying ongoing natural hazard risks. To navigate this multifaceted threat landscape, GlobeGuard advises immediate action: first, prioritize securing diversified local and regional supply chains for essential goods, particularly food and energy, to mitigate geopolitical disruption and economic pressure; second, conduct a thorough audit of digital infrastructure resilience and cybersecurity protocols, leveraging emerging AI capabilities while robustly addressing ethical governance frameworks; and third, reinforce physical safety protocols and comprehensive emergency preparedness plans, especially in seismically active zones, to safeguard personnel and assets against natural disasters.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.87 (2.22%)",
+            "title": "\ud83d\udcb0 NVDA: $204.06 (-0.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $295.63 (1.39%)",
+            "title": "\ud83d\udcb0 AAPL: $296.2 (0.19%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.34 (-1.77%)",
+            "title": "\ud83d\udcb0 MSFT: $387.99 (-0.6%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.08 (0.67%)",
+            "title": "\ud83d\udcb0 PLTR: $129.52 (-1.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $241.51 (1.47%)",
+            "title": "\ud83d\udcb0 AMZN: $238.68 (-1.17%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 128 km NW of Vallenar, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss82"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 123 km NW of Vallenar, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7x"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 62 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7v"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 68 km NNW of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssct"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 10 km SW of Qutqashen, Azerbaijan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssg4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - southern East Pacific Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssfk"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 203 km S of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssfb"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.5, just struck worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
