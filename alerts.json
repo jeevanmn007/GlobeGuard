@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by a confluence of acute geopolitical instability in the Middle East exacerbating humanitarian crises and supply chain vulnerabilities, while critical infrastructure across regions like Cuba remains dangerously fragile. This existential pressure on basic necessities, including food and energy, starkly contrasts with the robust performance of key technology sectors, indicating a bifurcated global economy. Simultaneously, a notable increase in significant seismic activity across disparate regions, including Chile and the Philippines, underscores persistent physical threats. Therefore, to secure assets and ensure safety, we must prioritize: 1) Proactive measures to diversify and secure critical supply chains for essential resources against ongoing geopolitical and economic shocks; 2) A comprehensive review of financial portfolios, hedging against inflation and market volatility while strategically leveraging resilient sectors; and 3) Immediate reinforcement of physical safety protocols and disaster preparedness plans, particularly in seismically active zones, to mitigate against increasing natural hazard risks.",
+    "strategicPlan": "The global situation presents a complex and urgent threat matrix, combining severe geopolitical instability with direct impacts on essential resources and persistent natural hazards. Ongoing conflicts in the Middle East are driving widespread hunger and energy crises, as evidenced by the dire grid collapse in Cuba and warnings from the WFP, while major tech equities show a generally upward trend, reflecting a segmented economic reality. Simultaneously, significant M5+ seismic events in active zones like Chile and Philippines highlight persistent tectonic risks that could further disrupt already strained global systems. To navigate this multifaceted environment, GlobeGuard directs immediate action: 1) Diversify essential supply chains, focusing on localized and resilient sources to mitigate food and energy vulnerability; 2) Conduct a comprehensive review of critical infrastructure dependencies, establishing robust contingency plans for potential disruptions like grid collapses; and 3) Proactively enhance emergency preparedness for natural disasters, particularly in seismically active regions, ensuring physical safety and operational continuity.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss82"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 58 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss57"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 59 km S of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss6g"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 117 km NW of Vallenar, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss5y"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 123 km NW of Vallenar, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss7x"
         }
     ],
-    "seismicSummary": "Urgent: Multiple 5.2-5.5M earthquakes reported in Chile and the Philippines!"
+    "seismicSummary": "**URGENT: Multiple M5+ earthquakes reported in Chile and the Philippines!**"
 }
