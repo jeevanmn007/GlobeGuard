@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely elevated, marked by escalating geopolitical conflicts in the Middle East that are severely destabilizing global food supply chains and exacerbating humanitarian crises, alongside critical energy infrastructure failures and pervasive energy poverty. Financially, key tech market segments show volatility amidst accelerating AI adoption and related ethical debates, indicating underlying economic uncertainty. Physically, persistent seismic activity, particularly across the Pacific Ring of Fire, highlights ongoing natural hazard risks. To secure assets and physical safety, prioritize immediate review and diversification of emergency food, water, and essential energy reserves; fortify financial resilience through strategic investment diversification and enhanced liquidity; and crucially, update all personal and structural emergency preparedness plans, particularly for seismic events, given the observed tectonic activity.",
+    "strategicPlan": "Strategic Directive: The global environment presents a complex and urgent threat matrix, where escalating geopolitical conflicts, epitomized by the Middle East and compounded by critical infrastructure failures like Cuba's grid collapse, are driving global food insecurity and surging energy costs, creating significant humanitarian and economic strain. Financial markets exhibit fragility, with major tech stocks showing declines amidst broader volatility. Concurrently, persistent moderate seismic activity in critical regions adds a layer of recurring physical risk. To navigate this landscape, immediately implement the following: First, diversify critical supply chains, particularly for food and energy, to mitigate geopolitical and infrastructure vulnerabilities. Second, assess and fortify physical assets and critical infrastructure against both seismic events and potential energy disruptions, emphasizing resilience. Third, strategically optimize financial portfolios for stability, hedging against commodity price fluctuations and ensuring diversification beyond highly volatile sectors.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssir"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, including a Mag 5.2, just reported globally."
+    "seismicSummary": "**Alert: Multiple M4.9-5.2 earthquakes just reported across the globe!**"
 }
