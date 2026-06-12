@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "GlobeGuard assesses a converging global threat landscape marked by escalating geopolitical instability, financial caution, and persistent physical vulnerabilities. Intensifying Middle East conflicts are severely impacting global food security and exacerbating humanitarian crises, alongside critical infrastructure failures and mounting cost-of-living pressures, while the geopolitical implications of AI's development introduce new points of friction. Concurrently, major tech stocks are experiencing a broad market downturn, signaling investor apprehension. Physically, ongoing moderate seismic activity across key regions like Vanuatu, Azerbaijan, and Russia underscores the enduring threat of sudden natural disasters. To secure assets and ensure physical safety, GlobeGuard issues the following directive: First, fortify essential supply chains by securing critical reserves and exploring localized sourcing to mitigate immediate food and energy insecurity. Second, conduct a comprehensive resilience audit of all critical infrastructure and digital assets against both physical and cyber threats, ensuring robust backup systems. Third, re-evaluate financial portfolios, prioritizing liquidity and diversification into defensive assets to navigate anticipated market volatility.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.06 (-0.4%)",
+            "title": "\ud83d\udcb0 NVDA: $204.77 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $296.2 (0.19%)",
+            "title": "\ud83d\udcb0 AAPL: $291.35 (-1.45%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $387.99 (-0.6%)",
+            "title": "\ud83d\udcb0 MSFT: $387.47 (-0.74%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $129.52 (-1.19%)",
+            "title": "\ud83d\udcb0 PLTR: $128.0 (-2.35%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.68 (-1.17%)",
+            "title": "\ud83d\udcb0 AMZN: $236.19 (-2.2%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssfb"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Urgent: Multiple earthquakes up to Mag 5 reported globally!**"
 }
