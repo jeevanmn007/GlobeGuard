@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "GlobeGuard assesses a rapidly deteriorating global environment marked by escalating geopolitical instability, epitomized by the conflict in Iran exacerbating widespread food and energy insecurity, and critical infrastructure vulnerabilities as seen in Cuba's grid collapse. While the technology sector advances aggressively into AI, this innovation is increasingly scrutinized through an ethical and geopolitical lens, signaling potential regulatory shifts, while persistent global seismic activity, evidenced by multiple M5+ earthquakes across the Pacific Rim, underscores inherent physical risks. To secure assets and ensure physical safety, immediate action is required: **first**, localize and diversify critical supply chains for food and energy, establishing robust reserves to counter geopolitical disruptions and economic pressures; **second**, critically review and rebalance investment portfolios, accounting for potential AI regulatory shifts and global market volatility, favoring resilient and tangible assets; and **third**, implement comprehensive physical preparedness measures including structural integrity assessments, emergency kits, and redundant communication and power systems, especially in seismically active or infrastructurally vulnerable regions.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssls"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 65 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssje"
+            "title": "\u26a0\ufe0f Mag 5.1 - 2 km S of Cerro de Piedra, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssq9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 118 km ESE of Bitung, Indonesia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnz"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Multiple magnitude 5+ earthquakes are hitting worldwide!**"
 }
