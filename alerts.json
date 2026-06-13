@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is alarmingly complex: escalating geopolitical conflicts in the Middle East are generating severe food and energy insecurity, evidenced by widespread hunger and critical infrastructure failures, while domestic energy affordability becomes a survival issue. Financially, tech stocks show mixed performance amidst a rapid, yet ethically debated, AI evolution. This instability is compounded by a notable surge in moderate seismic activity across vulnerable regions like the Philippines and Peru. Therefore, GlobeGuard advises: First, immediately fortify tangible assets by establishing diversified food and energy reserves, critically reviewing supply chain vulnerabilities. Second, de-risk financial portfolios by securing liquid assets and diversifying beyond volatile tech/AI, favoring resilient sectors. Third, enhance physical safety by updating and drilling comprehensive emergency plans, focusing on robust communication and pre-positioned resources for potential seismic events and infrastructure disruptions.",
+    "strategicPlan": "The global environment is critically strained by escalating geopolitical instability, driving acute humanitarian crises centered on food and energy scarcity as evidenced by conflicts in the Middle East and critical infrastructure failures in regions like Cuba. Financially, while AI innovation continues to shape the tech landscape, market volatility persists with key tech giants experiencing downturns, reflecting broader economic anxieties and emerging regulatory tensions. Concurrently, significant seismic activity across multiple major fault lines demands heightened vigilance regarding physical infrastructure and disaster preparedness. Therefore, immediately secure critical resources by establishing diversified energy alternatives and robust emergency food supplies; review and fortify financial resilience through portfolio diversification, especially monitoring emerging regulatory landscapes and geopolitical impacts on technology investments; and enhance physical preparedness by updating disaster plans and ensuring the structural integrity and backup capabilities of essential infrastructure against potential seismic events.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssms"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 30 km SSW of Daliao, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssit"
+            "title": "\u26a0\ufe0f Mag 5 - 93 km SSW of Unalaska, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnv"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes have just struck the Philippines and Peru!"
+    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5 earthquakes just reported in the Philippines, Peru, and Alaska!"
 }
