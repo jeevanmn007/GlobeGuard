@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically strained by escalating geopolitical instability, driving acute humanitarian crises centered on food and energy scarcity as evidenced by conflicts in the Middle East and critical infrastructure failures in regions like Cuba. Financially, while AI innovation continues to shape the tech landscape, market volatility persists with key tech giants experiencing downturns, reflecting broader economic anxieties and emerging regulatory tensions. Concurrently, significant seismic activity across multiple major fault lines demands heightened vigilance regarding physical infrastructure and disaster preparedness. Therefore, immediately secure critical resources by establishing diversified energy alternatives and robust emergency food supplies; review and fortify financial resilience through portfolio diversification, especially monitoring emerging regulatory landscapes and geopolitical impacts on technology investments; and enhance physical preparedness by updating disaster plans and ensuring the structural integrity and backup capabilities of essential infrastructure against potential seismic events.",
+    "strategicPlan": "The global intelligence assessment reveals an immediate, multi-faceted threat landscape: escalating geopolitical conflicts in the Middle East are critically disrupting global food and energy security, leading to widespread humanitarian distress and domestic economic strain, while financial markets show volatility amidst intense debates around AI's societal impact and international technological competition. This human-generated instability is compounded by persistent moderate seismic activity across tectonically active zones. Therefore, GlobeGuard mandates immediate action to secure core assets and safety: diversify essential supply chains by establishing robust emergency reserves of food, water, and energy; strategically de-risk financial portfolios, favoring stability in critical infrastructure and resource sectors over speculative tech; and ensure physical safety protocols are rigorously updated, including comprehensive emergency kits and communication plans, especially for personnel and assets within seismically vulnerable regions.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssje"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 0 km ESE of Suyo, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssms"
+            "title": "\u26a0\ufe0f Mag 5.1 - 118 km ESE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssp2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 93 km SSW of Unalaska, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnv"
+            "title": "\u26a0\ufe0f Mag 5.1 - 207 km WSW of Adak, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnz"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5 earthquakes just reported in the Philippines, Peru, and Alaska!"
+    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 5 earthquakes just struck the Philippines, Indonesia, and Alaska!"
 }
