@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, marked by a dangerous convergence of escalating geopolitical conflicts, severe humanitarian crises, and pronounced physical instability. Geopolitical strife, exemplified by wars in Iran and the broader Middle East, is directly disrupting vital food and energy supplies, precipitating widespread hunger and economic distress across vulnerable regions, while financial markets show volatility in key tech sectors amidst growing tensions over AI development. Compounding these systemic pressures, significant M5+ seismic activity across the Pacific Ring of Fire signals heightened physical risks to infrastructure and populations. In response, GlobeGuard directs immediate action: 1) Secure essential resources by establishing robust reserves of non-perishable food, potable water, and critical medical supplies for at least 72 hours for all personnel and dependents, while seeking diversified energy solutions where feasible. 2) Re-evaluate financial portfolios, reducing exposure to highly volatile growth assets and considering strategic reallocation into stable, tangible holdings or essential sector investments to buffer against economic shocks and supply chain disruptions. 3) For all personnel and assets located in seismically active zones, immediately implement or thoroughly review earthquake preparedness protocols, focusing on structural integrity assessments, clear evacuation plans, and readily accessible, fully stocked disaster kits.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnz"
         }
     ],
-    "seismicSummary": "Urgent: Multiple 5.1-5.2 magnitude earthquakes reported, primarily near the Philippines."
+    "seismicSummary": "Analyzing tectonic data..."
 }
