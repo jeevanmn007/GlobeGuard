@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is under significant duress, marked by a critical confluence of escalating geopolitical instability in the Middle East driving severe food insecurity and energy crises globally, exemplified by Cuba's grid collapse and widespread energy poverty. Financially, tech markets exhibit mixed signals, yet underlying economic anxieties are palpable amidst evolving AI discourse. Simultaneously, a distinct and concerning cluster of moderate-to-strong seismic activity (Mag 4.9-5.2) in the vulnerable Philippines/Indonesia region underscores persistent physical threats. To secure assets and physical safety, GlobeGuard directs immediate action: first, fortify essential resource inventories including emergency food, water, and independent power solutions, preparing for prolonged supply chain disruptions and utility outages; second, rigorously review and update personal and facility emergency preparedness plans, focusing on structural integrity assessments, communication protocols, and evacuation routes, particularly for those in seismically active zones; and third, closely monitor geopolitical developments and their downstream effects on commodity prices and financial markets, adjusting investment strategies to mitigate exposure to volatile sectors while seeking stability in resilient assets.",
+    "strategicPlan": "The global environment is alarmingly complex: escalating geopolitical conflicts in the Middle East are generating severe food and energy insecurity, evidenced by widespread hunger and critical infrastructure failures, while domestic energy affordability becomes a survival issue. Financially, tech stocks show mixed performance amidst a rapid, yet ethically debated, AI evolution. This instability is compounded by a notable surge in moderate seismic activity across vulnerable regions like the Philippines and Peru. Therefore, GlobeGuard advises: First, immediately fortify tangible assets by establishing diversified food and energy reserves, critically reviewing supply chain vulnerabilities. Second, de-risk financial portfolios by securing liquid assets and diversifying beyond volatile tech/AI, favoring resilient sectors. Third, enhance physical safety by updating and drilling comprehensive emergency plans, focusing on robust communication and pre-positioned resources for potential seismic events and infrastructure disruptions.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssje"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 30 km SSW of Daliao, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssit"
+            "title": "\u26a0\ufe0f Mag 5.1 - 0 km ESE of Suyo, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssms"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 137 km N of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssjl"
+            "title": "\u26a0\ufe0f Mag 5 - 30 km SSW of Daliao, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssit"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong quakes (up to Mag 5.2) just hit the Philippines and Indonesia!"
+    "seismicSummary": "Multiple M5+ earthquakes have just struck the Philippines and Peru!"
 }
