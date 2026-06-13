@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global environment presents a complex and urgent threat matrix, where escalating geopolitical conflicts, epitomized by the Middle East and compounded by critical infrastructure failures like Cuba's grid collapse, are driving global food insecurity and surging energy costs, creating significant humanitarian and economic strain. Financial markets exhibit fragility, with major tech stocks showing declines amidst broader volatility. Concurrently, persistent moderate seismic activity in critical regions adds a layer of recurring physical risk. To navigate this landscape, immediately implement the following: First, diversify critical supply chains, particularly for food and energy, to mitigate geopolitical and infrastructure vulnerabilities. Second, assess and fortify physical assets and critical infrastructure against both seismic events and potential energy disruptions, emphasizing resilience. Third, strategically optimize financial portfolios for stability, hedging against commodity price fluctuations and ensuring diversification beyond highly volatile sectors.",
+    "strategicPlan": "The global landscape is under significant duress, marked by a critical confluence of escalating geopolitical instability in the Middle East driving severe food insecurity and energy crises globally, exemplified by Cuba's grid collapse and widespread energy poverty. Financially, tech markets exhibit mixed signals, yet underlying economic anxieties are palpable amidst evolving AI discourse. Simultaneously, a distinct and concerning cluster of moderate-to-strong seismic activity (Mag 4.9-5.2) in the vulnerable Philippines/Indonesia region underscores persistent physical threats. To secure assets and physical safety, GlobeGuard directs immediate action: first, fortify essential resource inventories including emergency food, water, and independent power solutions, preparing for prolonged supply chain disruptions and utility outages; second, rigorously review and update personal and facility emergency preparedness plans, focusing on structural integrity assessments, communication protocols, and evacuation routes, particularly for those in seismically active zones; and third, closely monitor geopolitical developments and their downstream effects on commodity prices and financial markets, adjusting investment strategies to mitigate exposure to volatile sectors while seeking stability in resilient assets.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 2 km WSW of Kablalan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssls"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 65 km S of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssje"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 137 km N of Tobelo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssjl"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 123 km W of El Aguilar, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssir"
         }
     ],
-    "seismicSummary": "**Alert: Multiple M4.9-5.2 earthquakes just reported across the globe!**"
+    "seismicSummary": "\ud83d\udea8 Multiple strong quakes (up to Mag 5.2) just hit the Philippines and Indonesia!"
 }
