@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a rapidly deteriorating environment marked by interconnected systemic risks. Geopolitically, ongoing conflicts in the Middle East and energy infrastructure failures are severely impacting global food supply chains and driving humanitarian crises, further exacerbated by domestic energy cost pressures. Financially, critical tech sectors exhibit volatile performance, indicating underlying market uncertainty amidst an accelerating AI landscape and growing regulatory debates. Concurrently, a cluster of significant seismic events across multiple global fault lines underscores a heightened period of planetary tectonic instability. Given this multifaceted threat matrix, immediately secure your operational continuity by diversifying critical supply chains and establishing robust food and energy reserves, fortify financial portfolios against market volatility through strategic rebalancing and inflation-resistant assets, and review and update all emergency preparedness protocols, paying particular attention to seismic safety and physical asset protection measures.",
+    "strategicPlan": "The global environment presents a complex and concerning threat matrix: widespread geopolitical conflicts are critically exacerbating food and energy insecurity, as evidenced by dire situations from Iran to Cuba and rising household costs in developed nations. Financially, major tech stocks show volatility amidst rapid AI integration, signalling market sensitivity and potential for deeper shifts. Concurrently, a cluster of Mag 5+ seismic events across diverse active zones globally serves as a stark reminder of persistent geophysical instability. To navigate this landscape, GlobeGuard directs immediate action: first, prioritize the diversification and localization of essential supply chains for food, water, and alternative energy to build resilience against supply shocks; second, conduct a swift review of financial portfolios for resilience, ensuring adequate liquidity and strategic allocation towards defensive assets while closely monitoring tech sector shifts; and third, expedite comprehensive emergency preparedness protocols and physical infrastructure assessments for all key assets and personnel, especially in seismically active or infrastructurally vulnerable regions.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnz"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5 earthquakes are striking globally!"
+    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes have struck diverse locations worldwide!"
 }
