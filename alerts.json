@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is currently marked by a critical convergence of escalating geopolitical tensions in the Middle East driving widespread food and energy insecurity, severe infrastructure fragility as evidenced by the Cuba grid collapse, and persistent significant seismic activity worldwide. Financially, while AI integration continues to reshape markets and societal discourse, the broader tech sector exhibits volatility, signaling underlying economic pressures. To navigate this complex landscape, GlobeGuard advises three immediate actions: first, proactively diversify and secure essential provisions, prioritizing local sourcing to mitigate supply chain disruptions exacerbated by conflict and energy costs; second, conduct a thorough audit of critical infrastructure dependencies, developing robust contingency plans for potential grid failures or logistical bottlenecks; and third, reinforce personal and family emergency preparedness, with a specific focus on robust earthquake response protocols given the sustained global tectonic shifts.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 0 km ESE of Suyo, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssms"
+            "title": "\u26a0\ufe0f Mag 5 - 33 km ESE of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssqy"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple Mag 5 earthquakes reported worldwide!"
 }
