@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently marked by a critical convergence of escalating geopolitical tensions in the Middle East driving widespread food and energy insecurity, severe infrastructure fragility as evidenced by the Cuba grid collapse, and persistent significant seismic activity worldwide. Financially, while AI integration continues to reshape markets and societal discourse, the broader tech sector exhibits volatility, signaling underlying economic pressures. To navigate this complex landscape, GlobeGuard advises three immediate actions: first, proactively diversify and secure essential provisions, prioritizing local sourcing to mitigate supply chain disruptions exacerbated by conflict and energy costs; second, conduct a thorough audit of critical infrastructure dependencies, developing robust contingency plans for potential grid failures or logistical bottlenecks; and third, reinforce personal and family emergency preparedness, with a specific focus on robust earthquake response protocols given the sustained global tectonic shifts.",
+    "strategicPlan": "The global landscape is acutely destabilized, marked by escalating geopolitical conflicts in the Middle East severely impacting food security and driving humanitarian crises, mirrored by acute infrastructure vulnerabilities such as Cuba's grid collapse and pervasive energy cost pressures globally. Financially, major tech stocks exhibit significant volatility, with key players experiencing declines amidst broader market unease, even as the ethical and societal implications of rapid AI advancement intensify. Concurrently, a broad pattern of Mag 5+ seismic events across disparate global regions, including Mexico, Southeast Asia, and Chile, presents a persistent physical threat requiring heightened awareness. To mitigate these convergent risks, immediately: 1) Proactively secure and diversify critical resource inventories, focusing on localized food and energy redundancies to buffer against geopolitical and infrastructural shocks. 2) Conduct a comprehensive audit of all critical operational infrastructure, enhancing cybersecurity and implementing robust failover systems to ensure continuity amidst global disruptions. 3) Establish heightened vigilance for regional seismic activity, deploying dynamic emergency response protocols and ensuring localized physical safety measures are paramount across all vulnerable operational areas.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssp2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 207 km WSW of Adak, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnz"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 33 km ESE of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssqy"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 24 km W of Ovalle, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssp1"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes reported worldwide!"
+    "seismicSummary": "Four Mag 5 earthquakes just struck globally!"
 }
