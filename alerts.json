@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is acutely destabilized, marked by escalating geopolitical conflicts in the Middle East severely impacting food security and driving humanitarian crises, mirrored by acute infrastructure vulnerabilities such as Cuba's grid collapse and pervasive energy cost pressures globally. Financially, major tech stocks exhibit significant volatility, with key players experiencing declines amidst broader market unease, even as the ethical and societal implications of rapid AI advancement intensify. Concurrently, a broad pattern of Mag 5+ seismic events across disparate global regions, including Mexico, Southeast Asia, and Chile, presents a persistent physical threat requiring heightened awareness. To mitigate these convergent risks, immediately: 1) Proactively secure and diversify critical resource inventories, focusing on localized food and energy redundancies to buffer against geopolitical and infrastructural shocks. 2) Conduct a comprehensive audit of all critical operational infrastructure, enhancing cybersecurity and implementing robust failover systems to ensure continuity amidst global disruptions. 3) Establish heightened vigilance for regional seismic activity, deploying dynamic emergency response protocols and ensuring localized physical safety measures are paramount across all vulnerable operational areas.",
+    "strategicPlan": "The global operating environment is marked by escalating instability across multiple vectors. Geopolitically, deepening conflicts in the Middle East, particularly Iran, are demonstrably impacting global food and energy security, evidenced by widespread hunger and domestic energy crises, while infrastructure vulnerabilities are starkly highlighted by the Cuba grid collapse. Financially, major tech stocks exhibit significant volatility despite ongoing AI advancements, indicating broader market uncertainty and emergent geopolitical friction around technological dominance. Concurrently, persistent seismic activity, notably in the Philippines and Mexico, underscores a continuous physical threat. In response, GlobeGuard advises immediate action: **First**, localize and diversify your critical supply chains, with particular emphasis on food and energy resilience. **Second**, implement enhanced monitoring of geopolitical hotspots and critical infrastructure stability for early warning of disruption. **Third**, rigorously review and update all emergency preparedness and physical security protocols to account for both natural disaster risks and cascading systemic failures.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 2 km S of Cerro de Piedra, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssq9"
+            "title": "\u26a0\ufe0f Mag 5.2 - 53 km ENE of Hinatuan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssub"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 118 km ESE of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssp2"
+            "title": "\u26a0\ufe0f Mag 5.1 - 2 km S of Cerro de Piedra, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssq9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 33 km ESE of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssqy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 24 km W of Ovalle, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssp1"
+            "title": "\u26a0\ufe0f Mag 4.8 - 6 km ESE of Butulan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssrp"
         }
     ],
-    "seismicSummary": "Four Mag 5 earthquakes just struck globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple ~Mag 5 quakes reported in the Philippines and Mexico!"
 }
