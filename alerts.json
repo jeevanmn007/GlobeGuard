@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief indicates a critical convergence of threats: escalating geopolitical conflicts in the Middle East are severely disrupting global food and energy supply chains, as evidenced by widespread hunger and domestic energy crises, while key tech markets exhibit significant volatility amidst an AI boom facing ethical and geopolitical scrutiny. Concurrently, heightened seismic activity across the Philippines and Greece signifies persistent localized physical risks from natural disasters. In response, GlobeGuard directs immediate action: first, fortify your financial posture by diversifying investments away from volatile tech and securing essential commodities, while assessing supply chain resilience for critical resources like food and energy. Second, prioritize physical safety by reinforcing emergency preparedness plans, particularly for seismic events and potential infrastructure disruptions, ensuring independent access to essential utilities. Third, enhance personal and communal resilience strategies by mapping local resource availability and strengthening support networks, preparing for sustained periods of instability and resource scarcity.",
+    "strategicPlan": "The global environment is currently marked by a complex interplay of severe geopolitical instability, humanitarian crises, and emergent physical threats. Escalating conflicts in the Middle East and Iran are profoundly disrupting global food and energy supply chains, pushing millions into hunger and creating significant economic strain, while critical infrastructure vulnerabilities are evident elsewhere. Financial markets reflect this uncertainty with mixed tech sector performance. Concurrently, a notable increase in moderate seismic activity, particularly clustered in the Philippines and present in Greece, signals heightened physical risk. To navigate this multi-faceted threat landscape, GlobeGuard advises: 1) Immediately audit and diversify essential supply chains, focusing on food, water, and alternative energy reserves to mitigate supply shocks. 2) Enhance regional intelligence gathering on geopolitical flashpoints and critical infrastructure health to anticipate localized disruptions. 3) Reinforce physical safety protocols and asset integrity checks, particularly for operations and personnel situated in seismically active zones or regions prone to civil unrest.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssrp"
         }
     ],
-    "seismicSummary": "Urgent: Multiple moderate earthquakes, up to Mag 5.2, just hit the Philippines and Greece!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck the Philippines, with another in Greece!"
 }
