@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is marked by escalating instability across multiple vectors. Geopolitically, deepening conflicts in the Middle East, particularly Iran, are demonstrably impacting global food and energy security, evidenced by widespread hunger and domestic energy crises, while infrastructure vulnerabilities are starkly highlighted by the Cuba grid collapse. Financially, major tech stocks exhibit significant volatility despite ongoing AI advancements, indicating broader market uncertainty and emergent geopolitical friction around technological dominance. Concurrently, persistent seismic activity, notably in the Philippines and Mexico, underscores a continuous physical threat. In response, GlobeGuard advises immediate action: **First**, localize and diversify your critical supply chains, with particular emphasis on food and energy resilience. **Second**, implement enhanced monitoring of geopolitical hotspots and critical infrastructure stability for early warning of disruption. **Third**, rigorously review and update all emergency preparedness and physical security protocols to account for both natural disaster risks and cascading systemic failures.",
+    "strategicPlan": "The global situation is critical, marked by severe geopolitical instability evident in escalating conflicts in Iran and the Middle East, driving widespread food and energy insecurity, as well as critical infrastructure failures like Cuba's grid collapse. Financially, while select tech stocks demonstrate resilience, broader market weakness signals increasing economic fragility. This intricate tapestry of human-made crises is compounded by a notable surge in significant seismic activity, particularly across the Philippines and Mexico, indicating heightened physical threats. To navigate this complex environment, GlobeGuard advises immediate action: first, diversify essential asset holdings and secure critical supplies, prioritizing resilience against supply chain disruptions and economic shocks; second, rigorously review and fortify physical safety protocols and disaster preparedness plans, especially in seismically active zones; and third, strategically re-evaluate investment portfolios towards defensive positions and essential services to mitigate financial exposure to ongoing volatility.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssub"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 27 km SE of Magdalena, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssv0"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 2 km S of Cerro de Piedra, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssq9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 33 km ESE of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssqy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 6 km ESE of Butulan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssrp"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple ~Mag 5 quakes reported in the Philippines and Mexico!"
+    "seismicSummary": "**Urgent: Multiple Mag 5 earthquakes just struck the Philippines and Mexico!**"
 }
