@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently marked by a complex interplay of severe geopolitical instability, humanitarian crises, and emergent physical threats. Escalating conflicts in the Middle East and Iran are profoundly disrupting global food and energy supply chains, pushing millions into hunger and creating significant economic strain, while critical infrastructure vulnerabilities are evident elsewhere. Financial markets reflect this uncertainty with mixed tech sector performance. Concurrently, a notable increase in moderate seismic activity, particularly clustered in the Philippines and present in Greece, signals heightened physical risk. To navigate this multi-faceted threat landscape, GlobeGuard advises: 1) Immediately audit and diversify essential supply chains, focusing on food, water, and alternative energy reserves to mitigate supply shocks. 2) Enhance regional intelligence gathering on geopolitical flashpoints and critical infrastructure health to anticipate localized disruptions. 3) Reinforce physical safety protocols and asset integrity checks, particularly for operations and personnel situated in seismically active zones or regions prone to civil unrest.",
+    "strategicPlan": "The global strategic environment is exhibiting critical strain, characterized by escalating geopolitical conflicts in the Middle East driving severe food and energy insecurity, as evidenced by the Cuban grid collapse and widespread humanitarian hunger. Financially, major tech stocks are showing significant downturns, indicating market apprehension despite AI advancements, while simultaneously, a notable cluster of moderate seismic activity across the Philippines, Indonesia, and Greece underscores persistent physical threats. To navigate this complex and volatile landscape, GlobeGuard advises immediate action: first, fortify personal and operational resilience by securing essential resources such as food, water, and alternative energy sources, alongside diversifying investment portfolios to mitigate market volatility; second, review and practice comprehensive emergency preparedness protocols for natural disasters, particularly earthquake response, especially if located in or dependent on infrastructure within active seismic zones; and third, critically assess and build redundancy into personal and business supply chains, anticipating further disruptions to critical goods and services.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssw0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 6 km ESE of Butulan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssrp"
+            "title": "\u26a0\ufe0f Mag 4.6 - 69 km SSW of Tambolaka, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssw7"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck the Philippines, with another in Greece!"
+    "seismicSummary": "**Urgent: Multiple quakes, up to M5.2, just reported worldwide!**"
 }
