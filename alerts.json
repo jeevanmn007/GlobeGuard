@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is defined by a critical confluence of factors: escalating geopolitical conflicts in the Middle East and beyond are precipitating widespread food and energy insecurity, as evidenced by regional grid failures and cost-of-living crises impacting fundamental needs. This human-centric struggle is juxtaposed against a robust, AI-driven surge in the tech sector, indicating significant market opportunity amidst global hardship. Simultaneously, notable seismic activity, particularly the M6.2 in the Philippines, highlights persistent physical threats. To secure assets and ensure safety, prioritize the diversification and securing of critical resource supply chains, conduct immediate structural integrity assessments of all key physical holdings, and maintain strategic exposure to innovative tech sectors while vigilantly monitoring emerging regulatory and ethical frameworks.",
+    "strategicPlan": "The global strategic environment is critically complex, marked by escalating geopolitical conflicts in the Middle East driving severe global food and energy crises, exemplified by widespread hunger and critical infrastructure failures like Cuba's grid collapse. This widespread humanitarian emergency unfolds against a backdrop of a surging tech market, buoyed by AI advancements, showing strong financial gains despite broader economic strains. Concurrently, a significant uptick in seismic activity across the Philippines and Loyalty Islands introduces a persistent and immediate physical threat, underscoring the compounding nature of global risks. To navigate this converging risk environment, your immediate priorities must be: 1) **Diversify Essential Holdings**: Secure critical non-perishable food, water, and alternative energy sources to build resilience against supply chain disruptions and power failures. 2) **Enhance Disaster Preparedness**: Develop and review robust emergency plans, including go-bags, communication strategies, and structural safety assessments, particularly for those in seismically active or vulnerable regions. 3) **Strategically Re-evaluate Assets**: Monitor global economic and geopolitical developments closely, recalibrating investment portfolios towards defensive and tangible assets capable of withstanding escalating conflicts and potential market volatility.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.92 (3.28%)",
+            "title": "\ud83d\udcb0 NVDA: $212.45 (3.54%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $295.81 (1.61%)",
+            "title": "\ud83d\udcb0 AAPL: $296.42 (1.82%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $399.4 (2.22%)",
+            "title": "\ud83d\udcb0 MSFT: $399.76 (2.31%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.88 (4.6%)",
+            "title": "\ud83d\udcb0 PLTR: $134.71 (5.25%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.28 (3.24%)",
+            "title": "\ud83d\udcb0 AMZN: $246.02 (3.13%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st48"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 20 km SSW of Meth\u00f3ni, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssw0"
+            "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st5e"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st12"
+            "title": "\u26a0\ufe0f Mag 4.9 - 11 km W of Balangonan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st6l"
         }
     ],
-    "seismicSummary": "Urgent: A magnitude 6.2 earthquake just struck the Philippines, amid multiple other significant global quakes!"
+    "seismicSummary": "**Magnitude 6.2 strikes the Philippines amid multiple strong earthquakes, including a Mag 5 near Loyalty Islands.**"
 }
