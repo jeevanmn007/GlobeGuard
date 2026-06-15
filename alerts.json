@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a critical convergence of threats: escalating geopolitical conflicts are driving widespread food and energy insecurity and supply chain disruptions; key technology markets are experiencing significant volatility despite intense innovation and ethical debates surrounding AI; and simultaneously, a concerning spike in seismic activity, particularly multiple strong earthquakes in the Philippines and a significant event in Greece, presents an immediate physical risk. To mitigate these interwoven dangers, first, secure resilient and diversified supply chains for essential resources while developing robust energy contingency plans. Second, meticulously review and diversify financial portfolios, adjusting exposure to volatile tech stocks and strategically investing in long-term resilience and ethically aligned technological solutions. Third, immediately enhance emergency preparedness protocols, conducting structural integrity assessments for critical assets and establishing comprehensive safety plans for personnel and operations in seismically active zones.",
+    "strategicPlan": "The global landscape is defined by a critical confluence of factors: escalating geopolitical conflicts in the Middle East and beyond are precipitating widespread food and energy insecurity, as evidenced by regional grid failures and cost-of-living crises impacting fundamental needs. This human-centric struggle is juxtaposed against a robust, AI-driven surge in the tech sector, indicating significant market opportunity amidst global hardship. Simultaneously, notable seismic activity, particularly the M6.2 in the Philippines, highlights persistent physical threats. To secure assets and ensure safety, prioritize the diversification and securing of critical resource supply chains, conduct immediate structural integrity assessments of all key physical holdings, and maintain strategic exposure to innovative tech sectors while vigilantly monitoring emerging regulatory and ethical frameworks.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $205.19 (0.16%)",
+            "title": "\ud83d\udcb0 NVDA: $211.92 (3.28%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $291.13 (-1.52%)",
+            "title": "\ud83d\udcb0 AAPL: $295.81 (1.61%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.74 (0.1%)",
+            "title": "\ud83d\udcb0 MSFT: $399.4 (2.22%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $127.99 (-2.36%)",
+            "title": "\ud83d\udcb0 PLTR: $133.88 (4.6%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.55 (-1.23%)",
+            "title": "\ud83d\udcb0 AMZN: $246.28 (3.24%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st1c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 53 km ENE of Hinatuan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssub"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 27 km SE of Magdalena, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssv0"
+            "title": "\u26a0\ufe0f Mag 5.5 - 5 km SSW of Pangyan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st48"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 20 km SSW of Meth\u00f3ni, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssw0"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st12"
         }
     ],
-    "seismicSummary": "M6.2 quake hits Philippines, among several tremors there and in Greece!"
+    "seismicSummary": "Urgent: A magnitude 6.2 earthquake just struck the Philippines, amid multiple other significant global quakes!"
 }
