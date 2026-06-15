@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is exhibiting critical strain, characterized by escalating geopolitical conflicts in the Middle East driving severe food and energy insecurity, as evidenced by the Cuban grid collapse and widespread humanitarian hunger. Financially, major tech stocks are showing significant downturns, indicating market apprehension despite AI advancements, while simultaneously, a notable cluster of moderate seismic activity across the Philippines, Indonesia, and Greece underscores persistent physical threats. To navigate this complex and volatile landscape, GlobeGuard advises immediate action: first, fortify personal and operational resilience by securing essential resources such as food, water, and alternative energy sources, alongside diversifying investment portfolios to mitigate market volatility; second, review and practice comprehensive emergency preparedness protocols for natural disasters, particularly earthquake response, especially if located in or dependent on infrastructure within active seismic zones; and third, critically assess and build redundancy into personal and business supply chains, anticipating further disruptions to critical goods and services.",
+    "strategicPlan": "The current global intelligence picture reveals a critical convergence of threats: escalating geopolitical conflicts are driving widespread food and energy insecurity and supply chain disruptions; key technology markets are experiencing significant volatility despite intense innovation and ethical debates surrounding AI; and simultaneously, a concerning spike in seismic activity, particularly multiple strong earthquakes in the Philippines and a significant event in Greece, presents an immediate physical risk. To mitigate these interwoven dangers, first, secure resilient and diversified supply chains for essential resources while developing robust energy contingency plans. Second, meticulously review and diversify financial portfolios, adjusting exposure to volatile tech stocks and strategically investing in long-term resilience and ethically aligned technological solutions. Third, immediately enhance emergency preparedness protocols, conducting structural integrity assessments for critical assets and establishing comprehensive safety plans for personnel and operations in seismically active zones.",
     "survival": [
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.2 - 67 km ESE of Pondaguitan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st1c"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 53 km ENE of Hinatuan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssub"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 20 km SSW of Meth\u00f3ni, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssw0"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - 69 km SSW of Tambolaka, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssw7"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple quakes, up to M5.2, just reported worldwide!**"
+    "seismicSummary": "M6.2 quake hits Philippines, among several tremors there and in Greece!"
 }
