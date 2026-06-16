@@ -1,7 +1,11 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention: escalating geopolitical conflicts in the Middle East are directly translating into widespread food and energy insecurity, as evidenced by supply chain disruptions and critical infrastructure failures like Cuba's grid collapse, while concurrently, the Indo-Pacific region is experiencing a surge in significant seismic activity, posing direct physical threats. Financially, the tech sector exhibits volatility, with key growth stocks like NVDA and MSFT trending down amidst this instability. To mitigate these converging risks, GlobeGuard advises three immediate actions: First, **fortify physical safety by ensuring updated emergency preparedness kits and reviewing regional earthquake response plans**, particularly for assets and personnel in seismically active zones. Second, **strategically re-evaluate and diversify financial portfolios**, favoring resilience against geopolitical and supply chain shocks, rather than over-reliance on volatile tech growth. Third, **prioritize resource security by stocking critical non-perishable goods, water, and independent power solutions**, preparing for potential disruptions stemming from intensified conflicts or natural calamities.",
+    "strategicPlan": "The current global landscape presents a critical confluence of escalating threats: geopolitical instability, marked by conflict-driven food insecurity and infrastructure collapse in the Middle East and Caribbean, is intensifying the economic strain of climate change. Concurrently, significant seismic activity across the Asia-Pacific underscores heightened natural disaster risks, all set against a backdrop of volatile tech markets. To secure assets and physical safety, GlobeGuard issues the following directives: First, immediately audit and diversify financial portfolios to include inflation-resilient assets, anticipating further supply chain disruptions and economic volatility. Second, reinforce personal and operational resilience by securing essential resources and establishing robust emergency plans that account for critical infrastructure failures and prolonged resource scarcity. Third, for individuals and entities in seismically active regions, prioritize structural integrity assessments and maintain a high state of readiness, including comprehensive disaster response plans and readily available survival provisions.",
     "survival": [
+        {
+            "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
+            "link": "https://gizmodo.com/most-americans-say-climate-change-is-making-life-more-expensive-theyre-right-2000771978"
+        },
         {
             "title": "How the war in Iran is affecting your dinner plate",
             "link": "https://www.scientificamerican.com/article/how-the-war-in-iran-is-affecting-your-dinner-plate/"
@@ -13,31 +17,27 @@
         {
             "title": "Middle East conflict pushing millions into hunger, WFP says",
             "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
-        },
-        {
-            "title": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
-            "link": "https://www.bbc.com/news/articles/c0j2ep13le2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.01 (-1.62%)",
+            "title": "\ud83d\udcb0 NVDA: $207.41 (-2.37%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $299.44 (1.02%)",
+            "title": "\ud83d\udcb0 AAPL: $299.24 (0.95%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $391.88 (-1.97%)",
+            "title": "\ud83d\udcb0 MSFT: $393.83 (-1.48%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.25 (-2.57%)",
+            "title": "\ud83d\udcb0 PLTR: $133.25 (-1.08%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.29 (0.11%)",
+            "title": "\ud83d\udcb0 AMZN: $246.0 (-0.01%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stcs"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes are striking Asia, including a dangerous M6.7 in Indonesia!**"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes, including a 6.7 in Indonesia and a 6.3 in China, just struck!**"
 }
