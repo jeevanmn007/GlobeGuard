@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by intensifying geopolitical instability, primarily driven by persistent Middle East conflicts exacerbating food insecurity and stressing global supply chains, while critical infrastructure vulnerabilities are highlighted by events like Cuba's grid collapse. Financially, major tech stocks are signaling market apprehension, even as AI development progresses amid escalating ethical and regulatory debates that will shape future economic competition. Concurrently, a cluster of significant seismic events across Asia underscores ongoing physical risks from natural disasters. To navigate this complex environment, clients should immediately: re-evaluate portfolio diversification, favoring resilient sectors and hedging against commodity price volatility; enhance personal and organizational preparedness for infrastructure disruptions and supply chain shocks, ensuring readiness for extended periods without conventional services; and intensify monitoring of critical global flashpoints and the evolving regulatory landscape for AI, as these will define future economic and security parameters.",
+    "strategicPlan": "**STRATEGIC DIRECTIVE: Immediate Global Risk Assessment**\n\nThe global threat landscape is escalating rapidly across multiple vectors, demanding urgent and decisive action. Geopolitically, the pervasive impacts of climate change are driving increased cost-of-living burdens, while escalating conflicts in Iran and the broader Middle East are directly causing widespread hunger and severe supply chain disruptions, epitomized by critical infrastructure failures such as Cuba's grid collapse. Financially, major tech indicators show a distinct downturn, with leading stocks like NVDA, AAPL, MSFT, PLTR, and AMZN experiencing significant losses, signaling broad market instability and a potential recessionary environment. Concurrently, physical tectonic activity is demonstrably heightened, marked by recent significant earthquakes including a Mag 6.6 in the Mid-Atlantic Ridge and multiple Mag 5+ events across China, Indonesia, and the Philippines, indicating a period of increased geological volatility. This confluence of geopolitical instability, economic contraction, and physical threats necessitates immediate adaptation and preparedness.\n\nTo secure assets and ensure physical safety, GlobeGuard advises the following three actionable points: First, immediately fortify financial resilience by increasing liquid reserves, diversifying investments away from volatile tech, and evaluating essential expense reduction strategies to mitigate the impact of rising costs and market decline. Second, establish robust, localized supply chain redundancies for critical resources, particularly food and energy, by securing non-perishable reserves and backup power solutions, given the widespread food insecurity and infrastructure fragility. Third, review and update emergency preparedness plans for physical locations, ensuring earthquake readiness and establishing secure communication protocols to account for potential disruptions stemming from both natural disasters and escalating geopolitical crises.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.96 (-0.21%)",
+            "title": "\ud83d\udcb0 NVDA: $204.65 (-1.33%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $296.76 (-0.83%)",
+            "title": "\ud83d\udcb0 AAPL: $295.95 (-1.1%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $384.18 (-2.45%)",
+            "title": "\ud83d\udcb0 MSFT: $378.91 (-3.79%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.0 (1.32%)",
+            "title": "\ud83d\udcb0 PLTR: $130.63 (-1.97%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $239.45 (-2.66%)",
+            "title": "\ud83d\udcb0 AMZN: $237.5 (-3.46%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.6 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 258 km SSE of Dunhuang, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stn8"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 144 km SE of Pondaguitan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stka"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 267 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stjw"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5 earthquakes are striking across Asia, including China, Indonesia, and the Philippines!"
+    "seismicSummary": "Multiple significant earthquakes are striking globally, led by a M6.6 in the Mid-Atlantic!"
 }
