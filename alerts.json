@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "**STRATEGIC DIRECTIVE: Immediate Global Risk Assessment**\n\nThe global threat landscape is escalating rapidly across multiple vectors, demanding urgent and decisive action. Geopolitically, the pervasive impacts of climate change are driving increased cost-of-living burdens, while escalating conflicts in Iran and the broader Middle East are directly causing widespread hunger and severe supply chain disruptions, epitomized by critical infrastructure failures such as Cuba's grid collapse. Financially, major tech indicators show a distinct downturn, with leading stocks like NVDA, AAPL, MSFT, PLTR, and AMZN experiencing significant losses, signaling broad market instability and a potential recessionary environment. Concurrently, physical tectonic activity is demonstrably heightened, marked by recent significant earthquakes including a Mag 6.6 in the Mid-Atlantic Ridge and multiple Mag 5+ events across China, Indonesia, and the Philippines, indicating a period of increased geological volatility. This confluence of geopolitical instability, economic contraction, and physical threats necessitates immediate adaptation and preparedness.\n\nTo secure assets and ensure physical safety, GlobeGuard advises the following three actionable points: First, immediately fortify financial resilience by increasing liquid reserves, diversifying investments away from volatile tech, and evaluating essential expense reduction strategies to mitigate the impact of rising costs and market decline. Second, establish robust, localized supply chain redundancies for critical resources, particularly food and energy, by securing non-perishable reserves and backup power solutions, given the widespread food insecurity and infrastructure fragility. Third, review and update emergency preparedness plans for physical locations, ensuring earthquake readiness and establishing secure communication protocols to account for potential disruptions stemming from both natural disasters and escalating geopolitical crises.",
+    "strategicPlan": "The global situation is critical, marked by escalating geopolitical conflicts driving severe food and energy inflation and highlighting critical infrastructure vulnerabilities, alongside a notable downturn in major tech markets and persistent, significant seismic activity worldwide. To navigate this volatile environment, immediately secure financial assets through diversification towards inflation-resistant holdings, fortify personal and organizational supply chains for essential resources, and rigorously review emergency preparedness plans, ensuring robust off-grid capabilities and response protocols for both natural disasters and civil disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stk6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 144 km SE of Pondaguitan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stka"
+            "title": "\u26a0\ufe0f Mag 5 - 68 km ESE of Bobon, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su6s"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes are striking globally, led by a M6.6 in the Mid-Atlantic!"
+    "seismicSummary": "Urgent: A 6.6 magnitude earthquake just struck the Mid-Atlantic, with multiple 5+ magnitude quakes worldwide!"
 }
