@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of escalating geopolitical instability, with the Middle East conflict directly impacting global food security and economic inflation exacerbated by climate change, while critical infrastructure vulnerabilities remain evident. Financially, major tech stocks show mixed performance, indicating underlying market volatility despite AI advancements. Concurrently, heightened seismic activity across the Pacific Rim presents a pressing, tangible physical threat. Therefore, secure your essential resources by diversifying food and energy supplies against economic and geopolitical disruptions; reinforce physical safety protocols and emergency preparedness plans, especially in seismically active regions; and strategically review asset portfolios for resilience against both market volatility and geopolitical shocks.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a critical convergence of escalating geopolitical conflicts, particularly in the Middle East, directly fueling widespread food insecurity and economic strain exacerbated by climate change impacts and infrastructure fragility. Concurrently, persistent seismic activity across the Indo-Pacific region maintains localized physical risks, while rapid AI advancements introduce significant technological and ethical shifts impacting financial markets. To secure your assets and physical safety, first, **diversify investments towards tangible, resilient sectors** less exposed to geopolitical and climatic shocks, while carefully navigating the transformative yet volatile AI landscape. Second, **fortify personal and community resilience** by securing essential resources, including food and alternative power, to counter supply chain disruptions and infrastructure vulnerabilities. Third, **maintain acute situational awareness** of both regional geopolitical developments and localized seismic threats to enable timely and effective responses.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.41 (-2.37%)",
+            "title": "\ud83d\udcb0 NVDA: $208.51 (0.53%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $299.24 (0.95%)",
+            "title": "\ud83d\udcb0 AAPL: $300.11 (0.29%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $393.83 (-1.48%)",
+            "title": "\ud83d\udcb0 MSFT: $389.14 (-1.19%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.25 (-1.08%)",
+            "title": "\ud83d\udcb0 PLTR: $135.06 (0.26%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.0 (-0.01%)",
+            "title": "\ud83d\udcb0 AMZN: $242.9 (-1.26%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.7 - 43 km ESE of Palu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st95"
+            "title": "\u26a0\ufe0f Mag 5.1 - 25 km SSE of Tambolaka, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stk6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.3 - 260 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stbz"
+            "title": "\u26a0\ufe0f Mag 5 - 144 km SE of Pondaguitan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stka"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 4 km NW of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000std7"
+            "title": "\u26a0\ufe0f Mag 4.9 - 267 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stjw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 277 km S of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stcs"
+            "title": "\u26a0\ufe0f Mag 4.8 - 261 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stkl"
         }
     ],
-    "seismicSummary": "Multiple strong quakes hit Indonesia, China, and Japan!"
+    "seismicSummary": "Asia hit by multiple quakes, largest a Mag 5.1!"
 }
