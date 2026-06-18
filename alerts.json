@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a confluence of escalating economic vulnerabilities, fueled by climate change's increasing costs and persistent geopolitical conflicts, particularly in the Middle East, driving widespread food insecurity and energy poverty. While the technology sector demonstrates resilience with strong gains and significant AI advancements, this growth unfolds amidst a backdrop of societal strain and evolving ethical considerations around digital innovation. Physically, recent magnitude 5.3-5.4 seismic events across the Mid-Atlantic Ridge, Japan, and the Philippines underscore ongoing tectonic instability in critical regions. Therefore, it is imperative to strengthen personal and operational resilience by diversifying financial holdings to mitigate economic volatility, proactively assessing and securing critical supply chains for essential resources, and ensuring comprehensive emergency preparedness plans are current for physical safety, especially for those in seismically active areas.",
+    "strategicPlan": "The global landscape presents a complex and urgent risk profile: escalating geopolitical conflicts, particularly in the Middle East, combined with the economic impacts of climate change, are driving a severe global cost-of-living and food insecurity crisis, even as the tech sector maintains financial resilience amidst burgeoning AI innovation and increased regulatory scrutiny. This challenging socioeconomic environment is compounded by persistent and significant seismic activity across multiple global fault lines, indicating pervasive physical threats. To secure assets and ensure physical safety, immediately diversify financial holdings and fortify emergency reserves against economic volatility, strategically evaluate and strengthen local supply chains for critical food and energy resources, and rigorously update and practice emergency preparedness protocols for all personnel and assets, especially those in seismically active regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes reported; stay alert!"
+    "seismicSummary": "Multiple Mag 5.3-5.4 earthquakes just struck, notably in Japan and the Philippines!"
 }
