@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a converging and escalating threat matrix: geopolitical conflicts and climate change are driving severe global economic instability, manifesting as widespread food and energy insecurity, while the financial markets show resilience in tech amidst this macro stress. Concurrently, significant seismic activity, including a recent Mag 6.6 on the Mid-Atlantic Ridge and a Mag 5.3 in the Philippines, underscores increasing physical instability with potential infrastructure and supply chain implications. To navigate this complex environment, GlobeGuard advises immediate action: first, diversify essential asset holdings, prioritizing resilient supply chains and energy independence to counteract economic volatility; second, maintain heightened vigilance on geopolitical developments, particularly in conflict zones, and secure critical resource access; and third, fortify physical assets and operational continuity plans against elevated seismic risks, ensuring comprehensive emergency preparedness.",
+    "strategicPlan": "The global landscape is characterized by escalating socio-economic instability driven by persistent geopolitical conflicts in the Middle East and the compounding effects of climate change, leading to widespread food and energy insecurity. Financially, while major tech companies leveraging AI show resilience, the rapid advancement of artificial intelligence is simultaneously sparking an urgent ethical debate and geopolitical competition. This complex human-made environment is underscored by significant natural hazards, with notable seismic activity recently recorded along the central Mid-Atlantic Ridge and in the highly populated Philippines. To secure your position, first, strategically fortify essential resources by diversifying investments towards sectors resilient to climate and conflict shocks, while also establishing contingency plans for food and energy security. Second, maintain acute awareness of evolving geopolitical flashpoints and the developing regulatory landscape for AI, as these will directly influence market stability and international relations. Finally, for those in vulnerable regions, proactively update physical safety protocols and emergency preparedness measures in anticipation of potential seismic events and other natural disasters.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.37 (1.82%)",
+            "title": "\ud83d\udcb0 NVDA: $210.22 (2.72%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $296.51 (0.19%)",
+            "title": "\ud83d\udcb0 AAPL: $297.15 (0.41%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $375.42 (-0.92%)",
+            "title": "\ud83d\udcb0 MSFT: $377.77 (-0.3%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $126.21 (-3.38%)",
+            "title": "\ud83d\udcb0 PLTR: $127.96 (-2.04%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $242.49 (2.1%)",
+            "title": "\ud83d\udcb0 AMZN: $243.0 (2.32%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8i"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 1 km S of Kablalan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
+            "title": "\u26a0\ufe0f Mag 5.3 - 63 km ESE of Bobon, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
+            "title": "\u26a0\ufe0f Mag 5.3 - 1 km S of Kablalan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes reported: a Mag 6.6 at the central Mid-Atlantic Ridge and a Mag 5.3 near Kablalan, Philippines, among others!**"
+    "seismicSummary": "A M6.6 earthquake just struck the Mid-Atlantic Ridge, with multiple M5+ quakes also reported in the Philippines and Atlantic!"
 }
