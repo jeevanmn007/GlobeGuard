@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by escalating socio-economic instability driven by persistent geopolitical conflicts in the Middle East and the compounding effects of climate change, leading to widespread food and energy insecurity. Financially, while major tech companies leveraging AI show resilience, the rapid advancement of artificial intelligence is simultaneously sparking an urgent ethical debate and geopolitical competition. This complex human-made environment is underscored by significant natural hazards, with notable seismic activity recently recorded along the central Mid-Atlantic Ridge and in the highly populated Philippines. To secure your position, first, strategically fortify essential resources by diversifying investments towards sectors resilient to climate and conflict shocks, while also establishing contingency plans for food and energy security. Second, maintain acute awareness of evolving geopolitical flashpoints and the developing regulatory landscape for AI, as these will directly influence market stability and international relations. Finally, for those in vulnerable regions, proactively update physical safety protocols and emergency preparedness measures in anticipation of potential seismic events and other natural disasters.",
+    "strategicPlan": "The global landscape presents a confluence of escalating economic vulnerabilities, fueled by climate change's increasing costs and persistent geopolitical conflicts, particularly in the Middle East, driving widespread food insecurity and energy poverty. While the technology sector demonstrates resilience with strong gains and significant AI advancements, this growth unfolds amidst a backdrop of societal strain and evolving ethical considerations around digital innovation. Physically, recent magnitude 5.3-5.4 seismic events across the Mid-Atlantic Ridge, Japan, and the Philippines underscore ongoing tectonic instability in critical regions. Therefore, it is imperative to strengthen personal and operational resilience by diversifying financial holdings to mitigate economic volatility, proactively assessing and securing critical supply chains for essential resources, and ensuring comprehensive emergency preparedness plans are current for physical safety, especially for those in seismically active areas.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.22 (2.72%)",
+            "title": "\ud83d\udcb0 NVDA: $210.69 (2.95%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.15 (0.41%)",
+            "title": "\ud83d\udcb0 AAPL: $298.01 (0.7%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $377.77 (-0.3%)",
+            "title": "\ud83d\udcb0 MSFT: $379.4 (0.13%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $127.96 (-2.04%)",
+            "title": "\ud83d\udcb0 PLTR: $128.47 (-1.65%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $243.0 (2.32%)",
+            "title": "\ud83d\udcb0 AMZN: $244.39 (2.9%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.6 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8i"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - Izu Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 63 km ESE of Bobon, Philippines",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
         }
     ],
-    "seismicSummary": "A M6.6 earthquake just struck the Mid-Atlantic Ridge, with multiple M5+ quakes also reported in the Philippines and Atlantic!"
+    "seismicSummary": "Multiple Mag 5 earthquakes reported; stay alert!"
 }
