@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently marked by a complex interplay of intensifying geopolitical instability, particularly in the Middle East, which is directly contributing to global food insecurity and exacerbating the rising cost of living due to climate change. This instability is further underscored by the demonstrated fragility of critical infrastructure, as seen with Cuba's grid collapse, and a significant, broad-based downturn in major tech stocks, signaling widespread economic apprehension amidst growing debates on AI governance. Concurrently, a notable surge in seismic activity, including a powerful Mag 6.6 event in the Mid-Atlantic Ridge and multiple 5+ magnitude quakes globally, highlights persistent and unpredictable physical threats. In light of these interconnected risks, GlobeGuard advises immediate action: first, fortify financial and resource resilience by diversifying holdings and securing essential supplies against inflation and supply chain disruptions; second, conduct a thorough assessment of local critical infrastructure vulnerabilities, particularly power and water, and establish contingency plans for potential disruptions; and third, meticulously review and update emergency preparedness protocols for natural disasters, with particular emphasis on securing physical assets and establishing robust communication channels.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -11,12 +11,12 @@
             "link": "https://www.scientificamerican.com/article/how-the-war-in-iran-is-affecting-your-dinner-plate/"
         },
         {
-            "title": "Cuba grid collapse: The situation is growing more dire, experts say",
-            "link": "https://abcnews.com/International/cuba-grid-collapse-situation-growing-dire-experts/story?id=133001706"
-        },
-        {
             "title": "Middle East conflict pushing millions into hunger, WFP says",
             "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
+        },
+        {
+            "title": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
+            "link": "https://www.bbc.com/news/articles/c0j2ep13le2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
     ],
     "stock": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8i"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 258 km SSE of Dunhuang, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stn8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 25 km SSE of Tambolaka, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stk6"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 68 km ESE of Bobon, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su6s"
+            "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, topped by a M6.6, are shaking the globe!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
