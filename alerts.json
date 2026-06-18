@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global threat level is critically elevated due to a confluence of escalating geopolitical, financial, and physical tectonic risks. Geopolitically, ongoing Middle East conflicts are severely impacting global food supplies and driving unprecedented cost-of-living increases, compounded by climate change and an intensifying energy crisis, pushing populations into distress. Financially, a broad market downturn in leading tech stocks signals significant economic apprehension and volatility. Physically, concurrent and substantial seismic activity, particularly near populated regions in Asia and along critical oceanic ridges, presents tangible and immediate hazards. To secure assets and physical safety, **first, de-risk financial portfolios by diversifying investments away from volatile tech sectors and ensuring adequate liquidity for essential needs; second, establish robust personal and family resilience measures, including a minimum 3-month supply of essential non-perishable food, water, and alternative energy sources to mitigate escalating economic shocks; and third, immediately assess and strengthen physical safety protocols, focusing on earthquake preparedness, structural integrity of key locations, and clear emergency communication plans.**",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8i"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 258 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stn8"
+            "title": "\u26a0\ufe0f Mag 5.3 - 1 km S of Kablalan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
+            "title": "\u26a0\ufe0f Mag 5.2 - 258 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stn8"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: A M6.6 quake struck the Mid-Atlantic, with multiple M5+ tremors also reported worldwide!"
 }
