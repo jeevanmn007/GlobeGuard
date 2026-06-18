@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat level is critically elevated due to a confluence of escalating geopolitical, financial, and physical tectonic risks. Geopolitically, ongoing Middle East conflicts are severely impacting global food supplies and driving unprecedented cost-of-living increases, compounded by climate change and an intensifying energy crisis, pushing populations into distress. Financially, a broad market downturn in leading tech stocks signals significant economic apprehension and volatility. Physically, concurrent and substantial seismic activity, particularly near populated regions in Asia and along critical oceanic ridges, presents tangible and immediate hazards. To secure assets and physical safety, **first, de-risk financial portfolios by diversifying investments away from volatile tech sectors and ensuring adequate liquidity for essential needs; second, establish robust personal and family resilience measures, including a minimum 3-month supply of essential non-perishable food, water, and alternative energy sources to mitigate escalating economic shocks; and third, immediately assess and strengthen physical safety protocols, focusing on earthquake preparedness, structural integrity of key locations, and clear emergency communication plans.**",
+    "strategicPlan": "GlobeGuard assesses a converging and escalating threat matrix: geopolitical conflicts and climate change are driving severe global economic instability, manifesting as widespread food and energy insecurity, while the financial markets show resilience in tech amidst this macro stress. Concurrently, significant seismic activity, including a recent Mag 6.6 on the Mid-Atlantic Ridge and a Mag 5.3 in the Philippines, underscores increasing physical instability with potential infrastructure and supply chain implications. To navigate this complex environment, GlobeGuard advises immediate action: first, diversify essential asset holdings, prioritizing resilient supply chains and energy independence to counteract economic volatility; second, maintain heightened vigilance on geopolitical developments, particularly in conflict zones, and secure critical resource access; and third, fortify physical assets and operational continuity plans against elevated seismic risks, ensuring comprehensive emergency preparedness.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.65 (-1.33%)",
+            "title": "\ud83d\udcb0 NVDA: $208.37 (1.82%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $295.95 (-1.1%)",
+            "title": "\ud83d\udcb0 AAPL: $296.51 (0.19%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $378.91 (-3.79%)",
+            "title": "\ud83d\udcb0 MSFT: $375.42 (-0.92%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.63 (-1.97%)",
+            "title": "\ud83d\udcb0 PLTR: $126.21 (-3.38%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $237.5 (-3.46%)",
+            "title": "\ud83d\udcb0 AMZN: $242.49 (2.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 258 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stn8"
+            "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8c"
         }
     ],
-    "seismicSummary": "URGENT: A M6.6 quake struck the Mid-Atlantic, with multiple M5+ tremors also reported worldwide!"
+    "seismicSummary": "**Multiple strong earthquakes reported: a Mag 6.6 at the central Mid-Atlantic Ridge and a Mag 5.3 near Kablalan, Philippines, among others!**"
 }
