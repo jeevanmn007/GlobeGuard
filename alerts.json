@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is critically unstable, marked by escalating economic hardships driven by climate change and persistent geopolitical conflicts in the Middle East, which are severely impacting global food and energy security and exacerbating cost-of-living crises. While specific segments of the technology sector, particularly those in AI, demonstrate robust financial performance and rapid innovation, their societal integration introduces new ethical and economic complexities. Concurrently, a concerning cluster of powerful seismic events off Kamchatka and in the Izu Islands indicates heightened physical instability across the Pacific Ring of Fire, posing tangible risks to infrastructure and regional operations. To navigate this multi-faceted threat environment, you must: 1) Proactively diversify and secure essential resources, fortifying supply chains against both economic inflation and conflict-driven disruptions. 2) Maintain vigilant monitoring of evolving geopolitical flashpoints and the accelerating integration of AI, anticipating their profound economic, social, and technological ramifications. 3) Immediately review and enhance physical safety protocols and contingency plans for all assets and personnel, especially those located within seismically active regions, to mitigate risks associated with potential tectonic events.",
+    "strategicPlan": "The global situation is critical, marked by a deepening cost-of-living crisis fueled by climate change and geopolitical conflicts, particularly in the Middle East, which are severely impacting food security and energy affordability for millions, even as major technology sectors show robust growth, signaling a significant economic divergence. Simultaneously, the rapid evolution of AI presents transformative opportunities alongside complex ethical and geopolitical challenges, while a significant cluster of powerful seismic activity off Petropavlovsk-Kamchatsky demands immediate attention to physical threats. To navigate this complex environment, first, secure your financial assets by diversifying holdings into inflation-resistant instruments and fortifying critical supply chains for essential resources to mitigate the escalating costs and instability. Second, strategically integrate AI to enhance operational efficiencies and competitive advantage, while also developing robust frameworks to address the ethical implications and workforce shifts this technological acceleration entails. Third, immediately review and reinforce physical safety protocols and infrastructure resilience, particularly for assets and personnel located in or near seismically active regions, ensuring comprehensive readiness for potential natural disasters and their cascading effects.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suii"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Izu Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds"
+            "title": "\u26a0\ufe0f Mag 5.2 - 167 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suik"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple powerful earthquakes, including a Magnitude 6.6, strike near Petropavlovsk-Kamchatsky, Russia!**"
+    "seismicSummary": "\ud83d\udea8 Major 6.6 magnitude earthquake and multiple strong quakes reported near Petropavlovsk-Kamchatsky, Russia!"
 }
