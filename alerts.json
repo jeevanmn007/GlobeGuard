@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex and urgent risk profile: escalating geopolitical conflicts, particularly in the Middle East, combined with the economic impacts of climate change, are driving a severe global cost-of-living and food insecurity crisis, even as the tech sector maintains financial resilience amidst burgeoning AI innovation and increased regulatory scrutiny. This challenging socioeconomic environment is compounded by persistent and significant seismic activity across multiple global fault lines, indicating pervasive physical threats. To secure assets and ensure physical safety, immediately diversify financial holdings and fortify emergency reserves against economic volatility, strategically evaluate and strengthen local supply chains for critical food and energy resources, and rigorously update and practice emergency preparedness protocols for all personnel and assets, especially those in seismically active regions.",
+    "strategicPlan": "The global landscape is currently characterized by a critical confluence of escalating economic pressures, driven by climate change and persistent geopolitical conflict leading to widespread food and energy insecurity, while the tech sector rapidly advances, particularly in AI, sparking new ethical and geopolitical tensions. Compounding these human-made challenges, a notable increase in seismic activity across the Pacific Ring of Fire, specifically near Kamchatka and the Izu Islands, presents a tangible physical threat. Given this multi-faceted instability, GlobeGuard directs immediate action: (1) Proactively fortify economic resilience by diversifying critical supply chains and securing essential resources against inflation and disruption; (2) Strategically manage technology portfolios to capitalize on AI's growth while navigating its emerging ethical and geopolitical challenges; and (3) Urgently enhance physical safety protocols and emergency preparedness for seismic events, particularly for assets and personnel in high-risk zones along the Pacific Ring of Fire.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8i"
+            "title": "\u26a0\ufe0f Mag 6.6 - 133 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 6 - 156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui2"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.8 - 171 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suii"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Izu Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suds"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 63 km ESE of Bobon, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 1 km S of Kablalan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
         }
     ],
-    "seismicSummary": "Multiple Mag 5.3-5.4 earthquakes just struck, notably in Japan and the Philippines!"
+    "seismicSummary": "**URGENT: A magnitude 6.6 earthquake and multiple strong quakes have struck near Petropavlovsk-Kamchatsky, Russia!**"
 }
