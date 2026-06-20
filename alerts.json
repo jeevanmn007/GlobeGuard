@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely volatile, marked by a confluence of severe economic pressures, persistent geopolitical conflicts, and escalating physical risks. Geopolitically, the Middle East conflict, alongside the pervasive economic impact of climate change, is directly driving a global cost-of-living crisis, increasing hunger, and destabilizing essential supply chains. Financially, while the tech sector, particularly in AI, demonstrates significant growth and resilience, this also highlights potential future competitive friction between global powers as seen in the US vs. Europe tech war. Simultaneously, a notable cluster of powerful seismic activity off Petropavlovsk-Kamchatsky, Russia, introduces a significant physical threat in a strategic region. To secure assets and ensure physical safety, GlobeGuard advises: 1) Immediately review and diversify critical supply chains, with a focus on food and energy resilience, while re-evaluating investment portfolios towards defensive and essential innovation sectors. 2) Enhance intelligence monitoring on escalating geopolitical flashpoints and climate-vulnerable regions to anticipate disruptions and protect personnel. 3) Update and exercise emergency preparedness protocols for physical assets and key personnel, especially those situated near seismically active zones or critical infrastructure susceptible to natural disasters.",
+    "strategicPlan": "The global intelligence assessment indicates a critical nexus of converging threats: escalating geopolitical conflicts and climate change are creating severe socioeconomic pressures, driving widespread food and energy insecurity that directly impacts cost of living and humanitarian stability. Simultaneously, the tech sector, particularly AI, continues its rapid expansion, though it faces increasing ethical scrutiny and geopolitical competition for dominance. This complex environment is further complicated by significant localized tectonic instability, as evidenced by the cluster of strong earthquakes near Petropavlovsk-Kamchatsky, Russia, underscoring persistent natural hazard risks. To navigate this challenging landscape, GlobeGuard recommends three immediate actions: first, secure essential assets by diversifying investments into resilient sectors and local supply chains, while strategically leveraging growth in advanced technology; second, prioritize physical safety by maintaining robust emergency preparedness plans and actively monitoring regional geological alerts, particularly in tectonically active zones; and third, sustain vigilance on evolving geopolitical developments and the ethical landscape of AI, ensuring strategic adaptability to both market shifts and potential regulatory impacts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 171 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suii"
+            "title": "\u26a0\ufe0f Mag 5.8 - 140 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 167 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suik"
+            "title": "\u26a0\ufe0f Mag 5.8 - 171 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suii"
         }
     ],
-    "seismicSummary": "**URGENT: A Magnitude 6.6 earthquake and multiple strong aftershocks have struck near Petropavlovsk-Kamchatsky, Russia!**"
+    "seismicSummary": "Multiple powerful earthquakes, including a M6.6, have struck near Petropavlovsk-Kamchatsky, Russia!"
 }
