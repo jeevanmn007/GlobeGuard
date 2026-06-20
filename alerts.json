@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is characterized by a potent convergence of escalating geopolitical tensions, widespread economic strain, and heightened physical instability. The protracted Middle East conflict is severely impacting global food security and driving up living costs, exacerbated by climate change and an acute energy crisis, even as major tech stocks demonstrate resilience amidst rapid AI innovation and emerging US-European tech rivalry. Concurrently, a surge in significant seismic events across diverse, active tectonic zones signals a period of elevated global geological risk. To navigate this complex landscape, first, implement robust resource management strategies focused on enhancing food and energy independence and diversifying critical supply chains. Second, ensure immediate and comprehensive emergency preparedness protocols, particularly for seismic events, including secure communication plans and physical safety measures. Third, strategically evaluate and position assets within the rapidly evolving technological sphere, capitalizing on AI advancements while mitigating risks associated with intensifying tech geopolitics.",
+    "strategicPlan": "The global intelligence assessment reveals a precarious confluence of escalating threats: persistent geopolitical conflicts in the Middle East are driving severe food and energy insecurity, amplified by climate change's economic burdens. While the technology sector, particularly AI, continues its robust growth trajectory, emerging ethical and geopolitical tensions surrounding its development warrant careful consideration. Concurrently, a pattern of dispersed, moderate seismic activity underscores a heightened state of physical planetary instability. To mitigate these multifaceted risks, secure essential assets and diversify supply chains against socio-economic disruption; strategically evaluate technology investments, acknowledging potential regulatory shifts and global competition; and establish robust preparedness protocols for physical safety in the face of natural disasters.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sutj"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes just struck worldwide!"
+    "seismicSummary": "Urgent: Multiple magnitude 5+ earthquakes are striking worldwide!"
 }
