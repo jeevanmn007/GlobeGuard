@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a critical nexus of converging threats: escalating geopolitical conflicts and climate change are creating severe socioeconomic pressures, driving widespread food and energy insecurity that directly impacts cost of living and humanitarian stability. Simultaneously, the tech sector, particularly AI, continues its rapid expansion, though it faces increasing ethical scrutiny and geopolitical competition for dominance. This complex environment is further complicated by significant localized tectonic instability, as evidenced by the cluster of strong earthquakes near Petropavlovsk-Kamchatsky, Russia, underscoring persistent natural hazard risks. To navigate this challenging landscape, GlobeGuard recommends three immediate actions: first, secure essential assets by diversifying investments into resilient sectors and local supply chains, while strategically leveraging growth in advanced technology; second, prioritize physical safety by maintaining robust emergency preparedness plans and actively monitoring regional geological alerts, particularly in tectonically active zones; and third, sustain vigilance on evolving geopolitical developments and the ethical landscape of AI, ensuring strategic adaptability to both market shifts and potential regulatory impacts.",
+    "strategicPlan": "The global environment is currently defined by a dangerous convergence of escalating geopolitical conflicts driving widespread food insecurity and energy poverty, persistent climate-induced economic strain, and a notable pattern of significant global seismic activity, all juxtaposed against a resilient but concentrated tech sector. To secure your assets and physical safety, first, immediately assess and localize critical resource acquisition, especially for food and energy, to mitigate supply chain disruptions and inflationary pressures. Second, strategically rebalance financial portfolios toward inflation-resistant assets while maintaining robust liquid reserves to navigate the widening economic disparity. Third, enhance comprehensive emergency preparedness plans, focusing on physical infrastructure resilience and communication protocols, given the elevated and geographically diverse tectonic threats.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.6 - 133 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 6 - 156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui2"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.8 - 140 km ESE of Petropavlovsk-Kamchatsky, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 171 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suii"
+            "title": "\u26a0\ufe0f Mag 5.7 - west of Macquarie Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sury"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - 160 km NE of Georgetown, Saint Helena",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susg"
         }
     ],
-    "seismicSummary": "Multiple powerful earthquakes, including a M6.6, have struck near Petropavlovsk-Kamchatsky, Russia!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes are striking across the globe!"
 }
