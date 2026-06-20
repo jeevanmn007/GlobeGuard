@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of risks: geopolitical conflicts in the Middle East are not only driving millions into hunger but are also contributing to a global cost-of-living crisis exacerbated by climate change's economic impact, creating widespread socio-economic instability despite continued growth in the AI-driven tech sector, which itself faces escalating ethical and regulatory scrutiny. Concurrently, consistent seismic activity across diverse global regions underscores persistent physical vulnerabilities. To secure assets and ensure physical safety, prioritize diversifying critical financial holdings and securing access to essential resources against inflationary pressures and supply chain disruptions; closely monitor geopolitical developments, particularly those affecting global commodity markets like food and energy; and diligently review and enhance all emergency preparedness plans for both personal safety and physical infrastructure, especially considering the observed global tectonic activity.",
+    "strategicPlan": "The global threat landscape is characterized by escalating multi-faceted instability. Geopolitically, the Middle East conflict is profoundly impacting global food security and energy affordability, driving humanitarian crises, while the rapid advancement and ethical debates surrounding AI continue to reshape economic and technological power dynamics, as reflected in a resilient yet potentially speculative tech market. Simultaneously, a discernible increase in significant seismic activity across diverse global regions introduces an unpredictable physical threat multiplier, capable of disrupting critical infrastructure and supply chains. To navigate this complex environment, first, strategically diversify financial holdings, emphasizing resilience against inflation and supply chain volatility. Second, proactively audit and fortify personal and operational dependencies on global food and energy supplies, establishing redundancy where possible. Third, prioritize and maintain comprehensive physical emergency preparedness plans, accounting for both geopolitical instability and the heightened risk of natural disasters.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sutj"
         }
     ],
-    "seismicSummary": "Alert: Multiple M5+ earthquakes just struck worldwide!"
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.8, have been reported worldwide!"
 }
