@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a dangerous convergence of escalating geopolitical conflicts driving widespread food insecurity and energy poverty, persistent climate-induced economic strain, and a notable pattern of significant global seismic activity, all juxtaposed against a resilient but concentrated tech sector. To secure your assets and physical safety, first, immediately assess and localize critical resource acquisition, especially for food and energy, to mitigate supply chain disruptions and inflationary pressures. Second, strategically rebalance financial portfolios toward inflation-resistant assets while maintaining robust liquid reserves to navigate the widening economic disparity. Third, enhance comprehensive emergency preparedness plans, focusing on physical infrastructure resilience and communication protocols, given the elevated and geographically diverse tectonic threats.",
+    "strategicPlan": "The global situation demands immediate strategic attention, characterized by escalating geopolitical instability in the Middle East driving humanitarian crises and global inflationary pressures, compounded by the economic impact of climate change. Simultaneously, a significant spike in global seismic activity across multiple critical regions indicates heightened physical risks, while financial markets show robust performance in the tech sector, particularly AI, reflecting a strategic pivot. To navigate this complex environment, first, immediately assess and secure your physical and digital assets, fortifying against both economic volatility and potential natural disasters by diversifying reserves and updating emergency protocols. Second, proactively develop or update a comprehensive resilience plan, focusing on securing essential supplies and energy independence given ongoing global supply chain vulnerabilities. Third, closely monitor the geopolitical ramifications of the Middle East conflict and the rapid advancements in AI, as these will continue to redefine economic landscapes and strategic priorities.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susg"
+            "title": "\u26a0\ufe0f Mag 5.2 - 10 km S of Kastr\u00ed, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sutj"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes are striking across the globe!"
+    "seismicSummary": "Four M5+ earthquakes just struck worldwide!"
 }
