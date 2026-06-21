@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a dynamic threat matrix, with escalating socio-economic strain driven by geopolitical conflicts in the Middle East and the economic repercussions of climate change, contributing to a severe cost-of-living crisis and widespread hunger. Financially, the tech sector, particularly in AI, demonstrates robust growth and innovation, yet this progress is increasingly subject to geopolitical competition and regulatory friction, while a persistent undercurrent of moderate global seismic activity reminds us of constant physical risks. To strategically counter these multifaceted challenges, GlobeGuard directs you to: first, prioritize economic resilience by diversifying investments away from single points of failure and securing critical personal and operational resources against rising costs and supply chain disruptions; second, maintain continuous intelligence on emerging AI regulatory landscapes and geopolitical tech competition to adapt strategies for innovation and market access; and third, strengthen physical safety protocols and emergency preparedness, especially in seismically vulnerable areas, to mitigate the impact of natural disasters on personnel and infrastructure.",
+    "strategicPlan": "The global intelligence landscape reveals a critical juncture: pervasive economic strain, driven by climate change and escalating geopolitical conflicts, particularly in the Middle East, is fueling a widespread cost-of-living crisis and food insecurity, pushing millions into precarious situations. Simultaneously, the technology sector, notably in AI, demonstrates significant market resilience and growth, even as ethical and regulatory debates around its influence intensify, signaling potential future policy shifts and geopolitical tensions over tech dominance. While no single catastrophic seismic event is imminent, persistent moderate tectonic activity globally underscores the ongoing need for regional physical preparedness against natural hazards. To navigate this complex environment, strategically secure assets by prioritizing essential resource diversification against rising inflation and supply chain volatility; closely monitor the evolving global regulatory framework and geopolitical discourse surrounding AI's expansion for investment implications; and ensure robust physical safety protocols and localized emergency preparedness plans are in place to mitigate disruptions from natural events.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 4.8 - 86 km ENE of Fangale\u2019ounga, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.8 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy3"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.7 - 48 km S of Qapqal, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0p"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.7 - 16 km E of Torata, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyj"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 80 km WSW of Padang, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 115 km SE of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suwt"
         }
     ],
-    "seismicSummary": "**Alert: Multiple moderate (Mag 4.7-4.8) earthquakes just struck worldwide!**"
+    "seismicSummary": "\u26a0\ufe0f Multiple M4.7-4.8 quakes reported across Tonga, Fiji, China, and Peru."
 }
