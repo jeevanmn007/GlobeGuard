@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is multifaceted and urgent: escalating socio-economic strain, driven by climate change's cost-of-living impact and intensifying geopolitical conflict in the Middle East, is pushing millions into hunger and raising energy poverty concerns globally. Financially, the tech sector, particularly AI, demonstrates robust growth amidst a burgeoning US-Europe tech rivalry and ethical debates, indicating both opportunity and potential regulatory headwinds. Concurrently, moderate but persistent seismic activity across key tectonic plates, including the Drake Passage, Tonga, Fiji, and China, demands ongoing vigilance against physical disruptions. To secure assets and physical safety, **first**, prioritize financial resilience by diversifying investments against inflationary pressures and securing essential supply chains. **Second**, review and update emergency preparedness plans, ensuring robust provisions for both climate-related disruptions and potential geopolitical fallout. **Third**, maintain continuous intelligence monitoring on evolving conflicts, climate-economic indicators, and the rapidly changing AI regulatory environment to anticipate and mitigate future risks.",
+    "strategicPlan": "The global environment is marked by significant and interconnected risks, with escalating geopolitical conflict in the Middle East exacerbating a global cost-of-living crisis and food insecurity, further strained by the economic impacts of climate change. While the tech sector demonstrates robust growth and AI integration promises innovation, it also introduces complex ethical and regulatory challenges, creating market uncertainties. Beneath this, persistent moderate seismic activity worldwide serves as a constant reminder of inherent physical vulnerabilities. To secure assets and ensure physical safety, first, strategically re-evaluate and diversify asset portfolios towards resilient sectors and tangible goods, reducing exposure to volatile markets and geopolitical instability. Second, immediately reinforce personal and familial emergency preparedness protocols, prioritizing robust plans for food, energy, and water independence in the face of potential economic shocks or natural disasters. Third, maintain rigorous intelligence on evolving geopolitical landscapes and AI regulatory frameworks, allowing for agile strategic adjustments and proactive risk mitigation.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.9 - 217 km ESE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1l"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.8 - 86 km ENE of Fangale\u2019ounga, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy3"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 48 km S of Qapqal, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0p"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes up to Mag 5 reported globally!"
+    "seismicSummary": "Urgent: Several M4.8-5 earthquakes are striking worldwide!"
 }
