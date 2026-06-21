@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment reveals a critical confluence of escalating socioeconomic pressures, pronounced geopolitical instability, and underlying physical vulnerabilities. Geopolitically, the Middle East conflict and pervasive climate change are demonstrably driving increased costs of living, food insecurity, and energy poverty globally, creating widespread economic strain. While the technology sector demonstrates robust growth and AI advancements, this very progress is sparking critical ethical and geopolitical debates over control and impact. Simultaneously, persistent moderate seismic activity across the Pacific Ring of Fire and Andes underscores constant natural hazard risks. To secure assets and ensure physical safety, prioritize enhancing resilience against economic shocks by diversifying essential supplies and fortifying financial buffers; maintain vigilant monitoring of the rapidly evolving AI landscape for regulatory shifts and geopolitical competition; and immediately review and update all natural disaster preparedness plans, particularly for personnel and assets in seismically active zones.",
+    "strategicPlan": "The global environment presents a complex and urgent threat profile, marked by escalating geopolitical conflicts in the Middle East exacerbating global food and energy insecurity, driving significant cost-of-living pressures, and fueling humanitarian crises, all while the pervasive economic burden of climate change continues to mount. While the technology sector demonstrates resilience and continued innovation, particularly in AI, the broader economic fabric is strained. Concurrently, persistent moderate seismic activity across multiple tectonically active zones underscores ongoing physical vulnerabilities. Therefore, GlobeGuard advises immediate action to strategically review and diversify asset portfolios, prioritizing resilience against commodity inflation and geopolitical shocks; to bolster personal and household resilience by securing essential provisions and exploring energy independence measures; and to enhance physical safety protocols, including comprehensive emergency preparedness plans for seismic events and other potential disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs"
         }
     ],
-    "seismicSummary": "URGENT: Multiple 4.7-4.8 magnitude earthquakes are striking globally, from Peru to the South Pacific and Indonesia."
+    "seismicSummary": "Multiple M4.7-4.8 earthquakes just struck worldwide!"
 }
