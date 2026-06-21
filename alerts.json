@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a rapidly converging threat environment defined by escalating economic pressures from climate change and geopolitical conflicts in the Middle East, directly fueling global inflation, food insecurity, and increasing living costs, even as the tech sector, particularly AI, sustains strong growth amidst rising ethical and regulatory scrutiny. This socioeconomic strain unfolds against a backdrop of persistent moderate seismic activity across multiple high-risk regions globally, underscoring ongoing physical vulnerabilities. Given this complex matrix, the directive is to: 1. **Fortify Economic Resilience**: Proactively re-evaluate financial portfolios for diversification against inflationary pressures and potential tech regulatory shifts, securing essential reserves. 2. **Ensure Resource Security**: Prioritize establishing robust contingency plans for critical resource access, particularly food and energy, to mitigate supply chain disruptions from conflicts and climate impacts. 3. **Enhance Geographic Preparedness**: Conduct comprehensive risk assessments for all assets and personnel in geopolitical hotspots and seismically active zones, ensuring advanced physical and operational readiness.",
+    "strategicPlan": "The global environment presents a dynamic threat matrix, with escalating socio-economic strain driven by geopolitical conflicts in the Middle East and the economic repercussions of climate change, contributing to a severe cost-of-living crisis and widespread hunger. Financially, the tech sector, particularly in AI, demonstrates robust growth and innovation, yet this progress is increasingly subject to geopolitical competition and regulatory friction, while a persistent undercurrent of moderate global seismic activity reminds us of constant physical risks. To strategically counter these multifaceted challenges, GlobeGuard directs you to: first, prioritize economic resilience by diversifying investments away from single points of failure and securing critical personal and operational resources against rising costs and supply chain disruptions; second, maintain continuous intelligence on emerging AI regulatory landscapes and geopolitical tech competition to adapt strategies for innovation and market access; and third, strengthen physical safety protocols and emergency preparedness, especially in seismically vulnerable areas, to mitigate the impact of natural disasters on personnel and infrastructure.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 172 km SW of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suuw"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.7 - 16 km E of Torata, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyj"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 80 km WSW of Padang, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 115 km SE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suwt"
         }
     ],
-    "seismicSummary": "Multiple M4.7-4.8 earthquakes are active globally."
+    "seismicSummary": "**Alert: Multiple moderate (Mag 4.7-4.8) earthquakes just struck worldwide!**"
 }
