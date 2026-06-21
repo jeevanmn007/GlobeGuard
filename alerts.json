@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a precarious confluence of escalating threats: persistent geopolitical conflicts in the Middle East are driving severe food and energy insecurity, amplified by climate change's economic burdens. While the technology sector, particularly AI, continues its robust growth trajectory, emerging ethical and geopolitical tensions surrounding its development warrant careful consideration. Concurrently, a pattern of dispersed, moderate seismic activity underscores a heightened state of physical planetary instability. To mitigate these multifaceted risks, secure essential assets and diversify supply chains against socio-economic disruption; strategically evaluate technology investments, acknowledging potential regulatory shifts and global competition; and establish robust preparedness protocols for physical safety in the face of natural disasters.",
+    "strategicPlan": "The global environment is characterized by an escalating convergence of threats: geopolitical conflict in the Middle East is directly exacerbating humanitarian crises and global supply chain disruptions, leading to increased living costs compounded by climate change impacts. While major tech assets demonstrate resilience, particularly in AI development, the sector faces emerging regulatory scrutiny and a brewing 'tech sovereignty' debate. This human-made instability is set against a backdrop of persistent, high-magnitude seismic activity across various global fault lines, indicating an elevated baseline of physical vulnerability. To mitigate these risks, secure your essential assets by fortifying personal reserves of critical supplies and diversifying financial portfolios to account for persistent inflationary pressures; proactively monitor geopolitical flashpoints for their potential to disrupt global supply chains and energy markets; and critically, review and reinforce physical safety protocols and emergency preparedness plans in light of ongoing tectonic instability.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sutj"
         }
     ],
-    "seismicSummary": "Urgent: Multiple magnitude 5+ earthquakes are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, up to Mag 5.8, just struck globally!"
 }
