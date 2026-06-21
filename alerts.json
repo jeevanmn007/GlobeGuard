@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a critical juncture: pervasive economic strain, driven by climate change and escalating geopolitical conflicts, particularly in the Middle East, is fueling a widespread cost-of-living crisis and food insecurity, pushing millions into precarious situations. Simultaneously, the technology sector, notably in AI, demonstrates significant market resilience and growth, even as ethical and regulatory debates around its influence intensify, signaling potential future policy shifts and geopolitical tensions over tech dominance. While no single catastrophic seismic event is imminent, persistent moderate tectonic activity globally underscores the ongoing need for regional physical preparedness against natural hazards. To navigate this complex environment, strategically secure assets by prioritizing essential resource diversification against rising inflation and supply chain volatility; closely monitor the evolving global regulatory framework and geopolitical discourse surrounding AI's expansion for investment implications; and ensure robust physical safety protocols and localized emergency preparedness plans are in place to mitigate disruptions from natural events.",
+    "strategicPlan": "The global threat landscape is multifaceted and urgent: escalating socio-economic strain, driven by climate change's cost-of-living impact and intensifying geopolitical conflict in the Middle East, is pushing millions into hunger and raising energy poverty concerns globally. Financially, the tech sector, particularly AI, demonstrates robust growth amidst a burgeoning US-Europe tech rivalry and ethical debates, indicating both opportunity and potential regulatory headwinds. Concurrently, moderate but persistent seismic activity across key tectonic plates, including the Drake Passage, Tonga, Fiji, and China, demands ongoing vigilance against physical disruptions. To secure assets and physical safety, **first**, prioritize financial resilience by diversifying investments against inflationary pressures and securing essential supply chains. **Second**, review and update emergency preparedness plans, ensuring robust provisions for both climate-related disruptions and potential geopolitical fallout. **Third**, maintain continuous intelligence monitoring on evolving conflicts, climate-economic indicators, and the rapidly changing AI regulatory environment to anticipate and mitigate future risks.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5 - Drake Passage",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.8 - 86 km ENE of Fangale\u2019ounga, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 48 km S of Qapqal, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0p"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 16 km E of Torata, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyj"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple M4.7-4.8 quakes reported across Tonga, Fiji, China, and Peru."
+    "seismicSummary": "Multiple strong earthquakes up to Mag 5 reported globally!"
 }
