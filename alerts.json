@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is critically defined by a convergence of escalating geopolitical instability in the Middle East, driving severe humanitarian and economic distress through food and energy inflation, further exacerbated by the pervasive financial burden of climate change. This precarious situation unfolds alongside a robust, albeit ethically contentious, boom in the tech sector, fueled by AI advancements that are reshaping global power dynamics and economic competition. Concurrently, persistent moderate seismic activity, including a notable cluster in the Mediterranean, underscores the ongoing physical threats to infrastructure and populations. To navigate this complex environment, first, prioritize the immediate securing of essential resources\u2014food, water, and emergency power\u2014sufficient for at least 72 hours, and meticulously review all personal and organizational emergency protocols, especially within seismically active or supply-vulnerable regions. Second, strategically diversify investment portfolios to mitigate market volatility driven by geopolitical tensions and economic inflation, focusing on resilient assets rather than speculative growth. Finally, rigorously evaluate the ethical and strategic implications of AI integration across all operations, ensuring robust security measures and a clear understanding of its geopolitical ramifications to safeguard both assets and competitive advantage.",
+    "strategicPlan": "The global strategic environment reveals a critical confluence of escalating socioeconomic pressures, pronounced geopolitical instability, and underlying physical vulnerabilities. Geopolitically, the Middle East conflict and pervasive climate change are demonstrably driving increased costs of living, food insecurity, and energy poverty globally, creating widespread economic strain. While the technology sector demonstrates robust growth and AI advancements, this very progress is sparking critical ethical and geopolitical debates over control and impact. Simultaneously, persistent moderate seismic activity across the Pacific Ring of Fire and Andes underscores constant natural hazard risks. To secure assets and ensure physical safety, prioritize enhancing resilience against economic shocks by diversifying essential supplies and fortifying financial buffers; maintain vigilant monitoring of the rapidly evolving AI landscape for regulatory shifts and geopolitical competition; and immediately review and update all natural disaster preparedness plans, particularly for personnel and assets in seismically active zones.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 160 km NE of Georgetown, Saint Helena",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 10 km S of Kastr\u00ed, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sutj"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 20 km SE of Kastr\u00ed, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suti"
+            "title": "\u26a0\ufe0f Mag 4.8 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy3"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 172 km SW of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suuw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 16 km E of Torata, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suyj"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 80 km WSW of Padang, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suxs"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple strong earthquakes detected, including a Mag 5.5 near Georgetown and a 5.2 in Greece!"
+    "seismicSummary": "URGENT: Multiple 4.7-4.8 magnitude earthquakes are striking globally, from Peru to the South Pacific and Indonesia."
 }
