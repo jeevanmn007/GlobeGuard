@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by significant and interconnected risks, with escalating geopolitical conflict in the Middle East exacerbating a global cost-of-living crisis and food insecurity, further strained by the economic impacts of climate change. While the tech sector demonstrates robust growth and AI integration promises innovation, it also introduces complex ethical and regulatory challenges, creating market uncertainties. Beneath this, persistent moderate seismic activity worldwide serves as a constant reminder of inherent physical vulnerabilities. To secure assets and ensure physical safety, first, strategically re-evaluate and diversify asset portfolios towards resilient sectors and tangible goods, reducing exposure to volatile markets and geopolitical instability. Second, immediately reinforce personal and familial emergency preparedness protocols, prioritizing robust plans for food, energy, and water independence in the face of potential economic shocks or natural disasters. Third, maintain rigorous intelligence on evolving geopolitical landscapes and AI regulatory frameworks, allowing for agile strategic adjustments and proactive risk mitigation.",
+    "strategicPlan": "The global landscape demands immediate strategic attention, characterized by mounting economic pressures fueled by climate change and intensifying geopolitical conflicts in the Middle East that are critically impacting food security and energy costs worldwide. While the technology sector demonstrates robust growth and resilience, particularly in AI, it faces emerging ethical and regulatory scrutiny, indicating potential future shifts. Concurrently, persistent moderate seismic activity across multiple tectonically active regions underscores ongoing physical vulnerabilities. To navigate this complex environment, secure your assets by diversifying investments into stable, resilient sectors and preparing for potential supply chain disruptions; enhance physical safety by reviewing and updating emergency preparedness plans for natural disasters, particularly in seismically vulnerable areas; and strategically position for technological shifts by closely monitoring AI developments while bolstering digital security protocols.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - Drake Passage",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 86 km ENE of Fangale\u2019ounga, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv0m"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suy3"
+            "title": "\u26a0\ufe0f Mag 4.8 - 17 km WSW of Burias, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv26"
         }
     ],
-    "seismicSummary": "Urgent: Several M4.8-5 earthquakes are striking worldwide!"
+    "seismicSummary": "Multiple magnitude 5 and near-5 earthquakes have struck globally."
 }
