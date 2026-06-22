@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a deteriorating global risk landscape driven by interconnected geopolitical, financial, and physical threats: active conflicts are exacerbating food insecurity and the cost-of-living crisis globally, compounded by climate change pressures; simultaneously, major tech market indices are experiencing significant downturns, signaling broad economic instability; and adding to this complexity, persistent tectonic activity manifests as multiple Mag 5+ earthquakes across various critical regions. To navigate this complex environment, immediately rebalance assets towards resilience and liquidity, prioritizing tangible holdings while reducing exposure to volatile sectors; fortify personal and community supply chains for critical resources like food and energy, exploring local alternatives; and rigorously update and test emergency preparedness plans, including disaster kits and communication protocols, with particular attention to seismic event readiness.",
+    "strategicPlan": "The global threat landscape has significantly intensified, marked by a critical confluence of severe geopolitical instability in the Middle East driving widespread food insecurity and an escalating energy cost crisis, directly impacting global populations and consumer financial well-being, which is further compounded by climate change-related economic burdens. Concurrently, financial markets are experiencing a significant downturn, with major tech stocks exhibiting notable losses, signaling broader economic volatility and investor uncertainty. This complex geopolitical and financial strain is underscored by persistent global seismic activity, with multiple moderate earthquakes across key regions indicating ongoing physical risks. To navigate this multifaceted environment, GlobeGuard directs immediate action: first, re-evaluate and diversify investment portfolios, prioritizing resilient assets and liquidity to mitigate market volatility; second, bolster personal and organizational emergency preparedness plans, ensuring robust critical supply chain resilience and physical safety protocols; and third, closely monitor evolving regional geopolitical escalations and resource market fluctuations to adapt consumption and contingency plans proactively.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv7m"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 42 km SSW of Jurm, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6e"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fr"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Four magnitude 5+ earthquakes just struck worldwide, from Afghanistan to the Kermadec Islands!"
+    "seismicSummary": "Multiple Mag 5 earthquakes reported globally!"
 }
