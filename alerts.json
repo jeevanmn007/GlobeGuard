@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape demands immediate strategic attention, characterized by mounting economic pressures fueled by climate change and intensifying geopolitical conflicts in the Middle East that are critically impacting food security and energy costs worldwide. While the technology sector demonstrates robust growth and resilience, particularly in AI, it faces emerging ethical and regulatory scrutiny, indicating potential future shifts. Concurrently, persistent moderate seismic activity across multiple tectonically active regions underscores ongoing physical vulnerabilities. To navigate this complex environment, secure your assets by diversifying investments into stable, resilient sectors and preparing for potential supply chain disruptions; enhance physical safety by reviewing and updating emergency preparedness plans for natural disasters, particularly in seismically vulnerable areas; and strategically position for technological shifts by closely monitoring AI developments while bolstering digital security protocols.",
+    "strategicPlan": "The global environment currently presents a complex threat matrix characterized by escalating socio-economic instability, with climate change and geopolitical conflicts, particularly in the Middle East, driving significant cost-of-living increases, food insecurity, and energy poverty. While major tech markets demonstrate resilience and rapid AI advancements continue, growing ethical scrutiny around AI also represents a potential future regulatory challenge. Concurrently, persistent seismic activity across diverse regions underscores ongoing physical vulnerabilities. Given this dynamic situation, your immediate focus must be on three critical areas: first, **fortify physical and operational resilience** by securing essential supplies and reviewing emergency preparedness protocols for both economic shocks and potential natural disasters; second, **strategically diversify and de-risk financial assets**, hedging against inflation and potential supply chain disruptions stemming from geopolitical instability; and third, **closely monitor geopolitical developments and emerging AI regulations** for their disruptive potential on markets and societal stability.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 42 km SSW of Jurm, Afghanistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6e"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 217 km ESE of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1l"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 17 km WSW of Burias, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv26"
+            "title": "\u26a0\ufe0f Mag 4.9 - 68 km WNW of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv3q"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 and near-5 earthquakes have struck globally."
+    "seismicSummary": "Alert: Multiple M5 earthquakes reported globally!"
 }
