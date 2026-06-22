@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and urgent threat profile, characterized by escalating economic pressures fueled by climate change and persistent geopolitical conflicts, particularly in the Middle East, driving widespread inflation, food insecurity, and energy poverty. This instability is mirrored by significant downturns across major tech stocks amidst evolving AI regulatory debates, while ongoing global seismic activity, including a notable 5.2 magnitude earthquake near Afghanistan, underscores persistent physical vulnerabilities. To navigate these convergent risks, secure assets by diversifying financial portfolios, favoring stability over volatile tech holdings, and establish robust provisions for essential resources like food and energy against potential supply chain disruptions. Concurrently, maintain vigilant situational awareness regarding geopolitical developments impacting critical infrastructure and ensure physical preparedness for localized emergencies, including natural hazards.",
+    "strategicPlan": "GlobeGuard assesses a deteriorating global risk landscape driven by interconnected geopolitical, financial, and physical threats: active conflicts are exacerbating food insecurity and the cost-of-living crisis globally, compounded by climate change pressures; simultaneously, major tech market indices are experiencing significant downturns, signaling broad economic instability; and adding to this complexity, persistent tectonic activity manifests as multiple Mag 5+ earthquakes across various critical regions. To navigate this complex environment, immediately rebalance assets towards resilience and liquidity, prioritizing tangible holdings while reducing exposure to volatile sectors; fortify personal and community supply chains for critical resources like food and energy, exploring local alternatives; and rigorously update and test emergency preparedness plans, including disaster kits and communication protocols, with particular attention to seismic event readiness.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.58 (-1.0%)",
+            "title": "\ud83d\udcb0 NVDA: $208.65 (-0.97%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $299.35 (0.45%)",
+            "title": "\ud83d\udcb0 AAPL: $297.01 (-0.34%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $368.99 (-2.74%)",
+            "title": "\ud83d\udcb0 MSFT: $367.34 (-3.18%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $120.18 (-6.45%)",
+            "title": "\ud83d\udcb0 PLTR: $119.5 (-6.98%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $233.26 (-4.55%)",
+            "title": "\ud83d\udcb0 AMZN: $232.79 (-4.75%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6e"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m"
+            "title": "\u26a0\ufe0f Mag 5.1 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Drake Passage",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv17"
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide, from Afghanistan to the Mid-Atlantic Ridge!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Four magnitude 5+ earthquakes just struck worldwide, from Afghanistan to the Kermadec Islands!"
 }
