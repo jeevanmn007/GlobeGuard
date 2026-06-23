@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture indicates a critical confluence of escalating threats. Geopolitically, the protracted conflict in the Middle East, coupled with the profound economic impacts of climate change and a looming Super El Ni\u00f1o, are rapidly accelerating global food insecurity and inflationary pressures, pushing millions into acute hunger and threatening supply chain stability. Financially, while major tech stocks show mixed performance, the underlying macroeconomic environment is highly volatile due to these geopolitical and climate-driven stressors. Concurrently, recent clusters of moderate to strong seismic activity, particularly across the Pacific Ring of Fire and parts of Asia, signal a heightened risk of tectonic events. In response, GlobeGuard advises three immediate actions: first, fortify personal and corporate financial resilience by diversifying essential supply chains and establishing strategic reserves against impending food inflation and scarcity; second, maintain vigilant monitoring of Middle East developments and climate-induced disruptions for their cascading effects on global trade and stability; and third, urgently review and bolster earthquake preparedness protocols and emergency provisions, given the recent uptick in seismic activity, to safeguard physical assets and personnel.",
+    "strategicPlan": "The global operational environment is characterized by escalating, interconnected threats. Geopolitically, the Middle East conflict, combined with a severe Super El Ni\u00f1o and broader climate change impacts, is directly driving a global food crisis, exacerbating living costs, and threatening widespread instability. Financially, this resource pressure adds volatility to markets, as evidenced by mixed tech sector performance, even as AI innovation continues its rapid pace. Physically, persistent seismic activity across multiple regions, including several recent M5+ events, highlights the ongoing risk of natural disasters requiring vigilance. To secure assets and physical safety, first, proactively establish diversified and resilient supply chains for essential goods, particularly food and energy, exploring local sourcing and buffer inventories to mitigate geopolitical and climate-induced disruptions. Second, re-evaluate and diversify investment portfolios, prioritizing assets resilient to inflation and market volatility stemming from resource scarcity, while strategically positioning for advancements in AI. Third, immediately review and update emergency preparedness protocols for both physical safety and asset protection, specifically addressing potential impacts from extreme weather, seismic events, and critical infrastructure vulnerabilities.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $201.74 (-3.31%)",
+            "title": "\ud83d\udcb0 NVDA: $200.04 (-4.13%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $298.89 (0.63%)",
+            "title": "\ud83d\udcb0 AAPL: $294.3 (-0.91%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $373.73 (1.74%)",
+            "title": "\ud83d\udcb0 MSFT: $373.94 (1.8%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $118.14 (-1.14%)",
+            "title": "\ud83d\udcb0 PLTR: $116.7 (-2.34%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $235.35 (1.1%)",
+            "title": "\ud83d\udcb0 AMZN: $234.11 (0.57%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it"
         }
     ],
-    "seismicSummary": "URGENT: Four Mag 5+ earthquakes strike globally!"
+    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 5 earthquakes are striking worldwide!"
 }
