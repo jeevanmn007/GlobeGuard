@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals an environment of elevated systemic risk, characterized by deepening food insecurity and cost-of-living increases exacerbated by climate change, a super El Ni\u00f1o, and persistent geopolitical conflicts in the Middle East, indicating significant supply chain vulnerabilities. Financially, the tech market shows mixed performance, with notable downturns in key AI stocks amidst rapid advancements and emerging ethical debates around artificial intelligence, signaling market volatility and regulatory uncertainty. Concurrently, significant seismic activity across the Pacific Ring of Fire underscores a constant physical threat to infrastructure and regional stability. To navigate this complex landscape, we advise three immediate actions: first, prioritize the diversification and localization of critical resource supply chains and strategically hedge against inflationary pressures; second, strengthen digital asset security protocols while closely monitoring AI's geopolitical and ethical implications for strategic opportunities and regulatory compliance; and third, re-evaluate and update all emergency preparedness plans, ensuring physical assets are secured against natural hazards, especially in seismically active regions.",
+    "strategicPlan": "The current global intelligence picture indicates a critical confluence of escalating threats. Geopolitically, the protracted conflict in the Middle East, coupled with the profound economic impacts of climate change and a looming Super El Ni\u00f1o, are rapidly accelerating global food insecurity and inflationary pressures, pushing millions into acute hunger and threatening supply chain stability. Financially, while major tech stocks show mixed performance, the underlying macroeconomic environment is highly volatile due to these geopolitical and climate-driven stressors. Concurrently, recent clusters of moderate to strong seismic activity, particularly across the Pacific Ring of Fire and parts of Asia, signal a heightened risk of tectonic events. In response, GlobeGuard advises three immediate actions: first, fortify personal and corporate financial resilience by diversifying essential supply chains and establishing strategic reserves against impending food inflation and scarcity; second, maintain vigilant monitoring of Middle East developments and climate-induced disruptions for their cascading effects on global trade and stability; and third, urgently review and bolster earthquake preparedness protocols and emergency provisions, given the recent uptick in seismic activity, to safeguard physical assets and personnel.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $201.63 (-3.36%)",
+            "title": "\ud83d\udcb0 NVDA: $201.74 (-3.31%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.82 (0.27%)",
+            "title": "\ud83d\udcb0 AAPL: $298.89 (0.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $373.21 (1.6%)",
+            "title": "\ud83d\udcb0 MSFT: $373.73 (1.74%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $118.67 (-0.69%)",
+            "title": "\ud83d\udcb0 PLTR: $118.14 (-1.14%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $234.12 (0.57%)",
+            "title": "\ud83d\udcb0 AMZN: $235.35 (1.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 126 km S of Isangel, Vanuatu",
+            "title": "\u26a0\ufe0f Mag 5.3 - 120 km S of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it"
         }
     ],
-    "seismicSummary": "**URGENT: Four M5+ earthquakes just struck Vanuatu, Kermadec Islands, China, and Micronesia!**"
+    "seismicSummary": "URGENT: Four Mag 5+ earthquakes strike globally!"
 }
