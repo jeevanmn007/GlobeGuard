@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently characterized by a critical confluence of escalating geopolitical tensions, profound economic volatility, and sustained geophysical threats. Persistent conflict in the Middle East is driving severe humanitarian crises and exacerbating global food and energy insecurity, directly contributing to domestic cost-of-living pressures, while the technology sector experiences a broad market retraction with significant losses across major equities. Concurrently, a pattern of notable seismic activity, including multiple significant earthquakes across diverse regions, underscores a baseline physical risk. Therefore, GlobeGuard advises immediate action: **first**, rigorously assess and de-risk financial portfolios, prioritizing liquidity and defensive assets amidst market instability; **second**, reinforce physical security measures and enhance emergency preparedness, including food, water, and robust communication plans, in anticipation of potential local disruptions; and **third**, maintain heightened vigilance on geopolitical flashpoints, energy markets, and the evolving global AI tech landscape to anticipate further shifts and protect critical assets.",
+    "strategicPlan": "The global strategic landscape demands immediate attention, as we observe a confluence of escalating threats: geopolitical conflicts and climate-driven phenomena are severely impacting global food security and cost of living, threatening widespread instability. Financially, major tech markets are experiencing significant declines, reflecting broad economic apprehension and potential volatility across sectors. Concurrently, a cluster of moderate seismic activity in the Pacific underscores ongoing geological stress, indicating potential for further physical disruptions. In response, GlobeGuard advises three critical actions: first, prioritize securing diversified food and essential resource supplies, evaluating local sourcing and preparing for price volatility; second, rigorously review financial portfolios for resilience against economic shocks, focusing on diversification beyond growth tech and assessing liquid reserves; and third, immediately update all emergency preparedness plans, ensuring robust communication protocols and physical safety measures are in place for potential natural or man-made disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
             "link": "https://gizmodo.com/most-americans-say-climate-change-is-making-life-more-expensive-theyre-right-2000771978"
+        },
+        {
+            "title": "Could This Super El Ni\u00f1o Trigger a Global Food Crisis?",
+            "link": "https://gizmodo.com/could-this-super-el-nino-trigger-a-global-food-crisis-2000773228"
         },
         {
             "title": "How the war in Iran is affecting your dinner plate",
@@ -13,10 +17,6 @@
         {
             "title": "Middle East conflict pushing millions into hunger, WFP says",
             "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
-        },
-        {
-            "title": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
-            "link": "https://www.bbc.com/news/articles/c0j2ep13le2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
         }
     ],
     "stock": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7iy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 42 km SSW of Jurm, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6e"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 186 km N of Fais, Micronesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 174 km E of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple Mag 5 earthquakes strike globally!**"
+    "seismicSummary": "URGENT: A series of M5+ earthquakes are striking the Pacific region!"
 }
