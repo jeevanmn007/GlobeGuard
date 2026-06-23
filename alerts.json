@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape demands immediate attention, as we observe a confluence of escalating threats: geopolitical conflicts and climate-driven phenomena are severely impacting global food security and cost of living, threatening widespread instability. Financially, major tech markets are experiencing significant declines, reflecting broad economic apprehension and potential volatility across sectors. Concurrently, a cluster of moderate seismic activity in the Pacific underscores ongoing geological stress, indicating potential for further physical disruptions. In response, GlobeGuard advises three critical actions: first, prioritize securing diversified food and essential resource supplies, evaluating local sourcing and preparing for price volatility; second, rigorously review financial portfolios for resilience against economic shocks, focusing on diversification beyond growth tech and assessing liquid reserves; and third, immediately update all emergency preparedness plans, ensuring robust communication protocols and physical safety measures are in place for potential natural or man-made disruptions.",
+    "strategicPlan": "The current global intelligence brief reveals an environment of elevated systemic risk, characterized by deepening food insecurity and cost-of-living increases exacerbated by climate change, a super El Ni\u00f1o, and persistent geopolitical conflicts in the Middle East, indicating significant supply chain vulnerabilities. Financially, the tech market shows mixed performance, with notable downturns in key AI stocks amidst rapid advancements and emerging ethical debates around artificial intelligence, signaling market volatility and regulatory uncertainty. Concurrently, significant seismic activity across the Pacific Ring of Fire underscores a constant physical threat to infrastructure and regional stability. To navigate this complex landscape, we advise three immediate actions: first, prioritize the diversification and localization of critical resource supply chains and strategically hedge against inflationary pressures; second, strengthen digital asset security protocols while closely monitoring AI's geopolitical and ethical implications for strategic opportunities and regulatory compliance; and third, re-evaluate and update all emergency preparedness plans, ensuring physical assets are secured against natural hazards, especially in seismically active regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.65 (-0.97%)",
+            "title": "\ud83d\udcb0 NVDA: $201.63 (-3.36%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $297.01 (-0.34%)",
+            "title": "\ud83d\udcb0 AAPL: $297.82 (0.27%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $367.34 (-3.18%)",
+            "title": "\ud83d\udcb0 MSFT: $373.21 (1.6%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $119.5 (-6.98%)",
+            "title": "\ud83d\udcb0 PLTR: $118.67 (-0.69%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.79 (-4.75%)",
+            "title": "\ud83d\udcb0 AMZN: $234.12 (0.57%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 126 km S of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7iy"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 265 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ll"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 186 km N of Fais, Micronesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 174 km E of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4"
         }
     ],
-    "seismicSummary": "URGENT: A series of M5+ earthquakes are striking the Pacific region!"
+    "seismicSummary": "**URGENT: Four M5+ earthquakes just struck Vanuatu, Kermadec Islands, China, and Micronesia!**"
 }
