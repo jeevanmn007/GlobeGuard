@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape has significantly intensified, marked by a critical confluence of severe geopolitical instability in the Middle East driving widespread food insecurity and an escalating energy cost crisis, directly impacting global populations and consumer financial well-being, which is further compounded by climate change-related economic burdens. Concurrently, financial markets are experiencing a significant downturn, with major tech stocks exhibiting notable losses, signaling broader economic volatility and investor uncertainty. This complex geopolitical and financial strain is underscored by persistent global seismic activity, with multiple moderate earthquakes across key regions indicating ongoing physical risks. To navigate this multifaceted environment, GlobeGuard directs immediate action: first, re-evaluate and diversify investment portfolios, prioritizing resilient assets and liquidity to mitigate market volatility; second, bolster personal and organizational emergency preparedness plans, ensuring robust critical supply chain resilience and physical safety protocols; and third, closely monitor evolving regional geopolitical escalations and resource market fluctuations to adapt consumption and contingency plans proactively.",
+    "strategicPlan": "The global landscape is currently defined by a critical confluence of threats: escalating geopolitical tensions, particularly the Middle East conflict, are fueling widespread food and energy insecurity, a burden amplified by climate change-driven cost inflation impacting everyday lives. Concurrently, the financial sector shows significant volatility, with major tech stocks experiencing sharp downturns, even as rapid AI advancements generate their own ethical and geopolitical friction. This economic fragility is underscored by a discernible pattern of elevated global seismic activity, introducing an additional layer of physical unpredictability. To secure assets and ensure physical safety in this dynamic environment, GlobeGuard directs three immediate actions: first, rigorously review and diversify your financial portfolio, prioritizing stability and essential commodities over speculative growth in a volatile market; second, update and thoroughly test all physical emergency preparedness protocols, focusing on self-sufficiency for at least 72 hours, particularly in areas prone to natural disasters or supply chain disruptions; and third, strategically audit and reinforce critical supply chains, identifying alternative sources and building robust inventories of essential goods to mitigate against geopolitical instability and climate impacts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv1m"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fr"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 260 km SSW of \u2018Ohonua, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv75"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes reported globally!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes reported globally!"
 }
