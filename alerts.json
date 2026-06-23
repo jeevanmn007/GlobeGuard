@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a critical confluence of threats: escalating geopolitical tensions, particularly the Middle East conflict, are fueling widespread food and energy insecurity, a burden amplified by climate change-driven cost inflation impacting everyday lives. Concurrently, the financial sector shows significant volatility, with major tech stocks experiencing sharp downturns, even as rapid AI advancements generate their own ethical and geopolitical friction. This economic fragility is underscored by a discernible pattern of elevated global seismic activity, introducing an additional layer of physical unpredictability. To secure assets and ensure physical safety in this dynamic environment, GlobeGuard directs three immediate actions: first, rigorously review and diversify your financial portfolio, prioritizing stability and essential commodities over speculative growth in a volatile market; second, update and thoroughly test all physical emergency preparedness protocols, focusing on self-sufficiency for at least 72 hours, particularly in areas prone to natural disasters or supply chain disruptions; and third, strategically audit and reinforce critical supply chains, identifying alternative sources and building robust inventories of essential goods to mitigate against geopolitical instability and climate impacts.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7iy"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 42 km SSW of Jurm, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv6e"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 186 km N of Fais, Micronesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7gf"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7fr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 260 km SSW of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv75"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes reported globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
