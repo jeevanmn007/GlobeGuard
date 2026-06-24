@@ -61,20 +61,20 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 7.5 - 16 km SW of Mor\u00f3n, Venezuela",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 7.2 - 24 km ENE of San Felipe, Venezuela",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 6.9 - 35 km ENE of Kuji, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.59 - 11 km N of Redwood Valley, CA",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 61 km SSW of Panguna, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7t2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 71 km WNW of Catuday, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rx"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 1 km E of El Palmarcito, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
