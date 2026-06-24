@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents an escalating and interconnected threat profile, demanding immediate strategic assessment. Geopolitical conflicts in the Middle East are directly intensifying a severe food crisis, a situation significantly compounded by climate change impacts and a looming super El Ni\u00f1o that threatens global food security. Concurrently, financial markets exhibit volatility, with mixed performance in key tech sectors and emerging regulatory debates surrounding AI introducing further strategic uncertainty. This is overlaid by a persistent pattern of significant seismic activity across the Pacific Ring of Fire and Asia, underscoring inherent physical vulnerabilities. To secure your assets and physical safety in this environment, first, immediately review and diversify financial portfolios, prioritizing stability and establishing robust emergency reserves of essential supplies. Second, enhance physical safety protocols by updating natural disaster preparedness plans, focusing on seismic and climate-related resilience for all vulnerable areas. Finally, maintain vigilant situational awareness regarding geopolitical flashpoints and global supply chain integrity, adapting operational and personal strategies to build maximum resilience against escalating systemic shocks.",
+    "strategicPlan": "The global strategic environment is characterized by a critical convergence of escalating threats: geopolitical conflicts in the Middle East are directly aggravating a looming global food crisis, further exacerbated by the profound economic impacts of climate change and a Super El Ni\u00f1o, posing significant challenges to global stability and cost of living. Amidst this, the technology sector exhibits mixed financial performance while undergoing rapid AI integration, triggering global debates on ethics and market dominance, signaling both innovation and potential regulatory shifts. Concurrently, persistent seismic activity, particularly across the Pacific Ring of Fire, highlights ongoing physical vulnerabilities in key regions. To navigate this complex landscape, implement these directives immediately: First, secure and diversify essential resource holdings, especially food supplies, to build resilience against supply chain disruptions and market volatility. Second, strategically re-evaluate tech investments and operational dependencies, prioritizing AI-driven solutions for efficiency and anticipating evolving global regulatory frameworks. Third, urgently review and enhance physical infrastructure resilience and emergency preparedness protocols for all assets and personnel in seismically active zones and resource-vulnerable regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7iy"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 265 km SSE of Dunhuang, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ll"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 186 km N of Fais, Micronesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7it"
+            "title": "\u26a0\ufe0f Mag 5 - 71 km WNW of Catuday, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rx"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 174 km E of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7k4"
         }
     ],
-    "seismicSummary": "**Multiple M5+ quakes just reported worldwide!**"
+    "seismicSummary": "**Multiple magnitude 5 earthquakes reported globally!**"
 }
