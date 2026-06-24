@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $200.87 (0.41%)",
+            "title": "\ud83d\udcb0 NVDA: $198.85 (-0.59%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $296.73 (0.83%)",
+            "title": "\ud83d\udcb0 AAPL: $296.5 (0.75%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $373.54 (-0.11%)",
+            "title": "\ud83d\udcb0 MSFT: $372.39 (-0.41%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $116.35 (-0.3%)",
+            "title": "\ud83d\udcb0 PLTR: $113.0 (-3.17%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $239.4 (2.26%)",
+            "title": "\ud83d\udcb0 AMZN: $239.65 (2.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 265 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ll"
+            "title": "\u26a0\ufe0f Mag 5.59 - 11 km N of Redwood Valley, CA",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 61 km SSW of Panguna, Papua New Guinea",
