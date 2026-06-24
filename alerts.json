@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $200.04 (-4.13%)",
+            "title": "\ud83d\udcb0 NVDA: $200.87 (0.41%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $294.3 (-0.91%)",
+            "title": "\ud83d\udcb0 AAPL: $296.73 (0.83%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $373.94 (1.8%)",
+            "title": "\ud83d\udcb0 MSFT: $373.54 (-0.11%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $116.7 (-2.34%)",
+            "title": "\ud83d\udcb0 PLTR: $116.35 (-0.3%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $234.11 (0.57%)",
+            "title": "\ud83d\udcb0 AMZN: $239.4 (2.26%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 120 km S of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7lb"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 265 km SSE of Dunhuang, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7ll"
         },
@@ -75,6 +71,10 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 71 km WNW of Catuday, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rx"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 1 km E of El Palmarcito, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7uf"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
