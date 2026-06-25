@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a complex and elevated global threat landscape. Geopolitically, the Middle East conflict, combined with escalating climate change impacts and the Super El Ni\u00f1o, is accelerating a severe global food insecurity crisis, driving up living costs worldwide. Financially, major tech stocks show a concerning bearish trend, reflecting a volatile market environment. This economic instability is compounded by a surge in significant global seismic activity, notably multiple magnitude 7+ earthquakes in Venezuela, a 6.9 in Japan, and a 5.59 in California, posing immediate physical risks and potential infrastructure disruption. To secure assets and physical safety, prioritize immediate review and update of all emergency response protocols, focusing on seismic event preparedness, including securing physical infrastructure and maintaining readily accessible go-bags with essential supplies. Concurrently, strategically re-evaluate and diversify financial portfolios, emphasizing liquidity and defensive assets resilient to market volatility and potential supply chain shocks exacerbated by geopolitical and climate pressures. Finally, proactively secure essential resource reserves, particularly non-perishable food and potable water, sufficient for extended periods, and cultivate local community resilience networks to buffer against impending global food scarcity and rising costs.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The current global situation is acutely unstable, marked by a critical confluence of escalating threats. Geopolitically, ongoing conflicts in the Middle East are directly contributing to a rapidly deteriorating global food security crisis, exacerbated by climate change and a Super El Ni\u00f1o, while financially, major tech stocks are experiencing significant downturns, indicating broad market apprehension. Concurrently, a surge in high-magnitude seismic activity, with recent 7.5 and 7.2 quakes in Venezuela, a 6.9 near Japan, and a 5.59 in California, underscores a heightened physical risk across multiple critical regions. To navigate this complex environment, secure diversified food and essential supply reserves; re-evaluate and de-risk financial portfolios by ensuring liquidity and considering defensive asset allocation; and immediately review and reinforce personal and corporate emergency preparedness plans, focusing on secure communication, physical safety protocols, and robust disaster kits in anticipation of further environmental and geopolitical shocks.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.0 (-0.52%)",
+            "title": "\ud83d\udcb0 NVDA: $194.42 (-2.3%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $293.08 (-0.41%)",
+            "title": "\ud83d\udcb0 AAPL: $279.69 (-4.57%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $365.46 (-2.27%)",
+            "title": "\ud83d\udcb0 MSFT: $357.37 (-2.21%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $113.5 (-2.74%)",
+            "title": "\ud83d\udcb0 PLTR: $107.6 (-5.2%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $234.27 (0.07%)",
+            "title": "\ud83d\udcb0 AMZN: $229.43 (-2.07%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936"
         }
     ],
-    "seismicSummary": "Major 7.5 and 7.2 magnitude quakes just struck Venezuela, with strong quakes also reported in Japan (6.9) and California (5.6)!"
+    "seismicSummary": "**ALERT:** Multiple strong earthquakes are striking globally, including 7.5 and 7.2 in Venezuela, 6.9 in Japan, and a 5.6 in California!"
 }
