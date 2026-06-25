@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence picture reveals a critical confluence of escalating threats: geopolitical conflicts in the Middle East are intensifying food insecurity and inflation globally, exacerbated by climate change and a Super El Ni\u00f1o, directly elevating living costs. Financially, a broad downturn across major tech stocks signals significant market instability. Concurrently, a surge in high-magnitude tectonic activity, notably two Mag 7+ earthquakes in Venezuela and a Mag 6.9 in Japan, presents immediate and severe physical risks. To secure assets and ensure physical safety, GlobeGuard directs immediate action: 1) Establish robust emergency preparedness, including updated kits, family communication plans, and structural hazard mitigation against seismic events. 2) Fortify financial resilience by diversifying investments away from highly volatile sectors, converting some assets into tangibles, and ensuring substantial liquidity. 3) Proactively secure essential resources by establishing a minimum 30-day supply of food, water, and critical medications, while identifying and mitigating local supply chain vulnerabilities.",
+    "strategicPlan": "The current global intelligence picture reveals a rapidly converging risk environment, demanding immediate strategic recalibration. Geopolitically, the confluence of a severe El Ni\u00f1o, escalating Middle East conflicts, and the persistent impacts of climate change are driving significant inflationary pressures and pushing global food security to a critical precipice, with millions facing hunger and rising costs. Financially, major tech equities are experiencing a notable downturn, signaling market volatility and potential broader economic instability across key sectors. Simultaneously, the physical domain is under duress, evidenced by heightened seismic activity including a significant M6.9 earthquake near Japan, underscoring elevated natural disaster risks across vulnerable regions. To secure assets and physical safety, we direct you to: (1) Immediately review and diversify investment portfolios away from highly volatile tech sectors, prioritizing asset protection and liquidity through more resilient holdings; (2) Update and reinforce emergency preparedness protocols for natural disasters, with particular emphasis on earthquake readiness if located in seismically active zones, and climate resilience measures; and (3) Proactively assess critical supply chain vulnerabilities for essential resources, establishing contingency plans for potential disruptions in food and energy access.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7.5 - 28 km SE of Yumare, Venezuela",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 7.2 - 23 km SE of Yumare, Venezuela",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6.9 - 30 km ENE of Kuji, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - 73 km E of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t81q"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 152 km N of Caluula, Somalia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t815"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 93 km E of Union, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Venezuela rocked by M7.5 and M7.2 earthquakes, with a M6.9 also hitting Japan!"
+    "seismicSummary": "**URGENT: Multiple significant earthquakes, including a 6.9 in Japan, just struck worldwide.**"
 }
