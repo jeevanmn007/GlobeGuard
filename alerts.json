@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape is displaying a critical convergence of systemic risks: mounting geopolitical instability in the Middle East is exacerbating a global food crisis, a situation compounded by the inflationary pressures of climate change and the imminent threat of a Super El Ni\u00f1o on agricultural yields. Concurrently, major tech sector stocks are experiencing significant depreciation, signaling pronounced market volatility and economic vulnerability. This multifaceted instability is underscored by a notable surge in seismic activity, with multiple powerful earthquakes observed globally, particularly in Venezuela and Japan, highlighting elevated physical infrastructure and safety risks in tectonically active regions. In response, immediate action is required: **first**, secure essential provisions and establish supply chain redundancies to buffer against escalating food insecurity and inflation; **second**, critically re-evaluate and diversify financial portfolios to mitigate exposure to current market volatility; and **third**, urgently review and fortify emergency preparedness plans and physical assets, especially if located within identified seismic hazard zones.",
+    "strategicPlan": "The global intelligence picture reveals a critical confluence of escalating threats: geopolitical conflicts in the Middle East are intensifying food insecurity and inflation globally, exacerbated by climate change and a Super El Ni\u00f1o, directly elevating living costs. Financially, a broad downturn across major tech stocks signals significant market instability. Concurrently, a surge in high-magnitude tectonic activity, notably two Mag 7+ earthquakes in Venezuela and a Mag 6.9 in Japan, presents immediate and severe physical risks. To secure assets and ensure physical safety, GlobeGuard directs immediate action: 1) Establish robust emergency preparedness, including updated kits, family communication plans, and structural hazard mitigation against seismic events. 2) Fortify financial resilience by diversifying investments away from highly volatile sectors, converting some assets into tangibles, and ensuring substantial liquidity. 3) Proactively secure essential resources by establishing a minimum 30-day supply of food, water, and critical medications, while identifying and mitigating local supply chain vulnerabilities.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $195.28 (-1.87%)",
+            "title": "\ud83d\udcb0 NVDA: $195.74 (-1.64%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $277.68 (-5.25%)",
+            "title": "\ud83d\udcb0 AAPL: $275.15 (-6.12%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $351.63 (-3.78%)",
+            "title": "\ud83d\udcb0 MSFT: $352.83 (-3.46%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $107.18 (-5.56%)",
+            "title": "\ud83d\udcb0 PLTR: $107.27 (-5.49%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $228.17 (-2.6%)",
+            "title": "\ud83d\udcb0 AMZN: $227.01 (-3.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t81q"
         }
     ],
-    "seismicSummary": "**URGENT: M7.5 and M7.2 earthquakes strike near Yumare, Venezuela; other strong quakes reported worldwide.**"
+    "seismicSummary": "\u26a0\ufe0f Venezuela rocked by M7.5 and M7.2 earthquakes, with a M6.9 also hitting Japan!"
 }
