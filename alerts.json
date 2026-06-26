@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is under significant stress, presenting a complex interplay of escalating geopolitical, economic, and physical threats. Geopolitically, persistent conflicts in the Middle East, coupled with the profound impacts of climate change and a predicted Super El Ni\u00f1o, are directly jeopardizing global food security and driving up living costs, pushing millions towards hunger. Financially, while key technology sectors show resilience and innovation, they face growing regulatory scrutiny and internal pressures regarding their environmental footprint. Critically, physical safety is paramount, with a notable uptick in significant seismic activity across the Pacific Ring of Fire, particularly impacting the Philippines, Japan, and Nicaragua, demanding immediate attention. To mitigate these interwoven risks, GlobeGuard directs the following: First, immediately review and reinforce emergency preparedness protocols for personnel and assets in seismically active zones, ensuring robust structural integrity and evacuation plans. Second, diversify essential supply chain resilience and strategically allocate financial resources towards inflation-resilient assets to counter the rising costs of living and impending food insecurity. Third, maintain vigilant monitoring of geopolitical developments, climate-driven events, and their compounding effects on global supply chains and commodity markets, preparing for potential resource scarcity and market volatility.",
+    "strategicPlan": "The global environment is currently defined by a severe confluence of escalating geopolitical, economic, and physical threats: food insecurity and rising costs of living are exacerbated by climate change, a potential Super El Ni\u00f1o, and ongoing Middle East conflicts, while major tectonic instability is evident with significant seismic activity across the Pacific Ring of Fire. Despite a robust performance in the tech sector, these systemic vulnerabilities demand immediate and decisive action. To navigate this complex landscape, GlobeGuard advises: first, immediately secure essential resources by diversifying food and water supply chains and establishing emergency provisions; second, reinforce critical infrastructure and update comprehensive disaster preparedness protocols for physical safety, particularly in seismically active regions; and third, strategically re-evaluate investment portfolios to prioritize resilient assets and technologies that can navigate both economic volatility and resource scarcity, leveraging current tech sector strength for secure asset growth.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $193.34 (-1.23%)",
+            "title": "\ud83d\udcb0 NVDA: $194.38 (-0.69%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $279.04 (1.41%)",
+            "title": "\ud83d\udcb0 AAPL: $278.78 (1.32%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $369.52 (4.73%)",
+            "title": "\ud83d\udcb0 MSFT: $370.47 (5.0%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $112.54 (4.91%)",
+            "title": "\ud83d\udcb0 PLTR: $113.16 (5.49%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $231.78 (2.1%)",
+            "title": "\ud83d\udcb0 AMZN: $230.57 (1.57%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
         }
     ],
-    "seismicSummary": "**Urgent:** A 6.5 magnitude earthquake struck the Philippines, with multiple strong quakes also reported in Japan and Nicaragua!"
+    "seismicSummary": "**\ud83d\udea8 Major 6.5 earthquake in the Philippines, with strong 5s also reported in Japan and Nicaragua!**"
 }
