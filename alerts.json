@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The current global environment is marked by a critical confluence of escalating geopolitical tensions, significant economic volatility, and heightened geohazard activity. Food security is severely threatened by the compounding effects of climate change, an intensifying El Ni\u00f1o, and prolonged conflict in the Middle East, leading to rising costs and widespread humanitarian distress. Concurrently, major tech indices are experiencing a broad market downturn, signaling economic uncertainty. Physically, a notable cluster of significant seismic events across multiple global regions underscores an elevated risk of natural disasters. To secure assets and ensure physical safety, we advise three critical actions: First, diversify and de-risk financial portfolios by prioritizing assets resilient to inflation and market downturns, simultaneously shoring up critical supply chains against potential disruptions. Second, immediately review and update all disaster preparedness plans, focusing on emergency supplies, robust communication protocols, and clear evacuation routes, especially in seismically active or climate-vulnerable regions. Third, maintain continuous vigilance on evolving geopolitical conflicts and global food supply chain stability, adjusting contingency strategies to remain agile in a dynamic threat environment.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global operating environment is under significant stress, presenting a complex interplay of escalating geopolitical, economic, and physical threats. Geopolitically, persistent conflicts in the Middle East, coupled with the profound impacts of climate change and a predicted Super El Ni\u00f1o, are directly jeopardizing global food security and driving up living costs, pushing millions towards hunger. Financially, while key technology sectors show resilience and innovation, they face growing regulatory scrutiny and internal pressures regarding their environmental footprint. Critically, physical safety is paramount, with a notable uptick in significant seismic activity across the Pacific Ring of Fire, particularly impacting the Philippines, Japan, and Nicaragua, demanding immediate attention. To mitigate these interwoven risks, GlobeGuard directs the following: First, immediately review and reinforce emergency preparedness protocols for personnel and assets in seismically active zones, ensuring robust structural integrity and evacuation plans. Second, diversify essential supply chain resilience and strategically allocate financial resources towards inflation-resilient assets to counter the rising costs of living and impending food insecurity. Third, maintain vigilant monitoring of geopolitical developments, climate-driven events, and their compounding effects on global supply chains and commodity markets, preparing for potential resource scarcity and market volatility.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $195.74 (-1.64%)",
+            "title": "\ud83d\udcb0 NVDA: $193.34 (-1.23%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $275.15 (-6.12%)",
+            "title": "\ud83d\udcb0 AAPL: $279.04 (1.41%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $352.83 (-3.46%)",
+            "title": "\ud83d\udcb0 MSFT: $369.52 (4.73%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $107.27 (-5.49%)",
+            "title": "\ud83d\udcb0 PLTR: $112.54 (4.91%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $227.01 (-3.1%)",
+            "title": "\ud83d\udcb0 AMZN: $231.78 (2.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -51,17 +51,17 @@
             "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/"
         },
         {
-            "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
-            "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
-        },
-        {
             "title": "Mistral CEO Says the Pope\u2019s Comments Are a Big Problem for Europe\u2019s War on American Tech",
             "link": "https://gizmodo.com/mistral-ceo-says-the-popes-comments-are-a-big-problem-for-europes-war-on-american-tech-2000764700"
+        },
+        {
+            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+            "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/"
         }
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.5 - 35 km SW of Balangonan, Philippines",
+            "title": "\u26a0\ufe0f Mag 6.5 - 34 km WSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8cy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
+            "title": "\u26a0\ufe0f Mag 5.7 - 7 km N of Oshino, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 52 km NNE of Barkhan, Pakistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei"
+            "title": "\u26a0\ufe0f Mag 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Major M6.5 earthquake just hit the Philippines, with other strong quakes in Japan, Nicaragua, and Pakistan!"
+    "seismicSummary": "**Urgent:** A 6.5 magnitude earthquake struck the Philippines, with multiple strong quakes also reported in Japan and Nicaragua!"
 }
