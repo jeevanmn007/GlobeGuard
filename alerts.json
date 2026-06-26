@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "A direct assessment reveals a critically unstable global environment, marked by a dangerous confluence of geopolitical, financial, and physical threats. Geopolitically, escalating conflict in the Middle East, exacerbated by a Super El Ni\u00f1o and climate change, is actively pushing millions towards a critical global food crisis and driving up essential costs. Financially, a significant downturn across major tech stocks signals broad market instability and a need for immediate strategic adjustments. Simultaneously, heightened seismic activity with multiple moderate-to-strong earthquakes along the Pacific Ring of Fire underscores persistent physical threats. To secure assets and ensure physical safety, we must immediately prioritize the diversification and hardening of critical resource supply chains with sufficient emergency reserves; strategically re-evaluate and de-risk investment portfolios, converting volatile assets into more stable stores of value while ensuring ample liquidity; and rigorously update and rehearse emergency preparedness protocols for personnel and infrastructure, especially in identified high-risk seismic zones.",
+    "strategicPlan": "The global threat landscape is rapidly deteriorating, marked by a critical confluence of escalating geopolitical conflicts in the Middle East driving widespread food insecurity and rising costs due to climate change, a significant downturn across key technology market indices, and heightened seismic activity across the Pacific Rim. In response, immediately: 1. Diversify asset portfolios away from volatile tech, prioritizing investments in resilient, essential sectors while securing long-term provisions against impending supply chain disruptions and inflationary pressures. 2. Review and reinforce emergency preparedness plans for physical safety, focusing on securing critical infrastructure, communication redundancies, and evacuation protocols, particularly for seismic events given the increased activity. 3. Maintain heightened situational awareness of regional instabilities and economic indicators, adapting strategic plans to foster robust resilience against these multi-faceted global shocks.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8cy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 73 km E of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t81q"
+            "title": "\u26a0\ufe0f Mag 5.1 - south of the Kermadec Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 93 km E of Union, Philippines",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8bm"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes are hitting the Pacific Rim!"
+    "seismicSummary": "URGENT: A 5.8 earthquake just struck Japan, with multiple other significant quakes reported globally!"
 }
