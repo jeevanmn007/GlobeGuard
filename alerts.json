@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a severe confluence of escalating geopolitical, economic, and physical threats: food insecurity and rising costs of living are exacerbated by climate change, a potential Super El Ni\u00f1o, and ongoing Middle East conflicts, while major tectonic instability is evident with significant seismic activity across the Pacific Ring of Fire. Despite a robust performance in the tech sector, these systemic vulnerabilities demand immediate and decisive action. To navigate this complex landscape, GlobeGuard advises: first, immediately secure essential resources by diversifying food and water supply chains and establishing emergency provisions; second, reinforce critical infrastructure and update comprehensive disaster preparedness protocols for physical safety, particularly in seismically active regions; and third, strategically re-evaluate investment portfolios to prioritize resilient assets and technologies that can navigate both economic volatility and resource scarcity, leveraging current tech sector strength for secure asset growth.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The current global landscape presents a multifaceted and urgent threat profile. Geopolitically, the escalating Middle East conflict, combined with the severe economic impact of climate change and a Super El Ni\u00f1o, portends a significant global food crisis and rising living costs, a reality partially obscured by robust performance in key technology stocks. Concurrently, a surge in significant seismic activity across the Pacific Ring of Fire and Central America signals immediate and potent physical dangers. To navigate this environment effectively, we must immediately: first, fortify and diversify critical supply chains to mitigate exposure to geopolitical and climate-induced disruptions; second, urgently enhance seismic preparedness and infrastructure resilience for all personnel and assets situated in high-risk earthquake zones; and third, strategically adjust financial portfolios to hedge against anticipated inflation and commodity volatility, while prudently leveraging opportunities within resilient tech sectors.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $194.38 (-0.69%)",
+            "title": "\ud83d\udcb0 NVDA: $192.53 (-1.64%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $278.78 (1.32%)",
+            "title": "\ud83d\udcb0 AAPL: $283.78 (3.14%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $370.47 (5.0%)",
+            "title": "\ud83d\udcb0 MSFT: $372.97 (5.71%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $113.16 (5.49%)",
+            "title": "\ud83d\udcb0 PLTR: $112.93 (5.28%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $230.57 (1.57%)",
+            "title": "\ud83d\udcb0 AMZN: $232.69 (2.5%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Major 6.5 earthquake in the Philippines, with strong 5s also reported in Japan and Nicaragua!**"
+    "seismicSummary": "\ud83d\udea8 Philippines hit by major 6.5 quake; multiple significant tremors also in Japan and Nicaragua!"
 }
