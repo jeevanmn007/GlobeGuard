@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly deteriorating, marked by a critical confluence of escalating geopolitical conflicts in the Middle East driving widespread food insecurity and rising costs due to climate change, a significant downturn across key technology market indices, and heightened seismic activity across the Pacific Rim. In response, immediately: 1. Diversify asset portfolios away from volatile tech, prioritizing investments in resilient, essential sectors while securing long-term provisions against impending supply chain disruptions and inflationary pressures. 2. Review and reinforce emergency preparedness plans for physical safety, focusing on securing critical infrastructure, communication redundancies, and evacuation protocols, particularly for seismic events given the increased activity. 3. Maintain heightened situational awareness of regional instabilities and economic indicators, adapting strategic plans to foster robust resilience against these multi-faceted global shocks.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The current global environment is marked by a critical confluence of escalating geopolitical tensions, significant economic volatility, and heightened geohazard activity. Food security is severely threatened by the compounding effects of climate change, an intensifying El Ni\u00f1o, and prolonged conflict in the Middle East, leading to rising costs and widespread humanitarian distress. Concurrently, major tech indices are experiencing a broad market downturn, signaling economic uncertainty. Physically, a notable cluster of significant seismic events across multiple global regions underscores an elevated risk of natural disasters. To secure assets and ensure physical safety, we advise three critical actions: First, diversify and de-risk financial portfolios by prioritizing assets resilient to inflation and market downturns, simultaneously shoring up critical supply chains against potential disruptions. Second, immediately review and update all disaster preparedness plans, focusing on emergency supplies, robust communication protocols, and clear evacuation routes, especially in seismically active or climate-vulnerable regions. Third, maintain continuous vigilance on evolving geopolitical conflicts and global food supply chain stability, adjusting contingency strategies to remain agile in a dynamic threat environment.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.5 - 35 km SW of Balangonan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.8 - 3 km SE of Yokoshiba, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8cy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Kermadec Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8di"
+            "title": "\u26a0\ufe0f Mag 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 93 km E of Union, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 88 km SW of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8bm"
+            "title": "\u26a0\ufe0f Mag 5.2 - 52 km NNE of Barkhan, Pakistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei"
         }
     ],
-    "seismicSummary": "URGENT: A 5.8 earthquake just struck Japan, with multiple other significant quakes reported globally!"
+    "seismicSummary": "\ud83d\udea8 Major M6.5 earthquake just hit the Philippines, with other strong quakes in Japan, Nicaragua, and Pakistan!"
 }
