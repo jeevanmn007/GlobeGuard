@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence picture reveals a rapidly converging risk environment, demanding immediate strategic recalibration. Geopolitically, the confluence of a severe El Ni\u00f1o, escalating Middle East conflicts, and the persistent impacts of climate change are driving significant inflationary pressures and pushing global food security to a critical precipice, with millions facing hunger and rising costs. Financially, major tech equities are experiencing a notable downturn, signaling market volatility and potential broader economic instability across key sectors. Simultaneously, the physical domain is under duress, evidenced by heightened seismic activity including a significant M6.9 earthquake near Japan, underscoring elevated natural disaster risks across vulnerable regions. To secure assets and physical safety, we direct you to: (1) Immediately review and diversify investment portfolios away from highly volatile tech sectors, prioritizing asset protection and liquidity through more resilient holdings; (2) Update and reinforce emergency preparedness protocols for natural disasters, with particular emphasis on earthquake readiness if located in seismically active zones, and climate resilience measures; and (3) Proactively assess critical supply chain vulnerabilities for essential resources, establishing contingency plans for potential disruptions in food and energy access.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global intelligence picture reveals a rapidly deteriorating landscape characterized by converging geopolitical, financial, and physical threats. Geopolitically, the confluence of ongoing conflicts in the Middle East, the looming global food crisis exacerbated by a Super El Ni\u00f1o, and the increasing economic burden of climate change points to widespread humanitarian and economic instability. Financially, significant downturns across major tech stocks signal pervasive market volatility and economic uncertainty, potentially indicating a broader economic contraction. Concurrently, consistent seismic activity across diverse regions underscores the ever-present threat of natural disasters. In light of this, GlobeGuard advises immediate action: First, fortify financial resilience by diversifying assets away from volatile sectors and securing essential resources against potential inflation and market shocks. Second, proactively prepare for potential supply chain disruptions and humanitarian challenges by stocking emergency food, water, and medical supplies, and reviewing all personal and family emergency protocols. Third, critically assess your physical location's vulnerability to natural disasters, updating preparedness kits, understanding local evacuation plans, and ensuring the structural integrity of key assets.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.9 - 30 km ENE of Kuji, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 73 km E of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t81q"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 93 km E of Union, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 88 km SW of Nikolski, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8bm"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple significant earthquakes, including a 6.9 in Japan, just struck worldwide.**"
+    "seismicSummary": "Multiple moderate earthquakes (Mag 4.9-5.5) are striking globally, impacting Papua New Guinea, Somalia, Philippines, and Alaska!"
 }
