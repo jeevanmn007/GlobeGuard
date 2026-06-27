@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape presents a heightened threat profile, characterized by escalating geopolitical instability in the Middle East directly contributing to a rapidly worsening global food security crisis, further exacerbated by the severe economic impacts of climate change and the Super El Ni\u00f1o phenomenon. Simultaneously, persistent, significant seismic activity in sensitive regions like Afghanistan, Pakistan, and the Pacific Rim underscores a constant physical threat. While the tech sector demonstrates robust growth and resilience, this does not mitigate the broader economic and physical vulnerabilities. To navigate this complex environment, GlobeGuard directs immediate action: first, secure and diversify critical supply chains, particularly food and energy resources, while strategically hedging against commodity market volatility; second, review and reinforce all emergency preparedness protocols and physical infrastructure resilience plans, especially in areas prone to seismic events; and third, fortify digital and financial assets with advanced security measures against potential cyber exploitation stemming from global instability.",
+    "strategicPlan": "The global intelligence assessment reveals a heightened, multi-faceted risk environment. Geopolitically, the escalating Middle East conflict, combined with the proven economic impacts of climate change and the ominous forecast of a Super El Ni\u00f1o, is rapidly pushing millions into hunger and driving up the cost of living globally, despite resilience in key tech sectors. Concurrently, a cluster of significant seismic events across Afghanistan, Pakistan, Timor Leste, and the Solomon Islands highlights persistent tectonic instability and localized physical threats. To navigate this complex landscape, GlobeGuard directs the following: first, immediately review and diversify critical supply chains and investment strategies to mitigate commodity price volatility and geopolitical disruption; second, strengthen emergency preparedness protocols for personnel and assets, particularly focusing on seismic resilience in active zones; and third, enhance localized intelligence on emerging climate patterns and regional conflicts to anticipate shifts in food security and political stability.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ny"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, topping Mag 6.1, just occurred worldwide!"
+    "seismicSummary": "Multiple strong earthquakes just hit, including a Mag 6.1 in Afghanistan!"
 }
