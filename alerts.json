@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global situation is critically strained, marked by a dangerous confluence of escalating systemic risks: mounting food and economic insecurity driven by climate change, a potential Super El Ni\u00f1o, and intensified geopolitical conflict in the Middle East, which together are raising costs globally and pushing millions towards hunger. This pervasive resource and economic instability is occurring simultaneously with heightened physical threats, evidenced by significant tectonic activity across the Pacific Ring of Fire and South Asia. While major tech stocks show some isolated resilience and growth, indicative of a robust digital economy, this buoyancy exists against a backdrop of severe environmental, geopolitical, and physical vulnerabilities. Therefore, for immediate security, we advise three critical actions: first, proactively assess and fortify all essential supply chains, particularly for food and critical goods, by exploring local sourcing and diversified procurement strategies to mitigate against scarcity and inflationary pressures; second, rigorously review and enhance emergency preparedness and physical asset protection protocols for all personnel and infrastructure located in or near seismically active zones, ensuring robust contingency plans; and third, strategically manage financial assets by hedging against broad market volatility and re-evaluating investments to favor resilience-enhancing sectors, even as specific growth opportunities within the digital economy are cautiously explored.",
+    "strategicPlan": "The global operating environment presents a converging threat profile characterized by escalating geopolitical instability, significant economic pressures, and persistent seismic activity. Geopolitically, the Middle East conflict is actively driving widespread food insecurity, a crisis exacerbated by the inflationary impacts of climate change and the looming specter of a Super El Ni\u00f1o-induced global food crisis. While major tech stocks demonstrate resilience, the underlying economic fabric is stressed by rising costs. Concurrently, a pattern of notable seismic events across critical regions, including Timor Leste, Japan, Pakistan, and the Solomon Islands, underscores an elevated physical risk. Therefore, to secure assets and ensure physical safety, we direct the following: First, immediately audit and diversify essential supply chains, particularly for food and energy commodities, to mitigate inflationary pressures and geopolitical disruptions. Second, re-evaluate financial portfolios for resilience against market volatility and allocate resources towards stable, demand-driven sectors, while monitoring regulatory shifts impacting critical infrastructure. Third, ensure all personnel and assets are protected by current, robust emergency preparedness protocols, with particular emphasis on seismic event response and communication redundancy across all vulnerable operational zones.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.5 - 34 km WSW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec"
+            "title": "\u26a0\ufe0f Mag 5.9 - 192 km N of Metinaro, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.7 - 7 km N of Oshino, Japan",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 114 km SSW of Trenggalek, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8me"
+            "title": "\u26a0\ufe0f Mag 5.2 - 139 km E of Kirakira, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ny"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f A powerful Mag 6.5 earthquake just struck the Philippines, alongside multiple other strong quakes across Asia!"
+    "seismicSummary": "**Warning: Multiple Mag 5+ earthquakes are striking across the globe!**"
 }
