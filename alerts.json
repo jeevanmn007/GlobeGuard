@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global situation demands immediate attention, marked by a convergence of escalating geopolitical, economic, and physical threats. Geopolitically, the ongoing Middle East conflict, combined with a Super El Ni\u00f1o and climate change-induced inflation, is critically stressing global food supplies and exacerbating economic hardship, even as the tech sector largely demonstrates financial resilience despite some sector-specific concerns. Simultaneously, a significant uptick in seismic activity across the Pacific Ring of Fire, highlighted by multiple substantial earthquakes in Japan, the Philippines, and Nicaragua, signals an elevated physical hazard profile. To navigate this complex environment, GlobeGuard directs immediate action: first, fortify critical financial and physical assets by diversifying investments into resilient sectors and securing essential provisions (e.g., food, water, emergency supplies) for at least 3-6 months; second, enhance physical safety protocols for personnel and infrastructure in seismically active zones through updated preparedness plans, stocked emergency kits, and rehearsed evacuation procedures; and third, strengthen supply chain resilience by proactively identifying alternative sourcing and distribution channels to mitigate geopolitical and climate-induced disruptions to essential goods.",
+    "strategicPlan": "The global threat landscape is rapidly converging, indicating a critical juncture. Geopolitically, the escalating Middle East conflict, combined with a potentially catastrophic Super El Ni\u00f1o and the pervasive economic burden of climate change, is actively driving millions into hunger and raising the specter of a widespread global food crisis. While major tech indices like Apple, Microsoft, and Amazon show short-term resilience, this financial performance must be viewed against the backdrop of profound systemic instability. Simultaneously, a notable increase in significant seismic activity across the Pacific Rim, South Asia, and Central America highlights persistent and immediate physical threats. To navigate this complex environment, GlobeGuard advises immediate action: **first**, audit and diversify critical supply chains, particularly for food and essential goods, considering alternative sourcing and local resilience; **second**, fortify physical assets and personal safety protocols, ensuring robust emergency preparedness plans are in place for both natural disasters and geopolitical disruptions; and **third**, maintain rigorous, real-time intelligence monitoring of climate indicators, conflict zones, and supply chain integrity to anticipate and mitigate emerging risks effectively.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ec"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 3 km SE of Yokoshiba, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8cy"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 7 km N of Oshino, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 63 km NNE of Barkhan, Pakistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
         }
     ],
-    "seismicSummary": "Powerful M6.5 quake in Philippines; multiple M5+ quakes also strike Japan and Nicaragua!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a 6.5 in the Philippines, reported worldwide!"
 }
