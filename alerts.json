@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global operating environment presents a converging threat profile characterized by escalating geopolitical instability, significant economic pressures, and persistent seismic activity. Geopolitically, the Middle East conflict is actively driving widespread food insecurity, a crisis exacerbated by the inflationary impacts of climate change and the looming specter of a Super El Ni\u00f1o-induced global food crisis. While major tech stocks demonstrate resilience, the underlying economic fabric is stressed by rising costs. Concurrently, a pattern of notable seismic events across critical regions, including Timor Leste, Japan, Pakistan, and the Solomon Islands, underscores an elevated physical risk. Therefore, to secure assets and ensure physical safety, we direct the following: First, immediately audit and diversify essential supply chains, particularly for food and energy commodities, to mitigate inflationary pressures and geopolitical disruptions. Second, re-evaluate financial portfolios for resilience against market volatility and allocate resources towards stable, demand-driven sectors, while monitoring regulatory shifts impacting critical infrastructure. Third, ensure all personnel and assets are protected by current, robust emergency preparedness protocols, with particular emphasis on seismic event response and communication redundancy across all vulnerable operational zones.",
+    "strategicPlan": "Our current intelligence indicates a complex and rapidly evolving global risk landscape. Geopolitically, the confluence of a \"Super El Ni\u00f1o,\" climate change-driven cost increases, and persistent Middle East conflict is directly accelerating a severe global food crisis and humanitarian distress, which will inevitably ripple through international stability and supply chains. Financially, while the tech sector, especially AI, shows robust growth and innovation, it faces increasing scrutiny regarding data center impact and regulatory frameworks, signaling potential future friction. Concurrently, a concerning uptick in significant seismic activity across Asia and Oceania, including regions already under geopolitical stress, underscores an immediate physical threat. To navigate this environment, GlobeGuard directs immediate action on three fronts: First, aggressively diversify and localize critical supply chains, particularly for food and essential commodities, to build resilience against impending shortages and price volatility. Second, strategically re-evaluate investment portfolios, balancing robust tech sector opportunities with increased allocation to defensive assets and infrastructure resilient to climate and geopolitical shocks, while closely monitoring AI and data regulation. Third, enhance physical asset hardening and emergency preparedness protocols in seismically active zones, with a focus on comprehensive disaster response planning for both natural and man-made disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 192 km N of Metinaro, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf"
+            "title": "\u26a0\ufe0f Mag 6.1 - 43 km S of Jurm, Afghanistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 7 km N of Oshino, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8fe"
+            "title": "\u26a0\ufe0f Mag 5.9 - 192 km N of Metinaro, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 63 km NNE of Barkhan, Pakistan",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ny"
         }
     ],
-    "seismicSummary": "**Warning: Multiple Mag 5+ earthquakes are striking across the globe!**"
+    "seismicSummary": "Multiple strong earthquakes detected globally, including a Mag 6.1 in Afghanistan!"
 }
