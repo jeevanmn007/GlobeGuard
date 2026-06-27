@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global threat landscape is rapidly converging, indicating a critical juncture. Geopolitically, the escalating Middle East conflict, combined with a potentially catastrophic Super El Ni\u00f1o and the pervasive economic burden of climate change, is actively driving millions into hunger and raising the specter of a widespread global food crisis. While major tech indices like Apple, Microsoft, and Amazon show short-term resilience, this financial performance must be viewed against the backdrop of profound systemic instability. Simultaneously, a notable increase in significant seismic activity across the Pacific Rim, South Asia, and Central America highlights persistent and immediate physical threats. To navigate this complex environment, GlobeGuard advises immediate action: **first**, audit and diversify critical supply chains, particularly for food and essential goods, considering alternative sourcing and local resilience; **second**, fortify physical assets and personal safety protocols, ensuring robust emergency preparedness plans are in place for both natural disasters and geopolitical disruptions; and **third**, maintain rigorous, real-time intelligence monitoring of climate indicators, conflict zones, and supply chain integrity to anticipate and mitigate emerging risks effectively.",
+    "strategicPlan": "The current global situation is critically strained, marked by a dangerous confluence of escalating systemic risks: mounting food and economic insecurity driven by climate change, a potential Super El Ni\u00f1o, and intensified geopolitical conflict in the Middle East, which together are raising costs globally and pushing millions towards hunger. This pervasive resource and economic instability is occurring simultaneously with heightened physical threats, evidenced by significant tectonic activity across the Pacific Ring of Fire and South Asia. While major tech stocks show some isolated resilience and growth, indicative of a robust digital economy, this buoyancy exists against a backdrop of severe environmental, geopolitical, and physical vulnerabilities. Therefore, for immediate security, we advise three critical actions: first, proactively assess and fortify all essential supply chains, particularly for food and critical goods, by exploring local sourcing and diversified procurement strategies to mitigate against scarcity and inflationary pressures; second, rigorously review and enhance emergency preparedness and physical asset protection protocols for all personnel and infrastructure located in or near seismically active zones, ensuring robust contingency plans; and third, strategically manage financial assets by hedging against broad market volatility and re-evaluating investments to favor resilience-enhancing sectors, even as specific growth opportunities within the digital economy are cautiously explored.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 7 km NE of Villa El Carmen, Nicaragua",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
+            "title": "\u26a0\ufe0f Mag 5.2 - 114 km SSW of Trenggalek, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8me"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a 6.5 in the Philippines, reported worldwide!"
+    "seismicSummary": "\u26a0\ufe0f A powerful Mag 6.5 earthquake just struck the Philippines, alongside multiple other strong quakes across Asia!"
 }
