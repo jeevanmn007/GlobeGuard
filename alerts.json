@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global threat landscape is critically escalating, marked by a severe and converging crisis in food security driven by the cumulative impact of climate change, an intensifying Super El Ni\u00f1o, and persistent Middle East conflicts, leading to widespread cost increases and humanitarian concerns. Simultaneously, the Pacific Ring of Fire is exhibiting significant tectonic unrest with a cluster of magnitude 5+ earthquakes, demanding heightened vigilance for potential infrastructure disruption across multiple vulnerable regions. While the tech sector demonstrates resilience and continued innovation, it navigates increasing regulatory and social pressures. To secure assets and ensure physical safety, **first, immediately diversify and localize critical supply chains, building strategic reserves of essential goods to mitigate the impending food and resource crises.** **Second, conduct urgent vulnerability assessments of all physical assets and personnel in seismically active and geopolitically volatile regions, implementing robust disaster preparedness and security protocols.** **Third, strategically pivot investments towards resilient infrastructure and essential services, leveraging advanced intelligence platforms to proactively anticipate and respond to converging global risks.**",
+    "strategicPlan": "The global landscape is currently defined by a critical convergence of geopolitical, financial, and physical threats requiring immediate action. Geopolitically, the Middle East conflict and a super El Ni\u00f1o are accelerating a global food crisis, exacerbated by climate change driving up costs, while tech giants navigate both innovation and calls for regulation amidst ongoing 'tech wars.' Financially, despite strong market performance in major tech, underlying vulnerabilities and geopolitical pressures persist. Concurrently, the Pacific Rim remains geologically active, with multiple significant seismic events underscoring persistent physical risks. Therefore, GlobeGuard directs you to promptly secure essential supply chains against food scarcity, reinforce comprehensive cybersecurity measures for all digital assets, and update physical hazard preparedness protocols, including emergency kits and asset-specific insurance, especially in seismically vulnerable areas.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 8 km WNW of Changning, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 112 km SW of Bandar Lampung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 65 km W of Foxton Beach, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8t3"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple Mag 5+ earthquakes just hit across the Pacific, including Japan, Vanuatu, Indonesia, and New Zealand!**"
+    "seismicSummary": "Multiple M5+ earthquakes just struck across Japan, China, Vanuatu, and Indonesia!"
 }
