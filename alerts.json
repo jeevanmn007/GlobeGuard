@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence assessment reveals a heightened, multi-faceted risk environment. Geopolitically, the escalating Middle East conflict, combined with the proven economic impacts of climate change and the ominous forecast of a Super El Ni\u00f1o, is rapidly pushing millions into hunger and driving up the cost of living globally, despite resilience in key tech sectors. Concurrently, a cluster of significant seismic events across Afghanistan, Pakistan, Timor Leste, and the Solomon Islands highlights persistent tectonic instability and localized physical threats. To navigate this complex landscape, GlobeGuard directs the following: first, immediately review and diversify critical supply chains and investment strategies to mitigate commodity price volatility and geopolitical disruption; second, strengthen emergency preparedness protocols for personnel and assets, particularly focusing on seismic resilience in active zones; and third, enhance localized intelligence on emerging climate patterns and regional conflicts to anticipate shifts in food security and political stability.",
+    "strategicPlan": "The global strategic environment is deteriorating rapidly, marked by escalating geopolitical conflicts in the Middle East driving severe food insecurity and inflationary pressures, exacerbated by a looming 'Super El Ni\u00f1o' and broader climate change impacts, even as the tech sector shows robust innovation amidst emerging regulatory challenges. This complex web of threats is overlaid by a concerning uptick in significant tectonic activity, with recent magnitude 6.1 in Afghanistan and other strong tremors across the Indo-Pacific signaling elevated physical risks. To navigate this volatile period, GlobeGuard mandates the following urgent actions: **(1)** Implement an immediate review and enhancement of physical security protocols and emergency preparedness plans for all assets and personnel located in seismically active or geopolitically sensitive regions. **(2)** Diversify and secure critical supply chains, with a particular focus on food and essential commodities, to build resilience against climate-induced shortages and conflict-driven price surges. **(3)** Conduct a comprehensive assessment of investment portfolios, adjusting for exposure to both the robust, yet potentially regulated, tech market and the heightened volatility associated with global instability and resource scarcity.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 63 km NNE of Barkhan, Pakistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le"
+            "title": "\u26a0\ufe0f Mag 5.8 - 51 km ENE of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 139 km E of Kirakira, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ny"
+            "title": "\u26a0\ufe0f Mag 5.4 - 63 km NNE of Barkhan, Pakistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes just hit, including a Mag 6.1 in Afghanistan!"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes, up to Mag 6.1, have just struck globally!**"
 }
