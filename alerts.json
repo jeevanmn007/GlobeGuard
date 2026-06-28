@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global strategic environment is deteriorating rapidly, marked by escalating geopolitical conflicts in the Middle East driving severe food insecurity and inflationary pressures, exacerbated by a looming 'Super El Ni\u00f1o' and broader climate change impacts, even as the tech sector shows robust innovation amidst emerging regulatory challenges. This complex web of threats is overlaid by a concerning uptick in significant tectonic activity, with recent magnitude 6.1 in Afghanistan and other strong tremors across the Indo-Pacific signaling elevated physical risks. To navigate this volatile period, GlobeGuard mandates the following urgent actions: **(1)** Implement an immediate review and enhancement of physical security protocols and emergency preparedness plans for all assets and personnel located in seismically active or geopolitically sensitive regions. **(2)** Diversify and secure critical supply chains, with a particular focus on food and essential commodities, to build resilience against climate-induced shortages and conflict-driven price surges. **(3)** Conduct a comprehensive assessment of investment portfolios, adjusting for exposure to both the robust, yet potentially regulated, tech market and the heightened volatility associated with global instability and resource scarcity.",
+    "strategicPlan": "The global intelligence assessment indicates a critical escalation in systemic risk, driven by the convergence of escalating geopolitical instability in the Middle East, a Super El Ni\u00f1o event exacerbating global food insecurity and inflationary pressures, and persistent significant seismic activity across the Pacific Ring of Fire and Central Asia. While major tech stocks like Apple and Microsoft show resilience, the foundational economic landscape is challenged by rising costs of living and physical vulnerabilities. To navigate this complex threat environment, GlobeGuard directs immediate action to: diversify and secure critical supply chains, particularly for essential goods, to mitigate climate and conflict-induced disruptions; bolster financial resilience through strategic portfolio adjustments and increased liquidity; and meticulously update and rehearse comprehensive disaster preparedness protocols for all personnel and physical assets, especially those in seismically active regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 63 km NNE of Barkhan, Pakistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le"
+            "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong earthquakes, up to Mag 6.1, have just struck globally!**"
+    "seismicSummary": "Multiple strong earthquakes (M5.2-6.1) are striking globally!"
 }
