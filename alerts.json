@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape presents a heightened and complex threat profile: widespread geopolitical instability in the Middle East, coupled with climate change impacts and an intensifying El Ni\u00f1o, is accelerating a global food crisis and escalating costs for staple goods. Concurrently, significant seismic events across Afghanistan, Japan, Vanuatu, and Indonesia signal heightened global geological stress, demanding immediate physical readiness. Financially, while major tech equities like Apple, Microsoft, and Amazon show robust growth, this contrasts with underlying economic pressures, indicating a divergence. To navigate this period, GlobeGuard directs immediate action: 1) Prioritize the security and diversification of food and energy supply chains against both geopolitical disruption and climate-induced volatility. 2) Implement comprehensive emergency preparedness and structural resilience assessments for all assets and personnel in seismically active regions and areas prone to extreme weather. 3) Consolidate and safeguard critical financial assets, preparing for potential market shifts stemming from cascading environmental and geopolitical crises.",
+    "strategicPlan": "The global environment is currently characterized by a critical confluence of escalating systemic risks, demanding immediate strategic recalibration. Geopolitically, the pervasive impacts of climate change, exacerbated by a Super El Ni\u00f1o and ongoing conflicts in the Middle East, are demonstrably driving up living costs and pushing millions into profound food insecurity, portending significant economic and social instability. While the tech sector exhibits robust growth in AI and operating systems, providing some market resilience, the underlying economic pressures from resource scarcity are intensifying. Simultaneously, a notable surge in seismic activity across the Pacific Ring of Fire\u2014including significant quakes in Japan, Vanuatu, Indonesia, and New Zealand\u2014underscores an urgent, persistent physical threat, highlighting widespread geological instability. In response, GlobeGuard advises three immediate actions: first, prioritize diversification and localized sourcing of critical supplies to mitigate against projected global food and resource shortages; second, fortify financial portfolios against inflationary pressures and market volatility, considering assets less susceptible to geopolitical and climate-induced disruptions; and third, meticulously review and reinforce all physical infrastructure and emergency protocols, particularly for assets and personnel situated within seismically active regions or critical supply chains traversing them.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - 43 km S of Jurm, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.8 - 51 km ENE of Noda, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 112 km SW of Bandar Lampung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 65 km W of Foxton Beach, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8t3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes reported worldwide, including a 6.1 in Afghanistan!"
+    "seismicSummary": "Urgent: M5+ quakes just struck Japan, Vanuatu, Indonesia, and New Zealand!"
 }
