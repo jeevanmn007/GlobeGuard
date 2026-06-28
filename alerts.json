@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a complex interplay of escalating threats: geopolitical tensions in the Middle East are directly fueling widespread food insecurity, a crisis compounded by climate change and an emerging Super El Ni\u00f1o driving up living costs globally, despite a resilient performance in the tech sector. Simultaneously, sustained seismic activity across the Pacific Ring of Fire necessitates heightened vigilance against physical disruptions. To navigate this landscape, GlobeGuard advises three immediate actions: first, proactively secure diversified and resilient essential supplies\u2014food, water, and energy alternatives\u2014to mitigate the impact of escalating costs and potential supply chain disruptions; second, conduct a thorough assessment and fortification of physical assets and infrastructure against seismic events and other climate-induced disruptions, ensuring robust emergency preparedness; and third, strategically rebalance financial portfolios by incorporating defensive assets against inflation and supply chain shocks, while cautiously optimizing growth opportunities within robust tech segments, maintaining adequate liquidity.",
+    "strategicPlan": "The global intelligence landscape reveals a critical convergence of systemic threats: escalating geopolitical tensions in the Middle East are directly exacerbating a climate-change-driven food crisis, while significant tectonic activity across the Asia-Pacific rim poses constant physical risks. Financially, while key tech sectors demonstrate robust growth and AI innovation, they also face increasing regulatory pressures and employee demands, signaling potential shifts in market dynamics. To navigate this complex environment, GlobeGuard advises three immediate actions: First, secure and diversify critical supply chains, particularly for food and essential goods, to buffer against impending price volatility and potential shortages. Second, re-evaluate and fortify asset portfolios, strategically investing in resilient technologies while hedging against geopolitical instability and environmental regulatory impacts. Third, urgently review and enhance all physical safety and disaster preparedness protocols, especially in seismically active or climate-vulnerable operational zones.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 51 km ENE of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 8 km WNW of Changning, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 112 km SW of Bandar Lampung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qv"
+            "title": "\u26a0\ufe0f Mag 5 - 173 km S of Lembar, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vm"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 68 km WNW of Catuday, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ux"
         }
     ],
-    "seismicSummary": "**URGENT: Strong earthquakes, including a M5.8 in Japan, just struck multiple Asia-Pacific locations.**"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just hit across the Asia-Pacific region!"
 }
