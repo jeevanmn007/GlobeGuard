@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence assessment indicates a critical escalation in systemic risk, driven by the convergence of escalating geopolitical instability in the Middle East, a Super El Ni\u00f1o event exacerbating global food insecurity and inflationary pressures, and persistent significant seismic activity across the Pacific Ring of Fire and Central Asia. While major tech stocks like Apple and Microsoft show resilience, the foundational economic landscape is challenged by rising costs of living and physical vulnerabilities. To navigate this complex threat environment, GlobeGuard directs immediate action to: diversify and secure critical supply chains, particularly for essential goods, to mitigate climate and conflict-induced disruptions; bolster financial resilience through strategic portfolio adjustments and increased liquidity; and meticulously update and rehearse comprehensive disaster preparedness protocols for all personnel and physical assets, especially those in seismically active regions.",
+    "strategicPlan": "The global landscape presents a heightened and complex threat profile: widespread geopolitical instability in the Middle East, coupled with climate change impacts and an intensifying El Ni\u00f1o, is accelerating a global food crisis and escalating costs for staple goods. Concurrently, significant seismic events across Afghanistan, Japan, Vanuatu, and Indonesia signal heightened global geological stress, demanding immediate physical readiness. Financially, while major tech equities like Apple, Microsoft, and Amazon show robust growth, this contrasts with underlying economic pressures, indicating a divergence. To navigate this period, GlobeGuard directs immediate action: 1) Prioritize the security and diversification of food and energy supply chains against both geopolitical disruption and climate-induced volatility. 2) Implement comprehensive emergency preparedness and structural resilience assessments for all assets and personnel in seismically active regions and areas prone to extreme weather. 3) Consolidate and safeguard critical financial assets, preparing for potential market shifts stemming from cascading environmental and geopolitical crises.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8pa"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 192 km N of Metinaro, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8nf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.8 - 51 km ENE of Noda, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qd"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 112 km SW of Bandar Lampung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qv"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes (M5.2-6.1) are striking globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes reported worldwide, including a 6.1 in Afghanistan!"
 }
