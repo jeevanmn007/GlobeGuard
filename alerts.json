@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape is currently defined by a critical convergence of geopolitical, financial, and physical threats requiring immediate action. Geopolitically, the Middle East conflict and a super El Ni\u00f1o are accelerating a global food crisis, exacerbated by climate change driving up costs, while tech giants navigate both innovation and calls for regulation amidst ongoing 'tech wars.' Financially, despite strong market performance in major tech, underlying vulnerabilities and geopolitical pressures persist. Concurrently, the Pacific Rim remains geologically active, with multiple significant seismic events underscoring persistent physical risks. Therefore, GlobeGuard directs you to promptly secure essential supply chains against food scarcity, reinforce comprehensive cybersecurity measures for all digital assets, and update physical hazard preparedness protocols, including emergency kits and asset-specific insurance, especially in seismically vulnerable areas.",
+    "strategicPlan": "The global environment presents a complex interplay of escalating threats: geopolitical tensions in the Middle East are directly fueling widespread food insecurity, a crisis compounded by climate change and an emerging Super El Ni\u00f1o driving up living costs globally, despite a resilient performance in the tech sector. Simultaneously, sustained seismic activity across the Pacific Ring of Fire necessitates heightened vigilance against physical disruptions. To navigate this landscape, GlobeGuard advises three immediate actions: first, proactively secure diversified and resilient essential supplies\u2014food, water, and energy alternatives\u2014to mitigate the impact of escalating costs and potential supply chain disruptions; second, conduct a thorough assessment and fortification of physical assets and infrastructure against seismic events and other climate-induced disruptions, ensuring robust emergency preparedness; and third, strategically rebalance financial portfolios by incorporating defensive assets against inflation and supply chain shocks, while cautiously optimizing growth opportunities within robust tech segments, maintaining adequate liquidity.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8qv"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck across Japan, China, Vanuatu, and Indonesia!"
+    "seismicSummary": "**URGENT: Strong earthquakes, including a M5.8 in Japan, just struck multiple Asia-Pacific locations.**"
 }
