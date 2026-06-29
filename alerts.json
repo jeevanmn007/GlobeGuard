@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is currently defined by an escalating humanitarian and economic crisis stemming from Middle East conflicts and climate-induced food insecurity, directly impacting global supply chains and consumer costs. Simultaneously, while the tech sector demonstrates robust asset growth, significant geopolitical tensions around data and AI are emerging. This precarious situation is compounded by pronounced physical risks, as evidenced by multiple Magnitude 5+ seismic events across the Asia-Pacific, underscoring persistent geological instability. To secure assets and ensure physical safety, GlobeGuard issues the following directives: First, immediately assess and fortify critical supply chains for essential commodities, prioritizing localized and diversified sourcing strategies to mitigate against food crises. Second, strategically rebalance portfolios towards resilient digital infrastructure and AI assets, while closely monitoring evolving regulatory landscapes and potential tech-centric geopolitical friction. Third, activate and verify comprehensive emergency preparedness and response plans for personnel and critical infrastructure, especially within seismically active regions, focusing on physical hardening and redundant communication systems.",
+    "strategicPlan": "GlobeGuard's intelligence indicates a volatile global environment marked by escalating food insecurity driven by persistent climate impacts (Super El Ni\u00f1o) and protracted geopolitical conflict in the Middle East, demonstrably tightening supply chains and increasing living costs despite a resilient major tech stock market. This complex interplay of economic strain, climate vulnerability, and geopolitical instability is underpinned by continuous, moderate global seismic activity. To secure assets and ensure physical safety, GlobeGuard directs immediate action: first, prioritize securing and diversifying essential food and water reserves, closely monitoring regional supply chain disruptions and commodity prices; second, reassess financial portfolios for resilience against inflationary pressures and supply shocks, favoring stable and liquid holdings; and third, implement and review comprehensive emergency preparedness plans for localized disruptions, including enhanced monitoring of seismic activity in critical operational zones and bolstering physical infrastructure against natural hazards.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Cordova, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msxacu"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 107 km SSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 8 km WNW of Changning, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 173 km S of Lembar, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8vm"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 68 km WNW of Catuday, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ux"
         }
     ],
-    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes are striking across the Asia-Pacific region."
+    "seismicSummary": "Urgent: M5+ quakes striking globally!"
 }
