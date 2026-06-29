@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence landscape reveals a critical convergence of systemic threats: escalating geopolitical tensions in the Middle East are directly exacerbating a climate-change-driven food crisis, while significant tectonic activity across the Asia-Pacific rim poses constant physical risks. Financially, while key tech sectors demonstrate robust growth and AI innovation, they also face increasing regulatory pressures and employee demands, signaling potential shifts in market dynamics. To navigate this complex environment, GlobeGuard advises three immediate actions: First, secure and diversify critical supply chains, particularly for food and essential goods, to buffer against impending price volatility and potential shortages. Second, re-evaluate and fortify asset portfolios, strategically investing in resilient technologies while hedging against geopolitical instability and environmental regulatory impacts. Third, urgently review and enhance all physical safety and disaster preparedness protocols, especially in seismically active or climate-vulnerable operational zones.",
+    "strategicPlan": "The global environment is currently defined by an escalating humanitarian and economic crisis stemming from Middle East conflicts and climate-induced food insecurity, directly impacting global supply chains and consumer costs. Simultaneously, while the tech sector demonstrates robust asset growth, significant geopolitical tensions around data and AI are emerging. This precarious situation is compounded by pronounced physical risks, as evidenced by multiple Magnitude 5+ seismic events across the Asia-Pacific, underscoring persistent geological instability. To secure assets and ensure physical safety, GlobeGuard issues the following directives: First, immediately assess and fortify critical supply chains for essential commodities, prioritizing localized and diversified sourcing strategies to mitigate against food crises. Second, strategically rebalance portfolios towards resilient digital infrastructure and AI assets, while closely monitoring evolving regulatory landscapes and potential tech-centric geopolitical friction. Third, activate and verify comprehensive emergency preparedness and response plans for personnel and critical infrastructure, especially within seismically active regions, focusing on physical hardening and redundant communication systems.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ux"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just hit across the Asia-Pacific region!"
+    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes are striking across the Asia-Pacific region."
 }
