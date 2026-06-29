@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "GlobeGuard's intelligence indicates a volatile global environment marked by escalating food insecurity driven by persistent climate impacts (Super El Ni\u00f1o) and protracted geopolitical conflict in the Middle East, demonstrably tightening supply chains and increasing living costs despite a resilient major tech stock market. This complex interplay of economic strain, climate vulnerability, and geopolitical instability is underpinned by continuous, moderate global seismic activity. To secure assets and ensure physical safety, GlobeGuard directs immediate action: first, prioritize securing and diversifying essential food and water reserves, closely monitoring regional supply chain disruptions and commodity prices; second, reassess financial portfolios for resilience against inflationary pressures and supply shocks, favoring stable and liquid holdings; and third, implement and review comprehensive emergency preparedness plans for localized disruptions, including enhanced monitoring of seismic activity in critical operational zones and bolstering physical infrastructure against natural hazards.",
+    "strategicPlan": "The global environment is currently marked by a critical convergence of escalating food insecurity and cost-of-living increases, driven by climate change, a super El Ni\u00f1o, and expanding Middle East conflicts. Simultaneously, persistent moderate seismic activity spans multiple regions, while the tech sector, though financially robust for key players, faces increasing geopolitical scrutiny and local environmental pressure concerning data infrastructure. To secure assets and physical safety, GlobeGuard advises three immediate, actionable directives: First, strategically review and diversify critical resource supply chains, especially food and energy, to build resilience against geopolitical and climate-induced shocks. Second, reinforce localized emergency preparedness protocols, including comprehensive disaster kits and communication strategies, specifically for seismic events and escalating extreme weather patterns. Third, rigorously assess digital asset resilience and data security measures, adapting to evolving geopolitical tech friction and increasing regulatory demands on data infrastructure.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 45 km NE of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8sl"
+            "title": "\u26a0\ufe0f Mag 5.1 - off the coast of Central America",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8xq"
         }
     ],
-    "seismicSummary": "Urgent: M5+ quakes striking globally!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes, including a 5.3 in Alaska, have just struck diverse locations worldwide!"
 }
