@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is currently marked by a critical convergence of escalating food insecurity and cost-of-living increases, driven by climate change, a super El Ni\u00f1o, and expanding Middle East conflicts. Simultaneously, persistent moderate seismic activity spans multiple regions, while the tech sector, though financially robust for key players, faces increasing geopolitical scrutiny and local environmental pressure concerning data infrastructure. To secure assets and physical safety, GlobeGuard advises three immediate, actionable directives: First, strategically review and diversify critical resource supply chains, especially food and energy, to build resilience against geopolitical and climate-induced shocks. Second, reinforce localized emergency preparedness protocols, including comprehensive disaster kits and communication strategies, specifically for seismic events and escalating extreme weather patterns. Third, rigorously assess digital asset resilience and data security measures, adapting to evolving geopolitical tech friction and increasing regulatory demands on data infrastructure.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global landscape is marked by intensifying multi-faceted risks. Geopolitically, the Middle East conflict, intertwined with climate change impacts and a powerful El Ni\u00f1o, is rapidly escalating global food insecurity and cost-of-living pressures, threatening supply chain stability. Financially, while specific tech assets demonstrate resilience, the broader sector faces increasing regulatory scrutiny and geopolitical friction, contributing to market volatility. Concurrently, significant Magnitude 5+ seismic events across critical regions globally underscore persistent physical threats. Therefore, GlobeGuard advises: 1. Immediately secure diverse food and essential supply chains, establishing contingency plans against anticipated shortages and price hikes. 2. Diversify asset portfolios away from heavily concentrated tech holdings, performing a thorough risk assessment on geopolitical and regulatory exposures. 3. Update and rehearse emergency preparedness protocols for seismic events, focusing on asset protection and personnel safety in vulnerable areas.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $192.53 (-1.64%)",
+            "title": "\ud83d\udcb0 NVDA: $193.91 (0.72%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $283.78 (3.14%)",
+            "title": "\ud83d\udcb0 AAPL: $281.51 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $372.97 (5.71%)",
+            "title": "\ud83d\udcb0 MSFT: $371.6 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $112.93 (5.28%)",
+            "title": "\ud83d\udcb0 PLTR: $115.5 (2.27%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.69 (2.5%)",
+            "title": "\ud83d\udcb0 AMZN: $242.3 (4.13%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 218 km W of Bandon, Oregon",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Cordova, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026msxacu"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 8 km WNW of Changning, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - off the coast of Central America",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8xq"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes, including a 5.3 in Alaska, have just struck diverse locations worldwide!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just reported worldwide, including off Oregon and Alaska!"
 }
