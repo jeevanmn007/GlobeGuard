@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is marked by intensifying multi-faceted risks. Geopolitically, the Middle East conflict, intertwined with climate change impacts and a powerful El Ni\u00f1o, is rapidly escalating global food insecurity and cost-of-living pressures, threatening supply chain stability. Financially, while specific tech assets demonstrate resilience, the broader sector faces increasing regulatory scrutiny and geopolitical friction, contributing to market volatility. Concurrently, significant Magnitude 5+ seismic events across critical regions globally underscore persistent physical threats. Therefore, GlobeGuard advises: 1. Immediately secure diverse food and essential supply chains, establishing contingency plans against anticipated shortages and price hikes. 2. Diversify asset portfolios away from heavily concentrated tech holdings, performing a thorough risk assessment on geopolitical and regulatory exposures. 3. Update and rehearse emergency preparedness protocols for seismic events, focusing on asset protection and personnel safety in vulnerable areas.",
+    "strategicPlan": "The global environment is critically poised, witnessing an acceleration of risks as geopolitical tensions in the Middle East directly escalate a looming global food crisis, amplified by climate change-induced economic strain across everyday life. Financially, the tech sector displays mixed performance amidst AI advancements and emerging regulatory pressures, while concurrently, a marked increase in significant seismic activity is observed across the Pacific Ring of Fire, including vital US coastal regions. In response, GlobeGuard mandates three urgent priorities: First, immediately implement and reinforce comprehensive earthquake preparedness plans for all personnel and critical assets situated in seismically active zones. Second, diversify and secure essential supply chains, focusing on food and energy resilience against both geopolitical disruption and environmental shocks. Third, strategically re-evaluate and fortify financial asset portfolios, prioritizing tangible, inflation-resistant holdings and commodity hedges to mitigate ongoing economic volatility.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $193.91 (0.72%)",
+            "title": "\ud83d\udcb0 NVDA: $193.95 (0.74%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $281.51 (-0.8%)",
+            "title": "\ud83d\udcb0 AAPL: $281.58 (-0.78%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $371.6 (-0.37%)",
+            "title": "\ud83d\udcb0 MSFT: $368.22 (-1.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $115.5 (2.27%)",
+            "title": "\ud83d\udcb0 PLTR: $116.43 (3.1%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $242.3 (4.13%)",
+            "title": "\ud83d\udcb0 AMZN: $240.37 (3.3%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8x8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 8 km WNW of Changning, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8u3"
+            "title": "\u26a0\ufe0f Mag 5.1 - off the coast of Central America",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8xq"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just reported worldwide, including off Oregon and Alaska!"
+    "seismicSummary": "\u26a0\ufe0f Four M5+ earthquakes just occurred across Oregon, Alaska, the Philippines, and Central America!"
 }
