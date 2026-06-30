@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex and escalating threat matrix: Geopolitically, the confluence of accelerating climate change, a powerful El Ni\u00f1o, and persistent Middle East conflict is directly driving global food insecurity, inflation, and humanitarian crises, signaling widespread economic and social instability. Financially, while key AI-driven tech stocks show growth, broader market headwinds and emerging regulatory pressures, coupled with internal dissent over operational footprints, suggest a volatile investment landscape. Concurrently, moderate but widespread seismic activity across multiple key regions underscores a constant, underlying physical risk to global infrastructure and supply chains. To navigate this environment, immediately secure assets by diversifying investments into resilient sectors and hedging against commodity price volatility; enhance physical safety and operational continuity through comprehensive emergency preparedness, including securing critical supplies and reviewing geographic risk exposure for vital infrastructure; and maintain vigilant intelligence on regional geopolitical developments and environmental shifts to anticipate localized resource disruptions and supply chain shocks.",
+    "strategicPlan": "Strategic Directive: We are navigating an acutely complex global threat landscape. Geopolitically, the confluence of a projected super El Ni\u00f1o, the escalating Middle East conflict, and the undeniable impact of climate change is driving a severe global food crisis and a rising cost of living, pushing millions towards hunger. Financially, while the technology sector, particularly AI, demonstrates robust growth, it concurrently faces increasing public scrutiny over environmental impact and the imminent reality of significant regulatory oversight. Physically, recent multiple moderate to strong seismic events across critical tectonic zones, including the Pacific Ring of Fire and South Sandwich Islands, underscore persistent global geological instability. In response, you must immediately: (1) **Fortify your economic resilience** by securing diversified, localized supply chains for essential commodities and assessing personal/organizational exposure to food price volatility. (2) **Prudently manage your financial assets** by actively tracking AI regulation developments and ESG pressures within the tech sector, preparing to rebalance portfolios to mitigate against sudden shifts. (3) **Elevate your physical safety protocols** by conducting an urgent review and update of personal and operational disaster preparedness plans, with specific emphasis on seismic event readiness, especially for any assets or personnel located in or near high-risk tectonic regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $194.97 (1.27%)",
+            "title": "\ud83d\udcb0 NVDA: $198.19 (1.65%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $281.74 (-0.72%)",
+            "title": "\ud83d\udcb0 AAPL: $288.58 (2.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $368.57 (-1.18%)",
+            "title": "\ud83d\udcb0 MSFT: $370.67 (0.57%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $115.7 (2.45%)",
+            "title": "\ud83d\udcb0 PLTR: $117.27 (1.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $240.14 (3.2%)",
+            "title": "\ud83d\udcb0 AMZN: $238.74 (-0.58%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 90 km ESE of Kimbe, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t907"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 101 km ENE of Aksu, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8z3"
+            "title": "\u26a0\ufe0f Mag 4.8 - 46 km E of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t973"
         }
     ],
-    "seismicSummary": "URGENT: Multiple M4.8-5.1 earthquakes are striking across the globe!"
+    "seismicSummary": "Multiple moderate earthquakes, topping 5.4 magnitude, just struck disparate global locations including Papua New Guinea and Japan!"
 }
