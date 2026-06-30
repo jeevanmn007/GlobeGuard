@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: We are navigating an acutely complex global threat landscape. Geopolitically, the confluence of a projected super El Ni\u00f1o, the escalating Middle East conflict, and the undeniable impact of climate change is driving a severe global food crisis and a rising cost of living, pushing millions towards hunger. Financially, while the technology sector, particularly AI, demonstrates robust growth, it concurrently faces increasing public scrutiny over environmental impact and the imminent reality of significant regulatory oversight. Physically, recent multiple moderate to strong seismic events across critical tectonic zones, including the Pacific Ring of Fire and South Sandwich Islands, underscore persistent global geological instability. In response, you must immediately: (1) **Fortify your economic resilience** by securing diversified, localized supply chains for essential commodities and assessing personal/organizational exposure to food price volatility. (2) **Prudently manage your financial assets** by actively tracking AI regulation developments and ESG pressures within the tech sector, preparing to rebalance portfolios to mitigate against sudden shifts. (3) **Elevate your physical safety protocols** by conducting an urgent review and update of personal and operational disaster preparedness plans, with specific emphasis on seismic event readiness, especially for any assets or personnel located in or near high-risk tectonic regions.",
+    "strategicPlan": "The global situation is marked by an urgent convergence of threats: geopolitical conflicts in the Middle East are significantly destabilizing global food security, a crisis compounded by the economic pressures of climate change and an imminent Super El Ni\u00f1o. While key technology sectors show growth driven by AI innovation, emerging regulatory and environmental concerns surrounding data centers and AI governance warrant close monitoring. Simultaneously, persistent moderate seismic activity across several tectonically active regions, including Japan and Papua New Guinea, underscores ongoing physical world instability. To navigate this complex environment, GlobeGuard advises three immediate actions: first, secure critical personal and operational supply chains, especially food and energy, against inflation and potential shortages; second, strategically review and diversify financial assets to mitigate risks from commodity price volatility and evolving tech regulations; and third, enhance physical infrastructure resilience and develop robust contingency plans for localized seismic events and broader climate-related disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $198.19 (1.65%)",
+            "title": "\ud83d\udcb0 NVDA: $198.57 (1.85%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $288.58 (2.43%)",
+            "title": "\ud83d\udcb0 AAPL: $289.11 (2.62%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $370.67 (0.57%)",
+            "title": "\ud83d\udcb0 MSFT: $371.04 (0.67%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $117.27 (1.36%)",
+            "title": "\ud83d\udcb0 PLTR: $117.51 (1.57%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.74 (-0.58%)",
+            "title": "\ud83d\udcb0 AMZN: $238.82 (-0.55%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t973"
         }
     ],
-    "seismicSummary": "Multiple moderate earthquakes, topping 5.4 magnitude, just struck disparate global locations including Papua New Guinea and Japan!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Mag 5.4 in Papua New Guinea leads multiple strong global quakes!"
 }
