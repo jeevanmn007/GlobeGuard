@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is characterized by a critical convergence of escalating threats: geopolitical conflicts in the Middle East are exacerbating climate change and El Ni\u00f1o-driven food insecurity, pushing millions into hunger and raising living costs. Concurrently, the tech sector, while innovating with AI, faces growing regulatory pressure, geopolitical challenges to its dominance, and demands for data center limits, evidenced by mixed market performance. Underpinning these socioeconomic shifts is persistent physical volatility, highlighted by a concerning cluster of moderate seismic events globally, including a 5.5 magnitude earthquake off Oregon's coast, signaling ongoing tectonic risks. Therefore, GlobeGuard directs immediate action: 1) Proactively secure diverse food supply chains and essential provisions to mitigate escalating costs and potential shortages; 2) Critically re-evaluate investment portfolios, especially in tech, focusing on resilience against regulatory headwinds and geopolitical shifts; and 3) Urgently review and bolster emergency preparedness plans, assessing structural integrity of assets and establishing clear response protocols for seismic events in vulnerable regions.",
+    "strategicPlan": "The global landscape presents a converging risk profile: immediate food insecurity and inflationary pressures are intensifying due to climate change, a super El Ni\u00f1o, and persistent geopolitical conflicts in the Middle East, threatening broad societal stability. While tech markets show resilience, particularly in AI-driven innovation, increasing regulatory scrutiny and public demand for oversight signal a more constrained operational environment. Concurrently, sustained moderate seismic activity, including a notable event off the Oregon coast, serves as a stark reminder of persistent physical threats. To navigate this complex environment, GlobeGuard advises three critical actions: first, proactively diversify and secure essential resource supply chains, particularly food and water, to mitigate escalating food crisis impacts; second, fortify digital asset security and ensure robust regulatory compliance, adapting to the evolving landscape of AI governance and data infrastructure demands; and third, immediately review and reinforce physical asset resilience and emergency preparedness protocols, especially in seismically active regions, to safeguard personnel and operations against environmental hazards.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -51,12 +51,12 @@
             "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/"
         },
         {
-            "title": "Mistral CEO Says the Pope\u2019s Comments Are a Big Problem for Europe\u2019s War on American Tech",
-            "link": "https://gizmodo.com/mistral-ceo-says-the-popes-comments-are-a-big-problem-for-europes-war-on-american-tech-2000764700"
-        },
-        {
             "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
             "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/"
+        },
+        {
+            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+            "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - off the coast of Central America",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8xq"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 234 km SSW of \u2018Ohonua, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t907"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, topping Mag 5.5, reported worldwide!"
+    "seismicSummary": "\ud83d\udea8 Mag 5.5 earthquake off Oregon coast, with multiple other moderate quakes reported globally!"
 }
