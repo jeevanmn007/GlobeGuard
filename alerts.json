@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a converging risk profile: immediate food insecurity and inflationary pressures are intensifying due to climate change, a super El Ni\u00f1o, and persistent geopolitical conflicts in the Middle East, threatening broad societal stability. While tech markets show resilience, particularly in AI-driven innovation, increasing regulatory scrutiny and public demand for oversight signal a more constrained operational environment. Concurrently, sustained moderate seismic activity, including a notable event off the Oregon coast, serves as a stark reminder of persistent physical threats. To navigate this complex environment, GlobeGuard advises three critical actions: first, proactively diversify and secure essential resource supply chains, particularly food and water, to mitigate escalating food crisis impacts; second, fortify digital asset security and ensure robust regulatory compliance, adapting to the evolving landscape of AI governance and data infrastructure demands; and third, immediately review and reinforce physical asset resilience and emergency preparedness protocols, especially in seismically active regions, to safeguard personnel and operations against environmental hazards.",
+    "strategicPlan": "The global situation presents a complex and escalating threat matrix: Geopolitically, the confluence of accelerating climate change, a powerful El Ni\u00f1o, and persistent Middle East conflict is directly driving global food insecurity, inflation, and humanitarian crises, signaling widespread economic and social instability. Financially, while key AI-driven tech stocks show growth, broader market headwinds and emerging regulatory pressures, coupled with internal dissent over operational footprints, suggest a volatile investment landscape. Concurrently, moderate but widespread seismic activity across multiple key regions underscores a constant, underlying physical risk to global infrastructure and supply chains. To navigate this environment, immediately secure assets by diversifying investments into resilient sectors and hedging against commodity price volatility; enhance physical safety and operational continuity through comprehensive emergency preparedness, including securing critical supplies and reviewing geographic risk exposure for vital infrastructure; and maintain vigilant intelligence on regional geopolitical developments and environmental shifts to anticipate localized resource disruptions and supply chain shocks.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 218 km W of Bandon, Oregon",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 4.8 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t907"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 101 km ENE of Aksu, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8z3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Mag 5.5 earthquake off Oregon coast, with multiple other moderate quakes reported globally!"
+    "seismicSummary": "URGENT: Multiple M4.8-5.1 earthquakes are striking across the globe!"
 }
