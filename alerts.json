@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is marked by an urgent convergence of threats: geopolitical conflicts in the Middle East are significantly destabilizing global food security, a crisis compounded by the economic pressures of climate change and an imminent Super El Ni\u00f1o. While key technology sectors show growth driven by AI innovation, emerging regulatory and environmental concerns surrounding data centers and AI governance warrant close monitoring. Simultaneously, persistent moderate seismic activity across several tectonically active regions, including Japan and Papua New Guinea, underscores ongoing physical world instability. To navigate this complex environment, GlobeGuard advises three immediate actions: first, secure critical personal and operational supply chains, especially food and energy, against inflation and potential shortages; second, strategically review and diversify financial assets to mitigate risks from commodity price volatility and evolving tech regulations; and third, enhance physical infrastructure resilience and develop robust contingency plans for localized seismic events and broader climate-related disruptions.",
+    "strategicPlan": "The global environment presents an urgent convergence of escalating threats: pervasive food insecurity and rising living costs are driven by climate change, a powerful El Ni\u00f1o, and intensified Middle East conflicts, placing severe strain on global supply chains and increasing social instability. While the tech sector, particularly AI, demonstrates financial resilience and growth, this is tempered by growing calls for data center regulation and impending AI governance. Concurrently, a heightened physical threat exists from significant global seismic activity, including a Magnitude 6 earthquake in Mexico, underscoring infrastructure vulnerabilities. Therefore, GlobeGuard directs immediate action to: prioritize strengthening and diversifying essential resource supply chains to mitigate against food and cost inflation; conduct a critical assessment of physical infrastructure and emergency protocols for seismic resilience and widespread disruption; and strategically adjust investment portfolios towards climate-resilient assets while actively monitoring developments in AI regulation and resource sustainability.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $198.57 (1.85%)",
+            "title": "\ud83d\udcb0 NVDA: $200.09 (2.63%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $289.11 (2.62%)",
+            "title": "\ud83d\udcb0 AAPL: $289.36 (2.7%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $371.04 (0.67%)",
+            "title": "\ud83d\udcb0 MSFT: $373.02 (1.21%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $117.51 (1.57%)",
+            "title": "\ud83d\udcb0 PLTR: $116.67 (0.84%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.82 (-0.55%)",
+            "title": "\ud83d\udcb0 AMZN: $238.34 (-0.75%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - 75 km SSW of El Progreso, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 90 km ESE of Kimbe, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 234 km SSW of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t91x"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 46 km E of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t973"
+            "title": "\u26a0\ufe0f Mag 4.9 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t999"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Mag 5.4 in Papua New Guinea leads multiple strong global quakes!"
+    "seismicSummary": "**\ud83d\udea8 Global quakes: A Mag 6 just hit Mexico, among multiple strong tremors worldwide!**"
 }
