@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents an urgent convergence of escalating threats: pervasive food insecurity and rising living costs are driven by climate change, a powerful El Ni\u00f1o, and intensified Middle East conflicts, placing severe strain on global supply chains and increasing social instability. While the tech sector, particularly AI, demonstrates financial resilience and growth, this is tempered by growing calls for data center regulation and impending AI governance. Concurrently, a heightened physical threat exists from significant global seismic activity, including a Magnitude 6 earthquake in Mexico, underscoring infrastructure vulnerabilities. Therefore, GlobeGuard directs immediate action to: prioritize strengthening and diversifying essential resource supply chains to mitigate against food and cost inflation; conduct a critical assessment of physical infrastructure and emergency protocols for seismic resilience and widespread disruption; and strategically adjust investment portfolios towards climate-resilient assets while actively monitoring developments in AI regulation and resource sustainability.",
+    "strategicPlan": "The global operating environment is under severe pressure from converging threats: escalating geopolitical conflicts in the Middle East are directly contributing to widespread hunger and supply chain disruptions, compounded by climate change-induced cost increases and the potential for a super El Ni\u00f1o to trigger a global food crisis. Financially, while key tech stocks, particularly those in AI, show resilience and growth, significant seismic activity, notably a cluster of magnitude 5-6 earthquakes in Mexico, presents immediate physical risks. In response, immediately secure diversified, localized food and essential resource supply chains to mitigate global scarcity impacts; conduct urgent vulnerability assessments and reinforcement planning for physical assets in seismically active regions; and strategically invest in AI-driven technologies while closely tracking evolving regulatory frameworks to capitalize on growth and ensure compliance amidst this dynamic landscape.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
+            "title": "\u26a0\ufe0f Mag 5.3 - 84 km SSW of El Progreso, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t999"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Global quakes: A Mag 6 just hit Mexico, among multiple strong tremors worldwide!**"
+    "seismicSummary": "URGENT: A Mag 6 earthquake in Mexico leads multiple strong quakes worldwide!"
 }
