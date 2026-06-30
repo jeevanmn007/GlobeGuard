@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical convergence of escalating threats: pervasive geopolitical instability, primarily driven by climate change, a potent El Ni\u00f1o, and regional conflicts in the Middle East, is precipitating widespread food insecurity and economic strain. While select advanced technology sectors show financial resilience, the broader economic forecast remains volatile. Concurrently, significant seismic activity across the Pacific Ring of Fire and North America underscores persistent natural hazard risks. To navigate this complex environment, secure your assets, and ensure physical safety, first, critically assess and diversify food and essential resource supply chains, building robust emergency reserves. Second, review and diversify financial portfolios to mitigate against economic volatility and geopolitical shocks, prioritizing stability over speculative growth. Finally, conduct an urgent review and update of all seismic preparedness protocols, reinforcing physical infrastructure and emergency response plans in identified risk zones.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging threat environment. Geopolitically, the nexus of persistent Middle East conflict, climate change-driven cost inflation, and a potent El Ni\u00f1o is actively catalyzing a global food crisis and supply chain instability, placing significant economic pressure on populations. Financially, while select AI-driven tech maintains momentum, the broader market exhibits volatility indicative of underlying systemic pressures. Concurrently, a discernible pattern of moderate seismic activity across the Pacific Rim underscores heightened tectonic stress and physical vulnerability. To mitigate these multidimensional risks, GlobeGuard directs immediate action: **first**, prioritize securing essential resources through diversified sourcing and localized reserves to counter geopolitical disruptions and climate-induced scarcities; **second**, enhance physical preparedness by reviewing and reinforcing personal and institutional disaster readiness protocols, with particular emphasis on earthquake and related natural hazard response, given the recent seismic cluster; and **third**, strategically rebalance asset portfolios for resilience against inflation and market volatility, considering hedges against commodity price fluctuations and ensuring liquid reserves for emergent contingencies.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8xq"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ quakes hitting worldwide!"
+    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
 }
