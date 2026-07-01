@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is marked by an urgent convergence of escalating geopolitical conflicts and climate-driven economic pressures, directly threatening global food security and inflating living costs, while the robust tech sector faces nascent regulatory challenges and environmental scrutiny. This complex scenario is further complicated by a concerning uptick in significant seismic activity, notably multiple magnitude 5-6 earthquakes concentrated in Mexico, posing immediate physical safety and infrastructure risks. Therefore, GlobeGuard directs immediate action to proactively secure diversified essential resource reserves and fortify critical supply chains against impending climate and conflict-driven disruptions; critically re-evaluate financial portfolios for resilience against both geopolitical instability and the evolving regulatory landscape impacting AI and data infrastructure; and conduct urgent, thorough reviews of emergency protocols and structural integrity for all assets and personnel, particularly within seismically active regions, ensuring comprehensive readiness for rapid response and recovery.",
+    "strategicPlan": "The global situation is critical, marked by a deepening cost-of-living and food security crisis exacerbated by climate change, a super El Ni\u00f1o, and persistent geopolitical conflicts in the Middle East, which threaten supply chains and regional stability. Financially, while key tech sectors demonstrate robust growth, they face growing public and regulatory pressure concerning environmental impact and AI governance. This complex geopolitical and economic environment is underpinned by an concerning uptick in global seismic activity, including a Magnitude 6 earthquake in Mexico, indicating elevated physical risks. To navigate this volatile period, **immediately assess and diversify your emergency food and essential supply reserves**, **review and reinforce contingency plans for physical infrastructure against seismic events**, and **proactively monitor evolving international regulations on AI and regional geopolitical shifts to protect strategic investments and operational continuity.**",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 84 km SSW of El Progreso, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
+            "title": "\u26a0\ufe0f Mag 5.3 - 265 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 268 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
+            "title": "\u26a0\ufe0f Mag 5.3 - 95 km SSW of El Progreso, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
         }
     ],
-    "seismicSummary": "**URGENT: A magnitude 6 earthquake has struck Mexico, with multiple other strong quakes reported worldwide!**"
+    "seismicSummary": "**Urgent: A M6 earthquake just struck near El Progreso, Mexico, amid multiple other significant global quakes!**"
 }
