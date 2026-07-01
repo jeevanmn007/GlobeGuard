@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is under severe pressure from converging threats: escalating geopolitical conflicts in the Middle East are directly contributing to widespread hunger and supply chain disruptions, compounded by climate change-induced cost increases and the potential for a super El Ni\u00f1o to trigger a global food crisis. Financially, while key tech stocks, particularly those in AI, show resilience and growth, significant seismic activity, notably a cluster of magnitude 5-6 earthquakes in Mexico, presents immediate physical risks. In response, immediately secure diversified, localized food and essential resource supply chains to mitigate global scarcity impacts; conduct urgent vulnerability assessments and reinforcement planning for physical assets in seismically active regions; and strategically invest in AI-driven technologies while closely tracking evolving regulatory frameworks to capitalize on growth and ensure compliance amidst this dynamic landscape.",
+    "strategicPlan": "The global strategic landscape is marked by an urgent convergence of escalating geopolitical conflicts and climate-driven economic pressures, directly threatening global food security and inflating living costs, while the robust tech sector faces nascent regulatory challenges and environmental scrutiny. This complex scenario is further complicated by a concerning uptick in significant seismic activity, notably multiple magnitude 5-6 earthquakes concentrated in Mexico, posing immediate physical safety and infrastructure risks. Therefore, GlobeGuard directs immediate action to proactively secure diversified essential resource reserves and fortify critical supply chains against impending climate and conflict-driven disruptions; critically re-evaluate financial portfolios for resilience against both geopolitical instability and the evolving regulatory landscape impacting AI and data infrastructure; and conduct urgent, thorough reviews of emergency protocols and structural integrity for all assets and personnel, particularly within seismically active regions, ensuring comprehensive readiness for rapid response and recovery.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t93x"
+            "title": "\u26a0\ufe0f Mag 5.2 - 268 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
         }
     ],
-    "seismicSummary": "URGENT: A Mag 6 earthquake in Mexico leads multiple strong quakes worldwide!"
+    "seismicSummary": "**URGENT: A magnitude 6 earthquake has struck Mexico, with multiple other strong quakes reported worldwide!**"
 }
