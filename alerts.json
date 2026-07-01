@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence assessment reveals an escalating, multi-faceted threat matrix: geopolitical conflicts, notably in the Middle East, are severely exacerbating a looming global food crisis and escalating living costs, compounded by significant climate impacts and the Super El Ni\u00f1o phenomenon. Concurrently, while major technology sectors, particularly those leveraging AI, demonstrate robust financial performance, they face increasing regulatory scrutiny and environmental concerns. This complex scenario is underpinned by a concerning surge in significant seismic activity observed across diverse, high-risk regions globally. To navigate this volatile environment, **first**, immediately prioritize enhancing supply chain resilience and securing local resources for essential commodities, anticipating prolonged geopolitical and climate-induced disruptions. **Second**, strategically diversify financial assets, capitalizing on the robust growth in key tech sectors while closely monitoring the evolving landscape of AI regulation and data center demands. **Third**, conduct an urgent review and fortify physical infrastructure and emergency protocols for all critical assets and personnel locations, with particular emphasis on robust seismic event preparedness.",
+    "strategicPlan": "The global threat landscape presents a complex and significantly heightened risk profile, demanding immediate strategic recalibration. Geopolitically, the escalating Middle East conflict, compounded by pervasive climate change and a Super El Ni\u00f1o, is driving severe inflationary pressures, widespread food insecurity, and increasing regional instability, directly impacting global supply chains and economic stability despite strong performance in specific tech sectors. Simultaneously, a concerning surge in global seismic activity, with multiple M5-M6 earthquakes recorded across disparate regions including Japan, Mexico, Fiji, and Afghanistan, underscores a persistent and unpredictable physical threat to critical infrastructure and human safety. To navigate this converging threat environment, GlobeGuard directs three urgent actions: first, strategically diversify assets into inflation-resilient holdings and immediately fortify supply chain resilience against both geopolitical and climate-induced disruptions; second, rigorously review and enhance all emergency preparedness and continuity plans, ensuring robust communication protocols and secure contingency locations for physical safety; and third, implement continuous, proactive intelligence monitoring of evolving geopolitical flashpoints, climate-driven resource scarcity, and critical infrastructure vulnerabilities to enable swift, adaptive responses.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.23 (-1.43%)",
+            "title": "\ud83d\udcb0 NVDA: $198.61 (-0.74%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $294.76 (1.87%)",
+            "title": "\ud83d\udcb0 AAPL: $294.77 (1.87%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $385.9 (3.45%)",
+            "title": "\ud83d\udcb0 MSFT: $387.27 (3.82%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $126.83 (8.71%)",
+            "title": "\ud83d\udcb0 PLTR: $127.26 (9.08%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $242.63 (1.8%)",
+            "title": "\ud83d\udcb0 AMZN: $244.23 (2.47%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 265 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
+            "title": "\u26a0\ufe0f Mag 5.5 - 50 km SW of Jurm, Afghanistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg"
         }
     ],
-    "seismicSummary": "**Urgent: Two M6 quakes and multiple strong tremors just struck Japan, Mexico, Fiji, and China!**"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes just occurred worldwide, including two Mag 6 events in Japan and Mexico!"
 }
