@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global threat landscape presents a complex and significantly heightened risk profile, demanding immediate strategic recalibration. Geopolitically, the escalating Middle East conflict, compounded by pervasive climate change and a Super El Ni\u00f1o, is driving severe inflationary pressures, widespread food insecurity, and increasing regional instability, directly impacting global supply chains and economic stability despite strong performance in specific tech sectors. Simultaneously, a concerning surge in global seismic activity, with multiple M5-M6 earthquakes recorded across disparate regions including Japan, Mexico, Fiji, and Afghanistan, underscores a persistent and unpredictable physical threat to critical infrastructure and human safety. To navigate this converging threat environment, GlobeGuard directs three urgent actions: first, strategically diversify assets into inflation-resilient holdings and immediately fortify supply chain resilience against both geopolitical and climate-induced disruptions; second, rigorously review and enhance all emergency preparedness and continuity plans, ensuring robust communication protocols and secure contingency locations for physical safety; and third, implement continuous, proactive intelligence monitoring of evolving geopolitical flashpoints, climate-driven resource scarcity, and critical infrastructure vulnerabilities to enable swift, adaptive responses.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "**Strategic Directive:**\n\nThe global environment is marked by a compounding crisis of escalating food insecurity and economic strain driven by intensified geopolitical conflicts in the Middle East, climate change impacts, and a formidable El Ni\u00f1o event, threatening widespread humanitarian challenges and supply chain disruptions. Concurrently, while the tech sector, particularly AI innovation, demonstrates robust financial performance and investment growth, it also faces increasing scrutiny regarding regulation and environmental footprint. This complex scenario is underpinned by significant and persistent tectonic instability, evidenced by multiple substantial earthquakes across the Pacific Ring of Fire and Central Asia. To navigate these interconnected threats, GlobeGuard advises: first, immediately assess and fortify personal and organizational supply chains, especially for essential provisions, against projected food cost increases and potential scarcity; second, strategically review investment portfolios to leverage opportunities in resilient digital sectors like AI while preparing for potential regulatory shifts and market volatility; and third, meticulously audit and enhance emergency preparedness plans for both geopolitical displacement and natural disasters, particularly for assets and personnel located in seismically active or climate-vulnerable regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $198.61 (-0.74%)",
+            "title": "\ud83d\udcb0 NVDA: $197.58 (-1.25%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $294.77 (1.87%)",
+            "title": "\ud83d\udcb0 AAPL: $294.38 (1.73%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $387.27 (3.82%)",
+            "title": "\ud83d\udcb0 MSFT: $384.28 (3.02%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $127.26 (9.08%)",
+            "title": "\ud83d\udcb0 PLTR: $125.73 (7.77%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.23 (2.47%)",
+            "title": "\ud83d\udcb0 AMZN: $241.7 (1.41%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ej"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6 - 75 km SSW of El Progreso, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j"
+            "title": "\u26a0\ufe0f Mag 5.7 - 153 km SW of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.6 - 224 km S of Suva, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 50 km SW of Jurm, Afghanistan",
+            "title": "\u26a0\ufe0f Mag 5.5 - 47 km SW of Jurm, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes just occurred worldwide, including two Mag 6 events in Japan and Mexico!"
+    "seismicSummary": "Multiple significant earthquakes are striking worldwide, including a Mag 6 in Japan!"
 }
