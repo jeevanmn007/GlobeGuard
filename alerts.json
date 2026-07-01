@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a severe convergence of geopolitical, economic, and geophysical risks. Geopolitically, ongoing Middle East conflicts are directly contributing to widespread hunger and supply chain disruptions, a crisis exacerbated by the escalating economic impact of climate change and the impending threat of a global food crisis from a Super El Ni\u00f1o event. This systemic strain on essential resources is unfolding amidst a period of notable global seismic instability, evidenced by multiple significant magnitude 5-6 earthquakes across Japan, Mexico, and the Pacific, indicating an elevated physical threat. Financially, while the tech sector demonstrates resilience driven by AI innovation, emerging regulatory pressures and environmental demands present new considerations. Therefore, first, immediately bolster physical security and emergency preparedness protocols for all critical assets and personnel, particularly those in seismically active or climate-vulnerable regions. Second, strategically diversify investment portfolios to hedge against food inflation and geopolitical instability, while closely monitoring AI regulatory developments for both opportunities and risks. Third, prioritize securing essential resource autonomy, focusing on robust food and water reserves to mitigate against predicted supply shocks and localized disruptions.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The global intelligence assessment reveals an escalating, multi-faceted threat matrix: geopolitical conflicts, notably in the Middle East, are severely exacerbating a looming global food crisis and escalating living costs, compounded by significant climate impacts and the Super El Ni\u00f1o phenomenon. Concurrently, while major technology sectors, particularly those leveraging AI, demonstrate robust financial performance, they face increasing regulatory scrutiny and environmental concerns. This complex scenario is underpinned by a concerning surge in significant seismic activity observed across diverse, high-risk regions globally. To navigate this volatile environment, **first**, immediately prioritize enhancing supply chain resilience and securing local resources for essential commodities, anticipating prolonged geopolitical and climate-induced disruptions. **Second**, strategically diversify financial assets, capitalizing on the robust growth in key tech sectors while closely monitoring the evolving landscape of AI regulation and data center demands. **Third**, conduct an urgent review and fortify physical infrastructure and emergency protocols for all critical assets and personnel locations, with particular emphasis on robust seismic event preparedness.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $194.52 (-2.78%)",
+            "title": "\ud83d\udcb0 NVDA: $197.23 (-1.43%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $291.56 (0.76%)",
+            "title": "\ud83d\udcb0 AAPL: $294.76 (1.87%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $380.52 (2.01%)",
+            "title": "\ud83d\udcb0 MSFT: $385.9 (3.45%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.26 (5.65%)",
+            "title": "\ud83d\udcb0 PLTR: $126.83 (8.71%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $239.07 (0.31%)",
+            "title": "\ud83d\udcb0 AMZN: $242.63 (1.8%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 90 km ESE of Kimbe, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
+            "title": "\u26a0\ufe0f Mag 5.3 - 265 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
         }
     ],
-    "seismicSummary": "**Urgent: Two M6 earthquakes just struck Japan and Mexico, with more strong quakes across the Pacific!**"
+    "seismicSummary": "**Urgent: Two M6 quakes and multiple strong tremors just struck Japan, Mexico, Fiji, and China!**"
 }
