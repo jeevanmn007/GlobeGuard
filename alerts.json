@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of threats: Geopolitically, the escalating Middle East conflict, compounded by climate change and a looming Super El Ni\u00f1o, is actively destabilizing global food security and driving widespread cost-of-living increases. Financially, while select technology sectors exhibit robust growth, growing public and regulatory scrutiny around AI and data center environmental impacts introduce emerging market volatility. Physically, a concerning pattern of significant seismic activity, notably multiple magnitude 5-6 earthquakes centered around El Progreso, Mexico, indicates heightened tectonic instability. In light of this dynamic environment, it is imperative to secure assets and ensure physical safety by immediately diversifying critical supply chains to build resilience against food and geopolitical disruptions, strategically optimizing investment portfolios to capitalize on tech growth while hedging against regulatory shifts and environmental risks, and comprehensively reinforcing physical infrastructure and emergency preparedness plans, with a specific focus on areas susceptible to seismic events and climate extremes.",
+    "strategicPlan": "The global environment is currently defined by a severe convergence of geopolitical, economic, and geophysical risks. Geopolitically, ongoing Middle East conflicts are directly contributing to widespread hunger and supply chain disruptions, a crisis exacerbated by the escalating economic impact of climate change and the impending threat of a global food crisis from a Super El Ni\u00f1o event. This systemic strain on essential resources is unfolding amidst a period of notable global seismic instability, evidenced by multiple significant magnitude 5-6 earthquakes across Japan, Mexico, and the Pacific, indicating an elevated physical threat. Financially, while the tech sector demonstrates resilience driven by AI innovation, emerging regulatory pressures and environmental demands present new considerations. Therefore, first, immediately bolster physical security and emergency preparedness protocols for all critical assets and personnel, particularly those in seismically active or climate-vulnerable regions. Second, strategically diversify investment portfolios to hedge against food inflation and geopolitical instability, while closely monitoring AI regulatory developments for both opportunities and risks. Third, prioritize securing essential resource autonomy, focusing on robust food and water reserves to mitigate against predicted supply shocks and localized disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $200.09 (2.63%)",
+            "title": "\ud83d\udcb0 NVDA: $194.52 (-2.78%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $289.36 (2.7%)",
+            "title": "\ud83d\udcb0 AAPL: $291.56 (0.76%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $373.02 (1.21%)",
+            "title": "\ud83d\udcb0 MSFT: $380.52 (2.01%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $116.67 (0.84%)",
+            "title": "\ud83d\udcb0 PLTR: $123.26 (5.65%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.34 (-0.75%)",
+            "title": "\ud83d\udcb0 AMZN: $239.07 (0.31%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - 49 km E of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ej"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6 - 75 km SSW of El Progreso, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 224 km S of Suva, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 90 km ESE of Kimbe, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t978"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 265 km SSE of Dunhuang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 95 km SSW of El Progreso, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple strong earthquakes, including a Mag 6-7 in Mexico, reported now!"
+    "seismicSummary": "**Urgent: Two M6 earthquakes just struck Japan and Mexico, with more strong quakes across the Pacific!**"
 }
