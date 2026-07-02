@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is converging rapidly: intensifying geopolitical conflicts in the Middle East, significantly exacerbated by climate change and a powerful El Ni\u00f1o, are accelerating a severe global food crisis and driving widespread inflation. This volatile environment exists against a backdrop of resilient tech sector performance and a pronounced increase in significant seismic activity across the Pacific and Central Asia, signaling an elevated physical hazard profile. To secure your interests, first, critically reassess and diversify financial assets, prioritizing sectors demonstrating resilience against commodity volatility while exploring strategic investments in robust technology. Second, fortify your personal and corporate supply chains by identifying alternative sourcing for essential goods and preparing for sustained economic pressures from resource scarcity. Finally, immediately update and stress-test all emergency preparedness plans for physical safety, with particular emphasis on personnel and assets located in tectonically active zones, ensuring readiness for rapid response to natural disasters.",
+    "strategicPlan": "The global strategic landscape is critically dynamic, marked by an intricate confluence of escalating threats. Geopolitically, the Middle East conflict is directly intensifying a looming global food crisis, exacerbated by climate change and El Ni\u00f1o, driving up essential costs and humanitarian needs worldwide. Financially, while major tech companies like Palantir and Microsoft demonstrate robust growth, indicating a continued AI-driven market, this buoyancy exists amidst severe inflationary pressures and supply chain vulnerabilities. Physically, significant seismic activity across Japan, Tonga, Afghanistan, and the South Sandwich Islands signals heightened tectonic instability, posing direct risks to infrastructure and populations. In response, GlobeGuard advises immediate and calm action: **first**, prioritize physical safety by developing comprehensive emergency preparedness plans and securing essential supplies for all personnel and assets, particularly within seismically active zones; **second**, enhance financial resilience through diversified asset allocation and re-evaluated supply chains for critical resources, actively seeking stability against inflationary pressures and geopolitical shocks while strategically leveraging growth in key technological sectors; and **third**, maintain heightened vigilance on geopolitical shifts, especially regarding the Middle East, to proactively adapt operational strategies and secure vital resource access.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 224 km S of Suva, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9e1"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 47 km SW of Jurm, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl"
         }
     ],
-    "seismicSummary": "M6 in Japan and multiple other strong quakes just struck globally!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes, including a Mag 6 in Japan, are hitting worldwide."
 }
