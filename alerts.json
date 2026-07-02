@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is alarmingly unstable, marked by a severe convergence of threats: escalating geopolitical conflicts in the Middle East are accelerating a global food crisis and inflationary pressures, compounded by climate change and El Ni\u00f1o effects. Financially, while key tech sectors demonstrate robust growth in AI, regulatory scrutiny and infrastructure limitations are emerging. Critically, a notable surge in seismic activity across the Pacific Rim (Japan, Tonga, Fiji) and Afghanistan signals an elevated and immediate physical risk of natural disasters. To navigate this complex environment, first, prioritize securing diversified food and essential resource reserves to build resilience against supply chain disruptions and inflation. Second, strategically re-evaluate financial portfolios, diversifying beyond volatile markets towards essential services and resilient tech, while also considering tangible asset protection. Third, urgently update and implement comprehensive emergency preparedness protocols for all personnel and assets, with a particular focus on robust response plans for seismic events and communications redundancies.",
+    "strategicPlan": "The global strategic landscape is defined by an intensifying and dangerous convergence of threats. Geopolitically, escalating food insecurity, driven by the powerful El Ni\u00f1o, broader climate change impacts, and persistent conflict in the Middle East, is rapidly inflating costs and pushing millions into hunger, signaling potential for widespread social instability. Financially, while the tech sector, particularly AI innovation, shows robust growth, this resilience is challenged by the broader economic vulnerabilities stemming from climate and conflict-induced disruptions, alongside emerging concerns around data center infrastructure and AI regulation. Physically, significant and widespread seismic activity across the Pacific Ring of Fire and Central Asia demands immediate attention, indicating a heightened risk of major geological events. Therefore, GlobeGuard directs immediate action: first, secure your essential assets by stress-testing supply chains for critical goods and diversifying financial portfolios towards resilience against geopolitical and climate shocks; second, bolster physical safety protocols with an urgent focus on earthquake preparedness, robust emergency communication, and community safety planning in potentially unstable regions; and third, maintain high vigilance, continuously monitoring real-time seismic data, evolving food security metrics, and geopolitical flashpoints to adapt swiftly to unfolding events.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,7 +65,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ej"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 153 km SW of Hihifo, Tonga",
+            "title": "\u26a0\ufe0f Mag 5.7 - 155 km SW of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg"
         }
     ],
-    "seismicSummary": "Immediate alert: Mag 5.5-6 quakes hit Japan, Tonga, Fiji, and Afghanistan!"
+    "seismicSummary": "URGENT: A Mag 6 earthquake just struck Japan, alongside strong quakes in Tonga, Fiji, and Afghanistan!"
 }
