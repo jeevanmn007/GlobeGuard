@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of escalating threats: climate change driving increased living costs and a potential Super El Ni\u00f1o threatening a worldwide food crisis, exacerbated by ongoing Middle East conflicts and humanitarian needs in earthquake-stricken Venezuela. While the technology sector demonstrates robust financial performance in key areas, it is increasingly exposed to regulatory and social pressures. Meanwhile, moderate seismic activity persists globally, underscoring pervasive physical risks. To secure assets and ensure physical safety, GlobeGuard advises three critical actions: first, rebalance financial portfolios towards essential goods, sustainable infrastructure, and defensive tech sectors, while hedging against commodity volatility; second, fortify local resilience by establishing independent food and water reserves, alongside comprehensive climate and seismic emergency protocols; and third, maintain continuous, granular intelligence on geopolitical flashpoints and environmental forecasts to preempt supply chain disruptions and localized impacts.",
+    "strategicPlan": "The global landscape presents a complex and urgent threat matrix: escalating food insecurity driven by climate change, a potential Super El Ni\u00f1o, and regional conflicts exacerbating humanitarian crises, exemplified by the untold casualties from Venezuela's recent quakes. While major tech stocks like Apple and Microsoft demonstrate resilience, hinting at continued economic stability in specific sectors, persistent moderate seismic activity across multiple regions underscores a constant physical threat from natural disasters. This convergence of geopolitical instability, resource scarcity, and environmental volatility demands immediate, proactive measures. To secure assets and ensure safety, we must: 1) Immediately diversify and localize critical supply chains, including personal provisions, to mitigate against rising costs and potential global food shortages. 2) Conduct a rapid review of investment portfolios, ensuring diversification into inflation-resilient assets while strategically re-evaluating exposure to market volatility driven by global instability. 3) Implement or refresh comprehensive disaster preparedness plans, focusing on seismic event protocols, emergency communication redundancies, and securing physical infrastructure against increasing climate-related risks.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $193.43 (-2.1%)",
+            "title": "\ud83d\udcb0 NVDA: $194.83 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $307.21 (4.36%)",
+            "title": "\ud83d\udcb0 AAPL: $308.63 (4.84%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $391.32 (1.83%)",
+            "title": "\ud83d\udcb0 MSFT: $390.49 (1.62%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.87 (4.09%)",
+            "title": "\ud83d\udcb0 PLTR: $129.3 (2.84%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $243.7 (0.83%)",
+            "title": "\ud83d\udcb0 AMZN: $242.67 (0.4%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
+    "seismicSummary": "**Alert: Multiple Mag 5+ earthquakes just struck worldwide!**"
 }
