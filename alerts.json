@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is critically dynamic, marked by an intricate confluence of escalating threats. Geopolitically, the Middle East conflict is directly intensifying a looming global food crisis, exacerbated by climate change and El Ni\u00f1o, driving up essential costs and humanitarian needs worldwide. Financially, while major tech companies like Palantir and Microsoft demonstrate robust growth, indicating a continued AI-driven market, this buoyancy exists amidst severe inflationary pressures and supply chain vulnerabilities. Physically, significant seismic activity across Japan, Tonga, Afghanistan, and the South Sandwich Islands signals heightened tectonic instability, posing direct risks to infrastructure and populations. In response, GlobeGuard advises immediate and calm action: **first**, prioritize physical safety by developing comprehensive emergency preparedness plans and securing essential supplies for all personnel and assets, particularly within seismically active zones; **second**, enhance financial resilience through diversified asset allocation and re-evaluated supply chains for critical resources, actively seeking stability against inflationary pressures and geopolitical shocks while strategically leveraging growth in key technological sectors; and **third**, maintain heightened vigilance on geopolitical shifts, especially regarding the Middle East, to proactively adapt operational strategies and secure vital resource access.",
+    "strategicPlan": "The global strategic environment is deteriorating rapidly, characterized by a confluence of acute threats: geopolitical conflicts in the Middle East are directly escalating food insecurity and driving up living costs, exacerbated by severe climate change impacts and a developing Super El Ni\u00f1o with global food crisis potential. While key tech stocks show robust financial performance, a persistent pattern of significant seismic activity across multiple active zones underscores underlying physical volatility, demanding heightened vigilance. To mitigate these converging risks, we issue the following directive: immediately secure a minimum three-month supply of diversified, non-perishable food and water reserves; strategically rebalance financial portfolios by consolidating into defensive, stable assets while divesting from highly speculative holdings; and critically review and update all emergency preparedness protocols and structural integrity assessments for physical assets, with a particular focus on seismic resilience.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.58 (-1.25%)",
+            "title": "\ud83d\udcb0 NVDA: $199.09 (0.76%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $294.38 (1.73%)",
+            "title": "\ud83d\udcb0 AAPL: $304.33 (3.38%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $384.28 (3.02%)",
+            "title": "\ud83d\udcb0 MSFT: $388.91 (1.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $125.73 (7.77%)",
+            "title": "\ud83d\udcb0 PLTR: $131.26 (4.4%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $241.7 (1.41%)",
+            "title": "\ud83d\udcb0 AMZN: $244.16 (1.02%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 49 km E of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9ej"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 155 km SW of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 23 km SSE of Karpathos, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes, including a Mag 6 in Japan, are hitting worldwide."
+    "seismicSummary": "Four strong quakes (Mag 5.2-5.7) just hit Tonga, Afghanistan, South Sandwich Islands, and Greece!"
 }
