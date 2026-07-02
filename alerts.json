@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic threats: escalating food and energy insecurity, driven by compounding climate impacts, an intensifying El Ni\u00f1o cycle, and persistent geopolitical conflicts, creating widespread economic strain and societal vulnerability. While the technology sector demonstrates resilience, with robust performance in key AI and consumer tech firms, it simultaneously faces increasing regulatory scrutiny and localized infrastructure challenges, signaling a complex investment landscape ahead. This volatile geopolitical and economic environment is underpinned by ongoing, significant seismic activity across multiple global fault lines, indicating consistent planetary geological dynamism that demands vigilance. Therefore, GlobeGuard directs immediate action: 1) Proactively secure and diversify essential supply chains and critical resources to mitigate escalating food and energy costs and potential shortages; 2) Strategically review and adapt digital asset and investment portfolios, with particular attention to evolving AI regulatory frameworks and regional tech policy shifts; and 3) Ensure robust physical safety and comprehensive emergency preparedness plans are updated and ready for deployment across all personnel and assets, especially those situated in tectonically active or climate-vulnerable regions.",
+    "strategicPlan": "The global environment is currently defined by a confluence of escalating threats: climate change driving increased living costs and a potential Super El Ni\u00f1o threatening a worldwide food crisis, exacerbated by ongoing Middle East conflicts and humanitarian needs in earthquake-stricken Venezuela. While the technology sector demonstrates robust financial performance in key areas, it is increasingly exposed to regulatory and social pressures. Meanwhile, moderate seismic activity persists globally, underscoring pervasive physical risks. To secure assets and ensure physical safety, GlobeGuard advises three critical actions: first, rebalance financial portfolios towards essential goods, sustainable infrastructure, and defensive tech sectors, while hedging against commodity volatility; second, fortify local resilience by establishing independent food and water reserves, alongside comprehensive climate and seismic emergency protocols; and third, maintain continuous, granular intelligence on geopolitical flashpoints and environmental forecasts to preempt supply chain disruptions and localized impacts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -11,33 +11,33 @@
             "link": "https://gizmodo.com/could-this-super-el-nino-trigger-a-global-food-crisis-2000773228"
         },
         {
-            "title": "Middle East conflict pushing millions into hunger, WFP says",
-            "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
+            "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+            "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
         },
         {
-            "title": "How severe is Russia\u2019s energy shortage because of Ukrainian strikes?",
-            "link": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes"
+            "title": "Middle East conflict pushing millions into hunger, WFP says",
+            "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $193.33 (-2.15%)",
+            "title": "\ud83d\udcb0 NVDA: $193.43 (-2.1%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $308.42 (4.77%)",
+            "title": "\ud83d\udcb0 AAPL: $307.21 (4.36%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $389.88 (1.46%)",
+            "title": "\ud83d\udcb0 MSFT: $391.32 (1.83%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.03 (3.42%)",
+            "title": "\ud83d\udcb0 PLTR: $130.87 (4.09%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.95 (1.34%)",
+            "title": "\ud83d\udcb0 AMZN: $243.7 (0.83%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 47 km SW of Jurm, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9gg"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 23 km SSE of Karpathos, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - east of the South Sandwich Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple M5+ earthquakes have struck worldwide, including Tonga, Afghanistan, and Greece!**"
+    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
 }
