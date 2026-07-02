@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is deteriorating rapidly, characterized by a confluence of acute threats: geopolitical conflicts in the Middle East are directly escalating food insecurity and driving up living costs, exacerbated by severe climate change impacts and a developing Super El Ni\u00f1o with global food crisis potential. While key tech stocks show robust financial performance, a persistent pattern of significant seismic activity across multiple active zones underscores underlying physical volatility, demanding heightened vigilance. To mitigate these converging risks, we issue the following directive: immediately secure a minimum three-month supply of diversified, non-perishable food and water reserves; strategically rebalance financial portfolios by consolidating into defensive, stable assets while divesting from highly speculative holdings; and critically review and update all emergency preparedness protocols and structural integrity assessments for physical assets, with a particular focus on seismic resilience.",
+    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic threats: escalating food and energy insecurity, driven by compounding climate impacts, an intensifying El Ni\u00f1o cycle, and persistent geopolitical conflicts, creating widespread economic strain and societal vulnerability. While the technology sector demonstrates resilience, with robust performance in key AI and consumer tech firms, it simultaneously faces increasing regulatory scrutiny and localized infrastructure challenges, signaling a complex investment landscape ahead. This volatile geopolitical and economic environment is underpinned by ongoing, significant seismic activity across multiple global fault lines, indicating consistent planetary geological dynamism that demands vigilance. Therefore, GlobeGuard directs immediate action: 1) Proactively secure and diversify essential supply chains and critical resources to mitigate escalating food and energy costs and potential shortages; 2) Strategically review and adapt digital asset and investment portfolios, with particular attention to evolving AI regulatory frameworks and regional tech policy shifts; and 3) Ensure robust physical safety and comprehensive emergency preparedness plans are updated and ready for deployment across all personnel and assets, especially those situated in tectonically active or climate-vulnerable regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -11,33 +11,33 @@
             "link": "https://gizmodo.com/could-this-super-el-nino-trigger-a-global-food-crisis-2000773228"
         },
         {
-            "title": "How the war in Iran is affecting your dinner plate",
-            "link": "https://www.scientificamerican.com/article/how-the-war-in-iran-is-affecting-your-dinner-plate/"
-        },
-        {
             "title": "Middle East conflict pushing millions into hunger, WFP says",
             "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
+        },
+        {
+            "title": "How severe is Russia\u2019s energy shortage because of Ukrainian strikes?",
+            "link": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $199.09 (0.76%)",
+            "title": "\ud83d\udcb0 NVDA: $193.33 (-2.15%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $304.33 (3.38%)",
+            "title": "\ud83d\udcb0 AAPL: $308.42 (4.77%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $388.91 (1.2%)",
+            "title": "\ud83d\udcb0 MSFT: $389.88 (1.46%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.26 (4.4%)",
+            "title": "\ud83d\udcb0 PLTR: $130.03 (3.42%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.16 (1.02%)",
+            "title": "\ud83d\udcb0 AMZN: $244.95 (1.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz"
         }
     ],
-    "seismicSummary": "Four strong quakes (Mag 5.2-5.7) just hit Tonga, Afghanistan, South Sandwich Islands, and Greece!"
+    "seismicSummary": "**Urgent: Multiple M5+ earthquakes have struck worldwide, including Tonga, Afghanistan, and Greece!**"
 }
