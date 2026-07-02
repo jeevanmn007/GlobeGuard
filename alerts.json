@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex and urgent threat matrix: escalating food insecurity driven by climate change, a potential Super El Ni\u00f1o, and regional conflicts exacerbating humanitarian crises, exemplified by the untold casualties from Venezuela's recent quakes. While major tech stocks like Apple and Microsoft demonstrate resilience, hinting at continued economic stability in specific sectors, persistent moderate seismic activity across multiple regions underscores a constant physical threat from natural disasters. This convergence of geopolitical instability, resource scarcity, and environmental volatility demands immediate, proactive measures. To secure assets and ensure safety, we must: 1) Immediately diversify and localize critical supply chains, including personal provisions, to mitigate against rising costs and potential global food shortages. 2) Conduct a rapid review of investment portfolios, ensuring diversification into inflation-resilient assets while strategically re-evaluating exposure to market volatility driven by global instability. 3) Implement or refresh comprehensive disaster preparedness plans, focusing on seismic event protocols, emergency communication redundancies, and securing physical infrastructure against increasing climate-related risks.",
+    "strategicPlan": "The global environment is critically elevated, marked by a converging array of geopolitical, financial, and physical tectonic threats. Geopolitically, the escalating global food crisis, driven by a powerful El Ni\u00f1o, climate change-induced cost increases, and ongoing conflicts like those in the Middle East and the humanitarian aftermath of Venezuela's quakes, poses a severe risk of widespread instability and migration. Financially, while major tech sectors show growth, underlying economic pressures from climate impacts and impending AI regulation add uncertainty. Tectonically, the recent destructive quakes in Venezuela, alongside sustained significant activity in the South Sandwich Islands and Greece, confirm a heightened physical threat of natural disasters. In response, you must immediately secure critical supply chains by diversifying essential resource access and pre-positioning emergency provisions. Concurrently, fortify all key physical assets and infrastructure, especially in seismically vulnerable regions, by conducting rapid structural assessments and implementing robust disaster preparedness protocols. Finally, develop agile contingency plans for localized disruptions to security and operations, anticipating the ripple effects of climate-induced migrations and intensifying geopolitical conflicts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 155 km SW of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - east of the South Sandwich Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv"
         }
     ],
-    "seismicSummary": "**Alert: Multiple Mag 5+ earthquakes just struck worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes strike the South Sandwich Islands and Greece!"
 }
