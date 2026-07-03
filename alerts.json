@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly deteriorating, marked by interconnected geopolitical and physical stressors. Escalating climate change impacts are driving up living costs and, coupled with a looming Super El Ni\u00f1o and persistent regional conflicts, threaten widespread food insecurity and humanitarian crises, as tragically exemplified by the ongoing situation in Venezuela and the Middle East. Concurrently, a surge in significant seismic activity across the Pacific Ring of Fire (Indonesia, Japan, Russia) indicates heightened physical risks. While the tech sector shows a mixed but generally resilient financial performance, the broader economic environment remains vulnerable to supply chain disruptions and inflationary pressures. To navigate this complex environment, GlobeGuard must prioritize three immediate actions: **First, conduct urgent risk assessments and reinforce critical infrastructure, particularly in seismically active zones, to mitigate physical damage and ensure operational continuity.** **Second, immediately diversify supply chains and audit essential resource stockpiles, especially food and water, to build resilience against climate-induced shortages and geopolitical disruptions.** **Third, maintain an agile financial posture, hedging against resource inflation and market volatility, while actively tracking AI regulatory shifts for strategic advantage and operational adaptation.**",
+    "strategicPlan": "The global strategic landscape presents a complex and increasingly volatile risk profile, marked by escalating humanitarian crises driven by climate change's economic burdens and a severe El Ni\u00f1o threatening global food security, compounded by persistent geopolitical conflicts like those in the Middle East and ongoing recovery needs in seismically affected regions such as Venezuela. Financially, while the tech sector demonstrates resilience with Apple's AI-driven growth, this operates against a backdrop of potential supply chain disruptions and regulatory scrutiny, with NVIDIA seeing a slight dip. Concurrently, a heightened period of significant tectonic activity across the Pacific Ring of Fire and other regions, including powerful quakes in Indonesia, Japan, and Russia, poses substantial physical threats. To navigate this dynamic environment, GlobeGuard must immediately: fortify and diversify critical supply chains against climate and geopolitical shocks, particularly for food and essential goods; enhance real-time intelligence gathering on regions prone to acute food insecurity and socio-political instability to anticipate emergent crises; and urgently review and reinforce physical infrastructure resilience and emergency preparedness protocols for personnel and assets, especially within tectonically active territories.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 60 km SE of \u014cfunato, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9qx"
+            "title": "\u26a0\ufe0f Mag 5.3 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 6.2 in Indonesia, have just struck the Pacific region!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes just reported, including a Mag 6.2 in Indonesia and Mag 6.1 near Japan!"
 }
