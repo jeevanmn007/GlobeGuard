@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a period of heightened and interconnected risk, warranting an elevated strategic posture. Geopolitically, we face a severe and immediate risk of global food crises driven by an intensifying Super El Ni\u00f1o and climate change-induced economic strain, compounded by ongoing humanitarian catastrophes from Middle East conflicts and the protracted recovery from Venezuela's recent seismic events. Financially, while key tech stocks show resilience, growing regulatory scrutiny and resource demands signal future operational complexities. Critically, heightened global seismic activity, with multiple significant quakes recently reported across the Indo-Pacific and Mediterranean, indicates an urgent physical threat level. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: First, conduct a thorough assessment and reinforcement of all critical infrastructure against seismic events, simultaneously securing essential provisions for prolonged self-sufficiency. Second, strategically diversify investment portfolios and critical supply chains to mitigate climate-economic volatility and insulate against geopolitical disruptions, prioritizing resilience over short-term gains. Third, establish and maintain redundant, multi-channel communication systems to ensure continuous situational awareness and rapid response capabilities across all potential threat vectors.",
+    "strategicPlan": "The global strategic landscape is marked by a concerning convergence of threats: escalating climate-driven economic strain and a looming El Ni\u00f1o-triggered global food crisis are compounded by persistent regional conflicts pushing millions into hunger, all against a backdrop of significant humanitarian fallout from recent major seismic events like those in Venezuela. While major tech companies like Apple advance with AI, the sector faces increasing regulatory scrutiny and environmental pushback, as seen with Amazon's data centers. Simultaneously, the Pacific Ring of Fire remains highly active, with multiple recent moderate-to-strong earthquakes in Indonesia, Japan, and Russia signaling continued physical hazard. To secure assets and physical safety, GlobeGuard advises immediate action to diversify and localize critical supply chains against environmental and geopolitical shocks, rigorously assess and reinforce physical infrastructure in all seismically vulnerable regions, and proactively monitor and adapt to evolving AI regulations and climate-related policy shifts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9sj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 23 km SSE of Karpathos, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz"
+            "title": "\u26a0\ufe0f Mag 5.9 - 296 km SSW of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 60 km SE of \u014cfunato, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9qx"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes just struck Indonesia, Japan, and Greece!"
+    "seismicSummary": "Multiple strong earthquakes, including a Mag 6.2, reported across Indonesia, Japan, and Russia!"
 }
