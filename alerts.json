@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents an elevated threat matrix characterized by converging geopolitical, environmental, and seismic pressures. Geopolitical conflicts, particularly in the Middle East, are actively driving widespread hunger, a crisis exacerbated by the escalating economic burden of climate change and the looming global food crisis projected by a Super El Ni\u00f1o. This systemic vulnerability is compounded by a surge in significant tectonic activity, evidenced by recent magnitude 6+ earthquakes in the Pacific Ring of Fire (Indonesia, Japan) and the ongoing humanitarian catastrophe in Venezuela following its quakes. While major tech stocks show some resilience, the growing regulatory scrutiny on AI and local opposition to data centers indicate evolving market dynamics and potential supply chain fragilities. To secure assets and physical safety, reinforce emergency preparedness protocols, ensuring robust contingency plans for prolonged disruptions to essential services and food supplies; diversify investment portfolios to hedge against climate-induced inflation and commodity volatility, while reassessing exposure to geopolitical instability and regulatory shifts in the tech sector; and maintain continuous vigilance over regional geopolitical developments and environmental shifts, specifically monitoring food supply chain integrity and localized seismic hazard warnings for proactive resource allocation.",
+    "strategicPlan": "The global intelligence landscape indicates a period of heightened and interconnected risk, warranting an elevated strategic posture. Geopolitically, we face a severe and immediate risk of global food crises driven by an intensifying Super El Ni\u00f1o and climate change-induced economic strain, compounded by ongoing humanitarian catastrophes from Middle East conflicts and the protracted recovery from Venezuela's recent seismic events. Financially, while key tech stocks show resilience, growing regulatory scrutiny and resource demands signal future operational complexities. Critically, heightened global seismic activity, with multiple significant quakes recently reported across the Indo-Pacific and Mediterranean, indicates an urgent physical threat level. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: First, conduct a thorough assessment and reinforcement of all critical infrastructure against seismic events, simultaneously securing essential provisions for prolonged self-sufficiency. Second, strategically diversify investment portfolios and critical supply chains to mitigate climate-economic volatility and insulate against geopolitical disruptions, prioritizing resilience over short-term gains. Third, establish and maintain redundant, multi-channel communication systems to ensure continuous situational awareness and rapid response capabilities across all potential threat vectors.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9sj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 23 km SSE of Karpathos, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 60 km SE of \u014cfunato, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9qx"
         }
     ],
-    "seismicSummary": "GLOBAL ALERT: M6.2 Indonesia, M6.1 Japan, and other strong earthquakes just struck worldwide!"
+    "seismicSummary": "Multiple strong earthquakes just struck Indonesia, Japan, and Greece!"
 }
