@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by an urgent confluence of escalating threats: geopolitical instability, particularly the Middle East conflict and its humanitarian fallout, is compounding a projected global food crisis driven by a Super El Ni\u00f1o and broader climate change impacts increasing living costs. Concurrently, a heightened state of tectonic unrest is evident, with ongoing moderate seismic activity in the South Sandwich Islands and Greece following devastating quakes in Venezuela, signaling persistent physical risks. While the tech sector shows resilience with significant gains spurred by AI advancements, underlying regulatory pressures and environmental concerns (e.g., data center protests) suggest future volatility. In response, immediately secure diversified assets, prioritizing investments resilient to climate and geopolitical shifts while fortifying local food and water security; critically assess and reinforce all physical infrastructure against seismic events, particularly in vulnerable areas; and proactively diversify supply chains to mitigate disruptions from climate events, conflict, and natural disasters, favoring localized and resilient sourcing strategies.",
+    "strategicPlan": "The global landscape presents an elevated threat matrix characterized by converging geopolitical, environmental, and seismic pressures. Geopolitical conflicts, particularly in the Middle East, are actively driving widespread hunger, a crisis exacerbated by the escalating economic burden of climate change and the looming global food crisis projected by a Super El Ni\u00f1o. This systemic vulnerability is compounded by a surge in significant tectonic activity, evidenced by recent magnitude 6+ earthquakes in the Pacific Ring of Fire (Indonesia, Japan) and the ongoing humanitarian catastrophe in Venezuela following its quakes. While major tech stocks show some resilience, the growing regulatory scrutiny on AI and local opposition to data centers indicate evolving market dynamics and potential supply chain fragilities. To secure assets and physical safety, reinforce emergency preparedness protocols, ensuring robust contingency plans for prolonged disruptions to essential services and food supplies; diversify investment portfolios to hedge against climate-induced inflation and commodity volatility, while reassessing exposure to geopolitical instability and regulatory shifts in the tech sector; and maintain continuous vigilance over regional geopolitical developments and environmental shifts, specifically monitoring food supply chain integrity and localized seismic hazard warnings for proactive resource allocation.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.2 - 58 km W of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9r5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 6.1 - 136 km NNE of Hirara, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9sj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 23 km SSE of Karpathos, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9lz"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - east of the South Sandwich Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9kj"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9jv"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Four M5.2-5.3 earthquakes just hit the South Sandwich Islands and Greece!"
+    "seismicSummary": "GLOBAL ALERT: M6.2 Indonesia, M6.1 Japan, and other strong earthquakes just struck worldwide!"
 }
