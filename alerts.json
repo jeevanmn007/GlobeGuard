@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals an accelerating convergence of systemic risks. Geopolitically, ongoing conflicts and a severe Super El Ni\u00f1o threaten to trigger a widespread food crisis, further exacerbated by climate-driven cost increases and the significant, ongoing humanitarian fallout from the recent Venezuela quakes. While the tech sector shows robust growth, particularly with Apple's AI advancements, emerging regulatory pressures on AI and data center expansion warrant close monitoring. Tectonically, multiple moderate seismic events across the Pacific underscore persistent physical vulnerabilities. To navigate this complex environment, GlobeGuard directs immediate action to: 1) Prioritize physical security and resilience by conducting urgent structural integrity checks for all critical infrastructure, particularly in seismic zones, and updating disaster response protocols, drawing direct lessons from the Venezuela situation. 2) Fortify resource independence by diversifying strategic commodity reserves and supply chains, with a specific focus on food and energy, to insulate against predicted inflationary spikes and potential scarcity driven by climatic shifts and conflict. 3) Optimize digital and financial safeguards by actively engaging with evolving AI regulatory frameworks, re-evaluating the environmental footprint of digital assets, and stress-testing financial portfolios against both geopolitical instability and supply chain disruptions.",
+    "strategicPlan": "The global environment is currently marked by a severe convergence of geopolitical, financial, and geophysical instabilities. Geopolitically, the escalating Middle East conflict and the ongoing humanitarian crisis post-Venezuela quakes, compounded by the climate change-driven El Ni\u00f1o threat to global food security, signal widespread resource fragility and rising living costs. Financially, while core tech equities like Apple and Microsoft demonstrate growth amidst AI innovation, the broader economic landscape is pressured by climate change's costs, regulatory uncertainties around AI, and localized concerns over data center expansion, with NVDA showing a slight dip. Physically, a pattern of significant global seismic activity, including recent M5+ quakes across multiple regions, underscores a heightened state of environmental unpredictability. To mitigate these risks, strategically diversify investment portfolios towards resilience against inflation and supply chain shocks, ensure robust emergency food and resource reserves are established to counter potential global food crises, and critically review all disaster preparedness plans, with a specific emphasis on seismic event response and critical supply chain continuity.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 264 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32"
+            "title": "\u26a0\ufe0f Mag 5.1 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 135 km N of Lae, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x"
+            "title": "\u26a0\ufe0f Mag 5.1 - 264 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck across the Pacific region!"
+    "seismicSummary": "\ud83d\udea8 Four M5+ earthquakes detected worldwide!"
 }
