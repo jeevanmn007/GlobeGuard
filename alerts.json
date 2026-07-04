@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and converging threat landscape, requiring immediate and decisive action. Geopolitically, we face escalating humanitarian crises driven by severe climate impacts like the Super El Ni\u00f1o, ongoing conflicts in the Middle East, and the compounding effects of natural disasters as seen in Venezuela, all contributing to widespread food insecurity and economic strain. Financially, while the tech sector demonstrates robust growth and innovation, particularly in AI, it is increasingly scrutinized for its environmental impact and faces emerging regulatory challenges. Concurrently, a surge in significant seismic activity across the Pacific Ring of Fire and other regions underscores an elevated physical risk, demanding heightened preparedness. Therefore, we issue the following directive: first, immediately secure essential survival resources, including food and water, for at least 72 hours, to mitigate against increasing climate-driven supply shocks and regional instabilities; second, conduct rapid, comprehensive assessments and fortify critical physical infrastructure against both seismic and severe weather events; and third, strategically re-evaluate financial portfolios to enhance liquidity, diversify into essential, resilient sectors, and monitor regulatory developments impacting key technology investments.",
+    "strategicPlan": "**Strategic Directive: Heightened Global Volatility and Targeted Risk Mitigation**\n\nThe global landscape is demonstrating significantly heightened volatility, marked by an accelerating confluence of geopolitical, economic, and geophysical threats. Geopolitically, the Middle East conflict is exacerbating humanitarian crises, while the aftermath of Venezuela's quakes underscores the devastating impact of natural disasters on vulnerable populations, pointing to severe humanitarian needs. Economically, climate change is clearly contributing to rising costs, amplified by a potential Super El Ni\u00f1o-induced global food crisis, posing significant inflationary and supply chain risks. While the tech sector shows resilience and growth, particularly in AI innovations, it faces emerging regulatory scrutiny and environmental concerns regarding data center expansion. Concurrently, a pattern of significant global seismic activity (Russia, Balleny Islands, Philippines, Chile) demands constant vigilance, indicating persistent physical threats. To secure assets and ensure physical safety, GlobeGuard advises: (1) Immediately initiate comprehensive financial risk assessments, diversifying essential asset holdings and supply chains to hedge against climate-driven economic inflation and potential food scarcity. (2) Conduct a strategic review of all critical infrastructure and operational dependencies, particularly those reliant on climate-vulnerable regions or subject to emerging regulatory pressures concerning environmental impact. (3) Mandate enhanced physical safety protocols and robust disaster preparedness planning for all personnel and assets, with a particular focus on regions susceptible to both seismic events and climate-induced natural disasters.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.2 - 58 km W of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9r5"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 6.1 - 136 km NNE of Hirara, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9sj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.9 - 296 km SSW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Balleny Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 24 km SW of Balangonan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 43 km SW of Ovalle, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta18"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including M6.2 in Indonesia and M6.1 in Japan, are striking globally!"
+    "seismicSummary": "Urgent: Multiple M5+ earthquakes are striking worldwide!"
 }
