@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is marked by a concerning convergence of escalating threats: persistent geopolitical instability, notably in the Middle East, is deepening humanitarian crises and food insecurity exacerbated by a potential Super El Ni\u00f1o and the rising economic burden of climate change. Concurrently, significant seismic activity persists globally, highlighted by recent moderate magnitude events across the Pacific Rim and remote regions, underscoring systemic physical vulnerabilities, as evidenced by the ongoing humanitarian needs in Venezuela. While the tech sector shows resilience with innovation driving growth in AI, regulatory pressures and environmental concerns regarding infrastructure expansion signal evolving market complexities. Given this elevated risk profile, GlobeGuard advises immediate action: first, review and diversify critical supply chains, especially for essential goods, to build resilience against climate impacts and geopolitical disruptions. Second, conduct comprehensive physical infrastructure assessments, particularly for assets in seismically active or climate-vulnerable zones, and ensure robust emergency preparedness plans are current and accessible. Third, actively monitor emerging AI regulatory frameworks and global climate policy shifts, preparing for their direct impact on operational costs and market access.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a confluence of critical threats: geopolitical instability in the Middle East is driving widespread humanitarian crises and food insecurity, amplified by climate change's economic burdens and a looming Super El Ni\u00f1o, while recent seismic events in Venezuela and across the Pacific Ring of Fire underscore persistent physical vulnerabilities. Although the tech market shows mixed financial performance, the broader economic environment is increasingly volatile, influenced by these macro-trends and emerging regulatory uncertainties. To secure assets and ensure physical safety, GlobeGuard advises implementing robust financial diversification strategies to mitigate economic volatility, enhancing emergency preparedness and infrastructure resilience against natural disasters, and maintaining continuous intelligence on global supply chains and regional flashpoints to adapt proactively.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 24 km SW of Balangonan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 264 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 135 km N of Lae, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes have just occurred worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple urgent Mag 5+ earthquakes reported globally, including near the Philippines, Indonesia, and Papua New Guinea!"
 }
