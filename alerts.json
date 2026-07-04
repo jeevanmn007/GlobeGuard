@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is characterized by escalating intertwined threats. Geopolitically, ongoing conflicts in the Middle East and the humanitarian fallout from recent Venezuelan quakes are exacerbated by the looming specter of a climate-change-induced global food crisis driven by a Super El Ni\u00f1o, directly impacting cost of living and stability. Financially, while major tech stocks show resilience, these macro-environmental stressors pose significant underlying risks that could shift market dynamics. Physically, recent M5+ seismic activity across multiple regions\u2014from Russia and the Philippines to the Balleny Islands and Chile\u2014highlights a period of elevated tectonic instability, underscoring persistent natural hazard risks globally. To navigate this complex landscape, GlobeGuard recommends three immediate actions: first, immediately review and update emergency preparedness plans, particularly focusing on seismic safety protocols and essential resource stockpiles, given the widespread M5+ activity and the humanitarian impact seen in Venezuela; second, diversify critical supply chains and investment portfolios to mitigate risks associated with climate-induced food inflation and geopolitical instability, which are pressuring global economies and consumer costs; and third, enhance regional intelligence monitoring on climate impact zones, conflict flashpoints, and localized seismic warnings to proactively adjust operational footprints and secure personnel.",
+    "strategicPlan": "The global strategic landscape is defined by a perilous convergence of escalating threats: climate change is driving significant economic burdens and, compounded by a Super El Ni\u00f1o and persistent regional conflicts like in the Middle East, is rapidly accelerating global food insecurity and humanitarian crises, as tragically evidenced by the ongoing situation in Venezuela. Financially, while key tech stocks show growth amid significant AI innovation, this sector simultaneously faces mounting regulatory and environmental pressures, signaling future market volatility. Physically, recent 5+ magnitude seismic events across the Pacific Ring of Fire indicate continued tectonic instability. To navigate this converging risk environment, we issue the following directives: First, immediately diversify financial and critical material assets, prioritizing tangible resources and resilient, localized supply chains to buffer against economic and food shocks. Second, initiate or update comprehensive multi-hazard emergency preparedness protocols, focusing on secure communication, robust physical infrastructure assessments, and practiced evacuation plans. Third, enhance intelligence gathering on climate patterns, geopolitical flashpoints, and critical resource availability to anticipate disruptions and adapt operational strategies preemptively.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 296 km SSW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9tf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - Balleny Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 43 km SW of Ovalle, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta18"
+            "title": "\u26a0\ufe0f Mag 5.1 - 264 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 135 km N of Lae, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5+ earthquakes detected worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes just struck the Pacific region!"
 }
