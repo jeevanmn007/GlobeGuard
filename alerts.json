@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global landscape presents a critical confluence of escalating threats: significant food insecurity is a paramount concern, driven by the dual pressures of a developing Super El Ni\u00f1o and intensified geopolitical conflicts in the Middle East, while the long-term economic strain from climate change continues to impact daily life. Despite these global stressors, the technology sector, particularly firms investing heavily in AI, demonstrates notable financial resilience and growth. Concurrently, moderate seismic activity persists along global tectonic ridges and subduction zones, such as the Reykjanes Ridge and Severo-Kuril\u2019sk, underscoring persistent physical risks, with regions like Venezuela still addressing humanitarian needs from recent quakes. To secure assets and ensure physical safety, GlobeGuard advises: First, meticulously review and fortify critical resource supply chains, prioritizing essential goods and establishing robust contingency food and water reserves. Second, strategically allocate capital towards resilient market sectors, especially those demonstrating strong innovation and AI integration, while diligently monitoring evolving regulatory frameworks for technological development. Third, update and practice comprehensive emergency protocols for natural disasters, specifically reinforcing structural integrity and establishing clear communication plans for potential seismic events.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 71 km S of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 264 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta32"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 135 km N of Lae, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x"
+            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t"
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3r"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple Mag 5 earthquakes just struck globally!"
 }
