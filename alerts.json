@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global environment is under increasing systemic pressure, characterized by a complex interplay of geopolitical instability, economic volatility, and physical threats. Geopolitically, the looming specter of a Super El Ni\u00f1o-driven global food crisis, amplified by ongoing conflicts in the Middle East and the escalating costs of climate change, signifies widespread humanitarian distress and supply chain vulnerabilities, as evidenced by recent severe quakes in Venezuela. Financially, while the tech sector, particularly AI-driven innovations by companies like Apple, demonstrates robust performance, this resilience exists within an inflationary environment and against a backdrop of increasing resource scarcity. Tectonically, ongoing moderate seismic activity across diverse regions, including Russia, Peru, and Japan, underscores persistent physical vulnerabilities globally. To navigate this intricate risk landscape, we must immediately: 1. Optimize and diversify critical supply chains, particularly for food and essential resources, to mitigate the impact of climate-induced disruptions and conflicts. 2. Conduct urgent localized vulnerability assessments for physical assets, strengthening preparedness and resilience protocols, especially in seismically active regions. 3. Strategically leverage advancements in AI and resilient technologies to enhance predictive capabilities, resource management, and adaptive infrastructure development, while closely monitoring emerging regulatory frameworks for AI integration.",
+    "strategicPlan": "The global operating environment is characterized by a confluence of escalating systemic risks. Geopolitically, the convergence of climate-driven economic pressures, a severe El Ni\u00f1o threatening global food security, and ongoing regional conflicts (e.g., Middle East, post-quake Venezuela humanitarian needs) signals widespread humanitarian and inflationary challenges. Financially, while key tech sectors show resilience and innovation with AI advancements (evidenced by Apple's strong performance), the broader economic outlook remains vulnerable to these mounting geopolitical and climate-related strains, alongside evolving AI regulatory landscapes. Physically, persistent global seismic activity, including recent magnitude 5+ tremors worldwide, reinforces the constant threat of natural disasters. Therefore, to secure assets and physical safety, immediately **fortify physical preparedness** by establishing comprehensive disaster resilience with updated emergency supplies and communication protocols for potential seismic events and other disruptions; **enhance financial security** through diversifying essential holdings towards stable assets and securing critical resources against climate-induced inflation and food supply volatility; and **strengthen situational awareness** by implementing redundant information access and robust logistical planning to ensure continuous monitoring and rapid response capabilities across all threat vectors.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 274 km SE of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9m"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 71 km S of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4c"
+            "title": "\u26a0\ufe0f Mag 5 - 98 km NW of Coquimbo, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9n"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 51 km S of Atico, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta64"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - Izu Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta53"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes just reported globally!"
+    "seismicSummary": "**Global earthquake alert: Multiple significant quakes, including a 5.8 in Fiji, are striking worldwide!**"
 }
