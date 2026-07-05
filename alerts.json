@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is characterized by a confluence of escalating systemic risks. Geopolitically, the convergence of climate-driven economic pressures, a severe El Ni\u00f1o threatening global food security, and ongoing regional conflicts (e.g., Middle East, post-quake Venezuela humanitarian needs) signals widespread humanitarian and inflationary challenges. Financially, while key tech sectors show resilience and innovation with AI advancements (evidenced by Apple's strong performance), the broader economic outlook remains vulnerable to these mounting geopolitical and climate-related strains, alongside evolving AI regulatory landscapes. Physically, persistent global seismic activity, including recent magnitude 5+ tremors worldwide, reinforces the constant threat of natural disasters. Therefore, to secure assets and physical safety, immediately **fortify physical preparedness** by establishing comprehensive disaster resilience with updated emergency supplies and communication protocols for potential seismic events and other disruptions; **enhance financial security** through diversifying essential holdings towards stable assets and securing critical resources against climate-induced inflation and food supply volatility; and **strengthen situational awareness** by implementing redundant information access and robust logistical planning to ensure continuous monitoring and rapid response capabilities across all threat vectors.",
+    "strategicPlan": "The global threat landscape presents a critical convergence of physical, geopolitical, and economic stressors. Persistent seismic activity globally, exemplified by the recent significant quakes in Venezuela with their untold humanitarian impact, directly correlates with escalating physical risk, while a looming Super El Ni\u00f1o and ongoing Middle East conflicts are exacerbating a global food crisis and driving up living costs, irrespective of the tech sector's generally stable performance. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, proactively diversify investment portfolios to hedge against inflation and commodity volatility driven by climate events and geopolitical instability; second, rigorously assess and fortify critical supply chains, particularly for essential goods, in anticipation of widespread disruptions and localized shortages; and third, update and practice robust disaster preparedness protocols, focusing on seismic safety, emergency provisions, and resilient communication strategies, given the continuous global tectonic shifts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 98 km NW of Coquimbo, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9n"
+            "title": "\u26a0\ufe0f Mag 5 - 106 km NW of Coquimbo, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 51 km S of Atico, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta64"
+            "title": "\u26a0\ufe0f Mag 5 - 26 km NNW of Mianzhu, Deyang, Sichuan, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taaa"
         }
     ],
-    "seismicSummary": "**Global earthquake alert: Multiple significant quakes, including a 5.8 in Fiji, are striking worldwide!**"
+    "seismicSummary": "**Multiple Mag 5.0-5.8 earthquakes just reported across the globe!**"
 }
