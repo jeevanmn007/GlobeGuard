@@ -51,19 +51,15 @@
             "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/"
         },
         {
-            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
-            "link": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/"
-        },
-        {
             "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
             "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
+        },
+        {
+            "title": "US Army soldiers say you can't just pour AI on new warfighting tech like ranch dressing",
+            "link": "https://www.businessinsider.com/us-army-soldiers-ai-cant-be-poured-warfighting-tech-ranch-2026-6"
         }
     ],
     "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 24 km SW of Balangonan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta14"
-        },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4c"
@@ -75,6 +71,10 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 135 km N of Lae, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta2x"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
