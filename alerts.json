@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex and escalating threat matrix: Geopolitical instability in the Middle East, coupled with the unfolding humanitarian crisis from Venezuela's recent quakes and sustained global seismic activity across major ridges and subduction zones, underscores increasing physical risks. Economically, climate change is already driving up costs, while a looming Super El Ni\u00f1o threatens a global food crisis, placing immense pressure on populations and supply chains. Though the tech sector, particularly AI advancements, demonstrates robust financial performance, its evolving regulatory landscape demands close attention. To navigate this volatile environment, GlobeGuard directs three urgent actions: First, fortify your financial posture by diversifying essential assets and securing critical resources, particularly in food and energy sectors, to hedge against impending supply chain disruptions and inflation. Second, meticulously review and bolster personal and organizational emergency preparedness plans, with a specific focus on seismic resilience and extended self-sufficiency. Third, maintain rigorous real-time intelligence gathering on geopolitical flashpoints and emerging AI regulatory developments to ensure strategic agility and informed decision-making.",
+    "strategicPlan": "Strategic Directive: The global environment is under increasing systemic pressure, characterized by a complex interplay of geopolitical instability, economic volatility, and physical threats. Geopolitically, the looming specter of a Super El Ni\u00f1o-driven global food crisis, amplified by ongoing conflicts in the Middle East and the escalating costs of climate change, signifies widespread humanitarian distress and supply chain vulnerabilities, as evidenced by recent severe quakes in Venezuela. Financially, while the tech sector, particularly AI-driven innovations by companies like Apple, demonstrates robust performance, this resilience exists within an inflationary environment and against a backdrop of increasing resource scarcity. Tectonically, ongoing moderate seismic activity across diverse regions, including Russia, Peru, and Japan, underscores persistent physical vulnerabilities globally. To navigate this intricate risk landscape, we must immediately: 1. Optimize and diversify critical supply chains, particularly for food and essential resources, to mitigate the impact of climate-induced disruptions and conflicts. 2. Conduct urgent localized vulnerability assessments for physical assets, strengthening preparedness and resilience protocols, especially in seismically active regions. 3. Strategically leverage advancements in AI and resilient technologies to enhance predictive capabilities, resource management, and adaptive infrastructure development, while closely monitoring emerging regulatory frameworks for AI integration.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta4c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3t"
+            "title": "\u26a0\ufe0f Mag 4.7 - 51 km S of Atico, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta64"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta3r"
+            "title": "\u26a0\ufe0f Mag 4.7 - Izu Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta53"
         }
     ],
-    "seismicSummary": "**Warning: Multiple M5+ earthquakes have just struck diverse global locations!**"
+    "seismicSummary": "Multiple strong earthquakes just reported globally!"
 }
