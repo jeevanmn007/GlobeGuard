@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by a critical convergence of threats: ongoing geopolitical instabilities impacting key energy supplies and exacerbating humanitarian crises in regions like Venezuela post-quake, while the confirmed economic burden of climate change and the very real prospect of a Super El Ni\u00f1o-driven global food crisis signal significant resource volatility and inflationary pressures. This complex environment is further underscored by heightened seismic activity across the Pacific Rim and South America, requiring acute vigilance. To navigate this challenging period, immediately secure assets through diversified investments and strategic resource stockpiling against impending economic and supply chain disruptions; enhance physical safety protocols and emergency preparedness plans, particularly in seismically active or politically unstable regions; and maintain continuous, meticulous oversight of global food and energy markets to anticipate and mitigate scarcity or price shocks.",
+    "strategicPlan": "The global environment is characterized by a rapidly converging array of complex threats. Geopolitically, significant energy disruptions stemming from Eastern European conflict, coupled with the documented economic burden of climate change and the looming specter of a Super El Ni\u00f1o-induced global food crisis, signal widespread instability. While select technology stocks demonstrate resilience, the broader financial outlook remains vulnerable to these systemic pressures. Concurrently, heightened global seismic activity, evident in recent major quakes across the Pacific Rim and the ongoing humanitarian fallout from Venezuela's tremors, necessitates immediate attention to physical risks. To navigate this intricate landscape, GlobeGuard advises three critical actions: First, **fortify asset resilience** through strategic diversification, emphasizing sectors less susceptible to climate and geopolitical shocks. Second, **bolster physical safety protocols** by updating emergency preparedness plans, including robust communication systems and essential supplies, especially in seismically active zones. Third, **enhance operational agility** by closely tracking evolving geopolitical dynamics in energy and AI, and building adaptable supply chain strategies to preemptively address resource shifts and technological disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $195.52 (0.36%)",
+            "title": "\ud83d\udcb0 NVDA: $196.42 (0.82%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.05 (0.14%)",
+            "title": "\ud83d\udcb0 AAPL: $312.77 (1.34%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $383.98 (-1.67%)",
+            "title": "\ud83d\udcb0 MSFT: $385.07 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.87 (1.99%)",
+            "title": "\ud83d\udcb0 PLTR: $132.87 (2.76%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $241.84 (-0.34%)",
+            "title": "\ud83d\udcb0 AMZN: $244.84 (0.89%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 274 km SE of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9m"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 65 km SSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 106 km NW of Coquimbo, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab"
+            "title": "\u26a0\ufe0f Mag 5.1 - 56 km W of La Ligua, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tahc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 211 km ESE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taft"
         }
     ],
-    "seismicSummary": "**\u26a0\ufe0f Multiple strong quakes, including two Mag 5.8s, just hit worldwide!**"
+    "seismicSummary": "\u26a0\ufe0f Urgent: A 5.8 earthquake just hit near Sarangani, Philippines, with multiple other 5+ quakes reported globally!"
 }
