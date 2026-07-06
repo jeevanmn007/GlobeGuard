@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape demands immediate attention, marked by compounding geopolitical, economic, and geophysical challenges. Geopolitically, ongoing conflicts like in the Middle East, coupled with the lingering humanitarian impact of events such as the Venezuela quakes and the emerging threat of a Super El Ni\u00f1o-induced food crisis, are driving escalating costs of living and resource scarcity, further exacerbated by climate change. Financially, while the tech sector demonstrates robust growth fueled by AI innovation (e.g., Apple's surge), the broader economic climate is pressured by these global stability concerns. This complex matrix is overlaid by persistent physical threats, evidenced by recent significant seismic activity across multiple continents (Fiji, Russia, Chile, China), underscoring the omnipresent risk of natural disasters. To secure assets and physical safety amidst this volatility, we advise: first, **strategically diversify economic holdings towards sectors resilient to climate volatility and those at the forefront of AI integration, while hedging against inflationary pressures;** second, **proactively establish resilient, localized supply chains for critical resources, especially food and water, in anticipation of climate-driven and conflict-induced disruptions;** and third, **immediately review and fortify regional emergency preparedness protocols, focusing on infrastructure resilience and community response plans for both extreme weather events and increased seismic activity.**",
+    "strategicPlan": "The global landscape presents an urgent, complex threat matrix: geopolitically, the accelerating impacts of climate change and a severe El Ni\u00f1o are escalating a potential global food crisis, compounded by regional conflicts and humanitarian needs exemplified by the Venezuela quakes. Financially, while the tech sector shows resilience with significant AI advancements from major players like Apple and Microsoft, the broader economic environment faces inflationary pressures and supply chain vulnerabilities from these global stressors. Simultaneously, persistent, high-magnitude seismic activity across the Pacific Rim (Philippines, Fiji) and South America (Chile) underscores a critical physical threat that can severely disrupt infrastructure and compound existing humanitarian crises. To navigate this perilous environment and secure your assets and physical safety, **first**, immediately diversify investments towards tangible, resilient assets and maintain robust liquidity to hedge against economic volatility; **second**, establish comprehensive personal and localized food and water security plans in anticipation of widespread resource scarcity; and **third**, rigorously review and reinforce emergency preparedness and evacuation protocols, with a specific focus on seismic safety and infrastructure resilience in high-risk zones.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 48 km SSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadc"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.8 - 274 km SE of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta9m"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 71 km S of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ta86"
+            "title": "\u26a0\ufe0f Mag 5.4 - 65 km SSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadj"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 106 km NW of Coquimbo, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 26 km NNW of Mianzhu, Deyang, Sichuan, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taaa"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported worldwide, with a 5.8 in Fiji!"
+    "seismicSummary": "Urgent: Multiple strong earthquakes (Mag 5.0-5.8) have just struck near the Philippines, Fiji, and Chile!"
 }
