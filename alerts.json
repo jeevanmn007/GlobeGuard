@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents an urgent, complex threat matrix: geopolitically, the accelerating impacts of climate change and a severe El Ni\u00f1o are escalating a potential global food crisis, compounded by regional conflicts and humanitarian needs exemplified by the Venezuela quakes. Financially, while the tech sector shows resilience with significant AI advancements from major players like Apple and Microsoft, the broader economic environment faces inflationary pressures and supply chain vulnerabilities from these global stressors. Simultaneously, persistent, high-magnitude seismic activity across the Pacific Rim (Philippines, Fiji) and South America (Chile) underscores a critical physical threat that can severely disrupt infrastructure and compound existing humanitarian crises. To navigate this perilous environment and secure your assets and physical safety, **first**, immediately diversify investments towards tangible, resilient assets and maintain robust liquidity to hedge against economic volatility; **second**, establish comprehensive personal and localized food and water security plans in anticipation of widespread resource scarcity; and **third**, rigorously review and reinforce emergency preparedness and evacuation protocols, with a specific focus on seismic safety and infrastructure resilience in high-risk zones.",
+    "strategicPlan": "The global landscape is characterized by a critical convergence of threats: ongoing geopolitical instabilities impacting key energy supplies and exacerbating humanitarian crises in regions like Venezuela post-quake, while the confirmed economic burden of climate change and the very real prospect of a Super El Ni\u00f1o-driven global food crisis signal significant resource volatility and inflationary pressures. This complex environment is further underscored by heightened seismic activity across the Pacific Rim and South America, requiring acute vigilance. To navigate this challenging period, immediately secure assets through diversified investments and strategic resource stockpiling against impending economic and supply chain disruptions; enhance physical safety protocols and emergency preparedness plans, particularly in seismically active or politically unstable regions; and maintain continuous, meticulous oversight of global food and energy markets to anticipate and mitigate scarcity or price shocks.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -15,29 +15,29 @@
             "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
         },
         {
-            "title": "Middle East conflict pushing millions into hunger, WFP says",
-            "link": "https://www.yahoo.com/news/articles/middle-east-conflict-pushing-millions-085941809.html"
+            "title": "How severe is Russia\u2019s energy shortage because of Ukrainian strikes?",
+            "link": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $194.83 (-1.39%)",
+            "title": "\ud83d\udcb0 NVDA: $195.52 (0.36%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $308.63 (4.84%)",
+            "title": "\ud83d\udcb0 AAPL: $309.05 (0.14%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.49 (1.62%)",
+            "title": "\ud83d\udcb0 MSFT: $383.98 (-1.67%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $129.3 (2.84%)",
+            "title": "\ud83d\udcb0 PLTR: $131.87 (1.99%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $242.67 (0.4%)",
+            "title": "\ud83d\udcb0 AMZN: $241.84 (-0.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taab"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes (Mag 5.0-5.8) have just struck near the Philippines, Fiji, and Chile!"
+    "seismicSummary": "**\u26a0\ufe0f Multiple strong quakes, including two Mag 5.8s, just hit worldwide!**"
 }
