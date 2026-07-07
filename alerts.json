@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of escalating systemic risks: climate change and a super El Ni\u00f1o are driving inflationary pressures and threatening global food security, while persistent geopolitical conflicts in Eastern Europe continue to destabilize energy markets. Simultaneously, significant and widespread seismic activity, from recent Venezuelan quakes to events across the South Atlantic, Indonesia, and Chile, highlights an elevated and geographically diverse physical threat. Despite targeted growth in select tech sectors, the broader landscape points to deepening global instability, resource scarcity, and the complex integration challenges of rapidly advancing AI. To secure assets and ensure physical safety, GlobeGuard directs immediate action: reinforce physical infrastructure and emergency preparedness in vulnerable regions; diversify critical supply chains and secure essential resource stockpiles to mitigate climate-driven inflation and geopolitical disruptions; and strategically re-evaluate investment portfolios towards resilient infrastructure and essential services, while closely monitoring AI's evolving regulatory and military implications.",
+    "strategicPlan": "The global environment is experiencing heightened volatility, characterized by compounding geopolitical flashpoints, significant economic pressures, and critical physical vulnerabilities. Ongoing conflicts are stressing energy markets, while the confluence of climate change and a super El Ni\u00f1o portends rising food costs and potential widespread humanitarian crises, already underscored by recent devastating quakes in Venezuela. Concurrently, persistent M5+ seismic activity across multiple global regions signals inherent tectonic instability, and the rapid, unregulated evolution of AI introduces new layers of strategic risk. In this landscape, your immediate focus must be threefold: strategically secure your asset base through diversification and resilient supply chains to mitigate economic shocks; prioritize physical safety by establishing comprehensive emergency response plans and maintaining survival provisions, especially given ongoing seismic threats; and maintain vigilant situational awareness of geopolitical, environmental, and technological shifts to adapt swiftly and pre-empt disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $195.55 (0.37%)",
+            "title": "\ud83d\udcb0 NVDA: $192.75 (-1.43%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.66 (1.31%)",
+            "title": "\ud83d\udcb0 AAPL: $313.2 (0.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $386.74 (-0.96%)",
+            "title": "\ud83d\udcb0 MSFT: $392.96 (1.61%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.54 (2.51%)",
+            "title": "\ud83d\udcb0 PLTR: $135.05 (1.89%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.16 (0.61%)",
+            "title": "\ud83d\udcb0 AMZN: $243.93 (-0.09%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tahc"
         }
     ],
-    "seismicSummary": "Multiple major earthquakes, including a 5.8 in Argentina, just hit globally!"
+    "seismicSummary": "\ud83d\udea8 Four significant Mag 5+ earthquakes just struck disparate locations globally!"
 }
