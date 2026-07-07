@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape demands immediate strategic attention, marked by a confluence of escalating geopolitical, financial, and physical threats. Geopolitically, the ongoing energy crisis stemming from Ukrainian strikes on Russia, coupled with the unmet humanitarian needs following Venezuela's quakes, signals persistent regional instability and supply chain vulnerabilities, while climate change-induced cost increases and a potential Super El Ni\u00f1o global food crisis threaten widespread economic strain. Concurrently, heightened seismic activity, notably around the tectonically sensitive Reykjanes Ridge and significant tremors in South America and Indonesia, signal a volatile physical environment demanding robust preparedness. While the tech sector, particularly AI-driven companies, shows robust financial growth, this does not insulate against the wider systemic risks. To navigate this complex environment, first, secure critical supply chains and essential resources, prioritizing diversification against climate and conflict-induced disruptions; second, enhance physical safety protocols by reviewing emergency preparedness plans, conducting structural integrity assessments, and maintaining robust disaster kits, especially if located in seismically active zones; and third, strategically review and fortify financial portfolios, emphasizing diversification into resilient assets and ensuring ample liquid reserves to mitigate market volatility and respond rapidly to unforeseen global shifts.",
+    "strategicPlan": "The global environment is currently characterized by an elevated and interconnected threat matrix, demanding immediate strategic recalibration. Geopolitically, the Russia-Ukraine conflict continues to destabilize global energy markets, while the combined pressures of a Super El Ni\u00f1o and accelerating climate change are rapidly converging towards a potential global food crisis and widespread inflation in living costs. Concurrently, increased global seismic activity, evidenced by multiple significant quakes across diverse regions and the ongoing humanitarian crisis in Venezuela, signals a heightened and geographically dispersed physical risk. While the technology sector shows pockets of resilience, these broader geopolitical, climatological, and geophysical stressors collectively necessitate swift, proactive measures. To navigate this volatility and secure assets and physical safety, GlobeGuard advises three critical actions: First, enhance physical infrastructure and establish robust disaster preparedness protocols, particularly for seismic events and extreme weather impacts, ensuring emergency kits and evacuation plans are up-to-date. Second, strategically rebalance financial portfolios, prioritizing investments in essential goods, diversified energy sources, and companies focused on resilient supply chains, while critically evaluating exposure to climate-vulnerable assets. Third, proactively secure and diversify critical resource provisions, focusing on local and regional redundancies for food, water, and energy to mitigate escalating costs and potential disruptions from both climate events and geopolitical instability.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.51 (1.0%)",
+            "title": "\ud83d\udcb0 NVDA: $196.93 (0.71%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.12 (-0.17%)",
+            "title": "\ud83d\udcb0 AAPL: $310.66 (-0.64%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $393.26 (1.69%)",
+            "title": "\ud83d\udcb0 MSFT: $388.84 (0.54%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $138.74 (4.68%)",
+            "title": "\ud83d\udcb0 PLTR: $134.37 (1.38%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.59 (1.0%)",
+            "title": "\ud83d\udcb0 AMZN: $245.98 (0.75%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
+            "title": "\u26a0\ufe0f Mag 5.3 - 95 km WSW of Labuan, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tary"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm"
+            "title": "\u26a0\ufe0f Mag 5.3 - 10 km WSW of Orotina, Costa Rica",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarc"
         }
     ],
-    "seismicSummary": "WARNING: Multiple Mag 5+ earthquakes reported globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes reported worldwide!"
 }
