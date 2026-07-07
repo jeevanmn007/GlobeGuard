@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating multi-front instability: geopolitical tensions fueled by the Russia-Ukraine conflict's energy ramifications, a looming global food crisis exacerbated by a super El Ni\u00f1o, and the widespread economic strain of climate change are converging to heighten global risk. This is further compounded by significant tectonic activity observed across South America and Southeast Asia, as highlighted by recent severe quakes in Venezuela, Argentina, Chile, and the Philippines, which pose immediate threats to infrastructure and human security. While the tech sector shows resilience with moderate stock gains, ongoing AI regulation debates signal future market shifts and necessitate strategic vigilance. To secure assets and ensure physical safety, GlobeGuard advises immediately diversifying critical investments to mitigate against food and energy market volatility, reinforcing emergency preparedness and infrastructure resilience in seismically active or climate-vulnerable operational zones, and conducting a thorough audit of vital supply chains for potential disruptions caused by environmental or geopolitical factors.",
+    "strategicPlan": "The global threat landscape is rapidly evolving, marked by a critical confluence of geopolitical, economic, and physical tectonic pressures. Geopolitically, the Russia-Ukraine conflict continues to severely impact energy markets, while the ongoing humanitarian crisis in Venezuela following recent quakes highlights regional vulnerabilities. Economically, climate change is demonstrably increasing living costs, and the looming Super El Ni\u00f1o poses a direct threat of a global food crisis, creating systemic financial instability despite a generally robust, yet volatile, tech sector. Physically, a pronounced uptick in significant seismic activity, with M5+ quakes reported across South America, Southeast Asia, and the Mid-Atlantic Ridge, signals a period of heightened geological instability that could compound existing humanitarian and logistical challenges. To navigate this complex environment, secure assets, and ensure physical safety, first, critically assess and diversify supply chain resilience for essential commodities, particularly food and energy, against anticipated disruptions. Second, immediately evaluate and reinforce the structural integrity of critical physical infrastructure and living spaces, especially in known seismic zones, to mitigate risks from potential geological events. Third, prudently review investment portfolios, favoring sectors resilient to commodity volatility and geopolitical shocks, while simultaneously fortifying digital asset security against an increasingly complex and AI-driven threat landscape.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takd"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 48 km SSW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadc"
+            "title": "\u26a0\ufe0f Mag 5.4 - 162 km NNW of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 65 km SSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 56 km W of La Ligua, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tahc"
+            "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.8, are striking Argentina, Philippines, and Chile!"
+    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5 earthquakes reported worldwide!"
 }
