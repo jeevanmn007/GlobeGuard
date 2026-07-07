@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is experiencing heightened volatility, characterized by compounding geopolitical flashpoints, significant economic pressures, and critical physical vulnerabilities. Ongoing conflicts are stressing energy markets, while the confluence of climate change and a super El Ni\u00f1o portends rising food costs and potential widespread humanitarian crises, already underscored by recent devastating quakes in Venezuela. Concurrently, persistent M5+ seismic activity across multiple global regions signals inherent tectonic instability, and the rapid, unregulated evolution of AI introduces new layers of strategic risk. In this landscape, your immediate focus must be threefold: strategically secure your asset base through diversification and resilient supply chains to mitigate economic shocks; prioritize physical safety by establishing comprehensive emergency response plans and maintaining survival provisions, especially given ongoing seismic threats; and maintain vigilant situational awareness of geopolitical, environmental, and technological shifts to adapt swiftly and pre-empt disruptions.",
+    "strategicPlan": "The global landscape demands immediate strategic attention, marked by a confluence of escalating geopolitical, financial, and physical threats. Geopolitically, the ongoing energy crisis stemming from Ukrainian strikes on Russia, coupled with the unmet humanitarian needs following Venezuela's quakes, signals persistent regional instability and supply chain vulnerabilities, while climate change-induced cost increases and a potential Super El Ni\u00f1o global food crisis threaten widespread economic strain. Concurrently, heightened seismic activity, notably around the tectonically sensitive Reykjanes Ridge and significant tremors in South America and Indonesia, signal a volatile physical environment demanding robust preparedness. While the tech sector, particularly AI-driven companies, shows robust financial growth, this does not insulate against the wider systemic risks. To navigate this complex environment, first, secure critical supply chains and essential resources, prioritizing diversification against climate and conflict-induced disruptions; second, enhance physical safety protocols by reviewing emergency preparedness plans, conducting structural integrity assessments, and maintaining robust disaster kits, especially if located in seismically active zones; and third, strategically review and fortify financial portfolios, emphasizing diversification into resilient assets and ensuring ample liquid reserves to mitigate market volatility and respond rapidly to unforeseen global shifts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $192.75 (-1.43%)",
+            "title": "\ud83d\udcb0 NVDA: $197.51 (1.0%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.2 (0.17%)",
+            "title": "\ud83d\udcb0 AAPL: $312.12 (-0.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $392.96 (1.61%)",
+            "title": "\ud83d\udcb0 MSFT: $393.26 (1.69%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.05 (1.89%)",
+            "title": "\ud83d\udcb0 PLTR: $138.74 (4.68%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $243.93 (-0.09%)",
+            "title": "\ud83d\udcb0 AMZN: $246.59 (1.0%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 56 km W of La Ligua, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tahc"
+            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talm"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Four significant Mag 5+ earthquakes just struck disparate locations globally!"
+    "seismicSummary": "WARNING: Multiple Mag 5+ earthquakes reported globally!"
 }
