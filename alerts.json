@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is exhibiting a critical convergence of systemic risks: escalating economic pressures from climate change and the impending Super El Ni\u00f1o-driven global food crisis; persistent geopolitical instability as Russia contends with energy shortages and broader conflict; and heightened physical vulnerability underscored by recent significant seismic activity across the Pacific Ring of Fire, mirroring the humanitarian challenges from recent quakes in Venezuela. While financial markets show resilience in targeted technology sectors, particularly AI, the overarching landscape demands proactive, integrated risk management. To secure assets and ensure physical safety, GlobeGuard recommends immediate action: first, fortify supply chains and resource stockpiles against climate-induced disruptions and food scarcity; second, update and drill comprehensive emergency protocols for natural disasters, especially for personnel and assets in seismically active zones; and third, strategically reassess investment portfolios to hedge against geopolitical volatility and the rising costs associated with global environmental shifts, leveraging resilient technologies while preparing for potential market corrections.",
+    "strategicPlan": "The global environment is marked by escalating multi-front instability: geopolitical tensions fueled by the Russia-Ukraine conflict's energy ramifications, a looming global food crisis exacerbated by a super El Ni\u00f1o, and the widespread economic strain of climate change are converging to heighten global risk. This is further compounded by significant tectonic activity observed across South America and Southeast Asia, as highlighted by recent severe quakes in Venezuela, Argentina, Chile, and the Philippines, which pose immediate threats to infrastructure and human security. While the tech sector shows resilience with moderate stock gains, ongoing AI regulation debates signal future market shifts and necessitate strategic vigilance. To secure assets and ensure physical safety, GlobeGuard advises immediately diversifying critical investments to mitigate against food and energy market volatility, reinforcing emergency preparedness and infrastructure resilience in seismically active or climate-vulnerable operational zones, and conducting a thorough audit of vital supply chains for potential disruptions caused by environmental or geopolitical factors.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 296 km SSE of Ushuaia, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takd"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.8 - 48 km SSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadc"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 56 km W of La Ligua, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tahc"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 211 km ESE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taft"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Urgent: M5.8 quake near Sarangani, Philippines, leads multiple M5+ tremors reported globally!"
+    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.8, are striking Argentina, Philippines, and Chile!"
 }
