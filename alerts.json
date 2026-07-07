@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly evolving, marked by a critical confluence of geopolitical, economic, and physical tectonic pressures. Geopolitically, the Russia-Ukraine conflict continues to severely impact energy markets, while the ongoing humanitarian crisis in Venezuela following recent quakes highlights regional vulnerabilities. Economically, climate change is demonstrably increasing living costs, and the looming Super El Ni\u00f1o poses a direct threat of a global food crisis, creating systemic financial instability despite a generally robust, yet volatile, tech sector. Physically, a pronounced uptick in significant seismic activity, with M5+ quakes reported across South America, Southeast Asia, and the Mid-Atlantic Ridge, signals a period of heightened geological instability that could compound existing humanitarian and logistical challenges. To navigate this complex environment, secure assets, and ensure physical safety, first, critically assess and diversify supply chain resilience for essential commodities, particularly food and energy, against anticipated disruptions. Second, immediately evaluate and reinforce the structural integrity of critical physical infrastructure and living spaces, especially in known seismic zones, to mitigate risks from potential geological events. Third, prudently review investment portfolios, favoring sectors resilient to commodity volatility and geopolitical shocks, while simultaneously fortifying digital asset security against an increasingly complex and AI-driven threat landscape.",
+    "strategicPlan": "The global environment is currently defined by a confluence of escalating systemic risks: climate change and a super El Ni\u00f1o are driving inflationary pressures and threatening global food security, while persistent geopolitical conflicts in Eastern Europe continue to destabilize energy markets. Simultaneously, significant and widespread seismic activity, from recent Venezuelan quakes to events across the South Atlantic, Indonesia, and Chile, highlights an elevated and geographically diverse physical threat. Despite targeted growth in select tech sectors, the broader landscape points to deepening global instability, resource scarcity, and the complex integration challenges of rapidly advancing AI. To secure assets and ensure physical safety, GlobeGuard directs immediate action: reinforce physical infrastructure and emergency preparedness in vulnerable regions; diversify critical supply chains and secure essential resource stockpiles to mitigate climate-driven inflation and geopolitical disruptions; and strategically re-evaluate investment portfolios towards resilient infrastructure and essential services, while closely monitoring AI's evolving regulatory and military implications.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 65 km SSW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tadj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 56 km W of La Ligua, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tahc"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5 earthquakes reported worldwide!"
+    "seismicSummary": "Multiple major earthquakes, including a 5.8 in Argentina, just hit globally!"
 }
