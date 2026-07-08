@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard Assessment: The global landscape is marked by a critical convergence of systemic risks. Geopolitically, ongoing conflicts are exacerbating energy shortages, while the intertwined effects of climate change and a powerful El Ni\u00f1o are driving significant cost increases and threatening a global food crisis. Financially, market sentiment is volatile, with mixed tech performance amidst an accelerating AI development race and regulatory debates. Physically, a concerning pattern of heightened seismic activity is emerging, with multiple moderate to strong earthquakes recently recorded across the Pacific Ring of Fire and Indian Ocean, compounding the humanitarian fallout from recent Venezuelan quakes. To navigate this complex environment, we issue the following directive: First, immediately audit and diversify critical supply chains for food, water, and energy, prioritizing localized and resilient sourcing to mitigate climate-induced and geopolitical disruptions. Second, strategically re-evaluate financial portfolios, favoring defensive assets and sectors resilient to economic volatility, while cautiously exploring opportunities in established AI applications. Third, enhance physical security and emergency preparedness protocols, with specific emphasis on earthquake readiness, including infrastructure assessments, updated evacuation plans, and robust communication redundancies for all assets in seismically active regions.",
+    "strategicPlan": "The global strategic environment demands immediate and comprehensive attention, marked by escalating geopolitical instability, profound economic pressures, and heightened physical tectonic threats. Geopolitical conflicts are directly impacting energy security and humanitarian conditions, as evidenced by Russia's severe energy shortages and the ongoing humanitarian crisis following Venezuela's recent quakes, while climate change and a strengthening El Ni\u00f1o are poised to amplify costs and trigger a global food crisis. Financially, while some tech sectors show resilience, broader economic anxieties are palpable with major tech stocks experiencing shifts, and critically, a surge in global seismic activity, including multiple strong quakes in vulnerable oceanic and populated regions, underscores a pervasive physical risk. To navigate this complex environment, immediately diversify critical assets to mitigate financial volatility and supply chain disruptions, secure robust provisions and detailed emergency plans to counter impending resource scarcity, and reinforce physical safety protocols and disaster preparedness for potential seismic events.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.6 (2.88%)",
+            "title": "\ud83d\udcb0 NVDA: $204.32 (3.75%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.46 (1.22%)",
+            "title": "\ud83d\udcb0 AAPL: $313.2 (0.82%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $383.42 (-1.39%)",
+            "title": "\ud83d\udcb0 MSFT: $383.44 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $129.68 (-3.49%)",
+            "title": "\ud83d\udcb0 PLTR: $132.24 (-1.59%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $241.94 (-1.64%)",
+            "title": "\ud83d\udcb0 AMZN: $242.97 (-1.22%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -51,12 +51,12 @@
             "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/"
         },
         {
-            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-            "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
+            "title": "The robotaxi law that could ban Tesla",
+            "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla"
         },
         {
-            "title": "US Army soldiers say you can't just pour AI on new warfighting tech like ranch dressing",
-            "link": "https://www.businessinsider.com/us-army-soldiers-ai-cant-be-poured-warfighting-tech-ranch-2026-6"
+            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+            "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
         }
     ],
     "seismic": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 245 km S of \u2018Ohonua, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Chagos Archipelago region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 95 km WSW of Labuan, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tary"
         }
     ],
-    "seismicSummary": "Multiple strong Mag 5+ earthquakes just hit across the Pacific and Indian Ocean regions!"
+    "seismicSummary": "**URGENT: Multiple M5+ earthquakes reported across various regions!**"
 }
