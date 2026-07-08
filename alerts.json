@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by a critical convergence of threats: climate change continues to drive economic strain, while an emerging Super El Ni\u00f1o poses a severe risk of global food crises, exacerbated by persistent geopolitical instability reflected in Russia's energy vulnerabilities and ongoing humanitarian needs following recent major seismic events in Venezuela. Despite this, the tech sector, particularly AI-driven companies, shows selective financial resilience even as the regulatory and military integration of AI remains uncertain. Simultaneously, heightened tectonic activity across multiple regions, indicated by recent moderate quakes, underscores an underlying physical volatility. In response, GlobeGuard directs immediate action: first, **diversify and secure critical supply chains** for essential resources, establishing robust contingency plans for potential disruptions in food, water, and energy; second, **enhance physical resilience and preparedness** by strengthening infrastructure and implementing comprehensive emergency protocols for natural disasters and civil unrest; and third, **strategically monitor and adapt** to the evolving landscape of AI regulation and geopolitical flashpoints to anticipate market shifts, energy volatility, and potential regional destabilization.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a confluence of escalating threats: geopolitical tensions continue to disrupt energy markets and supply chains, as evidenced by Russia's ongoing energy shortages; climate change and a super El Ni\u00f1o are driving increased economic costs and posing a significant risk of a global food crisis; and recent significant seismic activity across the Pacific Ring of Fire, from Vanuatu and Indonesia to Costa Rica, alongside the humanitarian crisis from Venezuela's recent quakes, underscores persistent physical dangers. While key tech sectors show continued growth and AI innovation, potential regulatory headwinds and the broader economic impacts of environmental shifts could introduce market volatility. To navigate this complex environment, GlobeGuard directs you to: **diversify critical assets** by fortifying supply chains and investment portfolios against climate-driven commodity fluctuations and geopolitical instability; **enhance physical safety** through robust, updated emergency preparedness plans, particularly for seismic events and severe weather; and **maintain vigilant intelligence** on climate patterns, geopolitical developments, and emerging AI regulatory landscapes to anticipate strategic shifts and protect interests.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 13 km W of Changning, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatd"
+            "title": "\u26a0\ufe0f Mag 5.2 - 109 km SW of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes, including a 5.8, have just struck globally!"
+    "seismicSummary": "Multiple M5+ earthquakes, including a 5.8 in Vanuatu, just struck worldwide!"
 }
