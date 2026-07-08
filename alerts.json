@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment presents an urgent, complex risk profile, marked by intensifying environmental and geopolitical pressures. Climate change and the Super El Ni\u00f1o are exacerbating economic strain and threatening global food security, while ongoing energy instability from the Russia-Ukraine conflict persists. The severe humanitarian crisis following Venezuela's recent quakes underscores acute regional vulnerabilities, echoed by persistent seismic activity globally, including recent 5+ magnitude events across Indonesia, Costa Rica, and China. Though the tech sector demonstrates resilience amidst these challenges, the interconnected threats demand proactive measures: prioritize asset diversification against inflation and potential supply chain disruptions; rigorously update emergency preparedness plans, including communication protocols and essential provisions; and proactively secure local and regional supply chains for critical resources like food and energy, building redundancy to mitigate future volatilities.",
+    "strategicPlan": "The global landscape is characterized by a critical convergence of threats: climate change continues to drive economic strain, while an emerging Super El Ni\u00f1o poses a severe risk of global food crises, exacerbated by persistent geopolitical instability reflected in Russia's energy vulnerabilities and ongoing humanitarian needs following recent major seismic events in Venezuela. Despite this, the tech sector, particularly AI-driven companies, shows selective financial resilience even as the regulatory and military integration of AI remains uncertain. Simultaneously, heightened tectonic activity across multiple regions, indicated by recent moderate quakes, underscores an underlying physical volatility. In response, GlobeGuard directs immediate action: first, **diversify and secure critical supply chains** for essential resources, establishing robust contingency plans for potential disruptions in food, water, and energy; second, **enhance physical resilience and preparedness** by strengthening infrastructure and implementing comprehensive emergency protocols for natural disasters and civil unrest; and third, **strategically monitor and adapt** to the evolving landscape of AI regulation and geopolitical flashpoints to anticipate market shifts, energy volatility, and potential regional destabilization.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 91 km SSW of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 95 km WSW of Labuan, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tary"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 13 km W of Changning, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatd"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 15 km NNE of Xunchang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taui"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just struck across Indonesia, Costa Rica, and China!"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes, including a 5.8, have just struck globally!"
 }
