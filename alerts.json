@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a critical confluence of threats: escalating geopolitical tensions causing energy instability in Russia and a profound humanitarian crisis in Venezuela, compounded by the severe potential for a global food crisis driven by climate change and El Ni\u00f1o. Concurrently, major tech markets are exhibiting a significant downturn, while heightened seismic activity across the Pacific Ring of Fire and Indian Ocean indicates an elevated physical risk. Therefore, we advise prioritizing immediate diversification of financial portfolios, fortifying physical infrastructure and emergency preparedness protocols in high-risk regions, and actively monitoring and securing critical supply chains against impending environmental and geopolitical disruptions.",
+    "strategicPlan": "GlobeGuard Assessment: The global landscape is marked by a critical convergence of systemic risks. Geopolitically, ongoing conflicts are exacerbating energy shortages, while the intertwined effects of climate change and a powerful El Ni\u00f1o are driving significant cost increases and threatening a global food crisis. Financially, market sentiment is volatile, with mixed tech performance amidst an accelerating AI development race and regulatory debates. Physically, a concerning pattern of heightened seismic activity is emerging, with multiple moderate to strong earthquakes recently recorded across the Pacific Ring of Fire and Indian Ocean, compounding the humanitarian fallout from recent Venezuelan quakes. To navigate this complex environment, we issue the following directive: First, immediately audit and diversify critical supply chains for food, water, and energy, prioritizing localized and resilient sourcing to mitigate climate-induced and geopolitical disruptions. Second, strategically re-evaluate financial portfolios, favoring defensive assets and sectors resilient to economic volatility, while cautiously exploring opportunities in established AI applications. Third, enhance physical security and emergency preparedness protocols, with specific emphasis on earthquake readiness, including infrastructure assessments, updated evacuation plans, and robust communication redundancies for all assets in seismically active regions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.45 (-0.24%)",
+            "title": "\ud83d\udcb0 NVDA: $202.6 (2.88%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.13 (-0.17%)",
+            "title": "\ud83d\udcb0 AAPL: $314.46 (1.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $382.24 (-1.7%)",
+            "title": "\ud83d\udcb0 MSFT: $383.42 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $128.33 (-4.5%)",
+            "title": "\ud83d\udcb0 PLTR: $129.68 (-3.49%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $241.34 (-1.89%)",
+            "title": "\ud83d\udcb0 AMZN: $241.94 (-1.64%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - Chagos Archipelago region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 245 km S of \u2018Ohonua, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - Chagos Archipelago region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 95 km WSW of Labuan, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tary"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong quakes (Mag 5.3-5.8) just struck Vanuatu, Chagos, Tonga, and Indonesia!"
+    "seismicSummary": "Multiple strong Mag 5+ earthquakes just hit across the Pacific and Indian Ocean regions!"
 }
