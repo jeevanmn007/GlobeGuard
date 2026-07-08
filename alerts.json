@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by a confluence of escalating threats, presenting a critical juncture for risk mitigation. Geopolitically, ongoing conflicts exacerbate energy insecurity while climate change and a looming Super El Ni\u00f1o portend severe global food and economic crises. Financially, the tech sector, driven by AI advancements, shows robust growth, yet this market resilience exists against a backdrop of increasing physical and environmental instability. Critically, heightened global seismic activity, evidenced by multiple significant earthquakes across South America, Central America, and Southeast Asia\u2014including the recent devastating quakes in Venezuela\u2014signals a period of pronounced physical volatility that strains humanitarian response capabilities and threatens critical infrastructure and supply chains. To secure assets and ensure physical safety, **first, immediately review and diversify critical supply chains, especially for food and energy resources, to build resilience against climate disruptions and geopolitical shocks.** **Second, conduct comprehensive physical asset audits, reinforcing infrastructure in seismically active zones and vulnerable coastal regions against extreme weather events.** **Third, strategically re-evaluate and rebalance investment portfolios, hedging against impending commodity volatility and prioritizing holdings in resilient infrastructure, essential services, and diversified resource sectors, rather than solely relying on speculative tech growth.**",
+    "strategicPlan": "The global landscape is currently marked by a critical confluence of escalating threats: systemic climate change impacts are driving economic inflation and amplifying the risk of a severe El Ni\u00f1o-induced global food crisis, while regional geopolitical instability persists, exemplified by Russia's energy shortages and the ongoing humanitarian fallout from significant quakes in Venezuela. This complex backdrop is further compounded by a notable increase in moderate seismic activity across key fault lines in Indonesia, Costa Rica, and the Reykjanes Ridge, indicating broader physical vulnerabilities. While the tech sector shows resilience and growth driven by AI innovation, the overarching environment demands immediate and proactive risk mitigation. Therefore, secure your essential supply chains, particularly food and energy, against both climatic disruption and geopolitical shocks; conduct a thorough audit of physical assets and emergency protocols to prepare for heightened seismic activity and localized crises; and strategically diversify financial portfolios to account for climate-driven economic shifts and potential market volatility.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 296 km SSE of Ushuaia, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takd"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 162 km NNW of Tobelo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 10 km WSW of Orotina, Costa Rica",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tarc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking globally right now!"
+    "seismicSummary": "Multiple Mag 5 earthquakes reported worldwide!"
 }
