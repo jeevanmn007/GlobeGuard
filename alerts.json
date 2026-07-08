@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment demands immediate and comprehensive attention, marked by escalating geopolitical instability, profound economic pressures, and heightened physical tectonic threats. Geopolitical conflicts are directly impacting energy security and humanitarian conditions, as evidenced by Russia's severe energy shortages and the ongoing humanitarian crisis following Venezuela's recent quakes, while climate change and a strengthening El Ni\u00f1o are poised to amplify costs and trigger a global food crisis. Financially, while some tech sectors show resilience, broader economic anxieties are palpable with major tech stocks experiencing shifts, and critically, a surge in global seismic activity, including multiple strong quakes in vulnerable oceanic and populated regions, underscores a pervasive physical risk. To navigate this complex environment, immediately diversify critical assets to mitigate financial volatility and supply chain disruptions, secure robust provisions and detailed emergency plans to counter impending resource scarcity, and reinforce physical safety protocols and disaster preparedness for potential seismic events.",
+    "strategicPlan": "The global landscape is characterized by a complex, escalating convergence of threats: geopolitical tensions continue to disrupt energy markets, while climate change is undeniably driving increased costs and a looming Super El Ni\u00f1o threatens a global food crisis, collectively placing severe strain on economic stability and humanitarian resources. This volatile environment is further underscored by a heightened baseline of physical threats, with significant seismic activity reported across multiple active regions, including recent devastating impacts in Venezuela. To secure assets and physical safety, immediately diversify and fortify critical supply chains against food and energy price volatility, prioritizing resilient investments; concurrently, review and reinforce comprehensive personal and operational emergency preparedness plans, including communication protocols and essential supply caches; and maintain vigilant surveillance of regional geopolitical shifts, climate-driven resource scarcities, and evolving regulatory landscapes to proactively adapt strategic positioning.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.32 (3.75%)",
+            "title": "\ud83d\udcb0 NVDA: $204.12 (3.65%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.2 (0.82%)",
+            "title": "\ud83d\udcb0 AAPL: $313.39 (0.88%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $383.44 (-1.39%)",
+            "title": "\ud83d\udcb0 MSFT: $383.34 (-1.41%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.24 (-1.59%)",
+            "title": "\ud83d\udcb0 PLTR: $132.22 (-1.6%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $242.97 (-1.22%)",
+            "title": "\ud83d\udcb0 AMZN: $243.62 (-0.96%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple M5+ earthquakes reported across various regions!**"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes reported globally!"
 }
