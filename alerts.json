@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a dynamic threat landscape characterized by escalating climate-driven economic pressures and potential food insecurity from the Super El Ni\u00f1o, persistent geopolitical instability impacting energy supplies, and significant, widespread seismic activity culminating in a severe humanitarian crisis in Venezuela. Financially, major tech sectors show mixed performance, with AI innovation balanced against increasing regulatory scrutiny for autonomous systems. To secure assets and ensure physical safety, first, diversify essential resource reserves and reassess investment portfolios for resilience against climate impacts and evolving AI regulation. Second, strengthen emergency preparedness, specifically for seismic events and potential resource shortages. Third, maintain vigilant monitoring of critical supply chains and anticipate shifts in AI and autonomous technology regulation.",
+    "strategicPlan": "The global landscape is characterized by a critical convergence of escalating threats: economic stability is jeopardized by climate change-driven inflation and the specter of a Super El Ni\u00f1o-induced food crisis, while geopolitical tensions manifest in ongoing energy market disruptions from conflicts and a persistent humanitarian crisis following Venezuela's recent quakes. Concurrently, physical tectonic instability is heightened, evidenced by a cluster of M5.0+ seismic events across the Pacific Ring of Fire, signaling a period of elevated geological risk, even as key tech markets exhibit varied performance amidst emerging regulatory uncertainties in AI. To navigate this complex environment, secure your assets by diversifying investment portfolios and fortifying critical supply chains against environmental and geopolitical shocks; ensure physical safety by immediately updating emergency preparedness plans, particularly for seismic events and infrastructure disruption; and proactively secure essential resources like food and energy through local and sustainable redundancies to mitigate potential systemic impacts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,31 +21,27 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.17 (-0.47%)",
+            "title": "\ud83d\udcb0 NVDA: $202.78 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $315.02 (0.52%)",
+            "title": "\ud83d\udcb0 AAPL: $316.22 (0.9%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $380.86 (-0.65%)",
+            "title": "\ud83d\udcb0 MSFT: $384.36 (0.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $128.09 (-3.12%)",
+            "title": "\ud83d\udcb0 PLTR: $129.04 (-2.41%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $243.96 (0.14%)",
+            "title": "\ud83d\udcb0 AMZN: $247.04 (1.4%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
     "trend": [
-        {
-            "title": "Apple\u2019s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
-            "link": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/"
-        },
         {
             "title": "MacOS 27 Golden Gate: Top New Features",
             "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/"
@@ -57,13 +53,13 @@
         {
             "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
             "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
+        },
+        {
+            "title": "US Army soldiers say you can't just pour AI on new warfighting tech like ranch dressing",
+            "link": "https://www.businessinsider.com/us-army-soldiers-ai-cant-be-poured-warfighting-tech-ranch-2026-6"
         }
     ],
     "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 5.5 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b"
-        },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 50 km SW of Shirahama, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n"
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 19 km ENE of Abuyog, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 1 km NNW of Xunchang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck various locations worldwide!"
+    "seismicSummary": "Multiple M5 earthquakes are striking across the Pacific region!"
 }
