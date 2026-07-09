@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently marked by compounding risks across geopolitical, economic, and physical domains. Geopolitical tensions continue to destabilize energy markets while the combined impacts of climate change and a burgeoning Super El Ni\u00f1o present a high probability of escalating global food crises and increased economic strain. The ongoing humanitarian emergency in Venezuela, following recent seismic events, serves as a stark reminder of critical vulnerabilities to natural disasters, underscored by persistent moderate tectonic activity in other remote regions. Financially, while specific tech sectors show growth, broader market volatility and emerging AI regulatory frameworks signal a period of significant economic uncertainty. In response, GlobeGuard directs immediate action: **First**, fortify critical supply chain resilience by diversifying sourcing and logistics, particularly for food and energy, against both climatic and geopolitical disruptions. **Second**, enhance physical safety and operational continuity by updating and actively practicing emergency preparedness plans, with a specific focus on seismic event response and extreme weather mitigation. **Third**, rebalance asset portfolios by prioritizing investments in resilient infrastructure, essential commodities, and defensive sectors, while prudently navigating the evolving technological landscape and anticipated regulatory shifts.",
+    "strategicPlan": "The global landscape is defined by a confluence of escalating risks: persistent geopolitical conflict exacerbating energy and economic instability, compounding climate-driven economic burdens and a looming global food crisis, and notable seismic instability evidenced by the Venezuela humanitarian crisis and recent M5+ quakes in strategic regions including Japan and China. Financial markets exhibit caution in key tech sectors amid evolving AI regulatory landscapes, signaling a period of heightened uncertainty. To navigate this volatility, users must secure essential resources by diversifying food and energy reserves, fortify physical assets and establish robust emergency protocols for potential seismic events, and closely monitor geopolitical and technological regulatory shifts to adjust supply chains and investment strategies accordingly.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.12 (3.65%)",
+            "title": "\ud83d\udcb0 NVDA: $201.93 (-1.08%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.39 (0.88%)",
+            "title": "\ud83d\udcb0 AAPL: $314.32 (0.3%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $383.34 (-1.41%)",
+            "title": "\ud83d\udcb0 MSFT: $380.05 (-0.86%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.22 (-1.6%)",
+            "title": "\ud83d\udcb0 PLTR: $126.46 (-4.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $243.62 (-0.96%)",
+            "title": "\ud83d\udcb0 AMZN: $241.83 (-0.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 245 km S of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww"
+            "title": "\u26a0\ufe0f Mag 5.1 - 50 km SW of Shirahama, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Chagos Archipelago region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7"
+            "title": "\u26a0\ufe0f Mag 5.1 - 59 km NNE of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 109 km SW of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt"
+            "title": "\u26a0\ufe0f Mag 5 - 1 km NNW of Xunchang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z"
         }
     ],
-    "seismicSummary": "Four M5+ quakes reported across island regions!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes striking globally!"
 }
