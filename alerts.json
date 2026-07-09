@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is currently marked by compounding risks across geopolitical, economic, and physical domains. Geopolitical tensions continue to destabilize energy markets while the combined impacts of climate change and a burgeoning Super El Ni\u00f1o present a high probability of escalating global food crises and increased economic strain. The ongoing humanitarian emergency in Venezuela, following recent seismic events, serves as a stark reminder of critical vulnerabilities to natural disasters, underscored by persistent moderate tectonic activity in other remote regions. Financially, while specific tech sectors show growth, broader market volatility and emerging AI regulatory frameworks signal a period of significant economic uncertainty. In response, GlobeGuard directs immediate action: **First**, fortify critical supply chain resilience by diversifying sourcing and logistics, particularly for food and energy, against both climatic and geopolitical disruptions. **Second**, enhance physical safety and operational continuity by updating and actively practicing emergency preparedness plans, with a specific focus on seismic event response and extreme weather mitigation. **Third**, rebalance asset portfolios by prioritizing investments in resilient infrastructure, essential commodities, and defensive sectors, while prudently navigating the evolving technological landscape and anticipated regulatory shifts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 91 km SSW of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawe"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - Balleny Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz2b"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Chagos Archipelago region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 109 km SW of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Four M5+ quakes reported across island regions!"
 }
