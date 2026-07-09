@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is defined by a confluence of escalating risks: persistent geopolitical conflict exacerbating energy and economic instability, compounding climate-driven economic burdens and a looming global food crisis, and notable seismic instability evidenced by the Venezuela humanitarian crisis and recent M5+ quakes in strategic regions including Japan and China. Financial markets exhibit caution in key tech sectors amid evolving AI regulatory landscapes, signaling a period of heightened uncertainty. To navigate this volatility, users must secure essential resources by diversifying food and energy reserves, fortify physical assets and establish robust emergency protocols for potential seismic events, and closely monitor geopolitical and technological regulatory shifts to adjust supply chains and investment strategies accordingly.",
+    "strategicPlan": "The global environment presents a dynamic threat landscape characterized by escalating climate-driven economic pressures and potential food insecurity from the Super El Ni\u00f1o, persistent geopolitical instability impacting energy supplies, and significant, widespread seismic activity culminating in a severe humanitarian crisis in Venezuela. Financially, major tech sectors show mixed performance, with AI innovation balanced against increasing regulatory scrutiny for autonomous systems. To secure assets and ensure physical safety, first, diversify essential resource reserves and reassess investment portfolios for resilience against climate impacts and evolving AI regulation. Second, strengthen emergency preparedness, specifically for seismic events and potential resource shortages. Third, maintain vigilant monitoring of critical supply chains and anticipate shifts in AI and autonomous technology regulation.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $201.93 (-1.08%)",
+            "title": "\ud83d\udcb0 NVDA: $203.17 (-0.47%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.32 (0.3%)",
+            "title": "\ud83d\udcb0 AAPL: $315.02 (0.52%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $380.05 (-0.86%)",
+            "title": "\ud83d\udcb0 MSFT: $380.86 (-0.65%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $126.46 (-4.36%)",
+            "title": "\ud83d\udcb0 PLTR: $128.09 (-3.12%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $241.83 (-0.73%)",
+            "title": "\ud83d\udcb0 AMZN: $243.96 (0.14%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz7m"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 1 km NNW of Xunchang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z"
+            "title": "\u26a0\ufe0f Mag 5 - 19 km ENE of Abuyog, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes striking globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck various locations worldwide!"
 }
