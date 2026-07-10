@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is experiencing escalating, interconnected threats, demanding immediate attention. Economically, the compounding effects of climate change and a looming Super El Ni\u00f1o are driving up costs and portending a global food crisis, further exacerbated by ongoing geopolitical energy instability stemming from conflicts like the Russia-Ukraine war. Simultaneously, the profound humanitarian crisis in Venezuela following recent quakes, alongside persistent global seismic activity, underscores critical vulnerabilities to natural disasters. While a few tech sectors like NVDA show resilience, broader market caution reflects this complex interplay of risks. To mitigate these threats, immediately secure your financial assets by diversifying portfolios to hedge against inflation and supply chain disruptions; fortify your physical safety through comprehensive emergency preparedness plans, including up-to-date kits and communication strategies for natural disasters; and bolster your resilience by critically assessing and fortifying personal food and energy reserves against anticipated global shocks.",
+    "strategicPlan": "The global environment presents a critical confluence of escalating threats: economic pressures are mounting due to climate change and a looming Super El Ni\u00f1o, threatening a global food crisis and increased cost of living, while geopolitical conflicts continue to destabilize energy markets. Compounding these are significant physical hazards, underscored by recent widespread seismic activity, particularly the devastating and ongoing humanitarian crisis in Venezuela. Though some tech sectors show financial resilience, the systemic risks to global stability and individual well-being are pronounced. To secure assets and ensure physical safety, individuals must immediately: 1. Proactively secure diverse essential resources and reassess investment strategies to hedge against inflation and supply chain disruptions driven by climate and geopolitical shifts. 2. Fortify personal and family emergency preparedness plans, including robust communication protocols and comprehensive disaster kits, especially given the elevated risk of sudden physical disruptions. 3. Maintain vigilant intelligence on regional geopolitical developments affecting critical infrastructure and supply lines, adapting personal and professional strategies accordingly.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.59 (3.85%)",
+            "title": "\ud83d\udcb0 NVDA: $209.85 (3.49%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.2 (-0.64%)",
+            "title": "\ud83d\udcb0 AAPL: $316.79 (0.18%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $383.34 (-0.27%)",
+            "title": "\ud83d\udcb0 MSFT: $384.83 (0.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $125.97 (-2.38%)",
+            "title": "\ud83d\udcb0 PLTR: $126.93 (-1.64%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.88 (-0.87%)",
+            "title": "\ud83d\udcb0 AMZN: $245.34 (-0.69%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5 - west of Macquarie Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 96 km SW of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.8 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szhy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 256 km E of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szcw"
         }
     ],
-    "seismicSummary": "Four quakes up to M4.9 just struck globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong M4.8-5 earthquakes are occurring globally across diverse regions!"
 }
