@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a confluence of escalating risks: climate change is driving significant economic pressures and threatening food security via El Ni\u00f1o, while geopolitical tensions persist with critical energy infrastructure under threat in Eastern Europe. Concurrent with these dynamics, the Pacific Ring of Fire exhibits sustained seismic activity, echoing recent impactful quakes in Venezuela and underscoring a heightened physical hazard. Financial markets, though displaying some tech sector resilience, face increasing regulatory scrutiny over AI and autonomous technologies, adding a layer of uncertainty. To navigate this complex environment, first, secure financial stability by diversifying assets against climate-induced commodity volatility and inflation. Second, immediately enhance physical safety protocols and disaster preparedness for personnel and infrastructure, particularly in seismically active regions. Third, maintain acute vigilance on global regulatory trends in technology and energy policy, which will profoundly shape future operational and investment landscapes.",
+    "strategicPlan": "Current intelligence indicates a convergent increase in global systemic risk, with geopolitical tensions manifesting as energy shortages, financial stability threatened by climate-driven cost increases and a looming El Ni\u00f1o-triggered food crisis, and significant humanitarian needs following recent quakes in Venezuela. This complex backdrop is further amplified by persistent seismic activity across the Pacific Ring of Fire and other regions, signaling inherent physical vulnerabilities. To navigate this multifaceted threat landscape, immediately strengthen physical and digital infrastructure resilience against escalating climate impacts and seismic events, updating emergency protocols and supply caches. Concurrently, diversify critical resource acquisition and financial portfolios to hedge against geopolitical energy disruptions, climate-driven inflation, and potential food insecurity. Finally, conduct immediate vulnerability assessments across all operational territories, prioritizing areas exposed to identified geopolitical instability, severe weather, and seismic activity to ensure both asset security and physical safety.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 70 km NNW of Hirara, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8f"
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szbn"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck Japan, Vanuatu, and the Philippines!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes just struck Japan, Vanuatu, Philippines, and the South Sandwich Islands."
 }
