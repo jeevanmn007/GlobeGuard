@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a heightened global threat level driven by intersecting geopolitical, economic, and physical stressors. Geopolitically, the Russia-Ukraine conflict continues to strain energy markets while climate change and a looming Super El Ni\u00f1o threaten global food supplies and amplify economic pressures, as evidenced by rising costs and Venezuela's post-earthquake humanitarian crisis. Financially, major tech stocks show a concerning downward trend, reflecting broader market anxieties. Tectonically, persistent moderate seismic activity worldwide underscores ongoing physical risks. To secure assets and physical safety, we direct users to diversify investments against inflation and supply chain shocks; immediately update emergency preparedness plans, including essential supplies and communication protocols; and closely monitor regional resource availability for critical goods.",
+    "strategicPlan": "The global strategic landscape is experiencing escalating, interconnected threats, demanding immediate attention. Economically, the compounding effects of climate change and a looming Super El Ni\u00f1o are driving up costs and portending a global food crisis, further exacerbated by ongoing geopolitical energy instability stemming from conflicts like the Russia-Ukraine war. Simultaneously, the profound humanitarian crisis in Venezuela following recent quakes, alongside persistent global seismic activity, underscores critical vulnerabilities to natural disasters. While a few tech sectors like NVDA show resilience, broader market caution reflects this complex interplay of risks. To mitigate these threats, immediately secure your financial assets by diversifying portfolios to hedge against inflation and supply chain disruptions; fortify your physical safety through comprehensive emergency preparedness plans, including up-to-date kits and communication strategies for natural disasters; and bolster your resilience by critically assessing and fortifying personal food and energy reserves against anticipated global shocks.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.57 (2.86%)",
+            "title": "\ud83d\udcb0 NVDA: $210.59 (3.85%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.55 (-0.84%)",
+            "title": "\ud83d\udcb0 AAPL: $314.2 (-0.64%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $383.65 (-0.18%)",
+            "title": "\ud83d\udcb0 MSFT: $383.34 (-0.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $126.27 (-2.15%)",
+            "title": "\ud83d\udcb0 PLTR: $125.97 (-2.38%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $245.96 (-0.44%)",
+            "title": "\ud83d\udcb0 AMZN: $244.88 (-0.87%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5 - 19 km ENE of Abuyog, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 96 km SW of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szbn"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.8 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szhy"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.7 - 256 km E of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szcw"
         }
     ],
-    "seismicSummary": "**Multiple M5 earthquakes just hit across the Philippines, Indonesia, and other regions!**"
+    "seismicSummary": "Four quakes up to M4.9 just struck globally!"
 }
