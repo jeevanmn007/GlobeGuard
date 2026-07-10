@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is characterized by an escalating convergence of geopolitical, economic, and physical threats: accelerating climate change and an imminent El Ni\u00f1o-induced food crisis are driving severe inflationary pressures and supply chain instability, exacerbated by ongoing energy vulnerabilities from regional conflicts. While core tech financials show resilience, emerging regulatory scrutiny for AI and sector-specific tech introduces significant market uncertainty. This volatile backdrop is underscored by persistent physical risks, evidenced by a recent cluster of moderate seismic activity across the Pacific Ring of Fire and critical humanitarian needs in post-quake Venezuela. To secure assets and ensure physical safety, GlobeGuard issues the following directives: **First**, immediately fortify critical supply chains against climate-driven disruptions and resource scarcity by diversifying sourcing and increasing strategic reserves. **Second**, rigorously update and test all emergency preparedness and continuity plans, with a specific focus on seismic resilience and mitigating impacts from potential resource scarcity. **Third**, prioritize strategic investments in adaptable, proven technologies that enhance operational stability and navigate evolving regulatory frameworks for AI, rather than introducing new vulnerabilities.",
+    "strategicPlan": "The global strategic landscape is defined by a confluence of escalating threats: geopolitical instability highlighted by Russia's energy crisis, severe financial pressures from climate change driving up living costs and an impending El Ni\u00f1o-induced global food crisis, and persistent physical tectonic risks evidenced by recent Venezuelan devastation and multiple M5+ quakes across the Pacific Ring of Fire. This complex environment demands immediate, proactive measures to safeguard assets and ensure personal safety. To navigate this, we must first **diversify and secure essential personal and financial resources**, building resilient reserves against climate-driven economic volatility and potential commodity shocks. Secondly, **meticulously review and update emergency preparedness plans**, including communication strategies and essential supply caches, particularly for individuals in seismically active zones. Finally, **assess and mitigate personal and business exposure to critical supply chain vulnerabilities** in energy and food, exploring localized alternatives and robust contingency planning to maintain stability.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szbn"
+            "title": "\u26a0\ufe0f Mag 4.9 - 96 km SW of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5 earthquakes reported worldwide!"
+    "seismicSummary": "Urgent: Multiple M5 earthquakes have just struck across the Pacific!"
 }
