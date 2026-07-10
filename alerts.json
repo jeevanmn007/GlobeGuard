@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a dynamic convergence of escalating risks: geopolitically, climate change and a super El Ni\u00f1o are intensifying economic pressures and threatening global food security, further exacerbated by ongoing energy market instability stemming from the Russia-Ukraine conflict and a severe humanitarian crisis in Venezuela. Concurrently, heightened seismic activity across the Pacific Ring of Fire underscores persistent physical vulnerabilities to infrastructure and populations, while financially, tech markets show mixed signals amidst the disruptive, yet rapidly evolving, landscape of AI integration and its regulatory uncertainties. To secure assets and ensure physical safety, GlobeGuard directs immediate action: 1) Diversify and fortify critical supply chains against climate impacts and geopolitical disruptions, focusing on resilience for essential resources like food and energy. 2) Conduct comprehensive vulnerability assessments for all physical infrastructure and digital assets, anticipating both natural disasters and sophisticated cyber threats. 3) Proactively monitor and adapt to the evolving landscape of AI regulation and its implications for operational security and strategic advantage.",
+    "strategicPlan": "The global landscape presents a confluence of escalating risks: climate change is driving significant economic pressures and threatening food security via El Ni\u00f1o, while geopolitical tensions persist with critical energy infrastructure under threat in Eastern Europe. Concurrent with these dynamics, the Pacific Ring of Fire exhibits sustained seismic activity, echoing recent impactful quakes in Venezuela and underscoring a heightened physical hazard. Financial markets, though displaying some tech sector resilience, face increasing regulatory scrutiny over AI and autonomous technologies, adding a layer of uncertainty. To navigate this complex environment, first, secure financial stability by diversifying assets against climate-induced commodity volatility and inflation. Second, immediately enhance physical safety protocols and disaster preparedness for personnel and infrastructure, particularly in seismically active regions. Third, maintain acute vigilance on global regulatory trends in technology and energy policy, which will profoundly shape future operational and investment landscapes.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8l"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 1 km NNW of Xunchang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz3z"
+            "title": "\u26a0\ufe0f Mag 4.7 - 70 km NNW of Hirara, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sz8f"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes shake Japan, Vanuatu, Philippines, and China!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just struck Japan, Vanuatu, and the Philippines!"
 }
