@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, marked by accelerating climate-driven economic pressures, including rising living costs and a looming global food crisis exacerbated by El Ni\u00f1o. Persistent geopolitical instability, evidenced by Russia's energy shortages and the ongoing humanitarian fallout from Venezuela's recent quakes, further complicates an already volatile environment. Financially, while specific tech sectors show growth (NVDA), the broader market faces uncertainty as AI regulation evolves and adoption challenges emerge. Concurrently, a surge in significant seismic activity across diverse regions, from the South Sandwich Islands to the Philippines and Peru, underscores pervasive physical threats. To secure assets and physical safety, **first, immediately review and diversify investment portfolios towards climate-resilient assets and defensive sectors, hedging against AI regulatory shifts and economic inflation.** **Second, bolster emergency preparedness, securing vital supplies for at least six months and fortifying critical supply chains against potential food and energy disruptions.** **Third, establish continuous monitoring of regional seismic activity and geopolitical flashpoints, implementing robust emergency response protocols for all personnel and assets in identified high-risk zones.**",
+    "strategicPlan": "The global environment is characterized by a converging set of multi-vector threats, demanding immediate strategic adaptation. Geopolitically, ongoing conflicts are intensifying energy insecurity while climate change and an impending El Ni\u00f1o threaten global food stability and increase living costs. Recent severe seismic activity, notably impacting Venezuela, further compounds regional humanitarian crises, while significant global tremors persist in vulnerable zones. Financially, the market reflects this tension, with strong AI sector growth (NVDA) contrasted by broader tech volatility and regulatory uncertainty surrounding AI's future. To secure assets and physical safety, GlobeGuard recommends immediately diversifying critical supply chains for food and energy resources; conducting a thorough risk assessment of financial holdings for exposure to AI regulatory shifts and market volatility; and bolstering comprehensive emergency preparedness plans with a particular focus on regional geopolitical instability and localized natural disaster response.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 129 km SW of Huarmey, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq"
+            "title": "\u26a0\ufe0f Mag 5.1 - 89 km NE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0"
         }
     ],
-    "seismicSummary": "Urgent: A 6.4 magnitude earthquake struck the South Sandwich Islands, amidst multiple 5+ magnitude quakes worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple powerful earthquakes, including a Mag 6.4, reported globally!"
 }
