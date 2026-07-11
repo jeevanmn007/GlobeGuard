@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global operating environment demands immediate and proactive risk mitigation. Geopolitically, the confluence of climate change, a Super El Ni\u00f1o threatening global food supply, and energy instability from the Russia-Ukraine conflict is driving escalating living costs and humanitarian needs, as seen in Venezuela. Financially, while select tech sectors show robust growth, broader market volatility alongside increased tech regulation suggests underlying economic fragility. Physically, persistent moderate seismic activity worldwide, underscored by recent devastating events, highlights an ever-present natural disaster risk. In response, GlobeGuard directs all stakeholders to immediately diversify financial portfolios to hedge against inflation and market volatility, secure physical assets, and review critical supply chains for food and energy to build resilience against disruptions, while simultaneously rigorously updating and drilling emergency protocols for natural disaster preparedness, especially for seismic events, to ensure the safety of personnel and infrastructure.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly intensifying threat matrix spanning geopolitical, economic, and physical domains. Geopolitically, the ongoing humanitarian crisis from Venezuela's quakes and Russia's energy disruptions signal escalating regional instabilities, while economically, climate change is demonstrably increasing living costs, amplified by a Super El Ni\u00f1o threatening global food security despite concentrated growth in some tech sectors like AI. Physically, recent widespread seismic activity, including multiple mid-magnitude events, underscores a generalized tectonic unease. To secure your assets and physical safety, urgently diversify critical personal and organizational assets against climate-induced economic shocks and geopolitical volatility, simultaneously bolstering comprehensive disaster preparedness plans with a specific focus on seismic events and extended self-sufficiency, and finally, maintain acute awareness of evolving global and regional threat vectors to dynamically adjust safety protocols and financial strategies.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 96 km SW of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4"
+            "title": "\u26a0\ufe0f Mag 4.9 - 54 km NNW of Masohi, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szbn"
+            "title": "\u26a0\ufe0f Mag 4.9 - 96 km SW of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szhy"
         }
     ],
-    "seismicSummary": "**Urgent: Four magnitude 4.8-5.0 earthquakes have struck worldwide!**"
+    "seismicSummary": "\u26a0\ufe0f Multiple M4.8-M5 earthquakes reported worldwide!"
 }
