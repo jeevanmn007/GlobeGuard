@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a convergent crisis: escalating climate change and a 'Super El Ni\u00f1o' are poised to drive economic strain and potential global food insecurity, compounded by geopolitical flashpoints such as Russia's energy crisis and the ongoing humanitarian needs following Venezuela's devastating quakes. While financial markets show selective resilience in sectors like AI (e.g., NVDA's strong performance), persistent moderate seismic activity across high-risk zones, alongside the rapid, largely unregulated, evolution of AI, adds layers of systemic volatility to the environment. To secure GlobeGuard's interests, immediately: 1. Proactively diversify and fortify critical supply chains for essential resources against anticipated climate disruptions and geopolitical shocks. 2. Implement robust physical safety protocols and enhanced emergency contingency plans for all personnel and assets located in tectonically active and climate-vulnerable regions. 3. Develop agile strategies for ethical AI integration, prioritizing risk mitigation, regulatory compliance, and human oversight in all critical operational applications.",
+    "strategicPlan": "The global strategic environment is critically unstable, marked by a dangerous confluence of escalating climate-driven economic pressures, persistent geopolitical conflicts impacting critical energy and food resources, and ongoing, significant seismic activity across multiple regions, as tragically evidenced by the humanitarian crisis in Venezuela. While specific tech sectors like AI demonstrate robust growth, broader market volatility and emerging regulatory frameworks for disruptive technologies signal a period of profound uncertainty. To secure assets and ensure physical safety, we direct the following actions: First, immediately assess and diversify investment portfolios, prioritizing assets resilient to inflation, supply chain disruptions, and climate impacts, while closely monitoring AI regulatory developments for strategic positioning. Second, review and reinforce comprehensive emergency preparedness plans for all personnel and critical infrastructure, with a particular focus on seismic event response and local resource availability. Third, proactively engage in scenario planning for sustained resource scarcity and geopolitical instability, ensuring agility in operational adjustments and supply chain resilience.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 129 km SW of Huarmey, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 299 km W of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szmb"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - west of Macquarie Island",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 54 km NNW of Masohi, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szm5"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 96 km SW of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sze4"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just hit the Pacific region!"
+    "seismicSummary": "Urgent: Multiple M5+ earthquakes have just struck globally!"
 }
