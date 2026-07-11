@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically unstable, facing escalating climate-driven economic pressures, a looming El Ni\u00f1o-induced food crisis, and ongoing geopolitical disruptions exemplified by Russia's energy woes. This is further compounded by a pronounced physical threat, highlighted by the devastating Venezuela earthquakes and a surge in global seismic activity. While specific AI-driven tech sectors show resilience, the broader financial landscape remains volatile amidst significant regulatory uncertainty. To secure assets and physical safety, immediately fortify physical infrastructure and supply chains, maintaining emergency provisions and diversifying essential resources against climate impacts and seismic events. Second, strategically re-evaluate investment portfolios to hedge against both geopolitical instability and the economic ramifications of environmental shifts, prioritizing resilient sectors. Third, proactively engage with evolving AI regulatory frameworks, assessing both risks and opportunities in this rapidly developing technological domain to maintain competitive advantage and compliance.",
+    "strategicPlan": "The global operating environment is at a critical threat level, defined by a dangerous convergence of escalating climate-induced food and cost-of-living crises, persistent geopolitical instability evidenced by Russia's energy vulnerabilities, and significant, ongoing seismic activity including the humanitarian aftermath in Venezuela and recent major quakes across the South Sandwich Islands, Philippines, and Peru. While specific tech sectors like AI show growth, the financial landscape remains volatile, threatened by these macro pressures and increasing regulatory uncertainty. To secure assets and physical safety, GlobeGuard must immediately: initiate a comprehensive review and conduct drills for all emergency response and disaster preparedness protocols, with a specific focus on seismic events and resource scarcity; diversify critical supply chains, particularly for food and energy, to build resilience against climate impacts and geopolitical disruption; and strategically rebalance asset portfolios to hedge against inflation and market volatility, prioritizing resilient infrastructure and essential services.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.4 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 41 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 129 km SW of Huarmey, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 299 km W of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szmb"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - west of Macquarie Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes have just struck globally, from Peru to the South Sandwich Islands!"
+    "seismicSummary": "**Multiple strong quakes reported worldwide, including a M6.4 in the South Sandwich Islands!**"
 }
