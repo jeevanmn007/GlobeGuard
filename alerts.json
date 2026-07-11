@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, marked by a dangerous confluence of escalating climate-driven economic pressures, persistent geopolitical conflicts impacting critical energy and food resources, and ongoing, significant seismic activity across multiple regions, as tragically evidenced by the humanitarian crisis in Venezuela. While specific tech sectors like AI demonstrate robust growth, broader market volatility and emerging regulatory frameworks for disruptive technologies signal a period of profound uncertainty. To secure assets and ensure physical safety, we direct the following actions: First, immediately assess and diversify investment portfolios, prioritizing assets resilient to inflation, supply chain disruptions, and climate impacts, while closely monitoring AI regulatory developments for strategic positioning. Second, review and reinforce comprehensive emergency preparedness plans for all personnel and critical infrastructure, with a particular focus on seismic event response and local resource availability. Third, proactively engage in scenario planning for sustained resource scarcity and geopolitical instability, ensuring agility in operational adjustments and supply chain resilience.",
+    "strategicPlan": "The global environment is critically unstable, facing escalating climate-driven economic pressures, a looming El Ni\u00f1o-induced food crisis, and ongoing geopolitical disruptions exemplified by Russia's energy woes. This is further compounded by a pronounced physical threat, highlighted by the devastating Venezuela earthquakes and a surge in global seismic activity. While specific AI-driven tech sectors show resilience, the broader financial landscape remains volatile amidst significant regulatory uncertainty. To secure assets and physical safety, immediately fortify physical infrastructure and supply chains, maintaining emergency provisions and diversifying essential resources against climate impacts and seismic events. Second, strategically re-evaluate investment portfolios to hedge against both geopolitical instability and the economic ramifications of environmental shifts, prioritizing resilient sectors. Third, proactively engage with evolving AI regulatory frameworks, assessing both risks and opportunities in this rapidly developing technological domain to maintain competitive advantage and compliance.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szim"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5+ earthquakes have just struck globally!"
+    "seismicSummary": "Multiple Mag 5 earthquakes have just struck globally, from Peru to the South Sandwich Islands!"
 }
