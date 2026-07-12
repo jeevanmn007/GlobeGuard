@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape indicates a complex and escalating threat profile. Geopolitically, we face increasing economic strain driven by climate change and the impending threat of a Super El Ni\u00f1o potentially triggering a global food crisis, amplified by the humanitarian aftermath of recent tectonic activity in Venezuela and evolving AI regulatory landscapes shaping future economies. Financially, while specific tech sectors like AI (NVDA) show strong performance, broader market volatility (AAPL, AMZN) reflects underlying uncertainty and potential economic shifts. Physically, a notable cluster of moderately strong seismic events across the Pacific Ring of Fire signals a period of elevated tectonic instability, requiring heightened vigilance. To navigate this converging risk environment, we issue the following directive: First, immediately assess and diversify critical assets, including reviewing investment portfolios for resilience against market fluctuations and securing essential provisions for potential supply chain disruptions. Second, update and practice personal and organizational emergency preparedness plans, ensuring all safety kits are stocked and accessible for rapid deployment in the event of natural disasters. Third, maintain vigilant monitoring of evolving climate data, geopolitical developments, and technological legislation to preemptively adapt strategies against emerging threats to both physical safety and financial stability.",
+    "strategicPlan": "The global strategic landscape is defined by an intensifying convergence of geopolitical, financial, and physical tectonic threats. We observe escalating climate-driven economic pressures, evidenced by rising costs and a Super El Ni\u00f1o's potential for a global food crisis, compounded by regional humanitarian crises like Venezuela's recent quakes. Financially, the AI sector, led by NVDA's significant gains, drives market volatility and regulatory attention, impacting broader tech and investment climates. Simultaneously, increased seismic activity, with multiple 5+ magnitude quakes across the Pacific Ring of Fire (Philippines, Indonesia, Tonga), signals heightened physical instability. GlobeGuard directs immediate, proactive measures: **first**, rigorously assess and diversify financial assets to mitigate climate economic shocks and AI market swings; **second**, strengthen critical supply chain resilience and local food security protocols against environmental and geopolitical disruptions; and **third**, urgently update and enhance emergency preparedness plans, particularly for seismic events, safeguarding both personnel and infrastructure globally.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 89 km NE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0"
+            "title": "\u26a0\ufe0f Mag 5.1 - 27 km SSE of Tambolaka, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 241 km NNW of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv"
+            "title": "\u26a0\ufe0f Mag 5.1 - 89 km NE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0"
         }
     ],
-    "seismicSummary": "A 5.5 magnitude earthquake and multiple other moderate quakes are rocking the Pacific Rim."
+    "seismicSummary": "Multiple Mag 5+ earthquakes just struck across the Pacific!"
 }
