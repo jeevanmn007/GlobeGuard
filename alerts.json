@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global situation demands immediate attention, marked by a critical confluence of escalating climate-driven economic pressures, the potential for a global food crisis due to El Ni\u00f1o, and persistent geopolitical instability highlighted by Russia's energy vulnerabilities and Venezuela's ongoing post-quake humanitarian crisis. This is further complicated by significant and sustained tectonic activity, particularly in the South Sandwich Islands and the Philippines, presenting acute physical risks. While specific AI-driven sectors show robust financial performance, the broader market reflects caution amidst profound technological and regulatory shifts. To navigate this complex threat landscape, immediately prioritize securing diversified and resilient supply chains for essential resources; conduct comprehensive geographic risk assessments for all physical assets and personnel, enhancing emergency preparedness for seismic events; and diligently monitor the rapidly evolving AI regulatory and market environment to protect strategic investments and ensure operational agility.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla"
         },
         {
-            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-            "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms"
-        },
-        {
             "title": "US Army soldiers say you can't just pour AI on new warfighting tech like ranch dressing",
             "link": "https://www.businessinsider.com/us-army-soldiers-ai-cant-be-poured-warfighting-tech-ranch-2026-6"
         },
         {
             "title": "Hollywood is bending the knee to OpenAI",
             "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt"
+        },
+        {
+            "title": "Apple's Price Hikes Aren't Just an AI Problem",
+            "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri"
         }
     ],
-    "seismicSummary": "URGENT: A magnitude 6.4 earthquake hit the South Sandwich Islands, with multiple 5+ magnitude quakes also near the Philippines!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
