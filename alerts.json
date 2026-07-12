@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global strategic environment is acutely challenged by a convergence of escalating geopolitical tensions, financial volatility, and heightened physical threats. Geopolitically, ongoing conflict in Eastern Europe continues to destabilize energy markets, while climate change and a looming Super El Ni\u00f1o threaten global food security and drive inflationary pressures, underscored by recent humanitarian crises from seismic events in Venezuela. Financially, despite pockets of growth in specific tech sectors, market volatility, emerging regulatory hurdles for AI, and broader inflationary impacts on consumer costs demand careful navigation. Physically, a discernible uptick in significant seismic activity across diverse regions, including the South Sandwich Islands, East Pacific Rise, and notably near populated areas in the Philippines, indicates a period of heightened tectonic instability. To secure assets and ensure physical safety, we advise three immediate, actionable points: first, strategically diversify and bolster critical supply chains for essential resources to mitigate climate-induced and geopolitical disruptions; second, conduct immediate structural assessments and enhance preparedness protocols for all physical assets, especially in seismically active or vulnerable regions; and third, dynamically re-evaluate investment portfolios, prioritizing resilient sectors while closely monitoring regulatory shifts and geopolitical developments impacting key technologies and global markets.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 41 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0"
+            "title": "\u26a0\ufe0f Mag 5.5 - southern East Pacific Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sznc"
+            "title": "\u26a0\ufe0f Mag 5.4 - 41 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 56 km SSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "A Magnitude 6.4 earthquake and multiple other strong quakes (Mag 5+) just occurred worldwide."
 }
