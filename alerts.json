@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by an intensifying convergence of geopolitical, financial, and physical tectonic threats. We observe escalating climate-driven economic pressures, evidenced by rising costs and a Super El Ni\u00f1o's potential for a global food crisis, compounded by regional humanitarian crises like Venezuela's recent quakes. Financially, the AI sector, led by NVDA's significant gains, drives market volatility and regulatory attention, impacting broader tech and investment climates. Simultaneously, increased seismic activity, with multiple 5+ magnitude quakes across the Pacific Ring of Fire (Philippines, Indonesia, Tonga), signals heightened physical instability. GlobeGuard directs immediate, proactive measures: **first**, rigorously assess and diversify financial assets to mitigate climate economic shocks and AI market swings; **second**, strengthen critical supply chain resilience and local food security protocols against environmental and geopolitical disruptions; and **third**, urgently update and enhance emergency preparedness plans, particularly for seismic events, safeguarding both personnel and infrastructure globally.",
+    "strategicPlan": "**Strategic Directive:** The global intelligence picture indicates a converging threat matrix marked by escalating environmental and economic pressures. Climate change is a proven driver of inflation, with a looming \"Super El Ni\u00f1o\" potentially triggering a global food crisis, while the tech sector shows mixed signals with significant AI-driven gains (NVDA) alongside broader market volatility. This is underscored by regional instability and humanitarian crises, as evidenced by the severe, ongoing impact of Venezuela's recent earthquakes, set against a backdrop of persistent moderate seismic activity across the Pacific Ring of Fire. To navigate this environment, first, strategically fortify financial resilience by diversifying portfolios and assessing critical supply chain vulnerabilities against inflationary and climate-related disruptions. Second, enhance physical safety protocols through updated emergency preparedness plans and maintaining adequate essential reserves, especially in seismically active or climate-sensitive areas. Third, maintain vigilant intelligence monitoring of evolving AI regulatory frameworks and global climate patterns to anticipate systemic shifts and proactive risk mitigation.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 192 km WNW of Gorontalo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvv"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 56 km SSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 27 km SSE of Tambolaka, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 89 km NE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck across the Pacific!"
+    "seismicSummary": "Multiple strong M5+ earthquakes just struck across the Pacific region!"
 }
