@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is acutely challenged by a convergence of escalating geopolitical tensions, financial volatility, and heightened physical threats. Geopolitically, ongoing conflict in Eastern Europe continues to destabilize energy markets, while climate change and a looming Super El Ni\u00f1o threaten global food security and drive inflationary pressures, underscored by recent humanitarian crises from seismic events in Venezuela. Financially, despite pockets of growth in specific tech sectors, market volatility, emerging regulatory hurdles for AI, and broader inflationary impacts on consumer costs demand careful navigation. Physically, a discernible uptick in significant seismic activity across diverse regions, including the South Sandwich Islands, East Pacific Rise, and notably near populated areas in the Philippines, indicates a period of heightened tectonic instability. To secure assets and ensure physical safety, we advise three immediate, actionable points: first, strategically diversify and bolster critical supply chains for essential resources to mitigate climate-induced and geopolitical disruptions; second, conduct immediate structural assessments and enhance preparedness protocols for all physical assets, especially in seismically active or vulnerable regions; and third, dynamically re-evaluate investment portfolios, prioritizing resilient sectors while closely monitoring regulatory shifts and geopolitical developments impacting key technologies and global markets.",
+    "strategicPlan": "The current global intelligence landscape indicates a complex and escalating threat profile. Geopolitically, we face increasing economic strain driven by climate change and the impending threat of a Super El Ni\u00f1o potentially triggering a global food crisis, amplified by the humanitarian aftermath of recent tectonic activity in Venezuela and evolving AI regulatory landscapes shaping future economies. Financially, while specific tech sectors like AI (NVDA) show strong performance, broader market volatility (AAPL, AMZN) reflects underlying uncertainty and potential economic shifts. Physically, a notable cluster of moderately strong seismic events across the Pacific Ring of Fire signals a period of elevated tectonic instability, requiring heightened vigilance. To navigate this converging risk environment, we issue the following directive: First, immediately assess and diversify critical assets, including reviewing investment portfolios for resilience against market fluctuations and securing essential provisions for potential supply chain disruptions. Second, update and practice personal and organizational emergency preparedness plans, ensuring all safety kits are stocked and accessible for rapid deployment in the event of natural disasters. Third, maintain vigilant monitoring of evolving climate data, geopolitical developments, and technological legislation to preemptively adapt strategies against emerging threats to both physical safety and financial stability.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
             "link": "https://gizmodo.com/most-americans-say-climate-change-is-making-life-more-expensive-theyre-right-2000771978"
+        },
+        {
+            "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
+            "link": "https://www.wired.com/story/gourmet-dog-food/"
         },
         {
             "title": "Could This Super El Ni\u00f1o Trigger a Global Food Crisis?",
@@ -13,10 +17,6 @@
         {
             "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
             "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
-        },
-        {
-            "title": "How severe is Russia\u2019s energy shortage because of Ukrainian strikes?",
-            "link": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes"
         }
     ],
     "stock": [
@@ -47,35 +47,35 @@
             "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla"
         },
         {
-            "title": "US Army soldiers say you can't just pour AI on new warfighting tech like ranch dressing",
-            "link": "https://www.businessinsider.com/us-army-soldiers-ai-cant-be-poured-warfighting-tech-ranch-2026-6"
-        },
-        {
             "title": "Hollywood is bending the knee to OpenAI",
             "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt"
         },
         {
             "title": "Apple's Price Hikes Aren't Just an AI Problem",
             "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
+        },
+        {
+            "title": "Bernie Sanders\u2019 New AI Bill Would Pay Americans $1,000 a Year",
+            "link": "https://gizmodo.com/bernie-sanders-new-ai-bill-would-pay-americans-1000-a-year-2000773754"
         }
     ],
     "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 6.4 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szpb"
-        },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - southern East Pacific Rise",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 41 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szq0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 56 km SSW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szri"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 89 km NE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szr0"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 241 km NNW of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv"
         }
     ],
-    "seismicSummary": "A Magnitude 6.4 earthquake and multiple other strong quakes (Mag 5+) just occurred worldwide."
+    "seismicSummary": "A 5.5 magnitude earthquake and multiple other moderate quakes are rocking the Pacific Rim."
 }
