@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global environment is marked by a complex interplay of escalating threats. Geopolitically, we face mounting climate-driven economic pressures, exemplified by rising costs and the severe potential for a global food crisis from the Super El Ni\u00f1o, compounded by recent significant humanitarian impacts from earthquakes in Venezuela. Financially, while AI-related sectors like NVIDIA show strong growth, the broader market exhibits volatility, with Apple's price hikes reflecting underlying cost pressures and the nascent, disruptive landscape of AI prompting new regulatory frameworks, as seen with robotaxi laws and UBI proposals. Physically, the active seismic zones in the Pacific Ring of Fire, with multiple recent magnitude 5+ and 6+ earthquakes across Papua New Guinea, the Philippines, and Indonesia, indicate sustained tectonic instability, requiring urgent attention alongside the ongoing recovery needs in Venezuela.\n\nTo mitigate these risks and secure interests, take immediate action: First, review and diversify supply chains and investment portfolios to account for climate-driven commodity price volatility and the potential global food crisis, favoring resilient assets and monitoring the evolving AI sector for both opportunities and regulatory impacts. Second, reinforce physical infrastructure and update emergency preparedness plans, particularly for personnel and assets located within active seismic zones and regions vulnerable to extreme weather events. Third, proactively engage with and monitor emerging AI legislation and technological shifts, preparing for their direct implications on labor markets, industry standards, and operational costs.",
+    "strategicPlan": "The current global intelligence picture reveals a critical convergence of threats: an impending global food crisis fueled by climate change and Super El Ni\u00f1o, exacerbated by economic inflation and regional instability highlighted by the Venezuelan quakes, all while the pervasive influence of AI reshapes markets and regulatory landscapes. Concurrently, a marked increase in significant seismic activity across the Pacific Ring of Fire, including recent major quakes in Papua New Guinea and the Loyalty Islands, signals elevated physical risks. To safeguard assets and ensure physical safety, individuals are directed to immediately establish or replenish emergency food and water reserves; proactively review and fortify physical premises and disaster preparedness plans against both natural calamities and economic shocks; and critically re-evaluate financial portfolios, diversifying investments to mitigate inflation and tech-specific volatilities.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.96 (4.03%)",
+            "title": "\ud83d\udcb0 NVDA: $207.03 (-1.86%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $315.32 (-0.28%)",
+            "title": "\ud83d\udcb0 AAPL: $316.47 (0.36%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $385.1 (0.19%)",
+            "title": "\ud83d\udcb0 MSFT: $391.04 (1.54%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $126.79 (-1.74%)",
+            "title": "\ud83d\udcb0 PLTR: $130.23 (2.71%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $245.34 (-0.69%)",
+            "title": "\ud83d\udcb0 AMZN: $248.39 (1.24%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy"
         },
         {
+            "title": "\u26a0\ufe0f Mag 6.3 - southeast of the Loyalty Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 24 km W of Mabiton, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 192 km WNW of Gorontalo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 27 km SSE of Tambolaka, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq"
+            "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f M6.4 leads multiple strong quakes across Southeast Asia!"
+    "seismicSummary": "Multiple strong earthquakes, including M6.4 and M6.3, have just struck the Pacific region!"
 }
