@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a multi-faceted threat environment where escalating climate-driven inflationary pressures, amplified by a potential Super El Ni\u00f1o-induced global food crisis, are intertwining with a volatile financial landscape characterized by selective AI-driven growth amid broader tech market uncertainty and emerging regulatory debates. Simultaneously, significant seismic activity across the Pacific Ring of Fire, alongside persistent humanitarian needs from quakes in Venezuela, underscores persistent physical vulnerabilities. To mitigate these risks, first, **fortify personal and corporate supply chains against commodity price volatility and climate impacts, with an emphasis on essential provisions.** Second, **urgently review and enhance physical infrastructure resilience and emergency preparedness protocols, particularly for seismic events, ensuring robust communication and evacuation plans.** Third, **strategically re-evaluate investment portfolios for defensive positioning against inflation while selectively engaging with AI advancements, closely monitoring regulatory shifts and their economic implications.**",
+    "strategicPlan": "Strategic Directive: The global environment is marked by a complex interplay of escalating threats. Geopolitically, we face mounting climate-driven economic pressures, exemplified by rising costs and the severe potential for a global food crisis from the Super El Ni\u00f1o, compounded by recent significant humanitarian impacts from earthquakes in Venezuela. Financially, while AI-related sectors like NVIDIA show strong growth, the broader market exhibits volatility, with Apple's price hikes reflecting underlying cost pressures and the nascent, disruptive landscape of AI prompting new regulatory frameworks, as seen with robotaxi laws and UBI proposals. Physically, the active seismic zones in the Pacific Ring of Fire, with multiple recent magnitude 5+ and 6+ earthquakes across Papua New Guinea, the Philippines, and Indonesia, indicate sustained tectonic instability, requiring urgent attention alongside the ongoing recovery needs in Venezuela.\n\nTo mitigate these risks and secure interests, take immediate action: First, review and diversify supply chains and investment portfolios to account for climate-driven commodity price volatility and the potential global food crisis, favoring resilient assets and monitoring the evolving AI sector for both opportunities and regulatory impacts. Second, reinforce physical infrastructure and update emergency preparedness plans, particularly for personnel and assets located within active seismic zones and regions vulnerable to extreme weather events. Third, proactively engage with and monitor emerging AI legislation and technological shifts, preparing for their direct implications on labor markets, industry standards, and operational costs.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.4 - 191 km SE of Lorengau, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 24 km W of Mabiton, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 27 km SSE of Tambolaka, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes rock the Philippines, Indonesia, and Loyalty Islands!"
+    "seismicSummary": "\u26a0\ufe0f M6.4 leads multiple strong quakes across Southeast Asia!"
 }
