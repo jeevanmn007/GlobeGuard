@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly converging risk landscape marked by heightened systemic volatility: a looming global food crisis exacerbated by El Ni\u00f1o and climate change-driven costs; widespread significant seismic activity, particularly across the Pacific Ring of Fire and with ongoing humanitarian impact in Venezuela; and a complex financial environment seeing mixed tech performance alongside AI-driven market shifts and regulatory uncertainties. To secure assets and ensure physical safety, we direct immediate reinforcement of emergency preparedness and evacuation protocols for all personnel and infrastructure in seismically active regions, critical diversification of supply chains and strategic reserves against anticipated resource scarcity and price inflation, and a proactive review of investment portfolios to mitigate risks from evolving AI policy and tech sector volatility.",
+    "strategicPlan": "Current global intelligence indicates a compounding threat matrix: significant seismic activity in the Pacific Ring of Fire signals persistent physical instability, while a potential Super El Ni\u00f1o and escalating climate change costs portend an imminent global food crisis and economic strain, exacerbated by existing humanitarian needs in regions like Venezuela. Concurrently, the rapid evolution of AI technology presents both transformative opportunities and regulatory uncertainties, impacting market dynamics. To navigate this complex environment, GlobeGuard advises immediately diversifying critical asset holdings to mitigate climate-induced economic volatility, reinforcing physical safety protocols and emergency preparedness for severe natural disasters, and securing resilient supply chains for essential goods to buffer against widespread disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,19 +21,19 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.79 (-3.4%)",
+            "title": "\ud83d\udcb0 NVDA: $203.53 (-3.52%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.74 (0.45%)",
+            "title": "\ud83d\udcb0 AAPL: $317.31 (0.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.35 (1.36%)",
+            "title": "\ud83d\udcb0 MSFT: $390.99 (1.53%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $128.48 (1.33%)",
+            "title": "\ud83d\udcb0 PLTR: $130.04 (2.56%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
         }
     ],
-    "seismicSummary": "URGENT: Multiple powerful earthquakes, including M6.4 and M6.3, just hit the Pacific region."
+    "seismicSummary": "Urgent: Multiple strong earthquakes, up to M6.4, strike the Pacific!"
 }
