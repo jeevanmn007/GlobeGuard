@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief indicates a confluence of escalating systemic risks demanding immediate attention. Geopolitically and economically, climate-driven inflationary pressures are tightening consumer budgets, while the looming threat of a Super El Ni\u00f1o-triggered global food crisis poses a severe humanitarian and stability challenge. Financial markets exhibit selective growth, with AI sectors flourishing (NVDA) amidst broader tech volatility and regulatory uncertainty (Apple, Robotaxis, AI UBI proposals). Concurrently, significant M5.0+ seismic activity across the Pacific Ring of Fire, including events near Indonesia and Tonga, alongside ongoing humanitarian needs from Venezuela's quakes, underscores an elevated physical threat landscape. To navigate this complex environment, secure your financial position against inflation and market volatility through diversified, resilient asset allocation; bolster personal and organizational supply chain resilience, especially concerning essential provisions; and critically review and update emergency preparedness plans for potential seismic events and other natural disasters, particularly for assets or personnel located in high-risk zones.",
+    "strategicPlan": "GlobeGuard assesses an escalating global threat landscape, characterized by interconnected geopolitical, financial, and physical tectonic pressures. Climate change and an impending Super El Ni\u00f1o are poised to amplify global food insecurity and cost-of-living increases, while the recent devastating earthquakes in Venezuela highlight immediate humanitarian vulnerabilities. Financially, a selective AI-driven market surge exists amidst broader market volatility and increasing regulatory scrutiny on technology's societal impact, further stressing economic stability. Concurrently, persistent seismic activity, evidenced by multiple Mag 5+ quakes across the Pacific, signals ongoing geohazard risks. To navigate this complex environment, secure your assets by diversifying investment portfolios towards resilience against inflationary pressures and market shifts, fortify physical safety by reviewing and updating disaster preparedness kits and communication plans, and ensure critical supply chain continuity through proactive monitoring and alternative sourcing strategies.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 24 km W of Mabiton, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 192 km WNW of Gorontalo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvv"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 27 km SSE of Tambolaka, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 139 km S of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szuz"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes are striking the Pacific region!"
 }
