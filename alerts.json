@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating global threat landscape, characterized by interconnected geopolitical, financial, and physical tectonic pressures. Climate change and an impending Super El Ni\u00f1o are poised to amplify global food insecurity and cost-of-living increases, while the recent devastating earthquakes in Venezuela highlight immediate humanitarian vulnerabilities. Financially, a selective AI-driven market surge exists amidst broader market volatility and increasing regulatory scrutiny on technology's societal impact, further stressing economic stability. Concurrently, persistent seismic activity, evidenced by multiple Mag 5+ quakes across the Pacific, signals ongoing geohazard risks. To navigate this complex environment, secure your assets by diversifying investment portfolios towards resilience against inflationary pressures and market shifts, fortify physical safety by reviewing and updating disaster preparedness kits and communication plans, and ensure critical supply chain continuity through proactive monitoring and alternative sourcing strategies.",
+    "strategicPlan": "GlobeGuard assesses a multi-faceted threat environment where escalating climate-driven inflationary pressures, amplified by a potential Super El Ni\u00f1o-induced global food crisis, are intertwining with a volatile financial landscape characterized by selective AI-driven growth amid broader tech market uncertainty and emerging regulatory debates. Simultaneously, significant seismic activity across the Pacific Ring of Fire, alongside persistent humanitarian needs from quakes in Venezuela, underscores persistent physical vulnerabilities. To mitigate these risks, first, **fortify personal and corporate supply chains against commodity price volatility and climate impacts, with an emphasis on essential provisions.** Second, **urgently review and enhance physical infrastructure resilience and emergency preparedness protocols, particularly for seismic events, ensuring robust communication and evacuation plans.** Third, **strategically re-evaluate investment portfolios for defensive positioning against inflation while selectively engaging with AI advancements, closely monitoring regulatory shifts and their economic implications.**",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szu6"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 24 km W of Mabiton, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 27 km SSE of Tambolaka, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szvq"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes are striking the Pacific region!"
+    "seismicSummary": "Multiple M5+ earthquakes rock the Philippines, Indonesia, and Loyalty Islands!"
 }
