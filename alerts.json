@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by a critical confluence of climate-driven economic instability, a deepening food security crisis, and heightened geophysical activity. Climate change is demonstrably increasing living costs, a threat potentially amplified into a global food crisis by a Super El Ni\u00f1o, while significant seismic events continue along the Pacific Ring of Fire, with recent devastating quakes in Venezuela serving as a stark reminder of tectonic vulnerabilities. Financially, while parts of the tech sector exhibit resilience, the significant dip in NVIDIA and broader market discussions around AI policy and Apple's pricing indicate underlying volatility and strategic shifts. To navigate this complex and elevated risk environment, GlobeGuard advises three immediate, critical actions: Firstly, **prioritize securing diversified local and regional food and water reserves**, recognizing the impending El Ni\u00f1o and climate impact on supply chains. Secondly, **conduct a comprehensive review and update of all emergency preparedness protocols and physical infrastructure assessments**, particularly for seismic resilience in vulnerable areas. Finally, **strategically re-evaluate investment portfolios, hedging against climate-induced inflation and tech sector volatility**, with a focus on resilient assets and critical infrastructure given ongoing AI policy debates and market fluctuations.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging risk landscape marked by heightened systemic volatility: a looming global food crisis exacerbated by El Ni\u00f1o and climate change-driven costs; widespread significant seismic activity, particularly across the Pacific Ring of Fire and with ongoing humanitarian impact in Venezuela; and a complex financial environment seeing mixed tech performance alongside AI-driven market shifts and regulatory uncertainties. To secure assets and ensure physical safety, we direct immediate reinforcement of emergency preparedness and evacuation protocols for all personnel and infrastructure in seismically active regions, critical diversification of supply chains and strategic reserves against anticipated resource scarcity and price inflation, and a proactive review of investment portfolios to mitigate risks from evolving AI policy and tech sector volatility.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.66 (-3.46%)",
+            "title": "\ud83d\udcb0 NVDA: $203.79 (-3.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.07 (0.24%)",
+            "title": "\ud83d\udcb0 AAPL: $316.74 (0.45%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $391.84 (1.75%)",
+            "title": "\ud83d\udcb0 MSFT: $390.35 (1.36%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $128.8 (1.59%)",
+            "title": "\ud83d\udcb0 PLTR: $128.48 (1.33%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.0 (1.08%)",
+            "title": "\ud83d\udcb0 AMZN: $247.31 (0.8%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
         }
     ],
-    "seismicSummary": "Multiple major earthquakes, including a 6.4 and 6.3, just hit the SW Pacific!"
+    "seismicSummary": "URGENT: Multiple powerful earthquakes, including M6.4 and M6.3, just hit the Pacific region."
 }
