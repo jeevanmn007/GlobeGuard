@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a critical convergence of threats: an impending global food crisis fueled by climate change and Super El Ni\u00f1o, exacerbated by economic inflation and regional instability highlighted by the Venezuelan quakes, all while the pervasive influence of AI reshapes markets and regulatory landscapes. Concurrently, a marked increase in significant seismic activity across the Pacific Ring of Fire, including recent major quakes in Papua New Guinea and the Loyalty Islands, signals elevated physical risks. To safeguard assets and ensure physical safety, individuals are directed to immediately establish or replenish emergency food and water reserves; proactively review and fortify physical premises and disaster preparedness plans against both natural calamities and economic shocks; and critically re-evaluate financial portfolios, diversifying investments to mitigate inflation and tech-specific volatilities.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a critical confluence of climate-driven economic instability, a deepening food security crisis, and heightened geophysical activity. Climate change is demonstrably increasing living costs, a threat potentially amplified into a global food crisis by a Super El Ni\u00f1o, while significant seismic events continue along the Pacific Ring of Fire, with recent devastating quakes in Venezuela serving as a stark reminder of tectonic vulnerabilities. Financially, while parts of the tech sector exhibit resilience, the significant dip in NVIDIA and broader market discussions around AI policy and Apple's pricing indicate underlying volatility and strategic shifts. To navigate this complex and elevated risk environment, GlobeGuard advises three immediate, critical actions: Firstly, **prioritize securing diversified local and regional food and water reserves**, recognizing the impending El Ni\u00f1o and climate impact on supply chains. Secondly, **conduct a comprehensive review and update of all emergency preparedness protocols and physical infrastructure assessments**, particularly for seismic resilience in vulnerable areas. Finally, **strategically re-evaluate investment portfolios, hedging against climate-induced inflation and tech sector volatility**, with a focus on resilient assets and critical infrastructure given ongoing AI policy debates and market fluctuations.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.03 (-1.86%)",
+            "title": "\ud83d\udcb0 NVDA: $203.66 (-3.46%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.47 (0.36%)",
+            "title": "\ud83d\udcb0 AAPL: $316.07 (0.24%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $391.04 (1.54%)",
+            "title": "\ud83d\udcb0 MSFT: $391.84 (1.75%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.23 (2.71%)",
+            "title": "\ud83d\udcb0 PLTR: $128.8 (1.59%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.39 (1.24%)",
+            "title": "\ud83d\udcb0 AMZN: $248.0 (1.08%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
         },
         {
-            "title": "Bernie Sanders\u2019 New AI Bill Would Pay Americans $1,000 a Year",
-            "link": "https://gizmodo.com/bernie-sanders-new-ai-bill-would-pay-americans-1000-a-year-2000773754"
+            "title": "Opinion - Congress should share, not shield, US artificial intelligence tech",
+            "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e85f39d-ecba-4791-9143-2c7998359584"
         }
     ],
     "seismic": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szyr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
+            "title": "\u26a0\ufe0f Mag 5.1 - southeast of the Loyalty Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including M6.4 and M6.3, have just struck the Pacific region!"
+    "seismicSummary": "Multiple major earthquakes, including a 6.4 and 6.3, just hit the SW Pacific!"
 }
