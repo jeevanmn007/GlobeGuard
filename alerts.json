@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex nexus of escalating systemic risks: geopolitical stability is strained by imminent global food security crises due to extreme climate patterns and the lingering humanitarian aftermath of regional seismic events in vulnerable nations like Venezuela. Financially, while major tech sectors show varied performance, the rapid evolution and regulatory scrutiny of Artificial Intelligence are driving significant market reconfigurations, impacting key valuations and necessitating strategic adaptation. Physically, persistent and notable seismic activity, particularly across the Pacific Ring of Fire, underscores an enduring threat of major geological disruption. Therefore, prioritize an immediate audit of critical supply chains against potential food and resource scarcity; proactively assess and mitigate financial and operational exposures to the evolving AI regulatory and market landscape; and critically review and reinforce disaster preparedness protocols and asset security measures, especially in seismically active operational zones.",
+    "strategicPlan": "The global posture is defined by escalating, interconnected risks across multiple domains. Geopolitically, a potential global food crisis from a Super El Ni\u00f1o and persistent climate change is driving increased living costs, while financial markets exhibit volatility driven by AI trends and regulatory uncertainty, impacting major tech stocks. Physically, the planet is experiencing significant tectonic instability, evidenced by multiple strong earthquakes globally, including a 5.6 magnitude event in Peru, compounding humanitarian concerns from recent Venezuelan quakes. To secure assets and physical safety, we advise three immediate actions: first, thoroughly review and update emergency preparedness and earthquake safety protocols for all residences and critical infrastructure; second, strategically diversify financial portfolios to mitigate market volatility and potential commodity shocks; and third, assess and fortify personal and operational supply chains against potential food and resource disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.53 (-3.52%)",
+            "title": "\ud83d\udcb0 NVDA: $205.1 (0.77%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $317.31 (0.63%)",
+            "title": "\ud83d\udcb0 AAPL: $314.28 (-0.95%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.99 (1.53%)",
+            "title": "\ud83d\udcb0 MSFT: $385.39 (-1.43%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $130.04 (2.56%)",
+            "title": "\ud83d\udcb0 PLTR: $130.87 (0.64%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $247.31 (0.8%)",
+            "title": "\ud83d\udcb0 AMZN: $246.27 (-0.42%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 14 km WSW of Mabiton, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m"
+            "title": "\u26a0\ufe0f Mag 5.3 - 96 km SE of False Pass, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - southeast of the Loyalty Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
+            "title": "\u26a0\ufe0f Mag 5.2 - 14 km WSW of Mabiton, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes, including a M6.3, just hit globally!"
+    "seismicSummary": "Alert: Multiple significant earthquakes, including a Mag 6.3, have struck globally!"
 }
