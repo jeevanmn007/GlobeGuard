@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk landscape is complex and escalating, marked by a critical convergence of climate-induced economic pressures, heightened tectonic instability, and a volatile, AI-driven technological frontier. Persistent climate change is driving increased costs and threatening a global food crisis via Super El Ni\u00f1o, while significant seismic activity, exemplified by recent quakes in the Philippines, Peru, and Alaska, underscores widespread physical vulnerabilities and ongoing humanitarian needs, as seen in Venezuela. Financially, major tech players are facing headwinds, even as AI leaders show growth, highlighting a bifurcated market influenced by regulatory challenges and integration costs. To navigate this environment, immediate action is required: First, **fortify essential supply chains and local resource resilience** against climate shocks and potential food insecurity. Second, **bolster physical infrastructure and emergency preparedness protocols**, ensuring robust supplies for potential seismic events. Third, **strategically re-evaluate investment portfolios**, diversifying to hedge against economic volatility while positioning for evolving AI and tech landscapes.",
+    "strategicPlan": "The global environment indicates a critical convergence of escalating risks. Economically, climate change is driving inflation, and the potential for a Super El Ni\u00f1o-triggered global food crisis poses a severe threat, even as the AI sector sees significant growth alongside regulatory uncertainties and broader tech market volatility. Geopolitically, the ongoing humanitarian crisis in Venezuela following recent seismic activity underscores regional fragility. Physically, the Pacific Ring of Fire remains highly active, evidenced by significant recent earthquakes in the Philippines, Peru, and Alaska, signaling persistent tectonic instability. To navigate this complex landscape, secure financial stability by diversifying investments towards resilient assets and commodities, mitigating exposure to highly speculative tech; bolster personal and household readiness by establishing robust emergency provisions of food and water to withstand potential supply chain shocks; and immediately review and reinforce physical safety protocols and earthquake preparedness plans for all personnel and assets located within active seismic zones.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.44 (3.89%)",
+            "title": "\ud83d\udcb0 NVDA: $211.63 (3.98%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.89 (-0.76%)",
+            "title": "\ud83d\udcb0 AAPL: $315.36 (-0.61%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $386.62 (-1.12%)",
+            "title": "\ud83d\udcb0 MSFT: $385.66 (-1.36%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.56 (2.71%)",
+            "title": "\ud83d\udcb0 PLTR: $133.82 (2.91%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.01 (-0.53%)",
+            "title": "\ud83d\udcb0 AMZN: $247.63 (0.13%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 96 km SE of False Pass, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5"
+            "title": "\u26a0\ufe0f Mag 5.4 - 90 km SSE of False Pass, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 14 km WSW of Mabiton, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m"
+            "title": "\u26a0\ufe0f Mag 5.3 - 96 km SE of False Pass, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes, including a 6.2 in the Philippines, are striking globally."
+    "seismicSummary": "Mag 6.2 quake strikes Philippines, with other significant quakes reported in Peru and Alaska!"
 }
