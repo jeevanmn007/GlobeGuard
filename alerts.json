@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex, interconnected threat matrix: escalating climate change impacts are driving economic burden and increasing the risk of a global food crisis, further compounded by mixed financial performance in key tech sectors where AI-driven growth coexists with market volatility and regulatory challenges. Concurrently, a heightened state of physical vulnerability is evident from significant M5+ seismic activity across multiple global regions, including Peru, Alaska, and the Philippines, mirroring the recent humanitarian crisis following quakes in Venezuela. To mitigate these interwoven risks, we direct the following actions: first, immediately diversify asset portfolios, mitigating exposure to volatile tech sectors while fortifying critical supply chains against climate-induced disruptions. Second, enhance physical safety by reinforcing all emergency preparedness protocols, with a sharp focus on seismic readiness and resilient communication strategies for at-risk personnel and infrastructure. Third, prioritize continuous, high-fidelity intelligence gathering on climate impact assessments, food security indicators, and emerging AI regulatory frameworks to ensure proactive strategic adaptation.",
+    "strategicPlan": "The global risk landscape is complex and escalating, marked by a critical convergence of climate-induced economic pressures, heightened tectonic instability, and a volatile, AI-driven technological frontier. Persistent climate change is driving increased costs and threatening a global food crisis via Super El Ni\u00f1o, while significant seismic activity, exemplified by recent quakes in the Philippines, Peru, and Alaska, underscores widespread physical vulnerabilities and ongoing humanitarian needs, as seen in Venezuela. Financially, major tech players are facing headwinds, even as AI leaders show growth, highlighting a bifurcated market influenced by regulatory challenges and integration costs. To navigate this environment, immediate action is required: First, **fortify essential supply chains and local resource resilience** against climate shocks and potential food insecurity. Second, **bolster physical infrastructure and emergency preparedness protocols**, ensuring robust supplies for potential seismic events. Third, **strategically re-evaluate investment portfolios**, diversifying to hedge against economic volatility while positioning for evolving AI and tech landscapes.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.79 (2.59%)",
+            "title": "\ud83d\udcb0 NVDA: $211.44 (3.89%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.68 (-0.83%)",
+            "title": "\ud83d\udcb0 AAPL: $314.89 (-0.76%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $385.61 (-1.38%)",
+            "title": "\ud83d\udcb0 MSFT: $386.62 (-1.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.26 (0.94%)",
+            "title": "\ud83d\udcb0 PLTR: $133.56 (2.71%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $245.77 (-0.62%)",
+            "title": "\ud83d\udcb0 AMZN: $246.01 (-0.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.2 - 34 km WSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 11 km N of Pichigua, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 14 km WSW of Mabiton, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 3 km NNW of Sugal, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0bm"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes just struck Peru, Alaska, and the Philippines!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes, including a 6.2 in the Philippines, are striking globally."
 }
