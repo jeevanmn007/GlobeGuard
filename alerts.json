@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current intelligence assessment reveals a critical convergence of threats: a high probability of a global food crisis driven by the Super El Ni\u00f1o and exacerbated by climate change-induced cost increases and geopolitical instability, as observed in post-quake Venezuela. This economic and social volatility is underscored by heightened global seismic activity, with recent significant 6.0+ magnitude earthquakes signaling acute physical risks and infrastructure vulnerabilities across multiple regions. Concurrently, the financial landscape remains complex, with the tech sector navigating both the opportunities and regulatory challenges of AI, evidenced by market fluctuations and legislative debates impacting major players like NVDA and Tesla. Given this multifaceted risk environment, immediate and decisive action is paramount: First, prioritize the robust procurement and storage of essential provisions, including food, water, and medical supplies, while fortifying critical supply chain resilience. Second, mandate an urgent, comprehensive review and enhancement of all disaster preparedness protocols, with particular emphasis on seismic event response, facility integrity, and secure communication channels. Third, strategically re-evaluate financial portfolios, diversifying into resilient infrastructure and essential commodities, while prudently managing exposure to regions and industries most susceptible to climate-driven shocks and evolving tech regulations.",
+    "strategicPlan": "The global environment presents a multi-dimensional threat convergence: escalating climate-driven economic pressures, highlighted by a looming Super El Ni\u00f1o-induced food crisis, intersect with a period of significant tectonic instability evidenced by multiple M5-6 quakes across the Pacific and South America, alongside ongoing humanitarian crises from prior seismic events. Financially, while parts of the tech sector show resilience, regulatory shifts in AI and broader inflationary trends warrant caution. GlobeGuard's immediate directive is threefold: first, fortify personal and organizational food security by diversifying supply chains and closely monitoring agricultural market forecasts; second, rigorously assess and upgrade physical safety protocols, including structural resilience and emergency preparedness plans for seismic events; and third, strategically re-evaluate financial portfolios, prioritizing liquid assets and hedging against climate-related economic shocks and evolving AI regulatory impacts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.4 - 191 km SE of Lorengau, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6.3 - southeast of the Loyalty Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - southeast of the Loyalty Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
+            "title": "\u26a0\ufe0f Mag 5.6 - 11 km N of Pichigua, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0a3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 2 km WSW of Congregaci\u00f3n Reforma, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s"
+            "title": "\u26a0\ufe0f Mag 5.2 - 14 km WSW of Mabiton, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - southeast of the Loyalty Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t02f"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including M6.4 (Papua New Guinea) and M6.3 (Loyalty Islands), just struck, with an M5 also reported in Mexico!"
+    "seismicSummary": "URGENT: A M6.3 earthquake struck near the Loyalty Islands, with multiple M5+ quakes also reported globally!"
 }
