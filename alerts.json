@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Global intelligence indicates a complex and escalating threat landscape characterized by convergent geopolitical, financial, and physical tectonic pressures. Climate change and the Super El Ni\u00f1o intensify economic strain and food security risks, while significant global seismic activity, mirrored by recent humanitarian crises from Venezuela's quakes, underscores persistent geological instability and physical vulnerability. Though major tech markets show resilience, regulatory friction around AI and data centers, coupled with underlying inflationary pressures, hint at growing systemic volatility. To secure assets and ensure physical safety, first, prioritize robust disaster preparedness by reviewing emergency protocols, fortifying physical infrastructure against environmental shocks, and securing diverse, localized food and resource supply chains, especially in seismically active or climate-vulnerable regions. Second, strategically diversify investment portfolios beyond concentrated tech plays, acknowledging regulatory headwinds for emerging technologies and the increasing operational costs driven by climate and energy policies. Finally, proactively assess and mitigate vulnerabilities across digital and physical assets, emphasizing adaptive capacity and redundant systems to navigate both rapid technological shifts and unpredictable global events.",
+    "strategicPlan": "The global intelligence landscape reveals a critical convergence of threats: accelerating climate-induced economic pressures and potential food supply chain vulnerabilities, further complicated by an impending Super El Ni\u00f1o event, while persistent seismic activity, highlighted by recent M5+ quakes in diverse regions like Chile, maintains an underlying physical hazard. While major tech markets show resilience, localized regulatory shifts introduce new uncertainties. Therefore, to secure your assets and physical safety, immediately diversify your financial portfolio, especially within resilient tech sectors, while simultaneously bolstering your personal and family emergency preparedness, including a comprehensive earthquake kit and critical document security, given the elevated seismic threat. Concurrently, proactively assess your food and essential supplies, building a robust stock against climate-driven price hikes and potential Super El Ni\u00f1o disruptions, and stay vigilant on regional regulatory shifts that could impact local services and costs.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 190 km SSE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 52 km NNW of Valpara\u00edso, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just struck worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes, topped by a 5.7 near the South Sandwich Islands, just struck globally!"
 }
