@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "**STRATEGIC DIRECTIVE**\n\nThe current global risk landscape is escalating, marked by a critical confluence of geopolitical, financial, and physical threats. The impending Super El Ni\u00f1o poses a significant risk of a global food crisis, compounded by climate change driving up essential costs and fueling regional instability, as seen in Venezuela's ongoing humanitarian crisis post-earthquakes. While key tech sectors show robust growth, broader inflationary pressures are tightening, and we observe a pronounced period of heightened global tectonic activity with multiple significant seismic events reported worldwide, from the Philippines to Alaska. This necessitates immediate and decisive action. To secure your assets and physical safety, first, immediately review and diversify critical resource stockpiles, prioritizing food and water, to mitigate supply chain disruptions and price volatility. Second, elevate physical safety protocols by establishing and rehearsing comprehensive disaster response plans, ensuring all emergency kits are fully stocked given the elevated global seismic risk. Third, conduct a thorough audit of your financial and digital assets, strategically fortifying positions against economic volatility and preparing for societal shifts influenced by rapidly evolving AI regulation and technological integration.",
+    "strategicPlan": "The global landscape is demonstrating a convergence of escalating environmental, economic, and geophysical instability. Climate-driven inflationary pressures, exacerbated by a potential Super El Ni\u00f1o and its implications for a global food crisis, are creating significant economic headwinds. Concurrently, the technology sector navigates regulatory scrutiny and shifting market dynamics, evidenced by selective stock performance and policy challenges, while recent major seismic events across multiple active zones, including the ongoing humanitarian crisis in Venezuela, underscore a volatile physical environment. Therefore, Globesecure clients must: 1. Secure financial portfolios through diversification, prioritizing resilience against climate-induced inflation and supply chain disruptions, particularly in critical commodities. 2. Enhance personal and organizational emergency preparedness, focusing on robust provisions for food, water, and essential supplies given the escalating climate threats and heightened seismic activity. 3. Maintain acute situational awareness of local and global supply chain health, climate policy shifts, and geological warnings, adapting contingency plans proactively.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.23 (-1.21%)",
+            "title": "\ud83d\udcb0 NVDA: $208.97 (-1.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $326.96 (3.84%)",
+            "title": "\ud83d\udcb0 AAPL: $326.72 (3.77%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $397.3 (3.21%)",
+            "title": "\ud83d\udcb0 MSFT: $395.44 (2.73%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.61 (0.67%)",
+            "title": "\ud83d\udcb0 PLTR: $133.46 (-0.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.78 (3.35%)",
+            "title": "\ud83d\udcb0 AMZN: $254.69 (2.91%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -51,19 +51,15 @@
             "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt"
         },
         {
-            "title": "Apple's Price Hikes Aren't Just an AI Problem",
-            "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
+            "title": "New York Issues the Nation\u2019s First Statewide Moratorium on New Large Data Centers",
+            "link": "https://gizmodo.com/new-york-issues-the-nations-first-statewide-moratorium-on-new-large-data-centers-2000785420"
         },
         {
-            "title": "Opinion - Congress should share, not shield, US artificial intelligence tech",
-            "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e85f39d-ecba-4791-9143-2c7998359584"
+            "title": "Apple's Price Hikes Aren't Just an AI Problem",
+            "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
         }
     ],
     "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 6.2 - 34 km WSW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0"
-        },
         {
             "title": "\u26a0\ufe0f Mag 5.7 - east of the South Sandwich Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng"
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 90 km SSE of False Pass, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 190 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
         }
     ],
-    "seismicSummary": "Major 6.2 quake hits Sarangani, Philippines, amid multiple significant global tremors!"
+    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide!"
 }
