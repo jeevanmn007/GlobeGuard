@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our intelligence indicates a converging threat landscape marked by intensifying environmental and geopolitical stressors, alongside significant technological shifts and elevated seismic activity. Financially, while key AI-driven tech sectors maintain robust performance, the direct economic impact of climate change is driving increased costs of living, and a looming Super El Ni\u00f1o poses a critical threat of a global food crisis, creating widespread inflationary pressure and potential resource instability. Geopolitically, the humanitarian aftermath of recent seismic events in Venezuela underscores regional vulnerabilities, while the rapid evolution of AI technology presents both market opportunities and regulatory challenges. Concurrently, a discernible pattern of moderate-to-strong seismic activity across the Pacific Ring of Fire signifies a period of heightened geological instability demanding vigilance. To secure your position, we advise three immediate actions: Firstly, **diversify financial assets** into sectors resilient to climate-induced supply chain disruptions and inflationary pressures, while strategically assessing exposure to rapidly evolving AI markets and regulatory changes. Secondly, **fortify physical safety protocols** by ensuring robust emergency preparedness plans, including updated disaster kits and evacuation routes, are in place for all personnel and critical infrastructure, particularly in seismically active zones or regions prone to environmental instability. Thirdly, **stress-test and localize critical supply chains**, developing contingency plans for essential resources like food and energy, to mitigate the impact of potential climate-driven shortages or geographically localized disruptions.",
+    "strategicPlan": "**STRATEGIC DIRECTIVE**\n\nThe current global risk landscape is escalating, marked by a critical confluence of geopolitical, financial, and physical threats. The impending Super El Ni\u00f1o poses a significant risk of a global food crisis, compounded by climate change driving up essential costs and fueling regional instability, as seen in Venezuela's ongoing humanitarian crisis post-earthquakes. While key tech sectors show robust growth, broader inflationary pressures are tightening, and we observe a pronounced period of heightened global tectonic activity with multiple significant seismic events reported worldwide, from the Philippines to Alaska. This necessitates immediate and decisive action. To secure your assets and physical safety, first, immediately review and diversify critical resource stockpiles, prioritizing food and water, to mitigate supply chain disruptions and price volatility. Second, elevate physical safety protocols by establishing and rehearsing comprehensive disaster response plans, ensuring all emergency kits are fully stocked given the elevated global seismic risk. Third, conduct a thorough audit of your financial and digital assets, strategically fortifying positions against economic volatility and preparing for societal shifts influenced by rapidly evolving AI regulation and technological integration.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.13 (3.73%)",
+            "title": "\ud83d\udcb0 NVDA: $209.23 (-1.21%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $320.92 (1.14%)",
+            "title": "\ud83d\udcb0 AAPL: $326.96 (3.84%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.76 (-0.06%)",
+            "title": "\ud83d\udcb0 MSFT: $397.3 (3.21%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.17 (-0.41%)",
+            "title": "\ud83d\udcb0 PLTR: $134.61 (0.67%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.46 (1.68%)",
+            "title": "\ud83d\udcb0 AMZN: $255.78 (3.35%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - east of the South Sandwich Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - Fiji region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 90 km SSE of False Pass, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 190 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
         }
     ],
-    "seismicSummary": "**URGENT: A Mag 6.2 earthquake just struck the Philippines, with multiple other strong quakes reported worldwide!**"
+    "seismicSummary": "Major 6.2 quake hits Sarangani, Philippines, amid multiple significant global tremors!"
 }
