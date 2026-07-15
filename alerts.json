@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is demonstrating a convergence of escalating environmental, economic, and geophysical instability. Climate-driven inflationary pressures, exacerbated by a potential Super El Ni\u00f1o and its implications for a global food crisis, are creating significant economic headwinds. Concurrently, the technology sector navigates regulatory scrutiny and shifting market dynamics, evidenced by selective stock performance and policy challenges, while recent major seismic events across multiple active zones, including the ongoing humanitarian crisis in Venezuela, underscore a volatile physical environment. Therefore, Globesecure clients must: 1. Secure financial portfolios through diversification, prioritizing resilience against climate-induced inflation and supply chain disruptions, particularly in critical commodities. 2. Enhance personal and organizational emergency preparedness, focusing on robust provisions for food, water, and essential supplies given the escalating climate threats and heightened seismic activity. 3. Maintain acute situational awareness of local and global supply chain health, climate policy shifts, and geological warnings, adapting contingency plans proactively.",
+    "strategicPlan": "The global landscape demands immediate strategic reassessment, driven by a confluence of escalating threats. Geopolitically, the specter of a global food crisis due to a Super El Ni\u00f1o, exacerbated by climate change-induced cost-of-living increases, poses a severe and imminent risk to societal stability and economic well-being, as evidenced by ongoing humanitarian needs post-Venezuela quakes. Financially, while key tech stocks exhibit mixed performance, regulatory headwinds impacting critical sectors like autonomous transport and data infrastructure, coupled with broader inflationary pressures, suggest underlying market volatility. Concurrently, persistent global tectonic instability, highlighted by recent widespread M5+ seismic activity, underscores the enduring physical threat to infrastructure and populations. To secure assets and physical safety, we recommend three critical actions: first, immediately audit and diversify essential resource procurement, prioritizing food and energy resilience; second, re-evaluate investment portfolios for exposure to climate-vulnerable sectors and regulatory shifts in technology, prioritizing asset liquidity and diversification; and third, strengthen emergency preparedness protocols and physical infrastructure assessments, particularly in regions prone to seismic events and climate extremes.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.97 (-1.34%)",
+            "title": "\ud83d\udcb0 NVDA: $210.79 (-0.47%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $326.72 (3.77%)",
+            "title": "\ud83d\udcb0 AAPL: $327.84 (4.12%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $395.44 (2.73%)",
+            "title": "\ud83d\udcb0 MSFT: $395.71 (2.8%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $133.46 (-0.19%)",
+            "title": "\ud83d\udcb0 PLTR: $133.42 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.69 (2.91%)",
+            "title": "\ud83d\udcb0 AMZN: $254.47 (2.82%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 90 km SSE of False Pass, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 190 km SSE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 52 km NNW of Valpara\u00edso, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Four M5+ earthquakes just struck globally!"
 }
