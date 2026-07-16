@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by a critical confluence of escalating physical, geopolitical, and economic pressures. High-frequency seismic activity across the Pacific and Atlantic basins, coupled with the recent humanitarian crisis in Venezuela, signals heightened tectonic instability, while a looming Super El Ni\u00f1o threatens a global food crisis and exacerbates climate-driven inflation. Despite robust performance in key tech sector stocks, emerging regulatory challenges in AI and data centers, alongside broader cost-of-living increases, suggest underlying economic vulnerabilities. To navigate this complex environment, we must prioritize: (1) Immediate review and reinforcement of emergency preparedness protocols, including securing critical infrastructure and establishing robust emergency supply caches, especially in seismically active or climate-vulnerable regions. (2) Proactive diversification of essential supply chains, focusing on resilience against climate shocks and geopolitical instability, while exploring localized sourcing options to mitigate food security risks. (3) Strategic re-evaluation of investment portfolios, emphasizing sectors resilient to climate-induced economic pressures and regulatory shifts, while maintaining vigilance on market trends in high-growth technology.",
+    "strategicPlan": "GlobeGuard assesses a multi-faceted global risk landscape characterized by escalating climate-driven economic pressures, highlighted by the looming threat of a Super El Ni\u00f1o-induced global food crisis, set against a backdrop of robust yet increasingly regulated tech markets and notably elevated global seismic activity with multiple M5+ quakes across active zones, compounded by recent regional devastation in Venezuela. To navigate this complex environment, prioritize securing essential commodity reserves and diversifying food supply chains against potential shortages; re-evaluate investment portfolios for resilience against inflation and supply chain disruptions, prioritizing liquid assets and hedging against commodity price volatility; and conduct immediate physical infrastructure vulnerability assessments, especially in seismically active regions, while updating natural disaster emergency response protocols.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - 42 km NNW of Te Anau, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0xb"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.8 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 106 km NNW of Aleknagik, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyeobt"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes just struck worldwide!"
+    "seismicSummary": "Four significant earthquakes (Mag 5.5+) have struck globally!"
 }
