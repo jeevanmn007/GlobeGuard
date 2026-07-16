@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a critical convergence of threats: accelerating climate-induced economic pressures and potential food supply chain vulnerabilities, further complicated by an impending Super El Ni\u00f1o event, while persistent seismic activity, highlighted by recent M5+ quakes in diverse regions like Chile, maintains an underlying physical hazard. While major tech markets show resilience, localized regulatory shifts introduce new uncertainties. Therefore, to secure your assets and physical safety, immediately diversify your financial portfolio, especially within resilient tech sectors, while simultaneously bolstering your personal and family emergency preparedness, including a comprehensive earthquake kit and critical document security, given the elevated seismic threat. Concurrently, proactively assess your food and essential supplies, building a robust stock against climate-driven price hikes and potential Super El Ni\u00f1o disruptions, and stay vigilant on regional regulatory shifts that could impact local services and costs.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a critical convergence of escalating geopolitical and economic vulnerabilities, persistent physical threats, and rapidly evolving technological regulatory landscapes. Climate change continues to drive increased living costs and the looming threat of a Super El Ni\u00f1o-induced global food crisis, while recent humanitarian crises from seismic events in regions like Venezuela underscore the immediate physical risks exacerbated by ongoing moderate-to-strong seismic activity across multiple global fault lines. Despite robust performance in key tech sectors, underlying cost pressures and increasing regulatory scrutiny signal a complex operational environment. To secure assets and ensure physical safety, prioritize immediate diversification and hardening of critical supply chains for food and essential resources; strategically rebalance financial portfolios toward inflation-resilient assets while maintaining substantial liquidity; and comprehensively review and reinforce emergency preparedness plans, including physical infrastructure resilience and communication protocols for both seismic events and climate-driven disruptions.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - east of the South Sandwich Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ng"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 190 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
+            "title": "\u26a0\ufe0f Mag 4.9 - 106 km NNW of Aleknagik, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyeobt"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 52 km NNW of Valpara\u00edso, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
+            "title": "\u26a0\ufe0f Mag 4.8 - 110 km SW of Basco, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0uy"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes, topped by a 5.7 near the South Sandwich Islands, just struck globally!"
+    "seismicSummary": "Multiple strong earthquakes detected globally, led by a Mag 5.8 near Fiji."
 }
