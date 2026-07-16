@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our intelligence indicates an escalating confluence of global risks. Geopolitically, the warning of a 'Super El Ni\u00f1o' portending a global food crisis, amplified by climate change-driven cost increases and recent humanitarian needs from Venezuelan quakes, signals severe environmental and societal pressures. Financially, while key tech stocks show mixed performance, underlying inflationary pressures and sector-specific shifts (like AI-related price hikes and data center moratoriums) warrant caution. Critically, widespread moderate-to-strong seismic activity across the Pacific Ring of Fire, including New Zealand, Fiji, Japan, and Alaska, points to a period of heightened geophysical instability. To mitigate these threats, immediately diversify and secure essential food and supply chain resources, fortify physical assets and update emergency protocols in seismically active zones, and strategically re-evaluate investment portfolios for resilience against both market volatility and climate-induced economic disruption.",
+    "strategicPlan": "The global risk landscape is intensifying, marked by concurrent geopolitical, financial, and physical threats. Geopolitically, the potential for a Super El Ni\u00f1o to trigger a global food crisis, alongside the direct economic strain of climate change and the ongoing humanitarian needs from the Venezuela quakes, demands critical attention. Financially, a mixed tech market faces headwinds from regulatory shifts like New York's data center moratorium and broader cost pressures, signaling a complex investment environment. Physically, recent Magnitude 5+ seismic activity across New Zealand, Fiji, Japan, and Alaska underscores persistent global tectonic instability, reinforcing the need for vigilance. To secure assets and physical safety, prioritize diversifying essential resources and hardening supply chains against climate and geopolitical disruptions, immediately review and update personal and family disaster preparedness protocols for seismic events, and maintain a close watch on evolving regulatory environments impacting key economic sectors.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.58 (-2.79%)",
+            "title": "\ud83d\udcb0 NVDA: $206.89 (-2.64%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.15 (1.12%)",
+            "title": "\ud83d\udcb0 AAPL: $331.33 (1.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $400.43 (1.21%)",
+            "title": "\ud83d\udcb0 MSFT: $403.55 (2.0%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.62 (-0.85%)",
+            "title": "\ud83d\udcb0 PLTR: $134.12 (0.27%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.4 (0.17%)",
+            "title": "\ud83d\udcb0 AMZN: $254.54 (-0.16%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck across New Zealand, Fiji, Japan, and Alaska!"
+    "seismicSummary": "**Multiple strong earthquakes, up to Mag 5.9 in New Zealand, are striking around the globe!**"
 }
