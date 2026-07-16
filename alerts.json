@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat level is significantly elevated, driven by a complex interplay of escalating climate-induced economic pressures, persistent seismic instability, and rapid technological shifts. Financially, climate change is contributing to inflation and the specter of a Super El Ni\u00f1o looms as a potential trigger for a global food crisis, while the tech sector experiences both growth and regulatory friction, as seen in data center moratoriums and evolving AI integration. Geopolitically, the recent, devastating earthquakes in Venezuela highlight the severe humanitarian consequences of natural disasters. Physically, a cluster of significant seismic events exceeding magnitude 5 in the Pacific Ring of Fire indicates ongoing geological volatility. To mitigate these multifaceted risks, immediately secure your physical safety by updating emergency preparedness kits and family evacuation plans, diversify essential assets and investments to build resilience against economic volatility and supply chain disruptions, and maintain vigilance by continuously monitoring regional seismic and climatic advisories for proactive adaptation.",
+    "strategicPlan": "The global environment presents a complex interplay of escalating systemic risks, requiring immediate strategic recalibration. Geopolitically, the convergence of climate change-driven cost inflation, the impending threat of a Super El Ni\u00f1o-induced global food crisis, and the ongoing humanitarian fallout from Venezuela's recent quakes signals significant resource and stability challenges. Financially, while major tech stocks show mixed performance with some key dips (NVDA, AMZN), the sector faces growing regulatory pressures (data centers, robotaxis) and cost increases (Apple), even as AI's influence expands. Crucially, heightened global seismic activity, with recent significant quakes across the Pacific Rim and Mid-Atlantic, alongside the aftermath in Venezuela, underscores an active and volatile physical risk landscape. To secure assets and physical safety, first, immediately diversify financial portfolios to mitigate against inflation and sector-specific tech volatility, while bolstering emergency reserves to counter rising costs and potential economic shocks. Second, prioritize and secure access to essential resources, particularly food and water, by establishing strategic reserves in anticipation of potential global supply chain disruptions and price escalations driven by climate events and geopolitical instability. Third, immediately review and update personal and operational disaster preparedness protocols, focusing on seismic event readiness (emergency kits, communication plans, structural safety) given the current elevated global tectonic activity and recent regional impacts.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 122 km SE of McCarthy, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
+            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14v"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes are striking worldwide!"
+    "seismicSummary": "Warning: Multiple M5+ earthquakes are striking worldwide, up to M5.9 near New Zealand."
 }
