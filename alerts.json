@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk landscape is intensifying, marked by concurrent geopolitical, financial, and physical threats. Geopolitically, the potential for a Super El Ni\u00f1o to trigger a global food crisis, alongside the direct economic strain of climate change and the ongoing humanitarian needs from the Venezuela quakes, demands critical attention. Financially, a mixed tech market faces headwinds from regulatory shifts like New York's data center moratorium and broader cost pressures, signaling a complex investment environment. Physically, recent Magnitude 5+ seismic activity across New Zealand, Fiji, Japan, and Alaska underscores persistent global tectonic instability, reinforcing the need for vigilance. To secure assets and physical safety, prioritize diversifying essential resources and hardening supply chains against climate and geopolitical disruptions, immediately review and update personal and family disaster preparedness protocols for seismic events, and maintain a close watch on evolving regulatory environments impacting key economic sectors.",
+    "strategicPlan": "The global threat level is significantly elevated, driven by a complex interplay of escalating climate-induced economic pressures, persistent seismic instability, and rapid technological shifts. Financially, climate change is contributing to inflation and the specter of a Super El Ni\u00f1o looms as a potential trigger for a global food crisis, while the tech sector experiences both growth and regulatory friction, as seen in data center moratoriums and evolving AI integration. Geopolitically, the recent, devastating earthquakes in Venezuela highlight the severe humanitarian consequences of natural disasters. Physically, a cluster of significant seismic events exceeding magnitude 5 in the Pacific Ring of Fire indicates ongoing geological volatility. To mitigate these multifaceted risks, immediately secure your physical safety by updating emergency preparedness kits and family evacuation plans, diversify essential assets and investments to build resilience against economic volatility and supply chain disruptions, and maintain vigilance by continuously monitoring regional seismic and climatic advisories for proactive adaptation.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.89 (-2.64%)",
+            "title": "\ud83d\udcb0 NVDA: $207.4 (-2.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.33 (1.17%)",
+            "title": "\ud83d\udcb0 AAPL: $333.26 (1.76%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $403.55 (2.0%)",
+            "title": "\ud83d\udcb0 MSFT: $401.1 (1.38%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.12 (0.27%)",
+            "title": "\ud83d\udcb0 PLTR: $134.44 (0.51%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.54 (-0.16%)",
+            "title": "\ud83d\udcb0 AMZN: $249.89 (-1.99%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes, up to Mag 5.9 in New Zealand, are striking around the globe!**"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes are striking worldwide!"
 }
