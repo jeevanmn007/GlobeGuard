@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex and volatile threat matrix: Geopolitically, we observe escalating economic pressure driven by climate change, culminating in a significant threat of a Super El Ni\u00f1o-induced global food crisis, alongside ongoing humanitarian needs from recent seismic events in regions like Venezuela. Financially, while major tech stocks show mixed performance, regulatory headwinds\u2014such as data center moratoriums and robotaxi legislation\u2014and broader inflationary pressures signal increasing sector volatility and potential for broader economic disruption. These factors are compounded by persistent global tectonic instability, evidenced by multiple recent M5+ seismic events across the Pacific Ring of Fire and Atlantic Ridge, underscoring systemic physical risks. To navigate this intricate environment, we must immediately: 1) Diversify and fortify financial portfolios against inflationary trends and market volatility, emphasizing resilient assets and strategic resource allocation. 2) Proactively assess and secure critical supply chains, particularly for essential goods, to mitigate risks from climate impacts and potential food shortages. 3) Reinforce physical safety protocols and infrastructure resilience in high-risk zones, ensuring robust emergency preparedness for natural disasters.",
+    "strategicPlan": "The global operating environment is exhibiting a critical convergence of physical, geopolitical, and economic pressures. An immediate humanitarian crisis in Venezuela following recent quakes, coupled with heightened geopolitical friction surrounding Cuba, signifies escalating regional instability. Simultaneously, the emerging threat of a global food crisis due to El Ni\u00f1o and persistent elevated global seismic activity, evidenced by multiple M5+ quakes across various regions, underscore a volatile physical landscape. Economically, while major tech stocks show mixed performance, significant regulatory hurdles for AI and data centers indicate systemic shifts and potential headwinds. To navigate this complex threat matrix, GlobeGuard must immediately: 1. **Fortify Supply Chains:** Diversify and secure critical resource supply chains, particularly food and energy, against climactic shifts and regional disruptions. 2. **Enhance Physical Preparedness:** Conduct an urgent review and upgrade of emergency response protocols for all personnel and assets, focusing on seismic resilience and regional security. 3. **Strategic Tech Re-evaluation:** Proactively monitor and adapt to the rapidly evolving technological and regulatory landscape, particularly concerning AI infrastructure and data governance, to safeguard strategic assets.",
     "survival": [
-        {
-            "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
-            "link": "https://gizmodo.com/most-americans-say-climate-change-is-making-life-more-expensive-theyre-right-2000771978"
-        },
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
             "link": "https://www.wired.com/story/gourmet-dog-food/"
@@ -17,6 +13,10 @@
         {
             "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
             "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
+        },
+        {
+            "title": "Democratic members of US Congress visit Cuba and compare US energy embargo to 'silent Gaza'",
+            "link": "https://www.yahoo.com/news/politics/articles/democratic-members-us-congress-visit-222526367.html"
         }
     ],
     "stock": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14v"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 48 km E of Nishinoomote, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t"
+            "title": "\u26a0\ufe0f Mag 5.2 - 42 km NE of Shwebo, Burma (Myanmar)",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t173"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck across the globe, including New Zealand and Japan!"
+    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes reported worldwide!"
 }
