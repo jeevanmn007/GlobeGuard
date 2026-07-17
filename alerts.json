@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our strategic assessment indicates a critical convergence of risks: heightened seismic instability, notably the Mag 7.3 off Mexico and continued humanitarian fallout from Venezuela's quakes, is compounded by the looming threat of a global food crisis due to a 'Super El Ni\u00f1o.' This physical volatility occurs amidst a broad market downturn in key tech sectors and an increasingly fragile geopolitical environment, highlighted by contentious rhetoric surrounding US foreign policy in Latin America. To secure assets and ensure physical safety, we advise three immediate actions: 1) **Enhance disaster preparedness protocols,** particularly for seismic events and potential resource scarcity, by reviewing emergency plans and securing essential supplies. 2) **Diversify and re-evaluate investment portfolios,** moving towards resilient assets given the widespread tech stock declines and general market uncertainty. 3) **Strengthen supply chain resilience** for critical goods and resources, anticipating disruptions from climate events and geopolitical shifts.",
+    "strategicPlan": "The global environment presents an urgent, multifaceted risk profile, characterized by significant seismic instability, notably the cluster of powerful earthquakes near Puerto Madero, Mexico, and ongoing humanitarian fallout from Venezuela's quakes. Geopolitically, escalating tensions surrounding the US embargo on Cuba and the critical forecast of a Super El Ni\u00f1o threatening a global food crisis demand immediate attention. Financially, a marked downturn across major tech stocks, influenced by regulatory shifts such as the New York data center moratorium, signals market apprehension. In response, **first**, prioritize immediate review and reinforcement of emergency preparedness plans for all personnel and critical assets, especially those in seismically active zones, ensuring robust communication and contingency protocols. **Second**, strategically reassess and diversify investment portfolios, moving to secure against tech sector volatility and hedge against anticipated resource scarcity. **Third**, initiate proactive audits of critical supply chains, particularly for food and energy, developing robust alternative sourcing and localized reserves to mitigate geopolitical and climate-induced disruptions.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.87 (-1.7%)",
+            "title": "\ud83d\udcb0 NVDA: $202.81 (-2.21%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.49 (-0.23%)",
+            "title": "\ud83d\udcb0 AAPL: $333.74 (0.14%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $395.3 (-1.45%)",
+            "title": "\ud83d\udcb0 MSFT: $393.82 (-1.82%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.1 (-0.26%)",
+            "title": "\ud83d\udcb0 PLTR: $132.38 (-1.53%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $247.26 (-1.05%)",
+            "title": "\ud83d\udcb0 AMZN: $247.23 (-1.06%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://gizmodo.com/new-york-issues-the-nations-first-statewide-moratorium-on-new-large-data-centers-2000785420"
         },
         {
-            "title": "Apple's Price Hikes Aren't Just an AI Problem",
-            "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
+            "title": "The US Navy wants to \u2018weaponize\u2019 data for a new AI-first fleet, and it wants tech-savvy sailors to make it happen",
+            "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1cc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 9 km ENE of Pangyan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1e8"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 93 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 203 km N of Hadibu, Yemen",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19u"
         }
     ],
-    "seismicSummary": "Urgent: A powerful 7.3 magnitude earthquake just struck near Puerto Madero, Mexico, followed by multiple strong quakes in the region!"
+    "seismicSummary": "URGENT: A magnitude 7.3 earthquake just struck near Puerto Madero, Mexico, with multiple strong aftershocks immediately following!"
 }
