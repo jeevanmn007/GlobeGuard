@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, marked by escalating geopolitical tensions in the Caribbean basin, significant volatility within the technology sector alongside emerging AI-driven regulatory challenges and infrastructure limitations, and a period of heightened physical instability underscored by recent humanitarian crises following major quakes in Venezuela and active seismic events across the Pacific Rim and Mid-Atlantic, all compounded by the looming threat of a Super El Ni\u00f1o potentially triggering a global food crisis. To navigate this converging threat landscape, first, immediately assess and diversify financial assets, particularly within the technology sector, while stress-testing critical supply chains against both geopolitical disruptions and climate-induced food shortages. Second, ensure robust physical safety by updating emergency preparedness kits, establishing clear communication protocols, and maintaining situational awareness for regional seismic activity and severe weather forecasts. Third, maintain continuous intelligence on global food and energy market forecasts, and closely monitor the evolving regulatory landscapes surrounding advanced technologies to anticipate their impact on operations and asset valuation.",
+    "strategicPlan": "The global environment is characterized by a confluence of escalating threats, with a looming Super El Ni\u00f1o portending a global food crisis, while the ongoing humanitarian fallout from Venezuela's quakes and heightened US-Cuba tensions signal intensifying regional instability. Financially, significant tech sector volatility, compounded by new regulatory hurdles for AI and data infrastructure, points to an uncertain economic future. These challenges are underpinned by persistent seismic activity, including recent M5+ events globally, underscoring ongoing geophysical vulnerabilities. To secure assets and physical safety, GlobeGuard directs immediate action: (1) Diversify and fortify critical supply chains to mitigate food security and climate-related disruptions; (2) Review and enhance regional contingency plans for operations and personnel in volatile areas, particularly Latin America; and (3) Conduct urgent structural integrity assessments for all assets in seismically vulnerable zones, simultaneously bolstering digital security against evolving tech regulatory risks.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 122 km SE of McCarthy, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
+            "title": "\u26a0\ufe0f Mag 5 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15z"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes are striking globally!"
+    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes are hitting worldwide, from the Mid-Atlantic to Asia!"
 }
