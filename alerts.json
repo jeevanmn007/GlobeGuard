@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk landscape is converging on multiple fronts, signaling a need for urgent vigilance: geopolitical fragility is heightened by the US-Cuba 'silent Gaza' comparison and ongoing humanitarian crises post-Venezuela quakes, exacerbated by a Super El Ni\u00f1o threatening widespread food insecurity. Concurrently, a broad downturn across major tech stocks suggests financial market apprehension amid evolving AI regulations, while persistent global seismic activity, marked by multiple Mag 5+ quakes across diverse regions, underscores widespread physical instability. In response, GlobeGuard issues the following directives: first, immediately review and diversify critical asset portfolios to mitigate financial volatility and supply chain disruptions; second, enhance personal and organizational emergency preparedness by securing essential provisions and developing robust communication redundancies for physical safety; and third, re-evaluate and fortify physical infrastructure in seismically active or politically volatile zones.",
+    "strategicPlan": "The global environment is currently characterized by a critical confluence of destabilizing factors. Geopolitically, the looming threat of a Super El Ni\u00f1o-induced global food crisis, exacerbated by ongoing humanitarian needs from severe seismic activity in Venezuela, aligns with heightened regional tensions exemplified by US-Cuba energy embargo comparisons to 'silent Gaza.' Financially, a broad downturn across major tech equities (NVDA, AAPL, MSFT, PLTR, AMZN all declining) suggests market apprehension, potentially driven by increasing regulatory scrutiny (e.g., NY data center moratorium, robotaxi laws) and AI-driven cost pressures. Concurrently, significant tectonic instability is evident with multiple powerful earthquakes in Mexico (up to M7.3) and a notable tremor near Yemen, indicating urgent physical risk in key geographic areas. To navigate this complex landscape, GlobeGuard must immediately: 1) Diversify and secure critical supply chains, especially for food and energy resources, preparing for climate-related disruptions and geopolitical pressures. 2) Re-evaluate tech sector investment strategies, anticipating further regulatory impacts and assessing the sustainability of AI-driven market valuations amidst cooling investor sentiment. 3) Conduct urgent physical infrastructure assessments and preparedness drills for assets and personnel located in seismically active regions, particularly across Latin America, to mitigate the impact of ongoing tectonic events.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.91 (-1.68%)",
+            "title": "\ud83d\udcb0 NVDA: $205.2 (-1.06%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.11 (-0.05%)",
+            "title": "\ud83d\udcb0 AAPL: $331.01 (-0.68%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $391.42 (-2.41%)",
+            "title": "\ud83d\udcb0 MSFT: $392.6 (-2.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.26 (-1.62%)",
+            "title": "\ud83d\udcb0 PLTR: $132.17 (-1.69%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.7 (-0.08%)",
+            "title": "\ud83d\udcb0 AMZN: $248.17 (-0.69%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 7.3 - 48 km SW of Aquiles Serd\u00e1n, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 6 - 90 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1cc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 93 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 203 km N of Hadibu, Yemen",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t19u"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14v"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 42 km NE of Shwebo, Burma (Myanmar)",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t173"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 48 km E of Nishinoomote, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t"
         }
     ],
-    "seismicSummary": "ALERT: Multiple magnitude 5 earthquakes reported globally!"
+    "seismicSummary": "URGENT: A major 7.3 magnitude earthquake has struck Mexico, with multiple other strong quakes reported in Mexico and Yemen!"
 }
