@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex interplay of escalating systemic risks, requiring immediate strategic recalibration. Geopolitically, the convergence of climate change-driven cost inflation, the impending threat of a Super El Ni\u00f1o-induced global food crisis, and the ongoing humanitarian fallout from Venezuela's recent quakes signals significant resource and stability challenges. Financially, while major tech stocks show mixed performance with some key dips (NVDA, AMZN), the sector faces growing regulatory pressures (data centers, robotaxis) and cost increases (Apple), even as AI's influence expands. Crucially, heightened global seismic activity, with recent significant quakes across the Pacific Rim and Mid-Atlantic, alongside the aftermath in Venezuela, underscores an active and volatile physical risk landscape. To secure assets and physical safety, first, immediately diversify financial portfolios to mitigate against inflation and sector-specific tech volatility, while bolstering emergency reserves to counter rising costs and potential economic shocks. Second, prioritize and secure access to essential resources, particularly food and water, by establishing strategic reserves in anticipation of potential global supply chain disruptions and price escalations driven by climate events and geopolitical instability. Third, immediately review and update personal and operational disaster preparedness protocols, focusing on seismic event readiness (emergency kits, communication plans, structural safety) given the current elevated global tectonic activity and recent regional impacts.",
+    "strategicPlan": "The global landscape presents a complex and volatile threat matrix: Geopolitically, we observe escalating economic pressure driven by climate change, culminating in a significant threat of a Super El Ni\u00f1o-induced global food crisis, alongside ongoing humanitarian needs from recent seismic events in regions like Venezuela. Financially, while major tech stocks show mixed performance, regulatory headwinds\u2014such as data center moratoriums and robotaxi legislation\u2014and broader inflationary pressures signal increasing sector volatility and potential for broader economic disruption. These factors are compounded by persistent global tectonic instability, evidenced by multiple recent M5+ seismic events across the Pacific Ring of Fire and Atlantic Ridge, underscoring systemic physical risks. To navigate this intricate environment, we must immediately: 1) Diversify and fortify financial portfolios against inflationary trends and market volatility, emphasizing resilient assets and strategic resource allocation. 2) Proactively assess and secure critical supply chains, particularly for essential goods, to mitigate risks from climate impacts and potential food shortages. 3) Reinforce physical safety protocols and infrastructure resilience in high-risk zones, ensuring robust emergency preparedness for natural disasters.",
     "survival": [
         {
             "title": "Most Americans Say Climate Change Is Making Life More Expensive. They\u2019re Right",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0xb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0u6"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0x0"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t14v"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 48 km E of Nishinoomote, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t15t"
         }
     ],
-    "seismicSummary": "Warning: Multiple M5+ earthquakes are striking worldwide, up to M5.9 near New Zealand."
+    "seismicSummary": "Multiple M5+ earthquakes just struck across the globe, including New Zealand and Japan!"
 }
