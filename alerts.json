@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical convergence of escalating risks. Geopolitically, the ongoing humanitarian crisis in Venezuela following recent earthquakes, paired with heightened regional tensions illustrated by comparisons of the US energy embargo on Cuba to a 'silent Gaza,' signals significant instability and potential for supply chain disruption in the Caribbean. Financially, a widespread downturn across major tech stocks suggests a period of market correction, further compounded by the looming threat of a Super El Ni\u00f1o potentially triggering a global food crisis. Concurrently, persistent seismic activity worldwide, with multiple recent 5+ magnitude quakes across active zones, underscores a heightened and widespread physical threat from natural disasters. To secure assets and physical safety, immediately review and bolster your emergency preparedness with a focus on food and water autonomy; diversify and de-risk your investment portfolio to weather economic volatility; and proactively assess and fortify critical supply chain resilience for essential goods.",
+    "strategicPlan": "The global environment is currently defined by a converging set of significant threats: Geopolitically, Latin America confronts ongoing humanitarian fallout from Venezuelan seismic events and escalating US-Cuba tensions, compounded by the looming threat of a Super El Ni\u00f1o-driven global food crisis. Financially, major tech stocks are experiencing a downturn amidst regulatory pressures on AI and data centers, despite increasing state interest in AI for strategic advantage. Physically, a notable cluster of M5+ seismic events off Mexico, alongside activity in the Philippines and persistent tremors in Venezuela, signals heightened tectonic instability across the Pacific and Caribbean fault lines. Therefore, it is imperative to: 1) Secure assets by diversifying investment portfolios away from currently volatile tech sectors and fortifying critical supply chains against commodity shocks and regional instability. 2) Ensure physical safety by immediately reviewing and updating emergency preparedness protocols, structural integrity assessments, and communication plans for all personnel and assets in seismically active zones. 3) Proactively manage geopolitical and resource risks by intensifying monitoring of Latin American political dynamics and global climate patterns to anticipate and mitigate impacts from potential energy disruptions, humanitarian crises, and widespread food insecurity.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 72 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 87 km WSW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 69 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1l4"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - south of the Kermadec Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp"
         }
     ],
-    "seismicSummary": "**Four M5.2-5.3 earthquakes have just struck globally, from Mexico to the Philippines \u2013 stay alert!**"
+    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes, including a 5.7, just struck Mexico and the Philippines!**"
 }
