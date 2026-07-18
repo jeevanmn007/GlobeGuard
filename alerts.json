@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global threat assessment indicates a complex and escalating confluence of physical, geopolitical, and financial instabilities. We are observing significant tectonic unrest, particularly with multiple strong quakes impacting Mexico, and the ongoing humanitarian crisis in Venezuela following recent seismic events. This physical vulnerability is compounded by escalating geopolitical tensions, highlighted by the US-Cuba dynamic and the dire warnings of a Super El Ni\u00f1o-induced global food crisis, which could exacerbate resource scarcity and regional conflicts. Financially, while major tech stocks show minor fluctuations, the sector navigates intense AI development alongside new regulatory and infrastructural constraints (e.g., data center moratoriums, robotaxi laws), indicating a volatile but strategically critical landscape. To mitigate these interwoven risks, GlobeGuard advises three immediate actions: first, review and reinforce critical infrastructure and emergency response protocols in seismically active or politically unstable regions; second, conduct a thorough audit of supply chain vulnerabilities, especially regarding food and energy resources, preparing for potential disruptions from climate events and geopolitical pressures; and third, strategically re-evaluate investment portfolios, emphasizing resilience and diversification in key tech sectors while closely monitoring AI-related regulatory developments and market shifts.",
+    "strategicPlan": "The global operating environment is characterized by a potent confluence of escalating geopolitical tensions, profound financial market re-calibration, and heightened physical vulnerabilities. Geopolitically, the US-Cuba-Venezuela dynamic, marked by an energy embargo comparison to 'silent Gaza' and ongoing humanitarian fallout from Venezuelan quakes, signals significant regional instability, while the looming Super El Ni\u00f1o threatens global food security. Financially, a widespread downturn in major tech stocks (NVDA, MSFT, PLTR, AMZN) alongside emerging regulatory hurdles for AI and data centers indicates a challenging and uncertain economic landscape. Physically, sustained seismic activity off Mexico and the Philippines, coupled with the ongoing crisis in Venezuela, demands urgent attention to natural disaster preparedness. To mitigate these multifaceted risks, GlobeGuard advises three immediate actions: first, reinforce and drill emergency preparedness protocols for all personnel and assets, particularly concerning food/water security and communication in seismically active and climate-vulnerable regions; second, conduct an urgent review of investment portfolios for diversification, specifically reducing exposure to volatile tech sectors, and audit digital infrastructure resilience given regulatory shifts; and third, initiate contingency planning for supply chain disruptions, focusing on energy and critical resources, while closely monitoring geopolitical developments in the Caribbean basin.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7.3 - 58 km WSW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6 - 90 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1cc"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 119 km SW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 93 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1"
         }
     ],
-    "seismicSummary": "**Urgent: A powerful Mag 7.3 earthquake struck Puerto Madero, Mexico, with several other strong quakes reported in the region and the Philippines.**"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Magnitude 6, just struck Puerto Madero, Mexico, with another in the Philippines!"
 }
