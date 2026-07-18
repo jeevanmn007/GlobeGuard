@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is characterized by a potent confluence of escalating geopolitical tensions, profound financial market re-calibration, and heightened physical vulnerabilities. Geopolitically, the US-Cuba-Venezuela dynamic, marked by an energy embargo comparison to 'silent Gaza' and ongoing humanitarian fallout from Venezuelan quakes, signals significant regional instability, while the looming Super El Ni\u00f1o threatens global food security. Financially, a widespread downturn in major tech stocks (NVDA, MSFT, PLTR, AMZN) alongside emerging regulatory hurdles for AI and data centers indicates a challenging and uncertain economic landscape. Physically, sustained seismic activity off Mexico and the Philippines, coupled with the ongoing crisis in Venezuela, demands urgent attention to natural disaster preparedness. To mitigate these multifaceted risks, GlobeGuard advises three immediate actions: first, reinforce and drill emergency preparedness protocols for all personnel and assets, particularly concerning food/water security and communication in seismically active and climate-vulnerable regions; second, conduct an urgent review of investment portfolios for diversification, specifically reducing exposure to volatile tech sectors, and audit digital infrastructure resilience given regulatory shifts; and third, initiate contingency planning for supply chain disruptions, focusing on energy and critical resources, while closely monitoring geopolitical developments in the Caribbean basin.",
+    "strategicPlan": "The global environment is currently characterized by a critical convergence of escalating risks. Geopolitically, the ongoing humanitarian crisis in Venezuela following recent earthquakes, paired with heightened regional tensions illustrated by comparisons of the US energy embargo on Cuba to a 'silent Gaza,' signals significant instability and potential for supply chain disruption in the Caribbean. Financially, a widespread downturn across major tech stocks suggests a period of market correction, further compounded by the looming threat of a Super El Ni\u00f1o potentially triggering a global food crisis. Concurrently, persistent seismic activity worldwide, with multiple recent 5+ magnitude quakes across active zones, underscores a heightened and widespread physical threat from natural disasters. To secure assets and physical safety, immediately review and bolster your emergency preparedness with a focus on food and water autonomy; diversify and de-risk your investment portfolio to weather economic volatility; and proactively assess and fortify critical supply chain resilience for essential goods.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 90 km SW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1cc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 87 km WSW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 93 km SW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1c1"
+            "title": "\u26a0\ufe0f Mag 5.2 - 69 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1l4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - south of the Kermadec Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Magnitude 6, just struck Puerto Madero, Mexico, with another in the Philippines!"
+    "seismicSummary": "**Four M5.2-5.3 earthquakes have just struck globally, from Mexico to the Philippines \u2013 stay alert!**"
 }
