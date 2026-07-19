@@ -15,8 +15,8 @@
             "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
         },
         {
-            "title": "Democratic members of US Congress visit Cuba and compare US energy embargo to 'silent Gaza'",
-            "link": "https://www.yahoo.com/news/politics/articles/democratic-members-us-congress-visit-222526367.html"
+            "title": "Latin American governments prepare for El Nino as drought, floods and heat loom",
+            "link": "https://www.yahoo.com/news/weather-news/articles/latin-american-governments-prepare-el-130055212.html"
         }
     ],
     "stock": [
@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 2 km WSW of Sicaya, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - Scotia Sea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 87 km WSW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 119 km SW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it"
+            "title": "\u26a0\ufe0f Mag 5.3 - 59 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
