@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our current assessment indicates a rapidly escalating confluence of environmental and geopolitical instabilities, despite a low stated global threat level. Latin America is under particular duress, facing significant, ongoing seismic activity\u2014evidenced by recent quakes in Venezuela, Mexico, and Peru\u2014compounded by the imminent threat of a Super El Ni\u00f1o that promises widespread droughts, floods, and a potential global food crisis. This environmental pressure converges with a discernible downturn in major tech sector stocks, signaling potential market volatility amidst increasing regulatory scrutiny on AI and data centers. To mitigate these interwoven risks, we must immediately secure critical physical assets and bolster emergency preparedness for extreme weather and seismic events, particularly in vulnerable regions; concurrently, review and diversify financial portfolios, reducing exposure to volatile tech sectors and preparing for supply chain disruptions; and finally, strategically leverage and protect our data, assessing AI integration opportunities while remaining agile in the face of evolving technological regulations and their societal impacts.",
+    "strategicPlan": "The global strategic landscape presents a critical convergence of escalating physical and economic threats. Latin America is experiencing a pronounced surge in seismic activity, highlighted by recent Magnitude 5.3-5.5 earthquakes in Mexico and Peru, coupled with the ongoing humanitarian crisis from earlier Venezuelan quakes. This geological instability is further exacerbated by the looming Super El Ni\u00f1o, threatening widespread climate disruption and potential global food insecurity. Concurrently, the global tech sector faces a significant market downturn and emerging regulatory friction surrounding AI and data infrastructure, despite increased strategic interest in AI development. To secure your assets and physical safety, we advise three immediate actions: 1. Fortify emergency preparedness protocols for personnel and assets in seismically active and climate-vulnerable regions, ensuring robust contingency plans for prolonged disruptions. 2. Diversify investment portfolios, particularly re-evaluating exposure to volatile tech markets and considering hedges against potential global food supply chain disruptions. 3. Establish continuous, granular monitoring of regional weather patterns, seismic forecasts, and regulatory shifts impacting critical data infrastructure and AI to inform rapid, adaptive strategic responses.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - Scotia Sea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 59 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 85 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q3"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just reported across Mexico, Peru, and the Scotia Sea!"
+    "seismicSummary": "**Multiple Mag 5.3-5.5 earthquakes just struck Mexico and Peru!**"
 }
