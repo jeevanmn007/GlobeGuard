@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a concerning convergence of systemic threats. Geopolitically, Latin America faces significant instability from a Super El Ni\u00f1o poised to trigger widespread drought, floods, and a potential global food crisis, a risk compounded by ongoing humanitarian needs from recent Venezuelan earthquakes and current seismic activity off Mexico and Peru. Financially, major tech stocks are experiencing a broad downturn, influenced by market anxieties and regulatory actions like New York's moratorium on large data centers, while the strategic weaponization of data and AI by national actors signals an accelerating technological arms race. To navigate these integrated risks, GlobeGuard directs immediate action to proactively secure and diversify supply chains and investment portfolios against climate and market volatility, conduct rapid assessments to fortify physical infrastructure for seismic and climate resilience, particularly across Latin American operations, and strengthen digital security protocols while implementing continuous monitoring of evolving AI and data regulation to preempt strategic vulnerabilities.",
+    "strategicPlan": "Our current assessment indicates a rapidly escalating confluence of environmental and geopolitical instabilities, despite a low stated global threat level. Latin America is under particular duress, facing significant, ongoing seismic activity\u2014evidenced by recent quakes in Venezuela, Mexico, and Peru\u2014compounded by the imminent threat of a Super El Ni\u00f1o that promises widespread droughts, floods, and a potential global food crisis. This environmental pressure converges with a discernible downturn in major tech sector stocks, signaling potential market volatility amidst increasing regulatory scrutiny on AI and data centers. To mitigate these interwoven risks, we must immediately secure critical physical assets and bolster emergency preparedness for extreme weather and seismic events, particularly in vulnerable regions; concurrently, review and diversify financial portfolios, reducing exposure to volatile tech sectors and preparing for supply chain disruptions; and finally, strategically leverage and protect our data, assessing AI integration opportunities while remaining agile in the face of evolving technological regulations and their societal impacts.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 72 km SW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5"
+            "title": "\u26a0\ufe0f Mag 5.5 - 81 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - 2 km WSW of Sicaya, Peru",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes hitting Mexico, Peru, and Scotia Sea now!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just reported across Mexico, Peru, and the Scotia Sea!"
 }
