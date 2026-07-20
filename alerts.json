@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's latest analysis reveals a rapidly converging risk profile, characterized by escalating environmental, geopolitical, and tectonic pressures. The most acute immediate threat is the forecast Super El Ni\u00f1o-induced global food crisis, exacerbated by ongoing humanitarian needs following Venezuelan seismic events and further complicated by moderate tectonic activity across the Caribbean and other key regions. While core tech sectors demonstrate mixed but generally resilient financial performance, emerging regulatory headwinds for AI and data infrastructure, coupled with a significant geopolitical shift towards AI weaponization and persistent regional instability, indicate a volatile operational landscape. To secure assets and physical safety, prioritize robust diversification and fortification of critical food supply chains, assessing regional vulnerabilities to climatic shifts. Simultaneously, enhance localized emergency preparedness and infrastructure resilience, particularly within seismically active zones and humanitarian aid routes. Finally, strategically adapt digital infrastructure investments and data governance against evolving AI regulatory frameworks and the escalating global data arms race, ensuring comprehensive cyber-physical resilience.",
+    "strategicPlan": "The global intelligence landscape signals an elevated threat, driven by a potential Super El Ni\u00f1o-induced global food crisis that poses a systemic risk to resource stability. This is compounded by persistent regional instability in Latin America, where ongoing humanitarian needs in post-quake Venezuela are exacerbated by recent significant seismic activity near Trinidad and Tobago, indicating sustained physical vulnerabilities. Concurrently, while the tech sector demonstrates mixed financial performance, it faces growing regulatory friction and legislative hurdles globally, presenting an evolving risk profile for digital assets. To secure assets and ensure physical safety, we direct the following: (1) Immediately assess and diversify essential resource supplies, particularly food and water, preparing for potential climate-driven disruptions to global supply chains. (2) For all personnel and assets located in the broader Caribbean/Latin American region, review and update emergency protocols for seismic events and humanitarian response given the ongoing instability. (3) Re-evaluate financial portfolio diversification, mitigating exposure to increasingly regulated tech sub-sectors while considering hedges against broader market volatility stemming from the combined pressures of environmental and geopolitical factors.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 208 km SW of Port McNeill, Canada",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - Pacific-Antarctic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t213"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 22 km NNW of Scarborough, Trinidad and Tobago",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wn"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 27 km S of Jav\u0101nr\u016bd, Iran",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 83 km W of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wm"
         }
     ],
-    "seismicSummary": "Four M5+ earthquakes just struck globally in Canada, Trinidad, Iran, and Indonesia!"
+    "seismicSummary": "Four M5+ earthquakes just struck worldwide!"
 }
