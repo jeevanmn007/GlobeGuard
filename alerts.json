@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is characterized by a critical confluence of physical and systemic pressures. Elevated seismic activity is evident across multiple regions, notably impacting the Americas where recent Venezuelan quakes underscore acute humanitarian vulnerabilities, a situation directly exacerbated by the impending Super El Ni\u00f1o's high potential for a global food crisis and resource scarcity. Financially, while key tech sectors like AI demonstrate resilience and strategic importance, as evidenced by NVDA's performance and significant investment trends, they simultaneously face evolving regulatory challenges and the militarization of data, signaling a complex and volatile economic environment. Therefore, we must act decisively: 1) Immediately review and enhance physical safety protocols and emergency supply reserves, focusing on food and water security in anticipation of climate-induced disruptions. 2) Diversify and fortify critical supply chains against potential agricultural and resource shocks stemming from the Super El Ni\u00f1o. 3) Secure and critically assess digital and financial assets, paying close attention to the rapidly evolving AI regulatory landscape and geopolitical implications of data weaponization.",
+    "strategicPlan": "The global environment is acutely strained by compounding physical and geopolitical threats. A significant humanitarian crisis in Venezuela, exacerbated by recent seismic events and underscored by reports of untold casualties, converges with the looming specter of a global food crisis driven by a Super El Ni\u00f1o. Financially, while key AI-driven tech sectors exhibit resilience, emerging regulatory hurdles in critical infrastructure (e.g., data centers) and autonomous systems signal increasing complexity, further complicated by the strategic militarization of AI. This is all underlined by a globally active seismic period, demanding heightened vigilance. To secure assets and physical safety, GlobeGuard must proactively assess and fortify critical supply chains, especially for food and essential resources, in anticipation of widespread disruption; strategically diversify and monitor investments for exposure to regional instability and evolving tech regulatory risks; and urgently update all emergency preparedness plans for personnel and physical assets, particularly in seismically active zones and areas vulnerable to climate-induced crises.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.8 (0.98%)",
+            "title": "\ud83d\udcb0 NVDA: $204.97 (1.07%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $327.02 (-2.01%)",
+            "title": "\ud83d\udcb0 AAPL: $324.18 (-2.86%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $393.48 (-0.09%)",
+            "title": "\ud83d\udcb0 MSFT: $402.05 (2.09%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.32 (-0.05%)",
+            "title": "\ud83d\udcb0 PLTR: $135.57 (2.41%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.58 (0.95%)",
+            "title": "\ud83d\udcb0 AMZN: $252.37 (2.08%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vq"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just hit diverse locations worldwide, including Canada, Mexico, Trinidad, and Iran!"
+    "seismicSummary": "Multiple Mag 5+ quakes just hit worldwide!"
 }
