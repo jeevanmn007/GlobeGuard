@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is escalating, marked by significant seismic activity across multiple key regions (Canada, Mexico, Iran) and a looming Super El Ni\u00f1o-driven global food crisis, further compounded by humanitarian instability in Venezuela. Financially, major tech stocks are experiencing a downturn, reflecting market sensitivity amidst rapid AI integration, evolving data infrastructure regulations, and the US Navy's push to weaponize AI. In light of this confluence of geopolitical, financial, and physical tectonic threats, GlobeGuard must immediately: 1. Diversify critical asset portfolios, particularly within volatile tech sectors, while bolstering digital security protocols to counter advanced persistent threats; 2. Update and test emergency response plans for seismic events and supply chain disruptions, focusing on food security and critical resource availability in vulnerable regions; and 3. Intensify intelligence gathering on geopolitical flashpoints and climate impacts, simultaneously stress-testing and diversifying critical supply chains to mitigate potential disruptions.",
+    "strategicPlan": "Our analysis reveals a heightened global threat landscape characterized by converging environmental, geopolitical, and physical risks. The imminent threat of a Super El Ni\u00f1o-triggered global food crisis poses a significant geopolitical destabilizer, compounding existing humanitarian challenges in regions like Venezuela, which continues to suffer post-earthquake devastation. This global fragility is underscored by broad tectonic activity, including recent significant quakes in Canada, Mexico, Trinidad and Tobago, and Iran, indicating a period of increased seismic risk. Financially, while major tech stocks show a slight downturn, indicating market caution, no immediate crash is apparent, though underlying volatility persists. To secure your assets and physical safety, GlobeGuard advises three immediate actions: first, proactively diversify and secure essential resource supply chains, particularly food and emergency provisions, to mitigate potential global shortages; second, rigorously review and reinforce physical infrastructure and emergency preparedness plans, especially in all seismically active regions; and third, ensure robust liquidity and strategically diversify investment portfolios into stable, non-cyclical assets to navigate anticipated economic and geopolitical volatility.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 27 km S of Jav\u0101nr\u016bd, Iran",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vq"
+            "title": "\u26a0\ufe0f Mag 5.2 - 22 km NNW of Scarborough, Trinidad and Tobago",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wn"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 27 km S of Jav\u0101nr\u016bd, Iran",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vp"
+            "title": "\u26a0\ufe0f Mag 5.2 - 27 km S of Jav\u0101nr\u016bd, Iran",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vq"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5+ earthquakes hitting Canada, Mexico, and Iran!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes striking globally!"
 }
