@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture demands immediate attention, indicating a rising risk profile across multiple vectors. Geopolitically and environmentally, the impending Super El Ni\u00f1o poses a significant threat of global food insecurity, widespread droughts, and floods, particularly impacting Latin America, while humanitarian crises from prior seismic events like Venezuela's continue. Financially, major tech equities are showing declines, reflecting broader market anxiety amidst evolving regulatory landscapes for AI and data infrastructure. Concurrently, persistent moderate seismic activity in regions like Mexico, Iran, and Indonesia highlights a baseline of physical tectonic instability that cannot be ignored. To secure assets and physical safety, immediately diversify financial portfolios and critical supply chains to prepare for climate-driven disruptions, fortify physical infrastructure and emergency protocols against seismic events and extreme weather, and enhance digital resilience given the intensifying landscape of data-driven threats and AI integration.",
+    "strategicPlan": "The global threat landscape is escalating, marked by significant seismic activity across multiple key regions (Canada, Mexico, Iran) and a looming Super El Ni\u00f1o-driven global food crisis, further compounded by humanitarian instability in Venezuela. Financially, major tech stocks are experiencing a downturn, reflecting market sensitivity amidst rapid AI integration, evolving data infrastructure regulations, and the US Navy's push to weaponize AI. In light of this confluence of geopolitical, financial, and physical tectonic threats, GlobeGuard must immediately: 1. Diversify critical asset portfolios, particularly within volatile tech sectors, while bolstering digital security protocols to counter advanced persistent threats; 2. Update and test emergency response plans for seismic events and supply chain disruptions, focusing on food security and critical resource availability in vulnerable regions; and 3. Intensify intelligence gathering on geopolitical flashpoints and climate impacts, simultaneously stress-testing and diversifying critical supply chains to mitigate potential disruptions.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -11,12 +11,12 @@
             "link": "https://gizmodo.com/could-this-super-el-nino-trigger-a-global-food-crisis-2000773228"
         },
         {
-            "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
-            "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
+            "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
+            "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
         },
         {
-            "title": "Latin American governments prepare for El Nino as drought, floods and heat loom",
-            "link": "https://www.yahoo.com/news/weather-news/articles/latin-american-governments-prepare-el-130055212.html"
+            "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+            "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
         }
     ],
     "stock": [
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 208 km SW of Port McNeill, Canada",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 81 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 27 km S of Jav\u0101nr\u016bd, Iran",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vp"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 83 km S of Pelabuhanratu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1rh"
         }
     ],
-    "seismicSummary": "Multiple earthquakes up to Mag 5.5 reported in Mexico, Iran, and Indonesia, including two near Jav\u0101nr\u016bd."
+    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5+ earthquakes hitting Canada, Mexico, and Iran!"
 }
