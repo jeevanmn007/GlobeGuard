@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is acutely strained by compounding physical and geopolitical threats. A significant humanitarian crisis in Venezuela, exacerbated by recent seismic events and underscored by reports of untold casualties, converges with the looming specter of a global food crisis driven by a Super El Ni\u00f1o. Financially, while key AI-driven tech sectors exhibit resilience, emerging regulatory hurdles in critical infrastructure (e.g., data centers) and autonomous systems signal increasing complexity, further complicated by the strategic militarization of AI. This is all underlined by a globally active seismic period, demanding heightened vigilance. To secure assets and physical safety, GlobeGuard must proactively assess and fortify critical supply chains, especially for food and essential resources, in anticipation of widespread disruption; strategically diversify and monitor investments for exposure to regional instability and evolving tech regulatory risks; and urgently update all emergency preparedness plans for personnel and physical assets, particularly in seismically active zones and areas vulnerable to climate-induced crises.",
+    "strategicPlan": "The global intelligence landscape reveals a concerning convergence of threats, demanding immediate strategic recalibration. Geopolitically, the specter of a Super El Ni\u00f1o-triggered global food crisis looms large, compounded by ongoing humanitarian crises like that following Venezuela's recent quakes and persistent regional political tensions. Financially, markets exhibit notable volatility, with significant dips in major tech players like Apple amidst broader strategic shifts in AI regulation and militarization. Physically, a pattern of moderate seismic activity, critically observed in the Caribbean basin near affected Venezuelan territories, alongside events in Canada, Iran, and Indonesia, underscores inherent geological vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs immediate action: first, fortify diversified, resilient supply chains for essential resources, particularly food; second, comprehensively review and enhance emergency preparedness for seismic events in at-risk regions; and third, strategically diversify asset portfolios to withstand market volatility and geopolitical shocks.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.97 (1.07%)",
+            "title": "\ud83d\udcb0 NVDA: $203.19 (0.19%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $324.18 (-2.86%)",
+            "title": "\ud83d\udcb0 AAPL: $327.09 (-1.99%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $402.05 (2.09%)",
+            "title": "\ud83d\udcb0 MSFT: $400.6 (1.72%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $135.57 (2.41%)",
+            "title": "\ud83d\udcb0 PLTR: $135.76 (2.55%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $252.37 (2.08%)",
+            "title": "\ud83d\udcb0 AMZN: $249.23 (0.81%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 81 km SW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1tp"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 22 km NNW of Scarborough, Trinidad and Tobago",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wn"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 27 km S of Jav\u0101nr\u016bd, Iran",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vq"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 83 km W of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wm"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ quakes just hit worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes just reported globally!"
 }
