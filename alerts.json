@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape presents a critical confluence of escalating systemic risks, demanding immediate and decisive action. Geopolitically, the reverberations of political dissent, exemplified by the Cuban exile, and the ongoing humanitarian crisis following significant seismic events in Venezuela highlight regions under severe stress, further exacerbated by the looming potential for a Super El Ni\u00f1o to trigger a global food crisis. Financially, while key tech sectors show mixed performance with a focus on AI's strategic importance (US Navy's AI fleet, Hollywood's embrace), regulatory headwinds\u2014such as New York's data center moratorium and emerging robotaxi laws\u2014signal increasing scrutiny and potential for market fragmentation. Physically, persistent moderate seismic activity across the Mid-Atlantic and Mid-Indian Ridges, coupled with a notable tremor near Guam, underscores a pattern of tectonic instability that requires careful monitoring. To secure assets and ensure physical safety, GlobeGuard must immediately diversify and fortify critical supply chains, especially for food and essential goods, strategically invest in resilient AI-driven solutions while navigating evolving regulatory landscapes, and comprehensively review and update emergency preparedness protocols for personnel and infrastructure, particularly in high-risk seismic and climate-vulnerable regions.",
+    "strategicPlan": "The global threat landscape presents a complex and urgent convergence of natural, geopolitical, and technological risks. Significant seismic activity, notably along the Mid-Atlantic Ridge and near the Kermadec Islands, underscores ongoing physical vulnerabilities, exacerbated by the lingering humanitarian crisis from recent Venezuelan quakes. Simultaneously, the forecast Super El Ni\u00f1o threatens a severe global food crisis, directly impacting resource security and potentially inflaming existing geopolitical instabilities, such as the ongoing political pressures emanating from Cuba. Financially, while specialized AI continues to drive gains for companies like NVDA, broader tech markets show minor retractions amid escalating regulatory scrutiny on data centers and autonomous vehicles, paralleling the rapid integration of AI into military strategies.\n\nTo navigate this volatile environment, secure your assets and physical safety by first, immediately reinforcing emergency preparedness plans and kits, especially given the heightened seismic activity and climate-related risks. Second, proactively assess and diversify critical supply chains for food, water, and essential goods, considering strategic reserves to mitigate the impact of a potential global food crisis. Third, strengthen digital asset security through enhanced cybersecurity measures and diversify financial portfolios, closely monitoring regulatory shifts in technology and AI that could impact investments and data infrastructure.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.28 (0.23%)",
+            "title": "\ud83d\udcb0 NVDA: $205.98 (1.33%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $326.59 (-2.14%)",
+            "title": "\ud83d\udcb0 AAPL: $326.41 (-0.06%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $402.29 (2.15%)",
+            "title": "\ud83d\udcb0 MSFT: $398.84 (-0.86%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $134.85 (1.87%)",
+            "title": "\ud83d\udcb0 PLTR: $133.42 (-1.06%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.99 (1.12%)",
+            "title": "\ud83d\udcb0 AMZN: $247.32 (-1.07%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - northern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - northern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 58 km SSW of Merizo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25j"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23v"
         }
     ],
-    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes just hit the Mid-Atlantic Ridge, Guam, and Mid-Indian Ridge!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes are striking globally!"
 }
