@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is facing an urgent confluence of escalating threats: a severe Super El Ni\u00f1o portends a global food crisis, regional geopolitical instability persists as seen with Cuban dissidents and humanitarian needs from Venezuela's quakes, and elevated seismic activity across the Mid-Atlantic, Mid-Indian Ridges, and Samoa signals increased physical risks. Financially, while AI and core tech sectors demonstrate resilience, emerging regulatory constraints on data centers and volatile market segments demand vigilance. Given this complex risk landscape, GlobeGuard's immediate imperative is threefold: secure diversified local food and water reserves to buffer against the impending food crisis, meticulously review and reinforce all physical asset integrity and emergency response plans for seismic events, and strategically rebalance investment portfolios toward resilient sectors while diversifying digital and physical assets to mitigate regulatory and supply chain shocks.",
+    "strategicPlan": "The current global intelligence landscape presents a critical confluence of escalating systemic risks, demanding immediate and decisive action. Geopolitically, the reverberations of political dissent, exemplified by the Cuban exile, and the ongoing humanitarian crisis following significant seismic events in Venezuela highlight regions under severe stress, further exacerbated by the looming potential for a Super El Ni\u00f1o to trigger a global food crisis. Financially, while key tech sectors show mixed performance with a focus on AI's strategic importance (US Navy's AI fleet, Hollywood's embrace), regulatory headwinds\u2014such as New York's data center moratorium and emerging robotaxi laws\u2014signal increasing scrutiny and potential for market fragmentation. Physically, persistent moderate seismic activity across the Mid-Atlantic and Mid-Indian Ridges, coupled with a notable tremor near Guam, underscores a pattern of tectonic instability that requires careful monitoring. To secure assets and ensure physical safety, GlobeGuard must immediately diversify and fortify critical supply chains, especially for food and essential goods, strategically invest in resilient AI-driven solutions while navigating evolving regulatory landscapes, and comprehensively review and update emergency preparedness protocols for personnel and infrastructure, particularly in high-risk seismic and climate-vulnerable regions.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23v"
+            "title": "\u26a0\ufe0f Mag 5 - 58 km SSW of Merizo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25j"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 141 km SSW of Gataivai, Samoa",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232"
+            "title": "\u26a0\ufe0f Mag 5 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23v"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5+ quakes, including a 5.6, just hit across the Mid-Atlantic, Mid-Indian Ridges, and Samoa!"
+    "seismicSummary": "URGENT: Multiple magnitude 5+ earthquakes just hit the Mid-Atlantic Ridge, Guam, and Mid-Indian Ridge!"
 }
