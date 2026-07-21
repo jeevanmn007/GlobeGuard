@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment exhibits immediate, converging threats: escalating regional instability in the Caribbean, marked by significant seismic events exacerbating humanitarian needs and geopolitical tensions, combined with the imminent risk of a global food crisis from a Super El Ni\u00f1o. Simultaneously, while financial markets reflect robust investment in AI, the broader tech sector faces increasing regulatory friction and infrastructure limitations, all underscored by persistent, elevated global seismic activity, particularly along the Mid-Atlantic Ridge. Therefore, GlobeGuard must swiftly: 1) **Fortify** global food supply chains and regional dependencies, especially those vulnerable to climate anomalies and geopolitical shifts in Latin America; 2) **Enhance** critical infrastructure resilience against seismic events, safeguarding both physical assets and vital undersea data/maritime routes; and 3) **Strategically adapt** technology investments, leveraging AI advancements while proactively navigating evolving regulatory landscapes and infrastructure constraints.",
+    "strategicPlan": "The global strategic environment is facing an urgent confluence of escalating threats: a severe Super El Ni\u00f1o portends a global food crisis, regional geopolitical instability persists as seen with Cuban dissidents and humanitarian needs from Venezuela's quakes, and elevated seismic activity across the Mid-Atlantic, Mid-Indian Ridges, and Samoa signals increased physical risks. Financially, while AI and core tech sectors demonstrate resilience, emerging regulatory constraints on data centers and volatile market segments demand vigilance. Given this complex risk landscape, GlobeGuard's immediate imperative is threefold: secure diversified local food and water reserves to buffer against the impending food crisis, meticulously review and reinforce all physical asset integrity and emergency response plans for seismic events, and strategically rebalance investment portfolios toward resilient sectors while diversifying digital and physical assets to mitigate regulatory and supply chain shocks.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 22 km NNW of Scarborough, Trinidad and Tobago",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wn"
+            "title": "\u26a0\ufe0f Mag 5 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23v"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 83 km W of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wm"
+            "title": "\u26a0\ufe0f Mag 5 - 141 km SSW of Gataivai, Samoa",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t232"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck the Mid-Atlantic, Trinidad, and Indonesia!"
+    "seismicSummary": "Urgent: Multiple Mag 5+ quakes, including a 5.6, just hit across the Mid-Atlantic, Mid-Indian Ridges, and Samoa!"
 }
