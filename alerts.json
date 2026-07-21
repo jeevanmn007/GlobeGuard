@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a critical convergence of escalating natural, geopolitical, and economic stressors. A potential global food crisis, intensified by a Super El Ni\u00f1o, threatens widespread instability and humanitarian challenges, mirroring ongoing relief efforts in Venezuela and the broader implications of regional political migration. Financially, while select tech giants demonstrate resilience, a broader market sentiment of caution is evident with slight dips in key tech stocks and emerging regulatory hurdles for AI and autonomous technologies, signaling potential sector-specific volatility. Physically, multiple magnitude 5+ seismic events across disparate regions underscore a heightened state of planetary geological activity. To secure assets and ensure physical safety, **first, diversify critical resource holdings, prioritizing non-perishable supplies and resilient agricultural investments given the looming food crisis; second, immediately evaluate and fortify physical infrastructure and emergency preparedness plans in light of increased seismic activity; and third, re-evaluate investment portfolios for exposure to regulatory risks in evolving tech sectors, diversifying towards stable assets and closely monitoring geopolitical developments for their impact on global supply chains.**",
+    "strategicPlan": "The global situation is marked by a converging array of critical risks: Geopolitically, a potential global food crisis from El Ni\u00f1o is compounded by the ongoing humanitarian disaster in Venezuela following recent seismic events and broader regional instability. Financially, the tech sector, while deeply integrating AI, faces growing regulatory headwinds on critical infrastructure like data centers and autonomous systems, even as military AI development accelerates. Physically, persistent M5+ seismic activity across multiple global zones, including recent events in the Pacific, Atlantic, and Southeast Asia, underscores a pervasive and elevated tectonic threat. To secure assets and ensure physical safety, GlobeGuard advises three immediate directives: first, proactively review and diversify critical food and resource supply chains, enhancing emergency provisions in anticipation of food security challenges; second, conduct urgent structural integrity assessments for assets in seismically active regions, updating and exercising comprehensive emergency response and evacuation protocols; and third, closely monitor and adapt to evolving AI regulatory landscapes and technological supply chain dependencies, diversifying digital infrastructure to mitigate regional or geopolitical disruptions.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21z"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - northern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 7 km WNW of Kalbay, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a7"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple magnitude 5+ earthquakes detected globally.**"
+    "seismicSummary": "**Multiple M5+ earthquakes are hitting worldwide!**"
 }
