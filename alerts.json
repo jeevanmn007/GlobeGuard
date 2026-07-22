@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is marked by a converging array of critical risks: Geopolitically, a potential global food crisis from El Ni\u00f1o is compounded by the ongoing humanitarian disaster in Venezuela following recent seismic events and broader regional instability. Financially, the tech sector, while deeply integrating AI, faces growing regulatory headwinds on critical infrastructure like data centers and autonomous systems, even as military AI development accelerates. Physically, persistent M5+ seismic activity across multiple global zones, including recent events in the Pacific, Atlantic, and Southeast Asia, underscores a pervasive and elevated tectonic threat. To secure assets and ensure physical safety, GlobeGuard advises three immediate directives: first, proactively review and diversify critical food and resource supply chains, enhancing emergency provisions in anticipation of food security challenges; second, conduct urgent structural integrity assessments for assets in seismically active regions, updating and exercising comprehensive emergency response and evacuation protocols; and third, closely monitor and adapt to evolving AI regulatory landscapes and technological supply chain dependencies, diversifying digital infrastructure to mitigate regional or geopolitical disruptions.",
+    "strategicPlan": "The global threat landscape is defined by the critical convergence of environmental and geopolitical stressors: a rapidly escalating global food crisis, driven by a powerful Super El Ni\u00f1o and compounded by the humanitarian aftermath of significant seismic activity in regions like Venezuela, demands immediate strategic attention. Financially, while the tech sector demonstrates robust growth in AI-related ventures, exemplified by NVDA's performance and military integration, it concurrently navigates increasing regulatory scrutiny and infrastructure limitations, signaling a more complex investment environment. Geographically, widespread seismic activity, with multiple 5+ magnitude earthquakes reported globally, underscores persistent physical risks that can disrupt supply chains and exacerbate existing vulnerabilities. To mitigate these converging threats, secure your assets by immediately assessing and diversifying food and essential resource supply chains, rebalancing investment portfolios to account for AI's growth potential against rising regulatory headwinds, and reinforcing physical safety protocols and emergency preparedness plans for all operations and personnel, especially those in climate-vulnerable and seismically active regions.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t23e"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 7 km WNW of Kalbay, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 58 km SSW of Merizo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25j"
         }
     ],
-    "seismicSummary": "**Multiple M5+ earthquakes are hitting worldwide!**"
+    "seismicSummary": "Multiple M5+ earthquakes just hit worldwide!"
 }
