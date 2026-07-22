@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is marked by a concerning confluence of escalating risks: an impending global food crisis driven by a super El Ni\u00f1o, persistent geopolitical instability exemplified by Cuban exile and the humanitarian aftermath of severe Venezuelan earthquakes, and a globally active seismic environment evidenced by multiple recent 5+ magnitude tremors across the Pacific Ring of Fire. Financially, while AI remains a robust growth sector, broader tech market dips and new regulatory barriers like the New York data center moratorium signal increasing economic friction. To secure assets and ensure physical safety, GlobeGuard advises three immediate directives: first, fortify digital and financial asset resilience through diversification and advanced cybersecurity measures, recognizing the strategic importance and vulnerability of data; second, update and implement comprehensive emergency preparedness plans, including critical resource stockpiling, with a specific focus on areas prone to seismic activity or supply chain disruptions; and third, maintain heightened vigilance on geopolitical flashpoints and climate-driven resource shifts, adjusting regional operational strategies accordingly.",
+    "strategicPlan": "The global landscape is entering a period of compounded risk, defined by escalating natural, geopolitical, and financial pressures. A looming Super El Ni\u00f1o threatens a global food crisis, while regional instability is evident through the Cuban dissident's exile and the ongoing humanitarian disaster in Venezuela following recent earthquakes. Financially, major tech stocks are exhibiting significant downturns amid evolving regulatory challenges like New York's data center moratorium, even as AI integration accelerates across industries. Concurrently, persistent seismic activity across the Pacific Ring of Fire\u2014including multiple magnitude 5+ events in Chile, the Philippines, and Indonesia\u2014signals a heightened state of physical vulnerability. To navigate this complex environment, GlobeGuard directs immediate action: 1) Diversify critical supply chains and fortify local food reserves to mitigate anticipated global food shocks; 2) Strategically re-evaluate financial portfolios, prioritizing resilient assets and monitoring regulatory shifts impacting core tech infrastructure; and 3) Update and stress-test comprehensive disaster preparedness protocols for both physical safety and operational continuity, with particular emphasis on regions prone to seismic and extreme weather events.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $213.97 (3.22%)",
+            "title": "\ud83d\udcb0 NVDA: $213.65 (3.07%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $324.77 (-0.91%)",
+            "title": "\ud83d\udcb0 AAPL: $323.86 (-1.18%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $388.82 (-2.25%)",
+            "title": "\ud83d\udcb0 MSFT: $387.21 (-2.65%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $126.46 (-4.67%)",
+            "title": "\ud83d\udcb0 PLTR: $123.6 (-6.83%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.2 (-1.35%)",
+            "title": "\ud83d\udcb0 AMZN: $242.74 (-1.94%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 61 km SSW of San Pedro de Atacama, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 121 km NW of Vallenar, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 55 km WSW of Langsa, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 200 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2gh"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just struck across Chile, Philippines, and Indonesia!"
+    "seismicSummary": "\ud83d\udea8 Multiple Magnitude 5 earthquakes just struck Chile, Philippines, and Indonesia!"
 }
