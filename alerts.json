@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents an urgent, multifaceted threat landscape characterized by elevated tectonic activity across the Kermadec Islands, Portugal, Chile, and the Philippines, significantly amplifying the ongoing humanitarian crisis in Venezuela stemming from recent quakes. This physical instability is compounded by a looming 'Super El Ni\u00f1o' threat, portending a potential global food crisis and exacerbating resource scarcity, while geopolitical tensions persist with events like the Cuban dissident's exile. Concurrently, the financial landscape reveals a mixed tech market, influenced by an accelerating, yet increasingly regulated, global AI arms race where data centers face moratoriums and autonomous technology encounters regulatory hurdles. To navigate this volatile environment, GlobeGuard advises three critical actions: prioritize physical safety through comprehensive disaster preparedness, including emergency kits and robust communication plans, particularly in seismically active or resource-vulnerable areas; secure essential resources by diversifying food supply chains and maintaining emergency stores, acknowledging the escalating risk of global food insecurity due to climate phenomena; and safeguard digital and financial assets through strategic diversification away from over-reliance on single tech sectors and by strengthening cybersecurity protocols in an era where data is a primary strategic asset.",
+    "strategicPlan": "The global environment presents a converging set of high-priority risks: geopolitical instability, highlighted by ongoing humanitarian crises in Venezuela and the exile of Cuban dissidents, is now critically compounded by the looming threat of a Super El Ni\u00f1o-triggered global food crisis. Financially, major tech stocks are experiencing a broad market downturn, likely influenced by increasing regulatory scrutiny on AI, data centers, and autonomous technologies, while the escalating strategic \"weaponization\" of data by global powers marks a new front in competition. Simultaneously, persistent seismic activity across the Pacific Ring of Fire, including recent moderate quakes, signals ongoing physical threats. To secure assets and ensure physical safety, we must immediately: diversify and fortify critical supply chains, especially food resources, to build resilience against climate-induced disruptions; conduct a rapid audit of technology investments and operational exposures to adapt to evolving AI and data center regulations amidst market volatility; and reinforce all disaster preparedness protocols and physical asset security measures, particularly in climatically or seismically vulnerable regions, to ensure robust rapid response capabilities.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.29 (1.97%)",
+            "title": "\ud83d\udcb0 NVDA: $206.96 (-0.16%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $327.74 (0.35%)",
+            "title": "\ud83d\udcb0 AAPL: $325.7 (-0.62%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $397.75 (-1.13%)",
+            "title": "\ud83d\udcb0 MSFT: $391.6 (-1.55%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $132.66 (-1.62%)",
+            "title": "\ud83d\udcb0 PLTR: $127.61 (-3.81%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $247.55 (-0.98%)",
+            "title": "\ud83d\udcb0 AMZN: $246.13 (-0.57%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t25y"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 132 km ENE of Santa Cruz das Flores, Portugal",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 121 km NW of Vallenar, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 7 km WNW of Kalbay, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 55 km WSW of Langsa, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 11 km NW of Sugal, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fj"
         }
     ],
-    "seismicSummary": "Alert: Several M5 earthquakes detected worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple moderate earthquakes (Mag 4.9-5.1) just struck Chile, the Philippines, and Indonesia!"
 }
