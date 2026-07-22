@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is increasingly volatile, characterized by simultaneous geopolitical, economic, and geophysical stresses. A critical \"Super El Ni\u00f1o\" threatens a global food crisis, amplifying existing humanitarian needs in regions like Venezuela following recent quakes and contributing to regional instability exemplified by Cuban political exiles. Financially, while AI integration and strategic data initiatives are advancing, regulatory headwinds for tech infrastructure and autonomous vehicles, coupled with mixed market performance, indicate an uncertain investment climate amidst broader resource scarcity. Concurrently, a pattern of elevated seismic activity across the Kermadec Islands, Portugal, Philippines, and Indonesia signals persistent geological instability. To secure assets and ensure physical safety, individuals must prioritize robust emergency preparedness, including a minimum three-month supply of essential food and water; diversify investments into tangible, non-perishable assets and maintain a liquid cash reserve to weather market volatility; and develop a comprehensive personal disaster response plan tailored to local geological and environmental risks.",
+    "strategicPlan": "The global environment presents an urgent, multifaceted threat landscape characterized by elevated tectonic activity across the Kermadec Islands, Portugal, Chile, and the Philippines, significantly amplifying the ongoing humanitarian crisis in Venezuela stemming from recent quakes. This physical instability is compounded by a looming 'Super El Ni\u00f1o' threat, portending a potential global food crisis and exacerbating resource scarcity, while geopolitical tensions persist with events like the Cuban dissident's exile. Concurrently, the financial landscape reveals a mixed tech market, influenced by an accelerating, yet increasingly regulated, global AI arms race where data centers face moratoriums and autonomous technology encounters regulatory hurdles. To navigate this volatile environment, GlobeGuard advises three critical actions: prioritize physical safety through comprehensive disaster preparedness, including emergency kits and robust communication plans, particularly in seismically active or resource-vulnerable areas; secure essential resources by diversifying food supply chains and maintaining emergency stores, acknowledging the escalating risk of global food insecurity due to climate phenomena; and safeguard digital and financial assets through strategic diversification away from over-reliance on single tech sectors and by strengthening cybersecurity protocols in an era where data is a primary strategic asset.",
     "survival": [
         {
             "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 7 km WNW of Kalbay, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a7"
+            "title": "\u26a0\ufe0f Mag 5.1 - 121 km NW of Vallenar, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 55 km WSW of Langsa, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
+            "title": "\u26a0\ufe0f Mag 5.1 - 7 km WNW of Kalbay, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a7"
         }
     ],
-    "seismicSummary": "Four magnitude 5 earthquakes just struck worldwide!"
+    "seismicSummary": "Alert: Several M5 earthquakes detected worldwide!"
 }
