@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic risks, marked by escalating geopolitical instability stemming from widespread economic hardship and the looming specter of an El Ni\u00f1o-triggered global food crisis. This socio-economic fragility is compounded by a significant downturn across key tech financial markets and a measurable increase in global tectonic activity, evidenced by multiple M5.0+ seismic events, indicating a heightened multi-domain threat landscape. To secure assets and ensure physical safety, GlobeGuard directs the following immediate actions: first, diversify financial portfolios towards tangible assets and essential commodities, bolstering personal and organizational resilience against economic volatility and food supply chain disruptions; second, implement advanced physical preparedness measures, including comprehensive earthquake protocols, for all personnel and critical infrastructure, especially given the recent seismic upticks; and third, enhance local situational awareness, developing robust contingency plans for potential social unrest or resource scarcity in vulnerable regions.",
+    "strategicPlan": "Strategic Directive: Our intelligence indicates a critical convergence of systemic threats: profound global economic instability is accelerating, highlighted by widespread household struggle and a looming El Ni\u00f1o-driven food crisis, while financial markets show significant tech sector contraction. Simultaneously, we observe a notable spike in moderate-to-strong seismic activity across key strategic and populous regions, including Japan, Alaska, and the US mainland, indicating elevated physical risk. To navigate this volatile landscape, you must immediately: 1. Reassess and diversify your financial portfolio, prioritizing stability and essential commodities over speculative tech, while stress-testing your supply chains for food and critical resources against potential shortages. 2. Implement or refresh comprehensive emergency preparedness protocols for physical safety, focusing on seismic resilience and securing sufficient offline provisions (food, water, power) to endure potential infrastructure disruptions. 3. Secure your digital assets with robust backups and monitor regulatory shifts impacting essential services, especially those reliant on evolving AI and data infrastructure, to mitigate both cyber and regulatory exposure.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.54 (-2.13%)",
+            "title": "\ud83d\udcb0 NVDA: $208.76 (-1.56%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $320.28 (-1.72%)",
+            "title": "\ud83d\udcb0 AAPL: $321.66 (-1.3%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $380.98 (-2.4%)",
+            "title": "\ud83d\udcb0 MSFT: $381.58 (-2.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $122.66 (-1.53%)",
+            "title": "\ud83d\udcb0 PLTR: $123.37 (-0.96%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $233.32 (-4.71%)",
+            "title": "\ud83d\udcb0 AMZN: $233.66 (-4.57%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
         }
     ],
-    "seismicSummary": "Four Mag 5 earthquakes just struck diverse locations including Alaska, Japan, the Mid-Atlantic, and Texas!"
+    "seismicSummary": "**Urgent: Multiple Magnitude 5 earthquakes just struck diverse locations globally, from Alaska to Texas!**"
 }
