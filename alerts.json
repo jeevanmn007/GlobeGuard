@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is marked by a confluence of acute and emerging threats: widespread economic hardship is intensifying, with 7.4 million households struggling and a Super El Ni\u00f1o posing a severe risk of global food crises, creating fertile ground for social instability. Financially, major tech stocks show volatility amidst this uncertainty, though specific sectors like AI infrastructure maintain strength, while the rapid pace of technological integration into defense and society brings both opportunity and regulatory friction. Concurrently, persistent, moderate seismic activity across multiple global fault lines underscores the ever-present physical risks. To navigate this complex environment, prioritize securing your resilience: 1) Immediately review and diversify financial holdings, focusing on liquidity and robust emergency funds to buffer against economic shocks. 2) Proactively establish local supply chain redundancies and emergency provisions, especially for food and critical necessities, in anticipation of potential climate-induced disruptions. 3) Reinforce physical safety protocols and emergency preparedness, ensuring communication plans and disaster kits are current, and maintain awareness of regional natural hazard advisories.",
+    "strategicPlan": "The global environment is acutely stressed, presenting a critical confluence of challenges: widespread socioeconomic distress exacerbated by a looming global food crisis, a notable downturn across major tech markets indicating broader financial instability, and an uptick in global Mag 5.1 seismic activity requiring vigilance. To navigate this complex landscape, GlobeGuard directs immediate action: first, **secure financial stability by re-evaluating portfolios for resilience against economic volatility, focusing on diversification into essential sectors and tangible assets.** Second, **bolster physical safety by enhancing emergency preparedness, including robust food and water reserves, and reviewing structural integrity and evacuation plans in light of increased seismic events and potential resource scarcity.** Third, **ensure operational continuity by fortifying cybersecurity defenses and developing robust contingency strategies for supply chain disruptions, especially those tied to increasingly regulated or vulnerable digital infrastructure.**",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.06 (2.3%)",
+            "title": "\ud83d\udcb0 NVDA: $206.61 (-2.57%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $325.89 (-0.56%)",
+            "title": "\ud83d\udcb0 AAPL: $321.68 (-1.29%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.34 (-1.86%)",
+            "title": "\ud83d\udcb0 MSFT: $378.8 (-2.96%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $124.57 (-6.1%)",
+            "title": "\ud83d\udcb0 PLTR: $121.22 (-2.69%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.85 (-1.09%)",
+            "title": "\ud83d\udcb0 AMZN: $232.7 (-4.96%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Four Mag 5.1 quakes reported worldwide!"
+    "seismicSummary": "Urgent: Four Mag 5.1 earthquakes just hit across Alaska, Japan, the Mid-Atlantic, and Chile!"
 }
