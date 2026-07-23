@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex nexus of converging threats: escalating socio-economic fragility evidenced by widespread struggles for essentials and the looming shadow of a Super El Ni\u00f1o-induced food crisis, juxtaposed with significant volatility in the tech sector where major players are receding amidst emergent AI regulatory frameworks. This instability is undergirded by a notable uptick in M5+ seismic activity across multiple key regions, including Chile and the Mid-Atlantic Ridge, indicating underlying physical planet dynamics that could impact infrastructure and logistics. To navigate this period of heightened systemic risk, immediately undertake the following: first, diversify essential supply chain dependencies and fortify personal/organizational economic resilience against potential food and resource scarcity; second, rigorously assess your exposure to the rapidly evolving AI regulatory landscape and technology market shifts, particularly concerning data center operations and autonomous systems; and third, critically review and update physical security protocols and disaster preparedness plans for assets and personnel in seismically active zones, ensuring robust contingency measures are in place.",
+    "strategicPlan": "The global intelligence picture reveals an escalating multi-domain threat: widespread societal economic fragility, compounded by the specter of a global food crisis and significant volatility in critical tech sectors, underpins a rapidly evolving geopolitical landscape driven by AI advancements and data weaponization. Simultaneously, the clustering of multiple Magnitude 5.1 seismic events across key global fault lines\u2014from the Pacific Ring of Fire to the Mid-Atlantic Ridge\u2014signals a period of heightened geophysical instability. To mitigate these converging risks, secure your assets by diversifying investments into essential hard commodities and maintaining robust physical security protocols; fortify supply chain resilience for critical resources, particularly food and energy, in anticipation of potential disruptions; and ensure comprehensive disaster preparedness plans are in place for all operational sites and personnel, especially those in seismically active regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 92 km SE of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 85 km SE of Tatsug\u014d, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mi"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 61 km SSW of San Pedro de Atacama, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 121 km NW of Vallenar, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2fd"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2j3"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5 earthquakes just struck diverse global locations!"
+    "seismicSummary": "Four M5.1 earthquakes just struck multiple locations worldwide!"
 }
