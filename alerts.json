@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape currently presents a complex, converging risk environment where interconnected threats demand immediate strategic attention. Geopolitically, the specter of a global food crisis driven by El Ni\u00f1o, coupled with widespread economic hardship affecting millions and persistent regional political instability, points to escalating social and resource pressures worldwide. Financially, while specific AI sectors exhibit robust growth (e.g., NVDA), the broader tech market shows significant volatility and increasing regulatory scrutiny on technology (e.g., data center moratoriums, robotaxi laws), signaling potential economic friction and market shifts. Concurrently, heightened seismic activity across the Pacific Ring of Fire introduces a persistent physical risk to critical infrastructure and global supply chains. To secure assets and ensure physical safety, GlobeGuard advises the following: First, fortify personal and organizational resilience by diversifying essential supplies and assessing potential food security impacts on your operations and dependents. Second, rigorously review and update all emergency protocols and contingency plans for physical assets, especially those located in seismically active zones or critical supply chain nodes. Third, strategically navigate the evolving technological landscape, leveraging AI's potential while actively preparing for increased regulatory burdens and infrastructure constraints that will shape future market dynamics and resource allocation.",
+    "strategicPlan": "The current global environment is characterized by escalating socio-economic fragility, with widespread struggles for basic necessities and a potential global food crisis exacerbated by El Ni\u00f1o. This financial strain coincides with a volatile tech market, evidenced by significant dips in major stocks despite ongoing AI integration and evolving regulatory landscapes, all while persistent moderate seismic activity across the Pacific Ring of Fire underscores inherent physical risks. To secure assets and ensure physical safety, immediately implement and review comprehensive emergency protocols for natural disasters, with particular emphasis on seismic preparedness in at-risk regions. Simultaneously, adjust financial portfolios to account for tech market volatility, strategically leveraging AI advancements while meticulously assessing new regulatory frameworks. Finally, secure and diversify essential supply chains, focusing on food and basic necessities to build resilience against economic shocks and potential resource scarcity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2j3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 55 km WSW of Langsa, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2dz"
+            "title": "\u26a0\ufe0f Mag 4.9 - 17 km NW of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2jk"
         }
     ],
-    "seismicSummary": "ALERT: Multiple magnitude 5 earthquakes reported across Chile, New Zealand, and Indonesia!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just hit Chile, New Zealand, and Tonga!"
 }
