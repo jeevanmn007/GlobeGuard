@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is characterized by escalating socio-economic fragility, with widespread struggles for basic necessities and a potential global food crisis exacerbated by El Ni\u00f1o. This financial strain coincides with a volatile tech market, evidenced by significant dips in major stocks despite ongoing AI integration and evolving regulatory landscapes, all while persistent moderate seismic activity across the Pacific Ring of Fire underscores inherent physical risks. To secure assets and ensure physical safety, immediately implement and review comprehensive emergency protocols for natural disasters, with particular emphasis on seismic preparedness in at-risk regions. Simultaneously, adjust financial portfolios to account for tech market volatility, strategically leveraging AI advancements while meticulously assessing new regulatory frameworks. Finally, secure and diversify essential supply chains, focusing on food and basic necessities to build resilience against economic shocks and potential resource scarcity.",
+    "strategicPlan": "The global situation presents a complex nexus of converging threats: escalating socio-economic fragility evidenced by widespread struggles for essentials and the looming shadow of a Super El Ni\u00f1o-induced food crisis, juxtaposed with significant volatility in the tech sector where major players are receding amidst emergent AI regulatory frameworks. This instability is undergirded by a notable uptick in M5+ seismic activity across multiple key regions, including Chile and the Mid-Atlantic Ridge, indicating underlying physical planet dynamics that could impact infrastructure and logistics. To navigate this period of heightened systemic risk, immediately undertake the following: first, diversify essential supply chain dependencies and fortify personal/organizational economic resilience against potential food and resource scarcity; second, rigorously assess your exposure to the rapidly evolving AI regulatory landscape and technology market shifts, particularly concerning data center operations and autonomous systems; and third, critically review and update physical security protocols and disaster preparedness plans for assets and personnel in seismically active zones, ensuring robust contingency measures are in place.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mi"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 61 km SSW of San Pedro de Atacama, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2j3"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 17 km NW of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2jk"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just hit Chile, New Zealand, and Tonga!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5 earthquakes just struck diverse global locations!"
 }
