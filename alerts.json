@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is acutely stressed, presenting a critical confluence of challenges: widespread socioeconomic distress exacerbated by a looming global food crisis, a notable downturn across major tech markets indicating broader financial instability, and an uptick in global Mag 5.1 seismic activity requiring vigilance. To navigate this complex landscape, GlobeGuard directs immediate action: first, **secure financial stability by re-evaluating portfolios for resilience against economic volatility, focusing on diversification into essential sectors and tangible assets.** Second, **bolster physical safety by enhancing emergency preparedness, including robust food and water reserves, and reviewing structural integrity and evacuation plans in light of increased seismic events and potential resource scarcity.** Third, **ensure operational continuity by fortifying cybersecurity defenses and developing robust contingency strategies for supply chain disruptions, especially those tied to increasingly regulated or vulnerable digital infrastructure.**",
+    "strategicPlan": "The current global operational landscape presents a critical convergence of systemic risks, demanding immediate strategic recalibration. Geopolitically, widespread economic fragility, underscored by significant household struggles and the looming threat of a global food crisis due to a Super El Ni\u00f1o, generates substantial social instability potential. Financially, a broad market downturn in leading tech sectors, coupled with regulatory headwinds for AI and data centers, signals increased investor apprehension amidst rapid AI adoption and militarization. Concurrently, a notable increase in distributed seismic activity, including an anomalous 5.0 event in Texas alongside multiple 5.1s across the Pacific Rim and Mid-Atlantic Ridge, indicates heightened and unpredictable geophysical stress. In this volatile environment, GlobeGuard directs immediate action to: 1. Conduct a comprehensive stress test of financial portfolios against sustained market downturns and prepare for significant supply chain disruptions from climate and economic pressures. 2. Implement enhanced physical safety protocols and emergency response plans, specifically focusing on seismic preparedness for critical infrastructure and personnel in all potentially affected regions. 3. Bolster cyber defenses to counter evolving AI-driven threats while simultaneously developing strategies to leverage AI for improved situational awareness and risk mitigation across all operational fronts.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.61 (-2.57%)",
+            "title": "\ud83d\udcb0 NVDA: $209.25 (-1.33%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $321.68 (-1.29%)",
+            "title": "\ud83d\udcb0 AAPL: $320.42 (-1.68%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $378.8 (-2.96%)",
+            "title": "\ud83d\udcb0 MSFT: $381.3 (-2.32%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $121.22 (-2.69%)",
+            "title": "\ud83d\udcb0 PLTR: $122.01 (-2.06%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.7 (-4.96%)",
+            "title": "\ud83d\udcb0 AMZN: $234.05 (-4.41%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 61 km SSW of San Pedro de Atacama, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2h9"
+            "title": "\u26a0\ufe0f Mag 5 - 38 km SSE of Spearman, Texas",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
         }
     ],
-    "seismicSummary": "Urgent: Four Mag 5.1 earthquakes just hit across Alaska, Japan, the Mid-Atlantic, and Chile!"
+    "seismicSummary": "Four M5 quakes just struck worldwide: Alaska, Japan, Mid-Atlantic, Texas!"
 }
