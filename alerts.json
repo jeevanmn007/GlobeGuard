@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global operational landscape presents a critical convergence of systemic risks, demanding immediate strategic recalibration. Geopolitically, widespread economic fragility, underscored by significant household struggles and the looming threat of a global food crisis due to a Super El Ni\u00f1o, generates substantial social instability potential. Financially, a broad market downturn in leading tech sectors, coupled with regulatory headwinds for AI and data centers, signals increased investor apprehension amidst rapid AI adoption and militarization. Concurrently, a notable increase in distributed seismic activity, including an anomalous 5.0 event in Texas alongside multiple 5.1s across the Pacific Rim and Mid-Atlantic Ridge, indicates heightened and unpredictable geophysical stress. In this volatile environment, GlobeGuard directs immediate action to: 1. Conduct a comprehensive stress test of financial portfolios against sustained market downturns and prepare for significant supply chain disruptions from climate and economic pressures. 2. Implement enhanced physical safety protocols and emergency response plans, specifically focusing on seismic preparedness for critical infrastructure and personnel in all potentially affected regions. 3. Bolster cyber defenses to counter evolving AI-driven threats while simultaneously developing strategies to leverage AI for improved situational awareness and risk mitigation across all operational fronts.",
+    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic risks, marked by escalating geopolitical instability stemming from widespread economic hardship and the looming specter of an El Ni\u00f1o-triggered global food crisis. This socio-economic fragility is compounded by a significant downturn across key tech financial markets and a measurable increase in global tectonic activity, evidenced by multiple M5.0+ seismic events, indicating a heightened multi-domain threat landscape. To secure assets and ensure physical safety, GlobeGuard directs the following immediate actions: first, diversify financial portfolios towards tangible assets and essential commodities, bolstering personal and organizational resilience against economic volatility and food supply chain disruptions; second, implement advanced physical preparedness measures, including comprehensive earthquake protocols, for all personnel and critical infrastructure, especially given the recent seismic upticks; and third, enhance local situational awareness, developing robust contingency plans for potential social unrest or resource scarcity in vulnerable regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.25 (-1.33%)",
+            "title": "\ud83d\udcb0 NVDA: $207.54 (-2.13%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $320.42 (-1.68%)",
+            "title": "\ud83d\udcb0 AAPL: $320.28 (-1.72%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $381.3 (-2.32%)",
+            "title": "\ud83d\udcb0 MSFT: $380.98 (-2.4%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $122.01 (-2.06%)",
+            "title": "\ud83d\udcb0 PLTR: $122.66 (-1.53%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $234.05 (-4.41%)",
+            "title": "\ud83d\udcb0 AMZN: $233.32 (-4.71%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
         }
     ],
-    "seismicSummary": "Four M5 quakes just struck worldwide: Alaska, Japan, Mid-Atlantic, Texas!"
+    "seismicSummary": "Four Mag 5 earthquakes just struck diverse locations including Alaska, Japan, the Mid-Atlantic, and Texas!"
 }
