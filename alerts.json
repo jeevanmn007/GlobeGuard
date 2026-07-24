@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a dynamic interplay of escalating risks. Geopolitically, widespread economic hardship is evident, with millions struggling for essentials, creating a backdrop for potential social unrest, while persistent humanitarian crises in regions like Venezuela underscore ongoing instability. Financially, the technology sector faces a complex landscape of mixed market performance, growing regulatory scrutiny, and infrastructural bottlenecks, despite accelerating AI integration. Concurrently, the physical domain registers elevated seismic activity across the Pacific Ring of Fire, with a notable cluster of moderate quakes in Indonesia, signaling continued geological instability. In response, GlobeGuard directs immediate action: first, review and diversify investment portfolios, particularly re-evaluating exposure to AI and autonomous tech sectors facing regulatory headwinds; second, fortify critical supply chains against potential economic or regional disruptions; and third, update and stress-test emergency preparedness plans for all assets and personnel in seismically active zones.",
+    "strategicPlan": "The global environment is currently defined by a confluence of significant threats: pervasive economic fragility leading to widespread humanitarian struggles, rapid technological shifts in AI and data facing increasing regulatory friction, and an alarming uptick in global seismic activity. Widespread household economic precarity, exemplified by UK data and the ongoing humanitarian crisis in Venezuela following recent quakes, creates potential for social instability even as the tech sector shows market resilience amidst new regulatory headwinds for AI, robotaxis, and data centers. Compounding this, elevated seismic risk is evident in the cluster of magnitude 5+ earthquakes across Indonesia. In response, GlobeGuard must prioritize three immediate actions: first, bolster digital and financial asset security by diversifying portfolios and fortifying cyber defenses against both market volatility and emerging tech regulations; second, swiftly update and implement comprehensive disaster preparedness and business continuity protocols for all personnel and assets in identified high-risk seismic and humanitarian zones; and third, proactively reassess and reinforce critical supply chain resilience to mitigate disruptions from both economic shocks and natural disasters.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.41 (-1.13%)",
+            "title": "\ud83d\udcb0 NVDA: $209.63 (0.42%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $326.95 (1.64%)",
+            "title": "\ud83d\udcb0 AAPL: $332.36 (3.33%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $381.42 (-0.04%)",
+            "title": "\ud83d\udcb0 MSFT: $385.12 (0.93%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $122.36 (-0.82%)",
+            "title": "\ud83d\udcb0 PLTR: $124.11 (0.6%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.79 (-0.37%)",
+            "title": "\ud83d\udcb0 AMZN: $233.28 (-0.16%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30v"
         }
     ],
-    "seismicSummary": "Multiple strong magnitude 5 earthquakes are rocking Indonesia!"
+    "seismicSummary": "**URGENT: Multiple earthquakes, up to Magnitude 5.8, reported across Indonesia!**"
 }
