@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "**STRATEGIC DIRECTIVE: Elevated Global Risk Convergence**\n\nThe global situation presents a critical convergence of systemic threats: widespread socio-economic instability is escalating, marked by a significant downturn across major tech equities and growing cost-of-living pressures, amplified by a looming global food crisis threat from a Super El Ni\u00f1o. Concurrently, a heightened global seismic alert is warranted by a cluster of M5+ earthquakes across the Pacific Ring of Fire and Mid-Atlantic Ridge, while geopolitical tensions rise with accelerating AI weaponization efforts and increasing regulatory friction on critical infrastructure like data centers. To navigate this multifaceted environment, GlobeGuard directs the following: 1. **Financial and Digital Asset De-risking**: Immediately review and diversify investment portfolios away from volatile tech, reallocating towards defensive assets, and bolster digital security protocols in anticipation of increased state-level AI engagement and cyber threats. 2. **Essential Resource Security**: Implement strategies for securing critical supplies, particularly food and energy, establishing resilient local supply chains and backup provisions to buffer against potential widespread shortages and inflationary pressures. 3. **Physical Preparedness Enhancement**: Update and reinforce disaster preparedness protocols across all facilities, with a specific focus on seismic event response and continuity plans for potential infrastructure disruptions in vulnerable regions.",
+    "strategicPlan": "The global intelligence picture reveals a critical convergence of intensifying socioeconomic distress, highlighted by widespread household struggles for essentials and the looming threat of a Super El Ni\u00f1o-triggered global food crisis, which is mirrored by a broad market downturn evidenced across major tech stock valuations. This volatile financial and social climate is further complicated by rapid technological shifts, including significant AI adoption and new regulatory hurdles for data centers and autonomous vehicles, while persistent moderate seismic activity across tectonically active regions serves as a constant reminder of physical infrastructure vulnerabilities. In response to this integrated threat matrix, GlobeGuard issues the following directive to secure assets and ensure physical safety: immediately review and de-risk investment portfolios, prioritizing liquidity and essential resilience against potential inflation and supply chain disruptions; proactively enhance personal and family emergency preparedness, focusing on robust food and water stores, communication plans, and essential utilities given the elevated risk of natural disasters and resource scarcity; and meticulously monitor geopolitical stability and regulatory changes in critical technology sectors to adapt swiftly to the evolving economic and security landscape.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mi"
+            "title": "\u26a0\ufe0f Mag 5 - 94 km SSE of Adak, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes, including a 5.8 in Indonesia, are striking worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes have struck Indonesia, Alaska, and Japan!"
 }
