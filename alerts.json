@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a multi-faceted risk environment, marked by acute geopolitical stressors like widespread economic hardship and post-quake humanitarian crises, juxtaposed against rapid technological shifts, particularly in AI, which face increasing regulatory and market volatility. Financially, the tech sector shows a mixed performance, while physically, significant seismic activity across the Pacific Ring of Fire continues to pose an undeniable and persistent threat. To navigate this complex landscape, GlobeGuard directs immediate action: 1) Diversify and secure digital assets and financial portfolios, hedging against market shifts and potential data infrastructure constraints given regulatory pressures. 2) Update and reinforce emergency preparedness protocols for all personnel and assets located within seismically active zones, particularly in Southeast Asia and Oceania. 3) Proactively analyze the intersection of AI regulatory trends and evolving humanitarian crises to anticipate supply chain disruptions and shifts in global stability, enabling agile strategic adjustments.",
+    "strategicPlan": "GlobeGuard's intelligence assessment reveals a complex global landscape defined by acute socioeconomic fragility\u2014evidenced by widespread household struggles amidst luxury spending contrasts\u2014coupled with a highly dynamic technological frontier experiencing both rapid AI integration (military, creative industries) and increasing regulatory friction (data centers, robotaxis). Financially, key tech sectors show mixed resilience, hinting at market bifurcation, while the physical threat matrix is elevated by a sustained pattern of significant seismic events across multiple global regions, as underscored by the ongoing humanitarian crisis in Venezuela. To navigate this volatile environment, we advise three immediate actions: first, prioritize physical safety by verifying structural integrity of key assets in active seismic zones and refreshing comprehensive emergency preparedness kits; second, secure digital and physical assets through enhanced data redundancy, robust cyber resilience protocols, and a review of geographic diversification strategies given potential regulatory impacts on tech infrastructure; and third, maintain vigilant situational awareness regarding evolving socioeconomic instability and humanitarian pressures, as these indicators are crucial for anticipating supply chain disruptions and regional security shifts.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $205.92 (-1.36%)",
+            "title": "\ud83d\udcb0 NVDA: $206.84 (-0.92%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.4 (3.34%)",
+            "title": "\ud83d\udcb0 AAPL: $333.02 (3.53%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $382.94 (0.36%)",
+            "title": "\ud83d\udcb0 MSFT: $381.7 (0.03%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.46 (0.07%)",
+            "title": "\ud83d\udcb0 PLTR: $122.92 (-0.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.1 (-0.67%)",
+            "title": "\ud83d\udcb0 AMZN: $232.11 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 202 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
+            "title": "\u26a0\ufe0f Mag 5.4 - 47 km WNW of San Antonio de los Cobres, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 197 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309"
+            "title": "\u26a0\ufe0f Mag 5.4 - 202 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.8, just struck Indonesia and New Zealand!"
+    "seismicSummary": "Multiple strong earthquakes (up to Mag 5.8) just struck worldwide!"
 }
