@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape presents a complex and volatile picture, marked by significant financial headwinds across major tech sectors and widespread socio-economic strain evidenced by household struggles, alongside persistent geopolitical fragilities highlighted by regional crises like post-quake Venezuela and ongoing dissident movements. This environment is further complicated by elevated physical tectonic instability, with multiple moderate-to-strong seismic events reported globally. To navigate this, immediately diversify financial asset portfolios away from volatile tech and ensure robust liquidity; enhance physical safety protocols by developing comprehensive emergency response plans and pre-positioning supplies for natural disasters, especially in seismically active zones; and critically fortify digital asset and data security frameworks, acknowledging the escalating strategic importance and regulatory pressures surrounding AI and data infrastructure.",
+    "strategicPlan": "The global environment presents a dynamic interplay of escalating risks. Geopolitically, widespread economic hardship is evident, with millions struggling for essentials, creating a backdrop for potential social unrest, while persistent humanitarian crises in regions like Venezuela underscore ongoing instability. Financially, the technology sector faces a complex landscape of mixed market performance, growing regulatory scrutiny, and infrastructural bottlenecks, despite accelerating AI integration. Concurrently, the physical domain registers elevated seismic activity across the Pacific Ring of Fire, with a notable cluster of moderate quakes in Indonesia, signaling continued geological instability. In response, GlobeGuard directs immediate action: first, review and diversify investment portfolios, particularly re-evaluating exposure to AI and autonomous tech sectors facing regulatory headwinds; second, fortify critical supply chains against potential economic or regional disruptions; and third, update and stress-test emergency preparedness plans for all assets and personnel in seismically active zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.76 (-1.56%)",
+            "title": "\ud83d\udcb0 NVDA: $206.41 (-1.13%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $321.66 (-1.3%)",
+            "title": "\ud83d\udcb0 AAPL: $326.95 (1.64%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $381.58 (-2.24%)",
+            "title": "\ud83d\udcb0 MSFT: $381.42 (-0.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.37 (-0.96%)",
+            "title": "\ud83d\udcb0 PLTR: $122.36 (-0.82%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $233.66 (-4.57%)",
+            "title": "\ud83d\udcb0 AMZN: $232.79 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 202 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 197 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 94 km SSE of Adak, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws"
+            "title": "\u26a0\ufe0f Mag 5.1 - 194 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30v"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Magnitude 5+ earthquakes are striking worldwide, including a 5.8 in Indonesia!"
+    "seismicSummary": "Multiple strong magnitude 5 earthquakes are rocking Indonesia!"
 }
