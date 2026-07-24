@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly evolving, characterized by a potent confluence of escalating socio-economic strain, market volatility, and concerning physical threats. Geopolitically, the widespread cost-of-living crisis, the specter of an El Ni\u00f1o-triggered global food crisis, and increasing regulatory scrutiny on emerging technologies create significant systemic pressures, while financial markets exhibit notable downturns across key tech sectors. Concurrently, an unusual pattern of elevated global seismic activity, including a significant Mag 5.0 event in Texas, indicates potential for localized infrastructure disruption in previously stable regions. To secure assets and ensure physical safety, first, immediately review and diversify financial portfolios, emphasizing liquidity and resilience against economic shocks while re-evaluating dependencies on volatile growth sectors. Second, fortify personal and operational supply chains, especially regarding essential goods and utilities, and ensure robust emergency preparedness plans are in place to mitigate potential food and energy insecurity. Third, elevate vigilance on regional seismic activity and infrastructure vulnerabilities, particularly in unexpected areas, and ensure physical premises are assessed for unforeseen geological events and their cascading effects.",
+    "strategicPlan": "**STRATEGIC DIRECTIVE: Elevated Global Risk Convergence**\n\nThe global situation presents a critical convergence of systemic threats: widespread socio-economic instability is escalating, marked by a significant downturn across major tech equities and growing cost-of-living pressures, amplified by a looming global food crisis threat from a Super El Ni\u00f1o. Concurrently, a heightened global seismic alert is warranted by a cluster of M5+ earthquakes across the Pacific Ring of Fire and Mid-Atlantic Ridge, while geopolitical tensions rise with accelerating AI weaponization efforts and increasing regulatory friction on critical infrastructure like data centers. To navigate this multifaceted environment, GlobeGuard directs the following: 1. **Financial and Digital Asset De-risking**: Immediately review and diversify investment portfolios away from volatile tech, reallocating towards defensive assets, and bolster digital security protocols in anticipation of increased state-level AI engagement and cyber threats. 2. **Essential Resource Security**: Implement strategies for securing critical supplies, particularly food and energy, establishing resilient local supply chains and backup provisions to buffer against potential widespread shortages and inflationary pressures. 3. **Physical Preparedness Enhancement**: Update and reinforce disaster preparedness protocols across all facilities, with a specific focus on seismic event response and continuity plans for potential infrastructure disruptions in vulnerable regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 130 km W of Ternate, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 92 km SE of Atka, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2mi"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 38 km SSE of Spearman, Texas",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes just struck diverse locations worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes, including a 5.8 in Indonesia, are striking worldwide!"
 }
