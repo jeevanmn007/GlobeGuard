@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a converging threat landscape: widespread economic precarity, highlighted by struggling households and the specter of a global food crisis exacerbated by El Ni\u00f1o, is coinciding with a notable downturn across major tech stocks, signaling broader market uncertainty. This financial strain is compounded by evolving technological risks, as rapid AI adoption confronts increasing regulatory scrutiny and infrastructure limitations, while persistent moderate seismic activity across disparate regions, including an anomalous event in Texas, underscores an ongoing, unpredictable physical hazard. To secure assets and ensure physical safety, GlobeGuard issues the following directives: first, prioritize enhancing economic resilience by securing essential resources and diversifying income streams to mitigate the impacts of potential food crises and market volatility; second, conduct an immediate review of investment portfolios, reducing exposure to volatile tech sectors and bolstering liquid asset protection against further market contractions; and third, meticulously update and regularly drill emergency preparedness protocols, especially for seismic events and potential supply chain disruptions in critical regions.",
+    "strategicPlan": "The global strategic landscape presents a complex and volatile picture, marked by significant financial headwinds across major tech sectors and widespread socio-economic strain evidenced by household struggles, alongside persistent geopolitical fragilities highlighted by regional crises like post-quake Venezuela and ongoing dissident movements. This environment is further complicated by elevated physical tectonic instability, with multiple moderate-to-strong seismic events reported globally. To navigate this, immediately diversify financial asset portfolios away from volatile tech and ensure robust liquidity; enhance physical safety protocols by developing comprehensive emergency response plans and pre-positioning supplies for natural disasters, especially in seismically active zones; and critically fortify digital asset and data security frameworks, acknowledging the escalating strategic importance and regulatory pressures surrounding AI and data infrastructure.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -11,12 +11,12 @@
             "link": "https://www.wired.com/story/gourmet-dog-food/"
         },
         {
-            "title": "Could This Super El Ni\u00f1o Trigger a Global Food Crisis?",
-            "link": "https://gizmodo.com/could-this-super-el-nino-trigger-a-global-food-crisis-2000773228"
-        },
-        {
             "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
             "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
+        },
+        {
+            "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+            "link": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates"
         }
     ],
     "stock": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 92 km SE of Atka, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2n5"
+            "title": "\u26a0\ufe0f Mag 5.3 - 197 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 94 km SSE of Adak, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2wx"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 38 km SSE of Spearman, Texas",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky"
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ws"
         }
     ],
-    "seismicSummary": "Multiple strong quakes, up to Mag 5.8, just hit Indonesia, Alaska, and Texas!"
+    "seismicSummary": "\ud83d\udea8 Magnitude 5+ earthquakes are striking worldwide, including a 5.8 in Indonesia!"
 }
