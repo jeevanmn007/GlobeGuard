@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical juncture: widespread economic fragility, highlighted by severe household financial struggles and the ongoing humanitarian crisis in Venezuela post-quakes, is converging with a rapidly evolving technological landscape marked by an accelerating AI arms race\u2014from defense to creative industries\u2014and increasing regulatory pressures on tech infrastructure. This complex geopolitical and financial backdrop is compounded by a heightened physical threat, evidenced by significant seismic activity across the Indo-Pacific, indicating a period of increased tectonic instability. To strategically respond, first, immediately diversify and de-risk core asset portfolios, specifically evaluating exposure to tech sectors facing new regulatory scrutiny and potential infrastructure limitations. Second, implement advanced, AI-driven cybersecurity measures across all digital assets, simultaneously investing in threat intelligence capabilities to monitor the geopolitical applications and ethical implications of burgeoning AI technologies. Finally, enforce robust, location-specific emergency preparedness protocols and conduct urgent infrastructure vulnerability assessments for all personnel and critical operations, especially in seismically active regions, drawing lessons from the unquantified humanitarian impact of recent tremors.",
+    "strategicPlan": "The global situation presents a multi-faceted risk environment, marked by acute geopolitical stressors like widespread economic hardship and post-quake humanitarian crises, juxtaposed against rapid technological shifts, particularly in AI, which face increasing regulatory and market volatility. Financially, the tech sector shows a mixed performance, while physically, significant seismic activity across the Pacific Ring of Fire continues to pose an undeniable and persistent threat. To navigate this complex landscape, GlobeGuard directs immediate action: 1) Diversify and secure digital assets and financial portfolios, hedging against market shifts and potential data infrastructure constraints given regulatory pressures. 2) Update and reinforce emergency preparedness protocols for all personnel and assets located within seismically active zones, particularly in Southeast Asia and Oceania. 3) Proactively analyze the intersection of AI regulatory trends and evolving humanitarian crises to anticipate supply chain disruptions and shifts in global stability, enabling agile strategic adjustments.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.96 (0.57%)",
+            "title": "\ud83d\udcb0 NVDA: $205.92 (-1.36%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.95 (3.51%)",
+            "title": "\ud83d\udcb0 AAPL: $332.4 (3.34%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $384.01 (0.64%)",
+            "title": "\ud83d\udcb0 MSFT: $382.94 (0.36%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.39 (0.02%)",
+            "title": "\ud83d\udcb0 PLTR: $123.46 (0.07%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.79 (-0.37%)",
+            "title": "\ud83d\udcb0 AMZN: $232.1 (-0.67%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes reported, including a Mag 5.8 in Indonesia and a Mag 5.7 in New Zealand!"
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.8, just struck Indonesia and New Zealand!"
 }
