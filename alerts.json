@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence assessment reveals a complex global landscape defined by acute socioeconomic fragility\u2014evidenced by widespread household struggles amidst luxury spending contrasts\u2014coupled with a highly dynamic technological frontier experiencing both rapid AI integration (military, creative industries) and increasing regulatory friction (data centers, robotaxis). Financially, key tech sectors show mixed resilience, hinting at market bifurcation, while the physical threat matrix is elevated by a sustained pattern of significant seismic events across multiple global regions, as underscored by the ongoing humanitarian crisis in Venezuela. To navigate this volatile environment, we advise three immediate actions: first, prioritize physical safety by verifying structural integrity of key assets in active seismic zones and refreshing comprehensive emergency preparedness kits; second, secure digital and physical assets through enhanced data redundancy, robust cyber resilience protocols, and a review of geographic diversification strategies given potential regulatory impacts on tech infrastructure; and third, maintain vigilant situational awareness regarding evolving socioeconomic instability and humanitarian pressures, as these indicators are crucial for anticipating supply chain disruptions and regional security shifts.",
+    "strategicPlan": "The global landscape is characterized by a complex interplay of intensifying risks: persistent economic fragility is evident with millions struggling for basic essentials, humanitarian crises are escalating post-quake in regions like Venezuela, and a notable surge in significant global seismic activity is observed across diverse tectonic zones. Concurrently, the tech sector faces increasing regulatory scrutiny concerning AI and data center growth, despite its strategic integration into defense, while financial markets present mixed signals with key tech stocks experiencing both gains and modest declines. Given this multifaceted threat environment, GlobeGuard directs immediate action: first, conduct granular risk assessments on critical infrastructure and supply chains, prioritizing regions susceptible to both socioeconomic instability and seismic events; second, diversify asset portfolios to mitigate volatility from tech sector regulatory shifts and general economic uncertainty, favoring resilience over speculative growth; and third, fortify personal and organizational disaster preparedness protocols, specifically updating emergency kits and evacuation plans for all personnel operating in or near seismically active areas.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 130 km W of Ternate, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3"
+            "title": "\u26a0\ufe0f Mag 6 - 82 km W of Sola, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.7 - 49 km W of Turangi, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 47 km WNW of San Antonio de los Cobres, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 202 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 39 km NW of San Antonio de los Cobres, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes (up to Mag 5.8) just struck worldwide!"
+    "seismicSummary": "Multiple strong earthquakes, including a M6, are striking worldwide!"
 }
