@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of significant threats: pervasive economic fragility leading to widespread humanitarian struggles, rapid technological shifts in AI and data facing increasing regulatory friction, and an alarming uptick in global seismic activity. Widespread household economic precarity, exemplified by UK data and the ongoing humanitarian crisis in Venezuela following recent quakes, creates potential for social instability even as the tech sector shows market resilience amidst new regulatory headwinds for AI, robotaxis, and data centers. Compounding this, elevated seismic risk is evident in the cluster of magnitude 5+ earthquakes across Indonesia. In response, GlobeGuard must prioritize three immediate actions: first, bolster digital and financial asset security by diversifying portfolios and fortifying cyber defenses against both market volatility and emerging tech regulations; second, swiftly update and implement comprehensive disaster preparedness and business continuity protocols for all personnel and assets in identified high-risk seismic and humanitarian zones; and third, proactively reassess and reinforce critical supply chain resilience to mitigate disruptions from both economic shocks and natural disasters.",
+    "strategicPlan": "The global intelligence assessment reveals a critical juncture: widespread economic fragility, highlighted by severe household financial struggles and the ongoing humanitarian crisis in Venezuela post-quakes, is converging with a rapidly evolving technological landscape marked by an accelerating AI arms race\u2014from defense to creative industries\u2014and increasing regulatory pressures on tech infrastructure. This complex geopolitical and financial backdrop is compounded by a heightened physical threat, evidenced by significant seismic activity across the Indo-Pacific, indicating a period of increased tectonic instability. To strategically respond, first, immediately diversify and de-risk core asset portfolios, specifically evaluating exposure to tech sectors facing new regulatory scrutiny and potential infrastructure limitations. Second, implement advanced, AI-driven cybersecurity measures across all digital assets, simultaneously investing in threat intelligence capabilities to monitor the geopolitical applications and ethical implications of burgeoning AI technologies. Finally, enforce robust, location-specific emergency preparedness protocols and conduct urgent infrastructure vulnerability assessments for all personnel and critical operations, especially in seismically active regions, drawing lessons from the unquantified humanitarian impact of recent tremors.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.63 (0.42%)",
+            "title": "\ud83d\udcb0 NVDA: $209.96 (0.57%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.36 (3.33%)",
+            "title": "\ud83d\udcb0 AAPL: $332.95 (3.51%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $385.12 (0.93%)",
+            "title": "\ud83d\udcb0 MSFT: $384.01 (0.64%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $124.11 (0.6%)",
+            "title": "\ud83d\udcb0 PLTR: $123.39 (0.02%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $233.28 (-0.16%)",
+            "title": "\ud83d\udcb0 AMZN: $232.79 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2w3"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 49 km W of Turangi, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 202 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 197 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 194 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30v"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple earthquakes, up to Magnitude 5.8, reported across Indonesia!**"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes reported, including a Mag 5.8 in Indonesia and a Mag 5.7 in New Zealand!"
 }
