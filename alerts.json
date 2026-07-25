@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a complex and evolving threat landscape: while financial markets exhibit mixed but stable performance, persistent social and geopolitical tensions are intensifying, evidenced by deepening cost-of-living struggles in major economies and ongoing political displacements. Concurrently, a significant surge in global seismic activity, particularly across South America and the Pacific, presents a tangible and immediate physical risk, compounding humanitarian needs already seen in regions like Venezuela, and regulatory hurdles are emerging for critical technology infrastructure. To navigate this converging reality, GlobeGuard personnel must immediately: 1) Diversify and geographically de-risk all critical digital and physical assets, anticipating regulatory shifts and geopolitical pressures; 2) Augment and practice disaster preparedness protocols for personnel and infrastructure, with a specific focus on high-seismic activity zones in South America and the Pacific; and 3) Intensify intelligence collection on social stability indicators and the evolving AI regulatory landscape, leveraging advanced analytics to pre-empt cascading effects on operations and security.",
+    "strategicPlan": "**Strategic Directive:** GlobeGuard assesses an immediate escalation in global risk, characterized by a confluence of intensifying socio-economic distress, volatile technological landscapes, and persistent geophysical threats. Widespread struggles to afford essentials, coupled with humanitarian crises post-disaster in vulnerable regions like Venezuela, signal profound societal strain, while regulatory pressures on emerging tech and the weaponization of data underscore a rapidly evolving geopolitical and economic battleground. Concurrent significant seismic activity across the Pacific and Latin America emphasizes critical physical vulnerabilities, making proactive risk mitigation paramount. To secure assets and personnel, GlobeGuard advises: 1) Immediately audit and diversify essential supply chains, particularly for regions prone to socio-economic instability or natural disasters, ensuring access to critical resources. 2) Enhance physical security protocols and disaster preparedness for assets and personnel in seismically active zones, prioritizing structural integrity reviews and rapid response plans. 3) Proactively engage with evolving regulatory frameworks for AI and data-driven technologies, adapting strategic investments and operational frameworks to mitigate new forms of systemic risk and capture emerging opportunities.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla"
         },
         {
-            "title": "Hollywood is bending the knee to OpenAI",
-            "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt"
-        },
-        {
             "title": "New York Issues the Nation\u2019s First Statewide Moratorium on New Large Data Centers",
             "link": "https://gizmodo.com/new-york-issues-the-nations-first-statewide-moratorium-on-new-large-data-centers-2000785420"
         },
         {
             "title": "The US Navy wants to \u2018weaponize\u2019 data for a new AI-first fleet, and it wants tech-savvy sailors to make it happen",
             "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
+        },
+        {
+            "title": "Apple's Price Hikes Aren't Just an AI Problem",
+            "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t387"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 49 km W of Turangi, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 39 km NW of San Antonio de los Cobres, Argentina",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 43 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, including a Mag 6, just struck globally!"
+    "seismicSummary": "A Mag 6 earthquake just hit Vanuatu, with multiple M5+ quakes reported across Argentina and Mexico!"
 }
