@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by a complex interplay of intensifying risks: persistent economic fragility is evident with millions struggling for basic essentials, humanitarian crises are escalating post-quake in regions like Venezuela, and a notable surge in significant global seismic activity is observed across diverse tectonic zones. Concurrently, the tech sector faces increasing regulatory scrutiny concerning AI and data center growth, despite its strategic integration into defense, while financial markets present mixed signals with key tech stocks experiencing both gains and modest declines. Given this multifaceted threat environment, GlobeGuard directs immediate action: first, conduct granular risk assessments on critical infrastructure and supply chains, prioritizing regions susceptible to both socioeconomic instability and seismic events; second, diversify asset portfolios to mitigate volatility from tech sector regulatory shifts and general economic uncertainty, favoring resilience over speculative growth; and third, fortify personal and organizational disaster preparedness protocols, specifically updating emergency kits and evacuation plans for all personnel operating in or near seismically active areas.",
+    "strategicPlan": "**Strategic Directive**\n\nGlobeGuard assesses a multi-faceted global threat environment characterized by escalating socio-economic fragility, evident in widespread household financial distress and regional humanitarian crises, set against a backdrop of evolving geopolitical tensions and migration. The financial landscape shows mixed tech sector performance amidst rapid regulatory shifts in AI and data, signaling significant digital and strategic competition. Concurrently, persistent global seismic activity, marked by recent magnitude 6 events across multiple regions, underscores inherent physical risks that can exacerbate existing vulnerabilities. Therefore, we direct immediate action on three fronts: first, re-evaluate and diversify financial assets, prioritizing resilience against market volatility and potential social instability; second, fortify digital infrastructure and data security protocols given the accelerating strategic relevance of AI and increased cyber threats; and third, update and disseminate physical contingency plans, emergency supplies, and communication protocols for all personnel and assets in seismically active or politically sensitive areas.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 292 km SSE of Ushuaia, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t387"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - 49 km W of Turangi, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 202 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 39 km NW of San Antonio de los Cobres, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a M6, are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong quakes, including a Mag 6 in Vanuatu, are striking worldwide!"
 }
