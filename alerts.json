@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and volatile threat matrix, characterized by escalating socio-economic distress and humanitarian crises, notably in regions affected by ongoing seismic events like Venezuela. Financially, the tech sector exhibits mixed performance amid increasing regulatory scrutiny and a rapid, pervasive integration of AI across industries, from entertainment to defense, signaling both opportunity and potential disruption. Crucially, a discernible pattern of significant global seismic activity, spanning the South Pacific to South America, underscores a persistent and tangible physical threat that compounds existing geopolitical instabilities. To navigate this intricate landscape, GlobeGuard advises an immediate review and stress-testing of critical supply chain resilience and resource access strategies, alongside a proactive diversification of digital and financial assets to mitigate market volatility and adapt to evolving regulatory impacts. Furthermore, enhance both physical and digital emergency preparedness protocols, ensuring robust contingency plans for widespread disruptions stemming from natural disasters or cyber-geopolitical events.",
+    "strategicPlan": "GlobeGuard assesses a complex and evolving threat landscape: while financial markets exhibit mixed but stable performance, persistent social and geopolitical tensions are intensifying, evidenced by deepening cost-of-living struggles in major economies and ongoing political displacements. Concurrently, a significant surge in global seismic activity, particularly across South America and the Pacific, presents a tangible and immediate physical risk, compounding humanitarian needs already seen in regions like Venezuela, and regulatory hurdles are emerging for critical technology infrastructure. To navigate this converging reality, GlobeGuard personnel must immediately: 1) Diversify and geographically de-risk all critical digital and physical assets, anticipating regulatory shifts and geopolitical pressures; 2) Augment and practice disaster preparedness protocols for personnel and infrastructure, with a specific focus on high-seismic activity zones in South America and the Pacific; and 3) Intensify intelligence collection on social stability indicators and the evolving AI regulatory landscape, leveraging advanced analytics to pre-empt cascading effects on operations and security.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 202 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t30r"
+            "title": "\u26a0\ufe0f Mag 5.3 - 39 km NW of San Antonio de los Cobres, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong earthquakes, including a Mag 6 in Vanuatu, reported globally!**"
+    "seismicSummary": "Multiple significant earthquakes, including a Mag 6, just struck globally!"
 }
