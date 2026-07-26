@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate strategic adaptation. We observe a precarious geopolitical landscape marked by widespread socio-economic hardship in key regions like the UK, humanitarian crises exemplified by post-quake Venezuela, and persistent political instability. Financially, while specific tech stocks show resilience, the sector faces significant regulatory headwinds and inflationary pressures, even as national entities prioritize AI/data for strategic advantage. Concurrently, moderate seismic activity is elevated globally, including in the Caribbean and South American regions already grappling with recent earthquake devastation, indicating a tangible physical threat. To navigate this complex environment, secure assets and ensure physical safety by immediately reviewing and reinforcing all disaster preparedness protocols for critical infrastructure and personnel; diversifying asset portfolios to mitigate tech sector volatility and regulatory risks; and conducting a rigorous audit of essential supply chains to ensure resilient access to critical resources amidst escalating global instability.",
+    "strategicPlan": "The global environment presents a critical convergence of pervasive economic fragility, highlighted by millions struggling with essentials and the ongoing humanitarian crisis following Venezuela's recent earthquakes, overlaid with persistent and significant global seismic activity. This elevated physical threat level is further complicated by evolving geopolitical dynamics, including political exiles and the US Navy's push for AI-first fleets, while the tech sector navigates new regulatory headwinds despite mixed market performance. Therefore, GlobeGuard's immediate strategic directive is to elevate comprehensive seismic preparedness across all physical assets, including reinforced infrastructure and robust emergency protocols; to re-evaluate investment portfolios for defensive positioning within resilient sectors, mitigating exposure to consumer spending downturns and emerging tech regulations; and to fortify critical digital infrastructure through decentralization and advanced cyber defenses, anticipating both regulatory pressures on data centers and state-level data exploitation.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 99 km SE of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3in"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 25 km NW of Kupang, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - Tristan da Cunha region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 91 km SE of Atka, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3cv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3d9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 18 km ESE of Monterrey, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3eb"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, up to Mag 5.1, are striking globally right now!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple M5+ earthquakes just struck worldwide, with magnitudes up to 5.8!"
 }
