@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "**Strategic Directive:** GlobeGuard assesses an immediate escalation in global risk, characterized by a confluence of intensifying socio-economic distress, volatile technological landscapes, and persistent geophysical threats. Widespread struggles to afford essentials, coupled with humanitarian crises post-disaster in vulnerable regions like Venezuela, signal profound societal strain, while regulatory pressures on emerging tech and the weaponization of data underscore a rapidly evolving geopolitical and economic battleground. Concurrent significant seismic activity across the Pacific and Latin America emphasizes critical physical vulnerabilities, making proactive risk mitigation paramount. To secure assets and personnel, GlobeGuard advises: 1) Immediately audit and diversify essential supply chains, particularly for regions prone to socio-economic instability or natural disasters, ensuring access to critical resources. 2) Enhance physical security protocols and disaster preparedness for assets and personnel in seismically active zones, prioritizing structural integrity reviews and rapid response plans. 3) Proactively engage with evolving regulatory frameworks for AI and data-driven technologies, adapting strategic investments and operational frameworks to mitigate new forms of systemic risk and capture emerging opportunities.",
+    "strategicPlan": "The current global landscape signals a converging threat profile where economic strain, regulatory uncertainty, and persistent physical hazards intertwine. Widespread cost-of-living struggles are emerging in key markets, while targeted tech sector corrections coincide with emergent regulatory pressures impacting AI, data infrastructure, and autonomous vehicles. Geopolitically, migration pressures persist, and humanitarian crises are actively unfolding post-seismic events, particularly in Venezuela, underscored by ongoing moderate global tectonic activity that demands our immediate attention. To navigate this volatile environment, GlobeGuard must: 1) Prioritize securing essential supply chains and diversifying critical resources against economic shocks and potential supply disruptions. 2) Strategically re-evaluate investments in tech sectors facing heightened regulatory scrutiny and inflation-driven price adjustments, with a particular eye on Apple's market resilience versus broader tech corrections. 3) Immediately review and bolster physical disaster preparedness protocols, especially for seismic events and their cascading humanitarian impacts, safeguarding both personnel and critical infrastructure globally.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 82 km W of Sola, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.7 - 292 km SSE of Ushuaia, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t387"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 39 km NW of San Antonio de los Cobres, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
+            "title": "\u26a0\ufe0f Mag 5.1 - Tristan da Cunha region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 43 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 91 km SE of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3cv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 57 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4"
         }
     ],
-    "seismicSummary": "A Mag 6 earthquake just hit Vanuatu, with multiple M5+ quakes reported across Argentina and Mexico!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes reported globally!"
 }
