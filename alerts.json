@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "Strategic Directive: The global operating environment is currently marked by a critical convergence of escalating threats. Persistent socio-economic fragility, evidenced by widespread household struggle and humanitarian crises in regions like Venezuela, creates a volatile geopolitical backdrop. Concurrently, financial markets exhibit significant tech sector volatility amidst growing regulatory headwinds, while a palpable increase in seismic activity across the Pacific Ring of Fire, alongside ongoing recovery needs in Venezuela, signals heightened physical risks. To secure assets and physical safety, immediately (1) re-evaluate and diversify investment portfolios, particularly regarding concentrated tech exposure, while closely monitoring evolving regulatory frameworks impacting key industries like autonomous vehicles and data infrastructure. Simultaneously, (2) enhance physical security and disaster preparedness protocols, specifically focusing on seismic resilience for critical assets and personnel in vulnerable regions. Finally, (3) strengthen supply chain resilience against both social unrest and natural disasters, implementing robust contingency plans for potential disruptions stemming from socio-economic instability and humanitarian crises.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global environment demands heightened vigilance, reflecting a multi-faceted risk landscape. Geopolitically, the humanitarian crisis in Venezuela post-earthquake signals regional fragility, while persistent cost-of-living struggles in key Western nations indicate widespread social stress. Financially, the tech sector exhibits volatility, with a notable dip in NVDA and new regulatory headwinds for data centers and robotaxis, despite growth in other AI-adjacent stocks and increasing government focus on data-driven defense. Concurrently, physical threats remain acute, with sustained moderate seismic activity noted across the Pacific Ring of Fire (Tonga, Chile) and ongoing recovery challenges in Venezuela. To proactively mitigate these converging threats, GlobeGuard directs the following: First, meticulously review and diversify investment portfolios, particularly within the tech sector, to buffer against regulatory shifts and market volatility, while hedging against inflation. Second, immediately reinforce emergency preparedness and communication redundancies for all personnel and assets situated in seismically active regions, especially across South America and the Pacific Rim. Third, implement enhanced real-time monitoring of socio-economic distress indicators and geopolitical flashpoints to anticipate social instability or policy shifts impacting global supply chains and operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.51 (-5.87%)",
+            "title": "\ud83d\udcb0 NVDA: $196.51 (-4.99%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.91 (4.74%)",
+            "title": "\ud83d\udcb0 AAPL: $336.91 (1.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $389.1 (1.97%)",
+            "title": "\ud83d\udcb0 MSFT: $389.1 (1.94%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.53 (6.61%)",
+            "title": "\ud83d\udcb0 PLTR: $131.53 (7.0%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $231.39 (-0.97%)",
+            "title": "\ud83d\udcb0 AMZN: $231.39 (-0.31%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3l3"
         }
     ],
-    "seismicSummary": "**Four significant earthquakes just struck, including a Mag 5.4 in Chile and three 5.2s near Tonga!**"
+    "seismicSummary": "Strong Mag 5.2-5.4 quakes just struck Chile and Tonga!"
 }
