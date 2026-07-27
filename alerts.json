@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals heightened instability, marked by deepening economic distress in key regions alongside significant geopolitical shifts and acute humanitarian crises exacerbated by recent seismic events in Venezuela. Financially, while some tech sectors show resilience, regulatory headwinds against data centers and autonomous vehicles, coupled with notable drops in leading tech stocks like NVDA, suggest a period of market re-evaluation amid inflationary pressures and the strategic 'weaponization' of data. Concurrently, elevated seismic activity across the Pacific Ring of Fire, specifically in Chile and multiple quakes south of Tonga, underscores persistent physical threats. To secure assets and physical safety, GlobeGuard must: prioritize investment diversification to hedge against market volatility and regulatory shifts in the tech sector; reinforce comprehensive disaster preparedness, particularly for seismic events and their cascading humanitarian impacts; and strengthen all digital and data security protocols given the escalating strategic importance of information.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "Strategic Directive: The global operating environment is currently marked by a critical convergence of escalating threats. Persistent socio-economic fragility, evidenced by widespread household struggle and humanitarian crises in regions like Venezuela, creates a volatile geopolitical backdrop. Concurrently, financial markets exhibit significant tech sector volatility amidst growing regulatory headwinds, while a palpable increase in seismic activity across the Pacific Ring of Fire, alongside ongoing recovery needs in Venezuela, signals heightened physical risks. To secure assets and physical safety, immediately (1) re-evaluate and diversify investment portfolios, particularly regarding concentrated tech exposure, while closely monitoring evolving regulatory frameworks impacting key industries like autonomous vehicles and data infrastructure. Simultaneously, (2) enhance physical security and disaster preparedness protocols, specifically focusing on seismic resilience for critical assets and personnel in vulnerable regions. Finally, (3) strengthen supply chain resilience against both social unrest and natural disasters, implementing robust contingency plans for potential disruptions stemming from socio-economic instability and humanitarian crises.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.88 (-4.82%)",
+            "title": "\ud83d\udcb0 NVDA: $196.51 (-5.87%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.22 (0.96%)",
+            "title": "\ud83d\udcb0 AAPL: $336.91 (4.74%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.18 (2.22%)",
+            "title": "\ud83d\udcb0 MSFT: $389.1 (1.97%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.32 (6.83%)",
+            "title": "\ud83d\udcb0 PLTR: $131.53 (6.61%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $231.79 (-0.14%)",
+            "title": "\ud83d\udcb0 AMZN: $231.39 (-0.97%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3l3"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes just struck near Chile and Tonga!**"
+    "seismicSummary": "**Four significant earthquakes just struck, including a Mag 5.4 in Chile and three 5.2s near Tonga!**"
 }
