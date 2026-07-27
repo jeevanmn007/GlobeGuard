@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "A multi-faceted global threat landscape is emerging, characterized by widespread economic distress impacting millions, significant volatility within the tech sector (e.g., NVDA's dip amidst broader market gains) coupled with new regulatory pressures on AI and data, and a pronounced uptick in global seismic activity with multiple Mag 5+ events across diverse regions, exacerbating existing humanitarian crises. To navigate this, immediately: 1. Review and update all emergency preparedness protocols and earthquake response plans, securing physical assets and ensuring personnel safety, especially in seismically vulnerable areas and regions susceptible to humanitarian crises. 2. Diversify financial holdings away from overly exposed tech sectors, ensuring robust liquidity and reassessing asset valuations against potential economic contractions and regulatory shifts. 3. Bolster digital security and supply chain resilience, anticipating increased data weaponization and potential infrastructure disruptions from new regulatory policies affecting critical tech resources.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global environment signals heightened instability, marked by deepening economic distress in key regions alongside significant geopolitical shifts and acute humanitarian crises exacerbated by recent seismic events in Venezuela. Financially, while some tech sectors show resilience, regulatory headwinds against data centers and autonomous vehicles, coupled with notable drops in leading tech stocks like NVDA, suggest a period of market re-evaluation amid inflationary pressures and the strategic 'weaponization' of data. Concurrently, elevated seismic activity across the Pacific Ring of Fire, specifically in Chile and multiple quakes south of Tonga, underscores persistent physical threats. To secure assets and physical safety, GlobeGuard must: prioritize investment diversification to hedge against market volatility and regulatory shifts in the tech sector; reinforce comprehensive disaster preparedness, particularly for seismic events and their cascading humanitarian impacts; and strengthen all digital and data security protocols given the escalating strategic importance of information.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.17 (-6.03%)",
+            "title": "\ud83d\udcb0 NVDA: $196.88 (-4.82%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.23 (4.53%)",
+            "title": "\ud83d\udcb0 AAPL: $336.22 (0.96%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $392.03 (2.74%)",
+            "title": "\ud83d\udcb0 MSFT: $390.18 (2.22%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.97 (6.97%)",
+            "title": "\ud83d\udcb0 PLTR: $131.32 (6.83%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $231.7 (-0.84%)",
+            "title": "\ud83d\udcb0 AMZN: $231.79 (-0.14%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3in"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - south of Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m6"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - south of Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - south of Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3l3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported worldwide!"
+    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes just struck near Chile and Tonga!**"
 }
