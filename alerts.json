@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical convergence of pervasive economic fragility, highlighted by millions struggling with essentials and the ongoing humanitarian crisis following Venezuela's recent earthquakes, overlaid with persistent and significant global seismic activity. This elevated physical threat level is further complicated by evolving geopolitical dynamics, including political exiles and the US Navy's push for AI-first fleets, while the tech sector navigates new regulatory headwinds despite mixed market performance. Therefore, GlobeGuard's immediate strategic directive is to elevate comprehensive seismic preparedness across all physical assets, including reinforced infrastructure and robust emergency protocols; to re-evaluate investment portfolios for defensive positioning within resilient sectors, mitigating exposure to consumer spending downturns and emerging tech regulations; and to fortify critical digital infrastructure through decentralization and advanced cyber defenses, anticipating both regulatory pressures on data centers and state-level data exploitation.",
+    "strategicPlan": "The global strategic environment is acutely challenged by a convergence of systemic vulnerabilities. Economically, widespread household financial distress in developed nations signals deep-seated market instability, juxtaposed with a technology sector navigating both robust strategic investment (AI, defense) and increasing regulatory headwinds (data centers, robotaxis), reflected in mixed stock performance. Geopolitically, ongoing humanitarian crises from natural disasters, exemplified by Venezuela's post-quake needs, compound existing political fragilities and migration pressures, while significant, globally dispersed seismic activity (Alaska, Indonesia, Tonga) remains a persistent physical threat. To navigate this complex landscape, GlobeGuard must immediately: 1) Enhance physical resilience by updating and rigorously implementing earthquake preparedness and emergency response plans for all personnel and assets, particularly in vulnerable regions. 2) Fortify financial and operational agility by diversifying critical investments and supply chains to withstand economic shocks, while closely monitoring evolving tech regulations that could impact market access or operational costs. 3) Strengthen data and cyber defenses, recognizing the escalating strategic importance of data as both an asset and a target, especially in an environment where major powers are actively \"weaponizing\" AI.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Tristan da Cunha region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7"
+            "title": "\u26a0\ufe0f Mag 5.2 - south of Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3l3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple M5+ earthquakes just struck worldwide, with magnitudes up to 5.8!"
+    "seismicSummary": "\ud83d\udea8 Global M5+ earthquake activity, including a 5.8, is spiking!"
 }
