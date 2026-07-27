@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "**STRATEGIC DIRECTIVE: ELEVATED VULNERABILITY AMIDST SOCIOECONOMIC STRAIN AND GEOPHYSICAL UNREST**\n\nThe global landscape is characterized by a pervasive undercurrent of socioeconomic instability, evident in significant cost-of-living crises impacting major developed economies and escalating humanitarian needs following natural disasters in geopolitically sensitive regions like Venezuela. Financially, tech markets are exhibiting notable volatility, with key players like NVIDIA experiencing significant declines while others like Apple rise, indicating shifting investment landscapes influenced by emerging regulatory challenges in autonomous technology and data infrastructure, coupled with the increasing integration and cost implications of AI. Concurrently, a pattern of moderate seismic activity across diverse global locations, including terrestrial quakes in Chile and oceanic events near Tonga, underscores the continuous threat of natural hazards that can exacerbate existing vulnerabilities and disrupt critical infrastructure.\n\nTo secure assets and ensure physical safety, GlobeGuard advises:\n1. **Diversify and regionalize critical assets:** Reduce reliance on single geographic points, particularly in areas prone to natural disasters or socioeconomic unrest, exploring distributed or near-shored supply chains and data infrastructure.\n2. **Implement enhanced risk modeling for market volatility:** Prioritize advanced analytics to identify and hedge against rapid shifts in tech sector valuations, considering the impact of regulatory interventions and AI-driven cost structures.\n3. **Establish robust emergency preparedness protocols:** For personnel and operations in seismically active zones or regions with high social fragility, ensure comprehensive contingency plans, communication systems, and resource stockpiles are in place to mitigate potential disruptions.",
+    "strategicPlan": "A multi-faceted global threat landscape is emerging, characterized by widespread economic distress impacting millions, significant volatility within the tech sector (e.g., NVDA's dip amidst broader market gains) coupled with new regulatory pressures on AI and data, and a pronounced uptick in global seismic activity with multiple Mag 5+ events across diverse regions, exacerbating existing humanitarian crises. To navigate this, immediately: 1. Review and update all emergency preparedness protocols and earthquake response plans, securing physical assets and ensuring personnel safety, especially in seismically vulnerable areas and regions susceptible to humanitarian crises. 2. Diversify financial holdings away from overly exposed tech sectors, ensuring robust liquidity and reassessing asset valuations against potential economic contractions and regulatory shifts. 3. Bolster digital security and supply chain resilience, anticipating increased data weaponization and potential infrastructure disruptions from new regulatory policies affecting critical tech resources.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.67 (-5.79%)",
+            "title": "\ud83d\udcb0 NVDA: $196.17 (-6.03%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $338.23 (5.15%)",
+            "title": "\ud83d\udcb0 AAPL: $336.23 (4.53%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $391.38 (2.57%)",
+            "title": "\ud83d\udcb0 MSFT: $392.03 (2.74%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $129.42 (4.9%)",
+            "title": "\ud83d\udcb0 PLTR: $131.97 (6.97%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.49 (-0.5%)",
+            "title": "\ud83d\udcb0 AMZN: $231.7 (-0.84%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m5"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Magnitude 5+ earthquakes reported across Chile, Tonga, and the Mid-Atlantic!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported worldwide!"
 }
