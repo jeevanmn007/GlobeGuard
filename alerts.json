@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is acutely challenged by a convergence of systemic vulnerabilities. Economically, widespread household financial distress in developed nations signals deep-seated market instability, juxtaposed with a technology sector navigating both robust strategic investment (AI, defense) and increasing regulatory headwinds (data centers, robotaxis), reflected in mixed stock performance. Geopolitically, ongoing humanitarian crises from natural disasters, exemplified by Venezuela's post-quake needs, compound existing political fragilities and migration pressures, while significant, globally dispersed seismic activity (Alaska, Indonesia, Tonga) remains a persistent physical threat. To navigate this complex landscape, GlobeGuard must immediately: 1) Enhance physical resilience by updating and rigorously implementing earthquake preparedness and emergency response plans for all personnel and assets, particularly in vulnerable regions. 2) Fortify financial and operational agility by diversifying critical investments and supply chains to withstand economic shocks, while closely monitoring evolving tech regulations that could impact market access or operational costs. 3) Strengthen data and cyber defenses, recognizing the escalating strategic importance of data as both an asset and a target, especially in an environment where major powers are actively \"weaponizing\" AI.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "**STRATEGIC DIRECTIVE: ELEVATED VULNERABILITY AMIDST SOCIOECONOMIC STRAIN AND GEOPHYSICAL UNREST**\n\nThe global landscape is characterized by a pervasive undercurrent of socioeconomic instability, evident in significant cost-of-living crises impacting major developed economies and escalating humanitarian needs following natural disasters in geopolitically sensitive regions like Venezuela. Financially, tech markets are exhibiting notable volatility, with key players like NVIDIA experiencing significant declines while others like Apple rise, indicating shifting investment landscapes influenced by emerging regulatory challenges in autonomous technology and data infrastructure, coupled with the increasing integration and cost implications of AI. Concurrently, a pattern of moderate seismic activity across diverse global locations, including terrestrial quakes in Chile and oceanic events near Tonga, underscores the continuous threat of natural hazards that can exacerbate existing vulnerabilities and disrupt critical infrastructure.\n\nTo secure assets and ensure physical safety, GlobeGuard advises:\n1. **Diversify and regionalize critical assets:** Reduce reliance on single geographic points, particularly in areas prone to natural disasters or socioeconomic unrest, exploring distributed or near-shored supply chains and data infrastructure.\n2. **Implement enhanced risk modeling for market volatility:** Prioritize advanced analytics to identify and hedge against rapid shifts in tech sector valuations, considering the impact of regulatory interventions and AI-driven cost structures.\n3. **Establish robust emergency preparedness protocols:** For personnel and operations in seismically active zones or regions with high social fragility, ensure comprehensive contingency plans, communication systems, and resource stockpiles are in place to mitigate potential disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.84 (-0.92%)",
+            "title": "\ud83d\udcb0 NVDA: $196.67 (-5.79%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.02 (3.53%)",
+            "title": "\ud83d\udcb0 AAPL: $338.23 (5.15%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $381.7 (0.03%)",
+            "title": "\ud83d\udcb0 MSFT: $391.38 (2.57%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $122.92 (-0.36%)",
+            "title": "\ud83d\udcb0 PLTR: $129.42 (4.9%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.11 (-0.66%)",
+            "title": "\ud83d\udcb0 AMZN: $232.49 (-0.5%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 99 km SE of Atka, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm"
+            "title": "\u26a0\ufe0f Mag 5.4 - 82 km SSW of San Pedro de Atacama, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m7"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - northern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3in"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 25 km NW of Kupang, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4"
+            "title": "\u26a0\ufe0f Mag 5.2 - south of Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m6"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - south of Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3l3"
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m5"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Global M5+ earthquake activity, including a 5.8, is spiking!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Magnitude 5+ earthquakes reported across Chile, Tonga, and the Mid-Atlantic!"
 }
