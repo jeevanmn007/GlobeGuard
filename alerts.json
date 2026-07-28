@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is marked by a compounding of significant vulnerabilities: severe social and economic fragility is escalating in key regions, exemplified by widespread struggles for essentials in the UK and ongoing humanitarian crises in Venezuela. While core tech indices show resilience, the sector faces increasing regulatory scrutiny and market volatility, as seen with new data center moratoriums and shifts affecting AI firms. Critically, this is overlaid by an alarming surge in high-magnitude seismic activity across the Pacific Rim and other vital regions, including Japan, Mexico, Russia, and China, which demands immediate attention to physical safety. To secure our assets and physical safety, GlobeGuard directs immediate action: first, review and update emergency preparedness plans, including evacuation protocols and supply caches, for all personnel and critical infrastructure within seismically active zones; second, diversify digital infrastructure and re-evaluate supply chain resilience to mitigate risks from regulatory shifts and economic volatility impacting key tech sectors; and third, bolster contingency plans for potential social unrest and resource scarcity stemming from widening economic disparities and persistent geopolitical tensions.",
+    "strategicPlan": "The global strategic environment demands immediate attention, characterized by an elevated physical threat from significant seismic activity reported across Japan, Mexico, Russia, and China, concurrent with widespread socioeconomic fragility evident in major household struggles and humanitarian crises. While core tech markets show resilience, the volatile performance of data analytics firms like PLTR, coupled with increasing regulatory scrutiny on AI and data centers, signals a critical juncture in the technological landscape despite aggressive AI adoption by military powers. To navigate this complex period, immediately audit and reinforce physical infrastructure for seismic resilience, strategically re-evaluate digital asset portfolios considering emerging AI regulatory impacts and market volatility, and ensure robust data security protocols are in place to mitigate evolving cyber and geopolitical risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.79 (0.65%)",
+            "title": "\ud83d\udcb0 NVDA: $197.32 (0.41%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $339.03 (0.63%)",
+            "title": "\ud83d\udcb0 AAPL: $339.8 (0.86%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $399.41 (2.65%)",
+            "title": "\ud83d\udcb0 MSFT: $393.14 (1.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $124.56 (-5.3%)",
+            "title": "\ud83d\udcb0 PLTR: $123.03 (-6.47%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $232.13 (0.32%)",
+            "title": "\ud83d\udcb0 AMZN: $231.14 (-0.11%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
         }
     ],
-    "seismicSummary": "**URGENT:** Multiple strong earthquakes (M5.8-M5.9) just hit Mexico, Russia, and China; a M6.8 Japan *scenario* is also listed."
+    "seismicSummary": "**Urgent: Multiple strong earthquakes reported globally, including a M6.8 in Japan!**"
 }
