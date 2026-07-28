@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly intensifying and interconnected global risk matrix. Geopolitically, we observe widening socio-economic disparities leading to domestic fragility and ongoing humanitarian crises following natural disasters, while increasing state intervention in critical tech sectors like AI and data centers, coupled with a militarized focus on data weaponization, signals an escalating environment of strategic competition and regulatory unpredictability. Financially, although segments of big tech show resilience, significant corrections in others, alongside broader consumer affordability challenges and regulatory headwinds, point to underlying market vulnerabilities. Most critically, an elevated and immediate physical threat is evident in the recent surge of high-magnitude seismic events across the Pacific Ring of Fire (Japan, Mexico, Russia, China), demanding urgent attention to physical preparedness. To fortify against these integrated threats, secure your assets, and ensure physical safety, GlobeGuard directs an immediate audit and bolster of emergency contingency plans, particularly for critical infrastructure and personnel in seismically active zones; diversification of both digital and physical assets to mitigate geo-economic and regulatory impacts; and a comprehensive review and upgrade of cybersecurity posture given the intensifying global focus on data as a strategic and weaponized asset.",
+    "strategicPlan": "The current global environment is marked by a compounding of significant vulnerabilities: severe social and economic fragility is escalating in key regions, exemplified by widespread struggles for essentials in the UK and ongoing humanitarian crises in Venezuela. While core tech indices show resilience, the sector faces increasing regulatory scrutiny and market volatility, as seen with new data center moratoriums and shifts affecting AI firms. Critically, this is overlaid by an alarming surge in high-magnitude seismic activity across the Pacific Rim and other vital regions, including Japan, Mexico, Russia, and China, which demands immediate attention to physical safety. To secure our assets and physical safety, GlobeGuard directs immediate action: first, review and update emergency preparedness plans, including evacuation protocols and supply caches, for all personnel and critical infrastructure within seismically active zones; second, diversify digital infrastructure and re-evaluate supply chain resilience to mitigate risks from regulatory shifts and economic volatility impacting key tech sectors; and third, bolster contingency plans for potential social unrest and resource scarcity stemming from widening economic disparities and persistent geopolitical tensions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.61 (0.56%)",
+            "title": "\ud83d\udcb0 NVDA: $197.79 (0.65%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $338.82 (0.57%)",
+            "title": "\ud83d\udcb0 AAPL: $339.03 (0.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $399.47 (2.67%)",
+            "title": "\ud83d\udcb0 MSFT: $399.41 (2.65%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.18 (-6.34%)",
+            "title": "\ud83d\udcb0 PLTR: $124.56 (-5.3%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $230.27 (-0.48%)",
+            "title": "\ud83d\udcb0 AMZN: $232.13 (0.32%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.8 - 5 km E of Uto, Japan",
+            "title": "\u26a0\ufe0f Mag 6.8 - 2026 Uto, Japan Earthquake\u00a0",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple major earthquakes are striking globally, including a 6.8 in Japan!"
+    "seismicSummary": "**URGENT:** Multiple strong earthquakes (M5.8-M5.9) just hit Mexico, Russia, and China; a M6.8 Japan *scenario* is also listed."
 }
