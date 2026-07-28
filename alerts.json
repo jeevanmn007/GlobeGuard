@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical nexus of converging threats: widespread socioeconomic instability, evident in surging affordability challenges and lingering humanitarian crises post-natural disaster, is underscored by a volatile technological landscape where AI drives both innovation and regulatory friction, alongside a notable dip in key data analytics firms signaling market adjustments. This complex situation is compounded by a pronounced and geographically diverse surge in high-magnitude seismic activity globally, demanding immediate attention to physical security. To navigate this period of heightened risk, immediately: 1. Secure all critical assets by diversifying investments and fortifying digital and physical supply chains against economic and geopolitical shocks. 2. Implement and review robust disaster preparedness protocols for all personnel and infrastructure, with particular emphasis on seismic resilience and emergency resource stockpiles. 3. Maintain acute intelligence on evolving AI regulations, critical infrastructure policy shifts, and regional geopolitical flashpoints to anticipate and mitigate future operational disruptions.",
+    "strategicPlan": "The global strategic landscape is defined by converging pressures: pervasive economic strain on millions struggling for essentials, regional humanitarian crises exacerbated by recent seismic activity, and a dynamic tech sector facing both regulatory scrutiny and strategic weaponization amidst persistent core market strength. This is compounded by a heightened, multi-regional pattern of significant seismic events, presenting immediate and tangible physical threats across critical global arteries. To secure assets and ensure physical safety, we direct the following: (1) Immediately assess and diversify critical supply chains, prioritizing regionalization to mitigate compounding economic and physical disruptions. (2) Accelerate hardening of all digital infrastructure against evolving cyber threats and physical vulnerabilities, especially given increasing state-level AI weaponization and data center moratoriums. (3) Prioritize comprehensive emergency preparedness protocols and strategic stockpiling of essential resources, accounting for both localized economic instability and widespread natural disaster scenarios.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
         }
     ],
-    "seismicSummary": "**URGENT: A 6.8 magnitude earthquake just struck Japan, with multiple other significant quakes (5.8+) reported globally!**"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes reported globally, including a Magnitude 6.8 in Japan and several others above 5.8!"
 }
