@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global strategic environment is acutely volatile, characterized by a potent confluence of geopolitical, financial, and physical threats demanding immediate action. Geopolitically, widespread social unrest is intensifying due to a severe cost-of-living crisis, underscored by regional instabilities like a prominent Cuban dissident's exile and the ongoing humanitarian crisis in Venezuela following recent quakes. Financially, the tech sector faces significant headwinds, with NVDA's dip signaling volatility amidst emerging regulatory challenges for autonomous tech and data centers, coupled with inflationary pressures from AI advancements. Concurrently, the planet is experiencing heightened tectonic instability, evidenced by multiple high-magnitude earthquakes recently impacting Japan, Mexico, Russia, and China. To secure assets and ensure physical safety, immediately diversify and fortify all asset portfolios against economic volatility and evolving cyber threats; conduct an urgent, comprehensive update of emergency preparedness protocols, including structural integrity checks and supply chain redundancy, with a critical focus on seismic readiness; and escalate intelligence monitoring of socio-economic indicators and geopolitical flashpoints to proactively counter risks from resource scarcity and potential civil unrest.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "GlobeGuard assesses a rapidly intensifying and interconnected global risk matrix. Geopolitically, we observe widening socio-economic disparities leading to domestic fragility and ongoing humanitarian crises following natural disasters, while increasing state intervention in critical tech sectors like AI and data centers, coupled with a militarized focus on data weaponization, signals an escalating environment of strategic competition and regulatory unpredictability. Financially, although segments of big tech show resilience, significant corrections in others, alongside broader consumer affordability challenges and regulatory headwinds, point to underlying market vulnerabilities. Most critically, an elevated and immediate physical threat is evident in the recent surge of high-magnitude seismic events across the Pacific Ring of Fire (Japan, Mexico, Russia, China), demanding urgent attention to physical preparedness. To fortify against these integrated threats, secure your assets, and ensure physical safety, GlobeGuard directs an immediate audit and bolster of emergency contingency plans, particularly for critical infrastructure and personnel in seismically active zones; diversification of both digital and physical assets to mitigate geo-economic and regulatory impacts; and a comprehensive review and upgrade of cybersecurity posture given the intensifying global focus on data as a strategic and weaponized asset.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.51 (-4.99%)",
+            "title": "\ud83d\udcb0 NVDA: $197.61 (0.56%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.91 (1.17%)",
+            "title": "\ud83d\udcb0 AAPL: $338.82 (0.57%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $389.1 (1.94%)",
+            "title": "\ud83d\udcb0 MSFT: $399.47 (2.67%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $131.53 (7.0%)",
+            "title": "\ud83d\udcb0 PLTR: $123.18 (-6.34%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $231.39 (-0.31%)",
+            "title": "\ud83d\udcb0 AMZN: $230.27 (-0.48%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes, including a 6.8 in Japan, are striking worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Multiple major earthquakes are striking globally, including a 6.8 in Japan!"
 }
