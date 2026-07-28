@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is characterized by a critical convergence of socioeconomic fragility, volatile technological disruption, and persistent seismic threat. Widespread economic hardship and regional humanitarian crises signal mounting social pressures, while the technology sector experiences rapid shifts driven by AI and data, facing both regulatory challenges and strategic military integration, creating market volatility. This complex human landscape is continuously challenged by significant global tectonic activity, particularly evident in South America and the Pacific Rim, which demands immediate preparedness and long-term resilience. To secure assets and ensure safety, we must: first, prioritize comprehensive physical asset protection and robust emergency protocols for seismic events, especially in known high-risk zones; second, fortify supply chain resilience and review operational dependencies against emerging economic shocks and geopolitical instability; and third, strategically leverage advanced AI and data analytics to enhance real-time threat intelligence and proactive risk mitigation across all operational domains.",
+    "strategicPlan": "GlobeGuard assesses an increasingly volatile global environment marked by compounding socioeconomic pressures, evidenced by widespread household struggles and acute humanitarian crises in seismically active regions, set against a backdrop of financial market turbulence in the critical tech sector and geographically dispersed, elevated seismic activity. To mitigate these immediate risks, **(1)** prioritize securing liquid assets and diversifying essential resource stockpiles in anticipation of further economic and supply chain disruptions. **(2)** Mandate immediate review and fortification of physical safety protocols and infrastructure resilience, particularly for assets in seismically vulnerable regions, and update emergency preparedness plans. **(3)** Implement enhanced intelligence monitoring for evolving regulatory landscapes in critical technological sectors and track developing geopolitical instabilities that could impact resource flows and human movement.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 82 km SSW of San Pedro de Atacama, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m7"
+            "title": "\u26a0\ufe0f Mag 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n"
+            "title": "\u26a0\ufe0f Mag 5.8 - 160 km E of Ust\u2019-Kamchatsk Staryy, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 23 km E of Kinablangan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg94"
+            "title": "\u26a0\ufe0f Mag 5.8 - 191 km NW of Oula Xiuma, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - south of Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3m6"
+            "title": "\u26a0\ufe0f Mag 5.7 - 192 km NW of Oula Xiuma, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Significant earthquakes (Mag 5.7-5.9) just struck Mexico, Russia, and China!"
 }
