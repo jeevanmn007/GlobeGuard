@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment demands immediate attention, characterized by an elevated physical threat from significant seismic activity reported across Japan, Mexico, Russia, and China, concurrent with widespread socioeconomic fragility evident in major household struggles and humanitarian crises. While core tech markets show resilience, the volatile performance of data analytics firms like PLTR, coupled with increasing regulatory scrutiny on AI and data centers, signals a critical juncture in the technological landscape despite aggressive AI adoption by military powers. To navigate this complex period, immediately audit and reinforce physical infrastructure for seismic resilience, strategically re-evaluate digital asset portfolios considering emerging AI regulatory impacts and market volatility, and ensure robust data security protocols are in place to mitigate evolving cyber and geopolitical risks.",
+    "strategicPlan": "The global environment presents a critical nexus of converging threats: widespread socioeconomic instability, evident in surging affordability challenges and lingering humanitarian crises post-natural disaster, is underscored by a volatile technological landscape where AI drives both innovation and regulatory friction, alongside a notable dip in key data analytics firms signaling market adjustments. This complex situation is compounded by a pronounced and geographically diverse surge in high-magnitude seismic activity globally, demanding immediate attention to physical security. To navigate this period of heightened risk, immediately: 1. Secure all critical assets by diversifying investments and fortifying digital and physical supply chains against economic and geopolitical shocks. 2. Implement and review robust disaster preparedness protocols for all personnel and infrastructure, with particular emphasis on seismic resilience and emergency resource stockpiles. 3. Maintain acute intelligence on evolving AI regulations, critical infrastructure policy shifts, and regional geopolitical flashpoints to anticipate and mitigate future operational disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.32 (0.41%)",
+            "title": "\ud83d\udcb0 NVDA: $197.01 (0.25%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $339.8 (0.86%)",
+            "title": "\ud83d\udcb0 AAPL: $340.08 (0.94%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $393.14 (1.04%)",
+            "title": "\ud83d\udcb0 MSFT: $393.35 (1.09%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.03 (-6.47%)",
+            "title": "\ud83d\udcb0 PLTR: $123.53 (-6.08%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $231.14 (-0.11%)",
+            "title": "\ud83d\udcb0 AMZN: $230.86 (-0.23%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes reported globally, including a M6.8 in Japan!**"
+    "seismicSummary": "**URGENT: A 6.8 magnitude earthquake just struck Japan, with multiple other significant quakes (5.8+) reported globally!**"
 }
