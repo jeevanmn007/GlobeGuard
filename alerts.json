@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by converging pressures: pervasive economic strain on millions struggling for essentials, regional humanitarian crises exacerbated by recent seismic activity, and a dynamic tech sector facing both regulatory scrutiny and strategic weaponization amidst persistent core market strength. This is compounded by a heightened, multi-regional pattern of significant seismic events, presenting immediate and tangible physical threats across critical global arteries. To secure assets and ensure physical safety, we direct the following: (1) Immediately assess and diversify critical supply chains, prioritizing regionalization to mitigate compounding economic and physical disruptions. (2) Accelerate hardening of all digital infrastructure against evolving cyber threats and physical vulnerabilities, especially given increasing state-level AI weaponization and data center moratoriums. (3) Prioritize comprehensive emergency preparedness protocols and strategic stockpiling of essential resources, accounting for both localized economic instability and widespread natural disaster scenarios.",
+    "strategicPlan": "The global strategic landscape is in a state of heightened multi-modal risk. Geopolitically, economic hardship fuels social fragility across developed nations while humanitarian crises persist in Latin America, reflecting deep-seated instability. Financially, markets show selective resilience in core tech but face emerging regulatory headwinds for AI and data infrastructure, coupled with specific market corrections. Compounding these are elevated global seismic events, notably a 6.8 magnitude earthquake in Japan, posing acute physical and supply chain disruption threats. In response, **first**, strategically review and diversify investment portfolios, evaluating exposure to highly regulated tech and data infrastructure sectors to mitigate financial volatility. **Second**, implement immediate enhancements to disaster preparedness and supply chain resilience protocols, with a strong focus on seismic vulnerability and humanitarian aid routes for physical safety. **Third**, intensify intelligence gathering on indicators of social unrest and regulatory shifts across key operating regions to preemptively mitigate operational and reputational risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes reported globally, including a Magnitude 6.8 in Japan and several others above 5.8!"
+    "seismicSummary": "**Multiple strong earthquakes, including a magnitude 6.8 in Japan, just struck globally!**"
 }
