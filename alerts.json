@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents an escalating, multi-faceted risk profile. Geopolitically, widespread socio-economic distress, evident in struggling households across major economies, converges with ongoing humanitarian crises from natural disasters in regions like Venezuela and persistent authoritarian pressures driving migration, signaling heightened risks of social unrest and regional instability. Financially, while major tech sectors show mixed performance, emerging regulatory headwinds for autonomous technology and data infrastructure, coupled with AI-driven cost increases, introduce new market uncertainties and exacerbate affordability concerns. Concurrently, the physical threat from an active Pacific Ring of Fire, with multiple recent moderate seismic events, underscores a persistent and significant natural disaster vulnerability. To navigate this landscape, GlobeGuard advises: **1. Immediately review and fortify personal and corporate financial resilience**, diversifying assets and ensuring liquidity against potential economic shocks and AI-driven inflation; **2. Secure physical infrastructure and establish robust emergency protocols**, particularly for assets and personnel in seismically active regions, leveraging lessons from ongoing humanitarian needs; and **3. Proactively monitor and adapt to evolving regulatory landscapes in technology and AI**, preparing for strategic shifts influenced by geopolitical competition and infrastructure constraints.",
+    "strategicPlan": "**Strategic Directive:** The global environment currently presents a complex matrix of escalating risks, characterized by persistent widespread seismic activity across the Pacific Ring of Fire, significant economic hardship impacting millions of households globally, and a dynamic tech landscape facing both regulatory hurdles and strategic military integration of AI. Geopolitically, instability persists, as evidenced by forced exiles and unaddressed humanitarian crises in post-disaster zones like Venezuela. Financially, while key tech stocks show resilience, broader market sentiment is tempered by increasing scrutiny on emerging technologies like robotaxis and data centers, further complicating investment and operational planning. To navigate this volatile period, GlobeGuard must immediately: 1. **Prioritize Physical Readiness:** Update and exercise earthquake and disaster preparedness protocols for all assets and personnel in seismically active regions, particularly along the Pacific Ring of Fire, learning from the ongoing humanitarian response in Venezuela. 2. **Optimize Financial & Regulatory Posture:** Conduct a comprehensive review of investment strategies and operational dependencies, adjusting for increasing regulatory pressures on AI, data centers, and autonomous systems while building resilience against potential market contractions driven by global consumer economic strain. 3. **Bolster Intelligence and Cyber Defenses:** Intensify intelligence gathering on geopolitical flashpoints and economic instability, simultaneously enhancing cybersecurity measures to protect critical data and infrastructure, recognizing the accelerated strategic importance and \"weaponization\" of AI and information by state actors.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $192.28 (-2.4%)",
+            "title": "\ud83d\udcb0 NVDA: $192.82 (-2.12%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $340.14 (0.02%)",
+            "title": "\ud83d\udcb0 AAPL: $343.17 (0.91%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $395.1 (0.44%)",
+            "title": "\ud83d\udcb0 MSFT: $396.76 (0.87%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $124.5 (0.79%)",
+            "title": "\ud83d\udcb0 PLTR: $125.67 (1.73%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $227.92 (-1.27%)",
+            "title": "\ud83d\udcb0 AMZN: $230.76 (-0.04%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 53 km E of Rapu-Rapu, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgpr"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 11 km N of Tsunagi, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 211 km SE of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 79 km NE of Casuguran, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgnu"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just reported across the Pacific!"
+    "seismicSummary": "**Alert: Four M5.4 earthquakes have just struck across the Pacific!**"
 }
