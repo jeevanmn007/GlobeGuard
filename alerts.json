@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "**Strategic Directive:** The global environment currently presents a complex matrix of escalating risks, characterized by persistent widespread seismic activity across the Pacific Ring of Fire, significant economic hardship impacting millions of households globally, and a dynamic tech landscape facing both regulatory hurdles and strategic military integration of AI. Geopolitically, instability persists, as evidenced by forced exiles and unaddressed humanitarian crises in post-disaster zones like Venezuela. Financially, while key tech stocks show resilience, broader market sentiment is tempered by increasing scrutiny on emerging technologies like robotaxis and data centers, further complicating investment and operational planning. To navigate this volatile period, GlobeGuard must immediately: 1. **Prioritize Physical Readiness:** Update and exercise earthquake and disaster preparedness protocols for all assets and personnel in seismically active regions, particularly along the Pacific Ring of Fire, learning from the ongoing humanitarian response in Venezuela. 2. **Optimize Financial & Regulatory Posture:** Conduct a comprehensive review of investment strategies and operational dependencies, adjusting for increasing regulatory pressures on AI, data centers, and autonomous systems while building resilience against potential market contractions driven by global consumer economic strain. 3. **Bolster Intelligence and Cyber Defenses:** Intensify intelligence gathering on geopolitical flashpoints and economic instability, simultaneously enhancing cybersecurity measures to protect critical data and infrastructure, recognizing the accelerated strategic importance and \"weaponization\" of AI and information by state actors.",
+    "strategicPlan": "The global environment presents a critical confluence of threats: pervasive social instability driven by widespread economic hardship in developed nations and persistent humanitarian crises in regions like Venezuela, complicated by a challenging regulatory landscape impacting cutting-edge technologies such as AI and autonomous vehicles, as reflected in mixed tech sector performance and a notable dip in NVDA. This geopolitical and financial complexity is overlaid by a significant physical threat, evidenced by a cluster of magnitude 5.4 earthquakes across the active Pacific Ring of Fire, signaling heightened seismic instability. To safeguard assets and ensure physical safety, immediately review and stress-test your critical supply chain and energy dependencies against emerging regulatory challenges and economic volatility, bolster all regional disaster preparedness and response protocols for assets and personnel located within seismically active zones, and strategically diversify investment portfolios to enhance resilience against both social unrest and potential market downturns.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $192.82 (-2.12%)",
+            "title": "\ud83d\udcb0 NVDA: $192.6 (-2.24%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.17 (0.91%)",
+            "title": "\ud83d\udcb0 AAPL: $341.47 (0.41%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $396.76 (0.87%)",
+            "title": "\ud83d\udcb0 MSFT: $396.0 (0.67%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $125.67 (1.73%)",
+            "title": "\ud83d\udcb0 PLTR: $124.03 (0.41%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $230.76 (-0.04%)",
+            "title": "\ud83d\udcb0 AMZN: $229.51 (-0.58%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm"
         }
     ],
-    "seismicSummary": "**Alert: Four M5.4 earthquakes have just struck across the Pacific!**"
+    "seismicSummary": "Four M5.4 earthquakes just struck across the Pacific!"
 }
