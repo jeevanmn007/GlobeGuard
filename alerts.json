@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is characterized by escalating multi-faceted instability, with profound economic fragilities evident in widespread struggles for essentials alongside niche luxury spending, further compounded by emerging regulatory headwinds challenging key tech sectors like AI, data centers, and autonomous vehicles. This financial and geopolitical complexity unfolds against a backdrop of critical surges in seismic activity, particularly two significant quakes in Japan along the Pacific Ring of Fire, underscoring immediate physical threats and humanitarian needs. To navigate this landscape effectively, GlobeGuard directs immediate action: 1) Fortify financial resilience by diversifying assets away from highly regulated or speculative tech sectors, prioritizing liquidity amidst persistent economic strain. 2) Implement comprehensive physical safety and emergency preparedness plans, with particular urgency for assets and personnel within tectonically active regions and vulnerable supply chains. 3) Enhance intelligence gathering on evolving global regulatory frameworks for emerging technologies and monitor geopolitical flashpoints, especially where data and AI intersect with national security interests, to proactively mitigate operational risks.",
+    "strategicPlan": "The global environment presents an escalating, multi-faceted risk profile. Geopolitically, widespread socio-economic distress, evident in struggling households across major economies, converges with ongoing humanitarian crises from natural disasters in regions like Venezuela and persistent authoritarian pressures driving migration, signaling heightened risks of social unrest and regional instability. Financially, while major tech sectors show mixed performance, emerging regulatory headwinds for autonomous technology and data infrastructure, coupled with AI-driven cost increases, introduce new market uncertainties and exacerbate affordability concerns. Concurrently, the physical threat from an active Pacific Ring of Fire, with multiple recent moderate seismic events, underscores a persistent and significant natural disaster vulnerability. To navigate this landscape, GlobeGuard advises: **1. Immediately review and fortify personal and corporate financial resilience**, diversifying assets and ensuring liquidity against potential economic shocks and AI-driven inflation; **2. Secure physical infrastructure and establish robust emergency protocols**, particularly for assets and personnel in seismically active regions, leveraging lessons from ongoing humanitarian needs; and **3. Proactively monitor and adapt to evolving regulatory landscapes in technology and AI**, preparing for strategic shifts influenced by geopolitical competition and infrastructure constraints.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $197.01 (0.25%)",
+            "title": "\ud83d\udcb0 NVDA: $192.28 (-2.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $340.08 (0.94%)",
+            "title": "\ud83d\udcb0 AAPL: $340.14 (0.02%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $393.35 (1.09%)",
+            "title": "\ud83d\udcb0 MSFT: $395.1 (0.44%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.53 (-6.08%)",
+            "title": "\ud83d\udcb0 PLTR: $124.5 (0.79%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $230.86 (-0.23%)",
+            "title": "\ud83d\udcb0 AMZN: $227.92 (-1.27%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.8 - 2026 Uto, Japan Earthquake\u00a0",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.6 - 16 km NE of Tsunagi, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbm"
+            "title": "\u26a0\ufe0f Mag 5.4 - 11 km N of Tsunagi, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 153 km NE of Neiafu, Tonga",
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 211 km SE of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 79 km NE of Casuguran, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgnu"
         }
     ],
-    "seismicSummary": "**Powerful M6.8 earthquake strikes Japan amidst multiple strong global quakes!**"
+    "seismicSummary": "Multiple M5+ earthquakes just reported across the Pacific!"
 }
