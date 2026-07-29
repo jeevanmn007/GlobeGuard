@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals a convergence of escalating risks: pervasive socio-economic fragility, as seen in widespread struggles for essentials and ongoing humanitarian crises exacerbated by natural disasters in regions like Venezuela; a turbulent financial sector experiencing a broad tech market downturn alongside new regulatory challenges impacting AI, data centers, and autonomous vehicles; and sustained, high-level seismic activity across the Pacific Ring of Fire, requiring immediate vigilance. To navigate this complex landscape, immediately review and diversify investment portfolios, especially within the volatile tech sector, to mitigate exposure to regulatory shifts and market downturns; proactively update and practice household emergency plans with a focus on seismic event preparedness and essential resource security, particularly for those in active seismic zones; and maintain heightened vigilance regarding regional socio-economic indicators and potential geopolitical instability to anticipate and mitigate local disruptions to supply chains and personal security.",
+    "strategicPlan": "The global environment signals a dangerous convergence of systemic vulnerabilities: widespread economic distress fueling social instability, a retreating tech market facing increased regulatory headwinds, and escalating geopolitical tensions driven by an AI-accelerated military race. Beneath this socio-economic and political instability, heightened seismic activity, particularly along the volatile Pacific Ring of Fire and recently impacting Venezuela, presents an acute and immediate physical threat. In response, immediately assess and diversify financial holdings to hedge against market volatility and regulatory shifts; reinforce personal and corporate emergency preparedness protocols, securing critical infrastructure and ensuring robust communication redundancies; and maintain vigilant monitoring of regional socio-economic indicators and geological advisories to anticipate localized disruptions and ensure rapid response.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.6 - Pacific-Antarctic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 53 km E of Rapu-Rapu, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgpr"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 11 km N of Tsunagi, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 153 km NE of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 79 km NE of Casuguran, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgnu"
         }
     ],
-    "seismicSummary": "Multiple 5.1-5.4M earthquakes just struck the Philippines, Japan, and Tonga!"
+    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes, including a 5.9, reported across diverse regions!**"
 }
