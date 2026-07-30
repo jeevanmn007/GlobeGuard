@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a critical, multi-faceted threat landscape characterized by simultaneous economic fragility, strategic tech sector corrections, and persistent geological instability. Widespread household financial distress, particularly in the UK, underscores a struggling consumer base, while major tech stocks experience broad downturns amidst increasing regulatory hurdles for AI and data infrastructure, signaling potential economic contraction. This volatility is further complicated by geopolitical events like the Cuban dissident exile and the ongoing humanitarian crisis following Venezuela's significant earthquakes, which also highlight regional instability and migration pressures. Concurrently, persistent and significant seismic activity across the Pacific Ring of Fire and the Pacific-Antarctic Ridge confirms a heightened physical threat from natural disasters globally. To navigate this integrated risk environment, immediately enhance financial resilience by diversifying asset portfolios beyond volatile tech and securing robust emergency reserves; execute comprehensive physical vulnerability assessments and implement advanced disaster preparedness for assets and personnel, particularly in seismically active or politically unstable regions; and fortify critical supply chains against both economic shocks and physical disruptions to ensure continuity of essential resources.",
+    "strategicPlan": "The current global intelligence picture reveals a precarious intersection of escalating systemic risks: significant economic strain is visible across developed nations, marked by widespread struggles for basic necessities, while the critical technology sector faces a notable market downturn and increasing regulatory scrutiny. Simultaneously, we observe a concerning surge in seismic activity, with multiple significant earthquakes in tectonically active regions, underscoring persistent physical vulnerabilities exacerbated by past humanitarian crises like those in Venezuela. To navigate this complex landscape, GlobeGuard directs immediate action: 1) Diversify asset allocation to mitigate exposure to tech sector volatility and prepare for potential economic shocks. 2) Conduct urgent structural integrity assessments and preparedness drills for all assets and personnel in seismically active zones. 3) Enhance monitoring of local and regional socio-economic stability indicators to anticipate and preempt potential civil unrest or supply chain disruptions stemming from widespread economic hardship.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvz"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - Pacific-Antarctic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 53 km E of Rapu-Rapu, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgpr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 11 km N of Tsunagi, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx"
+            "title": "\u26a0\ufe0f Mag 5.4 - 201 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes (Mag 5.4-5.9) reported globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes (Mag 5.4-5.9) just struck various global locations, including two near the Kermadec Islands!"
 }
