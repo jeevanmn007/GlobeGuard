@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence picture reveals a rapidly converging set of threats: escalating socio-economic strain is manifesting as widespread household hardship in developed nations, while geopolitical instability deepens, highlighted by the ongoing humanitarian crisis following significant earthquakes in Venezuela and persistent regional pressures elsewhere. Simultaneously, the physical threat landscape shows heightened global tectonic activity, with notable seismic events across the Pacific Rim and active ridges, confirming the underlying geological volatility contributing to regional crises. Financially, while targeted technology sectors, particularly those driving AI and data infrastructure, exhibit strong growth, they face increasing regulatory headwinds and regional moratoriums, creating a complex investment environment. In response, GlobeGuard directs immediate action: fortify financial resilience by diversifying asset portfolios against both market volatility and socio-economic pressures; conduct urgent reviews of physical security protocols and supply chain contingencies for operations in or linked to seismically active zones and regions prone to humanitarian crises; and strategically navigate the technology sector by prioritizing investments in core AI and data infrastructure while meticulously assessing evolving regulatory frameworks to mitigate future operational and investment risks.",
+    "strategicPlan": "The global environment is characterized by a confluence of acute threats: Widespread economic fragility, as evidenced by significant cost-of-living struggles, underpins potential social unrest, while persistent geopolitical tensions fuel migratory pressures and humanitarian crises exacerbated by natural disasters. Financially, while key tech sectors like AI and cloud computing demonstrate robust growth (e.g., MSFT, AMZN, NVDA), they face increasing regulatory scrutiny and strategic competition, signaling future market volatility. Physically, a notable uptick in seismic activity across the Pacific Ring of Fire and oceanic ridges, alongside recent devastating quakes in Venezuela, underscores a heightened and persistent threat of geological instability. In response, GlobeGuard directs immediate action: Firstly, prioritize comprehensive disaster preparedness across all operational zones, particularly focusing on structural resilience and emergency response plans in seismically active regions and coastal areas. Secondly, strategically pivot financial investments towards robust AI and cloud computing infrastructure, while simultaneously developing robust contingency plans for supply chain disruptions and regulatory shifts in the evolving tech landscape. Lastly, intensify intelligence monitoring on global socio-economic stability and migration patterns to mitigate risks to personnel and operations, ensuring rapid humanitarian response capabilities are in place where needed.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $193.05 (1.6%)",
+            "title": "\ud83d\udcb0 NVDA: $193.5 (1.84%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.84 (-1.88%)",
+            "title": "\ud83d\udcb0 AAPL: $333.44 (-1.4%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $454.33 (16.33%)",
+            "title": "\ud83d\udcb0 MSFT: $457.79 (17.22%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $121.64 (-1.1%)",
+            "title": "\ud83d\udcb0 PLTR: $121.99 (-0.82%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.64 (5.29%)",
+            "title": "\ud83d\udcb0 AMZN: $237.66 (4.86%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - 247 km NNE of Colonia, Micronesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.9 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.6 - Pacific-Antarctic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 201 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple earthquakes above magnitude 5 have just struck diverse regions, including the Kermadec Islands and Indonesia!"
+    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes (Mag 5.6-5.9) reported near Micronesia, the Kermadec Islands, and Pacific-Antarctic Ridge!"
 }
