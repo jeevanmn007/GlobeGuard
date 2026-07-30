@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "Global intelligence indicates a complex and escalating threat landscape. Financial markets are experiencing a broad downturn, mirroring widespread economic distress and a deepening cost-of-living crisis impacting millions globally. Geopolitically, ongoing humanitarian crises, notably in Venezuela following its recent quakes, contribute to regional instability, while persistent human rights concerns, such as the Cuban dissident's exile, signal potential for broader friction. Concurrently, elevated global seismic activity, including significant tremors in the Kermadec Islands and Indonesia, underscores persistent physical threats across the Pacific Rim, alongside increasing regulatory scrutiny and strategic competition in critical technology sectors like AI and data centers. We recommend three immediate actions: Firstly, secure financial resilience by thoroughly reviewing liquidity, diversifying investments, and preparing for sustained market uncertainty and economic headwinds. Secondly, enhance physical security and preparedness by updating emergency protocols, maintaining supply caches, and remaining vigilant against both localized natural disasters and potential social unrest stemming from economic hardship. Lastly, intensify situational awareness by closely monitoring regional geopolitical shifts, particularly humanitarian crises, and proactively safeguarding critical data assets against evolving cyber threats and regulatory changes in the rapidly advancing AI landscape.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The global landscape is currently defined by a dangerous divergence: significant socio-economic distress and humanitarian crises are expanding in key regions, exemplified by widespread struggles for essentials in the UK and ongoing disaster recovery in Venezuela, while simultaneously the high-tech sector, particularly AI and cloud computing, demonstrates robust financial growth despite emerging regulatory headwinds against autonomous tech and data center expansion. This geopolitical and financial asymmetry is compounded by persistent, high-magnitude seismic activity globally, underscoring systemic physical vulnerabilities. To navigate this complex environment, GlobeGuard advises immediate action: first, diversify and secure digital assets across geographically redundant and compliant platforms to mitigate evolving tech regulations and market volatility; second, bolster supply chain resilience by prioritizing local sourcing and strategic inventory for critical operational needs, anticipating further socio-economic disruptions; and third, implement enhanced natural disaster protocols, focusing on robust emergency communications and infrastructure integrity, especially for assets and personnel in seismically active regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $190.01 (-3.55%)",
+            "title": "\ud83d\udcb0 NVDA: $195.7 (2.99%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $338.19 (-0.56%)",
+            "title": "\ud83d\udcb0 AAPL: $331.98 (-1.84%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $390.54 (-0.71%)",
+            "title": "\ud83d\udcb0 MSFT: $446.01 (14.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $123.0 (-0.43%)",
+            "title": "\ud83d\udcb0 PLTR: $121.24 (-1.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $226.65 (-1.82%)",
+            "title": "\ud83d\udcb0 AMZN: $236.95 (4.54%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "**URGENT ALERT:** Multiple strong earthquakes, up to Mag 5.9, just struck the Kermadec Islands, Pacific-Antarctic Ridge, and Indonesia!"
+    "seismicSummary": "Multiple significant Mag 5+ earthquakes, topped by a 5.9, are currently active across various regions!"
 }
