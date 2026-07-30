@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical convergence of systemic economic distress \u2013 seen in widespread struggles for essential needs and a broad tech market downturn \u2013 with escalating regulatory hurdles for crucial digital infrastructure and an accelerating military focus on AI. This human-made volatility is compounded by a period of heightened global seismic activity, marked by multiple significant oceanic quakes and the ongoing humanitarian emergency following Venezuela's tremors, creating a multifaceted, high-risk operational landscape. To navigate this, prioritize immediate financial resilience by fortifying essential supply chains and diversifying liquid assets against market downturns; simultaneously, conduct a rapid audit of digital infrastructure for regulatory compliance and enhanced cyber-physical security, especially concerning data centers and emerging AI applications; and finally, urgently review and bolster physical safety protocols and disaster preparedness plans, particularly in seismically active regions, to mitigate the increasing threat of natural hazards and ensure continuity.",
+    "strategicPlan": "Global intelligence indicates a complex and escalating threat landscape. Financial markets are experiencing a broad downturn, mirroring widespread economic distress and a deepening cost-of-living crisis impacting millions globally. Geopolitically, ongoing humanitarian crises, notably in Venezuela following its recent quakes, contribute to regional instability, while persistent human rights concerns, such as the Cuban dissident's exile, signal potential for broader friction. Concurrently, elevated global seismic activity, including significant tremors in the Kermadec Islands and Indonesia, underscores persistent physical threats across the Pacific Rim, alongside increasing regulatory scrutiny and strategic competition in critical technology sectors like AI and data centers. We recommend three immediate actions: Firstly, secure financial resilience by thoroughly reviewing liquidity, diversifying investments, and preparing for sustained market uncertainty and economic headwinds. Secondly, enhance physical security and preparedness by updating emergency protocols, maintaining supply caches, and remaining vigilant against both localized natural disasters and potential social unrest stemming from economic hardship. Lastly, intensify situational awareness by closely monitoring regional geopolitical shifts, particularly humanitarian crises, and proactively safeguarding critical data assets against evolving cyber threats and regulatory changes in the rapidly advancing AI landscape.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -55,8 +55,8 @@
             "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
         },
         {
-            "title": "Apple's Price Hikes Aren't Just an AI Problem",
-            "link": "https://www.cnet.com/tech/computing/apple-price-hikes-not-unavoidable-blame-ai-boom/"
+            "title": "Opinion - Congress should share, not shield, US artificial intelligence tech",
+            "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e85f39d-ecba-4791-9143-2c7998359584"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes (Mag 5.4-5.9) just struck, with several near the Kermadec Islands!"
+    "seismicSummary": "**URGENT ALERT:** Multiple strong earthquakes, up to Mag 5.9, just struck the Kermadec Islands, Pacific-Antarctic Ridge, and Indonesia!"
 }
