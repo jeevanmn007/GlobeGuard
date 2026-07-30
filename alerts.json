@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape is currently defined by a dangerous divergence: significant socio-economic distress and humanitarian crises are expanding in key regions, exemplified by widespread struggles for essentials in the UK and ongoing disaster recovery in Venezuela, while simultaneously the high-tech sector, particularly AI and cloud computing, demonstrates robust financial growth despite emerging regulatory headwinds against autonomous tech and data center expansion. This geopolitical and financial asymmetry is compounded by persistent, high-magnitude seismic activity globally, underscoring systemic physical vulnerabilities. To navigate this complex environment, GlobeGuard advises immediate action: first, diversify and secure digital assets across geographically redundant and compliant platforms to mitigate evolving tech regulations and market volatility; second, bolster supply chain resilience by prioritizing local sourcing and strategic inventory for critical operational needs, anticipating further socio-economic disruptions; and third, implement enhanced natural disaster protocols, focusing on robust emergency communications and infrastructure integrity, especially for assets and personnel in seismically active regions.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly converging set of threats: escalating socio-economic strain is manifesting as widespread household hardship in developed nations, while geopolitical instability deepens, highlighted by the ongoing humanitarian crisis following significant earthquakes in Venezuela and persistent regional pressures elsewhere. Simultaneously, the physical threat landscape shows heightened global tectonic activity, with notable seismic events across the Pacific Rim and active ridges, confirming the underlying geological volatility contributing to regional crises. Financially, while targeted technology sectors, particularly those driving AI and data infrastructure, exhibit strong growth, they face increasing regulatory headwinds and regional moratoriums, creating a complex investment environment. In response, GlobeGuard directs immediate action: fortify financial resilience by diversifying asset portfolios against both market volatility and socio-economic pressures; conduct urgent reviews of physical security protocols and supply chain contingencies for operations in or linked to seismically active zones and regions prone to humanitarian crises; and strategically navigate the technology sector by prioritizing investments in core AI and data infrastructure while meticulously assessing evolving regulatory frameworks to mitigate future operational and investment risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $195.7 (2.99%)",
+            "title": "\ud83d\udcb0 NVDA: $193.05 (1.6%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.98 (-1.84%)",
+            "title": "\ud83d\udcb0 AAPL: $331.84 (-1.88%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $446.01 (14.2%)",
+            "title": "\ud83d\udcb0 MSFT: $454.33 (16.33%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $121.24 (-1.43%)",
+            "title": "\ud83d\udcb0 PLTR: $121.64 (-1.1%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $236.95 (4.54%)",
+            "title": "\ud83d\udcb0 AMZN: $238.64 (5.29%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "Multiple significant Mag 5+ earthquakes, topped by a 5.9, are currently active across various regions!"
+    "seismicSummary": "\ud83d\udea8 Multiple earthquakes above magnitude 5 have just struck diverse regions, including the Kermadec Islands and Indonesia!"
 }
