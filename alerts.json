@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is characterized by a confluence of acute threats: Widespread economic fragility, as evidenced by significant cost-of-living struggles, underpins potential social unrest, while persistent geopolitical tensions fuel migratory pressures and humanitarian crises exacerbated by natural disasters. Financially, while key tech sectors like AI and cloud computing demonstrate robust growth (e.g., MSFT, AMZN, NVDA), they face increasing regulatory scrutiny and strategic competition, signaling future market volatility. Physically, a notable uptick in seismic activity across the Pacific Ring of Fire and oceanic ridges, alongside recent devastating quakes in Venezuela, underscores a heightened and persistent threat of geological instability. In response, GlobeGuard directs immediate action: Firstly, prioritize comprehensive disaster preparedness across all operational zones, particularly focusing on structural resilience and emergency response plans in seismically active regions and coastal areas. Secondly, strategically pivot financial investments towards robust AI and cloud computing infrastructure, while simultaneously developing robust contingency plans for supply chain disruptions and regulatory shifts in the evolving tech landscape. Lastly, intensify intelligence monitoring on global socio-economic stability and migration patterns to mitigate risks to personnel and operations, ensuring rapid humanitarian response capabilities are in place where needed.",
+    "strategicPlan": "The global environment presents a complex and escalating threat profile, marked by pervasive socio-economic strain on critical populations, a volatile geopolitical landscape punctuated by humanitarian crises and the accelerating dual-use potential of AI technology, and a distinct uptick in global seismic activity, evidenced by recent destructive events and a cluster of significant oceanic quakes. While specific tech sectors demonstrate resilience, this masks underlying systemic fragility. To secure your assets and physical safety, immediately diversify and stress-test financial holdings against economic volatility, fortify your digital infrastructure with advanced AI-aware cybersecurity protocols and rigorous data governance, and critically review and enhance all emergency preparedness plans, particularly for natural disasters, ensuring distributed communication and robust critical supply stockpiles.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $193.5 (1.84%)",
+            "title": "\ud83d\udcb0 NVDA: $195.04 (2.65%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.44 (-1.4%)",
+            "title": "\ud83d\udcb0 AAPL: $333.43 (-1.41%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $457.79 (17.22%)",
+            "title": "\ud83d\udcb0 MSFT: $451.1 (15.51%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $121.99 (-0.82%)",
+            "title": "\ud83d\udcb0 PLTR: $122.26 (-0.6%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $237.66 (4.86%)",
+            "title": "\ud83d\udcb0 AMZN: $235.5 (3.9%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes (Mag 5.6-5.9) reported near Micronesia, the Kermadec Islands, and Pacific-Antarctic Ridge!"
+    "seismicSummary": "URGENT: Multiple strong earthquakes, up to Mag 5.9, reported across oceanic regions."
 }
