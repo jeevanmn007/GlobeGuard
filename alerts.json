@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals a dangerous convergence of systemic vulnerabilities: widespread economic distress fueling social instability, a retreating tech market facing increased regulatory headwinds, and escalating geopolitical tensions driven by an AI-accelerated military race. Beneath this socio-economic and political instability, heightened seismic activity, particularly along the volatile Pacific Ring of Fire and recently impacting Venezuela, presents an acute and immediate physical threat. In response, immediately assess and diversify financial holdings to hedge against market volatility and regulatory shifts; reinforce personal and corporate emergency preparedness protocols, securing critical infrastructure and ensuring robust communication redundancies; and maintain vigilant monitoring of regional socio-economic indicators and geological advisories to anticipate localized disruptions and ensure rapid response.",
+    "strategicPlan": "The global situation presents a critical, multi-faceted threat landscape characterized by simultaneous economic fragility, strategic tech sector corrections, and persistent geological instability. Widespread household financial distress, particularly in the UK, underscores a struggling consumer base, while major tech stocks experience broad downturns amidst increasing regulatory hurdles for AI and data infrastructure, signaling potential economic contraction. This volatility is further complicated by geopolitical events like the Cuban dissident exile and the ongoing humanitarian crisis following Venezuela's significant earthquakes, which also highlight regional instability and migration pressures. Concurrently, persistent and significant seismic activity across the Pacific Ring of Fire and the Pacific-Antarctic Ridge confirms a heightened physical threat from natural disasters globally. To navigate this integrated risk environment, immediately enhance financial resilience by diversifying asset portfolios beyond volatile tech and securing robust emergency reserves; execute comprehensive physical vulnerability assessments and implement advanced disaster preparedness for assets and personnel, particularly in seismically active or politically unstable regions; and fortify critical supply chains against both economic shocks and physical disruptions to ensure continuity of essential resources.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes, including a 5.9, reported across diverse regions!**"
+    "seismicSummary": "Multiple strong earthquakes (Mag 5.4-5.9) reported globally!"
 }
