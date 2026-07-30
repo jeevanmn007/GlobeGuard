@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a complex and escalating threat profile, marked by pervasive socio-economic strain on critical populations, a volatile geopolitical landscape punctuated by humanitarian crises and the accelerating dual-use potential of AI technology, and a distinct uptick in global seismic activity, evidenced by recent destructive events and a cluster of significant oceanic quakes. While specific tech sectors demonstrate resilience, this masks underlying systemic fragility. To secure your assets and physical safety, immediately diversify and stress-test financial holdings against economic volatility, fortify your digital infrastructure with advanced AI-aware cybersecurity protocols and rigorous data governance, and critically review and enhance all emergency preparedness plans, particularly for natural disasters, ensuring distributed communication and robust critical supply stockpiles.",
+    "strategicPlan": "The global environment is currently characterized by a critical convergence of factors: escalating internal societal pressures stemming from widespread cost-of-living crises and persistent humanitarian needs, juxtaposed against a robust yet segment-specific expansion within the AI and data-centric technology sector. Concurrently, a notable surge in seismic activity, specifically a cluster of significant earthquakes across the Pacific Ring of Fire, signals an elevated physical risk profile. Given this complex and volatile landscape, GlobeGuard's strategic directive is to immediately secure assets and ensure safety: first, diversify financial portfolios, particularly in tech, to mitigate regulatory and market volatility, while identifying resilient positions in core infrastructure; second, fortify all critical data assets through geographically dispersed redundancies and robust backup solutions, anticipating potential infrastructure disruptions from both physical and regulatory events; and third, urgently review and update personal and operational emergency preparedness plans for significant natural disasters and potential societal instability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - Pacific-Antarctic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud"
+            "title": "\u26a0\ufe0f Mag 5.4 - 201 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, up to Mag 5.9, reported across oceanic regions."
+    "seismicSummary": "Multiple M5+ earthquakes detected across the Pacific region!"
 }
