@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a precarious intersection of escalating systemic risks: significant economic strain is visible across developed nations, marked by widespread struggles for basic necessities, while the critical technology sector faces a notable market downturn and increasing regulatory scrutiny. Simultaneously, we observe a concerning surge in seismic activity, with multiple significant earthquakes in tectonically active regions, underscoring persistent physical vulnerabilities exacerbated by past humanitarian crises like those in Venezuela. To navigate this complex landscape, GlobeGuard directs immediate action: 1) Diversify asset allocation to mitigate exposure to tech sector volatility and prepare for potential economic shocks. 2) Conduct urgent structural integrity assessments and preparedness drills for all assets and personnel in seismically active zones. 3) Enhance monitoring of local and regional socio-economic stability indicators to anticipate and preempt potential civil unrest or supply chain disruptions stemming from widespread economic hardship.",
+    "strategicPlan": "The global environment is currently characterized by a critical convergence of systemic economic distress \u2013 seen in widespread struggles for essential needs and a broad tech market downturn \u2013 with escalating regulatory hurdles for crucial digital infrastructure and an accelerating military focus on AI. This human-made volatility is compounded by a period of heightened global seismic activity, marked by multiple significant oceanic quakes and the ongoing humanitarian emergency following Venezuela's tremors, creating a multifaceted, high-risk operational landscape. To navigate this, prioritize immediate financial resilience by fortifying essential supply chains and diversifying liquid assets against market downturns; simultaneously, conduct a rapid audit of digital infrastructure for regulatory compliance and enhanced cyber-physical security, especially concerning data centers and emerging AI applications; and finally, urgently review and bolster physical safety protocols and disaster preparedness plans, particularly in seismically active regions, to mitigate the increasing threat of natural hazards and ensure continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes (Mag 5.4-5.9) just struck various global locations, including two near the Kermadec Islands!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes (Mag 5.4-5.9) just struck, with several near the Kermadec Islands!"
 }
