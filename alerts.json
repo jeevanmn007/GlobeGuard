@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is currently characterized by a critical convergence of factors: escalating internal societal pressures stemming from widespread cost-of-living crises and persistent humanitarian needs, juxtaposed against a robust yet segment-specific expansion within the AI and data-centric technology sector. Concurrently, a notable surge in seismic activity, specifically a cluster of significant earthquakes across the Pacific Ring of Fire, signals an elevated physical risk profile. Given this complex and volatile landscape, GlobeGuard's strategic directive is to immediately secure assets and ensure safety: first, diversify financial portfolios, particularly in tech, to mitigate regulatory and market volatility, while identifying resilient positions in core infrastructure; second, fortify all critical data assets through geographically dispersed redundancies and robust backup solutions, anticipating potential infrastructure disruptions from both physical and regulatory events; and third, urgently review and update personal and operational emergency preparedness plans for significant natural disasters and potential societal instability.",
+    "strategicPlan": "The global landscape is characterized by a multi-faceted threat matrix: social and economic fragility persist, evidenced by widespread struggles for essentials in key regions, while geopolitical tensions manifest in ongoing political exiles and humanitarian crises stemming from previous natural disasters. Financially, the tech sector exhibits bifurcated performance, with significant growth in AI-driven enterprises (NVDA, MSFT) alongside localized regulatory headwinds (NY data center moratorium, NJ robotaxi laws) creating investment uncertainty. Concurrently, the Pacific Ring of Fire is acutely volatile, marked by a cluster of significant seismic events (Mag 5.3-5.9) indicating an elevated physical threat. In this environment, GlobeGuard directs immediate action: 1. Strengthen emergency preparedness and disaster response protocols for all assets and personnel, prioritizing those in seismically active regions and areas prone to social unrest. 2. Critically assess and diversify investment portfolios, strategically leveraging AI-driven growth while hedging against regulatory shifts and maintaining liquidity for contingencies. 3. Review and bolster supply chain resilience and operational continuity plans, accounting for potential disruptions from both socio-economic instability and natural disasters.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.8 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvz"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 201 km W of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 217 km SE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgva"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes detected across the Pacific region!"
+    "seismicSummary": "Multiple strong magnitude 5 earthquakes are striking across the Pacific now!"
 }
