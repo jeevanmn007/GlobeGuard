@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a complex, multi-dimensional threat landscape: widespread economic distress is heightening social fragility, evident in millions struggling for essentials, while geopolitical tensions persist, highlighted by dissident exiles and ongoing humanitarian crises from natural disasters in regions like Venezuela. Financially, the tech sector demonstrates significant volatility, with major players experiencing sharp downturns amidst overall market uncertainty, concurrent with an escalating strategic competition in AI and data, facing increasing regulatory scrutiny and military weaponization efforts. This intricate situation is unfolding against a backdrop of elevated global seismic activity, with multiple moderate tremors across critical regions. To navigate these convergent threats, we must immediately implement robust disaster preparedness protocols and infrastructure resilience measures in all seismically active zones, prioritize the diversification and stress-testing of financial assets against both market volatility and economic stagnation, and stringently secure all data assets while developing agile compliance frameworks for rapidly evolving AI governance and ethical use.",
+    "strategicPlan": "The global environment presents a dynamic threat matrix: acute economic distress is widespread, exemplified by millions struggling with basic needs, and geopolitical instability is escalating with humanitarian crises, like post-quake Venezuela, and political exiles. Financial markets reflect this uncertainty with significant volatility in major tech stocks, while a persistent pattern of moderate seismic activity globally, particularly in the Americas and Russia, compounds the physical risk. This confluence demands immediate strategic vigilance. To secure your assets and physical safety, first, **immediately review and diversify investment portfolios**, prioritizing resilient sectors and establishing robust hedging strategies to protect against sharp market downturns. Second, **enhance personal and operational seismic preparedness** by reviewing emergency plans, securing physical infrastructure, and ensuring readily accessible disaster supplies, especially if in at-risk regions. Third, **proactively audit and secure critical personal and business supply chains** for essential goods, developing contingency plans to mitigate against economic disruptions and geopolitical instability impacting resource availability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,11 +21,11 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $196.62 (0.81%)",
+            "title": "\ud83d\udcb0 NVDA: $198.97 (2.01%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $301.3 (-9.64%)",
+            "title": "\ud83d\udcb0 AAPL: $302.13 (-9.39%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
@@ -33,11 +33,11 @@
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $121.97 (-0.24%)",
+            "title": "\ud83d\udcb0 PLTR: $122.34 (0.07%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $269.96 (14.63%)",
+            "title": "\ud83d\udcb0 AMZN: $271.33 (15.22%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 247 km NNE of Colonia, Micronesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 13 km ENE of San Fernando, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1b"
+            "title": "\u26a0\ufe0f Mag 5.2 - 85 km SW of El Arenal, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 69 km W of Coquimbo, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 67 km E of Petropavlovsk-Kamchatsky, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th3m"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes detected globally."
+    "seismicSummary": "URGENT: Multiple M5+ earthquakes, including a 5.6 in Peru, just struck across Peru, Mexico, Chile, and Russia!"
 }
