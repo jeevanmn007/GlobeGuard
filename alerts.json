@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a complex risk profile, marked by escalating socio-economic fragility in key regions, continued geopolitical instability evidenced by humanitarian crises and dissident movements, and a persistently elevated pattern of seismic activity across the Pacific Rim, compounding existing vulnerabilities. Financially, while certain tech sectors demonstrate robust growth, the broader market exhibits volatility, with critical trends in AI and data facing nascent regulatory challenges and a strategic shift towards data 'weaponization'. To navigate this dynamic, GlobeGuard directs immediate action: first, review and diversify financial assets, prioritizing resilience against economic downturns and evolving tech sector regulations; second, reinforce physical safety protocols and emergency preparedness for all personnel and critical assets, especially within seismically active or politically unstable zones; and third, fortify digital infrastructure and data security measures, anticipating an intensified threat landscape around information integrity and access.",
+    "strategicPlan": "Our current intelligence indicates a complex and escalating global threat landscape. Geopolitically, widespread economic hardship and social instability are manifesting in cost-of-living crises and humanitarian emergencies, exacerbated by ongoing political dissent and the devastating aftermath of natural disasters like those in Venezuela. Financially, while specific frontier technology sectors like AI and cloud computing show robust growth, the market exhibits significant volatility among tech giants and increasing regulatory scrutiny (e.g., data center moratoriums, robotaxi laws), indicating a shifting investment landscape and potential for market disruption. This environment is underpinned by persistent physical threats, with a notable pattern of moderate seismic activity globally, confirming a sustained baseline risk. To navigate this converging pressure, GlobeGuard directs immediate action: 1) **Strategically re-evaluate and diversify asset portfolios**, focusing on resilient sectors and tangible holdings to mitigate financial volatility and inflation; 2) **Strengthen emergency preparedness plans for physical safety**, particularly for personnel and critical infrastructure located in seismically active regions; and 3) **Implement robust supply chain resilience protocols**, addressing potential disruptions from economic shifts, regulatory changes, and natural phenomena.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 141 km ENE of Masohi, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 85 km SW of El Arenal, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 69 km W of Coquimbo, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 67 km E of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th3m"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thb5"
         }
     ],
-    "seismicSummary": "Multiple strong magnitude 5+ earthquakes are striking globally!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes are striking worldwide!"
 }
