@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a bifurcated reality: escalating socioeconomic stress, highlighted by widespread struggles for essentials, juxtaposes against the robust performance of select advanced tech sectors like AI and cloud computing, indicating persistent market volatility and a widening economic disparity. This landscape is further complicated by an intensifying geopolitical competition over AI and data infrastructure, evident in regulatory shifts and military applications, while persistent global seismic activity, recently impacting Venezuela with significant humanitarian needs, underscores the tangible and immediate physical threats worldwide. To navigate this complex landscape, strategically prioritize asset protection through diversified investment approaches that account for both tech growth and broader economic instability; enhance physical safety protocols and disaster preparedness for all personnel and critical infrastructure, especially in seismically active zones, drawing lessons from recent humanitarian crises; and actively monitor evolving international and domestic AI and data policy to proactively identify and mitigate risks to operational continuity and critical supply chains.",
+    "strategicPlan": "The global environment presents a complex, multi-dimensional threat landscape: widespread economic distress is heightening social fragility, evident in millions struggling for essentials, while geopolitical tensions persist, highlighted by dissident exiles and ongoing humanitarian crises from natural disasters in regions like Venezuela. Financially, the tech sector demonstrates significant volatility, with major players experiencing sharp downturns amidst overall market uncertainty, concurrent with an escalating strategic competition in AI and data, facing increasing regulatory scrutiny and military weaponization efforts. This intricate situation is unfolding against a backdrop of elevated global seismic activity, with multiple moderate tremors across critical regions. To navigate these convergent threats, we must immediately implement robust disaster preparedness protocols and infrastructure resilience measures in all seismically active zones, prioritize the diversification and stress-testing of financial assets against both market volatility and economic stagnation, and stringently secure all data assets while developing agile compliance frameworks for rapidly evolving AI governance and ethical use.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $195.04 (2.65%)",
+            "title": "\ud83d\udcb0 NVDA: $196.62 (0.81%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.43 (-1.41%)",
+            "title": "\ud83d\udcb0 AAPL: $301.3 (-9.64%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $451.1 (15.51%)",
+            "title": "\ud83d\udcb0 MSFT: $462.73 (2.58%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $122.26 (-0.6%)",
+            "title": "\ud83d\udcb0 PLTR: $121.97 (-0.24%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $235.5 (3.9%)",
+            "title": "\ud83d\udcb0 AMZN: $269.96 (14.63%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th3m"
         }
     ],
-    "seismicSummary": "Urgent: Four Mag 5+ earthquakes just reported worldwide!"
+    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes detected globally."
 }
