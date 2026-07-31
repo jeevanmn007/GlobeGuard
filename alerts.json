@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape is characterized by a multi-faceted threat matrix: social and economic fragility persist, evidenced by widespread struggles for essentials in key regions, while geopolitical tensions manifest in ongoing political exiles and humanitarian crises stemming from previous natural disasters. Financially, the tech sector exhibits bifurcated performance, with significant growth in AI-driven enterprises (NVDA, MSFT) alongside localized regulatory headwinds (NY data center moratorium, NJ robotaxi laws) creating investment uncertainty. Concurrently, the Pacific Ring of Fire is acutely volatile, marked by a cluster of significant seismic events (Mag 5.3-5.9) indicating an elevated physical threat. In this environment, GlobeGuard directs immediate action: 1. Strengthen emergency preparedness and disaster response protocols for all assets and personnel, prioritizing those in seismically active regions and areas prone to social unrest. 2. Critically assess and diversify investment portfolios, strategically leveraging AI-driven growth while hedging against regulatory shifts and maintaining liquidity for contingencies. 3. Review and bolster supply chain resilience and operational continuity plans, accounting for potential disruptions from both socio-economic instability and natural disasters.",
+    "strategicPlan": "The global environment presents a complex and volatile threat matrix, marked by escalating socio-economic strain with millions struggling for essentials, alongside persistent geopolitical instability highlighted by ongoing humanitarian crises in regions like Venezuela post-seismic events and continued political dissidence in Cuba. This human vulnerability is exacerbated by significant, ongoing tectonic activity across the Pacific Ring of Fire and South America, signaling a heightened physical threat landscape. Concurrently, the technology sector, while demonstrating robust growth in key areas, faces increasing regulatory scrutiny and strategic weaponization of data and AI. To mitigate these multifaceted risks, GlobeGuard directs immediate action: **First**, rigorously review and reinforce all emergency preparedness plans and critical supply caches, prioritizing personnel and assets located in seismically active zones or regions prone to socio-economic disruption. **Second**, fortify digital and financial asset security by diversifying investment portfolios and implementing advanced cybersecurity protocols to counter evolving threats within the rapidly digitizing economy. **Third**, maintain vigilant monitoring of emerging geopolitical flashpoints, potential migration patterns, and regulatory shifts impacting critical infrastructure and advanced technologies, enabling agile adaptation to both physical and strategic challenges.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 201 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
+            "title": "\u26a0\ufe0f Mag 5.6 - 13 km ENE of San Fernando, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 217 km SE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgva"
+            "title": "\u26a0\ufe0f Mag 5.4 - 201 km W of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
         }
     ],
-    "seismicSummary": "Multiple strong magnitude 5 earthquakes are striking across the Pacific now!"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes are striking globally right now."
 }
