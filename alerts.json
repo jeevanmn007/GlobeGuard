@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a dynamic threat matrix: acute economic distress is widespread, exemplified by millions struggling with basic needs, and geopolitical instability is escalating with humanitarian crises, like post-quake Venezuela, and political exiles. Financial markets reflect this uncertainty with significant volatility in major tech stocks, while a persistent pattern of moderate seismic activity globally, particularly in the Americas and Russia, compounds the physical risk. This confluence demands immediate strategic vigilance. To secure your assets and physical safety, first, **immediately review and diversify investment portfolios**, prioritizing resilient sectors and establishing robust hedging strategies to protect against sharp market downturns. Second, **enhance personal and operational seismic preparedness** by reviewing emergency plans, securing physical infrastructure, and ensuring readily accessible disaster supplies, especially if in at-risk regions. Third, **proactively audit and secure critical personal and business supply chains** for essential goods, developing contingency plans to mitigate against economic disruptions and geopolitical instability impacting resource availability.",
+    "strategicPlan": "The global environment presents a complex risk profile, marked by escalating socio-economic fragility in key regions, continued geopolitical instability evidenced by humanitarian crises and dissident movements, and a persistently elevated pattern of seismic activity across the Pacific Rim, compounding existing vulnerabilities. Financially, while certain tech sectors demonstrate robust growth, the broader market exhibits volatility, with critical trends in AI and data facing nascent regulatory challenges and a strategic shift towards data 'weaponization'. To navigate this dynamic, GlobeGuard directs immediate action: first, review and diversify financial assets, prioritizing resilience against economic downturns and evolving tech sector regulations; second, reinforce physical safety protocols and emergency preparedness for all personnel and critical assets, especially within seismically active or politically unstable zones; and third, fortify digital infrastructure and data security measures, anticipating an intensified threat landscape around information integrity and access.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $198.97 (2.01%)",
+            "title": "\ud83d\udcb0 NVDA: $200.75 (2.93%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.13 (-9.39%)",
+            "title": "\ud83d\udcb0 AAPL: $308.91 (-7.35%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $462.73 (2.58%)",
+            "title": "\ud83d\udcb0 MSFT: $464.72 (3.02%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $122.34 (0.07%)",
+            "title": "\ud83d\udcb0 PLTR: $123.06 (0.65%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.33 (15.22%)",
+            "title": "\ud83d\udcb0 AMZN: $271.58 (15.32%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
         },
         {
-            "title": "Opinion - Congress should share, not shield, US artificial intelligence tech",
-            "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e85f39d-ecba-4791-9143-2c7998359584"
+            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
+            "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th3m"
         }
     ],
-    "seismicSummary": "URGENT: Multiple M5+ earthquakes, including a 5.6 in Peru, just struck across Peru, Mexico, Chile, and Russia!"
+    "seismicSummary": "Multiple strong magnitude 5+ earthquakes are striking globally!"
 }
