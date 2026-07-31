@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a complex and volatile threat matrix, marked by escalating socio-economic strain with millions struggling for essentials, alongside persistent geopolitical instability highlighted by ongoing humanitarian crises in regions like Venezuela post-seismic events and continued political dissidence in Cuba. This human vulnerability is exacerbated by significant, ongoing tectonic activity across the Pacific Ring of Fire and South America, signaling a heightened physical threat landscape. Concurrently, the technology sector, while demonstrating robust growth in key areas, faces increasing regulatory scrutiny and strategic weaponization of data and AI. To mitigate these multifaceted risks, GlobeGuard directs immediate action: **First**, rigorously review and reinforce all emergency preparedness plans and critical supply caches, prioritizing personnel and assets located in seismically active zones or regions prone to socio-economic disruption. **Second**, fortify digital and financial asset security by diversifying investment portfolios and implementing advanced cybersecurity protocols to counter evolving threats within the rapidly digitizing economy. **Third**, maintain vigilant monitoring of emerging geopolitical flashpoints, potential migration patterns, and regulatory shifts impacting critical infrastructure and advanced technologies, enabling agile adaptation to both physical and strategic challenges.",
+    "strategicPlan": "The global environment is marked by an urgent and complex threat matrix. Geopolitically, widespread economic hardship is fueling social instability and humanitarian crises, while the rapid militarization of AI by global powers, alongside increasing tech regulation, signals significant future disruptions and potential fragmentation. Financially, despite robust performance in specific AI-aligned tech sectors, the underlying macroeconomic fragility and evolving regulatory landscape warrant caution across broader markets. Concurrently, persistent global seismic activity, evidenced by recent significant quakes across multiple regions, underscores an omnipresent physical threat. To navigate this escalating risk, GlobeGuard must prioritize three immediate actions: first, strategically diversify essential assets into defensive positions and prepare for potential supply chain disruptions and heightened market volatility; second, rigorously review and strengthen physical infrastructure and emergency protocols, especially in seismically active regions, given the recent global tremors; and third, proactively secure all digital assets and intelligence against escalating state-sponsored cyber threats and the rapidly evolving geopolitical maneuvers driven by AI advancements.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvz"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 13 km ENE of San Fernando, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 201 km W of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
+            "title": "\u26a0\ufe0f Mag 5.2 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1b"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 67 km E of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th3m"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes are striking globally right now."
+    "seismicSummary": "Multiple M5+ earthquakes reported worldwide!"
 }
