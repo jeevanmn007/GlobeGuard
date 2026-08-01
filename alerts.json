@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global operational environment is characterized by acute economic disparities and strain, juxtaposed with volatile yet high-stakes developments in AI and critical data infrastructure that are increasingly subject to regulatory and energy constraints. This is compounded by persistent geopolitical instability, epitomized by ongoing humanitarian crises in regions like post-quake Venezuela and dissident movements, all while a concerning pattern of widespread, moderate seismic activity continues to manifest across multiple critical global zones. To secure assets and ensure physical safety, immediately: 1) Diversify investment portfolios, strategically assessing critical infrastructure dependencies and emerging regulatory risks in the tech sector; 2) Rigorously update emergency preparedness and supply chain resilience protocols, particularly for operations in seismically active or geopolitically unstable regions; and 3) Proactively assess and mitigate risks from potential social unrest and resource scarcity, ensuring robust contingency plans for personnel and operational continuity.",
+    "strategicPlan": "GlobeGuard's intelligence indicates a confluence of escalating global risks. Widespread socio-economic distress, exemplified by millions struggling with basic needs, and persistent geopolitical tensions signal growing internal vulnerabilities in key nations. Financially, while specific tech sectors like AI show robust growth, broader market volatility and emerging regulatory challenges to data infrastructure and autonomous vehicles demand caution. Concurrently, a discernible increase in moderate seismic activity across the Pacific Ring of Fire, compounded by ongoing humanitarian crises from recent quakes, presents a heightened physical threat. In response, GlobeGuard directs three immediate, actionable priorities: First, secure and diversify essential household and operational resources to enhance resilience against socio-economic and supply chain disruptions. Second, conduct a strategic review of all financial portfolios, re-balancing away from volatile, regulatory-sensitive tech sectors towards stable assets and carefully vetted, long-term AI innovations. Third, for all personnel and critical assets in seismically active zones, ensure emergency preparedness plans are current and physical infrastructure is robustly reinforced against potential seismic events.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 140 km ENE of Masohi, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq"
+            "title": "\u26a0\ufe0f Mag 5.2 - 160 km SSW of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhr"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 48 km ESE of Tsun\u014d, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Breaking: Multiple magnitude 5 earthquakes detected worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Breaking: Multiple Mag 5 earthquakes reported across Canada, Japan, and Russia!"
 }
