@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence picture reveals a complex and escalating threat matrix: pervasive socio-economic fragility, marked by widespread struggles to meet basic needs despite targeted luxury markets, fuels potential unrest, while geopolitical tensions persist as humanitarian crises deepen post-natural disasters. Financially, significant volatility within the tech sector, highlighted by major fluctuations in key players amidst an AI arms race and emerging data infrastructure regulations, signals a period of strategic recalibration for investment and operational planning. Concurrently, a heightened frequency of moderate seismic events across critical global fault lines, adding to existing humanitarian strains from recent quakes, underscores an imperative for immediate physical preparedness. Therefore, GlobeGuard directs you to: 1) Immediately review and stress-test all operational supply chains and critical infrastructure for resilience against both economic instability and natural disaster scenarios. 2) Diversify and re-evaluate investment portfolios, prioritizing assets less vulnerable to tech sector volatility and increasing exposure to essential services or robust defensive strategies. 3) Update and disseminate comprehensive emergency response protocols, specifically enhancing seismic preparedness and securing physical assets in high-risk zones, while simultaneously bolstering digital defenses against escalating cyber and AI-driven threats.",
+    "strategicPlan": "The current global intelligence brief reveals a complex interplay of rising socio-economic fragility, rapid technological re-evaluation, and heightened physical threats. Geopolitically, widespread cost-of-living struggles and regional humanitarian crises, exacerbated by natural disasters like Venezuela's ongoing earthquake recovery, indicate a delicate social fabric vulnerable to disruption, while emerging regulations around AI infrastructure and autonomous vehicles signal a shifting landscape for technological growth. Financially, the tech sector exhibits significant volatility, with a concentrated race for AI dominance driving market reallocations, exemplified by strong gains in AI-centric firms alongside notable declines in others. Simultaneously, persistent and significant seismic activity across the Pacific Ring of Fire, with multiple recent events above magnitude 5.0, presents a tangible, widespread physical risk. To navigate this intricate environment, we direct you to immediately: 1. Diversify and re-evaluate financial portfolios, emphasizing resilience against economic downturns and adapting to evolving tech regulations; 2. Strengthen physical safety protocols and emergency preparedness plans for personnel and assets, especially in regions prone to seismic events or socio-economic unrest; and 3. Intensify monitoring of regional socio-economic stability and geopolitical developments that could impact supply chains and operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,7 +69,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 141 km ENE of Masohi, Indonesia",
+            "title": "\u26a0\ufe0f Mag 5.3 - 140 km ENE of Masohi, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes just reported worldwide!"
+    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes reported worldwide!"
 }
