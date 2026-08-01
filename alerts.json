@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "GlobeGuard's assessment indicates a complex and volatile global operating environment. Geopolitically, widespread social instability is intensifying due to economic hardship across developed nations, further compounded by humanitarian crises stemming from recent major seismic activity in regions like Venezuela and persistent political migration. Financially, while AI and cloud sectors demonstrate robust growth, a significant downturn in major consumer tech (AAPL) coupled with new regulatory moratoria on data centers suggests market segmentation and emerging operational headwinds. Physically, persistent seismic activity, with multiple moderate quakes across Peru, Indonesia, and Mexico, highlights ongoing natural disaster risks. To fortify assets and ensure personnel safety, GlobeGuard directs immediate action: 1) Proactively stress-test and diversify critical supply chains and investment strategies against both economic fragility and regional disruptions; 2) Enhance regional disaster preparedness, particularly for physical assets and personnel in seismically active zones; and 3) Conduct an urgent audit of all data infrastructure for regulatory compliance, energy efficiency, and enhanced cybersecurity against increasingly sophisticated threats.",
+    "strategicPlan": "The current global intelligence tableau reveals a complex and escalating threat landscape: widespread economic precarity and humanitarian crises are fueling geopolitical instability, while the financial sector shows targeted volatility amidst a dominant AI/data arms race and emerging regulatory hurdles for cutting-edge technologies. Simultaneously, persistent moderate seismic activity across critical zones in Japan, Indonesia, and Mexico, coupled with recent devastating quakes in Venezuela, underscores a non-trivial and ongoing physical risk to global infrastructure. To secure your assets and physical safety, immediately secure digital holdings through enhanced cybersecurity protocols and diversified investments, rigorously evaluate the resilience of critical supply chains and physical infrastructure against both geophysical shocks and regulatory shifts, and bolster localized intelligence gathering to anticipate and mitigate impacts from escalating social and political unrest.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 13 km ENE of San Fernando, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
+            "title": "\u26a0\ufe0f Mag 5.5 - 57 km E of Mutsu, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 141 km ENE of Masohi, Indonesia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcs"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just hit Peru, Indonesia, and Mexico!"
+    "seismicSummary": "Multiple Mag 5 quakes just hit globally!"
 }
