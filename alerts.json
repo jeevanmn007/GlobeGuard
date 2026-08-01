@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "Our current intelligence indicates a complex and escalating global threat landscape. Geopolitically, widespread economic hardship and social instability are manifesting in cost-of-living crises and humanitarian emergencies, exacerbated by ongoing political dissent and the devastating aftermath of natural disasters like those in Venezuela. Financially, while specific frontier technology sectors like AI and cloud computing show robust growth, the market exhibits significant volatility among tech giants and increasing regulatory scrutiny (e.g., data center moratoriums, robotaxi laws), indicating a shifting investment landscape and potential for market disruption. This environment is underpinned by persistent physical threats, with a notable pattern of moderate seismic activity globally, confirming a sustained baseline risk. To navigate this converging pressure, GlobeGuard directs immediate action: 1) **Strategically re-evaluate and diversify asset portfolios**, focusing on resilient sectors and tangible holdings to mitigate financial volatility and inflation; 2) **Strengthen emergency preparedness plans for physical safety**, particularly for personnel and critical infrastructure located in seismically active regions; and 3) **Implement robust supply chain resilience protocols**, addressing potential disruptions from economic shifts, regulatory changes, and natural phenomena.",
+    "strategicPlan": "GlobeGuard's assessment indicates a complex and volatile global operating environment. Geopolitically, widespread social instability is intensifying due to economic hardship across developed nations, further compounded by humanitarian crises stemming from recent major seismic activity in regions like Venezuela and persistent political migration. Financially, while AI and cloud sectors demonstrate robust growth, a significant downturn in major consumer tech (AAPL) coupled with new regulatory moratoria on data centers suggests market segmentation and emerging operational headwinds. Physically, persistent seismic activity, with multiple moderate quakes across Peru, Indonesia, and Mexico, highlights ongoing natural disaster risks. To fortify assets and ensure personnel safety, GlobeGuard directs immediate action: 1) Proactively stress-test and diversify critical supply chains and investment strategies against both economic fragility and regional disruptions; 2) Enhance regional disaster preparedness, particularly for physical assets and personnel in seismically active zones; and 3) Conduct an urgent audit of all data infrastructure for regulatory compliance, energy efficiency, and enhanced cybersecurity against increasingly sophisticated threats.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thb5"
+            "title": "\u26a0\ufe0f Mag 5.1 - 132 km ENE of Masohi, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcs"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes are striking worldwide!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just hit Peru, Indonesia, and Mexico!"
 }
