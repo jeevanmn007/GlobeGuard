@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence tableau reveals a complex and escalating threat landscape: widespread economic precarity and humanitarian crises are fueling geopolitical instability, while the financial sector shows targeted volatility amidst a dominant AI/data arms race and emerging regulatory hurdles for cutting-edge technologies. Simultaneously, persistent moderate seismic activity across critical zones in Japan, Indonesia, and Mexico, coupled with recent devastating quakes in Venezuela, underscores a non-trivial and ongoing physical risk to global infrastructure. To secure your assets and physical safety, immediately secure digital holdings through enhanced cybersecurity protocols and diversified investments, rigorously evaluate the resilience of critical supply chains and physical infrastructure against both geophysical shocks and regulatory shifts, and bolster localized intelligence gathering to anticipate and mitigate impacts from escalating social and political unrest.",
+    "strategicPlan": "The global environment presents a complex and volatile risk matrix. Geopolitically, we observe escalating social fragility driven by severe cost-of-living crises in advanced economies, persistent political dissent, and acute humanitarian demands stemming from recent natural disasters, while the technological landscape is rapidly reshaped by intensifying AI competition, shifting regulatory frameworks for autonomous systems, and the militarization of data. Financially, the market demonstrates a bifurcated resilience, with robust growth in key tech infrastructure sectors contrasting sharply with significant downturns in consumer-focused tech, indicating selective economic strength amidst broader pressures. Concurrently, moderate but widespread global seismic activity, underscored by recent impactful events, signals a persistent and distributed physical threat. To navigate this period of heightened uncertainty, prioritize securing personal finances and diversifying investments toward resilient, essential sectors; immediately enhance physical safety protocols by establishing comprehensive disaster preparedness plans, especially if located in seismically active zones; and fortify digital and operational security against evolving cyber threats and supply chain disruptions, staying abreast of rapid regulatory changes in critical emerging technologies.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 200 km SW of Port McNeill, Canada",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 57 km E of Mutsu, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 85 km SW of El Arenal, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 132 km ENE of Masohi, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcs"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 quakes just hit globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong Mag 5+ earthquakes reported worldwide!"
 }
