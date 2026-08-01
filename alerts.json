@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence brief reveals a complex interplay of rising socio-economic fragility, rapid technological re-evaluation, and heightened physical threats. Geopolitically, widespread cost-of-living struggles and regional humanitarian crises, exacerbated by natural disasters like Venezuela's ongoing earthquake recovery, indicate a delicate social fabric vulnerable to disruption, while emerging regulations around AI infrastructure and autonomous vehicles signal a shifting landscape for technological growth. Financially, the tech sector exhibits significant volatility, with a concentrated race for AI dominance driving market reallocations, exemplified by strong gains in AI-centric firms alongside notable declines in others. Simultaneously, persistent and significant seismic activity across the Pacific Ring of Fire, with multiple recent events above magnitude 5.0, presents a tangible, widespread physical risk. To navigate this intricate environment, we direct you to immediately: 1. Diversify and re-evaluate financial portfolios, emphasizing resilience against economic downturns and adapting to evolving tech regulations; 2. Strengthen physical safety protocols and emergency preparedness plans for personnel and assets, especially in regions prone to seismic events or socio-economic unrest; and 3. Intensify monitoring of regional socio-economic stability and geopolitical developments that could impact supply chains and operational continuity.",
+    "strategicPlan": "Global stability faces immediate and multifaceted pressures. Widespread economic hardship is escalating societal fragility, compounded by regional humanitarian crises and persistent geopolitical tensions, threatening social cohesion. Financially, while key AI and cloud-infrastructure firms demonstrate robust growth, significant market volatility and emerging regulatory challenges in critical tech sectors underscore an unpredictable economic environment. Simultaneously, moderate but frequent seismic activity across multiple active zones, including recent events in Venezuela, Canada, Japan, Indonesia, and Fiji, highlights an enduring physical threat demanding proactive preparedness. To navigate this landscape, GlobeGuard advises three immediate actions: first, diversify and stress-test financial portfolios, prioritizing resilience against economic downturns and tech-sector regulatory shifts, while securing essential provisions against supply chain disruptions; second, reinforce emergency preparedness plans, ensuring robust communication protocols and a minimum 72-hour supply of essentials, particularly for those in seismically active areas or regions prone to social instability; and third, meticulously track global regulatory trends impacting critical infrastructure and emerging technologies like AI and autonomous systems, as these will define future operational landscapes and investment trajectories.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 85 km SW of El Arenal, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n"
+            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgx"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple M5+ earthquakes reported worldwide!"
+    "seismicSummary": "\ud83d\udea8 Pacific Rim hit by multiple magnitude 5+ earthquakes!"
 }
