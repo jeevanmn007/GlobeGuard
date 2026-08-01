@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "Global stability faces immediate and multifaceted pressures. Widespread economic hardship is escalating societal fragility, compounded by regional humanitarian crises and persistent geopolitical tensions, threatening social cohesion. Financially, while key AI and cloud-infrastructure firms demonstrate robust growth, significant market volatility and emerging regulatory challenges in critical tech sectors underscore an unpredictable economic environment. Simultaneously, moderate but frequent seismic activity across multiple active zones, including recent events in Venezuela, Canada, Japan, Indonesia, and Fiji, highlights an enduring physical threat demanding proactive preparedness. To navigate this landscape, GlobeGuard advises three immediate actions: first, diversify and stress-test financial portfolios, prioritizing resilience against economic downturns and tech-sector regulatory shifts, while securing essential provisions against supply chain disruptions; second, reinforce emergency preparedness plans, ensuring robust communication protocols and a minimum 72-hour supply of essentials, particularly for those in seismically active areas or regions prone to social instability; and third, meticulously track global regulatory trends impacting critical infrastructure and emerging technologies like AI and autonomous systems, as these will define future operational landscapes and investment trajectories.",
+    "strategicPlan": "The global operational environment is characterized by acute economic disparities and strain, juxtaposed with volatile yet high-stakes developments in AI and critical data infrastructure that are increasingly subject to regulatory and energy constraints. This is compounded by persistent geopolitical instability, epitomized by ongoing humanitarian crises in regions like post-quake Venezuela and dissident movements, all while a concerning pattern of widespread, moderate seismic activity continues to manifest across multiple critical global zones. To secure assets and ensure physical safety, immediately: 1) Diversify investment portfolios, strategically assessing critical infrastructure dependencies and emerging regulatory risks in the tech sector; 2) Rigorously update emergency preparedness and supply chain resilience protocols, particularly for operations in seismically active or geopolitically unstable regions; and 3) Proactively assess and mitigate risks from potential social unrest and resource scarcity, ensuring robust contingency plans for personnel and operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgx"
+            "title": "\u26a0\ufe0f Mag 5.2 - 48 km ESE of Tsun\u014d, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Pacific Rim hit by multiple magnitude 5+ earthquakes!"
+    "seismicSummary": "\ud83d\udea8 Breaking: Multiple magnitude 5 earthquakes detected worldwide!"
 }
