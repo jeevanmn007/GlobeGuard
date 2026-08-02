@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global threat landscape is currently defined by escalating social and economic fragmentation within key nations, ongoing geopolitical instability exacerbated by recent humanitarian crises, and a rapidly accelerating, unregulated AI arms race with significant military and commercial implications. Financially, while specific AI-driven tech sectors demonstrate robust growth, a notable downturn in a major market player signals underlying volatility and potential for broader shifts. Simultaneously, persistent M5+ seismic activity across the Pacific Rim, following recent impactful quakes in the Caribbean, underscores an active and ongoing physical vulnerability. To navigate this complex environment, GlobeGuard directs immediate action: 1) Fortify all digital and financial assets with advanced security measures, particularly in light of AI's rapid evolution and market shifts. 2) Re-evaluate and enhance emergency preparedness and supply chain resilience for regions vulnerable to both natural disasters and social unrest. 3) Sustain heightened intelligence monitoring on emerging AI regulatory frameworks, military technology advancements, and geopolitical flashpoints to anticipate and mitigate strategic risks effectively.",
+    "strategicPlan": "The global intelligence assessment indicates a critical, multi-faceted threat environment: social stability is under strain from widespread economic hardship and escalating cost-of-living crises, creating potential for civil unrest, while geopolitical tensions manifest in ongoing humanitarian emergencies. Financially, select technology sectors are demonstrating robust growth amidst overall market volatility. Concurrently, a concerning pattern of moderate seismic activity across the Pacific Ring of Fire underscores inherent physical vulnerabilities. In response, GlobeGuard advises immediate action: **diversify and de-risk financial assets** by re-evaluating concentrated portfolios against economic instability; **bolster operational resilience** through comprehensive supply chain assessments and contingency planning for social or regional disruptions; and **reinforce emergency preparedness protocols** for natural disasters, particularly earthquake readiness, given persistent seismic activity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 14 km S of Hicks Bay, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 112 km SW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 48 km ESE of Tsun\u014d, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgx"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes are hitting across the Pacific region!"
+    "seismicSummary": "**A magnitude 5.6 earthquake just struck New Zealand, with multiple 5.2 quakes also hitting Russia and Japan!**"
 }
