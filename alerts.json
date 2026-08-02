@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence assessment indicates a critical, multi-faceted threat environment: social stability is under strain from widespread economic hardship and escalating cost-of-living crises, creating potential for civil unrest, while geopolitical tensions manifest in ongoing humanitarian emergencies. Financially, select technology sectors are demonstrating robust growth amidst overall market volatility. Concurrently, a concerning pattern of moderate seismic activity across the Pacific Ring of Fire underscores inherent physical vulnerabilities. In response, GlobeGuard advises immediate action: **diversify and de-risk financial assets** by re-evaluating concentrated portfolios against economic instability; **bolster operational resilience** through comprehensive supply chain assessments and contingency planning for social or regional disruptions; and **reinforce emergency preparedness protocols** for natural disasters, particularly earthquake readiness, given persistent seismic activity.",
+    "strategicPlan": "The current global intelligence brief indicates a moderately elevated threat level driven by converging geopolitical, financial, and physical challenges. Widespread economic hardship is escalating, threatening social stability and consumer spending, while key tech markets exhibit significant volatility amidst an accelerating global AI arms race and increasing regulatory hurdles for critical data infrastructure. Simultaneously, persistent major seismic activity across the Pacific Ring of Fire, coupled with ongoing humanitarian crises from recent quakes, particularly in vulnerable regions like Venezuela, poses a tangible and immediate physical risk. Therefore, to safeguard assets and ensure physical safety, GlobeGuard must immediately: **(1)** Bolster economic resilience by diversifying financial holdings and fortifying supply chains against both market volatility and consumer distress; **(2)** Intensify disaster preparedness for all critical operational sites and personnel in seismically active zones, prioritizing robust infrastructure and rapid response; and **(3)** Strategically navigate the evolving tech landscape by securing digital assets, monitoring AI regulatory shifts, and adapting to the accelerating militarization of data.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 265 km S of \u2018Ohonua, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 112 km SW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 160 km SSW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 48 km ESE of Tsun\u014d, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk"
         }
     ],
-    "seismicSummary": "**A magnitude 5.6 earthquake just struck New Zealand, with multiple 5.2 quakes also hitting Russia and Japan!**"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes just struck worldwide!"
 }
