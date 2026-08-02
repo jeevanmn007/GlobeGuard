@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence brief indicates a moderately elevated threat level driven by converging geopolitical, financial, and physical challenges. Widespread economic hardship is escalating, threatening social stability and consumer spending, while key tech markets exhibit significant volatility amidst an accelerating global AI arms race and increasing regulatory hurdles for critical data infrastructure. Simultaneously, persistent major seismic activity across the Pacific Ring of Fire, coupled with ongoing humanitarian crises from recent quakes, particularly in vulnerable regions like Venezuela, poses a tangible and immediate physical risk. Therefore, to safeguard assets and ensure physical safety, GlobeGuard must immediately: **(1)** Bolster economic resilience by diversifying financial holdings and fortifying supply chains against both market volatility and consumer distress; **(2)** Intensify disaster preparedness for all critical operational sites and personnel in seismically active zones, prioritizing robust infrastructure and rapid response; and **(3)** Strategically navigate the evolving tech landscape by securing digital assets, monitoring AI regulatory shifts, and adapting to the accelerating militarization of data.",
+    "strategicPlan": "The current global situation presents a complex and urgent convergence of threats: widespread socio-economic distress is palpable, marked by significant struggles for essentials and ongoing humanitarian crises following natural disasters, contributing to a volatile financial market that shows both strong gains in specific tech sectors and notable declines in others. Simultaneously, the accelerating integration of AI and data across industries is met with regulatory challenges and ethical debates, indicating a period of significant technological disruption and re-evaluation. Underpinning these societal and technological shifts is a pattern of persistent, moderate seismic activity across multiple critical global regions, highlighting a constant underlying physical threat. Therefore, I direct you to: first, secure supply chains for critical provisions and maintain diversified financial liquidity to buffer against escalating economic instability; second, fortify all digital infrastructure and data security protocols, proactively adapting to evolving AI-driven landscapes and potential regulatory shifts; and third, immediately review and update all emergency preparedness plans for physical safety, with a particular emphasis on assets and personnel located within tectonically active zones, ensuring robust communication and rapid response capabilities.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla"
         },
         {
+            "title": "Is paying artists enough to convince them to embrace AI?",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+        },
+        {
             "title": "New York Issues the Nation\u2019s First Statewide Moratorium on New Large Data Centers",
             "link": "https://gizmodo.com/new-york-issues-the-nations-first-statewide-moratorium-on-new-large-data-centers-2000785420"
         },
         {
             "title": "The US Navy wants to \u2018weaponize\u2019 data for a new AI-first fleet, and it wants tech-savvy sailors to make it happen",
             "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
-        },
-        {
-            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-            "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
         }
     ],
     "seismic": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - north of Ascension Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 265 km S of \u2018Ohonua, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 112 km SW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 160 km SSW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhr"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes just struck worldwide!"
+    "seismicSummary": "A flurry of M5+ earthquakes, including a 5.6 near New Zealand, just struck worldwide!"
 }
