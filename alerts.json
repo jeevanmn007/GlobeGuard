@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global strategic landscape is defined by a converging array of threats: acute social fragility stemming from widespread cost-of-living crises, ongoing humanitarian emergencies in seismically active regions like Venezuela, and a volatile financial sector marked by both robust AI-driven growth and significant regulatory pressures on critical digital infrastructure, all underpinned by persistent global seismic activity. To navigate this complex environment, first, secure your financial and operational assets by diversifying investments beyond single-point tech dependencies and ensuring robust, adaptable supply chains. Second, fortify physical and digital infrastructure against both natural disasters and regulatory shifts, decentralizing critical data assets where feasible. Finally, implement enhanced intelligence gathering on social stability indicators to preempt and mitigate risks associated with localized unrest or resource scarcity, especially in key operational regions.",
+    "strategicPlan": "The global environment is marked by a concerning confluence of escalating risks: widespread economic precarity is fueling social fragility and humanitarian crises, exacerbated by regional instability and migratory pressures, while financially, significant tech sector volatility and increasing regulatory scrutiny on emerging technologies create a complex investment landscape. This is all unfolding against a backdrop of heightened global seismic activity, indicating a pervasive and unpredictable physical threat to infrastructure and populations. To secure assets and ensure physical safety, GlobeGuard directs immediate action: first, aggressively re-evaluate and diversify investment portfolios to mitigate market volatility and navigate emerging regulatory challenges in the technology sector; second, strengthen regional contingency planning, focusing on humanitarian supply chain resilience and personnel safety protocols in areas prone to socio-economic instability and migration; and third, conduct an urgent review and reinforcement of all critical infrastructure and emergency response protocols, particularly in seismically active regions, given the observed uptick in global tectonic events.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong Mag 5+ earthquakes are hitting locations worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5+ earthquakes are striking diverse locations worldwide!"
 }
