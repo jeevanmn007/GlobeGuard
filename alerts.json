@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence assessment reveals an urgent and multifaceted threat landscape. Geopolitically, widespread economic fragility is exacerbating social unrest and humanitarian crises, while escalating state competition and regulatory pressures are reshaping the AI and data infrastructure sectors. Financially, a volatile tech market, though demonstrating resilience in AI and cloud segments, demands careful navigation. Simultaneously, a marked increase in moderate seismic activity across the Pacific Ring of Fire poses a clear and present physical danger. To mitigate these evolving risks, GlobeGuard advises three immediate actions: First, strategically rebalance asset portfolios to favor robust AI and cloud infrastructure, while prudently diversifying away from highly volatile or heavily regulated tech sectors. Second, implement comprehensive emergency preparedness and supply chain resilience measures for both personnel and critical physical assets, particularly in seismically active and politically unstable regions. Third, proactively develop adaptive data governance and security frameworks to navigate tightening regulations and the weaponization of information assets in the accelerating global AI race.",
+    "strategicPlan": "The global environment currently presents a critical confluence of threats: pervasive socioeconomic instability, evident in widespread struggles for basic necessities and ongoing humanitarian crises, is amplified by rapid technological shifts in AI and data weaponization, signaling potential for both disruption and opportunity. Financially, robust performance in specific tech sectors masks significant volatility in market titans, signaling underlying economic fragility. Physically, sustained seismic activity across the Pacific Ring of Fire, alongside ongoing disaster impacts, demands immediate attention. Therefore, secure essential personal and operational assets by diversifying investments and stockpiling critical supplies; proactively fortify digital infrastructure against evolving cyber threats and data exploitation, while closely tracking AI regulatory landscapes; and immediately review and update all emergency protocols, particularly those addressing seismic events and ensuring robust communication redundancies.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 57 km E of Mutsu, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk"
+            "title": "\u26a0\ufe0f Mag 5.2 - 112 km SW of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 160 km SSW of Severo-Kuril\u2019sk, Russia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck across the Pacific Ring of Fire!"
+    "seismicSummary": "**M5+ earthquakes are actively hitting Canada, Russia, and Japan!**"
 }
