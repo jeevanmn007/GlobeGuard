@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex interplay of burgeoning tech sector strength, particularly in AI and data, juxtaposed against significant societal economic distress and rising social and political tensions. While major tech stocks demonstrate robust performance, underlying widespread household struggles and politically charged migrant crises signal potential for localized instability, further complicated by a nascent regulatory pushback against autonomous tech and data centers. Concurrently, persistent moderate seismic activity across diverse regions (Peru, Egypt, China, Russia) serves as a constant reminder of baseline physical threats. To navigate this volatile landscape, **first**, consolidate and diversify financial holdings, monitoring for market shifts driven by economic disparity and regulatory headwinds while leveraging tech opportunities. **Second**, fortify digital infrastructure and personal data security, recognizing the increasing strategic value and potential vulnerabilities in the AI-first era, and review physical safety plans in areas of potential social unrest. **Third**, enhance immediate physical emergency preparedness, particularly for seismic events, and ensure essential supplies and communication channels are robustly maintained for all personnel and dependents.",
+    "strategicPlan": "The global intelligence landscape reveals a complex convergence of geopolitical, financial, and physical tectonic threats. We observe significant socio-economic strain manifesting in widespread household struggles and escalating migrant crises, juxtaposed against a robust yet increasingly scrutinized tech sector grappling with AI regulation and an accelerating AI arms race. Underpinning these dynamics is persistent moderate seismic activity worldwide, reminding us of inherent natural vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs immediate action: **diversify financial portfolios and fortify digital infrastructure** against both economic volatility and evolving cyber threats, given the mixed financial signals and accelerating tech integration; **strengthen physical preparedness plans** for localized social instability or natural events, acknowledging both the socio-economic pressures and ongoing seismic activity; and **strategically evaluate and adapt to the rapid regulatory shifts and geopolitical competition** impacting AI, data centers, and emerging technologies.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $208.4 (3.81%)",
+            "title": "\ud83d\udcb0 NVDA: $207.27 (3.25%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $305.91 (-0.97%)",
+            "title": "\ud83d\udcb0 AAPL: $303.93 (-1.61%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $488.3 (5.07%)",
+            "title": "\ud83d\udcb0 MSFT: $488.88 (5.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $125.62 (2.08%)",
+            "title": "\ud83d\udcb0 PLTR: $126.3 (2.63%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $283.7 (4.46%)",
+            "title": "\ud83d\udcb0 AMZN: $285.08 (4.97%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 16 km NW of Changning, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 85 km S of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thra"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes just struck globally, from Peru to China!"
+    "seismicSummary": "Urgent: Multiple moderate earthquakes (up to Mag 5.2) just struck Peru, Egypt, Russia, and Fiji!"
 }
