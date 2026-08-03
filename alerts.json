@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and increasingly volatile threat matrix, defined by escalating internal economic pressures in key Western economies, persistent geopolitical friction manifesting in migration crises and dissidence, and an accelerating technological arms race in AI/data facing nascent regulatory pushback. Financially, the tech sector exhibits polarized growth, driven by AI enthusiasm but with underlying vulnerabilities and regulatory risks. Compounding this, a notable cluster of M5-level seismic activity across disparate regions signals an elevated, albeit diffuse, physical threat. To secure assets and physical safety, GlobeGuard advises: First, diversify financial holdings beyond concentrated tech bets, prioritizing liquidity and defensive assets to mitigate against potential market shifts and regulatory impacts. Second, immediately review and bolster physical security protocols and emergency preparedness plans for all critical infrastructure and personnel, accounting for the heightened global seismic activity. Third, fortify digital defenses against sophisticated data exploitation and misinformation campaigns, while establishing contingency plans for potential localized social unrest or supply chain disruptions stemming from economic hardship and geopolitical friction.",
+    "strategicPlan": "The global environment presents a complex interplay of burgeoning tech sector strength, particularly in AI and data, juxtaposed against significant societal economic distress and rising social and political tensions. While major tech stocks demonstrate robust performance, underlying widespread household struggles and politically charged migrant crises signal potential for localized instability, further complicated by a nascent regulatory pushback against autonomous tech and data centers. Concurrently, persistent moderate seismic activity across diverse regions (Peru, Egypt, China, Russia) serves as a constant reminder of baseline physical threats. To navigate this volatile landscape, **first**, consolidate and diversify financial holdings, monitoring for market shifts driven by economic disparity and regulatory headwinds while leveraging tech opportunities. **Second**, fortify digital infrastructure and personal data security, recognizing the increasing strategic value and potential vulnerabilities in the AI-first era, and review physical safety plans in areas of potential social unrest. **Third**, enhance immediate physical emergency preparedness, particularly for seismic events, and ensure essential supplies and communication channels are robustly maintained for all personnel and dependents.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.68 (2.95%)",
+            "title": "\ud83d\udcb0 NVDA: $208.4 (3.81%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.57 (-2.05%)",
+            "title": "\ud83d\udcb0 AAPL: $305.91 (-0.97%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $487.77 (4.96%)",
+            "title": "\ud83d\udcb0 MSFT: $488.3 (5.07%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $124.9 (1.5%)",
+            "title": "\ud83d\udcb0 PLTR: $125.62 (2.08%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $285.74 (5.21%)",
+            "title": "\ud83d\udcb0 AMZN: $283.7 (4.46%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes just struck globally!"
+    "seismicSummary": "Multiple Mag 5 earthquakes just struck globally, from Peru to China!"
 }
