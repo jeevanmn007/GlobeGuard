@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is currently characterized by a complex convergence of moderate but rising threats: pervasive socio-economic strain, evident in widespread struggles for essential needs and escalating migration crises, is fueling geopolitical volatility. Financially, while key technology sectors like AI and cloud computing show robust growth, significant market corrections in others highlight underlying instability and the impact of evolving regulatory landscapes around AI, autonomous systems, and data infrastructure. Overlaying these trends, persistent seismic activity across multiple regions underscores the constant threat of natural hazards. Therefore, to secure assets and ensure physical safety, GlobeGuard advises stakeholders to immediately review financial portfolios for resilience and diversification, prioritize robust emergency preparedness and communication plans for natural disaster readiness, and fortify digital and information security protocols against escalating cyber and data-driven threats.",
+    "strategicPlan": "Strategic Directive: The current global threat landscape is characterized by a volatile confluence of socioeconomic pressures, financial market shifts, and heightened geophysical activity. Geopolitically, widespread economic hardship is fueling social instability and migration crises, often amplified by social media, while political dissent persists in key regions. Financially, the technology sector exhibits strong yet uneven growth, with AI and cloud infrastructure driving significant gains amidst emerging regulatory frameworks for new technologies like autonomous vehicles and data centers. Concurrently, a concerning uptick in M5+ seismic events globally underscores an elevated physical risk across diverse geographic regions. To navigate this complex environment, prioritize the following actions: re-evaluate and diversify investment portfolios, focusing on resilient assets given market volatility and emerging regulatory landscapes in tech; strengthen personal and organizational digital security measures, exercising vigilance against misinformation amplified by social media, especially concerning social unrest; and review and update emergency preparedness plans for physical safety and essential supplies, considering the elevated global seismic activity and potential for localized disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 14 km S of Hicks Bay, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - north of Ascension Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 265 km S of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 66 km WNW of San Alejandro, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 60 km W of Bah\u00eda de Lobos, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 36 km NNE of Suez, Egypt",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 16 km NW of Changning, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking globally, hitting New Zealand, Ascension, Tonga, and Peru!"
+    "seismicSummary": "**Urgent: Multiple Mag 5 earthquakes just struck across the globe!**"
 }
