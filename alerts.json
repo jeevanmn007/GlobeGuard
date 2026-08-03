@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a dynamic threat matrix, characterized by escalating socioeconomic strain manifesting in widespread struggles with essential living costs and heightened political instability fueled by migration crises. Financially, the tech sector displays significant volatility, with robust gains in AI and cloud computing (NVDA, MSFT, AMZN) counterbalanced by sharp downturns (AAPL) and emerging regulatory challenges for new technologies like autonomous vehicles and data centers. Concurrently, a sustained pattern of moderate seismic activity across disparate global regions underscores persistent and elevated natural hazard risks. To secure assets and ensure physical safety, **first**, immediately review and diversify all financial and digital asset portfolios, bolstering cybersecurity measures against sophisticated threats while closely monitoring evolving tech regulations. **Second**, fortify personal and organizational emergency preparedness plans, including robust supply chain resilience and rapid response protocols for both social unrest and natural disaster scenarios. **Third**, maintain acute, proactive intelligence gathering on geopolitical developments and economic indicators to anticipate shifts, ensuring operational agility and adaptable contingency planning across all domains.",
+    "strategicPlan": "The global environment is currently characterized by a complex convergence of moderate but rising threats: pervasive socio-economic strain, evident in widespread struggles for essential needs and escalating migration crises, is fueling geopolitical volatility. Financially, while key technology sectors like AI and cloud computing show robust growth, significant market corrections in others highlight underlying instability and the impact of evolving regulatory landscapes around AI, autonomous systems, and data infrastructure. Overlaying these trends, persistent seismic activity across multiple regions underscores the constant threat of natural hazards. Therefore, to secure assets and ensure physical safety, GlobeGuard advises stakeholders to immediately review financial portfolios for resilience and diversification, prioritize robust emergency preparedness and communication plans for natural disaster readiness, and fortify digital and information security protocols against escalating cyber and data-driven threats.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt"
         }
     ],
-    "seismicSummary": "**Multiple significant earthquakes, including a Mag 5.6 near New Zealand, have just hit globally!**"
+    "seismicSummary": "Multiple M5+ earthquakes are striking globally, hitting New Zealand, Ascension, Tonga, and Peru!"
 }
