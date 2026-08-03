@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a complex convergence of geopolitical, financial, and physical tectonic threats. We observe significant socio-economic strain manifesting in widespread household struggles and escalating migrant crises, juxtaposed against a robust yet increasingly scrutinized tech sector grappling with AI regulation and an accelerating AI arms race. Underpinning these dynamics is persistent moderate seismic activity worldwide, reminding us of inherent natural vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs immediate action: **diversify financial portfolios and fortify digital infrastructure** against both economic volatility and evolving cyber threats, given the mixed financial signals and accelerating tech integration; **strengthen physical preparedness plans** for localized social instability or natural events, acknowledging both the socio-economic pressures and ongoing seismic activity; and **strategically evaluate and adapt to the rapid regulatory shifts and geopolitical competition** impacting AI, data centers, and emerging technologies.",
+    "strategicPlan": "The global environment presents a complex interplay of escalating socioeconomic stress, significant technological disruption, and persistent geological instability. Geopolitically, widespread household financial hardship and increasing migration crises are generating social unrest, amplified by digital platforms, while authoritarian pressures remain potent. Simultaneously, critical regulatory challenges are emerging for AI and data infrastructure, even as major tech stocks show robust performance. This financial buoyancy contrasts sharply with the broader economic fragility. Physically, moderate seismic activity across diverse regions, from Peru to Egypt and Russia, underscores continuous tectonic pressures. In this complex landscape, GlobeGuard directs immediate action: first, fortify financial and digital assets through strategic diversification and enhanced cybersecurity, recognizing the dual impact of economic strain on consumer behavior and military advancements in AI. Second, ensure robust physical safety protocols, including comprehensive earthquake preparedness in all operational zones and securing essential supply chains against global economic volatility. Finally, maintain acute situational awareness of geopolitical shifts, social indicators, and evolving regulatory frameworks surrounding critical technologies, as these will define the operating environment.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.27 (3.25%)",
+            "title": "\ud83d\udcb0 NVDA: $206.64 (2.93%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $303.93 (-1.61%)",
+            "title": "\ud83d\udcb0 AAPL: $303.42 (-1.78%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $488.88 (5.2%)",
+            "title": "\ud83d\udcb0 MSFT: $487.65 (4.93%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $126.3 (2.63%)",
+            "title": "\ud83d\udcb0 PLTR: $125.65 (2.1%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $285.08 (4.97%)",
+            "title": "\ud83d\udcb0 AMZN: $284.02 (4.58%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thra"
         }
     ],
-    "seismicSummary": "Urgent: Multiple moderate earthquakes (up to Mag 5.2) just struck Peru, Egypt, Russia, and Fiji!"
+    "seismicSummary": "Magnitude 5 quakes detected globally!"
 }
