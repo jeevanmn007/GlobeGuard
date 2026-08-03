@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape currently presents a complex web of converging threats, necessitating immediate strategic re-evaluation. Geopolitically, widespread economic fragility, evidenced by 7.4 million households struggling with essentials, underscores a volatile social foundation, while the escalating arms race in AI, coupled with a nascent but stringent regulatory environment for emerging technologies and data centers, signals a period of profound technological and strategic competition. Financially, a highly selective market shows robust growth in specific tech sectors like AI and e-commerce but also significant corrections in key established players, indicating underlying volatility rather than broad stability. Concurrently, persistent moderate seismic activity globally, particularly along the Pacific Ring of Fire, serves as a continuous reminder of inherent physical risks. To navigate this environment, GlobeGuard directs the following actions: **First,** critically review and diversify all financial portfolios, prioritizing stability and resilience over speculative growth in a volatile market. **Second,** conduct a comprehensive audit of all critical digital and physical infrastructure, enhancing cyber-physical security measures and adapting to evolving AI regulatory frameworks. **Third,** immediately bolster natural disaster preparedness protocols, with a specific focus on assets and personnel situated in identified seismically active regions, to ensure operational continuity and physical safety.",
+    "strategicPlan": "The global environment presents a dynamic threat matrix, characterized by escalating socioeconomic strain manifesting in widespread struggles with essential living costs and heightened political instability fueled by migration crises. Financially, the tech sector displays significant volatility, with robust gains in AI and cloud computing (NVDA, MSFT, AMZN) counterbalanced by sharp downturns (AAPL) and emerging regulatory challenges for new technologies like autonomous vehicles and data centers. Concurrently, a sustained pattern of moderate seismic activity across disparate global regions underscores persistent and elevated natural hazard risks. To secure assets and ensure physical safety, **first**, immediately review and diversify all financial and digital asset portfolios, bolstering cybersecurity measures against sophisticated threats while closely monitoring evolving tech regulations. **Second**, fortify personal and organizational emergency preparedness plans, including robust supply chain resilience and rapid response protocols for both social unrest and natural disaster scenarios. **Third**, maintain acute, proactive intelligence gathering on geopolitical developments and economic indicators to anticipate shifts, ensuring operational agility and adaptable contingency planning across all domains.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -11,12 +11,12 @@
             "link": "https://www.wired.com/story/gourmet-dog-food/"
         },
         {
-            "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
-            "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
+            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo"
         },
         {
-            "title": "Big Bear bald eagle Jackie in critical condition as tests continue",
-            "link": "https://www.usatoday.com/story/news/state/california/2026/07/22/jackie-bald-eagle-critical-condition-latest-update/91016328007/"
+            "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
+            "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
         }
     ],
     "stock": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 112 km SW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5"
+            "title": "\u26a0\ufe0f Mag 5.2 - 66 km WNW of San Alejandro, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple 5+ magnitude quakes just struck globally, including a 5.6 near New Zealand!**"
+    "seismicSummary": "**Multiple significant earthquakes, including a Mag 5.6 near New Zealand, have just hit globally!**"
 }
