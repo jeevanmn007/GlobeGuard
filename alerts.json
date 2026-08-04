@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a precarious duality: pervasive social and economic fragility, evidenced by widespread household struggles and escalating migrant crises fueling political polarization, coexists with a robust, yet speculative, technology sector heavily invested in AI. This rapid technological evolution, now strategically integrated and weaponized by state actors, simultaneously grapples with emergent regulatory hurdles and infrastructure limitations, while consistent, moderate global seismic activity underscores an enduring physical threat landscape. To secure assets and physical safety, prioritize economic resilience by diversifying investments beyond highly speculative tech and ensuring access to essential resources, enhance digital defenses against increasingly sophisticated state-backed cyber threats, and reinforce physical preparedness plans for both localized social disruptions and natural hazards.",
+    "strategicPlan": "The global intelligence landscape is characterized by escalating internal socio-economic instability within key nations, exacerbated by economic hardship and migration crises, with digital platforms amplifying these pressures. Concurrently, financial markets signal a robust and strategically critical shift towards data analytics and AI, underscored by significant tech sector gains and explicit military directives to 'weaponize data,' even as this transformation faces increasing regulatory and ethical challenges. Underpinning these geopolitical and technological currents is persistent seismic activity in critical regions, reminding us of inherent physical vulnerabilities globally. To secure assets and ensure physical safety, GlobeGuard must immediately: 1. Enhance real-time monitoring of social stability metrics in key operational regions to proactively mitigate supply chain and security risks stemming from socio-economic unrest; 2. Accelerate the ethical integration of advanced AI and data analytics across all strategic and operational frameworks, treating data as a critical, defensible asset; and 3. Conduct immediate, comprehensive vulnerability assessments and bolster resilience plans for critical infrastructure located within seismically active zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.62 (2.41%)",
+            "title": "\ud83d\udcb0 NVDA: $212.85 (3.01%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.58 (2.03%)",
+            "title": "\ud83d\udcb0 AAPL: $310.24 (2.25%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.84 (1.68%)",
+            "title": "\ud83d\udcb0 MSFT: $497.07 (1.93%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $163.65 (30.24%)",
+            "title": "\ud83d\udcb0 PLTR: $162.71 (29.49%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $278.75 (-1.86%)",
+            "title": "\ud83d\udcb0 AMZN: $278.37 (-1.99%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0a"
         }
     ],
-    "seismicSummary": "Multiple moderate earthquakes, led by a Mag 5.1 near Tonga, are striking globally!"
+    "seismicSummary": "Urgent: Multiple M4+ earthquakes, including a M5.1 near Tonga, just struck worldwide!"
 }
