@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global operating environment presents a volatile confluence of factors: deepening economic stratification evidenced by widespread struggle for essentials juxtaposed with strong performance in AI-driven tech stocks (e.g., PLTR +29.45%), signaling high potential for social unrest and market instability amidst increasing regulatory pressures on emerging technologies (AI, autonomous vehicles, data centers) and their aggressive militarization. Simultaneously, the Pacific Rim continues to experience persistent, moderate-to-strong seismic activity (Mag 4.6-5.7), indicating elevated physical threats. Consequently, implement three critical directives: (1) Fortify financial resilience and diversify holdings beyond highly speculative tech, closely monitoring socio-economic indicators and political stability for potential disruptive events. (2) Conduct a thorough audit of technological dependencies and regulatory compliance, particularly concerning AI and data, adapting strategies to navigate evolving governance and state-level weaponization of these domains. (3) Proactively review and enhance physical safety protocols and emergency preparedness, especially in earthquake-prone regions, ensuring robust contingency plans for personnel and infrastructure.",
+    "strategicPlan": "The global operating environment is currently marked by a complex interplay of escalating socio-economic fragility, as millions struggle with essentials amid rising geopolitical tensions and digitally amplified social unrest. Financially, while the AI and data analytics sectors demonstrate significant strength\u2014exemplified by Palantir's surge and strategic military investments\u2014broader consumer-facing markets show volatility, complicated by emerging regulatory pressures on tech infrastructure. This dynamic landscape is underscored by persistent moderate seismic activity across the Indo-Pacific Ring of Fire, signifying inherent physical vulnerabilities. To navigate these converging risks, GlobeGuard directs three critical actions: first, immediately review and diversify financial portfolios, reducing exposure to volatile consumer markets while strategically investing in robust AI and data security solutions; second, fortify digital and physical infrastructure against sophisticated data-driven threats, recognizing the dual-use nature of advanced AI and data as both an asset and a weapon; and third, update and drill comprehensive disaster preparedness protocols for all personnel and critical assets, especially those located in seismically active zones or regions experiencing social instability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 204 km SE of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvj"
+            "title": "\u26a0\ufe0f Mag 4.8 - 43 km ESE of Koseda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti40"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.6 - 79 km E of Onagawa Ch\u014d, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0a"
+            "title": "\u26a0\ufe0f Mag 4.7 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti4e"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple strong quakes, including a 5.7, just hit the Pacific Rim!"
+    "seismicSummary": "\ud83d\udea8 Major seismic activity across the Pacific, led by a 5.7 near Indonesia!"
 }
