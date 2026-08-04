@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "**Strategic Directive**\n\nThe global environment presents a complex challenge marked by escalating social fragility, evidenced by widespread economic hardship and intensifying migrant crises fueled by social media, juxtaposed against a tech-centric financial market demonstrating robust growth in AI and data analytics despite broader consumer strain and emerging regulatory headwinds for critical infrastructure like data centers. Simultaneously, a consistent pattern of moderate seismic activity globally underscores persistent physical threats. To secure assets and ensure physical safety, GlobeGuard advises: first, immediately review and diversify financial portfolios, prioritizing investments in resilient sectors while implementing advanced cybersecurity measures to protect digital assets against evolving threats; second, enhance physical safety protocols by updating emergency preparedness plans for both civil unrest scenarios, particularly in regions impacted by economic disparity, and natural disaster response, especially in seismically active areas; and third, proactively assess and adapt operational strategies to navigate the shifting regulatory landscape around data, AI, and critical infrastructure, mitigating potential disruptions and ensuring market access.",
+    "strategicPlan": "The global environment presents a precarious duality: pervasive social and economic fragility, evidenced by widespread household struggles and escalating migrant crises fueling political polarization, coexists with a robust, yet speculative, technology sector heavily invested in AI. This rapid technological evolution, now strategically integrated and weaponized by state actors, simultaneously grapples with emergent regulatory hurdles and infrastructure limitations, while consistent, moderate global seismic activity underscores an enduring physical threat landscape. To secure assets and physical safety, prioritize economic resilience by diversifying investments beyond highly speculative tech and ensuring access to essential resources, enhance digital defenses against increasingly sophisticated state-backed cyber threats, and reinforce physical preparedness plans for both localized social disruptions and natural hazards.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.9 (1.58%)",
+            "title": "\ud83d\udcb0 NVDA: $211.62 (2.41%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $305.7 (0.75%)",
+            "title": "\ud83d\udcb0 AAPL: $309.58 (2.03%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.79 (2.28%)",
+            "title": "\ud83d\udcb0 MSFT: $495.84 (1.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $159.64 (27.05%)",
+            "title": "\ud83d\udcb0 PLTR: $163.65 (30.24%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $277.83 (-2.18%)",
+            "title": "\ud83d\udcb0 AMZN: $278.75 (-1.86%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0a"
         }
     ],
-    "seismicSummary": "Multiple moderate earthquakes are striking globally, largest a M5.1 near Tonga!"
+    "seismicSummary": "Multiple moderate earthquakes, led by a Mag 5.1 near Tonga, are striking globally!"
 }
