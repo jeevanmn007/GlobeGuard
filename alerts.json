@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by escalating socioeconomic stress that fuels political instability and social unrest, amplified by digital narratives and emerging regulatory challenges within key tech sectors. While certain advanced technology assets demonstrate robust financial growth, signaling a strategic shift, this performance occurs against a backdrop of increasing market volatility and new governmental controls on data and automation. Concurrently, persistent moderate seismic activity worldwide maintains a baseline physical threat to infrastructure and supply chains. To navigate this complex landscape, GlobeGuard must immediately prioritize a critical review of all digital and technological asset portfolios for resilience against regulatory shifts and market volatility, strengthen localized operational continuity plans to mitigate risks from social unrest and physical seismic events, and intensify intelligence gathering on evolving geopolitical flashpoints and the accelerating weaponization of AI and data across civil and military domains.",
+    "strategicPlan": "The current global intelligence picture reveals a complex interplay of intensifying socio-economic fragility, dynamic technological shifts, and persistent geophysical risks. Widespread struggles with essential living costs and escalating migrant crises are creating significant geopolitical instability, particularly evident in Europe and Latin America, while key tech sectors like AI and cloud computing exhibit strong financial growth amidst regulatory pressures and military integration. Concurrently, a cluster of moderate seismic events, notably around the Kuril Islands and China, underscores the ongoing physical vulnerability of critical infrastructure and supply chains in strategically important regions. Given this multi-faceted threat environment, it is imperative to secure assets and ensure safety. First, fortify financial portfolios against volatility by diversifying investments and securing digital assets, particularly given the rapid advancements in AI and data weaponization. Second, establish robust physical safety protocols and emergency preparedness kits, especially for those in seismically active areas or regions prone to social unrest. Third, monitor regional geopolitical developments closely, with a focus on supply chain resilience and proactive information security measures against state-sponsored disinformation amplified by social media.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,12 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 66 km WNW of San Alejandro, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 36 km NNE of Suez, Egypt",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb"
+            "title": "\u26a0\ufe0f Mag 4.9 - 204 km SE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvj"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 85 km S of Severo-Kuril\u2019sk, Russia",
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - Fiji region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thra"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 14 km ESE of Yibin, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thqf"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple moderate earthquakes (Mag 4.9-5.2) just struck Peru, Egypt, Russia, and Fiji!"
+    "seismicSummary": "**Multiple Mag 4.9 earthquakes just struck across Russia, Fiji, and China!**"
 }
