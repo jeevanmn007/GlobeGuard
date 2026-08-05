@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a precarious confluence of intensifying socio-economic distress, volatile financial markets, and heightened physical threats. Geopolitically, widespread struggles for essential resources, exacerbated by politically charged migration crises and social media amplification, underscore significant societal unrest and potential instability, while the tech sector shows selective buoyancy (NVDA) amidst broader market declines. Critically, a surge in significant seismic activity across the Pacific Ring of Fire (Kermadec Islands, Philippines, Indonesia) presents an elevated and immediate physical hazard. To navigate this complex and urgent environment, GlobeGuard advises three immediate actions: first, bolster financial resilience by reviewing contingency funds and diversifying investments to mitigate market volatility; second, rigorously enhance physical safety protocols and emergency preparedness, especially for assets and personnel located within or adjacent to active seismic zones; and third, maintain acute vigilance on geopolitical flashpoints driven by economic distress and migration, as these present rapidly evolving risks to operational continuity.",
+    "strategicPlan": "Current global intelligence indicates a complex and volatile risk environment, characterized by deepening geopolitical instability stemming from widespread economic hardship and migrant crises fueling social unrest, a significant cluster of heightened seismic activity along the Pacific Ring of Fire, and a volatile financial landscape in technology sectors amidst evolving AI regulation and state-level data militarization. In light of this, GlobeGuard must immediately: 1) Assess and reinforce physical infrastructure and emergency preparedness plans for all assets and personnel in seismically active zones, particularly along the Pacific Rim; 2) Review and diversify financial asset portfolios, prioritizing liquidity and defensive investments to hedge against market volatility and economic uncertainty; and 3) Intensify intelligence monitoring on social unrest, migration patterns, and information environment manipulation to proactively mitigate operational and reputational risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.95 (4.25%)",
+            "title": "\ud83d\udcb0 NVDA: $220.24 (3.92%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.35 (-0.01%)",
+            "title": "\ud83d\udcb0 AAPL: $309.9 (0.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $488.3 (-0.92%)",
+            "title": "\ud83d\udcb0 MSFT: $490.58 (-0.45%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $159.16 (-2.15%)",
+            "title": "\ud83d\udcb0 PLTR: $159.18 (-2.14%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.73 (-2.05%)",
+            "title": "\ud83d\udcb0 AMZN: $271.95 (-1.97%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
         }
     ],
-    "seismicSummary": "Alert: Two M6.3 earthquakes struck near Kermadec Islands and Philippines, with others in Indonesia."
+    "seismicSummary": "Multiple strong quakes, including two Mag 6.3s, just struck the Pacific Ring of Fire!"
 }
