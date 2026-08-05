@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence picture reveals a rapidly converging threat landscape characterized by escalating social and economic instability in key regions, buoyed by targeted growth in AI and data-driven tech sectors amidst tightening regulatory scrutiny. Simultaneously, the Pacific Ring of Fire exhibits heightened seismic activity, presenting a distinct physical hazard. In response, GlobeGuard mandates immediate strategic adjustments: First, diversify and secure all assets against pervasive economic volatility and potential social unrest by re-evaluating physical and financial holdings for resilience. Second, strategically leverage advanced AI and data analytics opportunities while simultaneously fortifying digital defenses to counter the increasing weaponization of data and adapt to evolving tech regulations. Finally, implement robust disaster preparedness and infrastructure resilience protocols, giving particular emphasis to operations and personnel within or adjacent to the Pacific Ring of Fire, to mitigate the clear and present physical dangers.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global environment is currently defined by a critical confluence of escalating socioeconomic strain, persistent geopolitical friction, and significant physical tectonic instability. Widespread economic hardship, coupled with intensifying migrant crises and political movements, portends increased social volatility, while the financial sector shows mixed signals amidst regulatory shifts in tech, despite strong AI growth. Crucially, a cluster of moderate to strong seismic events across the Pacific Ring of Fire underscores a heightened physical risk. Therefore, GlobeGuard must immediately: 1) Bolster supply chain resilience and develop localized contingency plans to mitigate disruptions from economic distress and social unrest. 2) Conduct a rapid assessment of evolving tech regulations concerning AI, data infrastructure, and autonomous systems to safeguard digital assets and operational strategies. 3) Initiate an urgent audit of critical infrastructure and personnel safety protocols in all seismically active zones, ensuring robust emergency response and communication systems are fortified.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.94 (2.56%)",
+            "title": "\ud83d\udcb0 NVDA: $218.95 (3.31%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.38 (1.96%)",
+            "title": "\ud83d\udcb0 AAPL: $309.71 (0.11%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $492.81 (1.06%)",
+            "title": "\ud83d\udcb0 MSFT: $490.1 (-0.55%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $162.66 (29.45%)",
+            "title": "\ud83d\udcb0 PLTR: $159.18 (-2.14%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $277.42 (-2.32%)",
+            "title": "\ud83d\udcb0 AMZN: $275.94 (-0.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85"
         }
     ],
-    "seismicSummary": "Urgent: Multiple significant earthquakes, including two M6.3s, are hitting the Pacific region."
+    "seismicSummary": "**Two M6.3 earthquakes just struck near Kermadec and the Philippines, alongside other strong regional quakes!**"
 }
