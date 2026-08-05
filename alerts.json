@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Current global intelligence indicates a complex and volatile risk environment, characterized by deepening geopolitical instability stemming from widespread economic hardship and migrant crises fueling social unrest, a significant cluster of heightened seismic activity along the Pacific Ring of Fire, and a volatile financial landscape in technology sectors amidst evolving AI regulation and state-level data militarization. In light of this, GlobeGuard must immediately: 1) Assess and reinforce physical infrastructure and emergency preparedness plans for all assets and personnel in seismically active zones, particularly along the Pacific Rim; 2) Review and diversify financial asset portfolios, prioritizing liquidity and defensive investments to hedge against market volatility and economic uncertainty; and 3) Intensify intelligence monitoring on social unrest, migration patterns, and information environment manipulation to proactively mitigate operational and reputational risks.",
+    "strategicPlan": "The global landscape presents a critical confluence of escalating socio-economic distress, evidenced by widespread struggles for essentials and volatile migration crises, alongside a rapidly evolving technology sector displaying mixed financial performance where AI-driven growth is met with increasing regulatory scrutiny and geopolitical weaponization. This intricate web of threats is significantly amplified by a pronounced and clustered increase in seismic activity across the Pacific Ring of Fire, indicating an elevated physical hazard profile for critical infrastructure and populations. Therefore, GlobeGuard issues the following directives: 1) Immediately **bolster physical security and enhance emergency preparedness protocols** for all assets and personnel located within seismically active zones, ensuring robust disaster response plans are in place and rehearsed. 2) **Strengthen supply chain resilience and review personnel safety measures** in regions susceptible to socio-economic instability and migration-related unrest, preparing for potential disruptions and civil disturbances. 3) **Strategically review and adapt technology investments and regulatory compliance frameworks**, especially concerning AI and data infrastructure, to capitalize on growth while navigating new legislative hurdles and the accelerating geopolitical competition in advanced technological capabilities.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.24 (3.92%)",
+            "title": "\ud83d\udcb0 NVDA: $219.22 (3.43%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.9 (0.17%)",
+            "title": "\ud83d\udcb0 AAPL: $311.0 (0.52%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $490.58 (-0.45%)",
+            "title": "\ud83d\udcb0 MSFT: $487.46 (-1.09%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $159.18 (-2.14%)",
+            "title": "\ud83d\udcb0 PLTR: $158.43 (-2.6%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.95 (-1.97%)",
+            "title": "\ud83d\udcb0 AMZN: $272.65 (-1.72%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 127 km NW of Ternate, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti49"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 62 km W of Tobelo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 31 km SSW of Ialibu, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tie5"
         }
     ],
-    "seismicSummary": "Multiple strong quakes, including two Mag 6.3s, just struck the Pacific Ring of Fire!"
+    "seismicSummary": "Multiple strong quakes, including two Mag 6.3s, shaking the Pacific region!"
 }
