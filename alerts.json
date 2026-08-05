@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global operating environment is currently marked by a complex interplay of escalating socio-economic fragility, as millions struggle with essentials amid rising geopolitical tensions and digitally amplified social unrest. Financially, while the AI and data analytics sectors demonstrate significant strength\u2014exemplified by Palantir's surge and strategic military investments\u2014broader consumer-facing markets show volatility, complicated by emerging regulatory pressures on tech infrastructure. This dynamic landscape is underscored by persistent moderate seismic activity across the Indo-Pacific Ring of Fire, signifying inherent physical vulnerabilities. To navigate these converging risks, GlobeGuard directs three critical actions: first, immediately review and diversify financial portfolios, reducing exposure to volatile consumer markets while strategically investing in robust AI and data security solutions; second, fortify digital and physical infrastructure against sophisticated data-driven threats, recognizing the dual-use nature of advanced AI and data as both an asset and a weapon; and third, update and drill comprehensive disaster preparedness protocols for all personnel and critical assets, especially those located in seismically active zones or regions experiencing social instability.",
+    "strategicPlan": "The global environment presents a complex challenge, characterized by escalating socio-economic strain fueling widespread hardship and political instability in key regions, while simultaneously witnessing robust growth in strategic technology sectors like AI and data analytics that are now subject to increased regulatory friction and geopolitical weaponization. This volatile backdrop is consistently underscored by persistent seismic activity across critical areas of the Ring of Fire, posing enduring physical threats. To secure assets and ensure physical safety, GlobeGuard must immediately implement three directives: First, diversify investment portfolios to balance high-growth tech opportunities with resilience against broader economic precarity and cyber threats. Second, rigorously review and enhance emergency preparedness and contingency plans for all personnel and physical assets located in seismically active zones. Third, actively monitor and adapt to evolving regulatory frameworks impacting critical technologies and swiftly respond to escalating social and geopolitical instability that could disrupt operations or supply chains.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 43 km ESE of Koseda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti40"
+            "title": "\u26a0\ufe0f Mag 4.8 - 55 km WSW of Monywa, Burma (Myanmar)",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti4e"
+            "title": "\u26a0\ufe0f Mag 4.8 - 43 km ESE of Koseda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti40"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Major seismic activity across the Pacific, led by a 5.7 near Indonesia!"
+    "seismicSummary": "**Multiple significant earthquakes, including a Mag 5.7 in Indonesia, reported worldwide!**"
 }
