@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critical confluence of escalating socio-economic distress, evidenced by widespread struggles for essentials and volatile migration crises, alongside a rapidly evolving technology sector displaying mixed financial performance where AI-driven growth is met with increasing regulatory scrutiny and geopolitical weaponization. This intricate web of threats is significantly amplified by a pronounced and clustered increase in seismic activity across the Pacific Ring of Fire, indicating an elevated physical hazard profile for critical infrastructure and populations. Therefore, GlobeGuard issues the following directives: 1) Immediately **bolster physical security and enhance emergency preparedness protocols** for all assets and personnel located within seismically active zones, ensuring robust disaster response plans are in place and rehearsed. 2) **Strengthen supply chain resilience and review personnel safety measures** in regions susceptible to socio-economic instability and migration-related unrest, preparing for potential disruptions and civil disturbances. 3) **Strategically review and adapt technology investments and regulatory compliance frameworks**, especially concerning AI and data infrastructure, to capitalize on growth while navigating new legislative hurdles and the accelerating geopolitical competition in advanced technological capabilities.",
+    "strategicPlan": "The global intelligence picture reveals a convergent risk environment characterized by escalating geopolitical pressures, evidenced by widespread economic hardship and social unrest in key regions, alongside a volatile financial landscape where specific tech sector gains are offset by broader market corrections. Critically, we observe a concerning surge in significant seismic activity across the Pacific Ring of Fire, with multiple M5.9-6.3 earthquakes demanding immediate attention. To navigate this complex threat matrix, GlobeGuard directs all stakeholders to first, reinforce emergency preparedness and communication protocols for personnel and assets in high-risk seismic zones; second, strategically diversify financial holdings, favoring resilient sectors while actively hedging against localized economic volatility; and third, conduct an urgent audit of critical supply chains and digital infrastructure for vulnerabilities stemming from geopolitical friction or emerging regulatory shifts.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 62 km W of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
+            "title": "\u26a0\ufe0f Mag 5.9 - 32 km SW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 31 km SSW of Ialibu, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tie5"
+            "title": "\u26a0\ufe0f Mag 5.3 - 62 km W of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
         }
     ],
-    "seismicSummary": "Multiple strong quakes, including two Mag 6.3s, shaking the Pacific region!"
+    "seismicSummary": "Major earthquakes up to Mag 6.3 just struck the Kermadec Islands, Philippines, and Indonesia!"
 }
