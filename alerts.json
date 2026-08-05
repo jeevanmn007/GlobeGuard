@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a confluence of escalating threats: widespread socioeconomic fragility fuels political polarization and migration crises amplified by digital platforms; a rapid technological arms race in AI and data weaponization (evidenced by Palantir's surge and Navy initiatives) proceeds amidst emergent regulatory challenges; and critically, significant seismic activity across the Pacific Ring of Fire indicates heightened physical risk. Therefore, GlobeGuard issues the following directives: 1) Immediately review and bolster emergency preparedness for personnel and critical assets, especially within tectonically active regions. 2) Strategically rebalance portfolios towards resilient defense and AI technology sectors, while diversifying away from consumer-facing vulnerabilities and anticipating regulatory shifts. 3) Enhance intelligence monitoring of social media narratives and localized socioeconomic indicators to anticipate and mitigate regional instability and potential supply chain disruptions.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly converging threat landscape characterized by escalating social and economic instability in key regions, buoyed by targeted growth in AI and data-driven tech sectors amidst tightening regulatory scrutiny. Simultaneously, the Pacific Ring of Fire exhibits heightened seismic activity, presenting a distinct physical hazard. In response, GlobeGuard mandates immediate strategic adjustments: First, diversify and secure all assets against pervasive economic volatility and potential social unrest by re-evaluating physical and financial holdings for resilience. Second, strategically leverage advanced AI and data analytics opportunities while simultaneously fortifying digital defenses to counter the increasing weaponization of data and adapt to evolving tech regulations. Finally, implement robust disaster preparedness and infrastructure resilience protocols, giving particular emphasis to operations and personnel within or adjacent to the Pacific Ring of Fire, to mitigate the clear and present physical dangers.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85"
         }
     ],
-    "seismicSummary": "**Alert: Multiple strong earthquakes, including two Mag 6.3s, reported across the Pacific region!**"
+    "seismicSummary": "Urgent: Multiple significant earthquakes, including two M6.3s, are hitting the Pacific region."
 }
