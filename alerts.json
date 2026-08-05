@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a complex challenge, characterized by escalating socio-economic strain fueling widespread hardship and political instability in key regions, while simultaneously witnessing robust growth in strategic technology sectors like AI and data analytics that are now subject to increased regulatory friction and geopolitical weaponization. This volatile backdrop is consistently underscored by persistent seismic activity across critical areas of the Ring of Fire, posing enduring physical threats. To secure assets and ensure physical safety, GlobeGuard must immediately implement three directives: First, diversify investment portfolios to balance high-growth tech opportunities with resilience against broader economic precarity and cyber threats. Second, rigorously review and enhance emergency preparedness and contingency plans for all personnel and physical assets located in seismically active zones. Third, actively monitor and adapt to evolving regulatory frameworks impacting critical technologies and swiftly respond to escalating social and geopolitical instability that could disrupt operations or supply chains.",
+    "strategicPlan": "Our intelligence assessment reveals a complex global landscape marked by escalating socio-economic fragility evident in widespread struggles for essentials and digitally amplified migration crises, while critical tech sectors face both concentrated investment surges in AI/data analytics and tightening regulatory scrutiny. Concurrently, an immediate and significant cluster of seismic activity in Southeast Asia presents a tangible physical threat to infrastructure and regional stability. To navigate these interwoven risks, GlobeGuard directs immediate action: First, rapidly audit and diversify critical supply chains and physical infrastructure, especially those with exposure to high-risk seismic zones or regions prone to socio-economic instability. Second, strategically realign technology investments and operational strategies to anticipate and comply with emergent AI regulations, while significantly enhancing digital security against the increasing weaponization of data by state and non-state actors. Third, fortify personal and organizational information hygiene and critical thinking protocols to counter digitally-amplified disinformation and mitigate the human element of emerging threats.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.3 - 32 km SW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - 127 km NW of Ternate, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti49"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r"
+            "title": "\u26a0\ufe0f Mag 5.2 - 31 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti71"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 55 km WSW of Monywa, Burma (Myanmar)",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 43 km ESE of Koseda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti40"
+            "title": "\u26a0\ufe0f Mag 5.1 - 46 km SSW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti80"
         }
     ],
-    "seismicSummary": "**Multiple significant earthquakes, including a Mag 5.7 in Indonesia, reported worldwide!**"
+    "seismicSummary": "**URGENT:** A major 6.3 magnitude earthquake has struck near Sarangani, Philippines, amidst several strong quakes across the region!"
 }
