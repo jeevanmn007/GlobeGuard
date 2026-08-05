@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a critical confluence of escalating socioeconomic strain, persistent geopolitical friction, and significant physical tectonic instability. Widespread economic hardship, coupled with intensifying migrant crises and political movements, portends increased social volatility, while the financial sector shows mixed signals amidst regulatory shifts in tech, despite strong AI growth. Crucially, a cluster of moderate to strong seismic events across the Pacific Ring of Fire underscores a heightened physical risk. Therefore, GlobeGuard must immediately: 1) Bolster supply chain resilience and develop localized contingency plans to mitigate disruptions from economic distress and social unrest. 2) Conduct a rapid assessment of evolving tech regulations concerning AI, data infrastructure, and autonomous systems to safeguard digital assets and operational strategies. 3) Initiate an urgent audit of critical infrastructure and personnel safety protocols in all seismically active zones, ensuring robust emergency response and communication systems are fortified.",
+    "strategicPlan": "The global intelligence picture reveals a precarious confluence of intensifying socio-economic distress, volatile financial markets, and heightened physical threats. Geopolitically, widespread struggles for essential resources, exacerbated by politically charged migration crises and social media amplification, underscore significant societal unrest and potential instability, while the tech sector shows selective buoyancy (NVDA) amidst broader market declines. Critically, a surge in significant seismic activity across the Pacific Ring of Fire (Kermadec Islands, Philippines, Indonesia) presents an elevated and immediate physical hazard. To navigate this complex and urgent environment, GlobeGuard advises three immediate actions: first, bolster financial resilience by reviewing contingency funds and diversifying investments to mitigate market volatility; second, rigorously enhance physical safety protocols and emergency preparedness, especially for assets and personnel located within or adjacent to active seismic zones; and third, maintain acute vigilance on geopolitical flashpoints driven by economic distress and migration, as these present rapidly evolving risks to operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.95 (3.31%)",
+            "title": "\ud83d\udcb0 NVDA: $220.95 (4.25%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.71 (0.11%)",
+            "title": "\ud83d\udcb0 AAPL: $309.35 (-0.01%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $490.1 (-0.55%)",
+            "title": "\ud83d\udcb0 MSFT: $488.3 (-0.92%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $159.18 (-2.14%)",
+            "title": "\ud83d\udcb0 PLTR: $159.16 (-2.15%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $275.94 (-0.53%)",
+            "title": "\ud83d\udcb0 AMZN: $271.73 (-2.05%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti49"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Auckland Islands, New Zealand region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85"
+            "title": "\u26a0\ufe0f Mag 5.3 - 62 km W of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
         }
     ],
-    "seismicSummary": "**Two M6.3 earthquakes just struck near Kermadec and the Philippines, alongside other strong regional quakes!**"
+    "seismicSummary": "Alert: Two M6.3 earthquakes struck near Kermadec Islands and Philippines, with others in Indonesia."
 }
