@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex threat matrix characterized by widespread economic fragility and social unrest, particularly evident in the UK's household struggles and persistent migrant crises in Europe, alongside significant market volatility in the tech sector, marked by declines in major players despite robust gains in AI-focused equities and evolving regulatory landscapes. This is further compounded by a concerning surge in high-magnitude seismic activity across the Pacific Ring of Fire, including near vital shipping lanes and population centers in the Philippines and Indonesia, indicating immediate physical risks and potential for supply chain disruptions. In response, we advise you to secure essential supplies and monitor local socio-economic indicators for potential civil unrest, review and de-risk investment portfolios by prioritizing resilient assets and strategic shifts into critical AI infrastructure given market volatility and regulatory trends, and immediately activate personal and organizational disaster preparedness plans with a focus on seismic safety and robust emergency communication protocols.",
+    "strategicPlan": "The global threat landscape is acutely complex, characterized by simultaneous pressures across socioeconomic, geopolitical, financial, and physical domains. Widespread economic distress, highlighted by households struggling to afford essentials, signals potential for domestic instability, further complicated by intensifying geopolitical tensions from migrant crises and political exiles. Financially, while key tech sectors demonstrate resilience, increasing regulatory scrutiny, evidenced by new data center moratoriums and robotaxi legislation, introduces significant market uncertainty and challenges to future growth. Simultaneously, elevated seismic activity across the Pacific Ring of Fire, with multiple significant quakes, presents an immediate and substantial physical threat to critical infrastructure and human safety in a vital global economic region. To mitigate these convergent risks, secure diverse asset portfolios against economic volatility and regulatory shifts, rigorously monitor geopolitical flashpoints for their impact on global stability and supply chains, and urgently review and enhance physical disaster preparedness protocols for all personnel and infrastructure, especially in seismically active zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -37,7 +37,7 @@
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.65 (-4.0%)",
+            "title": "\ud83d\udcb0 AMZN: $272.65 (-1.72%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.3 - 32 km SW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 40 km SW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 62 km W of Tobelo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 31 km SSW of Ialibu, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tie5"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes, including two M6.3s, just struck the Pacific Rim!**"
+    "seismicSummary": "**Alert: A Mag 6.3 quake and several others just struck the Pacific region!**"
 }
