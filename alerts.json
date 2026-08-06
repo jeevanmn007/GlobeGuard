@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely complex, characterized by simultaneous pressures across socioeconomic, geopolitical, financial, and physical domains. Widespread economic distress, highlighted by households struggling to afford essentials, signals potential for domestic instability, further complicated by intensifying geopolitical tensions from migrant crises and political exiles. Financially, while key tech sectors demonstrate resilience, increasing regulatory scrutiny, evidenced by new data center moratoriums and robotaxi legislation, introduces significant market uncertainty and challenges to future growth. Simultaneously, elevated seismic activity across the Pacific Ring of Fire, with multiple significant quakes, presents an immediate and substantial physical threat to critical infrastructure and human safety in a vital global economic region. To mitigate these convergent risks, secure diverse asset portfolios against economic volatility and regulatory shifts, rigorously monitor geopolitical flashpoints for their impact on global stability and supply chains, and urgently review and enhance physical disaster preparedness protocols for all personnel and infrastructure, especially in seismically active zones.",
+    "strategicPlan": "The global intelligence assessment reveals a complex and rapidly evolving threat landscape characterized by escalating social and economic fragmentation alongside significant physical and technological disruptions. Geopolitically, widespread cost-of-living struggles and intensifying migrant crises signal potential for increased social unrest and political instability, even as the global market shows mixed signals with AI-centric tech (NVDA) thriving while broader indices experience volatility. Concurrently, heightened seismic activity across the Indo-Pacific Ring of Fire presents an immediate physical threat to critical infrastructure and supply chains in a strategically vital region. To secure assets and physical safety, first, critically review and diversify your economic exposures and supply chains, preparing for potential social and economic disruptions. Second, prioritize the immediate assessment and reinforcement of physical infrastructure, particularly in seismically active zones, and ensure all emergency preparedness protocols are current and practiced. Third, maintain a vigilant watch on the interplay between accelerating technological advancements (AI, automation) and evolving regulatory frameworks, positioning your assets to strategically adapt to sudden shifts in the geopolitical and economic landscape.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.3 - south of the Kermadec Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 40 km SW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 31 km SSW of Ialibu, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tie5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 60 km NNE of Shi Yomi, India",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w"
         }
     ],
-    "seismicSummary": "**Alert: A Mag 6.3 quake and several others just struck the Pacific region!**"
+    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5+ earthquakes are reported across the Indo-Pacific region!"
 }
