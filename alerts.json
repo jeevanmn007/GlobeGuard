@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a complex and rapidly evolving threat landscape characterized by escalating social and economic fragmentation alongside significant physical and technological disruptions. Geopolitically, widespread cost-of-living struggles and intensifying migrant crises signal potential for increased social unrest and political instability, even as the global market shows mixed signals with AI-centric tech (NVDA) thriving while broader indices experience volatility. Concurrently, heightened seismic activity across the Indo-Pacific Ring of Fire presents an immediate physical threat to critical infrastructure and supply chains in a strategically vital region. To secure assets and physical safety, first, critically review and diversify your economic exposures and supply chains, preparing for potential social and economic disruptions. Second, prioritize the immediate assessment and reinforcement of physical infrastructure, particularly in seismically active zones, and ensure all emergency preparedness protocols are current and practiced. Third, maintain a vigilant watch on the interplay between accelerating technological advancements (AI, automation) and evolving regulatory frameworks, positioning your assets to strategically adapt to sudden shifts in the geopolitical and economic landscape.",
+    "strategicPlan": "The global landscape is currently defined by a convergence of escalating systemic risks: widespread socio-economic fragilities are evident in reports of household financial distress and amplified migrant crises, while the technology sector navigates both robust AI-driven growth and increasing regulatory scrutiny and infrastructure limitations. Simultaneously, the Pacific Rim continues to exhibit significant tectonic instability, underscored by multiple recent major seismic events in key regions. In response to this complex threat environment, secure your position by: fortifying financial holdings through diversification against market volatility and potential economic shifts; implementing advanced measures to secure digital assets and privacy, anticipating evolving tech regulations and state-level data initiatives; and establishing robust emergency preparedness and communication protocols, especially for personnel and assets located within seismically active zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tie5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 60 km NNE of Shi Yomi, India",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w"
+            "title": "\u26a0\ufe0f Mag 4.9 - 128 km WSW of Port Orford, Oregon",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tij5"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple magnitude 5+ earthquakes are reported across the Indo-Pacific region!"
+    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes reported across the Pacific Rim, including off Oregon."
 }
