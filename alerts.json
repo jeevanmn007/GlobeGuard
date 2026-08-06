@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a convergent risk environment characterized by escalating geopolitical pressures, evidenced by widespread economic hardship and social unrest in key regions, alongside a volatile financial landscape where specific tech sector gains are offset by broader market corrections. Critically, we observe a concerning surge in significant seismic activity across the Pacific Ring of Fire, with multiple M5.9-6.3 earthquakes demanding immediate attention. To navigate this complex threat matrix, GlobeGuard directs all stakeholders to first, reinforce emergency preparedness and communication protocols for personnel and assets in high-risk seismic zones; second, strategically diversify financial holdings, favoring resilient sectors while actively hedging against localized economic volatility; and third, conduct an urgent audit of critical supply chains and digital infrastructure for vulnerabilities stemming from geopolitical friction or emerging regulatory shifts.",
+    "strategicPlan": "The global situation presents a complex threat matrix characterized by widespread economic fragility and social unrest, particularly evident in the UK's household struggles and persistent migrant crises in Europe, alongside significant market volatility in the tech sector, marked by declines in major players despite robust gains in AI-focused equities and evolving regulatory landscapes. This is further compounded by a concerning surge in high-magnitude seismic activity across the Pacific Ring of Fire, including near vital shipping lanes and population centers in the Philippines and Indonesia, indicating immediate physical risks and potential for supply chain disruptions. In response, we advise you to secure essential supplies and monitor local socio-economic indicators for potential civil unrest, review and de-risk investment portfolios by prioritizing resilient assets and strategic shifts into critical AI infrastructure given market volatility and regulatory trends, and immediately activate personal and organizational disaster preparedness plans with a focus on seismic safety and robust emergency communication protocols.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -37,7 +37,7 @@
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.65 (-1.72%)",
+            "title": "\ud83d\udcb0 AMZN: $272.65 (-4.0%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,7 +69,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 32 km SW of Sarangani, Philippines",
+            "title": "\u26a0\ufe0f Mag 5.6 - 40 km SW of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
         }
     ],
-    "seismicSummary": "Major earthquakes up to Mag 6.3 just struck the Kermadec Islands, Philippines, and Indonesia!"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes, including two M6.3s, just struck the Pacific Rim!**"
 }
