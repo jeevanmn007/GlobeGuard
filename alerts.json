@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex and urgent risk profile, marked by pervasive socio-economic fragility in key markets, exacerbated by migration crises and political polarization that social media readily weaponizes. Financially, while major tech remains robust, the significant surge in AI and data analytics firms like Palantir signals a strategic pivot towards weaponized data and AI, concurrently facing new regulatory headwinds. This volatile geopolitical and technological landscape is underpinned by a notable uptick in M5.0+ seismic events across critical strategic regions in the Pacific and Asia, posing a direct physical threat to infrastructure and stability. To mitigate these convergent risks, first, secure physical assets and essential provisions against potential economic disruption and natural disasters; second, meticulously monitor regional socio-political stability and digital information flows for early indicators of unrest or escalation; and third, strategically re-evaluate tech investments and dependencies, especially in AI and data, to navigate evolving regulatory environments and leverage opportunities in resilient, high-demand sectors.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $222.42 (1.57%)",
+            "title": "\ud83d\udcb0 NVDA: $223.96 (2.27%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.48 (0.02%)",
+            "title": "\ud83d\udcb0 AAPL: $313.33 (0.29%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $500.41 (0.11%)",
+            "title": "\ud83d\udcb0 MSFT: $499.99 (0.03%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $170.56 (9.39%)",
+            "title": "\ud83d\udcb0 PLTR: $172.01 (10.32%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $274.69 (0.89%)",
+            "title": "\ud83d\udcb0 AMZN: $274.48 (0.82%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiqe"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple Mag 5 earthquakes reported across China, Russia, Philippines, and New Zealand!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
