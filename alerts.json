@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a convergent risk profile characterized by deepening socio-economic fragility, evidenced by widespread struggles for basic necessities and escalating political dissent across various regions, often exacerbated by social media amplification. Financially, while key tech giants like Microsoft demonstrate robust growth, the broader tech sector, especially AI-driven firms, faces increasing regulatory scrutiny and market volatility, demanding careful asset positioning. Simultaneously, a notable increase in global seismic activity, with multiple moderate-to-strong quakes recorded across the Pacific Ring of Fire and South America, elevates the immediate physical threat landscape. In response, GlobeGuard advises three critical actions: first, prioritize immediate physical safety by reinforcing comprehensive emergency preparedness plans, including earthquake readiness and securing essential supplies; second, fortify financial resilience through strategic asset diversification away from potentially volatile tech and towards stable, essential sectors, while ensuring adequate liquid reserves; and third, implement robust digital security protocols and cultivate critical information literacy, given the increasing weaponization of data and AI in both civilian and military spheres.",
+    "strategicPlan": "The global environment presents a critical confluence of escalating socioeconomic disparity, rapidly advancing technological integration \u2013 with AI and data now central to national security and market growth but facing regulatory pushback \u2013 and persistent geopolitical friction exacerbated by migration and political dissent. Underlying these human dynamics is continuous, widespread seismic activity, a tangible threat to physical infrastructure and supply chains. To navigate this complex landscape, GlobeGuard must immediately: 1) Aggressively enhance data intelligence capabilities and cybersecurity frameworks, integrating advanced AI to secure critical assets and exploit strategic informational advantages amidst an evolving digital threat landscape; 2) Conduct a swift and thorough review of critical supply chains, diversifying sourcing and logistics to build resilience against both physical hazards and potential socio-economic disruptions stemming from global instability and migration; and 3) Implement robust, geographically dispersed redundancy for vital physical and digital infrastructure, ensuring operational continuity and strategic agility in the face of environmental shocks, regulatory shifts, and emergent geopolitical pressures.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.99 (-0.1%)",
+            "title": "\ud83d\udcb0 NVDA: $223.17 (1.91%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.41 (0.45%)",
+            "title": "\ud83d\udcb0 AAPL: $314.31 (0.61%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $499.86 (2.54%)",
+            "title": "\ud83d\udcb0 MSFT: $503.67 (0.76%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $155.92 (-1.58%)",
+            "title": "\ud83d\udcb0 PLTR: $169.07 (8.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.26 (-0.14%)",
+            "title": "\ud83d\udcb0 AMZN: $276.89 (1.7%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tip9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 110 km W of Buala, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tik6"
+            "title": "\u26a0\ufe0f Mag 5.1 - 6 km NNE of Xunchang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 7 km NW of Cabacao, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb"
+            "title": "\u26a0\ufe0f Mag 5 - 49 km SE of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
         }
     ],
-    "seismicSummary": "M5+ quakes worldwide: Japan, Peru, Solomon Islands, Philippines!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes reported worldwide!"
 }
