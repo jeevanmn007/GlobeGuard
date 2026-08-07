@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape currently presents a concerning confluence of escalating socioeconomic distress and political volatility, evidenced by widespread household hardship and social media-driven migrant crises, while the tech sector shows mixed performance amidst emerging regulatory challenges. Concurrently, persistent moderate seismic activity across the Pacific Ring of Fire and South America underscores continuous physical risks. To navigate this complex environment, GlobeGuard directs three strategic imperatives: first, rigorously monitor local socioeconomic stability and geopolitical shifts to preempt market and social disruptions; second, conduct an urgent audit of all digital and physical infrastructure resilience, particularly in seismically active regions and against evolving tech legislation; and third, ensure all personnel and assets adhere to heightened emergency preparedness and contingency planning for both physical safety and operational continuity.",
+    "strategicPlan": "The global intelligence assessment reveals a complex and volatile strategic environment: Geopolitically, we face escalating socioeconomic fragility with millions struggling and migration crises fueling social media-amplified instability, while the rapid advancement and military integration of AI are concurrently met with growing regulatory oversight. Financially, market performance shows targeted strength in major tech, yet emerging sectors face legislative hurdles and overall economic uncertainty persists. Physically, a sustained cluster of moderate seismic activity across the Pacific Rim and South America underscores a constant geological hazard. To navigate this, GlobeGuard advises three immediate actions: First, secure financial assets by diversifying beyond highly regulated or speculative tech, prioritizing resilience and essential service sectors. Second, enhance physical safety by reviewing emergency protocols for both seismic events in active zones and potential localized social unrest stemming from economic hardship. Third, maintain critical vigilance against weaponized social media narratives, which are increasingly shaping political storms and influencing public perception around migration and economic strain, ensuring informed decision-making over reactive responses.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tik6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 64 km NE of Mangapapa, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiqe"
+            "title": "\u26a0\ufe0f Mag 5 - 7 km NW of Cabacao, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5+ earthquakes are striking worldwide, including a 5.4 in Japan!**"
+    "seismicSummary": "Urgent: Several M5 earthquakes reported worldwide!"
 }
