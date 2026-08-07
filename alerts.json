@@ -1,47 +1,81 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's current intelligence assessment reveals a period of relative geopolitical calm, yet demands heightened vigilance across financial and geohazard landscapes. Financial markets exhibit mild volatility, with key tech stocks showing mixed performance, indicating a need for prudent portfolio management rather than alarm. Of more immediate concern is the discernible cluster of moderate seismic activity (Mag 5.1-5.6) across the Indo-Pacific Ring of Fire, specifically the Philippines, Indonesia, Papua New Guinea, and Solomon Islands, signaling regional tectonic stress that warrants close monitoring for potential escalation. Therefore, I direct you to: 1) Immediately review and reinforce emergency preparedness and evacuation protocols for all personnel and assets located within the broader Indo-Pacific seismic zone. 2) Maintain a diversified investment posture, closely monitoring tech sector fluctuations, and avoid impulsive reactions to minor market shifts. 3) Fortify digital security and communication redundancies globally, ensuring robust information flow and rapid response capabilities regardless of geographic location or specific threat vector.",
-    "survival": [],
+    "strategicPlan": "The global intelligence landscape currently presents a concerning confluence of escalating socioeconomic distress and political volatility, evidenced by widespread household hardship and social media-driven migrant crises, while the tech sector shows mixed performance amidst emerging regulatory challenges. Concurrently, persistent moderate seismic activity across the Pacific Ring of Fire and South America underscores continuous physical risks. To navigate this complex environment, GlobeGuard directs three strategic imperatives: first, rigorously monitor local socioeconomic stability and geopolitical shifts to preempt market and social disruptions; second, conduct an urgent audit of all digital and physical infrastructure resilience, particularly in seismically active regions and against evolving tech legislation; and third, ensure all personnel and assets adhere to heightened emergency preparedness and contingency planning for both physical safety and operational continuity.",
+    "survival": [
+        {
+            "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
+            "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o"
+        },
+        {
+            "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
+            "link": "https://www.wired.com/story/gourmet-dog-food/"
+        },
+        {
+            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo"
+        },
+        {
+            "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
+            "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
+        }
+    ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.9 (-0.6%)",
+            "title": "\ud83d\udcb0 NVDA: $218.99 (-0.1%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.65 (-0.11%)",
+            "title": "\ud83d\udcb0 AAPL: $312.41 (0.45%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $494.72 (1.49%)",
+            "title": "\ud83d\udcb0 MSFT: $499.86 (2.54%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $155.94 (-1.57%)",
+            "title": "\ud83d\udcb0 PLTR: $155.92 (-1.58%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $273.7 (0.39%)",
+            "title": "\ud83d\udcb0 AMZN: $272.26 (-0.14%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
-    "trend": [],
+    "trend": [
+        {
+            "title": "The robotaxi law that could ban Tesla",
+            "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla"
+        },
+        {
+            "title": "Is paying artists enough to convince them to embrace AI?",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+        },
+        {
+            "title": "New York Issues the Nation\u2019s First Statewide Moratorium on New Large Data Centers",
+            "link": "https://gizmodo.com/new-york-issues-the-nations-first-statewide-moratorium-on-new-large-data-centers-2000785420"
+        },
+        {
+            "title": "The US Navy wants to \u2018weaponize\u2019 data for a new AI-first fleet, and it wants tech-savvy sailors to make it happen",
+            "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
+        }
+    ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 40 km SW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5"
+            "title": "\u26a0\ufe0f Mag 5.4 - 145 km E of Yamada, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000timf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 62 km W of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 31 km SSW of Ialibu, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tie5"
+            "title": "\u26a0\ufe0f Mag 5.3 - 7 km SSW of Huayucachi, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tip9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 110 km W of Buala, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tik6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 64 km NE of Mangapapa, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiqe"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.6, just hit the Western Pacific region!"
+    "seismicSummary": "**Multiple Mag 5+ earthquakes are striking worldwide, including a 5.4 in Japan!**"
 }
