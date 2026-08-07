@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is acutely challenged by escalating socio-economic distress, evidenced by widespread struggles for basic necessities and politically charged migration crises amplified by digital narratives. While select tech sectors, particularly AI and data analytics firms like Palantir, demonstrate robust financial growth, this stability is juxtaposed against increasing regulatory scrutiny on emerging technologies and infrastructure, alongside persistent geopolitical volatility. Compounding these dynamics, the consistent pattern of multiple >Mag 5 earthquakes globally signals a foundational layer of physical risk and instability. To secure assets and ensure physical safety, we direct the following actions: **First, rebalance investment portfolios, prioritizing resilient sectors and physical assets while cautiously leveraging strategic growth in AI and data, anticipating increasing regulatory oversight.** **Second, fortify digital infrastructure and enhance information vetting protocols to mitigate risks from evolving information warfare and AI-driven threats, especially given their impact on socio-political stability.** **Third, conduct an immediate review and bolster emergency preparedness plans for physical assets and personnel, particularly in seismically active regions, ensuring robust contingency for natural disasters.**",
+    "strategicPlan": "The global environment presents a complex interplay of rising internal socioeconomic pressures across key regions, a dynamic yet increasingly scrutinized technology sector grappling with regulatory and ethical considerations around AI and data, and sustained dispersed seismic activity worldwide. To navigate this landscape, implement a strategic diversification of assets to include resilient holdings beyond speculative tech, conduct immediate reviews and reinforcement of emergency preparedness for personnel and infrastructure in all seismically active operational areas, and elevate monitoring of social and political instability indicators, particularly those stemming from economic hardship and migration, which possess the potential for rapid escalation and localized disruption.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $223.44 (2.03%)",
+            "title": "\ud83d\udcb0 NVDA: $222.12 (1.43%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.29 (-0.04%)",
+            "title": "\ud83d\udcb0 AAPL: $313.08 (0.21%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $503.32 (0.69%)",
+            "title": "\ud83d\udcb0 MSFT: $499.84 (-0.0%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $170.25 (9.19%)",
+            "title": "\ud83d\udcb0 PLTR: $171.18 (9.79%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $277.19 (1.81%)",
+            "title": "\ud83d\udcb0 AMZN: $274.27 (0.74%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 145 km E of Yamada, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000timf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 7 km SSW of Huayucachi, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tip9"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 49 km SE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 7 km NW of Cabacao, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb"
         }
     ],
-    "seismicSummary": "M5+ earthquakes just struck Japan, Peru, China, and Russia!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes are striking worldwide: Peru, China, Russia, Philippines."
 }
