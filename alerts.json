@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical confluence of escalating socioeconomic disparity, rapidly advancing technological integration \u2013 with AI and data now central to national security and market growth but facing regulatory pushback \u2013 and persistent geopolitical friction exacerbated by migration and political dissent. Underlying these human dynamics is continuous, widespread seismic activity, a tangible threat to physical infrastructure and supply chains. To navigate this complex landscape, GlobeGuard must immediately: 1) Aggressively enhance data intelligence capabilities and cybersecurity frameworks, integrating advanced AI to secure critical assets and exploit strategic informational advantages amidst an evolving digital threat landscape; 2) Conduct a swift and thorough review of critical supply chains, diversifying sourcing and logistics to build resilience against both physical hazards and potential socio-economic disruptions stemming from global instability and migration; and 3) Implement robust, geographically dispersed redundancy for vital physical and digital infrastructure, ensuring operational continuity and strategic agility in the face of environmental shocks, regulatory shifts, and emergent geopolitical pressures.",
+    "strategicPlan": "The global strategic environment is acutely challenged by escalating socio-economic distress, evidenced by widespread struggles for basic necessities and politically charged migration crises amplified by digital narratives. While select tech sectors, particularly AI and data analytics firms like Palantir, demonstrate robust financial growth, this stability is juxtaposed against increasing regulatory scrutiny on emerging technologies and infrastructure, alongside persistent geopolitical volatility. Compounding these dynamics, the consistent pattern of multiple >Mag 5 earthquakes globally signals a foundational layer of physical risk and instability. To secure assets and ensure physical safety, we direct the following actions: **First, rebalance investment portfolios, prioritizing resilient sectors and physical assets while cautiously leveraging strategic growth in AI and data, anticipating increasing regulatory oversight.** **Second, fortify digital infrastructure and enhance information vetting protocols to mitigate risks from evolving information warfare and AI-driven threats, especially given their impact on socio-political stability.** **Third, conduct an immediate review and bolster emergency preparedness plans for physical assets and personnel, particularly in seismically active regions, ensuring robust contingency for natural disasters.**",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $223.17 (1.91%)",
+            "title": "\ud83d\udcb0 NVDA: $223.44 (2.03%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.31 (0.61%)",
+            "title": "\ud83d\udcb0 AAPL: $312.29 (-0.04%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $503.67 (0.76%)",
+            "title": "\ud83d\udcb0 MSFT: $503.32 (0.69%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.07 (8.43%)",
+            "title": "\ud83d\udcb0 PLTR: $170.25 (9.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $276.89 (1.7%)",
+            "title": "\ud83d\udcb0 AMZN: $277.19 (1.81%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes reported worldwide!"
+    "seismicSummary": "M5+ earthquakes just struck Japan, Peru, China, and Russia!"
 }
