@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global strategic outlook is complex, marked by severe socio-economic strain impacting millions, alongside a dynamic and financially robust tech sector seeing significant investment in AI and data analytics, yet facing increasing regulatory scrutiny. Geopolitical stability remains precarious due to social media-fueled crises and political exiles, while persistent moderate seismic activity worldwide underscores ongoing physical vulnerabilities. To mitigate these interwoven risks, GlobeGuard directs immediate action: 1) Proactively assess and diversify critical assets, focusing on resilient tech investments while hedging against regulatory shifts impacting data and autonomous systems. 2) Enhance physical security protocols and emergency preparedness plans, particularly in regions susceptible to both social unrest and seismic events. 3) Monitor geopolitical flashpoints and social sentiment, leveraging intelligence to anticipate and counter disruptions driven by economic hardship or information warfare.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,8 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 6 km NNE of Xunchang, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivz"
+            "title": "\u26a0\ufe0f Mag 5.6 - 57 km WNW of Skwentna, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 49 km SE of Severo-Kuril\u2019sk, Russia",
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 158 km NNE of Darya Boyi, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj4f"
         }
     ],
-    "seismicSummary": "Breaking: Multiple earthquakes up to Magnitude 5.1 just struck in China, Russia, and the Pacific!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
