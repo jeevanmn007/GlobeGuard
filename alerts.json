@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a multifaceted threat landscape characterized by escalating socioeconomic stress, evident in widespread household financial struggles, which fuels geopolitical volatility through migrant crises and political dissidence. Simultaneously, the technology sector, particularly AI and data, shows robust growth and strategic military integration, yet faces increasing regulatory headwinds concerning infrastructure and ethical applications. This dynamic human and technological environment is underpinned by a consistent pattern of moderate global seismic activity, a constant reminder of inherent physical risks. Therefore, we must act decisively: *first, immediately review and diversify asset portfolios, with particular attention to market vulnerabilities arising from socioeconomic instability and evolving tech regulations*; *second, strengthen digital infrastructure and cybersecurity measures, given the accelerating strategic weaponization of data and AI*; and *third, update and rehearse comprehensive physical safety and emergency preparedness plans for personnel and key facilities, accounting for both geopolitical flashpoints and persistent natural disaster threats*.",
+    "strategicPlan": "The current global strategic outlook is complex, marked by severe socio-economic strain impacting millions, alongside a dynamic and financially robust tech sector seeing significant investment in AI and data analytics, yet facing increasing regulatory scrutiny. Geopolitical stability remains precarious due to social media-fueled crises and political exiles, while persistent moderate seismic activity worldwide underscores ongoing physical vulnerabilities. To mitigate these interwoven risks, GlobeGuard directs immediate action: 1) Proactively assess and diversify critical assets, focusing on resilient tech investments while hedging against regulatory shifts impacting data and autonomous systems. 2) Enhance physical security protocols and emergency preparedness plans, particularly in regions susceptible to both social unrest and seismic events. 3) Monitor geopolitical flashpoints and social sentiment, leveraging intelligence to anticipate and counter disruptions driven by economic hardship or information warfare.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 7 km NW of Cabacao, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb"
+            "title": "\u26a0\ufe0f Mag 4.8 - 158 km NNE of Darya Boyi, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - southern East Pacific Rise",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj4f"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.1, are occurring now!"
+    "seismicSummary": "Breaking: Multiple earthquakes up to Magnitude 5.1 just struck in China, Russia, and the Pacific!"
 }
