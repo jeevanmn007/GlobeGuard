@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex interplay of persistent economic friction evidenced by widespread household financial strain, juxtaposed with the robust performance of the technology sector, notably in AI and data analytics. Geopolitically, localized crises are amplified by social media, regulatory scrutiny on emerging technologies intensifies, and strategic military interests in AI are clear. Concurrently, a pattern of moderate yet geographically dispersed seismic activity across tectonically active regions underscores persistent natural hazard risks demanding vigilance for critical infrastructure and supply chain integrity. To secure assets and ensure physical safety, GlobeGuard directs its personnel to: proactively leverage opportunities within the resilient tech sector while diversifying investments to hedge against broader economic volatility and escalating cyber threats; rigorously review and reinforce emergency preparedness protocols for all critical assets and personnel, with a specific focus on seismic event readiness and communication redundancy; and closely monitor the evolving regulatory landscape concerning AI, data infrastructure, and geopolitical flashpoints to anticipate and mitigate potential operational disruptions.",
+    "strategicPlan": "The global environment presents a dynamic threat matrix, characterized by escalating socio-economic fragility impacting major economies, intensifying geopolitical pressures stemming from migration crises and political dissent, and a rapidly evolving technological landscape where AI and data innovation face increasing regulatory scrutiny and military adoption. This intricate situation is compounded by sustained, significant tectonic activity across vulnerable regions. To secure assets and ensure safety, GlobeGuard issues the following directive: First, immediately fortify financial and digital assets, strategically diversifying investments within resilient tech sectors while closely monitoring emerging regulatory headwinds on AI and data infrastructure. Second, enhance physical safety by updating emergency preparedness plans and kits, especially for personnel and operations located in seismically active zones or regions prone to socio-political instability. Third, review and secure critical supply chains and resource dependencies, preparing for potential disruptions driven by economic strain or geopolitical shifts and adapting to evolving regulatory environments for energy-intensive technologies.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 95 km SSW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70"
+            "title": "\u26a0\ufe0f Mag 4.8 - 54 km SW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just hit Alaska, Kermadec, and Russia!"
+    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.6 in Alaska, just reported worldwide!"
 }
