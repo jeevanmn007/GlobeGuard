@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is increasingly volatile, marked by significant geopolitical and economic stressors, including widespread struggles with essential costs and escalating social fragmentation, even as key technology sectors demonstrate robust growth, particularly in data intelligence and AI. This is compounded by a complex regulatory landscape for emerging technologies and persistent, moderate seismic activity across multiple regions. To secure assets and ensure physical safety, GlobeGuard advises immediately diversifying and strengthening personal financial resilience and essential supply chains, critically reviewing and hardening all digital infrastructure against advanced data-driven threats, and updating emergency preparedness protocols for physical disruptions.",
+    "strategicPlan": "The current global environment presents a complex threat matrix defined by escalating economic fragility and survival struggles across developed nations, juxtaposed with robust growth in data intelligence and AI sectors, as evidenced by Palantir's surge and military data initiatives. Geopolitical instability, fueled by migrant crises and political exiles, is increasingly amplified by digital platforms, while regulatory friction in AI and data infrastructure suggests emerging challenges. Underlying these trends, scattered moderate seismic activity persists globally. To navigate this landscape, GlobeGuard advises immediate action: **1) Diversify essential assets and fortify personal/organizational supply chain resilience** against economic and social volatility; **2) Intensify digital and informational security protocols** to counteract data weaponization and misinformation; and **3) Review and update physical emergency preparedness plans** for assets and personnel in seismically active regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes just occurred worldwide!"
+    "seismicSummary": "Several strong earthquakes, up to Mag 5.6, just hit worldwide!"
 }
