@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment presents a complex threat matrix defined by escalating economic fragility and survival struggles across developed nations, juxtaposed with robust growth in data intelligence and AI sectors, as evidenced by Palantir's surge and military data initiatives. Geopolitical instability, fueled by migrant crises and political exiles, is increasingly amplified by digital platforms, while regulatory friction in AI and data infrastructure suggests emerging challenges. Underlying these trends, scattered moderate seismic activity persists globally. To navigate this landscape, GlobeGuard advises immediate action: **1) Diversify essential assets and fortify personal/organizational supply chain resilience** against economic and social volatility; **2) Intensify digital and informational security protocols** to counteract data weaponization and misinformation; and **3) Review and update physical emergency preparedness plans** for assets and personnel in seismically active regions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 42 km E of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - southeast of Easter Island",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 54 km SW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
         }
     ],
-    "seismicSummary": "Several strong earthquakes, up to Mag 5.6, just hit worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
