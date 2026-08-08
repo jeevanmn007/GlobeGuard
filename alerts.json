@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence assessment indicates a critical convergence of factors: intensifying socio-economic fragility evidenced by widespread struggles for essentials, juxtaposed with a robust yet potentially volatile tech market surge, particularly in AI and data analytics, which is also facing nascent regulatory headwinds and military strategic interest; concurrently, a pattern of moderate seismic activity across multiple active zones underscores persistent physical vulnerabilities. To mitigate these risks and secure strategic advantage, we must immediately (1) conduct a thorough review of financial asset diversification, specifically evaluating exposure to the high-growth tech sector given its regulatory scrutiny and the current inflationary pressures impacting essential goods; (2) implement enhanced physical security and disaster preparedness protocols for all personnel and critical infrastructure, prioritizing locations within or near seismically active regions; and (3) strategically pivot to fortify cyber defenses and invest in ethical AI frameworks, leveraging the growing global emphasis on data-driven capabilities while mitigating associated privacy and regulatory risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 158 km NNE of Darya Boyi, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68"
+            "title": "\u26a0\ufe0f Mag 4.8 - 95 km SSW of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: Multiple M5+ earthquakes are striking worldwide!"
 }
