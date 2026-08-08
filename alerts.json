@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief indicates a dynamic environment characterized by escalating socio-economic fragility in key regions, evident in widespread struggles for essential goods, alongside persistent geopolitical strains from migration and political realignments. Financially, the tech sector, particularly AI and data analytics, exhibits strong growth, yet faces increasing regulatory scrutiny and potential headwinds. Tectonic activity, while present, remains moderate and geographically dispersed, posing no immediate widespread physical threat. To navigate this complex landscape, first, rebalance financial assets towards diversification beyond high-growth tech, actively monitoring regulatory shifts that could impact innovation sectors and supply chains. Second, strategically invest in AI integration for operational efficiency and competitive advantage, while simultaneously fortifying digital defenses and adhering to emerging ethical guidelines for AI development. Third, enhance local physical preparedness plans and diversify critical supply chain logistics to build resilience against regional socio-economic instability and potential, though currently low-impact, natural disruptions.",
+    "strategicPlan": "The current global strategic environment is a confluence of deepening domestic economic precarity in key regions, marked by widespread struggles to afford essentials, and escalating geopolitical tensions driven by migration and political dissent. Financially, significant market gains in advanced technology, particularly AI and data analytics, highlight a rapid pivot towards strategic digitalization and potential data weaponization, even as regulatory scrutiny on tech infrastructure intensifies. This dynamic human-driven landscape unfolds against persistent, moderate global seismic activity, a constant reminder of underlying physical vulnerabilities. To navigate this complex reality, GlobeGuard directs immediate action: first, fortify financial resilience by diversifying essential assets towards stability and growth sectors, mitigating economic volatility. Second, implement robust digital security protocols to safeguard all critical information and privacy against the escalating cyber threat landscape. Third, enhance preparedness for both localized socio-political disruptions and natural hazards, ensuring physical safety and seamless operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 49 km SE of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
+            "title": "\u26a0\ufe0f Mag 4.8 - 54 km SW of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Two M5.6 earthquakes, plus other M5s, just hit worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including two Mag 5.6s, just reported globally!"
 }
