@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by a critical dichotomy: persistent socio-economic fragility, evidenced by widespread struggles with essentials and regional political instability, contrasts sharply with robust growth in the tech sector, particularly AI and data analytics, as exemplified by significant gains in strategic tech stocks and increasing militarization of data. This is underpinned by a backdrop of sustained, moderate-to-strong global seismic activity across multiple key regions. To navigate this complex environment, secure your assets by diversifying investment portfolios to account for both market volatility and the burgeoning tech sector, fortify your digital infrastructure against escalating data security threats given the increased strategic value of information, and ensure physical safety by maintaining up-to-date emergency preparedness plans, especially if located in known seismic zones.",
+    "strategicPlan": "The global operational environment is increasingly volatile, marked by significant geopolitical and economic stressors, including widespread struggles with essential costs and escalating social fragmentation, even as key technology sectors demonstrate robust growth, particularly in data intelligence and AI. This is compounded by a complex regulatory landscape for emerging technologies and persistent, moderate seismic activity across multiple regions. To secure assets and ensure physical safety, GlobeGuard advises immediately diversifying and strengthening personal financial resilience and essential supply chains, critically reviewing and hardening all digital infrastructure against advanced data-driven threats, and updating emergency preparedness protocols for physical disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
         }
     ],
-    "seismicSummary": "URGENT: Multiple significant quakes up to Mag 5.6 reported globally!"
+    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes just occurred worldwide!"
 }
