@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a confluence of accelerating socio-economic distress, evidenced by widespread struggles for essentials and amplified geopolitical instability through migration crises and political dissent, even as the tech sector, particularly in AI and data analytics, exhibits robust financial growth. This human-driven complexity is undergirded by persistent and notable seismic activity across multiple tectonically active regions, signaling ongoing physical threats. To secure assets and ensure physical safety, immediately initiate a comprehensive review and diversification of both digital and traditional asset portfolios, leveraging insights from the resilient tech sector while safeguarding against broader economic volatility; fortify physical safety protocols and emergency preparedness, especially in areas prone to seismic events or social unrest; and maintain heightened vigilance over emerging geopolitical shifts and information integrity, given the increasing role of AI and data in national security and societal narratives.",
+    "strategicPlan": "The global environment presents a complex interplay of persistent economic friction evidenced by widespread household financial strain, juxtaposed with the robust performance of the technology sector, notably in AI and data analytics. Geopolitically, localized crises are amplified by social media, regulatory scrutiny on emerging technologies intensifies, and strategic military interests in AI are clear. Concurrently, a pattern of moderate yet geographically dispersed seismic activity across tectonically active regions underscores persistent natural hazard risks demanding vigilance for critical infrastructure and supply chain integrity. To secure assets and ensure physical safety, GlobeGuard directs its personnel to: proactively leverage opportunities within the resilient tech sector while diversifying investments to hedge against broader economic volatility and escalating cyber threats; rigorously review and reinforce emergency preparedness protocols for all critical assets and personnel, with a specific focus on seismic event readiness and communication redundancy; and closely monitor the evolving regulatory landscape concerning AI, data infrastructure, and geopolitical flashpoints to anticipate and mitigate potential operational disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just hit Alaska, Russia, and the Kermadec Islands!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just hit Alaska, Kermadec, and Russia!"
 }
