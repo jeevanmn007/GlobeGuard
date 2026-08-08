@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global strategic environment is a confluence of deepening domestic economic precarity in key regions, marked by widespread struggles to afford essentials, and escalating geopolitical tensions driven by migration and political dissent. Financially, significant market gains in advanced technology, particularly AI and data analytics, highlight a rapid pivot towards strategic digitalization and potential data weaponization, even as regulatory scrutiny on tech infrastructure intensifies. This dynamic human-driven landscape unfolds against persistent, moderate global seismic activity, a constant reminder of underlying physical vulnerabilities. To navigate this complex reality, GlobeGuard directs immediate action: first, fortify financial resilience by diversifying essential assets towards stability and growth sectors, mitigating economic volatility. Second, implement robust digital security protocols to safeguard all critical information and privacy against the escalating cyber threat landscape. Third, enhance preparedness for both localized socio-political disruptions and natural hazards, ensuring physical safety and seamless operational continuity.",
+    "strategicPlan": "The global strategic landscape is defined by a critical dichotomy: persistent socio-economic fragility, evidenced by widespread struggles with essentials and regional political instability, contrasts sharply with robust growth in the tech sector, particularly AI and data analytics, as exemplified by significant gains in strategic tech stocks and increasing militarization of data. This is underpinned by a backdrop of sustained, moderate-to-strong global seismic activity across multiple key regions. To navigate this complex environment, secure your assets by diversifying investment portfolios to account for both market volatility and the burgeoning tech sector, fortify your digital infrastructure against escalating data security threats given the increased strategic value of information, and ensure physical safety by maintaining up-to-date emergency preparedness plans, especially if located in known seismic zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including two Mag 5.6s, just reported globally!"
+    "seismicSummary": "URGENT: Multiple significant quakes up to Mag 5.6 reported globally!"
 }
