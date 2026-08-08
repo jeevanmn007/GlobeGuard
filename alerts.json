@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by a multi-faceted and intensifying risk profile, blending pervasive socio-economic fragility, rapid technological evolution, and persistent physical threats. Widespread struggles with essential living costs and politically charged migrant crises signal escalating societal pressures, while significant investments in data analytics and AI\u2014as evidenced by Palantir's robust performance\u2014coexist with emerging regulatory hurdles and ethical debates within the tech sector. Concurrently, a notable increase in significant seismic activity across diverse, tectonically active regions underscores the ongoing need for physical preparedness. To navigate this environment effectively, individuals and organizations must prioritize diversifying and stress-testing digital and financial asset portfolios against both economic shocks and cyber threats, while concurrently updating and exercising comprehensive emergency preparedness plans with a focus on seismic resilience for all physical assets. Furthermore, proactive monitoring of socio-political developments and information environments is crucial to anticipate and mitigate risks arising from civil unrest or regulatory shifts impacting operational stability.",
+    "strategicPlan": "The current global intelligence brief indicates a dynamic environment characterized by escalating socio-economic fragility in key regions, evident in widespread struggles for essential goods, alongside persistent geopolitical strains from migration and political realignments. Financially, the tech sector, particularly AI and data analytics, exhibits strong growth, yet faces increasing regulatory scrutiny and potential headwinds. Tectonic activity, while present, remains moderate and geographically dispersed, posing no immediate widespread physical threat. To navigate this complex landscape, first, rebalance financial assets towards diversification beyond high-growth tech, actively monitoring regulatory shifts that could impact innovation sectors and supply chains. Second, strategically invest in AI integration for operational efficiency and competitive advantage, while simultaneously fortifying digital defenses and adhering to emerging ethical guidelines for AI development. Third, enhance local physical preparedness plans and diversify critical supply chain logistics to build resilience against regional socio-economic instability and potential, though currently low-impact, natural disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - southeast of Easter Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 57 km WNW of Skwentna, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 49 km SE of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 54 km SW of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e"
         }
     ],
-    "seismicSummary": "**Alert: Multiple strong earthquakes, including a Mag 5.6 in Alaska, are reported across the Pacific region!**"
+    "seismicSummary": "\u26a0\ufe0f Two M5.6 earthquakes, plus other M5s, just hit worldwide!"
 }
