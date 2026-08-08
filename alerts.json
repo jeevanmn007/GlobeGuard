@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment presents a multifaceted threat landscape characterized by escalating socioeconomic stress, evident in widespread household financial struggles, which fuels geopolitical volatility through migrant crises and political dissidence. Simultaneously, the technology sector, particularly AI and data, shows robust growth and strategic military integration, yet faces increasing regulatory headwinds concerning infrastructure and ethical applications. This dynamic human and technological environment is underpinned by a consistent pattern of moderate global seismic activity, a constant reminder of inherent physical risks. Therefore, we must act decisively: *first, immediately review and diversify asset portfolios, with particular attention to market vulnerabilities arising from socioeconomic instability and evolving tech regulations*; *second, strengthen digital infrastructure and cybersecurity measures, given the accelerating strategic weaponization of data and AI*; and *third, update and rehearse comprehensive physical safety and emergency preparedness plans for personnel and key facilities, accounting for both geopolitical flashpoints and persistent natural disaster threats*.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj4f"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.1, are occurring now!"
 }
