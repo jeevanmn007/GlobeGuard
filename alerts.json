@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a dual reality: widespread economic distress is fueling social instability and political polarization across key nations, while the tech sector, particularly in AI and data analytics, exhibits robust growth and is rapidly becoming militarized, signaling a new era of technological competition and potential resource conflicts. This complex geopolitical and economic landscape is further complicated by persistent, moderate seismic activity in critical regions, introducing continuous physical risks to infrastructure and supply chains. To secure your assets and ensure physical safety, first, prioritize robust cybersecurity measures and data decentralization strategies to protect vital digital holdings against sophisticated state-sponsored or advanced cyber threats. Second, intensify monitoring of sociopolitical indicators in economically strained regions to anticipate potential market volatility, labor disruptions, and localized supply chain impacts. Third, reinforce physical infrastructure contingency plans and emergency protocols for personnel operating within seismically active zones to mitigate the ongoing threat of geological events.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 42 km E of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 197 km SSW of Pagar Alam, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 180 km NW of Sabang, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 68 km ESE of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes reported across Japan, Indonesia, and the Galapagos!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
