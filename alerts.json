@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of escalating socioeconomic distress and political instability, exacerbated by migration crises and information warfare, while the technology sector, especially AI and data analytics, experiences significant financial growth despite emerging regulatory challenges. This dynamic landscape is underscored by persistent and geographically diverse seismic activity, signalling an inherent physical vulnerability. Therefore, GlobeGuard directs you to: First, **strategically secure and diversify digital assets**, capitalizing on robust tech market performance, particularly in AI and data solutions, while simultaneously enhancing cybersecurity protocols in anticipation of increased data weaponization and regulatory oversight. Second, **bolster physical and resource resilience**, preparing for potential civil unrest stemming from socioeconomic strain and migration pressures, and maintaining immediate readiness for natural disasters given the sustained global seismic activity. Third, **prioritize critical information vetting and community cohesion**, actively countering social media-fueled political fragmentation and fostering local networks to withstand broader societal shocks.",
+    "strategicPlan": "GlobeGuard assesses a complex, dynamic risk landscape, where deepening economic disparities and social instability, exemplified by struggling households juxtaposed with luxury consumerism, converge with escalating geopolitical tensions amplified by migration crises and information warfare. Financially, a robust tech sector, particularly in AI and data analytics as indicated by significant gains in PLTR and NVDA, is driving innovation and capital allocation, even as regulatory scrutiny (e.g., NY data center moratorium) and ethical debates over AI's societal impact intensify. This entire strategic environment is underpinned by persistent moderate seismic activity across critical Pacific Ring of Fire zones, posing an enduring physical threat to infrastructure and supply chains. To secure assets and physical safety, you must re-evaluate investment strategies to capitalize on high-growth AI sectors while maintaining diversified portfolios against macroeconomic volatility, urgently fortify digital security protocols to counter state-sponsored and social media-driven disinformation campaigns, and ensure immediate readiness with updated emergency preparedness plans for all personnel and critical assets located in seismically active regions like Japan and Indonesia.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 197 km SSW of Pagar Alam, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - Galapagos Triple Junction region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 180 km NW of Sabang, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 68 km ESE of Atka, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
-    "seismicSummary": "Alert: Multiple significant earthquakes are striking worldwide now."
+    "seismicSummary": "Multiple M5+ earthquakes just hit Japan, Indonesia, and the Galapagos!"
 }
