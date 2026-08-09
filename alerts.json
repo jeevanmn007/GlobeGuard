@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a precarious confluence of threats: pervasive socioeconomic fragility, evidenced by widespread struggles for essentials and escalating migrant crises amplified by social media, is exacerbating geopolitical instability. Concurrently, the financial landscape sees robust, albeit regulatory-challenged, growth in the tech sector, especially AI (e.g., PLTR's significant gain), signaling both opportunity and risk. Underpinning these human pressures is persistent, moderate seismic activity across multiple key regions. To navigate this complex environment, GlobeGuard directs immediate action: **first**, audit and diversify critical financial and physical assets, scrutinizing the volatile AI market for both potential and regulatory headwinds; **second**, systematically review and enhance physical safety protocols and supply chain resilience, particularly against seismic events; and **third**, strengthen information and operational security to counter geopolitical influence and social media manipulation, ensuring secure decision-making in an increasingly complex world.",
+    "strategicPlan": "The global situation presents a volatile convergence of threats: widespread socio-economic strain, evident in Western households struggling and escalating migrant crises, generates geopolitical instability, while a rapid, competitive push for AI dominance drives significant tech sector gains but raises regulatory and ethical concerns. Concurrently, a heightened frequency of global seismic activity, including notable magnitudes in key regions like Japan and Indonesia, poses a clear physical threat. To navigate this complex environment, GlobeGuard directs immediate action: 1) Diversify and fortify both physical and digital asset security, including robust cybersecurity, against economic turbulence and rapid tech shifts. 2) Proactively review and stress-test global supply chain resilience, accounting for both socio-political disruptions and physical infrastructure vulnerabilities. 3) Implement enhanced natural disaster preparedness, focusing on earthquake protocols for personnel and critical infrastructure in all active regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
-    "seismicSummary": "**WARNING: Multiple strong earthquakes, including two M5.6s, are striking worldwide!**"
+    "seismicSummary": "**ALERT: Multiple strong earthquakes up to Mag 5.6 are striking worldwide!**"
 }
