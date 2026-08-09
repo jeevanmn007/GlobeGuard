@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical divergence: escalating social and economic fragility, evidenced by widespread household struggles and intensified migrant crises, juxtaposes against a robust, strategically vital tech sector driven by AI, which itself faces growing regulatory scrutiny. This complex geopolitical and financial landscape is further complicated by persistent, moderate seismic activity across multiple high-risk zones. To mitigate risks and secure interests, we must immediately re-evaluate asset allocation for resilience against socio-economic turbulence, diversifying beyond high-growth tech into defensive sectors and inflation-hedged assets. Concurrently, strengthen supply chain redundancy and update disaster preparedness protocols, especially for operations or personnel in seismically active regions. Finally, assess strategic exposure to evolving AI governance and data infrastructure regulations, identifying potential operational constraints or competitive advantages.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
         }
     ],
-    "seismicSummary": "Urgent: Four Mag 5+ earthquakes just struck multiple locations, including Indonesia, the Philippines, and the Galapagos!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
