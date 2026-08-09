@@ -69,12 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 57 km WNW of Skwentna, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 180 km NW of Sabang, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 68 km ESE of Atka, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
