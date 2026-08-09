@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a convergent threat profile: escalating social instability fueled by economic hardship and migration challenges, persistent moderate seismic activity across key regions including the Pacific Rim, and a volatile, AI-driven financial landscape characterized by both surging tech valuations and emerging regulatory friction. To secure assets and physical safety, immediately activate and update emergency protocols for civil unrest and seismic events, focusing on personnel safety and critical infrastructure protection; fortify digital asset and AI intellectual property defenses, while prudently diversifying financial investments given market concentration and regulatory uncertainties; and conduct granular regional risk assessments to bolster supply chain resilience and operational continuity against simultaneous geopolitical and geophysical shocks.",
+    "strategicPlan": "The current global intelligence picture reveals a convergent risk profile: intensifying socio-economic distress and migration-fueled political instability are juxtaposed with a rapid, concentrated surge in the AI and data analytics sector, reflected in strong tech stock performance and strategic military integration. This dynamic tech landscape, however, is underlaid by persistently elevated global seismic activity, with multiple significant quakes observed across critical regions. To navigate this complex environment, first, secure financial assets by hedging against potential social unrest and regulatory shifts impacting consumer markets, while strategically investing in diversified AI and data infrastructure, recognizing both its growth potential and emerging regulatory scrutiny. Second, fortify digital and intellectual property, given the accelerating AI race and the weaponization of data by state actors. Third, prioritize physical safety and resilience; update disaster preparedness plans, secure critical infrastructure, and establish clear communication protocols, particularly for operations in seismically active zones, to respond effectively to physical threats.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - southeast of Easter Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t"
+            "title": "\u26a0\ufe0f Mag 5.2 - Galapagos Triple Junction region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 180 km NW of Sabang, Indonesia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Global alert: Multiple strong earthquakes (up to Mag 5.6) just hit Japan, Easter Island, Indonesia, and Alaska!"
+    "seismicSummary": "Multiple moderate earthquakes (M4.9-5.6) just struck worldwide!"
 }
