@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical divergence: widespread socio-economic distress and political instability across key regions starkly contrast with an accelerating, high-stakes boom in the AI and data analytics sector. This profound economic disparity, coupled with a notable increase in global tectonic activity evidenced by multiple moderate-to-strong earthquakes in diverse active zones, creates a highly volatile and interdependent risk landscape. To navigate this converging threat profile, GlobeGuard issues the following directives: First, strategically reinforce financial resilience by selectively leveraging growth in the AI and data technology sectors while diversifying and hedging against broader market instabilities driven by socio-political unrest and potential regulatory impacts on digital infrastructure. Second, immediately enhance physical safety and operational continuity by updating emergency preparedness plans, securing critical assets against potential seismic events, and assessing supply chain vulnerabilities for essential resources. Third, prioritize robust digital asset protection and continuous intelligence gathering, recognizing the escalating strategic value and potential weaponization of data in this rapidly evolving, AI-driven global environment.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69"
+            "title": "\u26a0\ufe0f Mag 5 - 180 km NW of Sabang, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
         }
     ],
-    "seismicSummary": "URGENT: Multiple M5.0-5.6 earthquakes reported across Japan, Easter Island, and Alaska!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
