@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global situation is characterized by a potent confluence of geopolitical instability, dynamic financial shifts, and elevated physical threats. Geopolitically, widespread economic hardship is evident, with millions struggling for essentials alongside escalating migrant crises and political exiles, underscoring significant social fragility and potential unrest. Financially, while tech giants show steady growth, the significant surge in AI-centric companies like Palantir highlights a rapidly evolving, high-stakes technological race, prompting both investment opportunities and regulatory scrutiny, particularly concerning data infrastructure. This complex human-driven landscape is overlaid by an elevated physical threat, evidenced by multiple moderate-to-strong seismic events across major tectonic zones globally, indicating a heightened risk of natural disaster impacting critical infrastructure and supply chains. To navigate this environment, immediately: (1) Bolster economic resilience by diversifying assets away from overly concentrated tech speculation, while strategically considering long-term investments in essential services and defensive technologies; (2) Review and reinforce physical security and emergency preparedness protocols for seismic events, particularly for assets in vulnerable regions, ensuring robust contingency plans are in place; and (3) Heighten digital security and intelligence monitoring efforts around AI and data infrastructure, anticipating potential cyber-geopolitical escalations as nations and corporations vie for technological dominance.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple strong earthquakes (Mag 4.9-5.6) are striking globally, from Japan to Alaska!"
 }
