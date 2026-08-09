@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by increasing socio-economic volatility and widespread household financial distress, juxtaposed with an accelerating and financially robust AI and data infrastructure arms race, all undergirded by persistent, moderate tectonic activity in key Pacific Rim and equatorial regions. To navigate this complex environment, secure essential resources and diversify financial holdings to hedge against both broad economic downturns and potential tech sector volatility; proactively assess and fortify digital infrastructure against emerging AI-driven threats while strategically evaluating investment in data and AI technologies, recognizing both their growth potential and regulatory scrutiny; and enhance physical asset resilience and emergency preparedness protocols, especially in seismically active or supply-chain critical regions, to mitigate the impact of persistent geological instability.",
+    "strategicPlan": "The global environment presents a dual reality: widespread economic distress is fueling social instability and political polarization across key nations, while the tech sector, particularly in AI and data analytics, exhibits robust growth and is rapidly becoming militarized, signaling a new era of technological competition and potential resource conflicts. This complex geopolitical and economic landscape is further complicated by persistent, moderate seismic activity in critical regions, introducing continuous physical risks to infrastructure and supply chains. To secure your assets and ensure physical safety, first, prioritize robust cybersecurity measures and data decentralization strategies to protect vital digital holdings against sophisticated state-sponsored or advanced cyber threats. Second, intensify monitoring of sociopolitical indicators in economically strained regions to anticipate potential market volatility, labor disruptions, and localized supply chain impacts. Third, reinforce physical infrastructure contingency plans and emergency protocols for personnel operating within seismically active zones to mitigate the ongoing threat of geological events.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes, with magnitudes up to 5.6, are striking Japan, Indonesia, and the Galapagos!"
+    "seismicSummary": "Multiple M5+ earthquakes reported across Japan, Indonesia, and the Galapagos!"
 }
