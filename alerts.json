@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a convergent risk profile: intensifying socio-economic distress and migration-fueled political instability are juxtaposed with a rapid, concentrated surge in the AI and data analytics sector, reflected in strong tech stock performance and strategic military integration. This dynamic tech landscape, however, is underlaid by persistently elevated global seismic activity, with multiple significant quakes observed across critical regions. To navigate this complex environment, first, secure financial assets by hedging against potential social unrest and regulatory shifts impacting consumer markets, while strategically investing in diversified AI and data infrastructure, recognizing both its growth potential and emerging regulatory scrutiny. Second, fortify digital and intellectual property, given the accelerating AI race and the weaponization of data by state actors. Third, prioritize physical safety and resilience; update disaster preparedness plans, secure critical infrastructure, and establish clear communication protocols, particularly for operations in seismically active zones, to respond effectively to physical threats.",
+    "strategicPlan": "The global environment is currently defined by a confluence of escalating socioeconomic distress and political instability, exacerbated by migration crises and information warfare, while the technology sector, especially AI and data analytics, experiences significant financial growth despite emerging regulatory challenges. This dynamic landscape is underscored by persistent and geographically diverse seismic activity, signalling an inherent physical vulnerability. Therefore, GlobeGuard directs you to: First, **strategically secure and diversify digital assets**, capitalizing on robust tech market performance, particularly in AI and data solutions, while simultaneously enhancing cybersecurity protocols in anticipation of increased data weaponization and regulatory oversight. Second, **bolster physical and resource resilience**, preparing for potential civil unrest stemming from socioeconomic strain and migration pressures, and maintaining immediate readiness for natural disasters given the sustained global seismic activity. Third, **prioritize critical information vetting and community cohesion**, actively countering social media-fueled political fragmentation and fostering local networks to withstand broader societal shocks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
-    "seismicSummary": "Multiple moderate earthquakes (M4.9-5.6) just struck worldwide!"
+    "seismicSummary": "Alert: Multiple significant earthquakes are striking worldwide now."
 }
