@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a volatile convergence of threats: widespread socio-economic strain, evident in Western households struggling and escalating migrant crises, generates geopolitical instability, while a rapid, competitive push for AI dominance drives significant tech sector gains but raises regulatory and ethical concerns. Concurrently, a heightened frequency of global seismic activity, including notable magnitudes in key regions like Japan and Indonesia, poses a clear physical threat. To navigate this complex environment, GlobeGuard directs immediate action: 1) Diversify and fortify both physical and digital asset security, including robust cybersecurity, against economic turbulence and rapid tech shifts. 2) Proactively review and stress-test global supply chain resilience, accounting for both socio-political disruptions and physical infrastructure vulnerabilities. 3) Implement enhanced natural disaster preparedness, focusing on earthquake protocols for personnel and critical infrastructure in all active regions.",
+    "strategicPlan": "The global situation presents a convergent threat profile: escalating social instability fueled by economic hardship and migration challenges, persistent moderate seismic activity across key regions including the Pacific Rim, and a volatile, AI-driven financial landscape characterized by both surging tech valuations and emerging regulatory friction. To secure assets and physical safety, immediately activate and update emergency protocols for civil unrest and seismic events, focusing on personnel safety and critical infrastructure protection; fortify digital asset and AI intellectual property defenses, while prudently diversifying financial investments given market concentration and regulatory uncertainties; and conduct granular regional risk assessments to bolster supply chain resilience and operational continuity against simultaneous geopolitical and geophysical shocks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn"
         }
     ],
-    "seismicSummary": "**ALERT: Multiple strong earthquakes up to Mag 5.6 are striking worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Global alert: Multiple strong earthquakes (up to Mag 5.6) just hit Japan, Easter Island, Indonesia, and Alaska!"
 }
