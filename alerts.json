@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment presents a complex interplay of burgeoning technological advancement, profound socio-economic distress, and heightened physical vulnerabilities. Financially, the tech sector, particularly AI-driven enterprises like Palantir, continues its robust ascent, yet this economic strength coexists with alarming social fragility, epitomized by widespread struggles to afford essentials and escalating migration-fueled political tensions. Concurrently, the physical landscape demands immediate attention, underscored by a significant Magnitude 7.4 earthquake in Colombia and ongoing global seismic activity, signifying tangible and unpredictable threats. To secure assets and ensure safety, we must immediately prioritize an audit of all emergency preparedness protocols and physical infrastructure resilience, particularly in seismically active regions; strategically diversify financial portfolios beyond high-growth tech into more stable assets to hedge against deepening socio-economic instability, while still selectively capitalizing on critical AI innovations; and proactively develop adaptive strategies to both leverage AI's transformative potential and mitigate its ethical, resource-intensive, and geopolitical implications, including potential supply chain constraints from evolving data infrastructure regulations.",
+    "strategicPlan": "The global strategic posture is currently defined by a critical confluence of escalating socio-economic distress, manifested in widespread financial struggles and politically charged migration crises, overlaid by significant physical instability evidenced by a M7.4 earthquake in Colombia and other pronounced seismic activity. Financially, while key tech market players exhibit volatility, the overarching strategic pivot towards AI remains robust, driving substantial investment yet concurrently attracting regulatory scrutiny over resource demands like data center expansion. To navigate this intricate landscape, first, diversify and secure financial assets by strategically prioritizing investments in resilient sectors and core AI infrastructure, while hedging against broader market volatility. Second, immediately review and enhance disaster preparedness protocols, with a particular focus on seismic resilience for all physical assets and personnel, especially in vulnerable regions. Third, fortify operational continuity and intelligence streams against socio-economic unrest and AI-amplified information manipulation, safeguarding both physical presence and strategic narratives.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $223.96 (2.27%)",
+            "title": "\ud83d\udcb0 NVDA: $219.59 (-1.95%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.33 (0.29%)",
+            "title": "\ud83d\udcb0 AAPL: $306.7 (-2.12%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $499.99 (0.03%)",
+            "title": "\ud83d\udcb0 MSFT: $508.24 (1.65%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.01 (10.32%)",
+            "title": "\ud83d\udcb0 PLTR: $177.82 (3.38%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $274.48 (0.82%)",
+            "title": "\ud83d\udcb0 AMZN: $278.53 (1.47%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7.4 - 5 km E of San Jos\u00e9 del Palmar, Colombia",
+            "title": "\u26a0\ufe0f Mag 7.4 - 5 km S of San Jos\u00e9 del Palmar, Colombia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2"
         },
         {
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
+            "title": "\u26a0\ufe0f Mag 5 - 16 km W of San Jos\u00e9 del Palmar, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
         }
     ],
-    "seismicSummary": "Major 7.4 magnitude earthquake strikes Colombia, with several other M5+ quakes occurring globally!"
+    "seismicSummary": "URGENT: Major 7.4 earthquake in Colombia, with other strong quakes worldwide!"
 }
