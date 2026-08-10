@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is characterized by a concerning confluence of escalating geopolitical and socio-economic fragilities, underlined by widespread cost-of-living struggles and social media-amplified political storms, alongside a dynamic but uncertain AI-driven technological transformation. Financially, the tech sector exhibits mixed performance, with strategic gains in data-centric AI while others face headwinds. Critically, a major Mag 7.4 earthquake and subsequent M5 aftershock in Colombia signifies an acute and immediate physical threat, demanding heightened situational awareness for infrastructure and personnel in tectonically active regions. In response, prioritize the immediate review and reinforcement of physical safety protocols and emergency communication plans for all assets and personnel in seismically active zones; strategically diversify financial holdings to mitigate tech sector volatility and hedge against broader economic uncertainties, particularly around AI regulatory shifts; and bolster information security defenses and disinformation countermeasures, given the increasing weaponization of data and social media in geopolitical conflicts.",
+    "strategicPlan": "The global landscape is critically unstable, characterized by a potent confluence of escalating socioeconomic distress, dynamic yet contentious technological shifts, and an immediate, significant physical threat. Widespread household economic fragility, contrasting sharply with a burgeoning AI sector experiencing both rapid growth and increasing regulatory and ethical scrutiny, underscores profound societal and market disparities. Geopolitically, social media continues to amplify regional crises and political tensions, while certain tech giants see dips amidst broader market resilience. Most critically, a major Mag 7.4 earthquake in Colombia demands urgent attention, posing severe humanitarian and infrastructure risks. In response, GlobeGuard must immediately: 1. **Assess and prepare for the cascading effects of the Colombian seismic event**, prioritizing personnel safety, critical infrastructure integrity, and supply chain resilience across Latin America. 2. **Optimize financial liquidity and diversify asset exposure**, hedging against broad economic instability indicated by household struggles, while cautiously navigating the volatile yet strategically crucial tech sector. 3. **Strategically re-evaluate data center and AI investments**, acknowledging both their burgeoning military applications and increasing regulatory scrutiny on energy consumption and ethical implications.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.34 (-2.96%)",
+            "title": "\ud83d\udcb0 NVDA: $218.24 (-2.55%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $306.27 (-2.25%)",
+            "title": "\ud83d\udcb0 AAPL: $306.55 (-2.16%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $508.34 (1.67%)",
+            "title": "\ud83d\udcb0 MSFT: $506.2 (1.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $177.15 (2.99%)",
+            "title": "\ud83d\udcb0 PLTR: $176.83 (2.8%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $277.45 (1.08%)",
+            "title": "\ud83d\udcb0 AMZN: $276.9 (0.88%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjjj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 16 km W of San Jos\u00e9 del Palmar, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
+            "title": "\u26a0\ufe0f Mag 5.1 - 232 km SSW of Pagar Alam, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjqj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
+            "title": "\u26a0\ufe0f Mag 5 - 16 km W of San Jos\u00e9 del Palmar, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
         }
     ],
-    "seismicSummary": "**URGENT: A massive M7.4 earthquake just struck Colombia, with multiple strong quakes reported globally!**"
+    "seismicSummary": "Urgent: Mag 7.4 near San Jos\u00e9 del Palmar, Colombia!"
 }
