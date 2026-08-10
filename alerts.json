@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment presents a complex and increasingly volatile strategic landscape, marked by significant socio-economic strain across developed nations, persistent geopolitical flashpoints amplified by migration and digital narratives, and an ongoing pattern of elevated seismic activity globally, all set against a technologically dynamic, AI-driven financial market exhibiting both robust growth and emerging regulatory challenges. To effectively navigate this multifaceted threat matrix, GlobeGuard directs immediate action: 1) Strategically re-evaluate asset portfolios to capitalize on sustained growth in critical AI and data sectors, simultaneously diversifying away from or hedging against regions and industries most vulnerable to socio-economic instability; 2) Enhance digital and information security protocols to counter advanced cyber threats and disinformation campaigns, recognizing AI's escalating dual-use potential in both innovation and strategic weaponization; and 3) Implement robust, localized contingency plans for physical safety and operational continuity, ensuring preparedness for both natural hazards, including seismic events in active zones, and potential civic unrest in economically strained regions.",
+    "strategicPlan": "The global strategic environment presents a complex interplay of burgeoning technological advancement, profound socio-economic distress, and heightened physical vulnerabilities. Financially, the tech sector, particularly AI-driven enterprises like Palantir, continues its robust ascent, yet this economic strength coexists with alarming social fragility, epitomized by widespread struggles to afford essentials and escalating migration-fueled political tensions. Concurrently, the physical landscape demands immediate attention, underscored by a significant Magnitude 7.4 earthquake in Colombia and ongoing global seismic activity, signifying tangible and unpredictable threats. To secure assets and ensure safety, we must immediately prioritize an audit of all emergency preparedness protocols and physical infrastructure resilience, particularly in seismically active regions; strategically diversify financial portfolios beyond high-growth tech into more stable assets to hedge against deepening socio-economic instability, while still selectively capitalizing on critical AI innovations; and proactively develop adaptive strategies to both leverage AI's transformative potential and mitigate its ethical, resource-intensive, and geopolitical implications, including potential supply chain constraints from evolving data infrastructure regulations.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 7.4 - 5 km E of San Jos\u00e9 del Palmar, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - east central Pacific Ocean",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjjj"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Galapagos Triple Junction region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 206 km SE of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3"
+            "title": "\u26a0\ufe0f Mag 5 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking across the Pacific region right now!"
+    "seismicSummary": "Major 7.4 magnitude earthquake strikes Colombia, with several other M5+ quakes occurring globally!"
 }
