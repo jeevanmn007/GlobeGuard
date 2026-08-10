@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of escalating threats: widespread economic hardship is fueling social unrest and exacerbating migration crises, while the rapid, ethically complex advancement of AI redefines economic power and national security, evidenced by the \"weaponization\" of data. Concurrently, a significant physical threat is active, highlighted by a major 7.4 magnitude earthquake in Colombia and other considerable seismic events globally, posing immediate dangers to infrastructure and populations. Financial markets reflect this uncertainty with mixed tech sector performance, indicating volatility but also strategic opportunities within the evolving AI landscape. To navigate this intricate threat matrix, GlobeGuard must first prioritize the immediate review and enhancement of physical safety protocols and emergency preparedness, especially for personnel and assets in seismically active regions, ensuring robust supply chain resilience against potential disruptions. Second, re-evaluate and diversify financial portfolios, prioritizing assets resilient to economic shocks and geopolitical shifts, while cautiously exploring strategic investments in the AI sector with a keen eye on regulatory and ethical shifts. Finally, strengthen digital defenses and intelligence gathering capabilities to counter emerging information warfare tactics and cyber threats, given the intersection of social media-driven crises and state-level data utilization.",
+    "strategicPlan": "The global environment presents a complex and volatile risk matrix. Significant socio-economic instability, evidenced by widespread struggles for essentials and escalating migrant crises, is fueling geopolitical tensions, particularly in Europe and Latin America. Financially, while AI and cloud sectors see growth, major tech players exhibit a downturn, signaling market uncertainty amidst rising regulatory scrutiny on data infrastructure and the weaponization of AI by state actors. Concurrently, a severe M7.4 earthquake in Colombia highlights an immediate and critical physical threat, underscoring widespread vulnerabilities to natural disasters. In response, **first**, immediately assess and diversify digital financial holdings, reinforcing cybersecurity defenses against state and non-state actors exploiting data trends. **Second**, fortify physical asset security and review critical supply chain resilience in light of regional instabilities and the heightened risk of natural disasters. **Third**, implement robust personal and operational safety protocols, staying vigilant to socio-political unrest and preparing for localized disruptions stemming from economic hardship and migration pressures.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.35 (-2.06%)",
+            "title": "\ud83d\udcb0 NVDA: $217.55 (-2.86%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $307.31 (-1.92%)",
+            "title": "\ud83d\udcb0 AAPL: $308.26 (-1.62%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $505.57 (1.12%)",
+            "title": "\ud83d\udcb0 MSFT: $506.06 (1.21%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.98 (2.31%)",
+            "title": "\ud83d\udcb0 PLTR: $175.23 (1.87%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $277.05 (0.94%)",
+            "title": "\ud83d\udcb0 AMZN: $278.09 (1.32%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
         }
     ],
-    "seismicSummary": "URGENT: Major 7.4 earthquake in Colombia, plus several other strong quakes globally!"
+    "seismicSummary": "Massive 7.4 quake in Colombia, plus multiple other significant tremors reported!"
 }
