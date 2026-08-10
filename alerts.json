@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and volatile risk matrix. Significant socio-economic instability, evidenced by widespread struggles for essentials and escalating migrant crises, is fueling geopolitical tensions, particularly in Europe and Latin America. Financially, while AI and cloud sectors see growth, major tech players exhibit a downturn, signaling market uncertainty amidst rising regulatory scrutiny on data infrastructure and the weaponization of AI by state actors. Concurrently, a severe M7.4 earthquake in Colombia highlights an immediate and critical physical threat, underscoring widespread vulnerabilities to natural disasters. In response, **first**, immediately assess and diversify digital financial holdings, reinforcing cybersecurity defenses against state and non-state actors exploiting data trends. **Second**, fortify physical asset security and review critical supply chain resilience in light of regional instabilities and the heightened risk of natural disasters. **Third**, implement robust personal and operational safety protocols, staying vigilant to socio-political unrest and preparing for localized disruptions stemming from economic hardship and migration pressures.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
         }
     ],
-    "seismicSummary": "Massive 7.4 quake in Colombia, plus multiple other significant tremors reported!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
