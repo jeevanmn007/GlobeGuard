@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a volatile confluence of rising social instability, fueled by pervasive cost-of-living crises and exacerbated by complex migration dynamics, with a rapidly accelerating, AI-driven technological frontier evidenced by significant market gains and strategic military integration. This human-centric turbulence is underscored by persistent, albeit currently moderate, seismic activity in critical maritime and resource-rich regions. To navigate this landscape, GlobeGuard must immediately diversify economic exposure while enhancing localized social stability intelligence, aggressively fortify all digital infrastructure with advanced AI-driven cybersecurity, and conduct a rapid audit of physical asset and supply chain resilience, particularly for operations exposed to tectonic vulnerabilities.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 198 km SE of Sarangani, Philippines",
+            "title": "\u26a0\ufe0f Mag 5 - 206 km SE of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 180 km NW of Sabang, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl"
+            "title": "\u26a0\ufe0f Mag 4.9 - 88 km ENE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5+ quakes just struck Indonesia, Philippines, and the Galapagos!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
