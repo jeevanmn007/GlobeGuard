@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is critically unstable, characterized by a potent confluence of escalating socioeconomic distress, dynamic yet contentious technological shifts, and an immediate, significant physical threat. Widespread household economic fragility, contrasting sharply with a burgeoning AI sector experiencing both rapid growth and increasing regulatory and ethical scrutiny, underscores profound societal and market disparities. Geopolitically, social media continues to amplify regional crises and political tensions, while certain tech giants see dips amidst broader market resilience. Most critically, a major Mag 7.4 earthquake in Colombia demands urgent attention, posing severe humanitarian and infrastructure risks. In response, GlobeGuard must immediately: 1. **Assess and prepare for the cascading effects of the Colombian seismic event**, prioritizing personnel safety, critical infrastructure integrity, and supply chain resilience across Latin America. 2. **Optimize financial liquidity and diversify asset exposure**, hedging against broad economic instability indicated by household struggles, while cautiously navigating the volatile yet strategically crucial tech sector. 3. **Strategically re-evaluate data center and AI investments**, acknowledging both their burgeoning military applications and increasing regulatory scrutiny on energy consumption and ethical implications.",
+    "strategicPlan": "The global environment is currently defined by a confluence of escalating threats: widespread economic hardship is fueling social unrest and exacerbating migration crises, while the rapid, ethically complex advancement of AI redefines economic power and national security, evidenced by the \"weaponization\" of data. Concurrently, a significant physical threat is active, highlighted by a major 7.4 magnitude earthquake in Colombia and other considerable seismic events globally, posing immediate dangers to infrastructure and populations. Financial markets reflect this uncertainty with mixed tech sector performance, indicating volatility but also strategic opportunities within the evolving AI landscape. To navigate this intricate threat matrix, GlobeGuard must first prioritize the immediate review and enhancement of physical safety protocols and emergency preparedness, especially for personnel and assets in seismically active regions, ensuring robust supply chain resilience against potential disruptions. Second, re-evaluate and diversify financial portfolios, prioritizing assets resilient to economic shocks and geopolitical shifts, while cautiously exploring strategic investments in the AI sector with a keen eye on regulatory and ethical shifts. Finally, strengthen digital defenses and intelligence gathering capabilities to counter emerging information warfare tactics and cyber threats, given the intersection of social media-driven crises and state-level data utilization.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.24 (-2.55%)",
+            "title": "\ud83d\udcb0 NVDA: $219.35 (-2.06%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $306.55 (-2.16%)",
+            "title": "\ud83d\udcb0 AAPL: $307.31 (-1.92%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $506.2 (1.24%)",
+            "title": "\ud83d\udcb0 MSFT: $505.57 (1.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $176.83 (2.8%)",
+            "title": "\ud83d\udcb0 PLTR: $175.98 (2.31%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $276.9 (0.88%)",
+            "title": "\ud83d\udcb0 AMZN: $277.05 (0.94%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
         }
     ],
-    "seismicSummary": "Urgent: Mag 7.4 near San Jos\u00e9 del Palmar, Colombia!"
+    "seismicSummary": "URGENT: Major 7.4 earthquake in Colombia, plus several other strong quakes globally!"
 }
