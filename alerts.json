@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a nuanced dichotomy: robust financial market performance, particularly within the AI and tech sectors, stands in stark contrast to escalating societal fragility driven by widespread cost-of-living crises, intensifying migrant flows, and political realignments. Simultaneously, persistent moderate seismic activity across critical zones like the Pacific Ring of Fire and Indonesia underscores constant underlying physical threats. Given this intricate risk profile, we direct all personnel to (1) fortify personal financial resilience by diversifying assets and securing liquid emergency funds, acknowledging the widening economic disparities; (2) enhance digital and information security protocols, recognizing the increasing strategic value and potential weaponization of data and AI in shaping global narratives; and (3) review and update physical emergency preparedness plans, especially for locations within or connected to seismically active regions, to mitigate the impact of natural hazards.",
+    "strategicPlan": "The global operating environment presents a complex and increasingly volatile strategic landscape, marked by significant socio-economic strain across developed nations, persistent geopolitical flashpoints amplified by migration and digital narratives, and an ongoing pattern of elevated seismic activity globally, all set against a technologically dynamic, AI-driven financial market exhibiting both robust growth and emerging regulatory challenges. To effectively navigate this multifaceted threat matrix, GlobeGuard directs immediate action: 1) Strategically re-evaluate asset portfolios to capitalize on sustained growth in critical AI and data sectors, simultaneously diversifying away from or hedging against regions and industries most vulnerable to socio-economic instability; 2) Enhance digital and information security protocols to counter advanced cyber threats and disinformation campaigns, recognizing AI's escalating dual-use potential in both innovation and strategic weaponization; and 3) Implement robust, localized contingency plans for physical safety and operational continuity, ensuring preparedness for both natural hazards, including seismic events in active zones, and potential civic unrest in economically strained regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes rocking the Pacific Rim!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking across the Pacific region right now!"
 }
