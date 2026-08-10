@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critical convergence of threats: widespread socio-economic fragility, evidenced by millions struggling with essentials and escalating migrant crises amplified by social media, is set against a dynamic yet volatile tech market grappling with AI's disruptive economic and military implications, alongside significant regulatory interventions. This complex geopolitical and financial environment is compounded by immediate physical danger from a major Magnitude 7.4 earthquake in Colombia and generally heightened global seismic activity. To secure your assets and physical safety, first, immediately review and update your emergency preparedness protocols for seismic events, securing physical infrastructure and ensuring vital supplies are readily accessible, especially if located in vulnerable regions. Second, strategically diversify your financial portfolios to mitigate risks from market volatility and AI-driven economic shifts, while closely monitoring regulatory developments impacting tech investments and data center infrastructure. Third, bolster your personal and organizational security posture by enhancing intelligence gathering on social instability indicators and fortifying digital defenses against sophisticated cyber threats, acknowledging the increasing weaponization of data in both state and non-state contexts.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Major 7.4 earthquake hits San Jos\u00e9 del Palmar, Colombia!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
