@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape presents a complex confluence of escalating challenges across geopolitical, financial, and physical domains. Widespread social and economic distress, evidenced by millions struggling for essentials and escalating migration crises, signals underlying instability, further complicated by the rapid, yet increasingly regulated, evolution of AI technology and its military applications. Financially, a distinct downward trend in major tech stocks indicates broader market caution. Concurrently, a concerning uptick in M5.0+ seismic activity across the critical Indo-Pacific region poses tangible risks to infrastructure and supply chains. To navigate this complex environment, GlobeGuard directs immediate action: first, diversify and fortify financial assets by re-evaluating exposure to tech market volatility and increasing liquidity; second, implement robust emergency preparedness and infrastructure resilience measures, especially for physical assets and personnel in seismically active zones; and third, enhance strategic intelligence on social stability indicators and evolving AI regulations to proactively mitigate geopolitical and resource-related ripple effects.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple Mag 5 earthquakes hitting Indonesia, Papua New Guinea, and India!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
