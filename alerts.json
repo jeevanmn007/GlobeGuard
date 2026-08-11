@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely volatile, marked by a significant 7.4 magnitude earthquake in Colombia indicating substantial tectonic instability, which immediately elevates humanitarian and infrastructure risks across seismically active zones. This physical threat converges with widespread socio-economic distress, evidenced by millions struggling with basic necessities and amplified geopolitical tensions stemming from migration crises fueled by social media, collectively signaling potential for increased civil unrest and regional instability. Financially, while key tech stocks show mixed performance, a backdrop of rapid AI advancement \u2013 including its militarization and evolving regulatory constraints on data infrastructure \u2013 suggests an increasingly complex digital domain with systemic vulnerabilities and opportunities. To navigate this confluence of threats, we must act decisively: First, immediately assess and reinforce physical asset resilience against seismic activity and ensure comprehensive emergency preparedness across all operational areas. Second, re-evaluate financial portfolios for diversified resilience against both market volatility and the macro-economic strain impacting global consumer behavior and supply chains. Third, enhance intelligence gathering on AI developments and strengthen digital security protocols, specifically monitoring for information manipulation campaigns and securing critical data infrastructure against state and non-state actors weaponizing information.",
+    "strategicPlan": "The global intelligence landscape reveals a compounded threat picture: deep economic hardship is impacting essential household survival across developed nations, while geopolitical tensions are rising due to migration crises and political dissent, often exacerbated by social media. This occurs amidst a transformative AI-driven technological shift, creating both massive economic opportunities and significant data security vulnerabilities, as mirrored by the mixed performance in leading tech stocks. Underlying these human-driven dynamics, moderate but persistent seismic activity continues across geologically active zones in the Indo-Pacific and Middle East. In response, GlobeGuard mandates three urgent directives: First, **fortify financial resilience** by stress-testing budgets against rising costs and diversifying investment portfolios to mitigate concentrated tech sector risks. Second, **elevate data and operational security** by enhancing cybersecurity protocols and closely monitoring geopolitical flashpoints for potential supply chain disruptions or resource access threats, especially with the \"weaponization\" of AI. Third, **reinforce physical safety measures** through robust asset security and updated emergency preparedness plans, particularly for personnel and operations in seismically active regions or areas susceptible to social unrest.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7.4 - 5 km S of San Jos\u00e9 del Palmar, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 232 km SSW of Pagar Alam, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjqj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 16 km W of San Jos\u00e9 del Palmar, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
+            "title": "\u26a0\ufe0f Mag 4.7 - 81 km SSE of Bengkulu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
+            "title": "\u26a0\ufe0f Mag 4.7 - 55 km NW of Shahrak-e K\u016bl\u016br\u012b, Iran",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjmt"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.6 - Banda Sea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjx1"
         }
     ],
-    "seismicSummary": "**A powerful 7.4 magnitude earthquake just struck near San Jos\u00e9 del Palmar, Colombia, with multiple other significant quakes reported globally!**"
+    "seismicSummary": "Multiple earthquakes, up to Mag 5.1, have struck Indonesia and Iran!"
 }
