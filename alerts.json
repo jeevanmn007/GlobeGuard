@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a compounded threat picture: deep economic hardship is impacting essential household survival across developed nations, while geopolitical tensions are rising due to migration crises and political dissent, often exacerbated by social media. This occurs amidst a transformative AI-driven technological shift, creating both massive economic opportunities and significant data security vulnerabilities, as mirrored by the mixed performance in leading tech stocks. Underlying these human-driven dynamics, moderate but persistent seismic activity continues across geologically active zones in the Indo-Pacific and Middle East. In response, GlobeGuard mandates three urgent directives: First, **fortify financial resilience** by stress-testing budgets against rising costs and diversifying investment portfolios to mitigate concentrated tech sector risks. Second, **elevate data and operational security** by enhancing cybersecurity protocols and closely monitoring geopolitical flashpoints for potential supply chain disruptions or resource access threats, especially with the \"weaponization\" of AI. Third, **reinforce physical safety measures** through robust asset security and updated emergency preparedness plans, particularly for personnel and operations in seismically active regions or areas susceptible to social unrest.",
+    "strategicPlan": "The global landscape presents a complex threat matrix characterized by intensifying socio-economic distress, evident in widespread struggles for essentials and politically charged migration crises, which are further amplified by social media and indicate growing instability. Financially, while key AI and defense tech leaders like NVIDIA and Palantir show gains, broader market leaders exhibit a slight downturn, reflecting a cautious investor sentiment amidst the accelerating integration of AI into both commerce and military strategy, alongside emerging regulatory scrutiny on data infrastructure. Concurrently, a persistent cluster of moderate seismic activity across Indonesia underscores continuous physical environmental risks in a geostrategically vital region. To secure assets and physical safety in this volatile environment, GlobeGuard directs you to: **first, immediately review and diversify your asset portfolio, prioritizing liquidity and tangible holdings while enhancing physical security protocols for critical infrastructure and personal safety, especially within seismically active zones.** **Second, heighten vigilance on geopolitical flashpoints and societal unrest, particularly in areas experiencing significant economic strain or migrant crises, as social media continues to amplify these dynamics into potential instability.** **Third, strategically engage with the rapidly evolving AI ecosystem, focusing investments on resilient and ethically compliant ventures, and proactively developing contingency plans for both advanced cyber threats and the broader societal impacts of AI technologies.**",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.55 (-2.86%)",
+            "title": "\ud83d\udcb0 NVDA: $219.64 (0.96%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $308.26 (-1.53%)",
+            "title": "\ud83d\udcb0 AAPL: $306.36 (-0.62%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $506.06 (1.21%)",
+            "title": "\ud83d\udcb0 MSFT: $502.74 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.23 (1.87%)",
+            "title": "\ud83d\udcb0 PLTR: $176.05 (0.47%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $278.09 (1.32%)",
+            "title": "\ud83d\udcb0 AMZN: $274.27 (-1.38%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjqj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 81 km SSE of Bengkulu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
+            "title": "\u26a0\ufe0f Mag 4.8 - Pulau Pulau Tanimbar, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 55 km NW of Shahrak-e K\u016bl\u016br\u012b, Iran",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjmt"
+            "title": "\u26a0\ufe0f Mag 4.7 - 81 km SSE of Bengkulu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.6 - Banda Sea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjx1"
         }
     ],
-    "seismicSummary": "Multiple earthquakes, up to Mag 5.1, have struck Indonesia and Iran!"
+    "seismicSummary": "Multiple M4.6-M5.1 earthquakes are striking across Indonesia!"
 }
