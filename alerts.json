@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - east central Pacific Ocean",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjjj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 232 km SSW of Pagar Alam, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjqj"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 16 km W of San Jos\u00e9 del Palmar, Colombia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
