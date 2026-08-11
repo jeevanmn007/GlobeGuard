@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex threat matrix characterized by intensifying socio-economic distress, evident in widespread struggles for essentials and politically charged migration crises, which are further amplified by social media and indicate growing instability. Financially, while key AI and defense tech leaders like NVIDIA and Palantir show gains, broader market leaders exhibit a slight downturn, reflecting a cautious investor sentiment amidst the accelerating integration of AI into both commerce and military strategy, alongside emerging regulatory scrutiny on data infrastructure. Concurrently, a persistent cluster of moderate seismic activity across Indonesia underscores continuous physical environmental risks in a geostrategically vital region. To secure assets and physical safety in this volatile environment, GlobeGuard directs you to: **first, immediately review and diversify your asset portfolio, prioritizing liquidity and tangible holdings while enhancing physical security protocols for critical infrastructure and personal safety, especially within seismically active zones.** **Second, heighten vigilance on geopolitical flashpoints and societal unrest, particularly in areas experiencing significant economic strain or migrant crises, as social media continues to amplify these dynamics into potential instability.** **Third, strategically engage with the rapidly evolving AI ecosystem, focusing investments on resilient and ethically compliant ventures, and proactively developing contingency plans for both advanced cyber threats and the broader societal impacts of AI technologies.**",
+    "strategicPlan": "Our intelligence indicates a critical convergence of escalating socio-economic instability, marked by widespread struggles for essentials and volatile migrant crises, with a mixed financial landscape where tech sector performance is uneven amid both AI opportunity and regulatory headwinds. Concurrently, persistent moderate seismic activity across the Indonesian archipelago signals ongoing physical risks in a strategically vital region. To mitigate these multifaceted threats, GlobeGuard advises: first, immediately review and diversify financial holdings, prioritizing resilience against both market volatility and potential social unrest-driven supply chain disruptions; second, reinforce comprehensive emergency preparedness plans for all personnel and physical assets, especially those in or linked to seismically active zones; and third, bolster digital security and information integrity protocols, anticipating increased data weaponization and cyber-social influence operations that could further destabilize operations or public perception.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.64 (0.96%)",
+            "title": "\ud83d\udcb0 NVDA: $217.65 (0.05%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $306.36 (-0.62%)",
+            "title": "\ud83d\udcb0 AAPL: $306.12 (-0.69%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $502.74 (-0.66%)",
+            "title": "\ud83d\udcb0 MSFT: $502.12 (-0.78%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $176.05 (0.47%)",
+            "title": "\ud83d\udcb0 PLTR: $175.54 (0.18%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $274.27 (-1.38%)",
+            "title": "\ud83d\udcb0 AMZN: $271.81 (-2.26%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjx1"
         }
     ],
-    "seismicSummary": "Multiple M4.6-M5.1 earthquakes are striking across Indonesia!"
+    "seismicSummary": "Indonesia hit by multiple M4.6-5.1 earthquakes!"
 }
