@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals an urgent convergence of critical threats: a major Magnitude 7.4 earthquake in Colombia necessitates immediate assessment of physical and humanitarian impact, while widespread socio-economic strain across developed nations and escalating migrant crises portend increased social instability and geopolitical friction. Simultaneously, financial markets exhibit mixed performance against a backdrop of rapid AI advancement, which, despite offering strategic opportunities, faces emerging regulatory and infrastructural challenges such as data center moratoriums. In response, GlobeGuard must immediately prioritize enhanced physical and operational resilience, especially for assets and personnel in seismically active and socio-politically volatile regions; strategically diversify asset portfolios to hedge against economic uncertainties and geopolitical shocks; and fortify digital and data infrastructure against sophisticated cyber threats, recognizing the critical role of AI and data sovereignty in this evolving global landscape.",
+    "strategicPlan": "The global operational environment is critically unstable, marked by escalating socioeconomic distress and migration pressures amplifying geopolitical tensions. While the tech sector navigates mixed financial performance amidst rapid AI advancement and emergent regulatory challenges, significant seismic activity, highlighted by a 7.4 magnitude earthquake in Colombia, presents an immediate and substantial physical threat across multiple regions. To proactively secure assets and ensure physical safety, GlobeGuard directs all personnel to immediately reinforce emergency preparedness and structural integrity protocols, particularly if operating in seismically active zones; diversify financial portfolios and bolster cybersecurity measures to counter market volatility and evolving digital threats; and conduct an urgent audit of critical supply chains for resilience against both natural disasters and escalating geopolitical disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
         }
     ],
-    "seismicSummary": "**Major 7.4 earthquake strikes Colombia, with several other 5+ magnitude quakes reported globally!**"
+    "seismicSummary": "**URGENT: A major 7.4 magnitude earthquake just struck San Jos\u00e9 del Palmar, Colombia, with multiple 5.x magnitude tremors also reported globally.**"
 }
