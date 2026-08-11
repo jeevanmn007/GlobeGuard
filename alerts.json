@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a multifaceted threat profile, marked by significant societal strain with 7.4 million households struggling and escalating political instability fueled by migration and social media, as evidenced by events in Spain and Cuba. Financially, major tech stocks are experiencing a downturn, signaling a cautious market despite intense strategic focus and investment in AI, tempered by emerging regulatory friction like New York's data center moratorium. Underlying these human-centric pressures, persistent moderate seismic activity across key regions, including the Pacific Ring of Fire and Eastern Europe, underscores an ever-present physical threat.\n\nTo navigate this environment, GlobeGuard advises three immediate actions: first, reassess and diversify financial portfolios, prioritizing liquidity and defensive assets given the current market caution and widespread economic hardship; second, bolster physical security and emergency preparedness protocols for personnel and critical infrastructure, particularly in seismically active zones identified by recent tremors; and third, enhance intelligence gathering on social media-driven political narratives and invest in robust cyber-physical security measures to mitigate risks from disinformation and state-sponsored data weaponization initiatives.",
+    "strategicPlan": "The global intelligence assessment reveals a complex and challenging environment characterized by escalating socio-economic strain, evident in widespread household financial struggles and amplified by migratory pressures and political dissidence, indicating potential for increased social unrest and geopolitical friction. Financially, major tech stocks show minor corrections, suggesting a cautious market sentiment amidst a burgeoning AI sector grappling with both philanthropic impulses and significant regulatory headwinds, such as the New York data center moratorium. Concurrently, persistent moderate seismic activity along the Pacific Ring of Fire underscores ongoing physical vulnerabilities that demand constant vigilance. To navigate these interconnected threats effectively, we must: 1. Immediately review and diversify investment portfolios to enhance economic resilience against market volatility and geopolitical shocks. 2. Proactively assess and adapt to emerging regulatory constraints and resource demands impacting data infrastructure and AI development, identifying potential operational reconfigurations. 3. Reinforce physical safety protocols and supply chain resilience, particularly for assets and operations located in or reliant on tectonically active regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.34 (-0.1%)",
+            "title": "\ud83d\udcb0 NVDA: $217.5 (-0.02%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $304.61 (-1.19%)",
+            "title": "\ud83d\udcb0 AAPL: $304.91 (-1.09%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $503.04 (-0.6%)",
+            "title": "\ud83d\udcb0 MSFT: $503.81 (-0.44%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.56 (0.19%)",
+            "title": "\ud83d\udcb0 PLTR: $174.94 (-0.17%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.83 (-1.89%)",
+            "title": "\ud83d\udcb0 AMZN: $272.27 (-2.09%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 51 km E of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 89 km ESE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk29"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 107 km WNW of Kerema, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0a"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - Pulau Pulau Tanimbar, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 81 km SSE of Bengkulu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - 7 km W of Lunca Jari\u0219tei, Romania",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0c"
+            "title": "\u26a0\ufe0f Mag 4.9 - 149 km SSE of Port Blair, India",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 5, are impacting regions from Indonesia to Romania!"
+    "seismicSummary": "**WARNING:** Multiple magnitude 5 earthquakes just struck the Indo-Pacific region!"
 }
