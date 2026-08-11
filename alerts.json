@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our intelligence indicates a critical convergence of escalating socio-economic instability, marked by widespread struggles for essentials and volatile migrant crises, with a mixed financial landscape where tech sector performance is uneven amid both AI opportunity and regulatory headwinds. Concurrently, persistent moderate seismic activity across the Indonesian archipelago signals ongoing physical risks in a strategically vital region. To mitigate these multifaceted threats, GlobeGuard advises: first, immediately review and diversify financial holdings, prioritizing resilience against both market volatility and potential social unrest-driven supply chain disruptions; second, reinforce comprehensive emergency preparedness plans for all personnel and physical assets, especially those in or linked to seismically active zones; and third, bolster digital security and information integrity protocols, anticipating increased data weaponization and cyber-social influence operations that could further destabilize operations or public perception.",
+    "strategicPlan": "The global landscape presents a multifaceted threat profile, marked by significant societal strain with 7.4 million households struggling and escalating political instability fueled by migration and social media, as evidenced by events in Spain and Cuba. Financially, major tech stocks are experiencing a downturn, signaling a cautious market despite intense strategic focus and investment in AI, tempered by emerging regulatory friction like New York's data center moratorium. Underlying these human-centric pressures, persistent moderate seismic activity across key regions, including the Pacific Ring of Fire and Eastern Europe, underscores an ever-present physical threat.\n\nTo navigate this environment, GlobeGuard advises three immediate actions: first, reassess and diversify financial portfolios, prioritizing liquidity and defensive assets given the current market caution and widespread economic hardship; second, bolster physical security and emergency preparedness protocols for personnel and critical infrastructure, particularly in seismically active zones identified by recent tremors; and third, enhance intelligence gathering on social media-driven political narratives and invest in robust cyber-physical security measures to mitigate risks from disinformation and state-sponsored data weaponization initiatives.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.65 (0.05%)",
+            "title": "\ud83d\udcb0 NVDA: $217.34 (-0.1%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $306.12 (-0.69%)",
+            "title": "\ud83d\udcb0 AAPL: $304.61 (-1.19%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $502.12 (-0.78%)",
+            "title": "\ud83d\udcb0 MSFT: $503.04 (-0.6%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.54 (0.18%)",
+            "title": "\ud83d\udcb0 PLTR: $175.56 (0.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $271.81 (-2.26%)",
+            "title": "\ud83d\udcb0 AMZN: $272.83 (-1.89%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 232 km SSW of Pagar Alam, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjqj"
+            "title": "\u26a0\ufe0f Mag 5 - 107 km WNW of Kerema, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0a"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - Pulau Pulau Tanimbar, Indonesia",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjug"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.6 - Banda Sea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjx1"
+            "title": "\u26a0\ufe0f Mag 4.6 - 7 km W of Lunca Jari\u0219tei, Romania",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0c"
         }
     ],
-    "seismicSummary": "Indonesia hit by multiple M4.6-5.1 earthquakes!"
+    "seismicSummary": "Multiple strong earthquakes, including a Mag 5, are impacting regions from Indonesia to Romania!"
 }
