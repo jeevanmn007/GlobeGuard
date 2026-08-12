@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses the current global landscape as one of systemic, interconnected vulnerabilities, rather than immediate high-level kinetic threats, necessitating proactive strategic positioning. Geopolitically, internal social and economic fragilities, exemplified by widespread struggles with essential costs and escalating migrant crises, are converging with an accelerating AI arms race as state actors militarize data. Financially, major tech stocks are experiencing a consistent, albeit moderate, downturn, signaling market recalibration. Concurrently, persistent moderate seismic activity globally serves as a constant physical reminder of inherent environmental risks. To navigate this complex environment, secure critical assets by diversifying financial portfolios away from concentrated tech holdings; enhance resilience against social instability by closely monitoring humanitarian crises and geopolitical flashpoints; and rigorously update physical safety protocols and disaster preparedness plans to account for ongoing seismic and environmental volatilities.",
+    "strategicPlan": "The global environment currently presents a multi-faceted threat landscape characterized by escalating socio-economic fragility and political unrest, fueled by widespread struggles for essentials and migrant crises, set against a backdrop of rapid, transformative, and largely unregulated AI development that is reshaping financial markets and defense strategies. Concurrently, financial markets exhibit significant volatility, with a notable divergence in tech sector performance, while persistent, elevated global seismic activity underscores a fundamental physical unpredictability. Therefore, you must immediately: 1. Diversify and secure financial assets, particularly those tied to volatile tech sectors, to hedge against economic shifts and potential instability; 2. Strengthen all digital and information security protocols to protect against evolving threats of manipulation and exploitation in an increasingly data-driven and socially volatile world; and 3. Reinforce comprehensive physical preparedness plans, including emergency supplies and communication strategies, to mitigate risks from both escalating natural phenomena and potential man-made disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.5 (-0.02%)",
+            "title": "\ud83d\udcb0 NVDA: $224.29 (3.12%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $304.91 (-1.09%)",
+            "title": "\ud83d\udcb0 AAPL: $302.62 (-0.75%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $503.81 (-0.44%)",
+            "title": "\ud83d\udcb0 MSFT: $494.24 (-1.9%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.94 (-0.17%)",
+            "title": "\ud83d\udcb0 PLTR: $169.24 (-3.26%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $272.27 (-2.09%)",
+            "title": "\ud83d\udcb0 AMZN: $269.27 (-1.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk74"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 42 km ESE of Naalehu, Hawaii",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 51 km E of Tobelo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 66 km E of Chayek, Kyrgyzstan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
         }
     ],
-    "seismicSummary": "Four magnitude 5+ earthquakes just hit worldwide!"
+    "seismicSummary": "A Mag 6 and multiple Mag 5+ earthquakes are active globally!"
 }
