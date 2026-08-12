@@ -1,14 +1,10 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape presents a complex interplay of systemic vulnerabilities: widespread economic hardship is evident, fostering potential social instability, while major tech stocks exhibit a downward trend, save for specific AI beneficiaries, signaling market volatility and an ongoing technological power shift. Geopolitically, migration crises and state-level control persist, juxtaposed with the rapid, often unchecked, militarization and societal integration of AI technologies. Concurrently, a cluster of significant seismic events globally underscores an elevated physical risk profile. To secure your assets and physical safety, first, fortify financial holdings through strategic diversification and ensure adequate liquidity to navigate ongoing market volatility and potential economic downturns; second, strengthen digital defenses and critically evaluate information streams, given the accelerating weaponization of data and AI's capacity for manipulation, safeguarding both intellectual assets and personal security; and third, conduct an immediate review of emergency protocols, supply caches, and communication plans, recognizing heightened global seismic activity and general systemic fragility as indicators for physical preparedness.",
+    "strategicPlan": "The global situation is characterized by converging vulnerabilities: widespread economic distress and sociopolitical polarization are exacerbating internal and cross-border tensions, while a significant correction ripples through the broader tech market, only partially offset by the robust growth and strategic militarization of the AI sector. Concurrently, a discernible increase in moderate-to-strong seismic activity across multiple active fault lines points to an elevated baseline of physical instability. To secure assets and ensure safety, immediately reassess and diversify digital asset portfolios, prioritizing enhanced cybersecurity defenses against advanced threats; conduct urgent structural integrity checks on all critical physical assets in at-risk zones and refresh emergency preparedness protocols; and monitor emerging social unrest and political instability in vulnerable regions, stress-testing critical supply chains and establishing contingency plans for personnel and operations.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
             "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o"
-        },
-        {
-            "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
-            "link": "https://www.wired.com/story/gourmet-dog-food/"
         },
         {
             "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
@@ -17,27 +13,31 @@
         {
             "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
             "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
+        },
+        {
+            "title": "Big Bear bald eagle Jackie in critical condition as tests continue",
+            "link": "https://www.usatoday.com/story/news/state/california/2026/07/22/jackie-bald-eagle-critical-condition-latest-update/91016328007/"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.0 (2.99%)",
+            "title": "\ud83d\udcb0 NVDA: $223.7 (2.85%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.07 (-0.93%)",
+            "title": "\ud83d\udcb0 AAPL: $301.29 (-1.19%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $494.07 (-1.93%)",
+            "title": "\ud83d\udcb0 MSFT: $493.28 (-2.09%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.77 (-1.81%)",
+            "title": "\ud83d\udcb0 PLTR: $171.33 (-2.23%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $269.19 (-1.13%)",
+            "title": "\ud83d\udcb0 AMZN: $268.89 (-1.24%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
         }
     ],
-    "seismicSummary": "Four strong earthquakes, including a Mag 6, have struck diverse locations worldwide!"
+    "seismicSummary": "Strong quakes, including a Mag 6, are hitting worldwide!"
 }
