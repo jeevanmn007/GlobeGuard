@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment currently presents a multi-faceted threat landscape characterized by escalating socio-economic fragility and political unrest, fueled by widespread struggles for essentials and migrant crises, set against a backdrop of rapid, transformative, and largely unregulated AI development that is reshaping financial markets and defense strategies. Concurrently, financial markets exhibit significant volatility, with a notable divergence in tech sector performance, while persistent, elevated global seismic activity underscores a fundamental physical unpredictability. Therefore, you must immediately: 1. Diversify and secure financial assets, particularly those tied to volatile tech sectors, to hedge against economic shifts and potential instability; 2. Strengthen all digital and information security protocols to protect against evolving threats of manipulation and exploitation in an increasingly data-driven and socially volatile world; and 3. Reinforce comprehensive physical preparedness plans, including emergency supplies and communication strategies, to mitigate risks from both escalating natural phenomena and potential man-made disruptions.",
+    "strategicPlan": "The current global landscape presents a complex interplay of systemic vulnerabilities: widespread economic hardship is evident, fostering potential social instability, while major tech stocks exhibit a downward trend, save for specific AI beneficiaries, signaling market volatility and an ongoing technological power shift. Geopolitically, migration crises and state-level control persist, juxtaposed with the rapid, often unchecked, militarization and societal integration of AI technologies. Concurrently, a cluster of significant seismic events globally underscores an elevated physical risk profile. To secure your assets and physical safety, first, fortify financial holdings through strategic diversification and ensure adequate liquidity to navigate ongoing market volatility and potential economic downturns; second, strengthen digital defenses and critically evaluate information streams, given the accelerating weaponization of data and AI's capacity for manipulation, safeguarding both intellectual assets and personal security; and third, conduct an immediate review of emergency protocols, supply caches, and communication plans, recognizing heightened global seismic activity and general systemic fragility as indicators for physical preparedness.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.29 (3.12%)",
+            "title": "\ud83d\udcb0 NVDA: $224.0 (2.99%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.62 (-0.75%)",
+            "title": "\ud83d\udcb0 AAPL: $302.07 (-0.93%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $494.24 (-1.9%)",
+            "title": "\ud83d\udcb0 MSFT: $494.07 (-1.93%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.24 (-3.26%)",
+            "title": "\ud83d\udcb0 PLTR: $171.77 (-1.81%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $269.27 (-1.1%)",
+            "title": "\ud83d\udcb0 AMZN: $269.19 (-1.13%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
         }
     ],
-    "seismicSummary": "A Mag 6 and multiple Mag 5+ earthquakes are active globally!"
+    "seismicSummary": "Four strong earthquakes, including a Mag 6, have struck diverse locations worldwide!"
 }
