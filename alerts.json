@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 42 km ESE of Naalehu, Hawaii",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 51 km E of Tobelo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
         },
@@ -71,10 +75,6 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 107 km WNW of Kerema, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0a"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 149 km SSE of Port Blair, India",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
