@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape presents a dangerous convergence of escalating social instability, evidenced by widespread struggles with essential living costs and politically charged migrant crises, against a backdrop of a subtly declining tech market and rapid, multi-faceted advancements in AI, some of which are being weaponized. Concurrently, persistent global seismic activity, including multiple M5+ events, underscores an ever-present physical threat. To navigate this complex environment, GlobeGuard advises three immediate actions: first, **diversify economic exposure** by prioritizing resilient sectors and securing essential financial buffers against pervasive cost-of-living pressures; second, **enhance information and digital security protocols** to counteract social media-driven instability and mitigate risks posed by the accelerating 'weaponization' of data; and third, **fortify physical and community resilience**, focusing on updated emergency preparedness for seismic events and localized resource scarcity, recognizing the compounding effect of economic vulnerability on crisis response.",
+    "strategicPlan": "GlobeGuard assesses the current global landscape as one of systemic, interconnected vulnerabilities, rather than immediate high-level kinetic threats, necessitating proactive strategic positioning. Geopolitically, internal social and economic fragilities, exemplified by widespread struggles with essential costs and escalating migrant crises, are converging with an accelerating AI arms race as state actors militarize data. Financially, major tech stocks are experiencing a consistent, albeit moderate, downturn, signaling market recalibration. Concurrently, persistent moderate seismic activity globally serves as a constant physical reminder of inherent environmental risks. To navigate this complex environment, secure critical assets by diversifying financial portfolios away from concentrated tech holdings; enhance resilience against social instability by closely monitoring humanitarian crises and geopolitical flashpoints; and rigorously update physical safety protocols and disaster preparedness plans to account for ongoing seismic and environmental volatilities.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
         }
     ],
-    "seismicSummary": "**Alert:** Multiple M5+ earthquakes reported across diverse global locations!"
+    "seismicSummary": "Four magnitude 5+ earthquakes just hit worldwide!"
 }
