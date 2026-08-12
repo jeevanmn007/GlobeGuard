@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is characterized by converging vulnerabilities: widespread economic distress and sociopolitical polarization are exacerbating internal and cross-border tensions, while a significant correction ripples through the broader tech market, only partially offset by the robust growth and strategic militarization of the AI sector. Concurrently, a discernible increase in moderate-to-strong seismic activity across multiple active fault lines points to an elevated baseline of physical instability. To secure assets and ensure safety, immediately reassess and diversify digital asset portfolios, prioritizing enhanced cybersecurity defenses against advanced threats; conduct urgent structural integrity checks on all critical physical assets in at-risk zones and refresh emergency preparedness protocols; and monitor emerging social unrest and political instability in vulnerable regions, stress-testing critical supply chains and establishing contingency plans for personnel and operations.",
+    "strategicPlan": "GlobeGuard assesses a moderately elevated global risk profile, characterized by acute social and economic instability manifesting in widespread household struggles and politically charged migration crises, which intersect with volatile tech markets where strong AI sector performance is offset by broader declines. This human-centric turbulence is underscored by a notable uptick in significant global seismic activity across disparate regions, indicating potential physical disruptions and underlying planetary stress. To navigate this complex environment, secure assets by conducting a thorough review of financial portfolios for diversification and resilience against market volatility while cautiously evaluating AI sector opportunities; enhance physical safety by reinforcing personal and operational security protocols, actively monitoring local socio-political developments for signs of escalating instability; and bolster preparedness by evaluating critical infrastructure vulnerabilities and updating disaster response plans, particularly for seismic events, to ensure robust continuity and safety measures are in place.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $223.7 (2.85%)",
+            "title": "\ud83d\udcb0 NVDA: $224.09 (3.03%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $301.29 (-1.19%)",
+            "title": "\ud83d\udcb0 AAPL: $302.25 (-0.87%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $493.28 (-2.09%)",
+            "title": "\ud83d\udcb0 MSFT: $492.43 (-2.26%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.33 (-2.23%)",
+            "title": "\ud83d\udcb0 PLTR: $171.04 (-2.23%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.89 (-1.24%)",
+            "title": "\ud83d\udcb0 AMZN: $267.28 (-1.83%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 51 km E of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
+            "title": "\u26a0\ufe0f Mag 5 - 66 km E of Chayek, Kyrgyzstan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
         }
     ],
-    "seismicSummary": "Strong quakes, including a Mag 6, are hitting worldwide!"
+    "seismicSummary": "**Urgent: A Mag 6 and several Mag 5+ earthquakes have just struck globally!**"
 }
