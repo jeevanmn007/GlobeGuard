@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by escalating socioeconomic distress and intensifying geopolitical friction, particularly around migration and digital influence, while the financial markets exhibit a bifurcated trend with AI innovation driving select growth amidst broader tech sector volatility and increasing regulatory scrutiny. Concurrently, a notable uptick in significant seismic activity across multiple global regions presents an underlying physical threat. To secure assets and ensure physical safety, GlobeGuard must immediately: 1) Diversify investment portfolios, prioritizing resilient assets while maintaining strategic exposure to high-growth AI sectors, given the mixed market and AI's transformative impact; 2) Conduct immediate vulnerability assessments of critical infrastructure and supply chains against potential seismic events and escalating social unrest; and 3) Establish robust data security and privacy protocols, given the increasing militarization of data and rapid AI integration across all sectors.",
+    "strategicPlan": "The global landscape is currently marked by a critical confluence of escalating socioeconomic distress, as evidenced by widespread household struggles and politically charged migration crises exacerbated by social media, alongside a notable downturn in key tech markets despite continued strong performance in specific AI sectors like NVDA. Simultaneously, strategic technological advancements are driving the militarization of AI, while a heightened frequency of significant seismic events globally indicates a persistent and unpredictable physical threat. To navigate this complex environment, immediately review and diversify your financial portfolio, emphasizing resilience against potential market volatility beyond high-growth tech; implement enhanced digital security protocols and verify information sources to counter socio-political destabilization amplified by online narratives; and ensure physical assets and personnel safety protocols, particularly emergency preparedness plans, are robust and up-to-date, especially for operations within seismically active regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk74"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 227 km E of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 42 km ESE of Naalehu, Hawaii",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Pacific-Antarctic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 66 km E of Chayek, Kyrgyzstan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: A Magnitude 6 earthquake and multiple Magnitude 5s just struck worldwide!"
+    "seismicSummary": "**A Mag 6 and multiple 5+ magnitude earthquakes are striking globally!**"
 }
