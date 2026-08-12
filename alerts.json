@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global threat landscape presents a dangerous convergence of escalating social instability, evidenced by widespread struggles with essential living costs and politically charged migrant crises, against a backdrop of a subtly declining tech market and rapid, multi-faceted advancements in AI, some of which are being weaponized. Concurrently, persistent global seismic activity, including multiple M5+ events, underscores an ever-present physical threat. To navigate this complex environment, GlobeGuard advises three immediate actions: first, **diversify economic exposure** by prioritizing resilient sectors and securing essential financial buffers against pervasive cost-of-living pressures; second, **enhance information and digital security protocols** to counteract social media-driven instability and mitigate risks posed by the accelerating 'weaponization' of data; and third, **fortify physical and community resilience**, focusing on updated emergency preparedness for seismic events and localized resource scarcity, recognizing the compounding effect of economic vulnerability on crisis response.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - Pacific-Antarctic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 51 km E of Tobelo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 89 km ESE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk29"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 107 km WNW of Kerema, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0a"
+            "title": "\u26a0\ufe0f Mag 5 - 66 km E of Chayek, Kyrgyzstan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Alert:** Multiple M5+ earthquakes reported across diverse global locations!"
 }
