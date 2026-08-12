@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a moderately elevated global risk profile, characterized by acute social and economic instability manifesting in widespread household struggles and politically charged migration crises, which intersect with volatile tech markets where strong AI sector performance is offset by broader declines. This human-centric turbulence is underscored by a notable uptick in significant global seismic activity across disparate regions, indicating potential physical disruptions and underlying planetary stress. To navigate this complex environment, secure assets by conducting a thorough review of financial portfolios for diversification and resilience against market volatility while cautiously evaluating AI sector opportunities; enhance physical safety by reinforcing personal and operational security protocols, actively monitoring local socio-political developments for signs of escalating instability; and bolster preparedness by evaluating critical infrastructure vulnerabilities and updating disaster response plans, particularly for seismic events, to ensure robust continuity and safety measures are in place.",
+    "strategicPlan": "The global landscape is characterized by escalating socioeconomic distress and intensifying geopolitical friction, particularly around migration and digital influence, while the financial markets exhibit a bifurcated trend with AI innovation driving select growth amidst broader tech sector volatility and increasing regulatory scrutiny. Concurrently, a notable uptick in significant seismic activity across multiple global regions presents an underlying physical threat. To secure assets and ensure physical safety, GlobeGuard must immediately: 1) Diversify investment portfolios, prioritizing resilient assets while maintaining strategic exposure to high-growth AI sectors, given the mixed market and AI's transformative impact; 2) Conduct immediate vulnerability assessments of critical infrastructure and supply chains against potential seismic events and escalating social unrest; and 3) Establish robust data security and privacy protocols, given the increasing militarization of data and rapid AI integration across all sectors.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
         }
     ],
-    "seismicSummary": "**Urgent: A Mag 6 and several Mag 5+ earthquakes have just struck globally!**"
+    "seismicSummary": "\ud83d\udea8 Urgent: A Magnitude 6 earthquake and multiple Magnitude 5s just struck worldwide!"
 }
