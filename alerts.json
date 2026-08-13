@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a critical confluence of escalating societal, technological, and geophysical threats. Widespread economic hardship and digitally amplified migrant crises are driving social instability globally, while the tech sector, particularly AI, continues its robust expansion amidst nascent regulatory friction and ethical debates. Critically, recent significant seismic activity across the Pacific Rim and Central America indicates heightened geological instability, posing tangible physical risks to infrastructure and populations. To navigate this complex landscape, GlobeGuard recommends three immediate directives: first, ensure the resilience and geographical diversification of all critical financial assets, leveraging opportunities in resilient tech while safeguarding against economic volatility; second, conduct an urgent review and fortification of physical infrastructure, especially within seismically active regions, to mitigate potential geological impacts; and third, implement advanced intelligence monitoring for social media-driven destabilization vectors, focusing on areas experiencing economic strain and migration pressures, to anticipate and neutralize emergent threats effectively.",
+    "strategicPlan": "The global landscape presents a complex nexus of converging risks. Widespread socio-economic fragility, evidenced by widespread household struggles, coupled with escalating migrant crises and political dissent, indicates a heightened potential for localized unrest and geopolitical strain. Simultaneously, the accelerating dominance of AI technology fuels significant market growth in the tech sector, yet introduces emerging regulatory challenges and military implications that will reshape strategic power and resource allocation. Underlying these dynamics is a pattern of persistent moderate seismic activity across multiple fault lines, reminding us of inherent physical vulnerabilities globally. Therefore, to secure assets and physical safety, GlobeGuard directs immediate action: first, conduct a comprehensive vulnerability assessment of critical physical assets and personnel, diversifying holdings and establishing robust emergency protocols to mitigate risks from both civil unrest and natural disasters, particularly in seismically active or politically volatile regions; second, strategically evaluate and adjust digital asset portfolios, prioritizing investments aligned with responsible AI development while actively monitoring emerging AI governance frameworks and their potential impact on data security and market access, given the New York moratorium as a leading indicator; and third, fortify supply chain resilience by identifying alternative sourcing and logistics pathways, anticipating disruptions stemming from socio-economic instability, resource constraints, and potential regional natural calamities.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $226.09 (0.89%)",
+            "title": "\ud83d\udcb0 NVDA: $225.3 (0.54%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $303.31 (0.35%)",
+            "title": "\ud83d\udcb0 AAPL: $305.26 (1.0%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $496.9 (0.91%)",
+            "title": "\ud83d\udcb0 MSFT: $496.88 (0.9%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $178.92 (4.61%)",
+            "title": "\ud83d\udcb0 PLTR: $179.01 (4.66%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.2 (-0.4%)",
+            "title": "\ud83d\udcb0 AMZN: $265.13 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking worldwide!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes are striking globally!"
 }
