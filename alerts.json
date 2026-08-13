@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "A direct assessment reveals a complex global risk landscape defined by escalating socio-economic strain driving political instability and migration crises, a volatile tech sector experiencing both AI-driven growth and increasing regulatory friction, and a notable surge in significant seismic activity across multiple continents. To navigate these convergent threats, we issue the following directives: First, actively monitor AI-driven market shifts and regulatory developments, diversifying tech investments and fortifying digital infrastructure against emerging vulnerabilities. Second, immediately implement and review seismic preparedness protocols for all personnel and critical assets located within or near identified high-risk tectonic zones. Third, enhance operational resilience by assessing and securing supply chains and personnel safety protocols in regions exhibiting elevated socio-economic hardship and potential for political unrest.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 42 km ESE of Naalehu, Hawaii",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 59 km NNW of Barishal, Pakistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 226 km E of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
         }
     ],
-    "seismicSummary": "**URGENT**: Multiple significant earthquakes, including a Magnitude 6 in the South Sandwich Islands, reported worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
