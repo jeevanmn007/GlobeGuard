@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a critical confluence of escalating socioeconomic distress across major economies, exemplified by widespread struggles for essentials, juxtaposed against a surging, AI-driven tech market that is simultaneously attracting significant capital and undergoing militarization by state actors. This divergence in economic fortunes and technological advancement carries inherent geopolitical risks, amplified by social media's role in political instability and calls for AI regulation. Simultaneously, a notable and widespread pattern of significant seismic activity across multiple key regions (Central America, Southeast Asia, South Asia, Oceania) underscores a persistent and elevated physical threat. Therefore, secure your assets by **diversifying financial holdings to mitigate sector-specific risks and counter inflationary pressures**, bolster your **digital and information security protocols against increasingly sophisticated AI-driven threats and disinformation campaigns**, and immediately **review and fortify physical safety and emergency preparedness plans, particularly in seismically vulnerable regions**.",
+    "strategicPlan": "The current global environment presents a nuanced threat profile, marked by persistent underlying economic fragility contributing to social unrest in developed nations, while simultaneously witnessing robust, AI-driven financial growth in the tech sector, albeit under increasing regulatory and defense scrutiny. Geopolitically, migratory pressures and political dissidence persist, and the consistent, widespread seismic activity across multiple regions serves as a constant reminder of inherent physical vulnerabilities. To navigate this complex landscape, we advise three immediate actions: first, strategically diversify investment portfolios beyond core tech, closely monitoring AI regulatory developments and their impact on market stability; second, bolster digital and physical security frameworks, recognizing the dual-use nature of advanced AI in both commerce and defense, and the potential for weaponized data; and third, maintain vigilant awareness of regional sociopolitical stability and physical infrastructure resilience, particularly in seismically active zones, ensuring robust preparedness for localized disruptions and personal safety.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.86 (0.34%)",
+            "title": "\ud83d\udcb0 NVDA: $225.42 (0.59%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $304.8 (0.84%)",
+            "title": "\ud83d\udcb0 AAPL: $303.02 (0.25%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $496.8 (0.89%)",
+            "title": "\ud83d\udcb0 MSFT: $494.36 (0.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.24 (1.87%)",
+            "title": "\ud83d\udcb0 PLTR: $175.42 (2.56%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.68 (0.15%)",
+            "title": "\ud83d\udcb0 AMZN: $265.34 (-0.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 69 km SSW of Chirilagua, El Salvador",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 59 km NNW of Barishal, Pakistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 226 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just struck worldwide, including El Salvador, Philippines, Pakistan, and Fiji!"
+    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes reported worldwide!"
 }
