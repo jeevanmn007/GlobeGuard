@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment presents a nuanced threat profile, marked by persistent underlying economic fragility contributing to social unrest in developed nations, while simultaneously witnessing robust, AI-driven financial growth in the tech sector, albeit under increasing regulatory and defense scrutiny. Geopolitically, migratory pressures and political dissidence persist, and the consistent, widespread seismic activity across multiple regions serves as a constant reminder of inherent physical vulnerabilities. To navigate this complex landscape, we advise three immediate actions: first, strategically diversify investment portfolios beyond core tech, closely monitoring AI regulatory developments and their impact on market stability; second, bolster digital and physical security frameworks, recognizing the dual-use nature of advanced AI in both commerce and defense, and the potential for weaponized data; and third, maintain vigilant awareness of regional sociopolitical stability and physical infrastructure resilience, particularly in seismically active zones, ensuring robust preparedness for localized disruptions and personal safety.",
+    "strategicPlan": "The current global intelligence picture reveals a critical confluence of escalating societal, technological, and geophysical threats. Widespread economic hardship and digitally amplified migrant crises are driving social instability globally, while the tech sector, particularly AI, continues its robust expansion amidst nascent regulatory friction and ethical debates. Critically, recent significant seismic activity across the Pacific Rim and Central America indicates heightened geological instability, posing tangible physical risks to infrastructure and populations. To navigate this complex landscape, GlobeGuard recommends three immediate directives: first, ensure the resilience and geographical diversification of all critical financial assets, leveraging opportunities in resilient tech while safeguarding against economic volatility; second, conduct an urgent review and fortification of physical infrastructure, especially within seismically active regions, to mitigate potential geological impacts; and third, implement advanced intelligence monitoring for social media-driven destabilization vectors, focusing on areas experiencing economic strain and migration pressures, to anticipate and neutralize emergent threats effectively.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.42 (0.59%)",
+            "title": "\ud83d\udcb0 NVDA: $226.09 (0.89%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $303.02 (0.25%)",
+            "title": "\ud83d\udcb0 AAPL: $303.31 (0.35%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $494.36 (0.39%)",
+            "title": "\ud83d\udcb0 MSFT: $496.9 (0.91%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.42 (2.56%)",
+            "title": "\ud83d\udcb0 PLTR: $178.92 (4.61%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.34 (-0.73%)",
+            "title": "\ud83d\udcb0 AMZN: $266.2 (-0.4%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 22 km ENE of Lapuan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh"
+            "title": "\u26a0\ufe0f Mag 5.3 - 11 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkig"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 59 km NNW of Barishal, Pakistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci"
+            "title": "\u26a0\ufe0f Mag 5.1 - west of Macquarie Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes reported worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking worldwide!"
 }
