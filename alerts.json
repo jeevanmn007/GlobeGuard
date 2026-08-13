@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex nexus of converging threats: widespread socio-economic distress is fueling instability and migration crises, exemplified by struggling households and political storms, while financial markets exhibit volatility with significant tech sector shifts, though AI innovation continues to surge. Simultaneously, a concerning pattern of elevated seismic activity across diverse, populated regions like El Salvador, the Philippines, Pakistan, and Fiji indicates immediate physical risks. To navigate this intricate environment, we must proactively secure our interests: First, immediately review and diversify investment portfolios, reinforcing digital asset security against evolving cyber threats and market fluctuations. Second, update and stress-test emergency preparedness plans, particularly for seismic events and potential civil unrest, while securing critical physical infrastructure. Third, maintain continuous vigilance on global economic and AI regulatory developments, conducting thorough assessments of supply chain vulnerabilities to ensure operational resilience amidst escalating uncertainties.",
+    "strategicPlan": "The global landscape is currently defined by a critical confluence of escalating socioeconomic distress across major economies, exemplified by widespread struggles for essentials, juxtaposed against a surging, AI-driven tech market that is simultaneously attracting significant capital and undergoing militarization by state actors. This divergence in economic fortunes and technological advancement carries inherent geopolitical risks, amplified by social media's role in political instability and calls for AI regulation. Simultaneously, a notable and widespread pattern of significant seismic activity across multiple key regions (Central America, Southeast Asia, South Asia, Oceania) underscores a persistent and elevated physical threat. Therefore, secure your assets by **diversifying financial holdings to mitigate sector-specific risks and counter inflationary pressures**, bolster your **digital and information security protocols against increasingly sophisticated AI-driven threats and disinformation campaigns**, and immediately **review and fortify physical safety and emergency preparedness plans, particularly in seismically vulnerable regions**.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.09 (3.03%)",
+            "title": "\ud83d\udcb0 NVDA: $224.86 (0.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $302.25 (-0.87%)",
+            "title": "\ud83d\udcb0 AAPL: $304.8 (0.84%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $492.43 (-2.26%)",
+            "title": "\ud83d\udcb0 MSFT: $496.8 (0.89%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.04 (-2.23%)",
+            "title": "\ud83d\udcb0 PLTR: $174.24 (1.87%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.28 (-1.83%)",
+            "title": "\ud83d\udcb0 AMZN: $267.68 (0.15%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
         }
     ],
-    "seismicSummary": "Four M5+ earthquakes just struck worldwide: El Salvador, Philippines, Pakistan, Fiji!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just struck worldwide, including El Salvador, Philippines, Pakistan, and Fiji!"
 }
