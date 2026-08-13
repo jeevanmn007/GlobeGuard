@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence indicates a nuanced threat environment, characterized by escalating socio-economic pressures in key regions alongside persistent geopolitical tensions, a volatile financial market reflecting mixed tech performance with strong AI growth tempered by emerging regulatory scrutiny, and a notable uptick in moderate seismic activity globally. To navigate this landscape, prioritize three key areas: First, secure financial and digital assets by diversifying investments to mitigate market volatility, particularly in tech, and bolstering cyber defenses against evolving data weaponization. Second, review and reinforce physical safety protocols and emergency preparedness for all personnel and critical infrastructure, especially in light of recent moderate seismic events impacting populated zones. Third, enhance situational awareness regarding regional socio-political unrest and economic instability, as these factors continue to drive migration and political shifts, potentially impacting operational continuity.",
+    "strategicPlan": "The current global intelligence brief reveals a multi-faceted risk landscape characterized by escalating socioeconomic distress fueling political polarization, volatile financial markets with mixed tech performance amidst AI regulation shifts, and a concerning surge in global seismic activity across multiple tectonic plates. In response, GlobeGuard advises immediate action: (1) Diversify asset portfolios, particularly re-evaluating tech-sector concentration in light of market dips and infrastructure regulatory headwinds. (2) Strengthen personal and operational continuity plans, including emergency communication and supply caches, as social and environmental disruptions intensify. (3) For operations and personnel in earthquake-prone regions, conduct urgent facility inspections and drills to ensure readiness for potential seismic events.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk74"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 69 km SSW of Chirilagua, El Salvador",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 59 km NNW of Barishal, Pakistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 226 km E of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, up to Mag 6, reported worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking globally!"
 }
