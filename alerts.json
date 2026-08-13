@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a complex and increasingly volatile environment: escalating social and economic fragility is driving geopolitical instability, evident in widespread domestic unrest and migration crises, while financial markets show a bifurcated reality with robust AI growth contrasted by broader tech sector declines and emerging regulatory hurdles for critical infrastructure. Simultaneously, persistent, moderate global seismic activity underscores inherent physical vulnerabilities. To navigate this complex threat environment, GlobeGuard directs immediate action: first, aggressively diversify financial assets beyond speculative tech, prioritizing resilient investments while closely tracking regulatory impacts on digital infrastructure. Second, operationalize comprehensive contingency plans for supply chain, travel, and personnel security, focusing on regions prone to socio-political instability. Third, reinforce and regularly test physical security and emergency preparedness protocols for all assets, ensuring robust disaster readiness against ongoing seismic risks.",
+    "strategicPlan": "The current global intelligence indicates a nuanced threat environment, characterized by escalating socio-economic pressures in key regions alongside persistent geopolitical tensions, a volatile financial market reflecting mixed tech performance with strong AI growth tempered by emerging regulatory scrutiny, and a notable uptick in moderate seismic activity globally. To navigate this landscape, prioritize three key areas: First, secure financial and digital assets by diversifying investments to mitigate market volatility, particularly in tech, and bolstering cyber defenses against evolving data weaponization. Second, review and reinforce physical safety protocols and emergency preparedness for all personnel and critical infrastructure, especially in light of recent moderate seismic events impacting populated zones. Third, enhance situational awareness regarding regional socio-political unrest and economic instability, as these factors continue to drive migration and political shifts, potentially impacting operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 59 km NNW of Barishal, Pakistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci"
+            "title": "\u26a0\ufe0f Mag 5.1 - 22 km ENE of Lapuan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 226 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
+            "title": "\u26a0\ufe0f Mag 5.1 - 59 km NNW of Barishal, Pakistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci"
         }
     ],
-    "seismicSummary": "Strong earthquakes up to Mag 6 are striking multiple regions worldwide!"
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 6, reported worldwide!"
 }
