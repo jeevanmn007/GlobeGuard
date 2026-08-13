@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a multi-faceted risk landscape characterized by escalating socioeconomic distress fueling political polarization, volatile financial markets with mixed tech performance amidst AI regulation shifts, and a concerning surge in global seismic activity across multiple tectonic plates. In response, GlobeGuard advises immediate action: (1) Diversify asset portfolios, particularly re-evaluating tech-sector concentration in light of market dips and infrastructure regulatory headwinds. (2) Strengthen personal and operational continuity plans, including emergency communication and supply caches, as social and environmental disruptions intensify. (3) For operations and personnel in earthquake-prone regions, conduct urgent facility inspections and drills to ensure readiness for potential seismic events.",
+    "strategicPlan": "The global landscape presents a complex nexus of converging threats: widespread socio-economic distress is fueling instability and migration crises, exemplified by struggling households and political storms, while financial markets exhibit volatility with significant tech sector shifts, though AI innovation continues to surge. Simultaneously, a concerning pattern of elevated seismic activity across diverse, populated regions like El Salvador, the Philippines, Pakistan, and Fiji indicates immediate physical risks. To navigate this intricate environment, we must proactively secure our interests: First, immediately review and diversify investment portfolios, reinforcing digital asset security against evolving cyber threats and market fluctuations. Second, update and stress-test emergency preparedness plans, particularly for seismic events and potential civil unrest, while securing critical physical infrastructure. Third, maintain continuous vigilance on global economic and AI regulatory developments, conducting thorough assessments of supply chain vulnerabilities to ensure operational resilience amidst escalating uncertainties.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking globally!"
+    "seismicSummary": "Four M5+ earthquakes just struck worldwide: El Salvador, Philippines, Pakistan, Fiji!"
 }
