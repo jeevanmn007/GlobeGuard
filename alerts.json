@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is navigating a complex and divergent risk landscape. While the technology sector, particularly Artificial Intelligence, demonstrates robust financial growth and strategic military integration\u2014reshaping industries and geopolitics\u2014deepening socio-economic fragility in key regions (UK, Spain) and persistent ideological tensions signal mounting internal and cross-border pressures. Concurrently, a surge in significant seismic activity across the Pacific Ring of Fire underscores a tangible and immediate physical threat to infrastructure and populations. GlobeGuard directs immediate action to: 1. Critically assess and diversify asset portfolios, leveraging resilient tech while securing physical holdings against socio-economic turbulence. 2. Fortify digital infrastructure against escalating cyber threats, mindful of emerging AI-driven regulatory shifts and energy demands. 3. Proactively review and enhance physical preparedness and supply chain resilience, especially for assets and personnel operating within seismically active zones.",
+    "strategicPlan": "The global landscape presents a nuanced threat profile, marked by escalating societal fragility stemming from economic hardship and politically charged social media narratives, juxtaposed against robust but increasingly regulated growth within the AI-driven tech sector. Concurrently, persistent moderate seismic activity across the Pacific Ring of Fire underscores immutable physical risks to critical infrastructure and personnel. Therefore, GlobeGuard advises immediate action to fortify resilience: first, strategically diversify asset portfolios, hedging against both localized economic downturns and emerging AI regulatory impacts; second, rigorously review and enhance supply chain robustness and operational continuity plans, particularly for regions identified with social instability or within active seismic zones; and third, implement advanced intelligence monitoring of digital narratives to preempt social unrest while simultaneously strengthening physical security protocols for all critical assets and personnel.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 45 km SSW of Angoram, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkgn"
+            "title": "\u26a0\ufe0f Mag 4.9 - 29 km SW of Balangonan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw"
         }
     ],
-    "seismicSummary": "**Alert: Multiple M5+ earthquakes are occurring across the Pacific region.**"
+    "seismicSummary": "**URGENT:** Multiple strong earthquakes, up to Mag 5.6, are shaking the Pacific region."
 }
