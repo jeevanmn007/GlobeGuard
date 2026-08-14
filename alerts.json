@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape indicates a complex interplay of escalating social, economic, and environmental fragilities. Widespread household financial distress signals potential for increased social instability, exacerbated by the weaponization of social media in political crises and historical precedents of cascading environmental disasters. Economically, the tech sector, particularly AI, presents a dual narrative of intense investment alongside growing environmental concerns and regulatory pushback. Concurrently, persistent moderate seismic activity across vulnerable regions underscores ongoing physical threats. In light of this, GlobeGuard advises three immediate, actionable directives: **First**, rigorously audit and enhance digital security posture against information warfare and data exploitation, particularly given the social media landscape. **Second**, diversify financial holdings to include resilient, tangible assets, and stress-test supply chains against both economic volatility and localized social disruptions. **Third**, update and drill comprehensive emergency response plans, factoring in potential for compounding environmental events and securing physical premises against escalating social unrest.",
+    "strategicPlan": "The global environment is currently volatile, marked by deepening socio-economic fragility as millions struggle for basic necessities, a condition ripe for societal unrest and further geopolitical destabilization, especially when fueled by social media narratives. Concurrently, major tech markets exhibit slight corrective trends despite significant AI investment, raising questions about sustainability and ethical deployment given environmental impacts and emerging regulatory pushback on infrastructure. This complex human-made stress operates against a backdrop of persistent moderate seismic activity in critical regions, reminding us of inherent physical threats. To navigate this landscape, immediately diversify financial and real asset holdings to fortify economic resilience against market shifts and socio-economic pressures; rigorously enhance digital and physical security protocols, particularly concerning data infrastructure and personnel in politically sensitive areas; and, crucially, review and update all emergency preparedness plans for natural disasters, focusing on supply chain robustness and operational continuity in seismically active or climate-vulnerable zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 207 km SE of Katsuura, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy"
+            "title": "\u26a0\ufe0f Mag 4.8 - 15 km WNW of Kirakira, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tksg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - Bonin Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc"
+            "title": "\u26a0\ufe0f Mag 4.8 - 207 km SE of Katsuura, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple near-M5 earthquakes just struck diverse regions globally!"
+    "seismicSummary": "\ud83d\udea8 Moderate earthquakes (Mag 4.8-4.9) just hit Azerbaijan, Philippines, Solomon Islands, and Japan!"
 }
