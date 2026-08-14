@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 69 km SSW of Chirilagua, El Salvador",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 11 km S of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkig"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - west of Macquarie Island",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 22 km ENE of Lapuan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
