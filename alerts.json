@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape presents a complex and dichotomous threat profile: economically, a surging AI-driven tech sector, exemplified by strong stock performance, stands in stark contrast to escalating social instability marked by widespread household struggles and politically charged migration crises exacerbated by digital narratives. Concurrently, the persistent cluster of significant seismic activity along the Pacific Rim underscores an ongoing physical vulnerability to natural disasters. To navigate this environment, GlobeGuard directs immediate action: first, fortify economic resilience by diversifying asset portfolios to include both strategic, vetted AI opportunities and essential, localized investments that buffer against social volatility; second, enhance digital and physical security protocols for critical assets, recognizing the increasing weaponization of data and the infrastructure demands of AI; and third, conduct urgent reviews of emergency preparedness and supply chain robustness, particularly for operations and assets within active seismic zones.",
+    "strategicPlan": "The global environment currently presents a complex risk profile characterized by escalating socio-economic fragility in developed nations, intensifying migration crises amplified by digital platforms, and persistent geopolitical tensions manifesting in dissident movements. Financially, the tech sector, especially AI-driven enterprises, shows significant growth, yet faces increasing regulatory scrutiny and ethical debates concerning resource consumption and intellectual property. Concurrently, a surge in M5+ seismic activity across the Pacific Ring of Fire signals ongoing tectonic stress, posing a physical threat to critical infrastructure and supply chains in a geopolitically vital region. To secure assets and physical safety, GlobeGuard issues the following directives: first, conduct immediate resilience assessments and diversification plans for critical infrastructure, particularly in tectonically active zones, to mitigate physical disruption. Second, establish enhanced intelligence channels to monitor socio-economic instability and migration flows, recognizing their potential to rapidly destabilize regional security and global markets through information warfare. Third, strategically integrate AI advancements while proactively addressing regulatory frameworks, resource demands, and the increasing militarization of data to secure competitive advantage and mitigate emerging tech-driven risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 22 km ENE of Lapuan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh"
+            "title": "\u26a0\ufe0f Mag 5 - 45 km SSW of Angoram, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkgn"
         }
     ],
-    "seismicSummary": "**Urgent: Four M5+ earthquakes, including two in the Philippines, reported across the Pacific region.**"
+    "seismicSummary": "\ud83d\udea8 Four M5+ earthquakes just struck across the Pacific region!"
 }
