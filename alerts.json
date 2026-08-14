@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment presents an urgent convergence of factors: widespread socio-economic instability, a rapidly advancing yet uncertain AI-driven technological landscape, and a notable escalation in seismic activity across the Pacific Ring of Fire. While major financial tech assets remain relatively stable, the underlying geopolitical fragilities from economic hardship and migration, coupled with regulatory headwinds for AI, create a complex risk profile. To secure our interests, GlobeGuard issues three directives: First, immediately diversify critical infrastructure and supply chain dependencies, establishing robust data redundancy and physical asset resilience across geographically dispersed, lower-risk locations. Second, intensify social and political risk intelligence gathering, adapting operational security postures in regions exhibiting heightened socio-economic strain or migratory pressures. Third, activate elevated seismic preparedness protocols across all operations within or connected to the Pacific Rim, ensuring comprehensive emergency plans, communication strategies, and structural integrity assessments are current and rehearsed.",
+    "strategicPlan": "The global environment signals increasing instability, marked by growing socioeconomic strain and localized geopolitical crises amplified by rapid digital dissemination. While financial markets show minor volatility, the ongoing AI revolution presents both transformative potential and significant regulatory challenges, compounded by persistent, moderate seismic activity across critical Pacific regions. Therefore, GlobeGuard directs immediate action: first, reinforce emergency preparedness and communication redundancies for all personnel and assets in seismically active zones. Second, diversify financial holdings and secure critical supply chains against localized economic downturns and social unrest, particularly in regions exhibiting public discontent. Third, proactively assess and adapt your AI and data infrastructure strategies, prioritizing compliance with emerging data governance regulations and investing in energy-efficient, resilient solutions to ensure long-term operational viability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.31 (0.0%)",
+            "title": "\ud83d\udcb0 NVDA: $225.19 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $305.62 (0.12%)",
+            "title": "\ud83d\udcb0 AAPL: $305.32 (0.02%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.12 (0.25%)",
+            "title": "\ud83d\udcb0 MSFT: $496.46 (-0.08%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $177.76 (-0.7%)",
+            "title": "\ud83d\udcb0 PLTR: $176.52 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $264.06 (-0.4%)",
+            "title": "\ud83d\udcb0 AMZN: $263.27 (-0.7%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 11 km S of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkig"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 29 km SW of Balangonan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 207 km SE of Katsuura, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy"
         }
     ],
-    "seismicSummary": "**\u26a0\ufe0f Multiple strong earthquakes, up to magnitude 5.6, are striking worldwide!**"
+    "seismicSummary": "Multiple Mag 5 earthquakes just struck near the Philippines, Japan, and Macquarie Island!"
 }
