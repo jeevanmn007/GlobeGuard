@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a nuanced threat profile, marked by escalating societal fragility stemming from economic hardship and politically charged social media narratives, juxtaposed against robust but increasingly regulated growth within the AI-driven tech sector. Concurrently, persistent moderate seismic activity across the Pacific Ring of Fire underscores immutable physical risks to critical infrastructure and personnel. Therefore, GlobeGuard advises immediate action to fortify resilience: first, strategically diversify asset portfolios, hedging against both localized economic downturns and emerging AI regulatory impacts; second, rigorously review and enhance supply chain robustness and operational continuity plans, particularly for regions identified with social instability or within active seismic zones; and third, implement advanced intelligence monitoring of digital narratives to preempt social unrest while simultaneously strengthening physical security protocols for all critical assets and personnel.",
+    "strategicPlan": "The global landscape is currently defined by a confluence of escalating internal and external pressures: widespread economic distress fueling social unrest in key Western nations, a cautiously optimistic yet volatile tech market facing new regulatory headwinds on data infrastructure, and persistent, significant tectonic activity across critical Pacific regions. This complex environment signals heightened physical risks, geopolitical instability amplified by information warfare, and an accelerating AI arms race. To secure assets and physical safety, we issue the following directive: First, immediately diversify critical asset holdings, prioritizing liquidity and resilience against both economic shifts and potential regulatory impacts on tech infrastructure. Second, reinforce robust cyber and information security frameworks to counteract the pervasive threat of AI-driven disinformation and data weaponization, which are increasingly shaping geopolitical narratives. Finally, urgently review and bolster physical safety protocols and supply chain resilience for assets and personnel situated in seismically active or politically sensitive zones, ensuring comprehensive emergency preparedness and contingency planning.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.3 (0.54%)",
+            "title": "\ud83d\udcb0 NVDA: $226.26 (0.42%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $305.26 (1.0%)",
+            "title": "\ud83d\udcb0 AAPL: $305.11 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $496.88 (0.9%)",
+            "title": "\ud83d\udcb0 MSFT: $498.89 (0.4%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $179.01 (4.66%)",
+            "title": "\ud83d\udcb0 PLTR: $176.51 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.13 (-0.8%)",
+            "title": "\ud83d\udcb0 AMZN: $263.81 (-0.5%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw"
         }
     ],
-    "seismicSummary": "**URGENT:** Multiple strong earthquakes, up to Mag 5.6, are shaking the Pacific region."
+    "seismicSummary": "Multiple strong earthquakes (M4.9-5.6) are striking across the Pacific region!"
 }
