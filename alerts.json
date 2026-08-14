@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically poised, marked by widespread economic vulnerability driving social unrest and exacerbating migration crises, set against the backdrop of rapid, dual-use AI integration that is simultaneously driving market gains and regulatory pushback, all while the Pacific Ring of Fire exhibits heightened, concentrated seismic activity. To navigate this complex landscape, GlobeGuard directs immediate action: 1) Fortify financial resilience by diversifying assets and stress-testing essential resource access against potential societal instability; 2) Enhance information security protocols and actively monitor emerging AI-related regulatory shifts and disinformation campaigns; and 3) Urgently review and update comprehensive disaster preparedness plans for personnel and critical infrastructure, particularly for assets located within or reliant on the tectonically active Pacific Rim.",
+    "strategicPlan": "The current global intelligence landscape presents a complex and dichotomous threat profile: economically, a surging AI-driven tech sector, exemplified by strong stock performance, stands in stark contrast to escalating social instability marked by widespread household struggles and politically charged migration crises exacerbated by digital narratives. Concurrently, the persistent cluster of significant seismic activity along the Pacific Rim underscores an ongoing physical vulnerability to natural disasters. To navigate this environment, GlobeGuard directs immediate action: first, fortify economic resilience by diversifying asset portfolios to include both strategic, vetted AI opportunities and essential, localized investments that buffer against social volatility; second, enhance digital and physical security protocols for critical assets, recognizing the increasing weaponization of data and the infrastructure demands of AI; and third, conduct urgent reviews of emergency preparedness and supply chain robustness, particularly for operations and assets within active seismic zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes strike across the Pacific!"
+    "seismicSummary": "**Urgent: Four M5+ earthquakes, including two in the Philippines, reported across the Pacific region.**"
 }
