@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by intensifying socio-economic pressures, evidenced by widespread struggles to afford essentials and the weaponization of social media in migrant crises, signaling heightened geopolitical volatility. Concurrently, the rapid evolution of AI, marked by philanthropic pledges, calls for artist compensation, and a new data center moratorium, points to significant market disruption and evolving regulatory landscapes, reflected in the minor dips of major tech stocks. Underpinning these systemic shifts is persistent moderate seismic activity across several key regions, introducing an unpredictable layer of physical threat. To navigate this complex environment, secure your assets by diversifying digital and financial holdings beyond the immediate volatility of tech, proactively fortify information security protocols against social media manipulation and AI-driven influence operations, and crucially, immediately review and update physical emergency preparedness plans for both natural disasters and potential civic unrest.",
+    "strategicPlan": "The current global intelligence landscape indicates a complex interplay of escalating social, economic, and environmental fragilities. Widespread household financial distress signals potential for increased social instability, exacerbated by the weaponization of social media in political crises and historical precedents of cascading environmental disasters. Economically, the tech sector, particularly AI, presents a dual narrative of intense investment alongside growing environmental concerns and regulatory pushback. Concurrently, persistent moderate seismic activity across vulnerable regions underscores ongoing physical threats. In light of this, GlobeGuard advises three immediate, actionable directives: **First**, rigorously audit and enhance digital security posture against information warfare and data exploitation, particularly given the social media landscape. **Second**, diversify financial holdings to include resilient, tangible assets, and stress-test supply chains against both economic volatility and localized social disruptions. **Third**, update and drill comprehensive emergency response plans, factoring in potential for compounding environmental events and securing physical premises against escalating social unrest.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
             "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o"
+        },
+        {
+            "title": "A Legendary Flood in Medieval Europe Wasn\u2019t a Single Disaster\u2014It Was 16 of Them",
+            "link": "https://gizmodo.com/a-legendary-flood-in-medieval-europe-wasnt-a-single-disaster-it-was-16-of-them-2000798416"
         },
         {
             "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
@@ -13,31 +17,27 @@
         {
             "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
             "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
-        },
-        {
-            "title": "Big Bear bald eagle Jackie in critical condition as tests continue",
-            "link": "https://www.usatoday.com/story/news/state/california/2026/07/22/jackie-bald-eagle-critical-condition-latest-update/91016328007/"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.2 (-0.04%)",
+            "title": "\ud83d\udcb0 NVDA: $225.16 (-0.06%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $305.63 (0.12%)",
+            "title": "\ud83d\udcb0 AAPL: $305.93 (0.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.72 (-0.23%)",
+            "title": "\ud83d\udcb0 MSFT: $495.4 (-0.3%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.86 (-2.32%)",
+            "title": "\ud83d\udcb0 PLTR: $174.04 (-2.78%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.97 (-0.81%)",
+            "title": "\ud83d\udcb0 AMZN: $262.65 (-0.94%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -47,16 +47,16 @@
             "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
         },
         {
+            "title": "Microsoft Ups Investment in Polluting AI, but Cuts Down Carbon Removal by 80%",
+            "link": "https://gizmodo.com/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80-2000798385"
+        },
+        {
             "title": "Is paying artists enough to convince them to embrace AI?",
             "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
         },
         {
             "title": "New York Issues the Nation\u2019s First Statewide Moratorium on New Large Data Centers",
             "link": "https://gizmodo.com/new-york-issues-the-nations-first-statewide-moratorium-on-new-large-data-centers-2000785420"
-        },
-        {
-            "title": "The US Navy wants to \u2018weaponize\u2019 data for a new AI-first fleet, and it wants tech-savvy sailors to make it happen",
-            "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple mid-4 magnitude earthquakes just hit Azerbaijan, Philippines, and Japan!"
+    "seismicSummary": "\ud83d\udea8 Multiple near-M5 earthquakes just struck diverse regions globally!"
 }
