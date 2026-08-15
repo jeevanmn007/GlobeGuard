@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "GlobeGuard assesses the global threat landscape as increasingly volatile, marked by an immediate and critical physical threat from the ongoing seismic cluster in Indonesia, featuring a magnitude 7.7 earthquake, which demands urgent attention for potential humanitarian impact and regional supply chain disruption. Concurrently, pervasive socio-economic instability is deepening, evidenced by the severe cost-of-living crisis impacting millions in the UK and escalating migration-driven political tensions in Europe, while financial markets exhibit minor jitters reflecting broader economic anxieties and emerging environmental/regulatory headwinds for the energy-intensive AI sector. To secure assets and physical safety, first, prioritize real-time monitoring of the Indonesian seismic events for secondary hazards and their potential impact on global logistics. Second, review and diversify critical asset holdings in regions susceptible to socio-political unrest or climate-induced disruptions, fortifying digital security measures. Third, establish or reinforce robust emergency preparedness plans, especially for personnel or assets situated in seismically active zones or areas vulnerable to resource scarcity and social instability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Massive M7.7 earthquake and multiple strong quakes just hit Indonesia!"
 }
