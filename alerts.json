@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7.7 - 68 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6.9 - 15 km NNW of Pematangsiantar, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
         },
@@ -73,8 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 36 km NE of Labuan Bajo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta"
+            "title": "\u26a0\ufe0f Mag 5.7 - 125 km NNE of Palu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1s"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
