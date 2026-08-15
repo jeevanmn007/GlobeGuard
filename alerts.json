@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and immediately critical threat matrix: widespread socio-economic instability fueled by escalating cost-of-living crises in major economies, a volatile financial sector exhibiting mixed performance among tech giants with notable dips, and an urgent, severe physical threat underscored by a swarm of significant seismic activity, including a Magnitude 7.7 earthquake, near Ende and Pematangsiantar, Indonesia. This convergence is further complicated by rising geopolitical tensions around migration amplified by social media and the dual-edged trajectory of AI development, which promises innovation but also carries significant environmental costs and regulatory challenges, as evidenced by data center moratoriums. In response, three specific directives are paramount: First, immediately fortify disaster preparedness plans for all personnel and assets located in seismically active and flood-prone regions, with particular emphasis on tsunami readiness in the Indo-Pacific. Second, conduct a rapid review and diversification of financial portfolios to mitigate exposure to speculative tech sectors and regions facing acute socio-economic or political instability, while actively hedging against potential AI-related regulatory and ethical backlashes. Third, enhance digital and operational security measures, specifically addressing the proliferation of social media-driven disinformation campaigns and strategically assessing the environmental footprint of core digital infrastructure to preempt future regulatory constraints.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta"
         }
     ],
-    "seismicSummary": "Urgent: A major Magnitude 7.7 earthquake and multiple strong quakes have struck Indonesia!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
