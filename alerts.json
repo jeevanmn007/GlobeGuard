@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - 58 km N of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 125 km NNE of Palu, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1s"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 19 km NE of Colonia, Micronesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl43"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
