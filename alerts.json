@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is characterized by an immediate, multi-faceted risk convergence: escalating socio-economic fragility, seen in widespread struggles for essentials and housing, is being exacerbated by the unmitigated environmental and ethical externalities of rapid AI advancement, subtly impacting tech sector valuations. Simultaneously, acute physical threats are manifesting through a cluster of powerful seismic events in Indonesia, signaling heightened tectonic instability with potential for cascading regional impacts. To mitigate these converging risks, first, secure financial assets through diversification, ensuring liquidity against socio-economic shocks and re-evaluating exposure to environmentally contentious tech; second, prioritize physical safety by updating emergency preparedness plans, especially for natural disasters in vulnerable regions; and third, enhance intelligence by meticulously monitoring social media for rapid shifts in public sentiment and disinformation, as these often precede broader instability.",
+    "strategicPlan": "The global environment demands immediate attention, marked by a critical escalation in physical threat from a significant cluster of seismic events in Indonesia, simultaneously with widespread societal instability driven by economic hardship and weaponized social media, further complicated by the resource-intensive and ethically ambiguous expansion of AI technology, all while key financial sectors demonstrate mixed performance. To navigate this complex landscape, first, immediately assess and fortify critical infrastructure and supply chain vulnerabilities, especially those tied to Southeast Asian nodes, ensuring robust emergency preparedness. Second, stress-test financial resilience by diversifying portfolios beyond concentrated tech assets and increasing liquidity to weather potential economic downturns and resource shocks. Third, implement enhanced digital security and leverage advanced threat intelligence to counter escalating misinformation while strategically engaging with ethical and resource-efficient AI development to mitigate future systemic risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta"
         }
     ],
-    "seismicSummary": "Indonesia hit by a major 7.7 earthquake and multiple other strong quakes!"
+    "seismicSummary": "URGENT: A massive 7.7 magnitude earthquake and multiple strong quakes are hitting Indonesia!"
 }
