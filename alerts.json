@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment demands immediate attention, marked by a critical escalation in physical threat from a significant cluster of seismic events in Indonesia, simultaneously with widespread societal instability driven by economic hardship and weaponized social media, further complicated by the resource-intensive and ethically ambiguous expansion of AI technology, all while key financial sectors demonstrate mixed performance. To navigate this complex landscape, first, immediately assess and fortify critical infrastructure and supply chain vulnerabilities, especially those tied to Southeast Asian nodes, ensuring robust emergency preparedness. Second, stress-test financial resilience by diversifying portfolios beyond concentrated tech assets and increasing liquidity to weather potential economic downturns and resource shocks. Third, implement enhanced digital security and leverage advanced threat intelligence to counter escalating misinformation while strategically engaging with ethical and resource-efficient AI development to mitigate future systemic risks.",
+    "strategicPlan": "The global landscape presents an immediate and multifaceted threat vector, characterized by severe seismic events in Indonesia demanding physical vigilance, compounding socio-economic distress across major economies fueling potential unrest, and a nuanced financial downturn in key tech sectors, particularly AI, against a backdrop of increasing environmental scrutiny and regulatory headwinds. To navigate this convergence, first, fortify physical assets and critical infrastructure, diversifying geographically to mitigate seismic and social disruption risks while updating emergency protocols. Second, recalibrate financial portfolios toward defensive positions, emphasizing liquidity and resilience in essential services given the broad economic fragility. Third, bolster strategic intelligence capabilities to proactively monitor AI's evolving geopolitical, environmental, and regulatory impact, simultaneously developing robust counter-disinformation strategies against social media-amplified instability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta"
         }
     ],
-    "seismicSummary": "URGENT: A massive 7.7 magnitude earthquake and multiple strong quakes are hitting Indonesia!"
+    "seismicSummary": "URGENT: A magnitude 7.7 earthquake and multiple other strong quakes just hit Indonesia!"
 }
