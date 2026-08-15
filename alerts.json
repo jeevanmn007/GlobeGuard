@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is defined by immediate, severe physical threats, with a concentrated cluster of high-magnitude seismic activity, including a 7.7 earthquake, unfolding in Indonesia, signaling acute regional instability and potential humanitarian impact. This geological volatility converges with persistent socio-economic fragility, evidenced by widespread household financial distress in major economies and escalating migration crises amplified by digital narratives. Financially, key tech sectors are experiencing mixed to stagnant performance, with notable dips in crucial AI-adjacent stocks like PLTR, while AI's environmental footprint and regulatory hurdles are becoming significant headwinds. To secure assets and ensure physical safety, GlobeGuard directs immediate implementation of disaster preparedness protocols for all personnel and assets in tectonically active zones, particularly the Indo-Pacific; a critical re-evaluation of financial portfolios to prioritize liquidity and diversification away from potentially over-leveraged or environmentally scrutinized tech investments; and the establishment of enhanced intelligence gathering on local socio-economic indicators and information environment to preempt social unrest and counter destabilizing narratives.",
+    "strategicPlan": "The global threat landscape is rapidly evolving, characterized by a potent confluence of economic fragility, geopolitical volatility, and significant physical hazards. Widespread household economic distress and urban housing crises signal deep-seated societal vulnerabilities, while major tech stocks exhibit cautious, mixed performance, with certain AI-centric firms showing notable dips amidst philanthropic pledges and escalating environmental concerns about AI's energy footprint. Critically, an active and severe seismic event in Indonesia, marked by a powerful M7.7 earthquake and subsequent strong aftershocks, presents an immediate and high-impact physical threat to regional stability and infrastructure. To navigate these converging risks, it is imperative to: 1. Immediately activate emergency response and communication protocols for any personnel or assets in the Indonesian archipelago, ensuring readiness for further seismic activity and potential tsunami threats. 2. Conduct a rapid and thorough review of personal and corporate financial liquidity, diversifying holdings to enhance resilience against widespread economic volatility and potential inflationary pressures. 3. Proactively bolster digital and information security postures, recognizing the escalating potential for social media-fueled destabilization in crisis regions and the emergent, unmitigated risks associated with AI's rapid, energy-intensive deployment.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
             "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o"
+        },
+        {
+            "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
+            "link": "https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/"
         },
         {
             "title": "A Legendary Flood in Medieval Europe Wasn\u2019t a Single Disaster\u2014It Was 16 of Them",
@@ -13,10 +17,6 @@
         {
             "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
             "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo"
-        },
-        {
-            "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
-            "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo"
         }
     ],
     "stock": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7"
         }
     ],
-    "seismicSummary": "Major 7.7 earthquake with strong aftershocks rocking Indonesia!"
+    "seismicSummary": "Urgent: A powerful 7.7 magnitude earthquake and multiple strong tremors have struck Indonesia!"
 }
