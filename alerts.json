@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assessment indicates a confluence of escalating global threats: pervasive social and economic fragility, evidenced by widespread affordability crises and migration pressures, is creating fertile ground for instability, amplified by social media narratives. Concurrently, the financial landscape for key tech players is showing minor fluctuations amidst massive AI investment debates regarding environmental impact and ethical compensation, while a critical physical threat is unfolding with multiple high-magnitude seismic events in Indonesia, posing immediate risks to regional infrastructure, supply chains, and human safety. To navigate this complex environment, first, immediately assess and reinforce physical safety protocols and supply chain resilience, particularly for assets or operations in or connected to seismically active regions like Southeast Asia. Second, review and diversify financial portfolios, prioritizing assets resilient to social unrest and regulatory shifts impacting burgeoning sectors like AI. Finally, intensify geopolitical monitoring of socio-economic stress points and the evolving impact of technology on public discourse, integrating these insights into comprehensive risk mitigation and contingency planning.",
+    "strategicPlan": "The global landscape is currently defined by a critical convergence of risks: **pervasive socio-economic fragility** evidenced by widespread cost-of-living crises and magnified by escalating migration pressures and the distorting influence of social media; **unstable technological transformation** where AI's rapid evolution presents both significant investment (though with market apprehension reflected in some tech stock dips like PLTR) and substantial environmental and infrastructural challenges (as seen in Microsoft's carbon practices and data center moratoriums); and an **immediate, severe physical tectonic threat** from a cluster of high-magnitude earthquakes in Indonesia, signaling acute regional instability and potential cascading disasters. This complex and volatile environment demands swift, decisive action. Therefore, first, immediately audit and secure all critical physical and digital assets, diversifying investments where possible to hedge against both economic turbulence and disaster-related losses. Second, rigorously review and enhance emergency preparedness and business continuity plans, with a specific focus on robust communication strategies and pre-positioned resources for personnel and assets in tectonically active or otherwise vulnerable regions. Third, intensify monitoring of regional socio-political stability and critical supply chains, anticipating potential disruptions stemming from economic stress, migration dynamics, or natural disaster impacts, and establish contingency sourcing.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,7 +65,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.9 - 7 km NNW of Pematangsiantar, Indonesia",
+            "title": "\u26a0\ufe0f Mag 6.9 - 15 km NNW of Pematangsiantar, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta"
         }
     ],
-    "seismicSummary": "**URGENT: A major 7.7M earthquake has struck Indonesia, accompanied by multiple other strong quakes including a 6.9M.**"
+    "seismicSummary": "URGENT: Indonesia has been hit by a massive Mag 7.7 earthquake and multiple other strong quakes!"
 }
