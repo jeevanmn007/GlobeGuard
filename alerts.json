@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is currently marked by acute multi-faceted instability: widespread socio-economic distress fosters amplified social unrest, while tech markets show mixed performance with notable declines, coinciding with an energy-intensive AI boom facing growing regulatory pushback and environmental concerns. Critically, a major seismic event cluster, including a 7.7 magnitude earthquake off Indonesia, presents an immediate, severe physical threat with potential regional cascading effects. To navigate this complex landscape, first, immediately review and update emergency preparedness and evacuation plans for all personnel and critical assets, particularly those in seismically active or coastal regions. Second, diversify asset portfolios, reducing exposure to volatile tech sectors burdened by high energy demands and increasing regulatory scrutiny. Third, strengthen both physical and cyber-security defenses against escalating social instability and the immediate threat of natural disasters.",
+    "strategicPlan": "GlobeGuard assessment indicates a confluence of escalating global threats: pervasive social and economic fragility, evidenced by widespread affordability crises and migration pressures, is creating fertile ground for instability, amplified by social media narratives. Concurrently, the financial landscape for key tech players is showing minor fluctuations amidst massive AI investment debates regarding environmental impact and ethical compensation, while a critical physical threat is unfolding with multiple high-magnitude seismic events in Indonesia, posing immediate risks to regional infrastructure, supply chains, and human safety. To navigate this complex environment, first, immediately assess and reinforce physical safety protocols and supply chain resilience, particularly for assets or operations in or connected to seismically active regions like Southeast Asia. Second, review and diversify financial portfolios, prioritizing assets resilient to social unrest and regulatory shifts impacting burgeoning sectors like AI. Finally, intensify geopolitical monitoring of socio-economic stress points and the evolving impact of technology on public discourse, integrating these insights into comprehensive risk mitigation and contingency planning.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2"
         },
         {
+            "title": "\u26a0\ufe0f Mag 6.9 - 7 km NNW of Pematangsiantar, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6.1 - 58 km N of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.9 - 36 km NE of Labuan Bajo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.6 - 61 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7"
         }
     ],
-    "seismicSummary": "Powerful 7.7 quake and multiple strong aftershocks strike Indonesia!"
+    "seismicSummary": "**URGENT: A major 7.7M earthquake has struck Indonesia, accompanied by multiple other strong quakes including a 6.9M.**"
 }
