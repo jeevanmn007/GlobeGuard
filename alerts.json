@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a concerning convergence of systemic vulnerabilities: widespread economic hardship and social instability are manifesting globally, exacerbated by a medieval-scale pattern of cascading disasters and politically charged migrant crises amplified by social media. Financial markets, particularly the tech sector, reflect this uncertainty with mixed to declining performance, even as AI advancements face increasing environmental scrutiny and regulatory pushback. This volatility is underscored by a critical escalation in physical threats, notably a series of significant seismic events, including a 6.9 magnitude earthquake in Indonesia, indicating heightened tectonic instability across the Pacific Ring of Fire. To navigate this complex environment, first, immediately re-evaluate and diversify investment portfolios, prioritizing liquid assets and hedging strategies against sustained economic downturns and tech sector volatility; second, fortify operational resilience by scrutinizing supply chain dependencies and data center energy footprints, while implementing enhanced digital security protocols to safeguard against evolving AI-driven threats and regulatory changes affecting data processing and storage; and third, and most critically, activate and rehearse comprehensive emergency response plans for all personnel and assets located in seismically active or disaster-prone regions, ensuring robust communication, evacuation, and survival provisions are in place to mitigate the impact of anticipated physical disruptions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
         },
         {
+            "title": "\u26a0\ufe0f Mag 6.1 - 56 km NNE of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - 125 km NNE of Palu, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1s"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 19 km NE of Colonia, Micronesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl43"
         }
     ],
-    "seismicSummary": "**URGENT: A major 6.9 magnitude earthquake just hit Indonesia, with multiple other quakes above magnitude 5 reported across the Pacific region.**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
