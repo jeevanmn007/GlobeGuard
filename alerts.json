@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is characterized by a confluence of accelerating risks: domestic economic fragilities are deepening, evidenced by widespread struggles with essential costs and housing, fostering conditions ripe for social unrest and exacerbated by potent social media narratives; financially, key tech sector performance shows mixed signals with notable downturns in AI-adjacent firms, hinting at underlying market re-evaluation amidst the disruptive ascent of AI technology with its dual-use implications for military and environmental impact; concurrently, a highly active seismic cluster, particularly a magnitude 6.9 event in Indonesia, signals an immediate and elevated physical threat to infrastructure, supply chains, and human safety across a critical geopolitical region. To navigate this complex threat landscape, immediately: 1. **Fortify Financial Resilience:** Diversify investment portfolios, reducing exposure to highly speculative tech sectors, and ensure robust liquidity to absorb potential economic shocks from both domestic instability and market volatility. 2. **Enhance Digital & Information Security:** Proactively audit and strengthen cyber defenses against sophisticated AI-driven threats, while cultivating critical information literacy to counter the weaponization of data and social media narratives in emergent crises. 3. **Implement Asia-Pacific Contingency Planning:** Urgently review and update disaster preparedness, personnel safety protocols, and supply chain resilience measures for all assets and operations within the active seismic zones of Southeast Asia, specifically focusing on Indonesia and Vanuatu.",
+    "strategicPlan": "The global landscape is currently defined by a confluence of escalating socio-economic strain, evident in widespread struggles for essential resources across major economies, and the rapid, yet ethically and environmentally contentious, advancement of AI technologies. While financial markets exhibit minor volatility, with notable drops in specific tech sectors, the heightened seismic activity across the Pacific Ring of Fire introduces an immediate and significant physical threat. To secure your assets and physical safety, first, strengthen economic resilience by diversifying essential supply chains and ensuring robust financial liquidity to mitigate against localized resource shocks. Second, proactively safeguard digital assets and critically evaluate dependencies on emerging AI technologies, given their evolving ethical, environmental, and potential weaponization implications. Third, for all assets and personnel located in seismically active regions, immediately review and update emergency preparedness protocols, secure physical infrastructure, and ensure comprehensive disaster readiness kits are readily accessible.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.9 - 15 km NNW of Pematangsiantar, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6.1 - 56 km NNE of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.5 - 76 km N of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes detected, including M6.9 in Indonesia and M6.1 in Vanuatu!"
+    "seismicSummary": "**Multiple strong earthquakes, including a M6.1, just struck Vanuatu, Indonesia, and Japan!**"
 }
