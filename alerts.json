@@ -69,12 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 19 km NE of Colonia, Micronesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl43"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 75 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 67 km WSW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e8n"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
