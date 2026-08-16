@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment presents a complex and evolving threat landscape: widespread socio-economic strain, evidenced by struggles for essential affordability and complex migration challenges amplified by social media, indicates a heightened potential for localized social unrest. Financially, major tech stocks show mild volatility with some significant dips, reflecting broader investor caution as AI's transformative yet environmentally impactful and ethically complex development accelerates. Concurrently, a pronounced cluster of significant seismic activity, including a Magnitude 6.9 event, across the Indo-Pacific Ring of Fire signals immediate and elevated physical risks in these tectonically active zones. To secure assets and ensure physical safety, first, critically review and diversify financial portfolios to enhance resilience against market volatility. Second, elevate localized threat intelligence and contingency planning for personnel and operations in regions susceptible to social unrest. Third, immediately audit and reinforce disaster preparedness protocols and infrastructure resilience for all assets and personnel located in areas prone to seismic events.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36"
+            "title": "\u26a0\ufe0f Mag 5.5 - 76 km N of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: A M6.9 earthquake in Indonesia leads multiple strong quakes across Indonesia and Vanuatu!"
 }
