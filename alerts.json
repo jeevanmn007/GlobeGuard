@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical confluence of escalating socioeconomic distress, geopolitical fragility, and heightened physical threats. Widespread struggles for basic necessities and housing crises are fueling social unrest and contributing to geopolitical instability, as evidenced by the migrant crisis in Spain, amplified by digital platforms. Financially, while significant investment flows into AI, leading to military applications and ethical debates regarding environmental impact, market volatility is pronounced, with key tech stocks showing declines. Concurrently, a concerning surge in seismic activity, specifically a cluster of moderate to strong earthquakes in the Ring of Fire (Kamchatka and Indonesia), alongside historical reminders of multi-event natural disasters, underscores an elevated risk of physical disruption. To navigate this complex landscape, I advise you to immediately: 1) Diversify and secure critical financial and digital assets, anticipating market fluctuations and potential cyber disruptions; 2) Review and bolster physical safety and emergency preparedness plans, prioritizing robust responses to seismic events and potential cascading natural disasters; and 3) Implement stringent information vetting and digital hygiene practices to counter disinformation and safeguard against social engineering tactics in an increasingly polarized global information space.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.69 (0.24%)",
+            "title": "\ud83d\udcb0 NVDA: $225.01 (-0.07%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $306.05 (0.04%)",
+            "title": "\ud83d\udcb0 AAPL: $305.59 (-0.11%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $480.34 (-3.04%)",
+            "title": "\ud83d\udcb0 MSFT: $480.35 (-3.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $173.43 (-0.35%)",
+            "title": "\ud83d\udcb0 PLTR: $172.55 (-0.86%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.33 (-0.88%)",
+            "title": "\ud83d\udcb0 AMZN: $261.31 (-0.51%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes reported, including a 5.8 in Russia and several in Indonesia!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
