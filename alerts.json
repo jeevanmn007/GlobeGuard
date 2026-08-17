@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence picture reveals a dangerously converging threat landscape. Escalating socioeconomic instability, from widespread struggles for essentials to urban rent crises, is ripe for manipulation by social media-fueled political unrest, echoing historical patterns of cascading disasters. This vulnerability is compounded by a perceptible cooling in key tech stocks, notably in data intelligence, hinting at broader market unease, while a concentrated cluster of significant seismic activity in the Indonesian Ring of Fire signals heightened physical risk. Overlaying these immediate concerns is the accelerating, yet ethically complex and environmentally fraught, integration of AI into critical infrastructure and military strategy, representing a profound force multiplier for both risk and opportunity. To navigate this complex environment, secure your assets and ensure physical safety by immediately: 1) Fortifying critical supply chains and local resilience against escalating socioeconomic shocks; 2) Strategically re-evaluating financial portfolios for overexposure to volatile tech, realigning towards stable, defensive assets; and 3) Conducting urgent geographic risk assessments for all key personnel and physical infrastructure in tectonically active or disaster-prone zones, implementing robust emergency preparedness and contingency plans.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 76 km N of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 68 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 75 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 70 km NNW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Urgent: Multiple strong earthquakes, up to Mag 5.7, are striking Indonesia near Ende!"
 }
