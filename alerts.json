@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The current global intelligence picture reveals a complex interplay of escalating socio-economic distress, marked by widespread cost-of-living crises and exacerbated migration challenges, creating fertile ground for social instability. Financially, while major tech stocks exhibit minor retreats, the rapid expansion of the AI sector presents both philanthropic pledges and concerning environmental trade-offs, alongside its increasingly critical integration into military strategies. Concurrently, a concentrated cluster of moderate seismic activity in the tectonically volatile Indonesian archipelago highlights persistent natural hazard risks, demanding a multi-faceted strategic response. To navigate this landscape, (1) proactively audit and diversify financial portfolios, particularly in tech, while securing essential supply chains against climate and geopolitical disruptions; (2) reinforce physical safety protocols and emergency preparedness plans, especially for natural disasters, ensuring access to critical resources; and (3) critically evaluate information sources to mitigate social media-driven misinformation, fortifying both digital and community resilience against looming socio-economic pressures.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 75 km N of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 68 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 70 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 67 km WSW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e8n"
+            "title": "\u26a0\ufe0f Mag 5.2 - 81 km N of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed7"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 5.7, just struck Indonesia!"
 }
