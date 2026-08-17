@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is navigating a complex nexus of escalating socio-economic strain, evidenced by widespread cost-of-living crises that fuel geopolitical instabilities, including social media-amplified migrant challenges. Financially, while major tech remains largely stable, a notable dip in AI-focused equities like PLTR suggests market caution amidst the rapidly evolving, and environmentally impactful, AI landscape. This is overlaid by a concentrated and significant physical threat from ongoing seismic activity in Indonesia. To secure your assets and physical safety, immediately diversify and de-risk financial portfolios, particularly in volatile tech sectors; conduct thorough risk assessments and fortify physical assets against both natural disasters and potential socio-political unrest; and strengthen digital and personal resilience to mitigate exposure to information warfare and socio-economic shocks.",
+    "strategicPlan": "The global landscape presents a complex and urgent threat profile, characterized by escalating socioeconomic instability as millions struggle with essential costs and rent crises, further amplified by social media's influence on geopolitical events like the migrant surge. Financially, major tech stocks exhibit declines despite significant AI investments, raising concerns about market resilience and the ethical environmental impact of this technological acceleration. Concurrently, a surge in significant seismic activity across critical zones in Russia and Indonesia underscores a persistent and potentially compounding physical threat, reminiscent of historical multi-event disasters. To secure assets and ensure safety, we must implement three immediate directives: first, fortify financial resilience by rigorously assessing essential expenditures, diversifying investment portfolios beyond volatile tech, and establishing robust emergency funds. Second, enhance digital security and information hygiene against the rising threat of weaponized AI and misinformation, especially given evolving military applications of data. Third, activate and update comprehensive physical disaster preparedness plans, focusing on structural integrity, emergency supplies, and rapid response protocols for all relevant operating regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.16 (-0.06%)",
+            "title": "\ud83d\udcb0 NVDA: $225.68 (0.23%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $305.93 (0.22%)",
+            "title": "\ud83d\udcb0 AAPL: $305.06 (-0.28%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.4 (-0.3%)",
+            "title": "\ud83d\udcb0 MSFT: $485.91 (-1.92%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.04 (-2.78%)",
+            "title": "\ud83d\udcb0 PLTR: $173.72 (-0.18%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.65 (-0.94%)",
+            "title": "\ud83d\udcb0 AMZN: $262.14 (-0.19%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - 65 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 68 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 81 km N of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed7"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck near Ende and Ruteng, Indonesia!"
+    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes, including a 5.8, just struck Russia and Indonesia!"
 }
