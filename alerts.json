@@ -61,16 +61,16 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - 56 km NNE of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 65 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - 76 km N of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 68 km NNW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 75 km NNE of Ruteng, Indonesia",
