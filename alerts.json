@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and critical threat profile, characterized by mounting socio-economic fragility evidenced by widespread struggles for essentials and politically charged migrant crises amplified by social media; a rapidly accelerating AI technological revolution introducing both immense opportunities and significant resource/environmental trade-offs, alongside military applications; and persistent geophysical instability highlighted by multiple moderate seismic events in active zones. Financially, market performance reflects this complexity with mixed trends, underscoring underlying volatility amidst disruptive change. To mitigate these interwoven risks, GlobeGuard directs immediate action: first, fortify your financial and digital asset security by diversifying investments and enhancing cyber-hygiene against evolving information threats; second, ensure robust physical safety preparedness by reviewing and updating emergency plans, including supply caches and communication protocols, in anticipation of potential disruptions; and third, strategically assess personal and local resource resilience, considering the implications of global supply chain pressures and the environmental footprint of emerging technologies.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $226.58 (0.63%)",
+            "title": "\ud83d\udcb0 NVDA: $227.43 (1.01%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $304.18 (-0.57%)",
+            "title": "\ud83d\udcb0 AAPL: $304.53 (-0.46%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $482.4 (-2.62%)",
+            "title": "\ud83d\udcb0 MSFT: $484.85 (-2.13%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.44 (0.23%)",
+            "title": "\ud83d\udcb0 PLTR: $175.13 (0.63%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.64 (-0.77%)",
+            "title": "\ud83d\udcb0 AMZN: $261.39 (-0.48%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
         }
     ],
-    "seismicSummary": "BREAKING: A Mag 5.8 earthquake just hit Russia, along with multiple strong 5+ magnitude quakes reported in Indonesia!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
