@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a complex, dynamic threat environment where escalating socio-economic strain and political volatility, intensified by digitally amplified narratives, are creating pervasive instability in key regions. Financially, the tech sector exhibits mixed signals and ongoing volatility even as the rapid, resource-intensive acceleration of AI development presents both opportunities and significant environmental and ethical challenges. Concurrently, persistent moderate seismic activity across multiple global fault lines underscores the constant underlying physical vulnerabilities. To navigate this evolving landscape, immediately (1) diversify liquid asset holdings to mitigate potential economic and social shocks, (2) fortify digital information security by critically vetting all sources and establishing secure communication channels against increasing online manipulation, and (3) comprehensively review and update personal and operational emergency preparedness protocols, particularly for natural disaster contingencies, given the consistent seismic data from vulnerable zones.",
+    "strategicPlan": "The global intelligence picture reveals a complex, multi-layered threat environment characterized by pervasive economic distress, escalating cost-of-living crises, and rent unaffordability, which are fueling social instability and political polarization often exacerbated by social media. Concurrently, the accelerating AI revolution presents a dual challenge of immense opportunity alongside significant ethical and environmental concerns, notably its carbon footprint and impact on labor, reflected in mixed performance among leading tech stocks despite heavy investment. Underlying these geopolitical and socio-economic dynamics, a sustained pattern of global seismic activity, with multiple significant quakes across key regions, indicates persistent physical threats. Therefore, GlobeGuard directs immediate action: 1) Diversify and stress-test financial holdings, prioritizing resilience against economic volatility while selectively investing in AI innovators with strong ethical and environmental governance. 2) Implement robust information vetting protocols to counter social media-driven instability and secure digital assets against evolving cyber threats, including those leveraged by AI. 3) Review and update comprehensive emergency preparedness plans for all physical assets and personnel, particularly in seismically active regions or areas prone to climate-related disasters.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.35 (-2.07%)",
+            "title": "\ud83d\udcb0 NVDA: $220.08 (-2.19%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.1 (1.47%)",
+            "title": "\ud83d\udcb0 AAPL: $310.79 (1.7%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.87 (0.32%)",
+            "title": "\ud83d\udcb0 MSFT: $481.34 (0.21%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.87 (0.19%)",
+            "title": "\ud83d\udcb0 PLTR: $172.55 (0.0%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.52 (-0.3%)",
+            "title": "\ud83d\udcb0 AMZN: $260.37 (-0.36%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking globally!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide!"
 }
