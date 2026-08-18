@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence picture reveals a critical convergence of systemic threats: deepening social and economic distress, evidenced by widespread household struggles and urban housing crises, fuels geopolitical instability exacerbated by migration and the divisive influence of social media. This social fragility is unfolding amidst a cautious financial market, with major tech stocks experiencing declines despite the accelerating, yet ethically and environmentally concerning, expansion of AI technologies and their militarized applications. Compounding these human-driven pressures is a demonstrably elevated level of global seismic activity, highlighting persistent physical vulnerabilities across multiple regions. Therefore, GlobeGuard directs an urgent, three-pronged response to fortify resilience: first, immediately secure financial liquidity and diversify asset portfolios away from overexposure to volatile tech sectors to mitigate economic uncertainty; second, enhance physical safety by reviewing and updating emergency preparedness plans and infrastructure resilience, especially in identified seismically active areas; and third, bolster digital defenses and data integrity protocols against the increasing weaponization of AI and information, preparing for potential societal disruptions and cyber vulnerabilities.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.01 (-0.07%)",
+            "title": "\ud83d\udcb0 NVDA: $220.09 (-2.25%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $305.59 (-0.11%)",
+            "title": "\ud83d\udcb0 AAPL: $306.02 (0.03%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $480.35 (-3.04%)",
+            "title": "\ud83d\udcb0 MSFT: $482.41 (-2.62%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.55 (-0.86%)",
+            "title": "\ud83d\udcb0 PLTR: $173.92 (-0.07%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.31 (-0.51%)",
+            "title": "\ud83d\udcb0 AMZN: $259.14 (-1.33%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
+            "title": "\u26a0\ufe0f Mag 5.7 - 95 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 75 km N of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed8"
+            "title": "\u26a0\ufe0f Mag 5.6 - 154 km SSE of Teluk Dalam, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 59 km ENE of Colonia, Micronesia",
+            "title": "\u26a0\ufe0f Mag 5.3 - 24 km ENE of Colonia, Micronesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlgm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 68 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
+            "title": "\u26a0\ufe0f Mag 5.1 - Kuril Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple magnitude 5+ earthquakes just hit worldwide!"
 }
