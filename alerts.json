@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global threat landscape is characterized by escalating socioeconomic distress, evidenced by widespread cost-of-living crises and amplified social media-driven instability, while simultaneously undergoing a rapid, environmentally taxing, and militarized AI transformation. This profound digital and societal upheaval unfolds against a backdrop of persistent, moderate-to-strong seismic activity across multiple geologically active regions, presenting a complex and volatile risk environment. To secure assets and physical safety, GlobeGuard directs the following actions: first, fortify and diversify all asset holdings, both financial and digital, against economic volatility and advanced cyber threats; second, enhance local physical and community resilience measures, preparing for both natural disasters and potential social unrest stemming from economic hardship and amplified information; and third, implement advanced intelligence monitoring for AI's geopolitical and environmental impacts, ensuring robust supply chain integrity against cascading disruptions.",
+    "strategicPlan": "GlobeGuard assesses a complex, dynamic threat environment where escalating socio-economic strain and political volatility, intensified by digitally amplified narratives, are creating pervasive instability in key regions. Financially, the tech sector exhibits mixed signals and ongoing volatility even as the rapid, resource-intensive acceleration of AI development presents both opportunities and significant environmental and ethical challenges. Concurrently, persistent moderate seismic activity across multiple global fault lines underscores the constant underlying physical vulnerabilities. To navigate this evolving landscape, immediately (1) diversify liquid asset holdings to mitigate potential economic and social shocks, (2) fortify digital information security by critically vetting all sources and establishing secure communication channels against increasing online manipulation, and (3) comprehensively review and update personal and operational emergency preparedness protocols, particularly for natural disaster contingencies, given the consistent seismic data from vulnerable zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.74 (-2.34%)",
+            "title": "\ud83d\udcb0 NVDA: $220.35 (-2.07%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.34 (1.55%)",
+            "title": "\ud83d\udcb0 AAPL: $310.1 (1.47%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.61 (0.26%)",
+            "title": "\ud83d\udcb0 MSFT: $481.87 (0.32%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.29 (-0.15%)",
+            "title": "\ud83d\udcb0 PLTR: $172.87 (0.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.26 (-0.02%)",
+            "title": "\ud83d\udcb0 AMZN: $260.52 (-0.3%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
         },
         {
-            "title": "The US Navy wants to \u2018weaponize\u2019 data for a new AI-first fleet, and it wants tech-savvy sailors to make it happen",
-            "link": "https://www.businessinsider.com/us-navy-data-ai-for-ai-first-fleet-2026-7#article"
+            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
+            "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz"
         }
     ],
-    "seismicSummary": "Alert: Multiple M5+ earthquakes strike worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking globally!"
 }
