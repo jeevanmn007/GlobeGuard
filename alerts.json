@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critical convergence of systemic threats: deepening social and economic distress, evidenced by widespread household struggles and urban housing crises, fuels geopolitical instability exacerbated by migration and the divisive influence of social media. This social fragility is unfolding amidst a cautious financial market, with major tech stocks experiencing declines despite the accelerating, yet ethically and environmentally concerning, expansion of AI technologies and their militarized applications. Compounding these human-driven pressures is a demonstrably elevated level of global seismic activity, highlighting persistent physical vulnerabilities across multiple regions. Therefore, GlobeGuard directs an urgent, three-pronged response to fortify resilience: first, immediately secure financial liquidity and diversify asset portfolios away from overexposure to volatile tech sectors to mitigate economic uncertainty; second, enhance physical safety by reviewing and updating emergency preparedness plans and infrastructure resilience, especially in identified seismically active areas; and third, bolster digital defenses and data integrity protocols against the increasing weaponization of AI and information, preparing for potential societal disruptions and cyber vulnerabilities.",
+    "strategicPlan": "The global intelligence assessment reveals a critical juncture defined by escalating socio-economic fragility in advanced economies, amplified geopolitical friction around issues like migration, and the pervasive yet ethically and environmentally challenging expansion of AI, reflected in recent tech sector volatility. This complex human environment is underpinned by a distinct rise in natural hazard indicators, specifically a clustering of multiple moderate-to-strong seismic events observed across various global fault lines. To secure assets and ensure physical safety, GlobeGuard directs immediate action: first, bolster financial resilience through strategic asset diversification, particularly away from speculative tech holdings and towards tangible assets, while critically assessing AI investments for long-term ethical and environmental viability; second, enhance personal and community security by cultivating robust local networks and rigorously verifying information to counter digital misinformation, preparing for potential localized disruptions; and third, urgently review and reinforce emergency preparedness, with a specific focus on robust plans for seismic events and prolonged resource interruptions, acknowledging the elevated tectonic activity and the potential for cascading crises.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.09 (-2.25%)",
+            "title": "\ud83d\udcb0 NVDA: $219.76 (-2.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $306.02 (0.03%)",
+            "title": "\ud83d\udcb0 AAPL: $311.01 (1.66%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $482.41 (-2.62%)",
+            "title": "\ud83d\udcb0 MSFT: $481.35 (-2.84%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $173.92 (-0.07%)",
+            "title": "\ud83d\udcb0 PLTR: $172.97 (-0.61%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.14 (-1.33%)",
+            "title": "\ud83d\udcb0 AMZN: $261.76 (-0.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes just hit worldwide!"
+    "seismicSummary": "Four Mag 5+ earthquakes just struck globally!"
 }
