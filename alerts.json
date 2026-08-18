@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 65 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 75 km N of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed8"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 59 km ENE of Colonia, Micronesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlgm"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 68 km NNW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
