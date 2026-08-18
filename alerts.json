@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a critical nexus of converging threats: escalating socio-economic fragility, marked by widespread struggles and migration crises amplified by digital platforms, sets a precarious geopolitical stage, while a dynamic yet volatile financial landscape is dominated by an AI arms race with significant ethical and environmental liabilities. This human-centric instability is underpinned by consistent moderate seismic activity across multiple key regions, posing a persistent physical threat to infrastructure and supply chains. Therefore, we direct immediate action: 1) Critically assess and diversify your financial and tangible assets, prioritizing resilience against economic shocks and potential social unrest. 2) Enhance local situational awareness regarding community stability and the robustness of essential supply chains, preparing for localized disruptions. 3) Thoroughly review and update personal and family emergency preparedness plans, including communication strategies and disaster kits, particularly if situated in seismically active or environmentally vulnerable areas.",
+    "strategicPlan": "The global intelligence assessment reveals a critical, multi-faceted risk environment characterized by escalating social fragility due to pervasive economic hardship and migrant crises, a dynamic but ethically challenged financial landscape heavily driven by AI investment with significant environmental and social implications, and a concerning pattern of moderate seismic activity across diverse and vulnerable regions. To navigate this intricate threat matrix effectively, GlobeGuard recommends three immediate strategic actions: first, rigorously diversify asset portfolios, prioritizing stability and tangible assets over aggressive single-sector tech growth, while closely tracking AI regulatory shifts; second, meticulously update and conduct drills for physical emergency preparedness, ensuring robust infrastructure and supply chains, particularly for earthquake and flood scenarios given recent seismic and historical data; and third, implement enhanced digital security protocols against misinformation campaigns capable of fueling social unrest, simultaneously fortifying physical security for personnel and critical infrastructure in geopolitically sensitive zones.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.09 (-2.63%)",
+            "title": "\ud83d\udcb0 NVDA: $219.74 (-2.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.77 (1.37%)",
+            "title": "\ud83d\udcb0 AAPL: $310.03 (1.45%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $483.72 (0.7%)",
+            "title": "\ud83d\udcb0 MSFT: $481.63 (0.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.89 (0.2%)",
+            "title": "\ud83d\udcb0 PLTR: $171.54 (-0.59%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.22 (-0.42%)",
+            "title": "\ud83d\udcb0 AMZN: $259.45 (-0.71%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 24 km ENE of Colonia, Micronesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlgm"
+            "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Jurm, Afghanistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Kuril Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz"
+            "title": "\u26a0\ufe0f Mag 5.3 - 24 km ENE of Colonia, Micronesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlgm"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Several M5+ earthquakes just struck globally!"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes just reported worldwide!"
 }
