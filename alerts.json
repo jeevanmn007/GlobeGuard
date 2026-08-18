@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is marked by converging instabilities: widespread socio-economic distress, particularly in developed nations, is creating fertile ground for social unrest and political fragmentation, further exacerbated by weaponized information flows around issues like migration. Financially, while AI continues to drive significant investment and wealth concentration, leading tech stocks show volatility, indicating market uncertainty amidst ethical and environmental concerns surrounding AI development and its rapid militarization. Compounding these human-driven pressures is a pattern of significant, distributed seismic activity across key global regions, underscoring fundamental geophysical fragility. To navigate this complex threat matrix, immediately secure your financial resilience by diversifying liquid assets and auditing critical supply chains for essential goods. Concurrently, fortify your digital perimeter and information hygiene, understanding that data is increasingly weaponized in social and military spheres. Finally, review and update your emergency preparedness protocols for physical locations, particularly against seismic events and other natural hazards.",
+    "strategicPlan": "The current global threat landscape is characterized by escalating socioeconomic distress, evidenced by widespread cost-of-living crises and amplified social media-driven instability, while simultaneously undergoing a rapid, environmentally taxing, and militarized AI transformation. This profound digital and societal upheaval unfolds against a backdrop of persistent, moderate-to-strong seismic activity across multiple geologically active regions, presenting a complex and volatile risk environment. To secure assets and physical safety, GlobeGuard directs the following actions: first, fortify and diversify all asset holdings, both financial and digital, against economic volatility and advanced cyber threats; second, enhance local physical and community resilience measures, preparing for both natural disasters and potential social unrest stemming from economic hardship and amplified information; and third, implement advanced intelligence monitoring for AI's geopolitical and environmental impacts, ensuring robust supply chain integrity against cascading disruptions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.54 (-2.5%)",
+            "title": "\ud83d\udcb0 NVDA: $219.74 (-2.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.28 (1.42%)",
+            "title": "\ud83d\udcb0 AAPL: $310.34 (1.55%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.73 (-2.76%)",
+            "title": "\ud83d\udcb0 MSFT: $481.61 (0.26%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.71 (-1.34%)",
+            "title": "\ud83d\udcb0 PLTR: $172.29 (-0.15%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.13 (-0.96%)",
+            "title": "\ud83d\udcb0 AMZN: $261.26 (-0.02%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz"
         }
     ],
-    "seismicSummary": "Four significant magnitude 5+ earthquakes are striking globally!"
+    "seismicSummary": "Alert: Multiple M5+ earthquakes strike worldwide!"
 }
