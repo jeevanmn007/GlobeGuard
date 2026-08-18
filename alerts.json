@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical, multi-faceted risk environment characterized by escalating social fragility due to pervasive economic hardship and migrant crises, a dynamic but ethically challenged financial landscape heavily driven by AI investment with significant environmental and social implications, and a concerning pattern of moderate seismic activity across diverse and vulnerable regions. To navigate this intricate threat matrix effectively, GlobeGuard recommends three immediate strategic actions: first, rigorously diversify asset portfolios, prioritizing stability and tangible assets over aggressive single-sector tech growth, while closely tracking AI regulatory shifts; second, meticulously update and conduct drills for physical emergency preparedness, ensuring robust infrastructure and supply chains, particularly for earthquake and flood scenarios given recent seismic and historical data; and third, implement enhanced digital security protocols against misinformation campaigns capable of fueling social unrest, simultaneously fortifying physical security for personnel and critical infrastructure in geopolitically sensitive zones.",
+    "strategicPlan": "GlobeGuard's immediate assessment reveals a complex global risk landscape: mounting socio-economic distress, evidenced by widespread household struggles and rent crises, is significantly elevating the risk of social instability and unrest, further exacerbated by the deliberate manipulation of social media in geopolitical discourse. Concurrently, the financial sector navigates mixed tech stock performance amidst an accelerating, yet ethically fraught and environmentally concerning, race for AI dominance, drawing massive capital while raising long-term sustainability questions. Critically, no immediate physical tectonic threats are indicated in the current data. In light of this, GlobeGuard directs you to: 1. Proactively diversify your financial and physical assets, shielding against both market volatility driven by rapid technological shifts and potential economic disruptions stemming from social instability. 2. Strengthen personal and local community preparedness protocols, including emergency supplies and communication plans, in anticipation of potential localized unrest and environmental disruptions, learning from historical flood patterns. 3. Adopt rigorous information hygiene practices, critically vetting all social media narratives to counter disinformation and ensure informed decision-making regarding both asset security and physical safety.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -59,23 +59,6 @@
             "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
         }
     ],
-    "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 5.7 - 95 km SW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.6 - 154 km SSE of Teluk Dalam, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Jurm, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 24 km ENE of Colonia, Micronesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlgm"
-        }
-    ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes just reported worldwide!"
+    "seismic": [],
+    "seismicSummary": "**No earthquakes detected.**"
 }
