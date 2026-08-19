@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.99 (-0.34%)",
+            "title": "\ud83d\udcb0 NVDA: $219.65 (-0.04%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $315.23 (1.68%)",
+            "title": "\ud83d\udcb0 AAPL: $314.83 (1.55%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $483.5 (0.39%)",
+            "title": "\ud83d\udcb0 MSFT: $483.98 (0.49%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $173.52 (1.15%)",
+            "title": "\ud83d\udcb0 PLTR: $174.94 (1.98%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $264.76 (2.04%)",
+            "title": "\ud83d\udcb0 AMZN: $264.03 (1.77%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,12 +69,12 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Jurm, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
+            "title": "\u26a0\ufe0f Mag 5.4 - 134 km S of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 66 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9"
+            "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Jurm, Afghanistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
