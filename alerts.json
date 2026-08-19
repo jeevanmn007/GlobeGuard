@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex and volatile risk profile: widespread socio-economic distress, evidenced by escalating cost-of-living and housing crises, fuels potential geopolitical instability and makes populations susceptible to information warfare, all while the booming yet ethically contentious AI-driven tech sector signals profound future economic and environmental shifts. This intricate dynamic is further compounded by persistent geological instability, underscored by multiple recent moderate-to-strong seismic events globally, posing an undeniable physical threat. To navigate this challenging environment, GlobeGuard directs immediate action: 1) Strategically diversify and secure physical assets against socio-economic disruption and supply chain fragility. 2) Proactively enhance regional intelligence gathering on economic stressors and social media manipulation to pre-empt unrest and migration surges. 3) Reinforce comprehensive disaster preparedness, particularly in seismically active zones, ensuring robust emergency response and business continuity.",
+    "strategicPlan": "Global stability is acutely threatened by widespread socio-economic distress, manifesting as significant cost-of-living and migrant crises, often amplified by digital platforms, creating an environment ripe for localized instability. Concurrently, moderate seismic activity across the Pacific Ring of Fire underscores a persistent physical risk, while the financial sector, particularly major tech and AI, demonstrates robust but ethically complex growth, signaling a strategic decoupling between technological advancement and broad societal well-being. To navigate this intricate risk landscape, first, immediately assess and diversify critical assets, fortifying digital security postures against evolving threats inherent in rapid AI deployment and social media influence. Second, ensure all personnel and operations within tectonically active regions are fully prepared for natural disasters, with emergency protocols regularly reviewed and practiced. Third, maintain vigilant, critical monitoring of socio-political conditions and information streams, particularly those amplified by social media, to preemptively identify and mitigate localized unrest that could impact physical safety and operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.68 (-0.03%)",
+            "title": "\ud83d\udcb0 NVDA: $217.56 (-0.99%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.43 (2.06%)",
+            "title": "\ud83d\udcb0 AAPL: $316.83 (2.19%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $483.9 (0.47%)",
+            "title": "\ud83d\udcb0 MSFT: $484.31 (0.56%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $176.14 (2.68%)",
+            "title": "\ud83d\udcb0 PLTR: $175.19 (2.13%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.19 (2.6%)",
+            "title": "\ud83d\udcb0 AMZN: $265.84 (2.46%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple Mag 5+ earthquakes just struck across Asia and the Pacific!**"
+    "seismicSummary": "**\ud83d\udea8 Multiple strong (Mag 5+) earthquakes reported worldwide!**"
 }
