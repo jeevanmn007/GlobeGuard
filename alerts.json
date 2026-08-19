@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 95 km SW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 154 km SSE of Teluk Dalam, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Jurm, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 66 km NNW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
