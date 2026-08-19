@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is critically unstable, characterized by escalating socio-economic fragility across major populations, intensified by the rapid, ethically complex, and environmentally taxing advancement of AI technologies that are causing market volatility, all underpinned by ongoing significant seismic activity in vulnerable regions. To navigate this multifaceted threat landscape, GlobeGuard advises immediate action: first, diversify asset portfolios to mitigate market volatility inherent in tech and AI, focusing on stability and essential resilience given widespread economic strain; second, fortify information vetting processes and cultivate local community resilience to counteract social media-amplified societal unrest and crises; and third, implement robust, updated physical safety and emergency preparedness protocols, with particular emphasis on seismic event readiness in active zones, to protect personnel and infrastructure.",
+    "strategicPlan": "The global environment presents a convergent threat landscape: escalating socio-economic distress, marked by widespread household struggles and rent crises, indicates a heightened potential for internal instability, further complicated by social media-amplified migration challenges. Simultaneously, the financial sector navigates a rapidly advancing AI ecosystem, where significant investment coexists with ethical and environmental concerns, yielding mixed market performance despite individual tech gains. Underpinning these dynamics, persistent geological instability is evident in recent significant seismic activity across Asia, underscoring enduring physical risks. To fortify against this confluence of threats, we recommend three critical actions: first, diversify and secure financial assets against escalating economic volatility and emerging tech-driven market shifts; second, enhance physical safety by updating emergency preparedness for potential civil unrest, supply chain disruptions, and natural disasters, especially in high-risk zones; and third, bolster information resilience through robust digital security and critical media literacy to counter weaponized narratives in an AI-permeated information space.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqk"
         }
     ],
-    "seismicSummary": "Four significant earthquakes, topped by a Magnitude 5.9 in China, just struck across Asia!"
+    "seismicSummary": "Major 5.9 quake just hit China, with others in Afghanistan and Indonesia!"
 }
