@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is characterized by escalating socioeconomic fragility, evidenced by widespread struggles for basic necessities and amplified by social media's role in political crises. This human-centric vulnerability converges with a rapidly advancing, resource-intensive AI ecosystem\u2014marked by significant investment shifts, environmental concerns, and a race for technological dominance\u2014and persistent physical threats, as indicated by multiple substantial seismic events across the Asia-Pacific region. This integrated assessment points to a period of heightened systemic risk requiring proactive measures. We advise securing financial assets through diversification, fortifying physical safety protocols and emergency preparedness, and establishing robust capabilities for critical information environment monitoring to counter potentially destabilizing narratives and leverage emerging technologies responsibly.",
+    "strategicPlan": "GlobeGuard assesses the global environment as increasingly volatile across geopolitical, financial, and physical domains. Widespread economic hardship fueling social unrest, exemplified by rent and cost-of-living crises, coupled with social media-amplified geopolitical tensions, indicates a deepening societal fragility. Financially, while the AI sector commands significant investment and philanthropy, its environmental cost and the mixed performance of key tech stocks signal underlying market uncertainty. Simultaneously, a notable increase in moderate to strong seismic activity across Asia presents immediate and sustained physical threats. To secure assets and ensure physical safety, first, immediately enhance disaster preparedness protocols for both seismic events and civil unrest, ensuring contingency plans are robust. Second, conduct a comprehensive review of financial portfolios, prioritizing diversification and resilience against market volatility, particularly within the rapidly evolving tech sector. Third, establish proactive information intelligence to critically assess social media narratives and leverage insights to adapt operations and secure critical resources amidst escalating economic and environmental pressures.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.74 (-2.34%)",
+            "title": "\ud83d\udcb0 NVDA: $218.12 (-0.74%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.03 (1.45%)",
+            "title": "\ud83d\udcb0 AAPL: $313.26 (1.04%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.63 (0.27%)",
+            "title": "\ud83d\udcb0 MSFT: $481.57 (-0.01%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.54 (-0.59%)",
+            "title": "\ud83d\udcb0 PLTR: $172.59 (0.61%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.45 (-0.71%)",
+            "title": "\ud83d\udcb0 AMZN: $259.4 (-0.02%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqk"
         }
     ],
-    "seismicSummary": "Major earthquakes, led by a 5.9 in China, have struck Afghanistan and Indonesia."
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a 5.9 in China, just reported across Asia!"
 }
