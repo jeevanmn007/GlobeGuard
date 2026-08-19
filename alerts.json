@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a complex array of converging threats. Geopolitically, widespread socio-economic strain, fueled by inflation and housing crises, creates fertile ground for social unrest and exacerbated migration challenges, while the rapid and environmentally impactful advancement of AI reshapes economic and ethical landscapes. Financially, tech markets show mixed signals, indicative of underlying volatility rather than stability. Physically, a notable cluster of moderate to strong seismic events across Asia underscores persistent natural disaster risks. To navigate this environment, GlobeGuard directs you to: first, immediately secure financial assets by diversifying portfolios, ensuring robust liquidity, and assessing exposure to market shifts driven by economic hardship and AI disruption; second, reinforce physical safety through updated, practiced emergency preparedness plans, prioritizing natural disaster response and civil unrest contingencies in vulnerable regions; and third, strategically adapt personal and organizational planning by closely monitoring geopolitical shifts and the long-term socio-economic implications of AI, thereby fortifying resilience against future uncertainties.",
+    "strategicPlan": "The global environment is characterized by escalating socioeconomic fragility, evidenced by widespread struggles for basic necessities and amplified by social media's role in political crises. This human-centric vulnerability converges with a rapidly advancing, resource-intensive AI ecosystem\u2014marked by significant investment shifts, environmental concerns, and a race for technological dominance\u2014and persistent physical threats, as indicated by multiple substantial seismic events across the Asia-Pacific region. This integrated assessment points to a period of heightened systemic risk requiring proactive measures. We advise securing financial assets through diversification, fortifying physical safety protocols and emergency preparedness, and establishing robust capabilities for critical information environment monitoring to counter potentially destabilizing narratives and leverage emerging technologies responsibly.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqk"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple significant earthquakes, including a Mag 5.9 in China, just struck across Asia.**"
+    "seismicSummary": "Major earthquakes, led by a 5.9 in China, have struck Afghanistan and Indonesia."
 }
