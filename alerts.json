@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is currently marked by a complex interplay of escalating socio-economic fragility, rapid technological advancement, and persistent geophysical instability. Widespread household financial distress and housing crises indicate a systemic vulnerability to social unrest, a risk amplified by digital media, as evidenced in Spain's migrant crisis. Concurrently, the tech sector, particularly AI, is experiencing significant investment and a competitive race for dominance, yet faces growing scrutiny regarding environmental impact and ethical considerations. This volatile landscape is underpinned by a notable uptick in seismic activity across the Asia-Pacific region, including moderate to strong earthquakes in China, Afghanistan, and Indonesia, signaling ongoing physical threats.\n\nTo navigate this environment, GlobeGuard recommends three immediate actions:\n1.  **Diversify and Secure Assets:** Re-evaluate and diversify investment portfolios, ensuring a balance between growth-oriented tech (monitoring AI trends for both opportunity and regulatory risk) and essential, resilient sectors, while simultaneously bolstering digital security against potential cyber threats stemming from socio-political unrest.\n2.  **Enhance Physical Preparedness:** Immediately review and update emergency preparedness protocols for all personnel and critical infrastructure, focusing on seismic resilience and establishing clear contingency plans for supply chain disruptions, especially for operations reliant on the Asia-Pacific region.\n3.  **Maintain Hyper-Vigilant Situational Awareness:** Implement continuous, real-time monitoring of local socio-political climates for signs of escalating unrest, alongside tracking the rapidly evolving technological landscape for regulatory shifts and ethical considerations that could impact operations.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.18 (-0.25%)",
+            "title": "\ud83d\udcb0 NVDA: $219.27 (-0.21%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.77 (2.17%)",
+            "title": "\ud83d\udcb0 AAPL: $315.82 (1.87%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $485.77 (0.86%)",
+            "title": "\ud83d\udcb0 MSFT: $486.43 (1.0%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.45 (1.7%)",
+            "title": "\ud83d\udcb0 PLTR: $175.71 (2.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $263.88 (1.71%)",
+            "title": "\ud83d\udcb0 AMZN: $264.58 (1.98%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 52 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Jurm, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 66 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Banda Sea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlvn"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 5.9, just reported across Asia (China, Afghanistan, Indonesia)."
+    "seismicSummary": "Analyzing tectonic data..."
 }
