@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Global stability is acutely threatened by widespread socio-economic distress, manifesting as significant cost-of-living and migrant crises, often amplified by digital platforms, creating an environment ripe for localized instability. Concurrently, moderate seismic activity across the Pacific Ring of Fire underscores a persistent physical risk, while the financial sector, particularly major tech and AI, demonstrates robust but ethically complex growth, signaling a strategic decoupling between technological advancement and broad societal well-being. To navigate this intricate risk landscape, first, immediately assess and diversify critical assets, fortifying digital security postures against evolving threats inherent in rapid AI deployment and social media influence. Second, ensure all personnel and operations within tectonically active regions are fully prepared for natural disasters, with emergency protocols regularly reviewed and practiced. Third, maintain vigilant, critical monitoring of socio-political conditions and information streams, particularly those amplified by social media, to preemptively identify and mitigate localized unrest that could impact physical safety and operational continuity.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Multiple strong (Mag 5+) earthquakes reported worldwide!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
