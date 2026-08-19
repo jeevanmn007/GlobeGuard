@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 25 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0u"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 52 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq"
         },
@@ -71,10 +75,6 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 134 km S of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 66 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
