@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a complex and multi-faceted threat environment: widespread socio-economic distress, driven by struggles for basic necessities and housing crises, is escalating societal fragility and potential unrest globally. This socio-economic turbulence unfolds alongside a rapid, environmentally impactful AI technological revolution that creates both speculative financial opportunities and significant ethical challenges, reflected in mixed performance within key tech markets. Concurrently, persistent seismic activity across Asia, evidenced by multiple moderate-to-strong earthquakes, underscores ongoing physical vulnerabilities in critical regions. In light of these convergent threats, GlobeGuard advises immediate action: first, fortify financial resilience by critically assessing and diversifying asset portfolios against market volatility and economic uncertainty; second, enhance physical security and emergency preparedness for all personnel and critical infrastructure, accounting for both potential social unrest and the increasing frequency of natural disasters; and third, maintain heightened vigilance and response readiness for localized seismic events, especially in areas of current tectonic activity.",
+    "strategicPlan": "Our intelligence indicates a complex global environment marked by significant socio-economic fragility, manifest in widespread struggles for essential needs and escalating migrant pressures, alongside a mixed but resilient tech market and notable seismic activity across Asia. GlobeGuard advises a multi-pronged defensive posture: first, secure financial liquidity and diversify holdings towards stable assets, hedging against economic uncertainty; second, implement rigorous physical safety protocols and disaster preparedness for all personnel and assets, particularly in seismically active or environmentally vulnerable regions; and third, maintain enhanced vigilance on local socio-political dynamics and resource scarcity, which remain significant drivers of instability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqk"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes reported, including a 5.9 magnitude in China!"
+    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.9, just struck China, Afghanistan, and Indonesia!"
 }
