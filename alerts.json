@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses the global environment as increasingly volatile across geopolitical, financial, and physical domains. Widespread economic hardship fueling social unrest, exemplified by rent and cost-of-living crises, coupled with social media-amplified geopolitical tensions, indicates a deepening societal fragility. Financially, while the AI sector commands significant investment and philanthropy, its environmental cost and the mixed performance of key tech stocks signal underlying market uncertainty. Simultaneously, a notable increase in moderate to strong seismic activity across Asia presents immediate and sustained physical threats. To secure assets and ensure physical safety, first, immediately enhance disaster preparedness protocols for both seismic events and civil unrest, ensuring contingency plans are robust. Second, conduct a comprehensive review of financial portfolios, prioritizing diversification and resilience against market volatility, particularly within the rapidly evolving tech sector. Third, establish proactive information intelligence to critically assess social media narratives and leverage insights to adapt operations and secure critical resources amidst escalating economic and environmental pressures.",
+    "strategicPlan": "Our current global intelligence assessment reveals a precarious confluence of factors: widespread societal economic distress is intensifying, potentially exacerbated by unchecked technological disruption from the AI sector which also carries significant environmental costs, while active seismic instability across Asia presents a tangible and immediate physical threat. To navigate this complex environment, first, secure your financial and digital assets by diversifying portfolios towards resilient sectors and fortifying cyber defenses against evolving AI-driven threats. Second, prioritize physical safety by ensuring robust seismic preparedness in vulnerable regions and developing comprehensive contingency plans for potential socio-economic disruptions, recognizing the potential for prolonged and cascading crises. Third, actively monitor and counter the weaponization of information, building community and supply chain resilience to mitigate the broader geopolitical and environmental impacts of accelerating technological shifts and persistent global instability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.12 (-0.74%)",
+            "title": "\ud83d\udcb0 NVDA: $219.48 (-0.12%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.26 (1.04%)",
+            "title": "\ud83d\udcb0 AAPL: $316.2 (1.99%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.57 (-0.01%)",
+            "title": "\ud83d\udcb0 MSFT: $482.15 (0.11%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.59 (0.61%)",
+            "title": "\ud83d\udcb0 PLTR: $172.54 (0.58%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.4 (-0.02%)",
+            "title": "\ud83d\udcb0 AMZN: $261.78 (0.9%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqk"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a 5.9 in China, just reported across Asia!"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes are hitting Asia, topped by a Mag 5.9 in China.**"
 }
