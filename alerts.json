@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our intelligence indicates a complex global environment marked by significant socio-economic fragility, manifest in widespread struggles for essential needs and escalating migrant pressures, alongside a mixed but resilient tech market and notable seismic activity across Asia. GlobeGuard advises a multi-pronged defensive posture: first, secure financial liquidity and diversify holdings towards stable assets, hedging against economic uncertainty; second, implement rigorous physical safety protocols and disaster preparedness for all personnel and assets, particularly in seismically active or environmentally vulnerable regions; and third, maintain enhanced vigilance on local socio-political dynamics and resource scarcity, which remain significant drivers of instability.",
+    "strategicPlan": "The current global intelligence picture reveals a complex array of converging threats. Geopolitically, widespread socio-economic strain, fueled by inflation and housing crises, creates fertile ground for social unrest and exacerbated migration challenges, while the rapid and environmentally impactful advancement of AI reshapes economic and ethical landscapes. Financially, tech markets show mixed signals, indicative of underlying volatility rather than stability. Physically, a notable cluster of moderate to strong seismic events across Asia underscores persistent natural disaster risks. To navigate this environment, GlobeGuard directs you to: first, immediately secure financial assets by diversifying portfolios, ensuring robust liquidity, and assessing exposure to market shifts driven by economic hardship and AI disruption; second, reinforce physical safety through updated, practiced emergency preparedness plans, prioritizing natural disaster response and civil unrest contingencies in vulnerable regions; and third, strategically adapt personal and organizational planning by closely monitoring geopolitical shifts and the long-term socio-economic implications of AI, thereby fortifying resilience against future uncertainties.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqk"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.9, just struck China, Afghanistan, and Indonesia!"
+    "seismicSummary": "**URGENT: Multiple significant earthquakes, including a Mag 5.9 in China, just struck across Asia.**"
 }
