@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global operational environment is critically unstable, characterized by escalating socio-economic fragility across major populations, intensified by the rapid, ethically complex, and environmentally taxing advancement of AI technologies that are causing market volatility, all underpinned by ongoing significant seismic activity in vulnerable regions. To navigate this multifaceted threat landscape, GlobeGuard advises immediate action: first, diversify asset portfolios to mitigate market volatility inherent in tech and AI, focusing on stability and essential resilience given widespread economic strain; second, fortify information vetting processes and cultivate local community resilience to counteract social media-amplified societal unrest and crises; and third, implement robust, updated physical safety and emergency preparedness protocols, with particular emphasis on seismic event readiness in active zones, to protect personnel and infrastructure.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 154 km SSE of Teluk Dalam, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 35 km SSW of Jurm, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 66 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 76 km NW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqk"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Four significant earthquakes, topped by a Magnitude 5.9 in China, just struck across Asia!"
 }
