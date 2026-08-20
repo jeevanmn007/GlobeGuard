@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0u"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 32 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 52 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 215 km E of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 134 km S of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
