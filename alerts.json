@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment signals a complex and intensifying nexus of threats. Economically, widespread cost-of-living crises are fueling social unrest and political instability, exacerbated by migration challenges and the virality of disinformation. Financially, while specific tech sectors like AI show growth, the broader market exhibits vulnerability amidst these societal pressures and growing environmental concerns tied to technological expansion. Concurrently, a surge of significant seismic activity in the Indo-Pacific demands immediate attention, highlighting a critical and persistent physical threat of natural disasters. In response, we direct the following: First, **re-evaluate and diversify asset portfolios**, moving beyond singular market dependencies towards resilient investments and secure, geographically dispersed holdings to mitigate financial volatility and geopolitical exposure. Second, **urgently review and bolster physical safety and disaster preparedness protocols**, particularly for personnel and infrastructure in seismically active regions and areas prone to cascading natural events, ensuring robust emergency response and communication plans. Third, **intensify intelligence monitoring on emerging technological and societal fronts**, specifically tracking AI regulatory landscapes, supply chain vulnerabilities, and escalating social unrest indicators, to proactively adapt strategies and secure operational continuity.",
+    "strategicPlan": "The global intelligence landscape is marked by an urgent convergence of escalating socio-economic instability, evidenced by widespread household struggles and politically charged migrant crises amplified by digital platforms, alongside a cautious financial environment reflected in a slight downturn across major tech equities. Concurrently, significant seismic activity, particularly a cluster of magnitude 5+ events in the Indo-Pacific, highlights persistent physical threats, while the rapid and resource-intensive expansion of AI technology presents complex ethical, environmental, and societal challenges. To secure assets and ensure physical safety, GlobeGuard directs a multi-pronged response: firstly, **fortify financial and digital assets**, diversifying portfolios against market volatility and strengthening cyber defenses against evolving AI-driven threats; secondly, **bolster physical and operational resilience**, preparing robustly for both localized social unrest and the potential systemic impacts of significant natural disasters; and thirdly, **strategically engage with AI development**, understanding its environmental footprint and ethical implications to navigate its disruptive potential responsibly and secure long-term stability.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.27 (0.33%)",
+            "title": "\ud83d\udcb0 NVDA: $216.2 (-0.63%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.44 (-0.12%)",
+            "title": "\ud83d\udcb0 AAPL: $316.51 (-0.1%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.62 (-0.56%)",
+            "title": "\ud83d\udcb0 MSFT: $481.13 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.38 (0.11%)",
+            "title": "\ud83d\udcb0 PLTR: $174.43 (-0.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.14 (-1.39%)",
+            "title": "\ud83d\udcb0 AMZN: $260.84 (-1.88%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 215 km E of Levuka, Fiji",
+            "title": "\u26a0\ufe0f Mag 5.4 - 216 km E of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 5.8, detected near Ruteng, Indonesia!"
+    "seismicSummary": "URGENT: Multiple strong quakes, up to M5.8, striking near Ruteng, Indonesia!"
 }
