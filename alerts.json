@@ -65,16 +65,16 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 25 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0u"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 32 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.6 - 67 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 48 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
