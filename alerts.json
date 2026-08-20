@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is characterized by accelerating socio-economic distress, evident in widespread struggles for essentials and escalating rent crises, which, when coupled with social media-amplified geopolitical tensions like the Spanish migrant crisis, point to increasing societal fragility. Financially, while major tech stocks exhibit resilience, the rapid, resource-intensive growth of the AI sector presents both disruptive innovation and environmental liabilities, alongside an intensifying race for market dominance. Concurrently, a significant cluster of active seismic events in Indonesia and Fiji signals persistent physical threats along the Pacific Ring of Fire, demanding heightened vigilance. In response, secure your assets by diversifying financial holdings against economic volatility and potential AI-driven market shifts; bolster your information resilience by vetting digital narratives to counter social media manipulation; and prioritize physical safety through updated emergency preparedness plans, particularly for seismic activity in vulnerable regions.",
+    "strategicPlan": "The global threat landscape is acutely complex, defined by pervasive socio-economic fragility evidenced by widespread cost-of-living crises in Western economies, while the rapid and ethically contentious advancement of AI introduces significant environmental liabilities and potential societal disruption. Concurrently, heightened seismic activity, notably a cluster of magnitude 5+ earthquakes near Ruteng, Indonesia, signals acute physical risks and potential regional instability. To navigate this converging threat environment, secure financial assets by diversifying holdings with a focus on inflation-resistant stores of value; fortify physical safety by reinforcing infrastructure and updating emergency protocols, especially in seismically active or socially volatile regions; and enhance digital resilience by implementing advanced vigilance against AI-driven disinformation and cyber threats, while strategically assessing AI's disruptive progress.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8"
         }
     ],
-    "seismicSummary": "**URGENT:** Multiple strong earthquakes, including a Mag 5.8, are striking near Ruteng, Indonesia!"
+    "seismicSummary": "**URGENT: Multiple strong Mag 5+ earthquakes, including a 5.8, have struck near Ruteng, Indonesia, with another Mag 5.4 quake near Fiji!**"
 }
