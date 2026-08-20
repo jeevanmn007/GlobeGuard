@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Despite a seemingly low global threat level, a confluence of significant challenges demands immediate strategic attention. Geopolitically, widespread economic precarity, evident in major Western economies, is fostering social unrest, while digitally amplified migrant crises highlight existing fragilities. Financially, robust growth in key tech sectors, particularly AI, masks deeper economic disparities and raises critical questions regarding environmental impact and ethical deployment. Concurrently, a cluster of moderate seismic events in Indonesia and Fiji signals active physical instability in critical regions. To secure assets and ensure safety, I issue the following directives: First, critically review and diversify financial portfolios to mitigate against economic shocks and capitalize on, or adapt to, AI-driven market transformations. Second, for all personnel and assets situated in seismically active zones, immediately update and rehearse emergency preparedness and evacuation protocols. Third, bolster intelligence gathering on socio-political flashpoints and digital misinformation campaigns to pre-empt localized destabilization and protect vital information infrastructure.",
+    "strategicPlan": "The global strategic environment is characterized by accelerating socio-economic distress, evident in widespread struggles for essentials and escalating rent crises, which, when coupled with social media-amplified geopolitical tensions like the Spanish migrant crisis, point to increasing societal fragility. Financially, while major tech stocks exhibit resilience, the rapid, resource-intensive growth of the AI sector presents both disruptive innovation and environmental liabilities, alongside an intensifying race for market dominance. Concurrently, a significant cluster of active seismic events in Indonesia and Fiji signals persistent physical threats along the Pacific Ring of Fire, demanding heightened vigilance. In response, secure your assets by diversifying financial holdings against economic volatility and potential AI-driven market shifts; bolster your information resilience by vetting digital narratives to counter social media manipulation; and prioritize physical safety through updated emergency preparedness plans, particularly for seismic activity in vulnerable regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8"
         }
     ],
-    "seismicSummary": "Multiple strong quakes, up to Mag 5.8, just hit Ruteng, Indonesia!"
+    "seismicSummary": "**URGENT:** Multiple strong earthquakes, including a Mag 5.8, are striking near Ruteng, Indonesia!"
 }
