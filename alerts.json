@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely complex, defined by pervasive socio-economic fragility evidenced by widespread cost-of-living crises in Western economies, while the rapid and ethically contentious advancement of AI introduces significant environmental liabilities and potential societal disruption. Concurrently, heightened seismic activity, notably a cluster of magnitude 5+ earthquakes near Ruteng, Indonesia, signals acute physical risks and potential regional instability. To navigate this converging threat environment, secure financial assets by diversifying holdings with a focus on inflation-resistant stores of value; fortify physical safety by reinforcing infrastructure and updating emergency protocols, especially in seismically active or socially volatile regions; and enhance digital resilience by implementing advanced vigilance against AI-driven disinformation and cyber threats, while strategically assessing AI's disruptive progress.",
+    "strategicPlan": "The current global environment signals a complex and intensifying nexus of threats. Economically, widespread cost-of-living crises are fueling social unrest and political instability, exacerbated by migration challenges and the virality of disinformation. Financially, while specific tech sectors like AI show growth, the broader market exhibits vulnerability amidst these societal pressures and growing environmental concerns tied to technological expansion. Concurrently, a surge of significant seismic activity in the Indo-Pacific demands immediate attention, highlighting a critical and persistent physical threat of natural disasters. In response, we direct the following: First, **re-evaluate and diversify asset portfolios**, moving beyond singular market dependencies towards resilient investments and secure, geographically dispersed holdings to mitigate financial volatility and geopolitical exposure. Second, **urgently review and bolster physical safety and disaster preparedness protocols**, particularly for personnel and infrastructure in seismically active regions and areas prone to cascading natural events, ensuring robust emergency response and communication plans. Third, **intensify intelligence monitoring on emerging technological and societal fronts**, specifically tracking AI regulatory landscapes, supply chain vulnerabilities, and escalating social unrest indicators, to proactively adapt strategies and secure operational continuity.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.56 (-0.99%)",
+            "title": "\ud83d\udcb0 NVDA: $218.27 (0.33%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.83 (2.19%)",
+            "title": "\ud83d\udcb0 AAPL: $316.44 (-0.12%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $484.31 (0.56%)",
+            "title": "\ud83d\udcb0 MSFT: $481.62 (-0.56%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.19 (2.13%)",
+            "title": "\ud83d\udcb0 PLTR: $175.38 (0.11%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.84 (2.46%)",
+            "title": "\ud83d\udcb0 AMZN: $262.14 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong Mag 5+ earthquakes, including a 5.8, have struck near Ruteng, Indonesia, with another Mag 5.4 quake near Fiji!**"
+    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 5.8, detected near Ruteng, Indonesia!"
 }
