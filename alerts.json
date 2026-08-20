@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is marked by an urgent convergence of escalating socio-economic instability, evidenced by widespread household struggles and politically charged migrant crises amplified by digital platforms, alongside a cautious financial environment reflected in a slight downturn across major tech equities. Concurrently, significant seismic activity, particularly a cluster of magnitude 5+ events in the Indo-Pacific, highlights persistent physical threats, while the rapid and resource-intensive expansion of AI technology presents complex ethical, environmental, and societal challenges. To secure assets and ensure physical safety, GlobeGuard directs a multi-pronged response: firstly, **fortify financial and digital assets**, diversifying portfolios against market volatility and strengthening cyber defenses against evolving AI-driven threats; secondly, **bolster physical and operational resilience**, preparing robustly for both localized social unrest and the potential systemic impacts of significant natural disasters; and thirdly, **strategically engage with AI development**, understanding its environmental footprint and ethical implications to navigate its disruptive potential responsibly and secure long-term stability.",
+    "strategicPlan": "The global landscape reflects a confluence of escalating socio-economic fragility, marked by widespread household financial distress and amplified societal crises, set against a backdrop of a rapidly advancing yet environmentally conscious-lacking AI-driven tech economy experiencing minor market fluctuations. Concurrently, a cluster of significant seismic events in highly active zones demands heightened physical preparedness, indicating a persistent, low-level threat from natural disasters that could exacerbate existing vulnerabilities. To navigate this complex environment, GlobeGuard advises three immediate actions: first, reinforce financial resilience through asset diversification, emphasizing liquidity and essential supplies; second, bolster digital and informational security protocols to counter growing misinformation campaigns and potential AI-driven manipulation; and third, meticulously review and update physical emergency preparedness plans, particularly for assets and personnel located in or near seismically active and disaster-prone regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.2 (-0.63%)",
+            "title": "\ud83d\udcb0 NVDA: $216.92 (-0.29%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.51 (-0.1%)",
+            "title": "\ud83d\udcb0 AAPL: $317.16 (0.1%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.13 (-0.66%)",
+            "title": "\ud83d\udcb0 MSFT: $482.99 (-0.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.43 (-0.43%)",
+            "title": "\ud83d\udcb0 PLTR: $174.82 (-0.21%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.84 (-1.88%)",
+            "title": "\ud83d\udcb0 AMZN: $263.21 (-0.99%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 52 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 216 km E of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 134 km S of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong quakes, up to M5.8, striking near Ruteng, Indonesia!"
+    "seismicSummary": "\u26a0\ufe0f Urgent: Multiple strong earthquakes over Mag 5, led by a 5.8 in Indonesia, just reported globally!"
 }
