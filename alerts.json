@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global intelligence assessment indicates a converging risk profile marked by escalating economic fragility, exemplified by widespread household struggles and a tech market experiencing a broad correction. This is compounded by persistent, significant tectonic activity across multiple vulnerable regions, alongside geopolitical strains exacerbated by migration and digital amplification. The rapid, resource-intensive growth of AI adds another layer of systemic complexity. To secure assets and physical safety, first, proactively review and diversify financial portfolios, emphasizing liquidity and resilience against further economic volatility. Second, ensure robust disaster preparedness, updating emergency plans and supplies, particularly if located in or managing assets within seismically active or vulnerable areas. Third, strengthen digital security measures and maintain vigilance against misinformation, recognizing social media's role in amplifying crises and the evolving landscape of AI-driven threats.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.25 (-0.6%)",
+            "title": "\ud83d\udcb0 NVDA: $216.68 (-0.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.85 (0.01%)",
+            "title": "\ud83d\udcb0 AAPL: $315.42 (-0.44%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.97 (-0.48%)",
+            "title": "\ud83d\udcb0 MSFT: $482.27 (-0.42%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.52 (-0.38%)",
+            "title": "\ud83d\udcb0 PLTR: $174.98 (-0.12%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.52 (-1.62%)",
+            "title": "\ud83d\udcb0 AMZN: $261.24 (-1.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.7 - 38 km NW of Upahuacho, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.8 - 25 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0u"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 216 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 134 km S of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv"
+            "title": "\u26a0\ufe0f Mag 5.6 - 67 km NNW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "URGENT: A major 6.7 magnitude earthquake just struck Peru, with multiple strong quakes (5.6-5.8) also reported in Indonesia!"
 }
