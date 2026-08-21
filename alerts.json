@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex nexus of escalating socioeconomic distress, reflected in widespread cost-of-living crises and social unrest, which coincides with a moderate but concerning downturn in major tech market valuations. Concurrently, a surge of significant seismic activity across the Pacific Rim, particularly in Peru, Indonesia, and the Philippines, highlights persistent natural disaster vulnerabilities that can exacerbate existing fragilities. The dominant, yet environmentally impactful, trend of AI development and competition adds a layer of technological disruption with potential for both economic advancement and ethical challenges. To navigate this volatile environment, immediately: 1. Conduct a comprehensive review of financial portfolios, diversifying beyond volatile tech assets and ensuring liquidity against potential market contractions. 2. Implement or update robust disaster preparedness protocols, especially for operations or personnel in seismically active or socially unstable regions, emphasizing resilient supply chain strategies. 3. Intensify monitoring of social media trends and geopolitical flashpoints, particularly those driving migration or domestic unrest, to preemptively identify and mitigate localized security and operational risks.",
+    "strategicPlan": "The global landscape is currently defined by a confluence of escalating socio-economic fragility, reflected in widespread struggles for essentials and housing crises, alongside a notable, broad-based downturn in major tech financial markets. This economic stress unfolds amidst intense competition and investment in AI, which, while transformative, presents significant ethical dilemmas and environmental costs. Simultaneously, critical regions worldwide are experiencing persistent and elevated tectonic instability, underscored by recent powerful seismic events.\n\nTo navigate this complex environment, individuals must prioritize financial resilience through prudent diversification of assets and maintaining robust liquidity, fortify digital and information security measures against evolving AI-driven threats, and establish comprehensive physical safety protocols and emergency preparedness plans tailored to localized natural hazard risks.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 19 km W of Jabonga, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
+            "title": "\u26a0\ufe0f Mag 5.4 - 148 km SSE of Tateyama, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 1 km N of Alegria, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes"
+            "title": "\u26a0\ufe0f Mag 5.2 - 19 km W of Jabonga, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
         }
     ],
-    "seismicSummary": "**URGENT:** Multiple strong earthquakes, including a M6.7 in Peru, just struck Peru, Indonesia, and the Philippines!"
+    "seismicSummary": "**URGENT: A magnitude 6.7 earthquake just struck Peru, alongside multiple other significant quakes globally!**"
 }
