@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief reveals a critical, interconnected threat landscape: pervasive socio-economic instability, marked by widespread struggles for basic necessities and escalating migration crises, is being rapidly intensified by the accelerating, ethically complex, and environmentally straining development of artificial intelligence. This geopolitical and societal volatility is significantly compounded by elevated global seismic activity, particularly in vulnerable regions, presenting an unpredictable but persistent threat of natural disasters that could severely test already fragile infrastructure and supply chains. To navigate this complex risk environment, GlobeGuard directs immediate action to fortify resilience: first, **diversify and secure liquid assets** to ensure access to essentials amidst economic fluctuations; second, **enhance digital security and critical information access protocols** against evolving AI-driven threats and potential infrastructure disruptions; and third, **implement comprehensive physical emergency preparedness plans**, including communication alternatives and vital supply caches, specifically accounting for localized natural hazards.",
+    "strategicPlan": "The current global intelligence brief indicates a critical convergence of threats: widespread socio-economic instability driven by escalating cost-of-living crises and migrant pressures, a period of heightened global seismic activity with multiple significant quakes across diverse regions, and the accelerating, yet environmentally problematic, expansion of AI, which is simultaneously generating immense wealth, ethical dilemmas, and a technology race. To secure assets and physical safety, prioritize enhancing financial resilience through robust liquidity management and diversification strategies, anticipating further economic volatility; strategically engage with the AI revolution by identifying key opportunities and risks, preparing for workforce and market shifts, and assessing environmental impacts; and immediately review and fortify physical safety and disaster preparedness protocols, particularly for seismic events and potential cascading natural disasters.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.96 (-0.87%)",
+            "title": "\ud83d\udcb0 NVDA: $216.53 (-0.15%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $308.06 (-1.04%)",
+            "title": "\ud83d\udcb0 AAPL: $311.48 (0.06%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $483.03 (0.39%)",
+            "title": "\ud83d\udcb0 MSFT: $484.64 (0.73%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.84 (0.5%)",
+            "title": "\ud83d\udcb0 PLTR: $178.94 (2.86%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.42 (-0.27%)",
+            "title": "\ud83d\udcb0 AMZN: $259.55 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
         }
     ],
-    "seismicSummary": "**Major 6.7M earthquake in Peru, plus multiple strong tremors reported worldwide!**"
+    "seismicSummary": "A Mag 6.7 earthquake has struck Peru, with multiple other strong quakes reported worldwide."
 }
