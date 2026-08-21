@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.98 (-0.86%)",
+            "title": "\ud83d\udcb0 NVDA: $215.04 (-0.83%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $310.72 (-0.19%)",
+            "title": "\ud83d\udcb0 AAPL: $308.41 (-0.93%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $482.86 (0.36%)",
+            "title": "\ud83d\udcb0 MSFT: $481.99 (0.17%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $180.05 (3.5%)",
+            "title": "\ud83d\udcb0 PLTR: $179.14 (2.98%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.51 (-0.62%)",
+            "title": "\ud83d\udcb0 AMZN: $258.59 (-0.58%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.7 - 31 km NW of Aniso, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.6 - 67 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
+            "title": "\u26a0\ufe0f Mag 5.7 - 194 km SW of Labuan, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
@@ -75,6 +71,10 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 148 km SSE of Tateyama, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 19 km W of Jabonga, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
