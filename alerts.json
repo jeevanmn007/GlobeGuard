@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a confluence of escalating socio-economic fragility, reflected in widespread struggles for essentials and housing crises, alongside a notable, broad-based downturn in major tech financial markets. This economic stress unfolds amidst intense competition and investment in AI, which, while transformative, presents significant ethical dilemmas and environmental costs. Simultaneously, critical regions worldwide are experiencing persistent and elevated tectonic instability, underscored by recent powerful seismic events.\n\nTo navigate this complex environment, individuals must prioritize financial resilience through prudent diversification of assets and maintaining robust liquidity, fortify digital and information security measures against evolving AI-driven threats, and establish comprehensive physical safety protocols and emergency preparedness plans tailored to localized natural hazard risks.",
+    "strategicPlan": "The current global situation presents a complex and increasingly volatile risk matrix, characterized by escalating socioeconomic instability evident in widespread cost-of-living crises across developed nations, a rapidly accelerating and environmentally contentious AI technology race poised to reshape industries and society, and a notable surge in significant global seismic activity impacting multiple vulnerable regions. This confluence demands immediate strategic re-evaluation. To navigate this period effectively, first, fortify your financial posture by diversifying investments beyond speculative tech, prioritizing liquidity, and building reserves to absorb economic shocks. Second, proactively enhance physical safety and resilience by updating emergency preparedness for natural disasters, particularly for seismic events and potential cascading crises, ensuring essential supplies and secure communication. Third, maintain rigorous information hygiene, critically assessing social media narratives to counter potential disinformation, and secure digital assets against evolving AI-driven threats.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.85 (-0.33%)",
+            "title": "\ud83d\udcb0 NVDA: $216.05 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.3 (-1.75%)",
+            "title": "\ud83d\udcb0 AAPL: $307.86 (-1.11%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $481.15 (-0.47%)",
+            "title": "\ud83d\udcb0 MSFT: $481.5 (0.07%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $173.96 (-0.7%)",
+            "title": "\ud83d\udcb0 PLTR: $172.81 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.11 (-2.16%)",
+            "title": "\ud83d\udcb0 AMZN: $259.1 (-0.39%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 148 km SSE of Tateyama, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
+            "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 19 km W of Jabonga, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
+            "title": "\u26a0\ufe0f Mag 5.4 - 148 km SSE of Tateyama, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
         }
     ],
-    "seismicSummary": "**URGENT: A magnitude 6.7 earthquake just struck Peru, alongside multiple other significant quakes globally!**"
+    "seismicSummary": "Urgent: M6.7 Peru leads several strong quakes worldwide!"
 }
