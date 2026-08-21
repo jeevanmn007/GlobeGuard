@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global situation is characterized by a convergent set of escalating threats: widespread socio-economic fragility evidenced by essential goods and housing affordability crises, a noticeable downturn across major tech equities despite ongoing AI innovation, and persistent, significant seismic activity across multiple vulnerable regions. Geopolitically, economic hardship fuels social unrest and political polarization, while environmentally impactful and ethically ambiguous AI development presents long-term systemic risks. To navigate this complex landscape, immediately **diversify financial portfolios away from concentrated tech exposure to mitigate market volatility**, **fortify critical supply chain resilience by exploring localized sourcing and increasing strategic inventories**, and **ensure robust personal and operational emergency preparedness, particularly in regions susceptible to natural disasters or heightened social unrest**.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\ud83d\udea8 6.7 magnitude earthquake strikes Peru; multiple other strong quakes reported!"
 }
