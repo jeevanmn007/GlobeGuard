@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The current global intelligence assessment reveals an environment of escalating, interconnected risks: profound socioeconomic fragility stemming from widespread economic hardship and migration crises, which are further complicated by the rapid, ethically fraught evolution of AI technology as evidenced by mixed market signals yet strong performance in strategic AI firms like PLTR. This systemic stress is compounded by persistent, significant seismic activity across multiple critical global regions, indicating an acute need for proactive risk mitigation. To secure assets and ensure physical safety, **first**, meticulously review and diversify financial holdings, prioritizing resilience and non-correlated assets against anticipated economic volatility and potential supply chain disruptions rather than speculative growth. **Second**, fortify personal and operational physical security postures, ensuring robust contingency plans for social unrest and uninterrupted access to essential resources, especially given the accelerating influence of digital information on public sentiment. **Third**, urgently assess and reinforce critical infrastructure and personal residences in seismically active zones, while updating comprehensive emergency preparedness kits and communication strategies for potential natural disaster events.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -20,10 +20,6 @@
         }
     ],
     "stock": [
-        {
-            "title": "\ud83d\udcb0 NVDA: $214.72 (-0.98%)",
-            "link": "https://finance.yahoo.com/quote/NVDA"
-        },
         {
             "title": "\ud83d\udcb0 AAPL: $309.35 (-0.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
@@ -77,5 +73,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Multiple M5+ earthquakes just struck globally!**"
 }
