@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief indicates a critical convergence of threats: widespread socio-economic instability driven by escalating cost-of-living crises and migrant pressures, a period of heightened global seismic activity with multiple significant quakes across diverse regions, and the accelerating, yet environmentally problematic, expansion of AI, which is simultaneously generating immense wealth, ethical dilemmas, and a technology race. To secure assets and physical safety, prioritize enhancing financial resilience through robust liquidity management and diversification strategies, anticipating further economic volatility; strategically engage with the AI revolution by identifying key opportunities and risks, preparing for workforce and market shifts, and assessing environmental impacts; and immediately review and fortify physical safety and disaster preparedness protocols, particularly for seismic events and potential cascading natural disasters.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.53 (-0.15%)",
+            "title": "\ud83d\udcb0 NVDA: $215.65 (-0.56%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.48 (0.06%)",
+            "title": "\ud83d\udcb0 AAPL: $310.63 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $484.64 (0.73%)",
+            "title": "\ud83d\udcb0 MSFT: $483.55 (0.5%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $178.94 (2.86%)",
+            "title": "\ud83d\udcb0 PLTR: $180.59 (3.81%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.55 (-0.22%)",
+            "title": "\ud83d\udcb0 AMZN: $259.06 (-0.4%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
         }
     ],
-    "seismicSummary": "A Mag 6.7 earthquake has struck Peru, with multiple other strong quakes reported worldwide."
+    "seismicSummary": "Analyzing tectonic data..."
 }
