@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by intensifying multi-vector pressures: a broad market downturn in key tech sectors coinciding with widespread economic hardship and social instability across major economies, amplified by persistent geopolitical challenges like migration crises. Simultaneously, the rapid, resource-intensive acceleration of AI development introduces significant technological shifts and ethical dilemmas, all underpinned by an inherent and active global seismic environment, with multiple significant quakes observed. In response, GlobeGuard directs immediate action: **first**, prioritize liquidity and diversify asset holdings beyond current tech valuations, hedging against broader market volatility and localized economic distress; **second**, bolster operational resilience by identifying critical dependencies and diversifying supply chain sourcing, anticipating disruptions from social unrest, environmental impacts, and geopolitical friction; and **third**, conduct immediate vulnerability assessments for critical infrastructure and personnel in seismically active regions, updating emergency response protocols to account for increased natural hazard frequency.",
+    "strategicPlan": "The global environment presents a critical convergence of threats: widespread socioeconomic distress is escalating, evidenced by struggling households and urban crises, creating a fertile ground for social instability and heightened migration pressures, as seen in Spain. This geopolitical volatility is compounded by a notable cooling in financial markets, with key tech stocks uniformly declining, suggesting a broader economic recalibration. Simultaneously, heightened seismic activity, with significant quakes across Peru, Indonesia, the Philippines, and China, underscores a pervasive physical threat to infrastructure and populations globally. To secure assets and ensure physical safety, we must immediately: 1. Proactively diversify financial holdings beyond traditional tech, assessing resilience against economic volatility and regional instability. 2. Implement and review robust emergency preparedness plans for all personnel and critical infrastructure, specifically addressing seismic risks and potential disruptions from civil unrest. 3. Enhance intelligence gathering on local socioeconomic indicators and social media trends to anticipate and mitigate the impact of growing societal friction and migration crises on our global operations and supply chains.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 48 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v"
+            "title": "\u26a0\ufe0f Mag 5.2 - 19 km W of Jabonga, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 270 km SSE of Dunhuang, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y"
         }
     ],
-    "seismicSummary": "**Massive 6.7 earthquake strikes Peru, with multiple 5+ quakes also reported across Indonesia and China!**"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes reported globally, topped by a 6.7 in Peru!"
 }
