@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critical convergence: widespread socio-economic fragility, evidenced by millions struggling with essentials and escalating social unrest, meets persistent geophysical instability marked by significant multi-regional seismic activity. Financially, while some tech giants experience minor dips, strategic AI investments continue to surge, paradoxically accelerating environmental concerns and social anxieties. To navigate this volatile landscape, GlobeGuard directs immediate action: first, fortify financial assets by diversifying beyond traditional tech, focusing on resilient sectors and ethically sound AI applications that promise long-term stability rather than speculative growth. Second, prioritize physical safety by developing comprehensive, multi-layered preparedness strategies for sustained natural disasters, including secure communication lines and off-grid resources, recognizing the historical precedent of prolonged, compounding crises and current elevated seismic activity. Third, strategically engage with the evolving technological frontier, particularly AI, by vetting investments for genuine societal benefit and sustainable practices, thereby mitigating associated environmental and ethical risks while leveraging innovation.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes, including a magnitude 6.2, just occurred across various regions!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
