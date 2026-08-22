@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment currently presents a complex interplay of systemic socio-economic fragility, marked by widespread struggles for essentials and amplified by digital narratives, alongside a cautiously optimistic financial sector driven by AI investment despite mixed broader market performance. This is further complicated by a distinct increase in global seismic activity, indicating potential physical disruptions across various regions. To navigate this landscape effectively, GlobeGuard directs its stakeholders to immediately re-evaluate investment portfolios, prioritizing diversification into resilient assets and strategic positioning in disruptive technologies like AI while enhancing liquidity to navigate economic volatility. Concurrently, implement robust emergency preparedness plans for physical locations and supply chains, especially in seismically active or disaster-prone areas, ensuring comprehensive safety protocols are in place. Finally, proactively monitor socio-economic indicators and digital narratives to anticipate and mitigate risks from social unrest or misinformation, ensuring secure communication and operational continuity to safeguard personnel and assets.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -20,10 +20,6 @@
         }
     ],
     "stock": [
-        {
-            "title": "\ud83d\udcb0 NVDA: $214.72 (-0.98%)",
-            "link": "https://finance.yahoo.com/quote/NVDA"
-        },
         {
             "title": "\ud83d\udcb0 AAPL: $309.35 (-0.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
@@ -77,5 +73,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported worldwide!"
 }
