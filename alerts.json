@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is currently characterized by a complex interplay of systemic socio-economic fragility, advanced technological disruption, and persistent geophysical instability. Geopolitically, widespread cost-of-living and housing crises are fueling social distress and migration challenges, amplified by social media, suggesting potential for rapid civil unrest. Financially, while major tech stocks exhibit mixed performance, the strong upward trend in AI-centric companies like Palantir highlights significant investment in artificial intelligence, yet raises concerns regarding its environmental impact and ethical deployment. Concurrently, persistent strong seismic activity in critical regions, including the Scotia Sea and Indonesia, underscores an ongoing threat of natural disasters that can disrupt infrastructure and supply chains. To secure your assets and physical safety in this volatile environment, prioritize diversifying investments into resilient sectors while closely monitoring AI development for both opportunity and ethical risk, diligently track social media narratives and localized economic indicators to anticipate civil unrest, and crucially, review and reinforce all personal and organizational emergency preparedness plans against both socio-economic and natural disaster scenarios.",
+    "strategicPlan": "The current global intelligence picture reveals a complex, interconnected threat matrix: mounting economic distress and social fragility, evident in widespread household struggles and housing crises, are exacerbated by geopolitical flashpoints like migrant crises amplified by social media. Concurrently, the accelerating AI race presents transformative economic potential alongside significant ethical and environmental costs, creating market volatility with mixed tech sector performance despite specific growth. Critically, elevated seismic activity, notably a Magnitude 5.7 near populated Indonesia, signals heightened physical risks that could impact critical infrastructure and supply chains. To navigate this landscape, GlobeGuard advises immediate action: first, fortify financial resilience by diversifying asset portfolios into resilient sectors and securing digital holdings against evolving tech-driven threats; second, enhance physical preparedness by updating emergency protocols and conducting structural assessments, especially for assets in seismically active or climate-vulnerable regions; and third, strategically de-risk global dependencies by auditing and diversifying critical supply chains and fostering local community resilience against compounding social and environmental stressors.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.7 - Scotia Sea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/attk5wls"
+            "title": "\u26a0\ufe0f Mag 6.2 - Scotia Sea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.7 - Scotia Sea",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Mag 6.7 in Scotia Sea leads multiple strong quakes reported globally!"
+    "seismicSummary": "Urgent: Multiple strong earthquakes are hitting globally, including a M6.2 in the Scotia Sea!"
 }
