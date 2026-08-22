@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment presents a multifaceted risk profile, characterized by mounting economic and social fragility across key regions, evidenced by widespread struggles for essentials and escalating migrant crises, which can fuel political instability. This human dimension is juxtaposed against a dynamic financial landscape seeing major tech stocks waver while strategic data analytics firms like Palantir demonstrate robust growth, highlighting a pivot towards critical intelligence infrastructure amidst a concerning trend of AI development with significant environmental costs. Concurrently, a persistent pattern of moderate seismic activity globally, including in densely populated areas like Japan and Indonesia, underscores a constant physical threat that demands vigilance. Therefore, GlobeGuard advises immediate action: **diversify financial portfolios**, prioritizing assets resilient to economic volatility and leveraging strategic tech for growth; **enhance digital security protocols** against sophisticated AI-driven threats and strategically evaluate ethical AI integration; and **activate and regularly drill comprehensive physical safety and supply chain contingency plans**, especially for regions prone to seismic or climate events.",
+    "strategicPlan": "The global threat landscape is currently characterized by a complex interplay of systemic socio-economic fragility, advanced technological disruption, and persistent geophysical instability. Geopolitically, widespread cost-of-living and housing crises are fueling social distress and migration challenges, amplified by social media, suggesting potential for rapid civil unrest. Financially, while major tech stocks exhibit mixed performance, the strong upward trend in AI-centric companies like Palantir highlights significant investment in artificial intelligence, yet raises concerns regarding its environmental impact and ethical deployment. Concurrently, persistent strong seismic activity in critical regions, including the Scotia Sea and Indonesia, underscores an ongoing threat of natural disasters that can disrupt infrastructure and supply chains. To secure your assets and physical safety in this volatile environment, prioritize diversifying investments into resilient sectors while closely monitoring AI development for both opportunity and ethical risk, diligently track social media narratives and localized economic indicators to anticipate civil unrest, and crucially, review and reinforce all personal and organizational emergency preparedness plans against both socio-economic and natural disaster scenarios.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.7 - Scotia Sea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/attk5wls"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.7 - Scotia Sea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.7 - 194 km SW of Labuan, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 148 km SSE of Tateyama, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple M5+ earthquakes are being reported worldwide!**"
+    "seismicSummary": "\u26a0\ufe0f Mag 6.7 in Scotia Sea leads multiple strong quakes reported globally!"
 }
