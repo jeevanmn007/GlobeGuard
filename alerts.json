@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global operating environment presents a multifaceted risk profile, characterized by mounting economic and social fragility across key regions, evidenced by widespread struggles for essentials and escalating migrant crises, which can fuel political instability. This human dimension is juxtaposed against a dynamic financial landscape seeing major tech stocks waver while strategic data analytics firms like Palantir demonstrate robust growth, highlighting a pivot towards critical intelligence infrastructure amidst a concerning trend of AI development with significant environmental costs. Concurrently, a persistent pattern of moderate seismic activity globally, including in densely populated areas like Japan and Indonesia, underscores a constant physical threat that demands vigilance. Therefore, GlobeGuard advises immediate action: **diversify financial portfolios**, prioritizing assets resilient to economic volatility and leveraging strategic tech for growth; **enhance digital security protocols** against sophisticated AI-driven threats and strategically evaluate ethical AI integration; and **activate and regularly drill comprehensive physical safety and supply chain contingency plans**, especially for regions prone to seismic or climate events.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Urgent: Multiple M5+ earthquakes are being reported worldwide!**"
 }
