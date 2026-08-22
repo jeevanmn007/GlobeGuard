@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our current intelligence indicates a complex and evolving global risk profile, despite a nominal threat level. Deep-seated socio-economic fragilities, evidenced by widespread struggles for essentials and escalating rent crises, are creating fertile ground for social instability, amplified by digital media, echoing historical patterns of multi-faceted environmental disasters. Financially, while key tech sectors show mixed performance with significant growth in specific AI/data analytics firms like PLTR, the broader economic pressure suggests potential market volatility and a deepening wealth divide. Simultaneously, the accelerating AI race raises critical ethical and environmental concerns, shaping future resource allocation and power dynamics. Underpinning these societal shifts, persistent seismic activity, though currently in remote areas, serves as a stark reminder of ongoing physical threats. To secure assets and ensure safety, we advise three immediate actions: first, meticulously review and diversify financial portfolios, prioritizing resilience against economic shocks and strategic positioning within the AI economy; second, fortify digital security protocols and enhance critical information discernment capabilities amidst a landscape of rapid technological advancement and social media-driven narratives; and third, establish robust localized preparedness plans and assess critical supply chain vulnerabilities for essential resources, accounting for both socio-economic disruptions and persistent natural hazards.",
+    "strategicPlan": "The global strategic environment is characterized by escalating multi-faceted threats: widespread socio-economic distress, with millions struggling for essentials and housing, fuels political instability amplified by social media; financially, major tech stocks show mixed signals amidst the rapid, yet environmentally costly, expansion of the AI sector; and physically, persistent significant seismic activity across multiple global fault lines underscores ongoing planetary vulnerabilities. To secure assets and ensure physical safety, GlobeGuard issues a direct directive: first, immediately diversify investment portfolios, prioritizing resilience in volatile markets and considering the long-term impact of AI development; second, urgently review and bolster all physical emergency preparedness protocols, particularly for natural disasters; and third, fortify digital and informational resilience to counter misinformation and protect against social engineering threats, ensuring operational continuity and clarity in an increasingly complex world.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft"
+            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong quakes reported, including a M6.2 in Scotia Sea and M5.7 near Indonesia!"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes just hit globally, including a Mag 6.2 in the Scotia Sea!**"
 }
