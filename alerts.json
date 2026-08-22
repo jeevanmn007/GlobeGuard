@@ -65,7 +65,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 4 km NNW of Toride, Japan",
+            "title": "\u26a0\ufe0f Mag 5.8 - 4 km N of Toride, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta"
         },
         {
@@ -73,8 +73,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 194 km SW of Labuan, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu"
+            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6"
         }
     ],
     "seismicSummary": "Analyzing tectonic data..."
