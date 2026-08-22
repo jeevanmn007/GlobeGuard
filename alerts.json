@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is characterized by escalating multi-faceted threats: widespread socio-economic distress, with millions struggling for essentials and housing, fuels political instability amplified by social media; financially, major tech stocks show mixed signals amidst the rapid, yet environmentally costly, expansion of the AI sector; and physically, persistent significant seismic activity across multiple global fault lines underscores ongoing planetary vulnerabilities. To secure assets and ensure physical safety, GlobeGuard issues a direct directive: first, immediately diversify investment portfolios, prioritizing resilience in volatile markets and considering the long-term impact of AI development; second, urgently review and bolster all physical emergency preparedness protocols, particularly for natural disasters; and third, fortify digital and informational resilience to counter misinformation and protect against social engineering threats, ensuring operational continuity and clarity in an increasingly complex world.",
+    "strategicPlan": "The global landscape presents a complex, multi-faceted threat picture demanding immediate attention. Socio-economic strains are deepening, with widespread struggles for essentials and housing crises exacerbated by swift information dissemination and social media's amplifying effect on societal tensions. Financially, while broader market sentiment shows some caution with major tech slightly down, the AI sector continues strong growth, prompting a critical look at its environmental footprint and ethical implications. Simultaneously, significant seismic activity, including a Mag 6.2 in the Scotia Sea and Mag 5.7 near Indonesia, indicates persistent geological instability and the ongoing potential for disruptive natural disasters. In response, GlobeGuard directs immediate action: 1) Re-evaluate and diversify financial assets towards resilient sectors and tangible holdings to mitigate economic volatility and inflationary pressures. 2) Strengthen physical preparedness against natural hazards, focusing on robust emergency planning, supply chain resilience, and location-specific risk assessments for seismic and flood events. 3) Monitor socio-political narratives and information warfare closely, understanding their capacity to amplify crises and secure vital communication channels.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes just hit globally, including a Mag 6.2 in the Scotia Sea!**"
+    "seismicSummary": "**Alert: A Mag 6.2 and multiple Mag 5+ earthquakes just struck worldwide!**"
 }
