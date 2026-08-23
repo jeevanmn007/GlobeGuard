@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex nexus of converging threats: significant seismic activity, particularly in Japan, signals elevated physical risks requiring immediate preparedness; simultaneously, escalating humanitarian and social crises globally \u2013 from hunger in Somalia to migrant challenges in Spain and housing affordability in NYC \u2013 underscore widespread systemic vulnerabilities and potential for unrest. Financially, while key tech stocks like Microsoft and Palantir show gains, the broader market experiences mild downturns amid an aggressive, resource-intensive AI development race, hinting at future environmental and economic volatility. To secure assets and physical safety, first, critically reassess and diversify investment portfolios, favoring resilience and sustainability amidst the AI boom's potential environmental impacts; second, prioritize and reinforce physical emergency protocols and infrastructure in seismically active zones given the recent strong quakes; and third, strengthen supply chain resilience and resource diversification against growing geopolitical instability and humanitarian crises.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 4 km N of Toride, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyk"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 124 km ESE of Kirakira, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 78 km S of Gorontalo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtu"
         }
     ],
-    "seismicSummary": "Multiple major earthquakes, including a Mag 6 and 5.8 in Japan, have just struck globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
