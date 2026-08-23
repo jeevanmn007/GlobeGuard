@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global strategic environment is characterized by converging stressors: widespread societal economic fragility, evidenced by household struggles and urban rent crises, which exacerbates geopolitical friction amplified by social media in migration disputes. Financial markets reflect this uncertainty with mixed tech performance, even as the rapid, often environmentally impactful, advance of AI continues to reshape industries. Concurrently, persistent moderate seismic activity from Japan to Pakistan highlights inherent physical risks. To secure assets and ensure safety in this multifaceted landscape, your immediate directive is threefold: 1. Fortify financial resilience through diversified, liquid holdings and inflation hedges, preparing for sustained economic volatility. 2. Enhance digital and informational security across all platforms, actively verifying sources and protecting against technologically amplified misinformation. 3. Systematically review and update physical emergency preparedness plans, securing infrastructure and ensuring essential supplies are readily available for natural disaster response, especially in seismically active or climate-vulnerable regions.",
+    "strategicPlan": "The global environment currently presents a critical convergence of escalating socio-economic fragility, evidenced by widespread struggles for essentials and heightened migration pressures, juxtaposed with persistent tectonic instability across the Pacific Ring of Fire, threatening key economic regions. Financially, while broader market indicators show slight retraction, strategic AI-related investments demonstrate resilience amidst this landscape of profound uncertainty and ethical questions regarding environmental impact. To navigate this multifaceted risk, immediately secure financial assets through diversification into resilient, ethically responsible AI sectors, while establishing robust hedges against broader economic volatility. Concurrently, reinforce physical safety protocols and critical infrastructure resilience, particularly for assets and personnel operating within or reliant on seismically active zones, ensuring comprehensive disaster preparedness. Finally, actively monitor and engage with socio-political stressors, leveraging intelligence to counter disinformation and strengthen community resilience against escalating geopolitical and internal pressures.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 55 km N of Barishal, Pakistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmy3"
+            "title": "\u26a0\ufe0f Mag 4.7 - 170 km SW of Sungai Penuh, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Magnitude 5.8 in Japan, have struck across the Asia-Pacific region!"
+    "seismicSummary": "Breaking: A Mag 5.8 earthquake just hit Japan, amidst multiple other quakes globally!"
 }
