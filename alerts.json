@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment currently presents a critical convergence of escalating socio-economic fragility, evidenced by widespread struggles for essentials and heightened migration pressures, juxtaposed with persistent tectonic instability across the Pacific Ring of Fire, threatening key economic regions. Financially, while broader market indicators show slight retraction, strategic AI-related investments demonstrate resilience amidst this landscape of profound uncertainty and ethical questions regarding environmental impact. To navigate this multifaceted risk, immediately secure financial assets through diversification into resilient, ethically responsible AI sectors, while establishing robust hedges against broader economic volatility. Concurrently, reinforce physical safety protocols and critical infrastructure resilience, particularly for assets and personnel operating within or reliant on seismically active zones, ensuring comprehensive disaster preparedness. Finally, actively monitor and engage with socio-political stressors, leveraging intelligence to counter disinformation and strengthen community resilience against escalating geopolitical and internal pressures.",
+    "strategicPlan": "The global strategic environment is acutely challenging, marked by a critical convergence of factors: escalating humanitarian crises in regions like Somalia and Spain, contributing to geopolitical instability; mixed but generally soft financial market performance for major tech, though strategic AI/data firms like Palantir show significant resilience; and a pronounced increase in global seismic activity, with a Mag 5.8 near Toride, Japan, posing immediate physical risks and potential supply chain disruptions in a critical economic hub. Concurrently, the unbridled development of AI presents both immense opportunities and significant ethical, social, and environmental challenges, shaping future economic and security landscapes. To navigate this complex environment, GlobeGuard directs immediate action: 1. Conduct a rapid re-evaluation of all critical physical assets and supply chains, strengthening disaster resilience protocols, particularly for operations in seismically active and climate-vulnerable zones. 2. Strategically diversify financial holdings, prioritizing stability while selectively investing in resilient technologies that offer defensive capabilities against geopolitical and economic volatility. 3. Enhance intelligence gathering and foresight capabilities, with a particular focus on ethical AI integration and risk assessment, to proactively identify and counter emerging threats from both technological advancement and evolving socio-political crises.",
     "survival": [
-        {
-            "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
-            "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o"
-        },
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
             "link": "https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/"
@@ -17,6 +13,10 @@
         {
             "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
             "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo"
+        },
+        {
+            "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
+            "link": "https://www.yahoo.com/news/world/articles/somalia-faces-another-hunger-crisis-133815641.html"
         }
     ],
     "stock": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyk"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 124 km ESE of Kirakira, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 78 km S of Gorontalo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 170 km SW of Sungai Penuh, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7"
         }
     ],
-    "seismicSummary": "Breaking: A Mag 5.8 earthquake just hit Japan, amidst multiple other quakes globally!"
+    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes detected, including a Mag 5.8 in Japan!"
 }
