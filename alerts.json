@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape reveals a complex interplay of escalating societal fragility, rapid technological evolution, and persistent geophysical threats. Widespread economic hardship and migratory pressures contribute to significant geopolitical instability, often amplified by digital channels, while the AI sector experiences a dual dynamic of intense innovation and ethical scrutiny regarding its environmental footprint and societal impact; financially, while broader tech experiences minor fluctuations, AI-centric investments demonstrate strong resilience and growth. Concurrently, a pattern of moderate but consistent seismic activity across the Pacific Ring of Fire demands immediate attention. Therefore, our immediate directive is threefold: first, rigorously assess and secure all critical physical assets against both economic disruption and natural disaster scenarios, ensuring robust contingency planning and supply chain resilience; second, strategically navigate the evolving AI landscape by balancing growth opportunities with a proactive mitigation of associated ethical, environmental, and socio-economic risks to long-term stability; and third, immediately enhance disaster preparedness protocols and infrastructure resilience for personnel and operations situated in seismically active regions, emphasizing early warning systems and evacuation readiness.",
+    "strategicPlan": "The current global strategic environment is characterized by converging stressors: widespread societal economic fragility, evidenced by household struggles and urban rent crises, which exacerbates geopolitical friction amplified by social media in migration disputes. Financial markets reflect this uncertainty with mixed tech performance, even as the rapid, often environmentally impactful, advance of AI continues to reshape industries. Concurrently, persistent moderate seismic activity from Japan to Pakistan highlights inherent physical risks. To secure assets and ensure safety in this multifaceted landscape, your immediate directive is threefold: 1. Fortify financial resilience through diversified, liquid holdings and inflation hedges, preparing for sustained economic volatility. 2. Enhance digital and informational security across all platforms, actively verifying sources and protecting against technologically amplified misinformation. 3. Systematically review and update physical emergency preparedness plans, securing infrastructure and ensuring essential supplies are readily available for natural disaster response, especially in seismically active or climate-vulnerable regions.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 170 km SW of Sungai Penuh, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7"
+            "title": "\u26a0\ufe0f Mag 4.8 - 55 km N of Barishal, Pakistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmy3"
         }
     ],
-    "seismicSummary": "Urgent: A 5.8 earthquake has struck near Japan amidst multiple other strong quakes across the Pacific!"
+    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Magnitude 5.8 in Japan, have struck across the Asia-Pacific region!"
 }
