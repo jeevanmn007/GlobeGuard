@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape presents a critical confluence of escalating threats: widespread socio-economic fragility evidenced by household struggles and migration crises, a volatile financial market exhibiting selective tech sector adjustments amid an ethically complex AI boom, and a tangible uptick in significant seismic activity across multiple active zones globally. To secure assets and ensure physical safety, GlobeGuard issues three immediate directives: first, recalibrate investment portfolios towards defensive assets and regional economic hedges, enhancing financial resilience against market and social instability; second, rigorously activate and review emergency preparedness plans for all personnel and critical infrastructure in seismically active regions, focusing on communication, evacuation, and supply security; and third, bolster supply chain redundancy and localized operational capabilities to mitigate disruptions from both socio-economic upheaval and acute physical shocks.",
+    "strategicPlan": "The global threat landscape is acutely volatile, marked by a critical confluence of stressors: socio-economic instability is escalating worldwide, evidenced by widespread struggles to afford essentials, acute housing crises, and migrant pressures amplified by digital disinformation, creating fertile ground for civil unrest. Financially, while certain large tech sectors show slight dips, the AI domain continues its aggressive expansion and investment, raising urgent concerns about its environmental footprint and ethical implications. Simultaneously, the Pacific Rim is experiencing notable seismic activity, underscoring immediate physical hazards. Therefore, prioritize reinforcing physical security and resilience by updating disaster preparedness plans and emergency supplies for all key locations, especially those in seismically active zones; strategically reassess and diversify financial portfolios to protect against socio-economic downturns and capitalize on emerging, resilient technologies while mitigating associated ethical and environmental risks; and finally, fortify digital infrastructure and information defenses to counter the destabilizing influence of mis/disinformation on social and political environments.",
     "survival": [
         {
             "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.2 - Scotia Sea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.8 - 4 km N of Toride, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - Scotia Sea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn"
+            "title": "\u26a0\ufe0f Mag 5.2 - 124 km ESE of Kirakira, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 78 km S of Gorontalo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtu"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 170 km SW of Sungai Penuh, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmt7"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a M6.2 and M5.8, just struck globally!"
+    "seismicSummary": "Strong 5.8 magnitude earthquake near Toride, Japan, reported amidst multiple global quakes!"
 }
