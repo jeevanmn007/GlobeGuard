@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's latest analysis indicates a multifaceted global risk environment, characterized by persistent socio-economic and humanitarian instability across several regions, a dynamically shifting but ethically challenged technology market propelled by the rapid, environmentally impactful rise of AI, and a discernible cluster of significant seismic activity across the Indo-Pacific. While not signaling immediate global collapse, the convergence of these factors demands proactive vigilance. To secure assets and ensure physical safety, first, critically assess and diversify investment portfolios, particularly evaluating exposure to high-growth tech sectors like AI for both opportunity and emerging ESG liabilities. Second, enhance situational awareness for personnel and assets in tectonically active zones and regions susceptible to humanitarian crises, implementing robust emergency preparedness protocols. Finally, develop agile contingency plans that account for the cascading effects of both technological disruption and localized natural disasters, focusing on supply chain resilience and adaptable operational strategies.",
+    "strategicPlan": "The global environment is currently characterized by a dynamic interplay of escalating socio-economic strain, as evidenced by persistent humanitarian crises and socially amplified geopolitical tensions, alongside a significant financial pivot towards artificial intelligence whose rapid growth presents both immense opportunity and and increasing environmental and ethical liabilities. This complex human-driven landscape is critically underpinned by pronounced and ongoing geological instability, with a cluster of significant seismic events in the Indo-Pacific region signaling heightened physical risks. To navigate this converging threat matrix, GlobeGuard directs immediate action: 1) Diversify asset portfolios to mitigate tech sector volatility, prioritizing investments in entities demonstrating robust ethical AI governance and sustainable practices. 2) Proactively review and fortify emergency preparedness protocols for all personnel and assets, especially those situated within the seismically active Indo-Pacific arc. 3) Establish enhanced intelligence gathering on the regulatory and societal implications of AI development, anticipating its impact on supply chains, labor markets, and geopolitical power dynamics to inform long-term strategic positioning.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.82 (-2.28%)",
+            "title": "\ud83d\udcb0 NVDA: $210.29 (-2.06%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.05 (1.2%)",
+            "title": "\ud83d\udcb0 AAPL: $312.22 (0.93%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $487.05 (0.79%)",
+            "title": "\ud83d\udcb0 MSFT: $488.8 (1.15%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $176.21 (-2.08%)",
+            "title": "\ud83d\udcb0 PLTR: $177.39 (-1.42%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.36 (1.44%)",
+            "title": "\ud83d\udcb0 AMZN: $262.61 (1.54%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0s"
         }
     ],
-    "seismicSummary": "URGENT: Multiple powerful earthquakes, including a Magnitude 6, have just struck across the Southeast Asia and Pacific regions!"
+    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes, including a Mag 6, just struck the Indo-Pacific region!"
 }
