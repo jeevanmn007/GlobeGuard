@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a dynamic interplay of escalating socio-economic strain, as evidenced by persistent humanitarian crises and socially amplified geopolitical tensions, alongside a significant financial pivot towards artificial intelligence whose rapid growth presents both immense opportunity and and increasing environmental and ethical liabilities. This complex human-driven landscape is critically underpinned by pronounced and ongoing geological instability, with a cluster of significant seismic events in the Indo-Pacific region signaling heightened physical risks. To navigate this converging threat matrix, GlobeGuard directs immediate action: 1) Diversify asset portfolios to mitigate tech sector volatility, prioritizing investments in entities demonstrating robust ethical AI governance and sustainable practices. 2) Proactively review and fortify emergency preparedness protocols for all personnel and assets, especially those situated within the seismically active Indo-Pacific arc. 3) Establish enhanced intelligence gathering on the regulatory and societal implications of AI development, anticipating its impact on supply chains, labor markets, and geopolitical power dynamics to inform long-term strategic positioning.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.29 (-2.06%)",
+            "title": "\ud83d\udcb0 NVDA: $210.18 (-2.11%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.22 (0.93%)",
+            "title": "\ud83d\udcb0 AAPL: $312.24 (0.94%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $488.8 (1.15%)",
+            "title": "\ud83d\udcb0 MSFT: $489.02 (1.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $177.39 (-1.42%)",
+            "title": "\ud83d\udcb0 PLTR: $177.6 (-1.3%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.61 (1.54%)",
+            "title": "\ud83d\udcb0 AMZN: $262.97 (1.68%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0s"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple strong earthquakes, including a Mag 6, just struck the Indo-Pacific region!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
