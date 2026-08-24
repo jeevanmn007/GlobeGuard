@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a complex, interconnected threat landscape demanding immediate strategic attention. Geopolitically, we observe escalating humanitarian crises in regions like Somalia, alongside social instability amplified by digital platforms as seen in Spain, and persistent economic stressors reflected in urban housing markets. Financially, while broader tech markets show minor fluctuations, the significant surge in AI-related equities like PLTR underscores a rapid, concentrated shift in investment towards artificial intelligence, coinciding with growing environmental concerns related to its development. Concurrently, the physical realm demonstrates heightened seismic activity, notably a significant M6 earthquake near Honch\u014d, Japan, and multiple M5+ events across the Pacific Ring of Fire, indicating sustained tectonic stress. To secure assets and ensure physical safety, GlobeGuard advises: first, immediately review and fortify earthquake and natural disaster preparedness protocols for all personnel and assets located within active seismic zones; second, diversify financial portfolios to capitalize on strategic AI growth while mitigating associated ethical and environmental risks; and third, enhance vigilance against social media-driven destabilization and escalating humanitarian crises, as these can quickly degrade operational environments and supply chains.",
+    "strategicPlan": "GlobeGuard identifies a complex and escalating global risk landscape where interconnected threats demand immediate attention. Geopolitically, we observe mounting social instability driven by localized crises like NYC's rent issues and broader humanitarian emergencies in Somalia, exacerbated by social media's amplification of migration pressures in Europe, all indicating fragile societal resilience and potential for regional destabilization. Financially, while major tech stocks show slight downturns, the robust growth in AI-centric platforms like Palantir underscores a continuing strategic shift towards advanced data intelligence, simultaneously highlighting pressing ethical and environmental concerns regarding AI's resource consumption. Concurrently, heightened seismic activity across the Pacific Ring of Fire, including a significant Mag 6 event near Japan, signals inherent physical vulnerabilities with potential for supply chain disruption. To strategically navigate this environment, first, fortify financial assets by diversifying beyond traditional tech, prioritizing investments in resilient, ethically aligned data-driven technologies, and hedging against AI-driven market volatility. Second, reinforce physical safety protocols and conduct thorough audits of critical infrastructure and supply chains, especially those traversing seismically active zones, ensuring robust disaster preparedness and logistical redundancies. Third, intensify monitoring of geopolitical hotspots experiencing social and humanitarian stress, developing contingency plans for potential impacts on human capital, global stability, and the integrity of information environments.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyk"
+            "title": "\u26a0\ufe0f Mag 5.2 - 61 km NE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0s"
         }
     ],
-    "seismicSummary": "**ALERT: Multiple strong earthquakes detected, led by a Magnitude 6 near Japan!**"
+    "seismicSummary": "Urgent: Multiple strong earthquakes, including a Mag 6 in Japan, are shaking the Pacific region!"
 }
