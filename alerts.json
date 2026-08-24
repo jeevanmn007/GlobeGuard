@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a convergent array of escalating threats: geopolitical instability is mounting with critical humanitarian crises in Somalia and migration pressures in Spain, further stressed by domestic socio-economic strains. Concurrently, while the AI sector dominates financial headlines with significant investments and some market volatility, its environmental impact and ethical dimensions are becoming increasingly prominent risks. Critically, we observe heightened global tectonic activity, notably a significant Mag 6 earthquake in Japan and other substantial events across the Pacific Rim, indicating an elevated and immediate physical threat from natural disasters. To navigate this complex environment, GlobeGuard directs three urgent actions: first, rigorously review and diversify asset portfolios, hedging against market volatility while capitalizing on strategic tech growth and strengthening digital and physical security infrastructure; second, activate and refine comprehensive disaster preparedness and response plans for personnel and operations, especially in seismically active regions, to ensure rapid recovery and continuity; and third, intensify intelligence gathering on cascading humanitarian, climate, and technological risks to anticipate disruptions to supply chains, social stability, and operational continuity.",
+    "strategicPlan": "The current global intelligence picture reveals a complex, interconnected threat landscape demanding immediate strategic attention. Geopolitically, we observe escalating humanitarian crises in regions like Somalia, alongside social instability amplified by digital platforms as seen in Spain, and persistent economic stressors reflected in urban housing markets. Financially, while broader tech markets show minor fluctuations, the significant surge in AI-related equities like PLTR underscores a rapid, concentrated shift in investment towards artificial intelligence, coinciding with growing environmental concerns related to its development. Concurrently, the physical realm demonstrates heightened seismic activity, notably a significant M6 earthquake near Honch\u014d, Japan, and multiple M5+ events across the Pacific Ring of Fire, indicating sustained tectonic stress. To secure assets and ensure physical safety, GlobeGuard advises: first, immediately review and fortify earthquake and natural disaster preparedness protocols for all personnel and assets located within active seismic zones; second, diversify financial portfolios to capitalize on strategic AI growth while mitigating associated ethical and environmental risks; and third, enhance vigilance against social media-driven destabilization and escalating humanitarian crises, as these can quickly degrade operational environments and supply chains.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 207 km SSE of Amahai, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 120 km W of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0t"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 61 km NE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0s"
         }
     ],
-    "seismicSummary": "URGENT: A Mag 6 earthquake just hit Japan, amid multiple other strong quakes reported globally!"
+    "seismicSummary": "**ALERT: Multiple strong earthquakes detected, led by a Magnitude 6 near Japan!**"
 }
