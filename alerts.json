@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a precarious convergence of escalating socio-economic, technological, and environmental risks. Geopolitically, deepening humanitarian crises in Africa and Europe, coupled with domestic urban pressures, signal increasing instability, while the rapidly evolving AI sector presents both significant financial opportunity (e.g., PLTR's growth) and considerable ethical and environmental liabilities (e.g., reduced carbon removal efforts by tech giants). Simultaneously, the Pacific Ring of Fire is demonstrating heightened tectonic instability, highlighted by a Mag 6 earthquake in Japan and several others across Indonesia and the Solomon Islands, posing immediate physical threats and potential for significant supply chain disruptions. Therefore, to navigate this complex environment, we recommend: first, securing financial assets through diversified investment strategies that account for AI's disruptive potential and market volatility; second, reinforcing physical safety and operational resilience, especially for assets and personnel in seismically active regions; and third, intensifying intelligence gathering on emerging geopolitical flashpoints and the ethical trajectory of AI to anticipate cascading impacts on global stability and resource allocation.",
+    "strategicPlan": "GlobeGuard's latest analysis indicates a multifaceted global risk environment, characterized by persistent socio-economic and humanitarian instability across several regions, a dynamically shifting but ethically challenged technology market propelled by the rapid, environmentally impactful rise of AI, and a discernible cluster of significant seismic activity across the Indo-Pacific. While not signaling immediate global collapse, the convergence of these factors demands proactive vigilance. To secure assets and ensure physical safety, first, critically assess and diversify investment portfolios, particularly evaluating exposure to high-growth tech sectors like AI for both opportunity and emerging ESG liabilities. Second, enhance situational awareness for personnel and assets in tectonically active zones and regions susceptible to humanitarian crises, implementing robust emergency preparedness protocols. Finally, develop agile contingency plans that account for the cascading effects of both technological disruption and localized natural disasters, focusing on supply chain resilience and adaptable operational strategies.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.72 (-0.98%)",
+            "title": "\ud83d\udcb0 NVDA: $209.82 (-2.28%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.35 (-0.63%)",
+            "title": "\ud83d\udcb0 AAPL: $313.05 (1.2%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $483.24 (0.43%)",
+            "title": "\ud83d\udcb0 MSFT: $487.05 (0.79%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $179.94 (3.44%)",
+            "title": "\ud83d\udcb0 PLTR: $176.21 (-2.08%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.63 (-0.57%)",
+            "title": "\ud83d\udcb0 AMZN: $262.36 (1.44%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 33 km SSW of Honch\u014d, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6"
+            "title": "\u26a0\ufe0f Mag 6 - 215 km NNE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.5 - 207 km SSE of Amahai, Indonesia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0s"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong quakes, including a Mag 6 in Japan, are shaking the Pacific Rim!"
+    "seismicSummary": "URGENT: Multiple powerful earthquakes, including a Magnitude 6, have just struck across the Southeast Asia and Pacific regions!"
 }
