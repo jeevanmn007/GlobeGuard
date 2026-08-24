@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.4 (-2.48%)",
+            "title": "\ud83d\udcb0 NVDA: $209.56 (-2.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $311.95 (0.84%)",
+            "title": "\ud83d\udcb0 AAPL: $311.56 (0.71%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $487.81 (0.95%)",
+            "title": "\ud83d\udcb0 MSFT: $488.26 (1.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $177.66 (-1.27%)",
+            "title": "\ud83d\udcb0 PLTR: $178.32 (-0.9%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.74 (1.2%)",
+            "title": "\ud83d\udcb0 AMZN: $262.13 (1.35%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
