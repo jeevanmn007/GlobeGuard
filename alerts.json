@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is marked by escalating social and humanitarian crises, persistent seismic activity along the Pacific Ring of Fire, and a dynamic financial sector heavily invested in AI's rapid, yet environmentally impactful, expansion. To navigate this complex risk matrix, first, prioritize securing physical assets and personnel in seismically active zones, ensuring robust emergency protocols and infrastructure resilience, particularly across Asia-Pacific. Second, critically re-evaluate AI investment and development strategies, balancing high-growth opportunities with emerging ethical concerns and the environmental footprint of large-scale AI operations. Finally, mitigate geopolitical exposure by stress-testing supply chains and regional dependencies against social unrest, migration surges, and escalating humanitarian crises, focusing on regions under sustained pressure.",
+    "strategicPlan": "The global strategic landscape is complex, marked by acute seismic instability in the Pacific Ring of Fire posing direct physical risks, coupled with escalating social and humanitarian crises globally\u2014from rent and migration issues to widespread food insecurity. Financially, the tech sector displays mixed signals, with key AI innovators experiencing dips amid a broader, ethically ambiguous, and environmentally impactful AI development race that introduces systemic long-term risks. To secure assets and physical safety, **first**, prioritize immediate review and hardening of emergency protocols and infrastructure in seismically active regions across the Indo-Pacific; **second**, conduct stress tests on investment portfolios, diversifying away from highly speculative tech assets and hedging against market corrections influenced by AI sector volatility; and **third**, re-evaluate supply chain resilience and resource allocation strategies, considering potential disruptions from intensifying natural disasters, social unrest, and the environmental footprint of emerging technologies.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn80"
         }
     ],
-    "seismicSummary": "**URGENT:** Multiple powerful earthquakes, including a Mag 6, just struck across the Pacific Rim!"
+    "seismicSummary": "Multiple strong earthquakes are striking East Asia, including a Mag 6 near Timor Leste!"
 }
