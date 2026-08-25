@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape presents a complex interplay of escalating geopolitical and humanitarian crises, notably in regions facing migration and hunger, exacerbated by social media\u2019s influence, alongside persistent economic anxieties. Financially, while broader tech indices show mixed performance, significant volatility in key AI-related stocks persists amidst intense sector competition and emerging ethical and environmental concerns surrounding AI development. Concurrently, a pronounced cluster of magnitude 5 to 6 seismic events across the Indo-Pacific signals heightened physical risks. To navigate this dynamic environment, GlobeGuard directs immediate action: **first**, strategically diversify asset portfolios, mitigating exposure to highly volatile single-sector tech stocks and re-evaluating long-term investments in light of AI\u2019s evolving ethical and environmental footprint; **second**, enhance physical safety protocols and emergency preparedness, particularly for assets and personnel located within seismically active regions of the Pacific Ring of Fire, ensuring robust communication and contingency plans; and **third**, implement advanced information hygiene strategies to counter social media-driven misinformation, while increasing vigilance on regions experiencing socio-economic instability and humanitarian crises to anticipate potential supply chain and resource allocation challenges.",
+    "strategicPlan": "The global operating environment is marked by escalating social and humanitarian crises, persistent seismic activity along the Pacific Ring of Fire, and a dynamic financial sector heavily invested in AI's rapid, yet environmentally impactful, expansion. To navigate this complex risk matrix, first, prioritize securing physical assets and personnel in seismically active zones, ensuring robust emergency protocols and infrastructure resilience, particularly across Asia-Pacific. Second, critically re-evaluate AI investment and development strategies, balancing high-growth opportunities with emerging ethical concerns and the environmental footprint of large-scale AI operations. Finally, mitigate geopolitical exposure by stress-testing supply chains and regional dependencies against social unrest, migration surges, and escalating humanitarian crises, focusing on regions under sustained pressure.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 207 km SSE of Amahai, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 209 km NNE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn80"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes, including a Mag 6 near Timor Leste, just struck across Asia!"
+    "seismicSummary": "**URGENT:** Multiple powerful earthquakes, including a Mag 6, just struck across the Pacific Rim!"
 }
