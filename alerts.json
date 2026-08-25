@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global strategic landscape currently presents a multi-faceted threat profile: escalating humanitarian and socio-economic crises, including widespread hunger and migration, are amplifying geopolitical instability via digital channels. Financially, the technology sector displays mixed signals, with critical AI-focused stocks showing volatility amidst intense competitive pressures and mounting ethical and environmental concerns surrounding AI development. Concurrently, the Western Pacific region is experiencing pronounced tectonic activity, highlighted by multiple recent high-magnitude seismic events. To navigate this converging risk environment with urgency yet calm, we direct you to first, proactively rebalance investment portfolios, diversifying exposure away from singularly AI-dependent assets and maintaining vigilance on AI regulatory and ethical shifts impacting market stability; second, immediately review and activate comprehensive seismic emergency protocols for all personnel and critical infrastructure situated in the Western Pacific and Southeast Asian areas; and third, conduct a rapid assessment of vital supply chains, fortifying them against disruptions arising from both geopolitical instability and the increasing frequency of severe natural disasters.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 108 km NE of Hengchun, Taiwan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 207 km SSE of Amahai, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 209 km NNE of Lospalos, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn80"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn3t"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 6, just reported across Southeast Asia!"
 }
