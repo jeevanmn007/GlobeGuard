@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global situation presents a complex and intensifying threat environment, marked by concurrent escalating humanitarian and social crises globally\u2014from resource scarcity in Somalia to migration challenges in Spain and economic distress in major urban centers\u2014juxtaposed against significant and sustained seismic activity across the Indo-Pacific's Ring of Fire. Financially, markets exhibit volatility with key tech sectors showing mixed performance amid an accelerating, ethically fraught AI arms race that raises concerning questions about environmental impact and labor displacement. To navigate these interconnected challenges and secure assets and physical safety, GlobeGuard mandates three immediate actions: first, prioritize strengthening disaster preparedness and resilience strategies for all personnel and assets within or reliant on seismically active zones, particularly across Southeast Asia; second, secure financial stability by diversifying investment portfolios beyond volatile tech sectors and fortifying critical supply chains against impending socio-economic disruptions; and third, implement stringent ethical AI governance and conduct comprehensive impact assessments to mitigate long-term operational, reputational, and environmental risks associated with emerging technologies.",
+    "strategicPlan": "The global strategic landscape presents a complex interplay of escalating geopolitical and humanitarian crises, notably in regions facing migration and hunger, exacerbated by social media\u2019s influence, alongside persistent economic anxieties. Financially, while broader tech indices show mixed performance, significant volatility in key AI-related stocks persists amidst intense sector competition and emerging ethical and environmental concerns surrounding AI development. Concurrently, a pronounced cluster of magnitude 5 to 6 seismic events across the Indo-Pacific signals heightened physical risks. To navigate this dynamic environment, GlobeGuard directs immediate action: **first**, strategically diversify asset portfolios, mitigating exposure to highly volatile single-sector tech stocks and re-evaluating long-term investments in light of AI\u2019s evolving ethical and environmental footprint; **second**, enhance physical safety protocols and emergency preparedness, particularly for assets and personnel located within seismically active regions of the Pacific Ring of Fire, ensuring robust communication and contingency plans; and **third**, implement advanced information hygiene strategies to counter social media-driven misinformation, while increasing vigilance on regions experiencing socio-economic instability and humanitarian crises to anticipate potential supply chain and resource allocation challenges.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 209 km NNE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn80"
+            "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
         }
     ],
-    "seismicSummary": "**Multiple strong M5-M6 earthquakes, including a M6 near Timor Leste, just struck across Southeast Asia!**"
+    "seismicSummary": "Urgent: Multiple strong earthquakes, including a Mag 6 near Timor Leste, just struck across Asia!"
 }
