@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's assessment identifies a complex global risk environment marked by escalating socio-economic instability, evident in urban housing crises and humanitarian challenges exacerbated by migration and funding shortfalls, alongside a rapid, ethically contentious, and environmentally impactful expansion of the AI sector. Concurrently, a sustained pattern of moderate seismic activity across the Pacific Ring of Fire signals persistent geological threats. To secure assets and ensure safety, we advise immediate review and diversification of investment portfolios to mitigate against economic volatility and technological shifts, rigorous monitoring of the AI landscape for both strategic opportunities and emerging systemic risks, and proactive reinforcement of disaster preparedness and contingency plans, especially in regions prone to seismic events, to protect critical infrastructure and personnel.",
+    "strategicPlan": "The current global environment presents a complex interplay of rapid technological advancement, escalating societal vulnerabilities, and heightened physical risks. Financially, the AI sector continues its robust growth, exemplified by strong performance in key tech stocks, yet this coexists with critical geopolitical flashpoints such as mounting migration pressures, persistent humanitarian crises in regions like Somalia, and the long-term ethical and environmental implications of AI's expansion. Concurrently, significant seismic activity across the Pacific Ring of Fire, with multiple moderate quakes, signals ongoing geological stress and underscores acute physical risks for exposed infrastructure and populations. To navigate this landscape, users must: 1) Proactively secure and diversify digital and financial assets, particularly those reliant on emerging tech, to mitigate against potential market volatility or cyber threats. 2) Implement and regularly review comprehensive physical safety and disaster preparedness plans, especially for assets or personnel located in tectonically active zones or areas prone to climate-related events. 3) Maintain vigilant situational awareness of geopolitical shifts and societal unrest, acknowledging how digital platforms can amplify these dynamics, to anticipate disruptions to supply chains, stability, and operational continuity.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.57 (1.48%)",
+            "title": "\ud83d\udcb0 NVDA: $210.94 (1.18%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.66 (-0.22%)",
+            "title": "\ud83d\udcb0 AAPL: $309.25 (-0.35%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $489.04 (0.36%)",
+            "title": "\ud83d\udcb0 MSFT: $488.92 (0.33%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.46 (-0.82%)",
+            "title": "\ud83d\udcb0 PLTR: $174.21 (-0.96%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.92 (-0.44%)",
+            "title": "\ud83d\udcb0 AMZN: $260.58 (-0.57%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
+            "title": "\u26a0\ufe0f Mag 5.3 - 239 km SE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 209 km NNE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn80"
+            "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 to 5.5 earthquakes are striking across the Pacific!"
+    "seismicSummary": "Multiple Mag 5+ quakes just struck across the Pacific region!"
 }
