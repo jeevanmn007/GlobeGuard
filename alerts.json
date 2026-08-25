@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is complex, marked by acute seismic instability in the Pacific Ring of Fire posing direct physical risks, coupled with escalating social and humanitarian crises globally\u2014from rent and migration issues to widespread food insecurity. Financially, the tech sector displays mixed signals, with key AI innovators experiencing dips amid a broader, ethically ambiguous, and environmentally impactful AI development race that introduces systemic long-term risks. To secure assets and physical safety, **first**, prioritize immediate review and hardening of emergency protocols and infrastructure in seismically active regions across the Indo-Pacific; **second**, conduct stress tests on investment portfolios, diversifying away from highly speculative tech assets and hedging against market corrections influenced by AI sector volatility; and **third**, re-evaluate supply chain resilience and resource allocation strategies, considering potential disruptions from intensifying natural disasters, social unrest, and the environmental footprint of emerging technologies.",
+    "strategicPlan": "The global intelligence brief reveals an escalating and interconnected threat landscape demanding immediate strategic focus. Geopolitically, we observe deepening humanitarian crises exemplified by Somalia's hunger and Spain's migrant challenges, alongside growing societal stresses from urban affordability, all pointing to increased fragility and the potential for cascading disasters. Financially, while tech markets show mixed signals, the overwhelming influence of AI development presents both immense opportunity and significant emerging liabilities due to its environmental footprint and intense competitive race. Concurrently, a concerning cluster of moderate to strong seismic activity across the Indo-Pacific, impacting Timor Leste, Fiji, Taiwan, and Japan, signals heightened geological stress and poses direct physical threats to critical infrastructure and populations in vital economic zones. To secure assets and physical safety, GlobeGuard directs immediate action: 1) Prioritize a comprehensive review of physical asset resilience, particularly for holdings in the seismically active Indo-Pacific, coupled with enhanced digital asset security protocols. 2) Re-evaluate investment portfolios with an emphasis on companies demonstrating robust ethical AI governance and verifiable environmental stewardship to mitigate market volatility and regulatory risks. 3) Strengthen supply chain redundancy and pre-position humanitarian response capabilities to guard against disruptions stemming from geopolitical instability and resource scarcity.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 108 km NE of Hengchun, Taiwan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 209 km NNE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn80"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes are striking East Asia, including a Mag 6 near Timor Leste!"
+    "seismicSummary": "Urgent: Multiple Mag 5-6 earthquakes are striking Timor Leste, Fiji, Taiwan, and Japan!"
 }
