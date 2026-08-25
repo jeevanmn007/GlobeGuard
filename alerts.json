@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape currently presents a complex interplay of persistent societal vulnerabilities, a dynamic yet volatile financial market heavily influenced by AI's rapid expansion, and ongoing tectonic instability. Geopolitically, we observe escalating humanitarian crises, from widespread hunger and migration challenges amplified by digital platforms to urban economic pressures. Financially, while AI-driven tech sectors show robust activity, broader market volatility and increasing ethical/environmental concerns associated with technological advancement persist. Concurrently, a cluster of moderate seismic events across the Pacific Rim underscores the continuous threat of natural disasters. To navigate this intricate environment, immediately diversify financial assets, carefully evaluating exposure to AI innovations against their emerging ethical and environmental implications; fortify digital and physical infrastructure against geopolitical shocks and potential supply chain disruptions, acknowledging social media's role in crisis amplification; and finally, ensure comprehensive personal and organizational preparedness for natural disasters, especially within seismically active regions, while closely monitoring global resource and aid stability.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.2 (1.78%)",
+            "title": "\ud83d\udcb0 NVDA: $212.37 (1.87%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.73 (-0.2%)",
+            "title": "\ud83d\udcb0 AAPL: $309.61 (-0.23%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $489.34 (0.42%)",
+            "title": "\ud83d\udcb0 MSFT: $489.4 (0.43%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.24 (-0.37%)",
+            "title": "\ud83d\udcb0 PLTR: $173.05 (-1.61%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.65 (-0.54%)",
+            "title": "\ud83d\udcb0 AMZN: $260.16 (-0.73%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd7"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
+            "title": "\u26a0\ufe0f Mag 5 - 54 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd4"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes, including two 5.5s, just struck across the Pacific Ring of Fire!**"
+    "seismicSummary": "Analyzing tectonic data..."
 }
