@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment presents a complex interplay of rapid technological advancement, escalating societal vulnerabilities, and heightened physical risks. Financially, the AI sector continues its robust growth, exemplified by strong performance in key tech stocks, yet this coexists with critical geopolitical flashpoints such as mounting migration pressures, persistent humanitarian crises in regions like Somalia, and the long-term ethical and environmental implications of AI's expansion. Concurrently, significant seismic activity across the Pacific Ring of Fire, with multiple moderate quakes, signals ongoing geological stress and underscores acute physical risks for exposed infrastructure and populations. To navigate this landscape, users must: 1) Proactively secure and diversify digital and financial assets, particularly those reliant on emerging tech, to mitigate against potential market volatility or cyber threats. 2) Implement and regularly review comprehensive physical safety and disaster preparedness plans, especially for assets or personnel located in tectonically active zones or areas prone to climate-related events. 3) Maintain vigilant situational awareness of geopolitical shifts and societal unrest, acknowledging how digital platforms can amplify these dynamics, to anticipate disruptions to supply chains, stability, and operational continuity.",
+    "strategicPlan": "The global landscape currently presents a complex interplay of persistent societal vulnerabilities, a dynamic yet volatile financial market heavily influenced by AI's rapid expansion, and ongoing tectonic instability. Geopolitically, we observe escalating humanitarian crises, from widespread hunger and migration challenges amplified by digital platforms to urban economic pressures. Financially, while AI-driven tech sectors show robust activity, broader market volatility and increasing ethical/environmental concerns associated with technological advancement persist. Concurrently, a cluster of moderate seismic events across the Pacific Rim underscores the continuous threat of natural disasters. To navigate this intricate environment, immediately diversify financial assets, carefully evaluating exposure to AI innovations against their emerging ethical and environmental implications; fortify digital and physical infrastructure against geopolitical shocks and potential supply chain disruptions, acknowledging social media's role in crisis amplification; and finally, ensure comprehensive personal and organizational preparedness for natural disasters, especially within seismically active regions, while closely monitoring global resource and aid stability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.94 (1.18%)",
+            "title": "\ud83d\udcb0 NVDA: $212.2 (1.78%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $309.25 (-0.35%)",
+            "title": "\ud83d\udcb0 AAPL: $309.73 (-0.2%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $488.92 (0.33%)",
+            "title": "\ud83d\udcb0 MSFT: $489.34 (0.42%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.21 (-0.96%)",
+            "title": "\ud83d\udcb0 PLTR: $175.24 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.58 (-0.57%)",
+            "title": "\ud83d\udcb0 AMZN: $260.65 (-0.54%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,7 +69,7 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 239 km SE of Hihifo, Tonga",
+            "title": "\u26a0\ufe0f Mag 5.2 - 243 km SE of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd7"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ quakes just struck across the Pacific region!"
+    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes, including two 5.5s, just struck across the Pacific Ring of Fire!**"
 }
