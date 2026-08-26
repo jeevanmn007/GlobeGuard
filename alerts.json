@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses the global threat level as elevated, stemming from a complex convergence of geopolitical, financial, and physical tectonic pressures. Geopolitically, escalating social unrest from economic disparities and migration crises, amplified by AI's rapid yet ethically ambiguous advancement and persistent humanitarian emergencies, creates significant instability. Financially, while select AI-driven tech stocks show resilience, the broader market remains vulnerable to these global uncertainties. Concurrently, a concentrated cluster of moderate seismic activity across the Pacific Ring of Fire indicates persistent geological stress. To navigate this environment, GlobeGuard directs three urgent actions: first, fortify cyber-security and diversify all asset portfolios to hedge against market volatility and tech-driven disruptions; second, enhance geopolitical monitoring of critical supply chains, developing robust contingency plans for social unrest or climate-induced disruptions; and third, immediately review and update all disaster preparedness and emergency response protocols for assets and personnel in or reliant on seismically active regions, especially the Pacific Rim.",
+    "strategicPlan": "The global environment is currently marked by a complex interplay of escalating humanitarian and socio-economic crises, from underfunded aid efforts in Somalia and migration pressures in Spain to localized affordability crises in major cities. Financially, while the AI sector, exemplified by strong performance from NVDA and MSFT, continues its rapid, yet environmentally costly, expansion, broader market volatility is evident. Critically, a significant uptick in Mag 5+ seismic activity across the Pacific Ring of Fire, encompassing Fiji, Tonga, Indonesia, and Japan, presents an immediate and tangible physical threat, demanding heightened vigilance. To navigate this complex threat matrix, GlobeGuard directs you to: (1) Immediately review and reinforce emergency preparedness and contingency plans for all personnel and assets situated within or reliant on supply chains crossing the Pacific Rim; (2) Strategically diversify financial portfolios, particularly by reassessing over-exposure to rapidly evolving AI sectors given their environmental costs and ethical uncertainties; and (3) Implement robust social media intelligence to preemptively identify and mitigate localized socio-political instability and misinformation amplified online.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 108 km NE of Hengchun, Taiwan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 243 km SE of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd7"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 54 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes strike across the Pacific!"
+    "seismicSummary": "**Urgent: Four Mag 5+ earthquakes just struck across the Pacific region!**"
 }
