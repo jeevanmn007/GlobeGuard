@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment presents a converging threat matrix, demanding immediate strategic recalibration. Geopolitically, we observe escalating humanitarian crises driven by resource scarcity and migration pressures, exemplified by the Spain and Somalia situations, with social media amplifying destabilizing narratives. Financially, while key tech players like NVDA and MSFT show resilience, the broader AI sector faces growing scrutiny over environmental impact and ethical considerations, introducing regulatory uncertainty despite philanthropic pledges. Concurrently, persistent seismic activity across the Pacific Ring of Fire underscores a heightened physical threat from natural disasters. To navigate this evolving landscape, we must act decisively: first, diversify and stress-test financial portfolios, particularly in tech, to mitigate risks from regulatory shifts and market volatility; second, enhance real-time monitoring of humanitarian crises and climate trends to preempt supply chain disruptions and geopolitical flashpoints; and third, immediately review and reinforce disaster preparedness protocols and asset security for all personnel and infrastructure within seismically active zones, especially the Pacific Rim.",
+    "strategicPlan": "The current global outlook, while not indicative of immediate catastrophic threats (Threat Level 1), necessitates heightened vigilance due to a confluence of dynamic factors, including escalating social and humanitarian stressors, rapid and environmentally impactful AI development, and persistent moderate seismic activity across the Pacific Ring of Fire. To secure your assets and physical safety, GlobeGuard directs you to: 1. Strategically review and diversify your investment portfolio, particularly within the rapidly evolving AI sector, while simultaneously fortifying digital asset security against emerging cyber threats. 2. Proactively bolster physical safety measures by updating emergency preparedness plans, securing key infrastructure against seismic events and environmental disruptions, especially if operating in or near high-risk geological zones. 3. Maintain acute awareness of escalating social and humanitarian crises\u2014such as housing affordability, migration pressures, and food insecurity\u2014as these represent growing risks to supply chain stability and regional operational continuity.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbup"
         }
     ],
-    "seismicSummary": "Multiple strong M5+ earthquakes, including a 5.5 near Fiji, are shaking the Pacific region!"
+    "seismicSummary": "Multiple strong quakes (M4.9-5.5) are active across Fiji, Tonga, and Indonesia!"
 }
