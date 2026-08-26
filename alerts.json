@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an elevated risk profile stemming from a complex interplay of geopolitical stressors, volatile technological advancements, and persistent geophysical threats. Humanitarian crises are deepening, social cohesion is eroding under economic pressures and digital manipulation, while the tech sector, particularly AI, drives significant financial shifts but raises critical environmental and ethical questions regarding sustainability. Concurrently, the Pacific Ring of Fire exhibits notable seismic agitation, underscoring inherent physical vulnerabilities across key strategic regions. To secure assets and ensure physical safety, we advise implementing robust supply chain diversification strategies to mitigate disruptions from both natural disasters and geopolitical instability; fortifying digital and information security defenses against increasingly sophisticated, AI-driven cyber and disinformation campaigns; and enhancing comprehensive preparedness plans for cascading physical and socio-economic events, acknowledging that crises are rarely isolated incidents.",
+    "strategicPlan": "The global intelligence picture reveals a nuanced yet urgent risk environment. Geopolitically, escalating social and humanitarian crises, exacerbated by migratory pressures and the weaponization of social media, demand acute awareness. Financially, while the AI sector, led by NVDA and MSFT, demonstrates resilience and growth, the broader market's mixed performance signals underlying economic uncertainty. Concurrently, persistent seismic activity across the Pacific Ring of Fire in Fiji, Tonga, and Indonesia necessitates vigilance for potential larger events and their cascading effects. To navigate this landscape, GlobeGuard recommends three specific actions: First, secure and diversify your investment portfolio, emphasizing resilient growth sectors like advanced AI while hedging against broader market volatility. Second, fortify digital and informational security, implementing rigorous verification protocols for all incoming data to counter social media-driven manipulation. Third, proactively review and enhance emergency preparedness plans, particularly for natural disasters in seismically active or vulnerable regions, ensuring robust communication and safety protocols.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 31 km S of Nemuro, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
+            "title": "\u26a0\ufe0f Mag 4.9 - 47 km NE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbup"
         }
     ],
-    "seismicSummary": "Alert: Four magnitude 5+ earthquakes reported across the Pacific!"
+    "seismicSummary": "Multiple M5+ earthquakes are rocking the South Pacific and Indonesia!"
 }
