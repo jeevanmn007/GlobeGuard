@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global outlook, while not indicative of immediate catastrophic threats (Threat Level 1), necessitates heightened vigilance due to a confluence of dynamic factors, including escalating social and humanitarian stressors, rapid and environmentally impactful AI development, and persistent moderate seismic activity across the Pacific Ring of Fire. To secure your assets and physical safety, GlobeGuard directs you to: 1. Strategically review and diversify your investment portfolio, particularly within the rapidly evolving AI sector, while simultaneously fortifying digital asset security against emerging cyber threats. 2. Proactively bolster physical safety measures by updating emergency preparedness plans, securing key infrastructure against seismic events and environmental disruptions, especially if operating in or near high-risk geological zones. 3. Maintain acute awareness of escalating social and humanitarian crises\u2014such as housing affordability, migration pressures, and food insecurity\u2014as these represent growing risks to supply chain stability and regional operational continuity.",
+    "strategicPlan": "Our current intelligence indicates a complex and escalating global threat landscape. Geopolitically, we observe widespread humanitarian and social strains, from escalating hunger crises in Somalia and migrant pressures in Spain, amplified by social media, to urban affordability crises, signaling potential for localized unrest and resource competition. Financially, while key tech sectors like AI (NVDA, MSFT) show growth, the broader market exhibits mixed performance (AAPL, AMZN, PLTR), underpinned by a rapid, ethically complex AI revolution with significant environmental and societal implications. Concurrently, a sustained pattern of moderate seismic activity across the Pacific Ring of Fire (Tonga, Indonesia, Japan) underscores persistent physical risks. To navigate this converging threat environment, secure your assets by diversifying investment portfolios to mitigate AI-driven market volatility, bolster your digital and information security protocols to counter emergent disinformation and social engineering tactics, and crucially, review and update personal and operational disaster preparedness plans for potential physical disruptions.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 243 km SE of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd7"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 47 km NE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbup"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 147 km E of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf"
         }
     ],
-    "seismicSummary": "Multiple strong quakes (M4.9-5.5) are active across Fiji, Tonga, and Indonesia!"
+    "seismicSummary": "URGENT: Mag 5.2 quake near Tonga, plus multiple significant tremors in Indonesia and Japan!"
 }
