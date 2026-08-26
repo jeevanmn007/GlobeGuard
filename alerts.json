@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape demands immediate strategic attention, characterized by intensifying humanitarian and migratory crises, persistent moderate seismic activity across vulnerable regions, and a mixed financial market grappling with the rapid, yet environmentally costly and ethically contentious, expansion of artificial intelligence. To navigate this intricate environment, we advise three immediate actions: First, secure and diversify financial assets, prioritizing investments in companies demonstrating verifiable commitment to sustainable AI development and robust governance, given the sector's environmental footprint and ethical debates. Second, rigorously assess and bolster physical asset resilience and emergency preparedness, particularly in locations susceptible to seismic events or cascading natural disasters, drawing lessons from historical protracted crises. Third, enhance intelligence monitoring of geopolitical flashpoints and social media narratives, as these are increasingly catalyzing and exacerbating socio-economic instability and migratory pressures globally.",
+    "strategicPlan": "The global operating environment is currently marked by a confluence of acute and evolving threats, demanding immediate strategic alignment. Geopolitically, we face escalating humanitarian crises in Somalia and Spain, exacerbated by socio-economic strains in major urban centers and the manipulative influence of social media. Financially, while key tech stocks such as Apple and Microsoft demonstrate resilience, the aggressive advancement of the AI sector presents a double-edged sword: promising immense growth but also raising critical ethical dilemmas, environmental concerns (e.g., Microsoft's carbon cuts), and the potential for rapid market shifts. Concurrently, a heightened state of tectonic instability is evident with a cluster of significant seismic events across Japan, Nepal, and Indonesia, posing tangible threats to physical assets, infrastructure, and regional stability. To secure our interests, GlobeGuard must immediately implement three critical directives: 1) Diversify and rigorously stress-test financial portfolios, specifically identifying assets resilient to both geopolitical volatility and the ethical-economic uncertainties of the accelerating AI frontier. 2) Fortify physical safety and supply chain resilience, with an emphasis on infrastructure in seismically active zones and contingency planning for protracted multi-faceted disasters. 3) Intensify intelligence gathering on emerging geopolitical flashpoints and the societal ramifications of AI development, including its environmental impact and potential for information manipulation.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $211.16 (-0.89%)",
+            "title": "\ud83d\udcb0 NVDA: $209.66 (-1.59%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $315.1 (1.68%)",
+            "title": "\ud83d\udcb0 AAPL: $313.45 (1.15%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.63 (0.8%)",
+            "title": "\ud83d\udcb0 MSFT: $496.37 (0.95%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $178.1 (3.11%)",
+            "title": "\ud83d\udcb0 PLTR: $177.5 (2.76%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.22 (-0.32%)",
+            "title": "\ud83d\udcb0 AMZN: $260.28 (-0.3%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 212 km E of Onagawa Ch\u014d, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 55 km NW of Kod\u0101ri\u0307\u0304, Nepal",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbwb"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 42 km NE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 4 km E of Jord\u00e1n, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbzn"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M4.9-5.2 quakes reported across Nepal, Indonesia, and Colombia!"
+    "seismicSummary": "Multiple Mag 5 quakes hitting Japan, Nepal, and Indonesia!"
 }
