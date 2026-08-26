@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex, interwoven landscape of escalating risks. Geopolitically, we observe intensifying humanitarian and migratory crises, notably in Somalia and Europe, exacerbated by socio-economic pressures and digital amplification, while key tech sectors experience mixed financial performance amidst an aggressive AI development race that brings significant ethical and environmental concerns to the forefront. Concurrently, heightened seismic activity across the Indo-Pacific rim, with multiple moderate quakes, underscores persistent physical vulnerabilities to natural disasters. To secure assets and physical safety, GlobeGuard advises: **first**, strategically re-evaluate and diversify digital asset portfolios to build resilience against tech sector volatility and AI-driven market distortions, simultaneously enhancing cybersecurity measures against emerging threats; **second**, conduct a comprehensive audit and fortification of critical global supply chains and physical infrastructure, prioritizing regions exposed to seismic activity and socio-political instability; and **third**, develop agile and ethically-grounded strategies for AI integration, focusing on leveraging its capabilities for enhanced intelligence and risk mitigation while proactively addressing its environmental impact and the competitive dynamics of its rapid advancement.",
+    "strategicPlan": "The global landscape demands immediate strategic attention, characterized by intensifying humanitarian and migratory crises, persistent moderate seismic activity across vulnerable regions, and a mixed financial market grappling with the rapid, yet environmentally costly and ethically contentious, expansion of artificial intelligence. To navigate this intricate environment, we advise three immediate actions: First, secure and diversify financial assets, prioritizing investments in companies demonstrating verifiable commitment to sustainable AI development and robust governance, given the sector's environmental footprint and ethical debates. Second, rigorously assess and bolster physical asset resilience and emergency preparedness, particularly in locations susceptible to seismic events or cascading natural disasters, drawing lessons from historical protracted crises. Third, enhance intelligence monitoring of geopolitical flashpoints and social media narratives, as these are increasingly catalyzing and exacerbating socio-economic instability and migratory pressures globally.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.34 (-1.27%)",
+            "title": "\ud83d\udcb0 NVDA: $211.16 (-0.89%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.23 (1.07%)",
+            "title": "\ud83d\udcb0 AAPL: $315.1 (1.68%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $494.15 (0.5%)",
+            "title": "\ud83d\udcb0 MSFT: $495.63 (0.8%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.01 (1.32%)",
+            "title": "\ud83d\udcb0 PLTR: $178.1 (3.11%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.52 (-0.97%)",
+            "title": "\ud83d\udcb0 AMZN: $260.22 (-0.32%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 35 km S of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyz"
+            "title": "\u26a0\ufe0f Mag 4.9 - 42 km NE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 47 km NE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbup"
+            "title": "\u26a0\ufe0f Mag 4.9 - 4 km E of Jord\u00e1n, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbzn"
         }
     ],
-    "seismicSummary": "**ALERT: Multiple Magnitude 5 earthquakes just struck Nepal, Indonesia, and the Solomon Islands!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M4.9-5.2 quakes reported across Nepal, Indonesia, and Colombia!"
 }
