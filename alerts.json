@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is currently marked by a confluence of acute and evolving threats, demanding immediate strategic alignment. Geopolitically, we face escalating humanitarian crises in Somalia and Spain, exacerbated by socio-economic strains in major urban centers and the manipulative influence of social media. Financially, while key tech stocks such as Apple and Microsoft demonstrate resilience, the aggressive advancement of the AI sector presents a double-edged sword: promising immense growth but also raising critical ethical dilemmas, environmental concerns (e.g., Microsoft's carbon cuts), and the potential for rapid market shifts. Concurrently, a heightened state of tectonic instability is evident with a cluster of significant seismic events across Japan, Nepal, and Indonesia, posing tangible threats to physical assets, infrastructure, and regional stability. To secure our interests, GlobeGuard must immediately implement three critical directives: 1) Diversify and rigorously stress-test financial portfolios, specifically identifying assets resilient to both geopolitical volatility and the ethical-economic uncertainties of the accelerating AI frontier. 2) Fortify physical safety and supply chain resilience, with an emphasis on infrastructure in seismically active zones and contingency planning for protracted multi-faceted disasters. 3) Intensify intelligence gathering on emerging geopolitical flashpoints and the societal ramifications of AI development, including its environmental impact and potential for information manipulation.",
+    "strategicPlan": "The global environment is currently navigating a confluence of escalating multi-faceted risks: persistent geopolitical instability manifesting as humanitarian crises in Somalia and significant social media-amplified migration pressures in Spain, alongside a rapidly evolving, yet environmentally impactful and ethically complex AI technological race reflected in mixed market performance among key tech stocks. This human-driven complexity is compounded by heightened physical threats, indicated by a notable surge in seismic activity across the Pacific and Atlantic, reminding us of historical vulnerabilities to cascading natural disasters. To navigate this landscape, we must immediately: 1. Critically stress-test and diversify digital and financial asset portfolios against market volatility and emerging tech-driven disruptions. 2. Thoroughly review and bolster physical infrastructure and emergency response plans, prioritizing regions susceptible to seismic events or extreme weather. 3. Enhance intelligence monitoring for social contagion, resource scarcity, and the accelerating societal impacts of AI, recognizing their potential for rapid amplification.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 55 km NW of Kod\u0101ri\u0307\u0304, Nepal",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbwb"
+            "title": "\u26a0\ufe0f Mag 5.3 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc7l"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Atlantic Ocean",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 54 km NNW of Ende, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 42 km NE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 quakes hitting Japan, Nepal, and Indonesia!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple Mag 5+ earthquakes active worldwide!"
 }
