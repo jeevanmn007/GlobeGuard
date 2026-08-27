@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently navigating a confluence of escalating multi-faceted risks: persistent geopolitical instability manifesting as humanitarian crises in Somalia and significant social media-amplified migration pressures in Spain, alongside a rapidly evolving, yet environmentally impactful and ethically complex AI technological race reflected in mixed market performance among key tech stocks. This human-driven complexity is compounded by heightened physical threats, indicated by a notable surge in seismic activity across the Pacific and Atlantic, reminding us of historical vulnerabilities to cascading natural disasters. To navigate this landscape, we must immediately: 1. Critically stress-test and diversify digital and financial asset portfolios against market volatility and emerging tech-driven disruptions. 2. Thoroughly review and bolster physical infrastructure and emergency response plans, prioritizing regions susceptible to seismic events or extreme weather. 3. Enhance intelligence monitoring for social contagion, resource scarcity, and the accelerating societal impacts of AI, recognizing their potential for rapid amplification.",
+    "strategicPlan": "The global landscape presents a multifaceted threat profile, demanding urgent strategic response: geopolitical tensions are escalating, marked by persistent humanitarian crises (Somalia) and social fracturing exacerbated by information warfare (Spain's migrant crisis), while the financial sector experiences robust yet environmentally and ethically challenged growth in AI (NVDA, MSFT surges). Critically, physical threats are significantly heightened, evidenced by multiple M5+ seismic events across the Pacific Ring of Fire (Indonesia, Japan) and other strategic regions (Xizang, South Atlantic), indicating broad tectonic instability. GlobeGuard's immediate directive is three-fold: 1. Optimize asset portfolios by strategically investing in high-growth tech while rigorously assessing and mitigating associated ethical and environmental risks. 2. Immediately update and stress-test all emergency preparedness plans, focusing on robust communication and supply chain resilience, especially for operations in seismically active zones. 3. Enhance intelligence gathering on geopolitical flashpoints and social media-driven narratives to anticipate and neutralize threats to regional stability and operational security.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $209.66 (-1.59%)",
+            "title": "\ud83d\udcb0 NVDA: $228.27 (8.88%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.45 (1.15%)",
+            "title": "\ud83d\udcb0 AAPL: $313.88 (0.14%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $496.37 (0.95%)",
+            "title": "\ud83d\udcb0 MSFT: $504.93 (1.72%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $177.5 (2.76%)",
+            "title": "\ud83d\udcb0 PLTR: $186.26 (4.94%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.28 (-0.3%)",
+            "title": "\ud83d\udcb0 AMZN: $256.9 (-1.3%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 212 km E of Onagawa Ch\u014d, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18"
+            "title": "\u26a0\ufe0f Mag 5.3 - 54 km NNE of Labuan Bajo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc8j"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Volcano Islands, Japan region",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 54 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyu"
+            "title": "\u26a0\ufe0f Mag 5 - western Xizang",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc9m"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple Mag 5+ earthquakes active worldwide!"
+    "seismicSummary": "Four Mag 5+ earthquakes just hit worldwide!"
 }
