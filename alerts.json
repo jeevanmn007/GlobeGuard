@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a multifaceted threat profile, demanding urgent strategic response: geopolitical tensions are escalating, marked by persistent humanitarian crises (Somalia) and social fracturing exacerbated by information warfare (Spain's migrant crisis), while the financial sector experiences robust yet environmentally and ethically challenged growth in AI (NVDA, MSFT surges). Critically, physical threats are significantly heightened, evidenced by multiple M5+ seismic events across the Pacific Ring of Fire (Indonesia, Japan) and other strategic regions (Xizang, South Atlantic), indicating broad tectonic instability. GlobeGuard's immediate directive is three-fold: 1. Optimize asset portfolios by strategically investing in high-growth tech while rigorously assessing and mitigating associated ethical and environmental risks. 2. Immediately update and stress-test all emergency preparedness plans, focusing on robust communication and supply chain resilience, especially for operations in seismically active zones. 3. Enhance intelligence gathering on geopolitical flashpoints and social media-driven narratives to anticipate and neutralize threats to regional stability and operational security.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The global landscape presents a complex interplay of escalating humanitarian and geopolitical vulnerabilities, accelerating technological dominance, and immediate physical threats. Geopolitically, the convergence of a Mag 6 earthquake in Somalia with an ongoing, severely underfunded hunger crisis creates an acute humanitarian and stability risk, while Spain's migrant situation underscores social media-fueled political unrest in Europe. Financially, the AI sector continues its robust growth trajectory, evident in strong performance across key tech stocks, yet this boom is shadowed by critical environmental implications (Microsoft's carbon reduction cuts) and emerging ethical debates regarding content creation and wealth distribution. The sustained global seismic activity, particularly the significant event in Somalia, highlights persistent physical risks in vulnerable regions.\n\nTo secure assets and ensure physical safety:\n1.  Immediately prioritize enhanced monitoring and contingency planning for humanitarian and security impacts in Somalia, given the severe confluence of the earthquake and hunger crisis.\n2.  Strategically capitalize on the burgeoning AI sector's growth, while concurrently developing risk mitigation strategies that account for its environmental footprint, ethical challenges, and potential regulatory shifts.\n3.  Reinforce physical safety protocols and asset resilience in all tectonically active zones, particularly those with existing socio-economic vulnerabilities, by reviewing emergency preparedness plans and pre-positioning critical resources.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.27 (8.88%)",
+            "title": "\ud83d\udcb0 NVDA: $227.98 (8.74%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $313.88 (0.14%)",
+            "title": "\ud83d\udcb0 AAPL: $314.58 (0.36%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $504.93 (1.72%)",
+            "title": "\ud83d\udcb0 MSFT: $505.06 (1.75%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $186.26 (4.94%)",
+            "title": "\ud83d\udcb0 PLTR: $185.93 (4.75%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.9 (-1.3%)",
+            "title": "\ud83d\udcb0 AMZN: $256.26 (-1.54%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - 145 km N of Caluula, Somalia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 54 km NNE of Labuan Bajo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc8j"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - South Atlantic Ocean",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - western Xizang",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc9m"
         }
     ],
-    "seismicSummary": "Four Mag 5+ earthquakes just hit worldwide!"
+    "seismicSummary": "Multiple powerful earthquakes, including a Mag 6 in Somalia, just struck worldwide!"
 }
