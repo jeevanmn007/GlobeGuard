@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape presents a complex interplay of escalating humanitarian and geopolitical vulnerabilities, accelerating technological dominance, and immediate physical threats. Geopolitically, the convergence of a Mag 6 earthquake in Somalia with an ongoing, severely underfunded hunger crisis creates an acute humanitarian and stability risk, while Spain's migrant situation underscores social media-fueled political unrest in Europe. Financially, the AI sector continues its robust growth trajectory, evident in strong performance across key tech stocks, yet this boom is shadowed by critical environmental implications (Microsoft's carbon reduction cuts) and emerging ethical debates regarding content creation and wealth distribution. The sustained global seismic activity, particularly the significant event in Somalia, highlights persistent physical risks in vulnerable regions.\n\nTo secure assets and ensure physical safety:\n1.  Immediately prioritize enhanced monitoring and contingency planning for humanitarian and security impacts in Somalia, given the severe confluence of the earthquake and hunger crisis.\n2.  Strategically capitalize on the burgeoning AI sector's growth, while concurrently developing risk mitigation strategies that account for its environmental footprint, ethical challenges, and potential regulatory shifts.\n3.  Reinforce physical safety protocols and asset resilience in all tectonically active zones, particularly those with existing socio-economic vulnerabilities, by reviewing emergency preparedness plans and pre-positioning critical resources.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The current global landscape signals a converging threat profile, characterized by escalating geopolitical instability, volatile financial markets driven by technological shifts, and critical physical vulnerabilities. Humanitarian crises in Somalia, now tragically compounded by a Magnitude 6 earthquake, highlight an urgent need for disaster preparedness and aid, while migratory pressures in Europe underscore broader societal and political fragilities. Financially, while major tech giants show resilience, the volatile performance of AI-centric companies like NVIDIA, coupled with the immense environmental footprint and ethical questions surrounding AI's rapid advancement, points to a period of significant economic re-evaluation. To navigate this complex environment, secure your assets by diversifying portfolios against tech volatility and reinforcing digital security protocols, safeguard physical safety by reviewing and updating emergency response plans for personnel and operations in vulnerable or seismically active zones, and maintain continuous intelligence monitoring on humanitarian flashpoints and their potential to disrupt global supply chains.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $227.98 (8.74%)",
+            "title": "\ud83d\udcb0 NVDA: $218.96 (-3.96%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $314.58 (0.36%)",
+            "title": "\ud83d\udcb0 AAPL: $320.15 (1.77%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $505.06 (1.75%)",
+            "title": "\ud83d\udcb0 MSFT: $517.11 (2.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $185.93 (4.75%)",
+            "title": "\ud83d\udcb0 PLTR: $185.94 (0.0%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.26 (-1.54%)",
+            "title": "\ud83d\udcb0 AMZN: $265.31 (3.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -51,12 +51,12 @@
             "link": "https://gizmodo.com/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80-2000798385"
         },
         {
-            "title": "Is paying artists enough to convince them to embrace AI?",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
         },
         {
-            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-            "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
+            "title": "Is paying artists enough to convince them to embrace AI?",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
         }
     ],
     "seismic": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 54 km NNE of Labuan Bajo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc8j"
+            "title": "\u26a0\ufe0f Mag 5.2 - southeast Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tchl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Volcano Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc7l"
+            "title": "\u26a0\ufe0f Mag 5 - 172 km SE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcii"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Atlantic Ocean",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56"
+            "title": "\u26a0\ufe0f Mag 5 - 109 km WNW of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcig"
         }
     ],
-    "seismicSummary": "Multiple powerful earthquakes, including a Mag 6 in Somalia, just struck worldwide!"
+    "seismicSummary": "**Urgent: A Mag 6 earthquake just hit Somalia, with several other strong quakes reported globally!**"
 }
