@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape exhibits a volatile confluence of accelerating technological shifts, persistent socio-economic fragilities, and widespread natural hazards. While major tech giants show resilience, the notable dip in NVDA amidst a speculative AI boom underscores inherent market volatility and significant environmental concerns linked to AI development, further complicated by deepening humanitarian crises exacerbated by social media's influence and ongoing resource strains. This is compounded by sustained moderate tectonic activity across critical regions, signaling continuous physical risks. To navigate this environment effectively, GlobeGuard directs immediate action: First, rigorously stress-test and diversify financial portfolios, prioritizing the security of digital assets against rapid AI-driven market shifts and potential cyber threats. Second, bolster physical resilience by securing critical supply chains and reviewing emergency preparedness plans against both natural disasters and prolonged socio-economic disruptions. Third, establish robust intelligence filters to mitigate against the amplifying effects of misinformation and social media-driven narratives that can destabilize geopolitical situations and erode trust.",
+    "strategicPlan": "GlobeGuard assesses a complex, multi-faceted global risk environment marked by escalating humanitarian crises and social unrest stemming from economic disparities and migration, often amplified by digital platforms. Financially, while broader tech shows gains, significant volatility in key AI players like NVDA signals sector-specific anxieties, exacerbated by mounting environmental and ethical concerns surrounding AI's rapid development. Underpinning these challenges is persistent, moderate global seismic activity, a constant reminder of inherent physical vulnerabilities. To secure assets and ensure physical safety, we direct immediate action: first, diversify digital and physical asset portfolios, re-evaluating exposure to high-volatility tech while considering hedges; second, enhance operational resilience by bolstering local resource allocation and supply chain redundancy against climate and geopolitical disruptions; and third, maintain acute situational awareness for local socio-political shifts and review emergency preparedness plans, especially in seismically active or densely populated areas.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 191 km ESE of Kimbe, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcp5"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 124 km N of Aksu, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcq8"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes are striking globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5-range earthquakes reported globally!"
 }
