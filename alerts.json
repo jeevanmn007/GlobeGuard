@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape signals a converging threat profile, characterized by escalating geopolitical instability, volatile financial markets driven by technological shifts, and critical physical vulnerabilities. Humanitarian crises in Somalia, now tragically compounded by a Magnitude 6 earthquake, highlight an urgent need for disaster preparedness and aid, while migratory pressures in Europe underscore broader societal and political fragilities. Financially, while major tech giants show resilience, the volatile performance of AI-centric companies like NVIDIA, coupled with the immense environmental footprint and ethical questions surrounding AI's rapid advancement, points to a period of significant economic re-evaluation. To navigate this complex environment, secure your assets by diversifying portfolios against tech volatility and reinforcing digital security protocols, safeguard physical safety by reviewing and updating emergency response plans for personnel and operations in vulnerable or seismically active zones, and maintain continuous intelligence monitoring on humanitarian flashpoints and their potential to disrupt global supply chains.",
+    "strategicPlan": "The global environment currently exhibits a complex risk matrix, marked by escalating socio-economic instability, volatile financial sectors, and persistent geophysical threats. Geopolitically, deepening humanitarian crises in Somalia, an exacerbated migration situation in Spain amplified by social media, and significant urban housing pressures underscore widespread societal fragility, further complicated by historical precedents of compounding natural disasters. Financially, while major tech firms like Apple and Microsoft show resilience, NVIDIA's notable downturn amidst claims of AGI and concerns over AI's environmental impact highlight sector-specific vulnerabilities. Concurrently, a cluster of M5+ earthquakes across the Indian Ridge, Papua New Guinea, Kamchatka, and Vanuatu signals ongoing tectonic stress in critical global regions. To navigate this multifaceted landscape, GlobeGuard advises three immediate strategic imperatives: first, prudently diversify and de-risk investment portfolios, particularly within volatile tech segments, while closely monitoring geopolitical flashpoints for potential supply chain disruptions; second, reinforce and regularly test comprehensive emergency preparedness plans for natural disasters, especially for personnel and assets situated in seismically active or climate-vulnerable areas; and third, proactively secure essential resources and foster local resilience against the backdrop of increasing global resource scarcity and potential social unrest.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.96 (-3.96%)",
+            "title": "\ud83d\udcb0 NVDA: $217.55 (-4.57%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $320.15 (1.77%)",
+            "title": "\ud83d\udcb0 AAPL: $319.7 (1.63%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $517.11 (2.39%)",
+            "title": "\ud83d\udcb0 MSFT: $513.53 (1.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $185.94 (0.0%)",
+            "title": "\ud83d\udcb0 PLTR: $186.29 (0.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $265.31 (3.53%)",
+            "title": "\ud83d\udcb0 AMZN: $266.43 (3.97%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 145 km N of Caluula, Somalia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - southeast Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tchl"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 191 km ESE of Kimbe, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcp5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 172 km SE of Petropavlovsk-Kamchatsky, Russia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcig"
         }
     ],
-    "seismicSummary": "**Urgent: A Mag 6 earthquake just hit Somalia, with several other strong quakes reported globally!**"
+    "seismicSummary": "Multiple M5+ earthquakes just struck globally!"
 }
