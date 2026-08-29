@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment currently exhibits a complex risk matrix, marked by escalating socio-economic instability, volatile financial sectors, and persistent geophysical threats. Geopolitically, deepening humanitarian crises in Somalia, an exacerbated migration situation in Spain amplified by social media, and significant urban housing pressures underscore widespread societal fragility, further complicated by historical precedents of compounding natural disasters. Financially, while major tech firms like Apple and Microsoft show resilience, NVIDIA's notable downturn amidst claims of AGI and concerns over AI's environmental impact highlight sector-specific vulnerabilities. Concurrently, a cluster of M5+ earthquakes across the Indian Ridge, Papua New Guinea, Kamchatka, and Vanuatu signals ongoing tectonic stress in critical global regions. To navigate this multifaceted landscape, GlobeGuard advises three immediate strategic imperatives: first, prudently diversify and de-risk investment portfolios, particularly within volatile tech segments, while closely monitoring geopolitical flashpoints for potential supply chain disruptions; second, reinforce and regularly test comprehensive emergency preparedness plans for natural disasters, especially for personnel and assets situated in seismically active or climate-vulnerable areas; and third, proactively secure essential resources and foster local resilience against the backdrop of increasing global resource scarcity and potential social unrest.",
+    "strategicPlan": "The global strategic landscape exhibits a volatile confluence of accelerating technological shifts, persistent socio-economic fragilities, and widespread natural hazards. While major tech giants show resilience, the notable dip in NVDA amidst a speculative AI boom underscores inherent market volatility and significant environmental concerns linked to AI development, further complicated by deepening humanitarian crises exacerbated by social media's influence and ongoing resource strains. This is compounded by sustained moderate tectonic activity across critical regions, signaling continuous physical risks. To navigate this environment effectively, GlobeGuard directs immediate action: First, rigorously stress-test and diversify financial portfolios, prioritizing the security of digital assets against rapid AI-driven market shifts and potential cyber threats. Second, bolster physical resilience by securing critical supply chains and reviewing emergency preparedness plans against both natural disasters and prolonged socio-economic disruptions. Third, establish robust intelligence filters to mitigate against the amplifying effects of misinformation and social media-driven narratives that can destabilize geopolitical situations and erode trust.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - southeast Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tchl"
+            "title": "\u26a0\ufe0f Mag 5.1 - Southwest Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 64 km W of Labuha, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 191 km ESE of Kimbe, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcp5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 172 km SE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcii"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 109 km WNW of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcig"
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck globally!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes are striking globally!"
 }
