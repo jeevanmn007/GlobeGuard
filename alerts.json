@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a multi-faceted global risk environment marked by escalating geopolitical fragilities, financial sector volatility, and persistent natural hazards. The convergence of severe humanitarian crises in regions like Somalia, persistent migrant pressures in Europe, and urban housing crises highlights deep societal vulnerabilities and resource competition, echoing historical patterns of cascading disasters. Concurrently, while major tech stocks like AAPL and MSFT show strength, NVDA's significant decline indicates potential market overvaluation and volatility within the high-growth AI sector, even as vast investments continue alongside concerns about AI's environmental impact. This is further underscored by ongoing moderate seismic activity across diverse regions including Indonesia, Albania, and the South Sandwich Islands, confirming inherent geological instability. Therefore, to navigate this complex landscape, secure assets, and ensure physical safety, we strongly advise: 1) Strategic diversification of financial portfolios, reducing overexposure to highly volatile, though promising, tech segments. 2) Proactive fortification of both digital and physical infrastructure against evolving threats, including AI-driven vulnerabilities and the environmental stressors of rapid technological expansion. 3) Heightened personal and organizational preparedness for natural disasters, with specific emphasis on seismically active zones and areas susceptible to climate-related events.",
+    "strategicPlan": "The global intelligence landscape reveals a complex interplay of escalating risks: geopolitical stability is challenged by deepening humanitarian crises in Somalia, migration-fueled social unrest in Europe, and persistent economic pressures exemplified by NYC's housing crisis, all against a backdrop of heightened global seismic activity with multiple moderate-to-strong earthquakes. Financially, while broader tech indices show resilience, NVDA's notable decline signals potential volatility and a critical re-evaluation within the rapidly evolving, and increasingly environmentally scrutinized, AI sector, despite industry leaders' bold claims. In light of this, GlobeGuard advises immediate action: **first**, strategically diversify financial portfolios, particularly assessing exposure to high-volatility tech and AI assets; **second**, enhance physical safety measures and emergency preparedness protocols for all personnel and critical infrastructure given the elevated seismic activity; and **third**, strengthen operational resilience against geopolitical and climate-related disruptions by meticulously reviewing supply chain vulnerabilities and regional risk profiles.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - Kermadec Islands, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 64 km W of Labuha, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm"
+            "title": "\u26a0\ufe0f Mag 4.9 - 76 km WNW of Bengkulu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 13 km ENE of Himar\u00eb, Albania",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcvf"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple earthquakes around Magnitude 5 just reported globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple quakes hitting globally, largest a Mag 5.8 near New Zealand!"
 }
