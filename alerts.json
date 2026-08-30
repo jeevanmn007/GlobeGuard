@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment presents a complex interplay of escalating geopolitical instability marked by intensifying humanitarian crises in regions like Somalia and migrant pressures amplified by social media, alongside significant, albeit volatile, shifts in the technology sector driven by AI development. Financially, while major tech stocks largely remain robust, the notable dip in NVIDIA underscores a specific vulnerability and potential for swift revaluation within the AI market. Concurrently, moderate seismic activity across various global fault lines, particularly near populated areas in Indonesia and the US coast, emphasizes persistent physical threats. Therefore, we advise immediate action on three fronts: first, re-evaluate and diversify digital asset portfolios to mitigate risk from sector-specific volatility within the AI market; second, bolster supply chain resilience and conduct geopolitical risk assessments, particularly concerning regions impacted by migration and resource crises; and third, update and practice physical disaster preparedness protocols, especially for locations susceptible to seismic events and historical flood patterns, ensuring emergency provisions and communication plans are robust.",
+    "strategicPlan": "GlobeGuard assesses a multi-faceted global risk environment marked by escalating geopolitical fragilities, financial sector volatility, and persistent natural hazards. The convergence of severe humanitarian crises in regions like Somalia, persistent migrant pressures in Europe, and urban housing crises highlights deep societal vulnerabilities and resource competition, echoing historical patterns of cascading disasters. Concurrently, while major tech stocks like AAPL and MSFT show strength, NVDA's significant decline indicates potential market overvaluation and volatility within the high-growth AI sector, even as vast investments continue alongside concerns about AI's environmental impact. This is further underscored by ongoing moderate seismic activity across diverse regions including Indonesia, Albania, and the South Sandwich Islands, confirming inherent geological instability. Therefore, to navigate this complex landscape, secure assets, and ensure physical safety, we strongly advise: 1) Strategic diversification of financial portfolios, reducing overexposure to highly volatile, though promising, tech segments. 2) Proactive fortification of both digital and physical infrastructure against evolving threats, including AI-driven vulnerabilities and the environmental stressors of rapid technological expansion. 3) Heightened personal and organizational preparedness for natural disasters, with specific emphasis on seismically active zones and areas susceptible to climate-related events.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Southwest Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 64 km W of Labuha, Indonesia",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.84 - 85 km W of Petrolia, CA",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637"
+            "title": "\u26a0\ufe0f Mag 4.8 - 13 km ENE of Himar\u00eb, Albania",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcvf"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just reported worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple earthquakes around Magnitude 5 just reported globally!"
 }
