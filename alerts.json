@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a complex, multi-faceted global risk environment marked by escalating humanitarian crises and social unrest stemming from economic disparities and migration, often amplified by digital platforms. Financially, while broader tech shows gains, significant volatility in key AI players like NVDA signals sector-specific anxieties, exacerbated by mounting environmental and ethical concerns surrounding AI's rapid development. Underpinning these challenges is persistent, moderate global seismic activity, a constant reminder of inherent physical vulnerabilities. To secure assets and ensure physical safety, we direct immediate action: first, diversify digital and physical asset portfolios, re-evaluating exposure to high-volatility tech while considering hedges; second, enhance operational resilience by bolstering local resource allocation and supply chain redundancy against climate and geopolitical disruptions; and third, maintain acute situational awareness for local socio-political shifts and review emergency preparedness plans, especially in seismically active or densely populated areas.",
+    "strategicPlan": "The global operating environment presents a complex interplay of escalating geopolitical instability marked by intensifying humanitarian crises in regions like Somalia and migrant pressures amplified by social media, alongside significant, albeit volatile, shifts in the technology sector driven by AI development. Financially, while major tech stocks largely remain robust, the notable dip in NVIDIA underscores a specific vulnerability and potential for swift revaluation within the AI market. Concurrently, moderate seismic activity across various global fault lines, particularly near populated areas in Indonesia and the US coast, emphasizes persistent physical threats. Therefore, we advise immediate action on three fronts: first, re-evaluate and diversify digital asset portfolios to mitigate risk from sector-specific volatility within the AI market; second, bolster supply chain resilience and conduct geopolitical risk assessments, particularly concerning regions impacted by migration and resource crises; and third, update and practice physical disaster preparedness protocols, especially for locations susceptible to seismic events and historical flood patterns, ensuring emergency provisions and communication plans are robust.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 124 km N of Aksu, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcq8"
+            "title": "\u26a0\ufe0f Mag 4.84 - 85 km W of Petrolia, CA",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5-range earthquakes reported globally!"
+    "seismicSummary": "Multiple M5 earthquakes just reported worldwide!"
 }
