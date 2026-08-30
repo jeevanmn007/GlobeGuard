@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex interplay of escalating humanitarian and geopolitical stressors, from deepening hunger crises and migrant pressures exacerbated by social media disinformation, to localized socio-economic unrest. Financially, while key tech sectors demonstrate resilience, the significant volatility in AI leaders like NVDA, alongside the environmental implications of unchecked AI expansion, signal a need for careful strategic adjustment. Simultaneously, persistent moderate seismic activity across multiple global fault lines underscores inherent physical vulnerabilities. To navigate this complex landscape, our immediate directive is threefold: **First**, rigorously assess and diversify financial and digital asset portfolios, bolstering cyber resilience against information warfare and preparing for potential market shifts driven by AI's evolving economic and environmental impacts. **Second**, proactively review and update all regional emergency preparedness protocols, with specific attention to seismic and climate-related disaster resilience, ensuring continuity of operations and personnel safety in high-risk zones. **Third**, prioritize strategic investments in sustainable infrastructure and resilient supply chains, focusing on regions susceptible to resource scarcity and humanitarian crises, thereby mitigating long-term systemic risks.",
+    "strategicPlan": "The global intelligence picture reveals a challenging confluence of escalating geopolitical and humanitarian crises, notably severe hunger in Somalia and social media-amplified migration issues in Spain, signalling growing resource strain and societal fracturing. Financially, while the broader tech sector shows resilience, NVIDIA's significant downturn points to market volatility within the aggressively expanding AI landscape, which itself raises environmental concerns due to increased investment contrasted with reduced carbon removal. These complex human-induced pressures are underpinned by persistent moderate seismic activity across active zones in the Kermadec Islands, South Sandwich Islands, Indonesia, and Peru, serving as a constant reminder of inherent physical vulnerabilities. To secure assets and ensure safety in this multifaceted environment, GlobeGuard directs immediate action to diversify and critically assess digital and financial portfolios, especially those tied to the volatile AI sector; reinforce physical safety protocols and emergency preparedness plans, particularly for operations in seismically active regions; and bolster information integrity by prioritizing verified sources and fortifying communication channels against pervasive misinformation.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 13 km ENE of Himar\u00eb, Albania",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcvf"
+            "title": "\u26a0\ufe0f Mag 4.7 - 62 km SSE of Palca, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt"
         }
     ],
-    "seismicSummary": "Urgent: A 5.8M earthquake struck Kermadec Islands, with multiple other significant quakes reported globally!"
+    "seismicSummary": "\ud83d\udea8 Urgent: A Mag 5.8 quake just hit Kermadec Islands, with multiple other significant quakes active globally!"
 }
