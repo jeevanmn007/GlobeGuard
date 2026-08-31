@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence indicates a complex and volatile global landscape characterized by escalating humanitarian crises, from famine in Somalia to urban housing strains and migration surges amplified by social media, while the burgeoning AI sector raises significant environmental and ethical questions alongside its financial growth. Financially, though parts of the tech market show resilience, the notable downturn in key AI players like NVDA signals underlying volatility requiring careful asset management. Concurrently, persistent moderate seismic activity across the Indo-Pacific and South America highlights an enduring physical threat from natural disasters. To navigate this multifaceted environment, secure your assets and physical safety by: 1) immediately reviewing and diversifying investment portfolios, especially within the volatile tech sector, prioritizing stability and long-term resilience over speculative growth; 2) reinforcing digital security protocols and critical information discernment against social media-driven instability and AI-powered disinformation; and 3) updating and rigorously practicing personal and organizational emergency preparedness plans, with a specific focus on robust disaster response capabilities for potential cascading physical events.",
+    "strategicPlan": "The global threat landscape is evolving rapidly, characterized by concurrent geopolitical, financial, and physical tectonic pressures. Geopolitically, we observe escalating humanitarian crises in Somalia exacerbated by funding shortfalls, alongside socially-amplified migration challenges in Spain and persistent socio-economic distress in urban centers. Financially, major tech market volatility persists, with significant players like Apple and Microsoft seeing declines, while AI-centric entities like Nvidia maintain growth despite increasing environmental concerns and speculative claims around Artificial General Intelligence (AGI). Concurrently, moderate seismic activity across Indonesia, the Philippines, Peru, and El Salvador underscores ongoing physical threats within vulnerable regions. To navigate this complex environment, first, secure financial assets by diversifying beyond highly volatile tech stocks, strategically assessing AI-driven growth for both opportunity and inherent risks. Second, enhance physical safety by reviewing and updating emergency preparedness plans, focusing on resilience against prolonged, multi-event natural disasters, particularly in seismically active zones. Third, bolster digital defenses against information warfare and the proliferation of AI-generated narratives, recognizing their capacity to amplify societal divisions and geopolitical instability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.55 (-4.57%)",
+            "title": "\ud83d\udcb0 NVDA: $220.23 (1.23%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $319.7 (1.63%)",
+            "title": "\ud83d\udcb0 AAPL: $316.86 (-0.89%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $513.53 (1.68%)",
+            "title": "\ud83d\udcb0 MSFT: $508.13 (-1.05%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $186.29 (0.19%)",
+            "title": "\ud83d\udcb0 PLTR: $186.82 (0.29%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.43 (3.97%)",
+            "title": "\ud83d\udcb0 AMZN: $260.11 (-2.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 62 km SSE of Palca, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt"
+            "title": "\u26a0\ufe0f Mag 4.6 - 112 km SSW of Chirilagua, El Salvador",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td5l"
         }
     ],
-    "seismicSummary": "Urgent: A Magnitude 5.5 earthquake just hit Indonesia, with other significant quakes reported in the Philippines and Peru."
+    "seismicSummary": "\u26a0\ufe0f Multiple moderate earthquakes are striking globally, including a Mag 5.5 in Indonesia and others in the Philippines, Peru, and El Salvador!"
 }
