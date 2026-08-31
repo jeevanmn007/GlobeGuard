@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is evolving rapidly, characterized by concurrent geopolitical, financial, and physical tectonic pressures. Geopolitically, we observe escalating humanitarian crises in Somalia exacerbated by funding shortfalls, alongside socially-amplified migration challenges in Spain and persistent socio-economic distress in urban centers. Financially, major tech market volatility persists, with significant players like Apple and Microsoft seeing declines, while AI-centric entities like Nvidia maintain growth despite increasing environmental concerns and speculative claims around Artificial General Intelligence (AGI). Concurrently, moderate seismic activity across Indonesia, the Philippines, Peru, and El Salvador underscores ongoing physical threats within vulnerable regions. To navigate this complex environment, first, secure financial assets by diversifying beyond highly volatile tech stocks, strategically assessing AI-driven growth for both opportunity and inherent risks. Second, enhance physical safety by reviewing and updating emergency preparedness plans, focusing on resilience against prolonged, multi-event natural disasters, particularly in seismically active zones. Third, bolster digital defenses against information warfare and the proliferation of AI-generated narratives, recognizing their capacity to amplify societal divisions and geopolitical instability.",
+    "strategicPlan": "The global environment presents a converging threat landscape characterized by escalating socio-economic instability and humanitarian crises, evidenced by funding shortfalls for hunger relief and amplified by social media narratives around migration, all while major technology markets exhibit volatility despite significant AI investment and ambitious AGI claims. Concurrently, a pattern of moderate seismic activity across the Indo-Pacific and South American plates underscores a persistent physical risk. To navigate this complex environment, GlobeGuard issues three immediate directives: first, rigorously stress-test and diversify financial portfolios, particularly mitigating over-reliance on singular tech equities, while hedging against market volatility; second, conduct immediate infrastructure and emergency preparedness audits for all assets and personnel situated within or near seismically active zones; and third, fortify global supply chain resilience by identifying and mitigating exposure to regions experiencing or prone to humanitarian crises and socio-political unrest.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.23 (1.23%)",
+            "title": "\ud83d\udcb0 NVDA: $220.78 (1.48%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.86 (-0.89%)",
+            "title": "\ud83d\udcb0 AAPL: $316.85 (-0.89%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $508.13 (-1.05%)",
+            "title": "\ud83d\udcb0 MSFT: $507.29 (-1.22%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $186.82 (0.29%)",
+            "title": "\ud83d\udcb0 PLTR: $186.38 (0.05%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.11 (-2.37%)",
+            "title": "\ud83d\udcb0 AMZN: $259.77 (-2.5%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 3 km NW of Yanacancha, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
+            "title": "\u26a0\ufe0f Mag 4.8 - 176 km SE of Gizo, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td6k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.6 - 112 km SSW of Chirilagua, El Salvador",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td5l"
+            "title": "\u26a0\ufe0f Mag 4.7 - 3 km NW of Yanacancha, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple moderate earthquakes are striking globally, including a Mag 5.5 in Indonesia and others in the Philippines, Peru, and El Salvador!"
+    "seismicSummary": "Urgent: Earthquakes up to Mag 5.5 just hit Indonesia, Philippines, Solomon Islands, and Peru!"
 }
