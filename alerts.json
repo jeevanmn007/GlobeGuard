@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a converged threat landscape marked by escalating humanitarian crises, persistent geopolitical instability exacerbated by social media, and significant, dispersed tectonic activity across key seismic zones. Financially, while broad tech market resilience holds, the notable NVDA dip signals volatility, compounded by the growing environmental footprint of AI (Microsoft's carbon removal cuts) which introduces systemic risks. To safeguard assets and ensure personnel safety, GlobeGuard advises three immediate actions: first, thoroughly diversify financial and tangible assets, stress-testing against market shifts and localized economic pressures; second, enhance granular monitoring of regions facing humanitarian and migration crises to pre-empt supply chain disruptions and geopolitical fallout; and third, urgently review and upgrade physical safety protocols and emergency preparedness for all personnel and critical infrastructure, with particular attention to seismically active regions and the potential for cascading environmental events.",
+    "strategicPlan": "GlobeGuard's intelligence indicates a complex and volatile global landscape characterized by escalating humanitarian crises, from famine in Somalia to urban housing strains and migration surges amplified by social media, while the burgeoning AI sector raises significant environmental and ethical questions alongside its financial growth. Financially, though parts of the tech market show resilience, the notable downturn in key AI players like NVDA signals underlying volatility requiring careful asset management. Concurrently, persistent moderate seismic activity across the Indo-Pacific and South America highlights an enduring physical threat from natural disasters. To navigate this multifaceted environment, secure your assets and physical safety by: 1) immediately reviewing and diversifying investment portfolios, especially within the volatile tech sector, prioritizing stability and long-term resilience over speculative growth; 2) reinforcing digital security protocols and critical information discernment against social media-driven instability and AI-powered disinformation; and 3) updating and rigorously practicing personal and organizational emergency preparedness plans, with a specific focus on robust disaster response capabilities for potential cascading physical events.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn"
+            "title": "\u26a0\ufe0f Mag 5.5 - 44 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 13 km SSE of Union, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 76 km WNW of Bengkulu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc"
+            "title": "\u26a0\ufe0f Mag 4.7 - 3 km NW of Yanacancha, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 62 km SSE of Palca, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt"
         }
     ],
-    "seismicSummary": "**Urgent: A 5.8 magnitude earthquake just struck near New Zealand, one of several significant quakes reported worldwide!**"
+    "seismicSummary": "Urgent: A Magnitude 5.5 earthquake just hit Indonesia, with other significant quakes reported in the Philippines and Peru."
 }
