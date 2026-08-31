@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a challenging confluence of escalating geopolitical and humanitarian crises, notably severe hunger in Somalia and social media-amplified migration issues in Spain, signalling growing resource strain and societal fracturing. Financially, while the broader tech sector shows resilience, NVIDIA's significant downturn points to market volatility within the aggressively expanding AI landscape, which itself raises environmental concerns due to increased investment contrasted with reduced carbon removal. These complex human-induced pressures are underpinned by persistent moderate seismic activity across active zones in the Kermadec Islands, South Sandwich Islands, Indonesia, and Peru, serving as a constant reminder of inherent physical vulnerabilities. To secure assets and ensure safety in this multifaceted environment, GlobeGuard directs immediate action to diversify and critically assess digital and financial portfolios, especially those tied to the volatile AI sector; reinforce physical safety protocols and emergency preparedness plans, particularly for operations in seismically active regions; and bolster information integrity by prioritizing verified sources and fortifying communication channels against pervasive misinformation.",
+    "strategicPlan": "The global intelligence assessment reveals a converged threat landscape marked by escalating humanitarian crises, persistent geopolitical instability exacerbated by social media, and significant, dispersed tectonic activity across key seismic zones. Financially, while broad tech market resilience holds, the notable NVDA dip signals volatility, compounded by the growing environmental footprint of AI (Microsoft's carbon removal cuts) which introduces systemic risks. To safeguard assets and ensure personnel safety, GlobeGuard advises three immediate actions: first, thoroughly diversify financial and tangible assets, stress-testing against market shifts and localized economic pressures; second, enhance granular monitoring of regions facing humanitarian and migration crises to pre-empt supply chain disruptions and geopolitical fallout; and third, urgently review and upgrade physical safety protocols and emergency preparedness for all personnel and critical infrastructure, with particular attention to seismically active regions and the potential for cascading environmental events.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd"
+            "title": "\u26a0\ufe0f Mag 4.9 - 13 km SSE of Union, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 76 km WNW of Bengkulu, Indonesia",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: A Mag 5.8 quake just hit Kermadec Islands, with multiple other significant quakes active globally!"
+    "seismicSummary": "**Urgent: A 5.8 magnitude earthquake just struck near New Zealand, one of several significant quakes reported worldwide!**"
 }
