@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment exhibits heightened systemic fragility, marked by escalating socio-economic distress\u2014from urban housing crises and mass migration to severe regional hunger\u2014often exacerbated by the pervasive influence of social media. Concurrently, financial markets show mixed signals in key tech sectors despite continued AI development, which itself carries significant ethical and environmental burdens. This volatile backdrop is underscored by persistent geological instability, with a cluster of M5+ seismic events reported across the Pacific Ring of Fire and Alaska. Given this confluence of geopolitical, financial, and physical threats, GlobeGuard advises immediate action: **First**, critically review and diversify your investment portfolio, particularly scrutinizing concentrated tech holdings that face both market volatility and emerging ethical/environmental scrutiny. **Second**, proactively assess and fortify critical infrastructure and supply chains, prioritizing physical security and disaster preparedness in areas susceptible to seismic activity and social unrest. **Third**, enhance information security protocols and cultivate rigorous due diligence for all incoming data, understanding the amplifying effect of digital platforms on crises and the potential for misinformation within advanced AI environments.",
+    "strategicPlan": "The global threat landscape is acutely dynamic, characterized by escalating humanitarian crises in Somalia and Spain, significant socio-economic strain in urban centers like NYC, and rapid, environmentally impactful AI development causing substantial volatility across major tech stocks, with key players like NVDA, MSFT, and PLTR showing dips. This is compounded by persistent, moderate seismic activity across the Pacific Rim, indicating ongoing physical instability. To secure assets and ensure physical safety, GlobeGuard personnel are directed to immediately: 1. Rebalance and diversify asset portfolios, specifically reducing overexposure to highly volatile AI-centric tech equities while seeking stable hedges. 2. Strengthen supply chain resilience and localize critical resource dependencies to mitigate against geopolitical disruptions and humanitarian pressures. 3. Update and thoroughly drill physical safety protocols and emergency preparedness plans for all personnel and critical infrastructure, prioritizing regions susceptible to seismic events and other natural disasters.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdey"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 5 earthquakes hitting globally!"
+    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide!"
 }
