@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals an escalating convergence of multi-domain risks, characterized geopolitically by mounting humanitarian crises and social instability, financially by significant volatility within the tech sector amidst ethically complex AI advancements, and physically by a notable uptick in global seismic activity underscoring persistent tectonic vulnerabilities. To navigate this intricate environment, secure assets, and ensure physical safety, three immediate directives are critical: first, strategically re-evaluate and diversify investment portfolios to mitigate exposure to speculative tech and AI markets, prioritizing resilience over high-risk growth; second, implement enhanced localized risk assessments and robust contingency planning for operations and personnel in areas prone to socio-economic disruptions or natural disasters, ensuring supply chain and human capital protection; and third, proactively strengthen physical preparedness protocols, including emergency supplies, communication redundancies, and infrastructure integrity checks, particularly for those situated in seismically active or disaster-vulnerable regions.",
+    "strategicPlan": "The global environment exhibits heightened systemic fragility, marked by escalating socio-economic distress\u2014from urban housing crises and mass migration to severe regional hunger\u2014often exacerbated by the pervasive influence of social media. Concurrently, financial markets show mixed signals in key tech sectors despite continued AI development, which itself carries significant ethical and environmental burdens. This volatile backdrop is underscored by persistent geological instability, with a cluster of M5+ seismic events reported across the Pacific Ring of Fire and Alaska. Given this confluence of geopolitical, financial, and physical threats, GlobeGuard advises immediate action: **First**, critically review and diversify your investment portfolio, particularly scrutinizing concentrated tech holdings that face both market volatility and emerging ethical/environmental scrutiny. **Second**, proactively assess and fortify critical infrastructure and supply chains, prioritizing physical security and disaster preparedness in areas susceptible to seismic activity and social unrest. **Third**, enhance information security protocols and cultivate rigorous due diligence for all incoming data, understanding the amplifying effect of digital platforms on crises and the potential for misinformation within advanced AI environments.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.85 (-1.33%)",
+            "title": "\ud83d\udcb0 NVDA: $217.44 (-1.51%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $324.91 (2.54%)",
+            "title": "\ud83d\udcb0 AAPL: $325.13 (2.61%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $501.01 (-1.24%)",
+            "title": "\ud83d\udcb0 MSFT: $501.02 (-1.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $181.64 (-2.54%)",
+            "title": "\ud83d\udcb0 PLTR: $179.92 (-3.47%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.13 (-1.78%)",
+            "title": "\ud83d\udcb0 AMZN: $254.92 (-1.87%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 117 km WNW of Pangai, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbc"
+            "title": "\u26a0\ufe0f Mag 5 - 118 km SSE of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdey"
         }
     ],
-    "seismicSummary": "**Multiple moderate-to-strong earthquakes, up to Mag 5.6, are striking across the globe!**"
+    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 5 earthquakes hitting globally!"
 }
