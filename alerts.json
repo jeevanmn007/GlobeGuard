@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical convergence of systemic risks: escalating humanitarian and socio-economic crises, amplified by digital information streams, persist across multiple continents, hinting at widespread fragility and potential for instability. Financially, while AI innovation drives select market segments, broader tech indices exhibit volatility, reflecting growing concerns about the environmental footprint of rapid technological advancement. Concurrently, a discernible pattern of moderate seismic activity across the Pacific Ring of Fire underscores a persistent and diffuse physical threat. To navigate this intricate landscape, first, diversify financial portfolios away from over-reliance on singular tech segments, prioritizing companies with demonstrated sustainable practices, and bolster digital asset security given the increased geopolitical and cyber risks. Second, immediately review and update emergency preparedness plans for seismic events, particularly for operations or personnel in active zones, ensuring robust communication redundancies. Third, maintain heightened vigilance on geopolitical flashpoints, migration trends, and humanitarian crises as these can rapidly escalate, impacting supply chains and regional stability.",
+    "strategicPlan": "The global situation presents a complex interplay of immediate humanitarian and social crises, including escalating migrant and hunger situations, amplified by digital narratives and economic disparities, while the rapid, resource-intensive expansion of AI technology reshapes market valuations with significant environmental trade-offs. Concurrently, a pattern of elevated seismic activity globally, particularly along the Pacific Ring of Fire, underscores persistent physical risks. To secure assets and ensure physical safety, we direct you to: 1) Strategically diversify investment portfolios, moving beyond singular tech dependencies to include sectors resilient to social and environmental pressures, and monitor regulatory shifts impacting AI. 2) Proactively assess and bolster critical supply chain resilience and local community preparedness against socio-economic instabilities and resource scarcity. 3) Immediately review and update emergency protocols for natural disasters, focusing on seismic event readiness and long-term climate-related vulnerabilities in your operational regions.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,8 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 44 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z"
+            "title": "\u26a0\ufe0f Mag 5.6 - 82 km SE of Maba, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 89 km SSW of Nikolski, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 292 km WNW of Houma, Tonga",
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 176 km SE of Gizo, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td6k"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 3 km NW of Yanacancha, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
         }
     ],
-    "seismicSummary": "URGENT: A Mag 5.5 earthquake just struck near Ruteng, Indonesia!"
+    "seismicSummary": "Multiple strong earthquakes detected worldwide, including Mag 5.6 Indonesia and 5.3 Alaska!"
 }
