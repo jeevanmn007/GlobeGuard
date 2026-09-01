@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex interplay of immediate humanitarian and social crises, including escalating migrant and hunger situations, amplified by digital narratives and economic disparities, while the rapid, resource-intensive expansion of AI technology reshapes market valuations with significant environmental trade-offs. Concurrently, a pattern of elevated seismic activity globally, particularly along the Pacific Ring of Fire, underscores persistent physical risks. To secure assets and ensure physical safety, we direct you to: 1) Strategically diversify investment portfolios, moving beyond singular tech dependencies to include sectors resilient to social and environmental pressures, and monitor regulatory shifts impacting AI. 2) Proactively assess and bolster critical supply chain resilience and local community preparedness against socio-economic instabilities and resource scarcity. 3) Immediately review and update emergency protocols for natural disasters, focusing on seismic event readiness and long-term climate-related vulnerabilities in your operational regions.",
+    "strategicPlan": "The current global intelligence picture reveals a complex interplay of escalating humanitarian and socio-economic crises, from rent affordability to critical food shortages amplified by underfunded aid, alongside volatile geopolitical narratives driven by migration and social media, reminiscent of historical, multi-event disasters. Financially, the tech sector exhibits mixed performance with significant capital allocation towards AI, despite rising environmental concerns and ethical debates, suggesting a speculative yet transformative market. This human-centric turbulence is underscored by persistent seismic activity across the Pacific Ring of Fire, indicating inherent physical vulnerabilities. To navigate this environment, immediately secure diverse digital and physical assets against potential market shifts and localized disruptions, review and reinforce comprehensive emergency preparedness protocols for prolonged, multi-domain contingencies, and critically evaluate all information streams, especially those concerning emerging technologies and socio-political events, to preemptively identify and mitigate cascading risks to both personal safety and strategic holdings.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.78 (1.48%)",
+            "title": "\ud83d\udcb0 NVDA: $217.87 (-1.32%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.85 (-0.89%)",
+            "title": "\ud83d\udcb0 AAPL: $324.77 (2.5%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $507.29 (-1.22%)",
+            "title": "\ud83d\udcb0 MSFT: $503.91 (-0.67%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $186.38 (0.05%)",
+            "title": "\ud83d\udcb0 PLTR: $186.18 (-0.11%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.77 (-2.5%)",
+            "title": "\ud83d\udcb0 AMZN: $255.1 (-1.8%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 292 km WNW of Houma, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u"
+            "title": "\u26a0\ufe0f Mag 5.2 - 35 km SE of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 176 km SE of Gizo, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td6k"
+            "title": "\u26a0\ufe0f Mag 4.9 - 117 km WNW of Pangai, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbc"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes detected worldwide, including Mag 5.6 Indonesia and 5.3 Alaska!"
+    "seismicSummary": "Multiple strong earthquakes detected worldwide, including a Mag 5.6 in Indonesia!"
 }
