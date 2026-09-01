@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a converging threat landscape characterized by escalating socio-economic instability and humanitarian crises, evidenced by funding shortfalls for hunger relief and amplified by social media narratives around migration, all while major technology markets exhibit volatility despite significant AI investment and ambitious AGI claims. Concurrently, a pattern of moderate seismic activity across the Indo-Pacific and South American plates underscores a persistent physical risk. To navigate this complex environment, GlobeGuard issues three immediate directives: first, rigorously stress-test and diversify financial portfolios, particularly mitigating over-reliance on singular tech equities, while hedging against market volatility; second, conduct immediate infrastructure and emergency preparedness audits for all assets and personnel situated within or near seismically active zones; and third, fortify global supply chain resilience by identifying and mitigating exposure to regions experiencing or prone to humanitarian crises and socio-political unrest.",
+    "strategicPlan": "The global environment is currently characterized by a critical convergence of systemic risks: escalating humanitarian and socio-economic crises, amplified by digital information streams, persist across multiple continents, hinting at widespread fragility and potential for instability. Financially, while AI innovation drives select market segments, broader tech indices exhibit volatility, reflecting growing concerns about the environmental footprint of rapid technological advancement. Concurrently, a discernible pattern of moderate seismic activity across the Pacific Ring of Fire underscores a persistent and diffuse physical threat. To navigate this intricate landscape, first, diversify financial portfolios away from over-reliance on singular tech segments, prioritizing companies with demonstrated sustainable practices, and bolster digital asset security given the increased geopolitical and cyber risks. Second, immediately review and update emergency preparedness plans for seismic events, particularly for operations or personnel in active zones, ensuring robust communication redundancies. Third, maintain heightened vigilance on geopolitical flashpoints, migration trends, and humanitarian crises as these can rapidly escalate, impacting supply chains and regional stability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 13 km SSE of Union, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c"
+            "title": "\u26a0\ufe0f Mag 4.8 - 292 km WNW of Houma, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 176 km SE of Gizo, Solomon Islands",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y"
         }
     ],
-    "seismicSummary": "Urgent: Earthquakes up to Mag 5.5 just hit Indonesia, Philippines, Solomon Islands, and Peru!"
+    "seismicSummary": "URGENT: A Mag 5.5 earthquake just struck near Ruteng, Indonesia!"
 }
