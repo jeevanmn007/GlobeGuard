@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a complex interplay of escalating humanitarian and socio-economic crises, from rent affordability to critical food shortages amplified by underfunded aid, alongside volatile geopolitical narratives driven by migration and social media, reminiscent of historical, multi-event disasters. Financially, the tech sector exhibits mixed performance with significant capital allocation towards AI, despite rising environmental concerns and ethical debates, suggesting a speculative yet transformative market. This human-centric turbulence is underscored by persistent seismic activity across the Pacific Ring of Fire, indicating inherent physical vulnerabilities. To navigate this environment, immediately secure diverse digital and physical assets against potential market shifts and localized disruptions, review and reinforce comprehensive emergency preparedness protocols for prolonged, multi-domain contingencies, and critically evaluate all information streams, especially those concerning emerging technologies and socio-political events, to preemptively identify and mitigate cascading risks to both personal safety and strategic holdings.",
+    "strategicPlan": "The global intelligence picture reveals an escalating convergence of multi-domain risks, characterized geopolitically by mounting humanitarian crises and social instability, financially by significant volatility within the tech sector amidst ethically complex AI advancements, and physically by a notable uptick in global seismic activity underscoring persistent tectonic vulnerabilities. To navigate this intricate environment, secure assets, and ensure physical safety, three immediate directives are critical: first, strategically re-evaluate and diversify investment portfolios to mitigate exposure to speculative tech and AI markets, prioritizing resilience over high-risk growth; second, implement enhanced localized risk assessments and robust contingency planning for operations and personnel in areas prone to socio-economic disruptions or natural disasters, ensuring supply chain and human capital protection; and third, proactively strengthen physical preparedness protocols, including emergency supplies, communication redundancies, and infrastructure integrity checks, particularly for those situated in seismically active or disaster-vulnerable regions.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.87 (-1.32%)",
+            "title": "\ud83d\udcb0 NVDA: $217.85 (-1.33%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $324.77 (2.5%)",
+            "title": "\ud83d\udcb0 AAPL: $324.91 (2.54%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $503.91 (-0.67%)",
+            "title": "\ud83d\udcb0 MSFT: $501.01 (-1.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $186.18 (-0.11%)",
+            "title": "\ud83d\udcb0 PLTR: $181.64 (-2.54%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.1 (-1.8%)",
+            "title": "\ud83d\udcb0 AMZN: $255.13 (-1.78%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbc"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes detected worldwide, including a Mag 5.6 in Indonesia!"
+    "seismicSummary": "**Multiple moderate-to-strong earthquakes, up to Mag 5.6, are striking across the globe!**"
 }
