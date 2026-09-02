@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape currently demands heightened vigilance, marked by a critical confluence of escalating geopolitical and humanitarian crises\u2014from widespread hunger in Somalia and migration challenges in Spain, to significant socio-economic pressures indicated by urban rent crises. This is juxtaposed against a volatile financial sector driven by rapid AI advancements, which, while showing strong growth in areas like Nvidia, also presents growing ethical and environmental concerns, as evidenced by Microsoft's carbon removal cuts. Simultaneously, a notable uptick in significant seismic activity across the Pacific Rim, with multiple magnitude 5+ earthquakes in Mexico, Indonesia, and the East Pacific Rise, signals underlying physical instability. In response, I direct you to immediately take three critical actions: first, diversify your investment portfolio towards resilient assets, scrutinizing ethical and environmental impacts alongside financial returns to secure your wealth; second, urgently review and fortify your personal and organizational emergency preparedness plans, with a particular focus on seismic and climate-related event readiness; and third, meticulously audit and secure your critical supply chains against potential disruptions stemming from escalating geopolitical instability and resource strains.",
+    "strategicPlan": "The global strategic environment is critically charged, marked by a confluence of escalating humanitarian crises\u2014including chronic hunger in Somalia and volatile migration in Europe, exacerbated by social media amplification\u2014juxtaposed with deep societal pressures like the NYC rent crisis. Financially, the tech sector exhibits significant volatility, with AI-driven companies like NVIDIA surging while others like Palantir experience notable downturns, all amidst growing concerns regarding AI's environmental impact and opaque cybersecurity frameworks. Concurrently, a distinct surge in significant seismic activity across the East Pacific, Mexico, Indonesia, and New Zealand signals an elevated and widespread physical threat from natural disasters, demanding immediate strategic adaptation. To secure assets and ensure physical safety, first, critically assess and diversify investment portfolios, particularly scrutinizing over-concentration in volatile tech and AI sectors while exploring resilient hedges. Second, strengthen all digital and physical security protocols, assuming an escalating threat landscape from cyber vulnerabilities and potential social unrest. Third, develop robust, localized emergency preparedness plans, focusing on securing vital resources and establishing community resilience, recognizing that recurring, multi-faceted challenges are the new norm.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $222.43 (2.29%)",
+            "title": "\ud83d\udcb0 NVDA: $224.9 (3.43%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $323.83 (-0.4%)",
+            "title": "\ud83d\udcb0 AAPL: $326.4 (0.39%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.77 (-0.45%)",
+            "title": "\ud83d\udcb0 MSFT: $496.27 (-0.95%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.06 (-3.26%)",
+            "title": "\ud83d\udcb0 PLTR: $169.49 (-5.8%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.7 (0.31%)",
+            "title": "\ud83d\udcb0 AMZN: $254.75 (-0.07%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
         },
         {
-            "title": "Is paying artists enough to convince them to embrace AI?",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+            "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+            "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a 5.9, are striking globally!"
+    "seismicSummary": "Multiple strong earthquakes up to Mag 5.9 are striking globally!"
 }
