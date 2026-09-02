@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is marked by escalating multi-faceted instability, encompassing persistent humanitarian and socioeconomic crises exacerbated by social media-driven geopolitical friction, a highly volatile financial market demonstrating both aggressive AI-driven growth and significant localized losses, and pronounced physical threats evidenced by multiple significant seismic events across critical global regions. To navigate this complex landscape, prioritize immediate action: first, conduct a thorough review and diversification of investment portfolios, particularly in high-volatility tech sectors, while closely tracking AI regulatory developments and their environmental impact; second, reinforce emergency preparedness and resilience plans, focusing on multi-hazard scenarios including seismic activity and potential tsunamis in vulnerable regions; and third, bolster intelligence and risk assessment capabilities to identify and counter the weaponization of information and to understand the implications of undisclosed AI governance frameworks on future stability.",
+    "strategicPlan": "The global strategic environment is marked by a complex interplay of systemic vulnerabilities: persistent geopolitical and humanitarian crises driven by economic stress and amplified by digital platforms, a rapidly accelerating yet ethically opaque AI technology boom exemplified by Nvidia's significant gains and Microsoft's environmental trade-offs, and a continued baseline of moderate but widespread seismic activity across critical zones. This convergence necessitates an immediate, proactive stance against cascading risks. We recommend securing digital and financial assets by diversifying beyond highly volatile tech sectors to hedge against market corrections, reviewing and reinforcing physical infrastructure resilience and emergency preparedness plans against natural disasters, and establishing robust, verified communication channels to mitigate misinformation and ensure timely response to both social and physical disruptions.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 83 km S of Isangel, Vanuatu",
+            "title": "\u26a0\ufe0f Mag 5.4 - 82 km S of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdr1"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes are reported worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Strong earthquakes are striking worldwide!"
 }
