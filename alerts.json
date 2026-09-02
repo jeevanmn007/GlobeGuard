@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely dynamic, characterized by escalating humanitarian crises in Somalia and Spain, significant socio-economic strain in urban centers like NYC, and rapid, environmentally impactful AI development causing substantial volatility across major tech stocks, with key players like NVDA, MSFT, and PLTR showing dips. This is compounded by persistent, moderate seismic activity across the Pacific Rim, indicating ongoing physical instability. To secure assets and ensure physical safety, GlobeGuard personnel are directed to immediately: 1. Rebalance and diversify asset portfolios, specifically reducing overexposure to highly volatile AI-centric tech equities while seeking stable hedges. 2. Strengthen supply chain resilience and localize critical resource dependencies to mitigate against geopolitical disruptions and humanitarian pressures. 3. Update and thoroughly drill physical safety protocols and emergency preparedness plans for all personnel and critical infrastructure, prioritizing regions susceptible to seismic events and other natural disasters.",
+    "strategicPlan": "The global landscape presents a complex threat profile, marked by persistent tectonic activity with multiple moderate seismic events across the Pacific Ring of Fire, underscoring inherent physical risks. Economically, while specific tech stocks show volatility amidst intense AI development and ethical debates surrounding its environmental impact and AGI claims, underlying market stability remains nuanced. Geopolitically, growing social and humanitarian crises, from urban housing stress and the lessons of prolonged natural disaster impacts to significant migrant and hunger challenges amplified by global funding shortfalls and social media, indicate escalating pressures on societal resilience and resource distribution. To navigate this environment, GlobeGuard advises: first, secure and diversify financial holdings, particularly reassessing exposure to volatile tech sectors and intangible digital assets given the rapid and often unquantified impacts of AI development; second, enhance physical readiness for natural disasters, especially in seismically active regions, by reviewing emergency protocols and supply caches; and third, bolster resilience against localized resource strains and social fragmentation by ensuring critical supply chain robustness and maintaining awareness of community stability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 159 km WSW of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 82 km SE of Maba, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 35 km SE of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 118 km SSE of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdey"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking worldwide!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes are striking across the Pacific region, from Indonesia to Alaska!"
 }
