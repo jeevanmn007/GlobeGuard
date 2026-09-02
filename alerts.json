@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically charged, marked by a confluence of escalating humanitarian crises\u2014including chronic hunger in Somalia and volatile migration in Europe, exacerbated by social media amplification\u2014juxtaposed with deep societal pressures like the NYC rent crisis. Financially, the tech sector exhibits significant volatility, with AI-driven companies like NVIDIA surging while others like Palantir experience notable downturns, all amidst growing concerns regarding AI's environmental impact and opaque cybersecurity frameworks. Concurrently, a distinct surge in significant seismic activity across the East Pacific, Mexico, Indonesia, and New Zealand signals an elevated and widespread physical threat from natural disasters, demanding immediate strategic adaptation. To secure assets and ensure physical safety, first, critically assess and diversify investment portfolios, particularly scrutinizing over-concentration in volatile tech and AI sectors while exploring resilient hedges. Second, strengthen all digital and physical security protocols, assuming an escalating threat landscape from cyber vulnerabilities and potential social unrest. Third, develop robust, localized emergency preparedness plans, focusing on securing vital resources and establishing community resilience, recognizing that recurring, multi-faceted challenges are the new norm.",
+    "strategicPlan": "The global strategic environment is marked by escalating multi-faceted instability, encompassing persistent humanitarian and socioeconomic crises exacerbated by social media-driven geopolitical friction, a highly volatile financial market demonstrating both aggressive AI-driven growth and significant localized losses, and pronounced physical threats evidenced by multiple significant seismic events across critical global regions. To navigate this complex landscape, prioritize immediate action: first, conduct a thorough review and diversification of investment portfolios, particularly in high-volatility tech sectors, while closely tracking AI regulatory developments and their environmental impact; second, reinforce emergency preparedness and resilience plans, focusing on multi-hazard scenarios including seismic activity and potential tsunamis in vulnerable regions; and third, bolster intelligence and risk assessment capabilities to identify and counter the weaponization of information and to understand the implications of undisclosed AI governance frameworks on future stability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.9 (3.43%)",
+            "title": "\ud83d\udcb0 NVDA: $224.41 (3.21%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $326.4 (0.39%)",
+            "title": "\ud83d\udcb0 AAPL: $324.96 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $496.27 (-0.95%)",
+            "title": "\ud83d\udcb0 MSFT: $496.82 (-0.84%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.49 (-5.8%)",
+            "title": "\ud83d\udcb0 PLTR: $169.46 (-5.81%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.75 (-0.07%)",
+            "title": "\ud83d\udcb0 AMZN: $254.98 (0.02%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 66 km NNW of Arthurs Point, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8"
+            "title": "\u26a0\ufe0f Mag 5.4 - 83 km S of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdr1"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes up to Mag 5.9 are striking globally!"
+    "seismicSummary": "**Multiple strong earthquakes are reported worldwide!**"
 }
