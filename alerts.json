@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex threat profile, marked by persistent tectonic activity with multiple moderate seismic events across the Pacific Ring of Fire, underscoring inherent physical risks. Economically, while specific tech stocks show volatility amidst intense AI development and ethical debates surrounding its environmental impact and AGI claims, underlying market stability remains nuanced. Geopolitically, growing social and humanitarian crises, from urban housing stress and the lessons of prolonged natural disaster impacts to significant migrant and hunger challenges amplified by global funding shortfalls and social media, indicate escalating pressures on societal resilience and resource distribution. To navigate this environment, GlobeGuard advises: first, secure and diversify financial holdings, particularly reassessing exposure to volatile tech sectors and intangible digital assets given the rapid and often unquantified impacts of AI development; second, enhance physical readiness for natural disasters, especially in seismically active regions, by reviewing emergency protocols and supply caches; and third, bolster resilience against localized resource strains and social fragmentation by ensuring critical supply chain robustness and maintaining awareness of community stability.",
+    "strategicPlan": "The global operational environment is characterized by a confluence of interconnected risks: significant geopolitical instability driven by escalating humanitarian crises in Somalia and Spain, compounded by persistent urban socio-economic pressures; financial volatility evidenced by mixed performance across the tech sector, particularly with AI investments raising both market hype and environmental concerns; and heightened geophysical stress with a cluster of moderate seismic events along the Pacific Ring of Fire. GlobeGuard advises immediate, decisive action: **first**, meticulously review and diversify digital asset portfolios, adjusting for the pronounced volatility within the AI domain and potential ethical liabilities; **second**, rigorously update and implement physical safety and disaster preparedness protocols for all personnel and critical infrastructure, prioritizing regions prone to seismic activity and anticipating cascading, prolonged events; and **third**, intensify monitoring of regional geopolitical flashpoints and humanitarian crises, securing supply chain resilience through diversification and localized sourcing strategies.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 82 km SE of Maba, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav"
+            "title": "\u26a0\ufe0f Mag 5.3 - 66 km NNW of Arthurs Point, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 89 km SSW of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab"
+            "title": "\u26a0\ufe0f Mag 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 35 km SE of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbr"
+            "title": "\u26a0\ufe0f Mag 5.2 - 95 km SSW of Nikolski, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes are striking across the Pacific region, from Indonesia to Alaska!"
+    "seismicSummary": "\ud83d\udea8 Magnitude 5 quakes just hit Indonesia, New Zealand, and Alaska!"
 }
