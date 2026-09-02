@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is characterized by a confluence of interconnected risks: significant geopolitical instability driven by escalating humanitarian crises in Somalia and Spain, compounded by persistent urban socio-economic pressures; financial volatility evidenced by mixed performance across the tech sector, particularly with AI investments raising both market hype and environmental concerns; and heightened geophysical stress with a cluster of moderate seismic events along the Pacific Ring of Fire. GlobeGuard advises immediate, decisive action: **first**, meticulously review and diversify digital asset portfolios, adjusting for the pronounced volatility within the AI domain and potential ethical liabilities; **second**, rigorously update and implement physical safety and disaster preparedness protocols for all personnel and critical infrastructure, prioritizing regions prone to seismic activity and anticipating cascading, prolonged events; and **third**, intensify monitoring of regional geopolitical flashpoints and humanitarian crises, securing supply chain resilience through diversification and localized sourcing strategies.",
+    "strategicPlan": "The global landscape currently demands heightened vigilance, marked by a critical confluence of escalating geopolitical and humanitarian crises\u2014from widespread hunger in Somalia and migration challenges in Spain, to significant socio-economic pressures indicated by urban rent crises. This is juxtaposed against a volatile financial sector driven by rapid AI advancements, which, while showing strong growth in areas like Nvidia, also presents growing ethical and environmental concerns, as evidenced by Microsoft's carbon removal cuts. Simultaneously, a notable uptick in significant seismic activity across the Pacific Rim, with multiple magnitude 5+ earthquakes in Mexico, Indonesia, and the East Pacific Rise, signals underlying physical instability. In response, I direct you to immediately take three critical actions: first, diversify your investment portfolio towards resilient assets, scrutinizing ethical and environmental impacts alongside financial returns to secure your wealth; second, urgently review and fortify your personal and organizational emergency preparedness plans, with a particular focus on seismic and climate-related event readiness; and third, meticulously audit and secure your critical supply chains against potential disruptions stemming from escalating geopolitical instability and resource strains.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.44 (-1.51%)",
+            "title": "\ud83d\udcb0 NVDA: $222.43 (2.29%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $325.13 (2.61%)",
+            "title": "\ud83d\udcb0 AAPL: $323.83 (-0.4%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $501.02 (-1.24%)",
+            "title": "\ud83d\udcb0 MSFT: $498.77 (-0.45%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $179.92 (-3.47%)",
+            "title": "\ud83d\udcb0 PLTR: $174.06 (-3.26%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.92 (-1.87%)",
+            "title": "\ud83d\udcb0 AMZN: $255.7 (0.31%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - southern East Pacific Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.6 - 71 km WSW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 159 km WSW of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 66 km NNW of Arthurs Point, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 70 km NNW of Arthurs Point, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 95 km SSW of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Magnitude 5 quakes just hit Indonesia, New Zealand, and Alaska!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a 5.9, are striking globally!"
 }
