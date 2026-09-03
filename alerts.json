@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape is marked by a complex interplay of escalating humanitarian and migration crises, exacerbated by social media amplification and persistent socio-economic strain, which stands in contrast to a surging tech market driven by AI enthusiasm, albeit with underlying environmental costs and regulatory opacities. Concurrently, an unusual cluster of significant global seismic events underscores an elevated physical risk across multiple regions. In response, GlobeGuard advises immediate action: First, re-evaluate and diversify investment portfolios, particularly away from over-reliance on the currently booming but volatile tech and AI sectors, hedging against potential regulatory shifts or environmental blowback. Second, prioritize physical safety by updating and stress-testing disaster preparedness plans, focusing on seismic resilience and flood mitigation in vulnerable areas. Third, bolster information security protocols and critical infrastructure defenses against the backdrop of pervasive social media manipulation and opaque national AI cybersecurity frameworks, acknowledging the increasing weaponization of data and AI as tools of instability.",
+    "strategicPlan": "The global strategic landscape is currently characterized by a critical confluence of escalating humanitarian and socio-economic distress, a paradoxically surging yet environmentally and ethically burdened AI tech market, and a notable increase in significant global seismic activity across multiple key regions. To secure assets and ensure physical safety, GlobeGuard directs you to immediately diversify investment portfolios beyond the volatile tech sector towards more resilient and sustainable assets. Simultaneously, conduct urgent vulnerability assessments of all critical infrastructure and supply chains against both seismic events and localized social instability, implementing necessary redundancies. Finally, ensure all personnel in high-risk geopolitical or seismically active zones have updated emergency preparedness plans and communication protocols, maintaining a heightened state of readiness and continuous situational awareness.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $229.67 (2.34%)",
+            "title": "\ud83d\udcb0 NVDA: $228.45 (1.8%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $327.05 (0.64%)",
+            "title": "\ud83d\udcb0 AAPL: $328.21 (1.0%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $515.21 (3.7%)",
+            "title": "\ud83d\udcb0 MSFT: $510.12 (2.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $182.68 (7.8%)",
+            "title": "\ud83d\udcb0 PLTR: $182.53 (7.71%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.17 (1.65%)",
+            "title": "\ud83d\udcb0 AMZN: $258.9 (1.54%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
         },
         {
-            "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-            "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/"
+            "title": "Americans love AI. They don't want the data centers that power it.",
+            "link": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9#article"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 21 km WNW of Jiangyou, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6"
+            "title": "\u26a0\ufe0f Mag 5.5 - 100 km S of Nikolski, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 82 km S of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdr1"
+            "title": "\u26a0\ufe0f Mag 5.4 - 21 km WNW of Jiangyou, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes, including a Mag 6.3 in Alaska, just hit globally!"
+    "seismicSummary": "**GLOBAL ALERT:** Multiple strong earthquakes, including M6.3 Alaska and M6.2 South Sandwich Islands, reported worldwide!"
 }
