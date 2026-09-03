@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence landscape indicates a confluence of significant threats: escalating geopolitical instability marked by unaddressed humanitarian crises and economic pressures amplified by social media, a booming yet environmentally contentious AI-driven financial market with opaque cybersecurity implications, and a distinct rise in global tectonic stress evidenced by multiple high-magnitude earthquakes across disparate regions. This multifaceted threat environment demands immediate, decisive action. We advise principals to secure and diversify both financial and physical assets against systemic shocks, including a thorough review of supply chain resilience and physical infrastructure in seismically active zones. Concurrently, fortify digital defenses and operational security protocols, emphasizing the critical need for verified intelligence to counter misinformation and navigate an increasingly complex information environment. Finally, ensure all personnel and key facilities are equipped with robust emergency preparedness and communication plans to mitigate immediate physical and logistical risks.",
+    "strategicPlan": "The global landscape is marked by a complex interplay of escalating humanitarian and migration crises, exacerbated by social media amplification and persistent socio-economic strain, which stands in contrast to a surging tech market driven by AI enthusiasm, albeit with underlying environmental costs and regulatory opacities. Concurrently, an unusual cluster of significant global seismic events underscores an elevated physical risk across multiple regions. In response, GlobeGuard advises immediate action: First, re-evaluate and diversify investment portfolios, particularly away from over-reliance on the currently booming but volatile tech and AI sectors, hedging against potential regulatory shifts or environmental blowback. Second, prioritize physical safety by updating and stress-testing disaster preparedness plans, focusing on seismic resilience and flood mitigation in vulnerable areas. Third, bolster information security protocols and critical infrastructure defenses against the backdrop of pervasive social media manipulation and opaque national AI cybersecurity frameworks, acknowledging the increasing weaponization of data and AI as tools of instability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.23 (1.7%)",
+            "title": "\ud83d\udcb0 NVDA: $229.67 (2.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $328.09 (0.96%)",
+            "title": "\ud83d\udcb0 AAPL: $327.05 (0.64%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $511.34 (2.92%)",
+            "title": "\ud83d\udcb0 MSFT: $515.21 (3.7%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $184.84 (9.08%)",
+            "title": "\ud83d\udcb0 PLTR: $182.68 (7.8%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $257.46 (0.97%)",
+            "title": "\ud83d\udcb0 AMZN: $259.17 (1.65%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdr1"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 6.3 in Alaska, just reported globally!"
+    "seismicSummary": "Urgent: Multiple strong earthquakes, including a Mag 6.3 in Alaska, just hit globally!"
 }
