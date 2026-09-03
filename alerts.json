@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is marked by a complex interplay of systemic vulnerabilities: persistent geopolitical and humanitarian crises driven by economic stress and amplified by digital platforms, a rapidly accelerating yet ethically opaque AI technology boom exemplified by Nvidia's significant gains and Microsoft's environmental trade-offs, and a continued baseline of moderate but widespread seismic activity across critical zones. This convergence necessitates an immediate, proactive stance against cascading risks. We recommend securing digital and financial assets by diversifying beyond highly volatile tech sectors to hedge against market corrections, reviewing and reinforcing physical infrastructure resilience and emergency preparedness plans against natural disasters, and establishing robust, verified communication channels to mitigate misinformation and ensure timely response to both social and physical disruptions.",
+    "strategicPlan": "The global intelligence picture reveals a critical confluence of rapid technological advancement, escalating geopolitical and humanitarian crises, and heightened geological instability. Financially, while the AI sector demonstrates both significant growth (NVDA) and considerable volatility (PLTR), broader market sentiment is mixed. Geopolitically, persistent humanitarian crises in Somalia and complex migration challenges in Europe, amplified by social media narratives, signify deepening global stressors, alongside emerging concerns regarding AI's environmental impact and governance. Concurrently, a notable surge in significant seismic events, including a Mag 6.2 in the South Sandwich Islands and a Mag 5.6 near Puerto Madero, Mexico, indicates elevated tectonic activity requiring vigilance. Given this multifaceted threat environment, GlobeGuard directs immediate action: **First**, diversify and stress-test financial assets against both tech volatility and broader market shifts, integrating ethical and environmental considerations into investment strategies. **Second**, proactively review and strengthen physical security protocols and emergency preparedness plans, especially for seismic events and other natural disasters, with emphasis on communication and evacuation readiness in vulnerable zones. **Third**, implement enhanced intelligence monitoring for geopolitical flashpoints, humanitarian crises, and AI governance developments to anticipate disruptions and secure operational continuity.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.2 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.9 - southern East Pacific Rise",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 159 km WSW of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 82 km S of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdr1"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Strong earthquakes are striking worldwide!"
+    "seismicSummary": "**Multiple strong M5+ earthquakes, including a M6.2, detected globally!**"
 }
