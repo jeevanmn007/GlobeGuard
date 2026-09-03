@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture indicates a confluence of escalating threats: geopolitical instability manifested in severe hunger crises, migrant flows, and localized socio-economic strain, all magnified by pervasive digital information. Financially, the tech sector exhibits significant AI-driven growth alongside market volatility and emerging environmental and cybersecurity concerns, while persistently active global seismic zones demonstrate an underlying planetary physical instability. Consequently, **first**, immediately fortify digital asset security and diversify financial holdings to hedge against market fluctuations and geopolitical disruptions. **Second**, enhance real-time monitoring of humanitarian crises and migration patterns, assessing their potential for supply chain interruptions and regional destabilization. **Third**, update and rigorously test all physical disaster preparedness plans, particularly focusing on resilience against natural hazards such as seismic events, to safeguard personnel and critical infrastructure.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The current global intelligence landscape indicates a confluence of significant threats: escalating geopolitical instability marked by unaddressed humanitarian crises and economic pressures amplified by social media, a booming yet environmentally contentious AI-driven financial market with opaque cybersecurity implications, and a distinct rise in global tectonic stress evidenced by multiple high-magnitude earthquakes across disparate regions. This multifaceted threat environment demands immediate, decisive action. We advise principals to secure and diversify both financial and physical assets against systemic shocks, including a thorough review of supply chain resilience and physical infrastructure in seismically active zones. Concurrently, fortify digital defenses and operational security protocols, emphasizing the critical need for verified intelligence to counter misinformation and navigate an increasingly complex information environment. Finally, ensure all personnel and key facilities are equipped with robust emergency preparedness and communication plans to mitigate immediate physical and logistical risks.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.41 (3.21%)",
+            "title": "\ud83d\udcb0 NVDA: $228.23 (1.7%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $324.96 (-0.05%)",
+            "title": "\ud83d\udcb0 AAPL: $328.09 (0.96%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $496.82 (-0.84%)",
+            "title": "\ud83d\udcb0 MSFT: $511.34 (2.92%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.46 (-5.81%)",
+            "title": "\ud83d\udcb0 PLTR: $184.84 (9.08%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.98 (0.02%)",
+            "title": "\ud83d\udcb0 AMZN: $257.46 (0.97%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.3 - 84 km SSW of Nikolski, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6.2 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.6 - 71 km WSW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp"
+            "title": "\u26a0\ufe0f Mag 5.4 - 21 km WNW of Jiangyou, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 82 km S of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdr1"
         }
     ],
-    "seismicSummary": "Four powerful quakes, including a 6.2 magnitude, just struck worldwide!"
+    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 6.3 in Alaska, just reported globally!"
 }
