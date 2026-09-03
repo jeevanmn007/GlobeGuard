@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global strategic landscape is currently characterized by a critical confluence of escalating humanitarian and socio-economic distress, a paradoxically surging yet environmentally and ethically burdened AI tech market, and a notable increase in significant global seismic activity across multiple key regions. To secure assets and ensure physical safety, GlobeGuard directs you to immediately diversify investment portfolios beyond the volatile tech sector towards more resilient and sustainable assets. Simultaneously, conduct urgent vulnerability assessments of all critical infrastructure and supply chains against both seismic events and localized social instability, implementing necessary redundancies. Finally, ensure all personnel in high-risk geopolitical or seismically active zones have updated emergency preparedness plans and communication protocols, maintaining a heightened state of readiness and continuous situational awareness.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global landscape presents a complex interplay of burgeoning technological prosperity and escalating physical and social vulnerabilities. While financial markets, particularly in AI and tech, demonstrate strong performance, driven by significant innovation and investment, this growth is accompanied by increasing environmental concerns and public resistance to the underlying infrastructure. Geopolitically, recurring humanitarian crises in regions like Somalia persist, exacerbating global resource strain and migration pressures, while domestic social stressors, such as urban housing crises, underscore potential internal instability. Critically, the recent clustering of significant seismic events in Alaska, coupled with activity in China, signals a heightened physical threat landscape along key tectonic boundaries, posing risks to critical infrastructure, supply chains, and population centers. To navigate this evolving environment, GlobeGuard advises three immediate actions: first, strategically diversify asset portfolios to mitigate over-reliance on singular booming sectors, hedging against potential AI-related regulatory or environmental backlashes; second, rigorously stress-test and fortify global supply chains, with particular attention to dependencies in seismically active regions; and third, enhance localized emergency preparedness protocols and communication redundancies for personnel and assets situated in high-risk zones, focusing on self-sufficiency and rapid response capabilities.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -11,12 +11,12 @@
             "link": "https://gizmodo.com/a-legendary-flood-in-medieval-europe-wasnt-a-single-disaster-it-was-16-of-them-2000798416"
         },
         {
-            "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-            "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo"
-        },
-        {
             "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
             "link": "https://www.yahoo.com/news/world/articles/somalia-faces-another-hunger-crisis-133815641.html"
+        },
+        {
+            "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
+            "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego"
         }
     ],
     "stock": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.2 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 100 km S of Nikolski, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 21 km WNW of Jiangyou, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 104 km SSW of Nikolski, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m"
         }
     ],
-    "seismicSummary": "**GLOBAL ALERT:** Multiple strong earthquakes, including M6.3 Alaska and M6.2 South Sandwich Islands, reported worldwide!"
+    "seismicSummary": "\u26a0\ufe0f **URGENT**: A 6.3 earthquake just struck Nikolski, Alaska, leading a cluster of strong quakes, with another 5.4 in China."
 }
