@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by a critical confluence of escalating social vulnerabilities, volatile market dynamics, and persistent geophysical threats. Geopolitically, ongoing humanitarian crises persist while the rapid, environmentally impactful expansion of AI generates both market speculation and public infrastructure resistance, echoing historical patterns of compounding disasters. Financially, the market exhibits sharp divergence, with AI-driven entities like Nvidia experiencing significant gains contrasting with downturns in other tech giants, indicating a speculative and potentially unstable environment. Physically, a cluster of M5+ seismic events globally underscores the constant threat of natural hazards, demanding vigilance. To secure assets and physical safety, GlobeGuard advises immediate financial asset re-evaluation and diversification away from single-sector overexposure, rigorous strengthening of local emergency preparedness protocols for physical safety against natural hazards, and proactive monitoring of AI's burgeoning societal and environmental footprint for potential regulatory or resource-based disruptions affecting long-term strategic assets.",
+    "strategicPlan": "The global intelligence assessment reveals a complex, multi-faceted threat landscape marked by intensifying humanitarian crises, a rebalancing tech economy, and sustained seismic instability. Geopolitically, escalating hunger crises in regions like Somalia, alongside localized social pressures such as urban affordability, highlight deep societal vulnerabilities, while the unchecked environmental footprint of AI development is emerging as a significant concern, influencing public sentiment and future resource availability. Financially, though AI-centric firms like NVDA demonstrate modest gains, the broader tech market is experiencing slight contractions, signaling investor caution amid discussions of AI's societal and environmental impact. Concurrently, a pattern of moderate seismic activity across the Aleutian Trench, Kermadec Islands, and Indonesia underscores persistent physical vulnerabilities along major fault lines. To effectively secure assets and physical safety, GlobeGuard advises three immediate actions: **Diversify strategic investments** away from potentially over-exposed tech sectors, hedging against market volatility and anticipated regulatory or resource constraints stemming from AI's environmental burden. **Fortify disaster resilience** by actively updating and exercising emergency protocols for all physical assets and personnel, especially in or connected to tectonically active regions or areas prone to cascading environmental events. Lastly, **proactively track socio-environmental shifts**, closely monitoring the nexus of rapid AI development, energy consumption, and evolving public sentiment to anticipate supply chain disruptions and localized instability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $233.63 (2.27%)",
+            "title": "\ud83d\udcb0 NVDA: $230.24 (0.78%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $322.58 (-1.72%)",
+            "title": "\ud83d\udcb0 AAPL: $321.29 (-2.11%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $503.17 (-1.36%)",
+            "title": "\ud83d\udcb0 MSFT: $500.29 (-1.93%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $176.95 (-3.06%)",
+            "title": "\ud83d\udcb0 PLTR: $174.59 (-4.35%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $257.85 (-0.41%)",
+            "title": "\ud83d\udcb0 AMZN: $257.41 (-0.58%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ quakes just hit Alaska, Kermadec, and Indonesia!"
+    "seismicSummary": "**Multiple magnitude 5+ earthquakes have just struck globally.**"
 }
