@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape reveals a pivotal moment where a robust, AI-driven technology sector, evidenced by strong market performance, simultaneously faces escalating ethical and environmental concerns while global humanitarian crises, such as the severe hunger in Somalia and persistent socio-economic stresses, continue to deepen. This dynamic is set against a backdrop of heightened geophysical instability, highlighted by significant clustered seismic activity near Nikolski, Alaska, and a notable tremor in China. To secure assets and ensure safety, GlobeGuard must immediately: first, **strategically diversify investment portfolios** into resilient sectors, maintaining exposure to ethical AI advancements while mitigating exposure to its environmental externalities; second, **fortify emergency preparedness and supply chain resilience** for all critical assets and personnel, particularly within seismically active regions; and third, **proactively develop sustainable AI infrastructure and robust ethical governance frameworks** to navigate increasing public and regulatory scrutiny, ensuring long-term operational viability.",
+    "strategicPlan": "The global strategic landscape is defined by a critical confluence of escalating social vulnerabilities, volatile market dynamics, and persistent geophysical threats. Geopolitically, ongoing humanitarian crises persist while the rapid, environmentally impactful expansion of AI generates both market speculation and public infrastructure resistance, echoing historical patterns of compounding disasters. Financially, the market exhibits sharp divergence, with AI-driven entities like Nvidia experiencing significant gains contrasting with downturns in other tech giants, indicating a speculative and potentially unstable environment. Physically, a cluster of M5+ seismic events globally underscores the constant threat of natural hazards, demanding vigilance. To secure assets and physical safety, GlobeGuard advises immediate financial asset re-evaluation and diversification away from single-sector overexposure, rigorous strengthening of local emergency preparedness protocols for physical safety against natural hazards, and proactive monitoring of AI's burgeoning societal and environmental footprint for potential regulatory or resource-based disruptions affecting long-term strategic assets.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.45 (1.8%)",
+            "title": "\ud83d\udcb0 NVDA: $233.63 (2.27%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $328.21 (1.0%)",
+            "title": "\ud83d\udcb0 AAPL: $322.58 (-1.72%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $510.12 (2.68%)",
+            "title": "\ud83d\udcb0 MSFT: $503.17 (-1.36%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $182.53 (7.71%)",
+            "title": "\ud83d\udcb0 PLTR: $176.95 (-3.06%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.9 (1.54%)",
+            "title": "\ud83d\udcb0 AMZN: $257.85 (-0.41%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.3 - 84 km SSW of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 100 km S of Nikolski, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 21 km WNW of Jiangyou, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6"
+            "title": "\u26a0\ufe0f Mag 5.4 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 104 km SSW of Nikolski, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 28 km S of Cilacap, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
         }
     ],
-    "seismicSummary": "**URGENT: A Mag 6.3 and multiple M5+ quakes just hit near Nikolski, Alaska, with another M5.4 in China!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ quakes just hit Alaska, Kermadec, and Indonesia!"
 }
