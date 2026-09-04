@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex interplay of burgeoning technological prosperity and escalating physical and social vulnerabilities. While financial markets, particularly in AI and tech, demonstrate strong performance, driven by significant innovation and investment, this growth is accompanied by increasing environmental concerns and public resistance to the underlying infrastructure. Geopolitically, recurring humanitarian crises in regions like Somalia persist, exacerbating global resource strain and migration pressures, while domestic social stressors, such as urban housing crises, underscore potential internal instability. Critically, the recent clustering of significant seismic events in Alaska, coupled with activity in China, signals a heightened physical threat landscape along key tectonic boundaries, posing risks to critical infrastructure, supply chains, and population centers. To navigate this evolving environment, GlobeGuard advises three immediate actions: first, strategically diversify asset portfolios to mitigate over-reliance on singular booming sectors, hedging against potential AI-related regulatory or environmental backlashes; second, rigorously stress-test and fortify global supply chains, with particular attention to dependencies in seismically active regions; and third, enhance localized emergency preparedness protocols and communication redundancies for personnel and assets situated in high-risk zones, focusing on self-sufficiency and rapid response capabilities.",
+    "strategicPlan": "The current global intelligence landscape reveals a pivotal moment where a robust, AI-driven technology sector, evidenced by strong market performance, simultaneously faces escalating ethical and environmental concerns while global humanitarian crises, such as the severe hunger in Somalia and persistent socio-economic stresses, continue to deepen. This dynamic is set against a backdrop of heightened geophysical instability, highlighted by significant clustered seismic activity near Nikolski, Alaska, and a notable tremor in China. To secure assets and ensure safety, GlobeGuard must immediately: first, **strategically diversify investment portfolios** into resilient sectors, maintaining exposure to ethical AI advancements while mitigating exposure to its environmental externalities; second, **fortify emergency preparedness and supply chain resilience** for all critical assets and personnel, particularly within seismically active regions; and third, **proactively develop sustainable AI infrastructure and robust ethical governance frameworks** to navigate increasing public and regulatory scrutiny, ensuring long-term operational viability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
             "link": "https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/"
+        },
+        {
+            "title": "The overlooked factor driving the childhood obesity crisis",
+            "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo"
         },
         {
             "title": "A Legendary Flood in Medieval Europe Wasn\u2019t a Single Disaster\u2014It Was 16 of Them",
@@ -13,10 +17,6 @@
         {
             "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
             "link": "https://www.yahoo.com/news/world/articles/somalia-faces-another-hunger-crisis-133815641.html"
-        },
-        {
-            "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
-            "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego"
         }
     ],
     "stock": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f **URGENT**: A 6.3 earthquake just struck Nikolski, Alaska, leading a cluster of strong quakes, with another 5.4 in China."
+    "seismicSummary": "**URGENT: A Mag 6.3 and multiple M5+ quakes just hit near Nikolski, Alaska, with another M5.4 in China!**"
 }
