@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a complex, multi-faceted threat landscape marked by intensifying humanitarian crises, a rebalancing tech economy, and sustained seismic instability. Geopolitically, escalating hunger crises in regions like Somalia, alongside localized social pressures such as urban affordability, highlight deep societal vulnerabilities, while the unchecked environmental footprint of AI development is emerging as a significant concern, influencing public sentiment and future resource availability. Financially, though AI-centric firms like NVDA demonstrate modest gains, the broader tech market is experiencing slight contractions, signaling investor caution amid discussions of AI's societal and environmental impact. Concurrently, a pattern of moderate seismic activity across the Aleutian Trench, Kermadec Islands, and Indonesia underscores persistent physical vulnerabilities along major fault lines. To effectively secure assets and physical safety, GlobeGuard advises three immediate actions: **Diversify strategic investments** away from potentially over-exposed tech sectors, hedging against market volatility and anticipated regulatory or resource constraints stemming from AI's environmental burden. **Fortify disaster resilience** by actively updating and exercising emergency protocols for all physical assets and personnel, especially in or connected to tectonically active regions or areas prone to cascading environmental events. Lastly, **proactively track socio-environmental shifts**, closely monitoring the nexus of rapid AI development, energy consumption, and evolving public sentiment to anticipate supply chain disruptions and localized instability.",
+    "strategicPlan": "The global strategic environment is marked by escalating multi-domain pressures: financially, while AI-driven tech (NVDA) shows resilience, broader market volatility is evident across major tech stocks; geopolitically, severe humanitarian crises in regions like Somalia, coupled with widespread societal stressors and the environmental implications of accelerating AI development, demand urgent attention; and physically, a cluster of moderate seismic events across the Kermadec Islands, Indonesia, and South Sandwich Islands signals persistent geophysical instability. In response, first, review and diversify asset allocations, particularly in tech, while bolstering digital resilience against emerging AI-driven threats. Second, update and localize emergency preparedness plans, focusing on seismic and environmental contingencies, securing essential supplies and communication redundancy. Finally, contribute to and support sustainable infrastructure and resource management initiatives, recognizing the long-term societal and environmental strains exacerbated by current trends, to fortify overall resilience.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $230.24 (0.78%)",
+            "title": "\ud83d\udcb0 NVDA: $230.36 (0.84%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $321.29 (-2.11%)",
+            "title": "\ud83d\udcb0 AAPL: $319.97 (-2.51%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $500.29 (-1.93%)",
+            "title": "\ud83d\udcb0 MSFT: $499.7 (-2.04%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $174.59 (-4.35%)",
+            "title": "\ud83d\udcb0 PLTR: $174.33 (-4.49%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $257.41 (-0.58%)",
+            "title": "\ud83d\udcb0 AMZN: $258.51 (-0.15%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 100 km S of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - Kermadec Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 104 km SSW of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 28 km S of Cilacap, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 25 km W of Padangsidempuan, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8r"
         }
     ],
-    "seismicSummary": "**Multiple magnitude 5+ earthquakes have just struck globally.**"
+    "seismicSummary": "**Multiple Mag 5 quakes hitting globally!**"
 }
