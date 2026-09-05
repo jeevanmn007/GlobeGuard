@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex nexus of sustained socio-economic pressures, marked financial sector volatility, and persistent tectonic activity, all unfolding against the backdrop of an accelerating, yet environmentally problematic, AI technological revolution. Humanitarian crises persist alongside urban strains, while key tech stocks broadly recede, save for specific AI beneficiaries like NVDA, whose sector expansion increasingly conflicts with environmental stewardship and localized infrastructure concerns. Concurrently, a cluster of significant seismic events underscores inherent geological instability across multiple regions. To navigate this environment, **first**, immediately diversify investment portfolios away from over-reliance on individual volatile tech giants, seeking stability and ethically aligned long-term growth opportunities. **Second**, enhance disaster preparedness protocols for all critical assets and personnel, particularly in seismically active zones, incorporating lessons from historical environmental patterns and current seismic indicators. **Third**, proactively engage in assessing and mitigating the environmental and social impacts of emerging technologies, such as AI's energy demands, to preempt regulatory challenges and ensure sustainable operational viability.",
+    "strategicPlan": "The current global environment presents a multifaceted risk profile: persistent humanitarian crises and social stressors highlight ongoing geopolitical instability, while key tech markets exhibit significant volatility, with major players declining despite specific AI sector growth. Concurrently, moderate seismic activity across diverse global regions underscores a baseline of geological unpredictability. This confluence is further complicated by the rapid, environmentally intensive expansion of AI, encountering growing public pushback against its infrastructure, which poses emergent threats to resource security and operational continuity. To secure assets and ensure physical safety, we advise three immediate actions: first, diversify investment portfolios beyond concentrated tech holdings to mitigate sector-specific volatility; second, reinforce and localize disaster preparedness plans, focusing on seismic resilience and climate-related event contingencies; and third, conduct a comprehensive audit of critical supply chains and resource dependencies, particularly those tied to evolving AI infrastructure, to pre-empt disruptions from environmental impacts or public sentiment.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 28 km S of Cilacap, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 25 km W of Padangsidempuan, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes have struck worldwide!"
+    "seismicSummary": "\ud83d\udea8 Four M5+ earthquakes just struck worldwide, from Russia to Indonesia!"
 }
