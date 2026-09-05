@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief indicates a multifaceted risk landscape: persistent moderate seismic activity across disparate regions signals underlying planetary unrest, while financial markets exhibit notable volatility with major tech stocks generally declining despite marginal gains in specific AI-related assets like NVDA. Concurrently, critical social infrastructures are under severe strain, evidenced by escalating hunger crises, housing affordability issues, and public health concerns, compounded by a rapid, yet environmentally costly, AI technological expansion facing public resistance and ethical dilemmas regarding resource consumption. To navigate this complex environment, GlobeGuard advises immediate action: first, conduct a comprehensive review of investment portfolios, especially within the tech sector, to mitigate exposure to market volatility and capitalize on strategic AI advancements while accounting for their environmental and social impact. Second, reinforce supply chain resilience and local resource allocation strategies to preempt disruptions from growing social and environmental pressures. Third, ensure all operational and personnel safety protocols are rigorously updated and exercised, particularly in seismically active regions, to enhance preparedness against potential physical threats.",
+    "strategicPlan": "The global intelligence assessment reveals a critical convergence of risks: pervasive socio-economic vulnerabilities and humanitarian crises, a rapidly advancing yet ethically contested AI landscape driving selective market gains amidst broader tech sector contractions and environmental concerns, and a notable uptick in moderate seismic activity across the Pacific Ring of Fire. To navigate this complex environment, GlobeGuard directs immediate, proactive measures: strategically diversify investment portfolios to enhance resilience against market volatility and the environmental implications of AI's rapid expansion; rigorously review and update emergency preparedness protocols for personnel and critical infrastructure, particularly within seismically active regions; and proactively integrate comprehensive sustainability assessments and robust community engagement into all technological deployments to mitigate regulatory and social friction.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 96 km ESE of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 157 km E of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 77 km SSW of Sibolga, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 69 km E of Antofagasta de la Sierra, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2"
         }
     ],
-    "seismicSummary": "Multiple strong quakes reported worldwide!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck off Vanuatu, PNG, Russia, and Indonesia!"
 }
