@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is marked by significant financial turbulence, persistent societal pressures, and an underlying hum of physical instability. Financially, a widespread downturn across major tech stocks contrasts sharply with NVIDIA's singular gain, signaling market volatility driven by an AI boom that is simultaneously attracting immense investment and increasing scrutiny over its environmental impact and infrastructure demands. Concurrently, geopolitical and social strains persist, evidenced by ongoing humanitarian crises in regions like Somalia and escalating cost-of-living challenges in urban centers, all set against a backdrop of globally dispersed, moderate seismic activity. To secure assets and physical safety, first, strategically rebalance investment portfolios, reducing exposure to broader declining tech sectors while critically assessing the long-term sustainability and regulatory risks of concentrated AI-centric holdings. Second, reinforce both personal and organizational disaster preparedness plans, focusing on supply chain resilience and emergency protocols in light of continuous seismic events and historical climate vulnerabilities. Third, actively monitor the evolving public and regulatory discourse around AI's societal and environmental footprint, as these dynamics will significantly shape future economic and technological trajectories.",
+    "strategicPlan": "The current global intelligence brief indicates a multifaceted risk landscape: persistent moderate seismic activity across disparate regions signals underlying planetary unrest, while financial markets exhibit notable volatility with major tech stocks generally declining despite marginal gains in specific AI-related assets like NVDA. Concurrently, critical social infrastructures are under severe strain, evidenced by escalating hunger crises, housing affordability issues, and public health concerns, compounded by a rapid, yet environmentally costly, AI technological expansion facing public resistance and ethical dilemmas regarding resource consumption. To navigate this complex environment, GlobeGuard advises immediate action: first, conduct a comprehensive review of investment portfolios, especially within the tech sector, to mitigate exposure to market volatility and capitalize on strategic AI advancements while accounting for their environmental and social impact. Second, reinforce supply chain resilience and local resource allocation strategies to preempt disruptions from growing social and environmental pressures. Third, ensure all operational and personnel safety protocols are rigorously updated and exercised, particularly in seismically active regions, to enhance preparedness against potential physical threats.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 156 km E of Kuril\u2019sk, Russia",
+            "title": "\u26a0\ufe0f Mag 5.5 - 157 km E of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - 168 km ESE of Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 77 km SSW of Sibolga, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 69 km E of Antofagasta de la Sierra, Argentina",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefw"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 25 km W of Padangsidempuan, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck"
         }
     ],
-    "seismicSummary": "**ALERT: Multiple magnitude 5.1 to 5.5 earthquakes, including a 5.5 in Russia, are striking diverse global locations!**"
+    "seismicSummary": "Multiple strong quakes reported worldwide!"
 }
