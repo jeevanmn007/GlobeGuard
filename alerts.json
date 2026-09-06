@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a complex, interconnected risk environment marked by a critical confluence of factors. Geopolitically, persistent humanitarian crises in regions like Somalia and urban socio-economic pressures globally underscore systemic vulnerabilities, while the financial sector exhibits a notable divergence: AI-driven gains (NVDA) defy broader tech declines (AAPL, MSFT, PLTR), signaling a concentrated yet potentially volatile investment climate further complicated by increasing scrutiny of AI's environmental footprint. Concurrently, a cluster of moderate seismic events across the Pacific Ring of Fire (Solomon Islands, Vanuatu, Mexico) and the Southern East Pacific Rise indicates heightened physical instability. To secure assets and ensure physical safety, **first**, immediately reassess and diversify investment portfolios, particularly reducing overexposure to highly concentrated tech sectors and critically evaluating the long-term sustainability risks associated with AI development; **second**, urgently review and update all emergency preparedness protocols, including physical safety plans and supply chain resilience, especially for operations or personnel in seismically active zones; **third**, maintain heightened vigilance on global humanitarian crises and the evolving societal and regulatory landscape surrounding AI, as these factors will critically shape future operational stability and resource allocation.",
+    "strategicPlan": "Current intelligence reveals a complex global risk landscape: politically, we observe persistent humanitarian crises like the acute hunger in Somalia and localized socio-economic strains, while financially, a broad tech market correction (AAPL, MSFT, PLTR, AMZN down) contrasts with continued, environmentally impactful growth in the AI sector (NVDA up), underscoring a pivot in economic drivers. Concurrently, moderate seismic activity across the Pacific and East Pacific Rise serves as a stark reminder of constant, tangible physical threats. To secure assets and ensure physical safety, first, immediately re-evaluate and diversify financial holdings, hedging against tech sector volatility and monitoring the environmental and infrastructural strain of AI development. Second, bolster disaster preparedness protocols, specifically for seismic events and potential flooding, given the historical context and ongoing tectonic activity. Third, strategically assess and harden critical supply chains and infrastructure against both physical disruptions and the evolving resource demands of transformative technologies.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 96 km ESE of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 108 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - southern East Pacific Rise",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - southern East Pacific Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepa"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes, including two M5.6s, reported worldwide!"
+    "seismicSummary": "Multiple magnitude 5.2-5.6 earthquakes are active globally, including near the Solomon Islands and Mexico."
 }
