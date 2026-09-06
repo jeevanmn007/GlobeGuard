@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is presently defined by a critical confluence of systemic vulnerabilities: persistent humanitarian crises and localized economic stressors underscore escalating social fragilities, while a volatile tech market, despite concentrated AI growth, signals broader financial uncertainty. Concurrently, heightened seismic activity across multiple key regions, particularly along the Pacific Ring of Fire, highlights a constant physical threat to infrastructure and populations. To navigate this complex landscape, GlobeGuard advises three immediate actions: first, de-risk financial portfolios by diversifying beyond speculative tech, cautiously re-evaluating exposure given current market dips, especially in non-AI dominant firms; second, conduct immediate reviews of critical supply chain resilience, particularly those reliant on seismically active or climate-vulnerable regions, preparing for potential localized disruptions; and third, elevate monitoring of humanitarian crises and urban stressors for their potential to cascade into wider geopolitical instability and resource competition, impacting global asset security and regional stability.",
+    "strategicPlan": "GlobeGuard assesses a complex, interconnected risk environment marked by a critical confluence of factors. Geopolitically, persistent humanitarian crises in regions like Somalia and urban socio-economic pressures globally underscore systemic vulnerabilities, while the financial sector exhibits a notable divergence: AI-driven gains (NVDA) defy broader tech declines (AAPL, MSFT, PLTR), signaling a concentrated yet potentially volatile investment climate further complicated by increasing scrutiny of AI's environmental footprint. Concurrently, a cluster of moderate seismic events across the Pacific Ring of Fire (Solomon Islands, Vanuatu, Mexico) and the Southern East Pacific Rise indicates heightened physical instability. To secure assets and ensure physical safety, **first**, immediately reassess and diversify investment portfolios, particularly reducing overexposure to highly concentrated tech sectors and critically evaluating the long-term sustainability risks associated with AI development; **second**, urgently review and update all emergency preparedness protocols, including physical safety plans and supply chain resilience, especially for operations or personnel in seismically active zones; **third**, maintain heightened vigilance on global humanitarian crises and the evolving societal and regulatory landscape surrounding AI, as these factors will critically shape future operational stability and resource allocation.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 157 km E of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 108 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - southern East Pacific Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes reported worldwide!**"
+    "seismicSummary": "Multiple M5+ earthquakes, including two M5.6s, reported worldwide!"
 }
