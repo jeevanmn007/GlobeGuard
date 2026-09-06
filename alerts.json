@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a critical confluence of threats: persistent humanitarian crises, exemplified by Somalia's escalating hunger; a volatile financial market driven by a broad tech downturn despite continued AI speculation, which itself faces environmental and infrastructural scrutiny; and significant, ongoing seismic activity across multiple high-risk regions. To secure assets and ensure physical safety, first, immediately de-risk investment portfolios, diversifying away from speculative tech and assessing the true environmental costs of AI. Second, reinforce emergency protocols and conduct readiness drills for all personnel and infrastructure in seismically active zones. Third, proactively strengthen humanitarian partnerships and global supply chain resilience, particularly for regions facing acute resource scarcity, to pre-empt cascading instability.",
+    "strategicPlan": "The current global landscape presents a complex risk profile characterized by persistent tectonic instability across the Pacific Ring of Fire and coastal Mexico, necessitating heightened vigilance for physical assets and personnel. Concurrently, escalating socio-economic pressures globally, ranging from urban rent crises to deepening humanitarian disasters in vulnerable regions like Somalia, highlight systemic vulnerabilities that could impact operational continuity. Financially, while specific tech sectors like AI demonstrate speculative growth and significant capital allocation, the broader market, including major tech firms, exhibits notable volatility amidst growing scrutiny over AI's substantial environmental footprint and its societal integration challenges. To navigate this intricate environment, we issue the following directives:\n\n1.  **Investment Diversification**: Reallocate and diversify investment portfolios beyond singular reliance on volatile tech leaders, safeguarding long-term financial stability by including assets less correlated with current market speculation and considering the long-term sustainability implications of AI's rapid growth.\n2.  **Immediate Disaster Preparedness**: For all personnel and assets situated within seismically active zones, particularly the Pacific Ring of Fire and coastal Mexico, implement an immediate review and update of all natural disaster preparedness plans, including robust communication protocols, emergency supplies, and evacuation strategies.\n3.  **Strategic Resource & Infrastructure Audit**: Conduct a comprehensive audit of critical infrastructure dependencies and resource supply chains, evaluating exposure to both localized socio-economic stressors (e.g., food security, housing) and the significant environmental impact of rapidly expanding technologies like AI, to proactively mitigate operational disruptions and protect asset value.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 93 km SE of Kirakira, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - 96 km ESE of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 108 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 77 km SSW of Sibolga, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck Vanuatu, Papua New Guinea, Mexico, and Indonesia!"
+    "seismicSummary": "Four M5+ earthquakes are striking the Pacific and Mexico!"
 }
