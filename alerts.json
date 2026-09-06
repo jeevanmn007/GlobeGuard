@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is marked by a critical convergence of systemic risks. Geopolitically and socially, we observe escalating humanitarian crises and domestic instability, exacerbated by the substantial environmental footprint of rapidly expanding AI infrastructure, despite the industry's philanthropic commitments. Financially, significant downturns across major tech stocks signal market apprehension, reflecting this complex environment. Concurrently, a surge in moderate-to-strong seismic activity across the Pacific Ring of Fire indicates heightened physical instability in critical regions. Therefore, GlobeGuard issues the following directive: first, immediately review and diversify asset portfolios to de-risk against market volatility and economic shifts; second, reinforce the resilience of critical supply chains and infrastructure, particularly those impacted by seismic activity or high-resource AI demands; and third, ensure all personnel and assets in vulnerable areas adhere to robust physical safety protocols and updated emergency preparedness plans.",
+    "strategicPlan": "The global intelligence landscape reveals a critical confluence of threats: persistent humanitarian crises, exemplified by Somalia's escalating hunger; a volatile financial market driven by a broad tech downturn despite continued AI speculation, which itself faces environmental and infrastructural scrutiny; and significant, ongoing seismic activity across multiple high-risk regions. To secure assets and ensure physical safety, first, immediately de-risk investment portfolios, diversifying away from speculative tech and assessing the true environmental costs of AI. Second, reinforce emergency protocols and conduct readiness drills for all personnel and infrastructure in seismically active zones. Third, proactively strengthen humanitarian partnerships and global supply chain resilience, particularly for regions facing acute resource scarcity, to pre-empt cascading instability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 168 km ESE of Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx"
+            "title": "\u26a0\ufe0f Mag 5.3 - 108 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 77 km SSW of Sibolga, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tejg"
         }
     ],
-    "seismicSummary": "**Alert: Multiple M5+ earthquakes active across Vanuatu, Papua New Guinea, Russia, and Indonesia!**"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just struck Vanuatu, Papua New Guinea, Mexico, and Indonesia!"
 }
