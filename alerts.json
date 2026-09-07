@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a multi-faceted risk environment: Financially, the tech sector is experiencing a broad downturn, with most major players declining, offset only by Nvidia's marginal gain, signaling market instability amidst the rapid, yet environmentally controversial, expansion of AI. Geopolitically, persistent humanitarian crises in regions like Somalia and urban centers demand attention, while historical patterns of severe climate events underscore increasing environmental vulnerabilities. Tectonically, several Magnitude 5+ seismic events globally, from the Loyalty Islands to the Oregon coast, affirm the ongoing need for vigilance. To secure assets and physical safety, first, critically assess and diversify investment portfolios, particularly away from over-reliance on volatile tech, and consider sustainable asset classes. Second, immediately review and reinforce emergency protocols for seismic events and climate-induced disruptions, especially given the recent M5+ quakes and the historical flood patterns. Third, strategically prepare for the societal and regulatory implications of AI's environmental impact, positioning operations to mitigate potential resource constraints and public resistance to critical infrastructure.",
+    "strategicPlan": "The global operational environment is currently defined by a confluence of escalating multi-faceted risks: financial markets are exhibiting significant tech sector volatility with major players in decline, even as the AI industry sees continued investment and growth despite growing environmental impact and public resistance to its infrastructure; socio-economic stability is further challenged by persistent and underfunded humanitarian crises globally, alongside stark warnings from historical flood events; and critically, a notable uptick in moderate seismic activity across key Pacific Rim regions indicates ongoing geophysical instability. To navigate this complex nexus, we advise three immediate directives: First, prudently re-evaluate and diversify investment portfolios, particularly away from consolidating tech concentrations experiencing volatility, while meticulously assessing AI investments for their long-term sustainability and public perception risks. Second, urgently review and enhance emergency preparedness protocols for physical assets and personnel, especially in seismically active or climate-vulnerable regions, ensuring robust contingency planning. Third, strategically reinforce supply chain resilience and resource security by prioritizing diversified sourcing and exploring investments in solutions addressing critical societal vulnerabilities like food and housing, mitigating downstream geopolitical instability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx"
+            "title": "\u26a0\ufe0f Mag 5 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepa"
+            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Four Mag 5 earthquakes just hit diverse locations!"
+    "seismicSummary": "Multiple Mag 5 earthquakes strike globally!"
 }
