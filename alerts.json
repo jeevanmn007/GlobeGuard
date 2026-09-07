@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a complex and escalating threat matrix: globally, we observe a volatile financial market characterized by a concentrated AI boom (NVDA) amidst broader tech sector contractions (AAPL, MSFT, PLTR, AMZN), signaling potential market concentration and fragility. This financial uncertainty is compounded by significant socio-economic stressors, including escalating hunger crises (Somalia) and urban affordability challenges (NYC), which historically precede broader instability. Simultaneously, a notable increase in moderate seismic activity off the coast of Oregon and the southern East Pacific Rise demands heightened vigilance for potential physical disruptions. To secure assets and physical safety, first, diversify investment portfolios, hedging against tech sector volatility and potential AI market overvaluation by rebalancing towards resilient, foundational assets. Second, immediately update and rehearse emergency protocols for all personnel and physical assets in tectonically active zones, particularly the Pacific Northwest, focusing on earthquake readiness. Third, fortify supply chain resilience and local operational continuity plans against both natural disasters and escalating socio-economic instability.",
+    "strategicPlan": "The current global intelligence brief reveals a multi-faceted risk environment: Financially, the tech sector is experiencing a broad downturn, with most major players declining, offset only by Nvidia's marginal gain, signaling market instability amidst the rapid, yet environmentally controversial, expansion of AI. Geopolitically, persistent humanitarian crises in regions like Somalia and urban centers demand attention, while historical patterns of severe climate events underscore increasing environmental vulnerabilities. Tectonically, several Magnitude 5+ seismic events globally, from the Loyalty Islands to the Oregon coast, affirm the ongoing need for vigilance. To secure assets and physical safety, first, critically assess and diversify investment portfolios, particularly away from over-reliance on volatile tech, and consider sustainable asset classes. Second, immediately review and reinforce emergency protocols for seismic events and climate-induced disruptions, especially given the recent M5+ quakes and the historical flood patterns. Third, strategically prepare for the societal and regulatory implications of AI's environmental impact, positioning operations to mitigate potential resource constraints and public resistance to critical infrastructure.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - southeast of the Loyalty Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - off the coast of Oregon",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesi"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - southern East Pacific Rise",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepa"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep6"
         }
     ],
-    "seismicSummary": "**URGENT: Mag 5.3 earthquake off Oregon and multiple 5.2 quakes detected!**"
+    "seismicSummary": "\ud83d\udea8 Four Mag 5 earthquakes just hit diverse locations!"
 }
