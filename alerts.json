@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a precarious equilibrium: pervasive socioeconomic vulnerabilities are escalating, evidenced by widespread crises from urban housing to famine, while the tech sector exhibits marked volatility with most major players declining despite massive, environmentally taxing investments in AI, which is simultaneously driving geopolitical and ethical discussions. Concurrently, persistent moderate seismic activity along the Pacific Ring of Fire signals continued geological instability and potential for disruption. To navigate this intricate environment, we advise three immediate strategic actions: 1) Diversify and fortify asset portfolios, emphasizing resilience against tech market shifts and securing digital infrastructure given the escalating reliance on AI. 2) Prioritize comprehensive emergency preparedness and supply chain robustness, accounting for both recurring natural disaster risks (seismic, climate-related) and geopolitical resource strains. 3) Proactively analyze and adapt to the accelerating AI evolution, leveraging its strategic opportunities while mitigating its substantial resource demands and potential for societal disruption.",
+    "strategicPlan": "The global intelligence landscape is characterized by intensifying socio-economic vulnerabilities, from urban rent crises to humanitarian emergencies, compounded by a volatile financial sector showing broad tech declines save for isolated AI growth, all while moderate seismic activity persists globally. To navigate this confluence of risks, we must immediately reassess asset diversification strategies to include more resilient holdings and ethically evaluate AI investments given their environmental footprint. Furthermore, fortify all critical infrastructure against both physical and digital threats, and ensure robust, location-specific emergency preparedness protocols are in place, particularly for seismic zones and regions vulnerable to socio-economic disruptions.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - southeast of the Loyalty Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1"
+            "title": "\u26a0\ufe0f Mag 5.3 - 51 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 92 km ESE of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.6 - 176 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqv"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.5 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi"
+            "title": "\u26a0\ufe0f Mag 4.7 - 43 km NW of Aroa, Venezuela",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.5, just struck across the Pacific and Russia!"
+    "seismicSummary": "\ud83d\udea8 Multiple quakes, up to Mag 5.3, reported globally!"
 }
