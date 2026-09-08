@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex nexus of converging threats: significant downturns across major tech stocks signal financial volatility, while pervasive humanitarian crises, including severe hunger in Somalia and intractable housing issues in developed nations, underscore widespread societal instability and resource strain. Simultaneously, the rapid, environmentally impactful expansion of AI technology is generating both immense wealth and public resistance, alongside questions of long-term sustainability and resource allocation. Underlying these pressures is persistent, moderate seismic activity across vulnerable tectonic zones, serving as a constant reminder of immediate physical hazards. To navigate this environment, we must take decisive action: first, immediately de-risk financial portfolios by diversifying away from concentrated tech holdings and fortifying liquid reserves against market fluctuations; second, secure critical supply chains and regional resource availability, especially for essential goods, in anticipation of potential disruptions exacerbated by humanitarian or climate events; and third, enhance geohazard preparedness by rigorously reviewing and fortifying infrastructure and emergency response protocols for assets and personnel in seismically active regions.",
+    "strategicPlan": "Current global intelligence reveals a multifaceted risk environment characterized by subtle but accumulating pressures across key domains. Financial markets indicate a broad downturn in the tech sector, signaling economic caution, while geopolitical and humanitarian crises like Somalia's escalating hunger crisis persist, demanding urgent attention. Concurrently, the rapid advancement of AI carries significant environmental and social costs, including increased pollution and infrastructure demands, which will likely fuel future regulatory and public relations challenges. This complex interplay of economic uncertainty and emerging tech-driven environmental impacts is set against a backdrop of persistent moderate seismic activity in tectonically volatile regions, underscoring ongoing physical risks despite a declared low overall threat level. To secure assets and ensure safety, we advise reviewing and diversifying investment portfolios, particularly re-evaluating exposure to current tech market corrections; fortifying personal and operational emergency preparedness plans, focusing on supply chain resilience and communication protocols for natural disasters; and proactively monitoring the environmental and societal impacts of technological advancements to anticipate regulatory shifts and infrastructure challenges.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,11 +21,11 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.13 (-0.97%)",
+            "title": "\ud83d\udcb0 NVDA: $226.07 (-1.86%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $315.73 (-1.33%)",
+            "title": "\ud83d\udcb0 AAPL: $316.71 (-1.02%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
@@ -33,11 +33,11 @@
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.45 (-1.08%)",
+            "title": "\ud83d\udcb0 PLTR: $171.24 (-1.77%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.27 (-1.25%)",
+            "title": "\ud83d\udcb0 AMZN: $256.83 (-0.65%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3"
+            "title": "\u26a0\ufe0f Mag 5.2 - 123 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfum"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 92 km ESE of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5+ earthquakes detected worldwide!"
+    "seismicSummary": "Multiple M5+ quakes strike globally."
 }
