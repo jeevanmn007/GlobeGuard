@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Current global intelligence reveals a multifaceted risk environment characterized by subtle but accumulating pressures across key domains. Financial markets indicate a broad downturn in the tech sector, signaling economic caution, while geopolitical and humanitarian crises like Somalia's escalating hunger crisis persist, demanding urgent attention. Concurrently, the rapid advancement of AI carries significant environmental and social costs, including increased pollution and infrastructure demands, which will likely fuel future regulatory and public relations challenges. This complex interplay of economic uncertainty and emerging tech-driven environmental impacts is set against a backdrop of persistent moderate seismic activity in tectonically volatile regions, underscoring ongoing physical risks despite a declared low overall threat level. To secure assets and ensure safety, we advise reviewing and diversifying investment portfolios, particularly re-evaluating exposure to current tech market corrections; fortifying personal and operational emergency preparedness plans, focusing on supply chain resilience and communication protocols for natural disasters; and proactively monitoring the environmental and societal impacts of technological advancements to anticipate regulatory shifts and infrastructure challenges.",
+    "strategicPlan": "The global intelligence assessment reveals a confluence of escalating financial and physical vulnerabilities. Financial markets are demonstrating significant caution with a broad downturn in major tech equities, indicating systemic economic headwinds. Concurrently, pervasive social and humanitarian crises\u2014from food scarcity in Somalia to housing challenges in major cities\u2014highlight underlying geopolitical fragility and resource strain, exacerbated by the growing environmental impact of advanced AI infrastructure. Physically, heightened seismic activity, particularly multiple Mag 5+ earthquakes in the Pacific Ring of Fire (Tonga and Indonesia), underscores persistent geological instability in critical regions. To navigate this evolving threat landscape, implement the following directives: first, immediately review and diversify all investment portfolios, particularly re-evaluating exposure to current tech market volatility; second, reinforce emergency preparedness and communication protocols for all personnel and assets located in tectonically active zones, ensuring readiness for rapid response to geological events; and third, conduct a thorough assessment of critical supply chain resilience and local resource dependencies in regions vulnerable to geopolitical instability or climate-related disruptions, securing operational continuity and personnel safety against emergent crises.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $226.07 (-1.86%)",
+            "title": "\ud83d\udcb0 NVDA: $225.73 (-2.01%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.71 (-1.02%)",
+            "title": "\ud83d\udcb0 AAPL: $316.22 (-1.17%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $491.85 (-1.57%)",
+            "title": "\ud83d\udcb0 MSFT: $493.95 (-1.15%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.24 (-1.77%)",
+            "title": "\ud83d\udcb0 PLTR: $170.3 (-2.31%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.83 (-0.65%)",
+            "title": "\ud83d\udcb0 AMZN: $256.97 (-0.6%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3"
         }
     ],
-    "seismicSummary": "Multiple M5+ quakes strike globally."
+    "seismicSummary": "Multiple Mag 5+ earthquakes reported near Tonga, Indonesia, and the South Sandwich Islands!"
 }
