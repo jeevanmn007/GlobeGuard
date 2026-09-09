@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is characterized by a pressing convergence of threats: geopolitical instability is amplified by escalating humanitarian crises, from famine in Somalia to urban affordability challenges and public health concerns. Financially, major tech stocks are largely experiencing minor contractions, indicating market caution, even as the AI sector sees massive investment but faces growing environmental backlash and public infrastructure resistance. This economic flux is paralleled by persistent physical tectonic volatility, evidenced by multiple moderate seismic events across high-risk zones globally. To mitigate these risks, GlobeGuard must immediately diversify asset portfolios to build resilience against market fluctuations and potential AI-related regulatory impacts. Concurrently, all physical safety protocols and disaster preparedness plans must be thoroughly reviewed and updated, especially for operations in seismically active or climate-vulnerable areas. Finally, maintaining acute situational awareness regarding global resource scarcity and the societal implications of rapid technological change is paramount for securing long-term strategic advantage.",
+    "strategicPlan": "The global intelligence landscape reveals a confluence of escalating socio-economic and humanitarian crises, notably in Somalia and urban centers, amplified by significant environmental externalities stemming from the rapid, yet publicly scrutinized, expansion of AI infrastructure, which coincides with a broad, albeit moderate, decline across key tech equities. This complex geopolitical and financial environment is further underscored by persistent, moderate seismic activity in volatile regions such as Vanuatu and the Philippines, reminding us of continuous physical threats and the historical precedent for cascading, multi-event disasters. Therefore, we must immediately pivot to three critical actions: first, review and strategically de-risk all financial assets, prioritizing liquidity and diversification in anticipation of prolonged market volatility; second, reinforce physical safety protocols and disaster preparedness for all critical assets and personnel, anticipating a broader spectrum of natural and anthropogenic risks; and third, meticulously assess all AI-related investments and operational dependencies for their sustainability and ethical implications, mitigating long-term reputational and environmental exposure.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.21 (-0.67%)",
+            "title": "\ud83d\udcb0 NVDA: $223.67 (-0.91%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $312.64 (-1.13%)",
+            "title": "\ud83d\udcb0 AAPL: $315.34 (-0.28%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $492.45 (-0.3%)",
+            "title": "\ud83d\udcb0 MSFT: $491.65 (-0.47%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $170.46 (0.09%)",
+            "title": "\ud83d\udcb0 PLTR: $169.53 (-0.45%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $252.2 (-1.86%)",
+            "title": "\ud83d\udcb0 AMZN: $252.4 (-1.78%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg06"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple M5+ earthquakes have struck Vanuatu, Argentina, and the Philippines!"
+    "seismicSummary": "**Mag 5 quakes just struck Vanuatu, Argentina, and the Philippines!**"
 }
