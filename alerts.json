@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape indicates a confluence of evolving threats: Persistent socio-economic pressures, exemplified by humanitarian crises in Somalia and domestic rent inflation, are juxtaposed with a noticeable market downturn in major tech equities amidst heightened scrutiny over AI's environmental footprint and infrastructure demands. Concurrently, a cluster of moderate seismic events across the Pacific Ring of Fire underscores ongoing physical vulnerabilities. In response, GlobeGuard advises immediate action: First, strategically re-evaluate and diversify asset exposure, particularly within the volatile technology sector, anticipating potential regulatory shifts or public resistance driven by environmental concerns. Second, bolster regional contingency plans and emergency preparedness protocols for personnel and assets in tectonically active zones, given the recent uptick in seismic activity. Third, closely monitor the geopolitical and societal implications of both emerging technological trends and persistent humanitarian crises, as these dynamics can rapidly shift market stability and operational environments.",
+    "strategicPlan": "The global landscape currently reveals a complex and interconnected threat matrix: geopolitical stability is pressured by deepening humanitarian crises and persistent socio-economic vulnerabilities, while financial markets exhibit a cautious retreat in major tech stocks amidst the accelerating AI trend's promise and its profound environmental and infrastructural demands. Concurrently, a pattern of moderate but widespread seismic activity across multiple regions serves as a constant reminder of inherent physical threats. To navigate this confluence, immediately diversify and de-risk financial portfolios, emphasizing liquidity and reducing exposure to volatile sectors. Furthermore, urgently review and update all emergency preparedness plans and essential supply caches, particularly if operating in seismically active or environmentally vulnerable areas. Lastly, strategically monitor the convergence of technological infrastructure demands, resource scarcity, and climate pressures, proactively assessing regional resilience against these compounding factors.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.73 (-2.01%)",
+            "title": "\ud83d\udcb0 NVDA: $223.72 (-0.89%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $316.22 (-1.17%)",
+            "title": "\ud83d\udcb0 AAPL: $314.81 (-0.45%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $493.95 (-1.15%)",
+            "title": "\ud83d\udcb0 MSFT: $490.46 (-0.71%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $170.3 (-2.31%)",
+            "title": "\ud83d\udcb0 PLTR: $168.94 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.97 (-0.6%)",
+            "title": "\ud83d\udcb0 AMZN: $252.1 (-1.9%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 26 km NW of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tftd"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 123 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfum"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 53 km W of Cafayate, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 154 km S of Sarangani, Philippines",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfy8"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes are striking across the Pacific!"
+    "seismicSummary": "Multiple Magnitude 5 earthquakes just struck Indonesia, Argentina, the Philippines, and the Mariana Islands!"
 }
