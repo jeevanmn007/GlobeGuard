@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape presents a complex interplay of emerging technological challenges, persistent humanitarian crises, and a notable dip in critical financial markets, all against a backdrop of ongoing geological instability. While seismic activity in the Pacific Ring of Fire and South Atlantic remains within expected parameters, constant vigilance is required. Simultaneously, major tech stocks, particularly those heavily invested in AI, experienced a distinct downturn, indicating market sensitivity amidst intensifying debates about AI's environmental footprint and societal acceptance. This financial contraction occurs alongside escalating global challenges like the Somalia hunger crisis and local socio-economic pressures, suggesting a widening resource gap. Therefore, GlobeGuard's strategic imperative is threefold: first, immediately assess and diversify investment portfolios, particularly re-evaluating exposure to volatile tech sectors, to fortify against further market corrections. Second, initiate a deeper analysis into the actual energy consumption and supply chain dependencies of AI infrastructure to anticipate future resource conflicts and regulatory shifts. Third, reinforce and update regional disaster preparedness protocols, specifically focusing on supply chain resilience and community support mechanisms, acknowledging the historical pattern of recurring environmental stressors.",
+    "strategicPlan": "The current global intelligence landscape indicates a confluence of evolving threats: Persistent socio-economic pressures, exemplified by humanitarian crises in Somalia and domestic rent inflation, are juxtaposed with a noticeable market downturn in major tech equities amidst heightened scrutiny over AI's environmental footprint and infrastructure demands. Concurrently, a cluster of moderate seismic events across the Pacific Ring of Fire underscores ongoing physical vulnerabilities. In response, GlobeGuard advises immediate action: First, strategically re-evaluate and diversify asset exposure, particularly within the volatile technology sector, anticipating potential regulatory shifts or public resistance driven by environmental concerns. Second, bolster regional contingency plans and emergency preparedness protocols for personnel and assets in tectonically active zones, given the recent uptick in seismic activity. Third, closely monitor the geopolitical and societal implications of both emerging technological trends and persistent humanitarian crises, as these dynamics can rapidly shift market stability and operational environments.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tftd"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 51 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 123 km NNE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfum"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs3"
+            "title": "\u26a0\ufe0f Mag 5 - 154 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg06"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - Mariana Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfy8"
         }
     ],
-    "seismicSummary": "ALERT: Multiple M5+ earthquakes just struck globally, including near Tonga and Indonesia!"
+    "seismicSummary": "Multiple Mag 5 earthquakes are striking across the Pacific!"
 }
