@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate strategic attention, marked by a cautious financial market where major tech stocks show minor downturns, indicating underlying economic anxieties amidst the AI boom's environmental footprint and public pushback against its infrastructure. Concurrently, persistent humanitarian crises, exemplified by Somalia's urgent hunger crisis and local economic pressures, signal broader societal vulnerabilities, while a discernible uptick in moderate seismic activity across diverse regions underscores a pervasive and unpredictable physical threat. To mitigate these interwoven risks, first, strategically review and diversify financial portfolios to enhance resilience against potential market volatility; second, update and reinforce personal and organizational emergency preparedness plans, specifically addressing seismic resilience and physical safety protocols for personnel and assets in vulnerable areas; and third, maintain continuous monitoring of escalating geopolitical stressors and their downstream impacts on resource security and humanitarian stability.",
+    "strategicPlan": "Global stability is currently challenged by a complex interplay of persistent humanitarian crises, growing social and environmental pressures linked to technological expansion, and a cautious financial market showing a broad, albeit moderate, decline across major tech stocks. Concurrently, elevated global seismic activity, evidenced by multiple moderate-to-strong earthquakes across diverse regions, necessitates immediate vigilance regarding physical infrastructure. To secure assets and physical safety, first, critically review investment portfolios, diversifying away from overreliance on currently depreciating tech sectors and exploring stable asset classes. Second, assess the resilience of supply chains, particularly those exposed to regions grappling with humanitarian crises or social instability, while also monitoring the evolving regulatory and public sentiment landscape around AI's environmental impact. Third, for personnel and assets in seismically active zones, ensure emergency preparedness plans are updated, structural integrity is routinely checked, and essential survival provisions are readily available.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 126 km WSW of Alianza Cristiana, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 76 km ESE of Isangel, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg3x"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg43"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 53 km W of Cafayate, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 154 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg06"
+            "title": "\u26a0\ufe0f Mag 5 - 45 km SSE of Quepos, Costa Rica",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes are striking globally, with two near Vanuatu!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck Peru, Vanuatu, and Costa Rica!"
 }
