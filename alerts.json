@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Global stability is currently challenged by a complex interplay of persistent humanitarian crises, growing social and environmental pressures linked to technological expansion, and a cautious financial market showing a broad, albeit moderate, decline across major tech stocks. Concurrently, elevated global seismic activity, evidenced by multiple moderate-to-strong earthquakes across diverse regions, necessitates immediate vigilance regarding physical infrastructure. To secure assets and physical safety, first, critically review investment portfolios, diversifying away from overreliance on currently depreciating tech sectors and exploring stable asset classes. Second, assess the resilience of supply chains, particularly those exposed to regions grappling with humanitarian crises or social instability, while also monitoring the evolving regulatory and public sentiment landscape around AI's environmental impact. Third, for personnel and assets in seismically active zones, ensure emergency preparedness plans are updated, structural integrity is routinely checked, and essential survival provisions are readily available.",
+    "strategicPlan": "The global landscape presents a complex interplay of escalating technological, humanitarian, and environmental risks. The paramount concern is the **accelerating, existential threat posed by advanced AI development**, highlighted by internal warnings of catastrophic potential and significant environmental footprint, which is also contributing to a current dip in major tech stocks. This technological volatility unfolds against a backdrop of **worsening humanitarian crises** like Somalia's hunger, chronic societal vulnerabilities such as the NYC rent crisis, and a historical understanding of prolonged, cascading natural disasters, all while moderate seismic activity persists in high-risk zones. To navigate this complex environment, GlobeGuard directs you to: 1) **Fortify digital asset defenses and diversify investments away from over-reliance on single tech giants**, anticipating AI-driven market shifts and potential systemic disruption. 2) **Strategically review and reinforce physical supply chains and asset locations**, mitigating exposure to both climate-induced events and geopolitical instability arising from humanitarian crises. 3) **Implement enhanced, multi-hazard emergency preparedness measures for personnel and critical operations**, ensuring robust communication and self-sufficiency protocols are in place for sustained periods of disruption.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $223.67 (-0.91%)",
+            "title": "\ud83d\udcb0 NVDA: $218.13 (-2.48%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $315.34 (-0.28%)",
+            "title": "\ud83d\udcb0 AAPL: $319.14 (1.2%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $491.65 (-0.47%)",
+            "title": "\ud83d\udcb0 MSFT: $490.59 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.53 (-0.45%)",
+            "title": "\ud83d\udcb0 PLTR: $167.61 (-1.13%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $252.4 (-1.78%)",
+            "title": "\ud83d\udcb0 AMZN: $252.27 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
         },
         {
-            "title": "Americans love AI. They don't want the data centers that power it.",
-            "link": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9#article"
+            "title": "More than 1 in 10 chance AI \u2018could kill all humans,\u2019 says Anthropic safety lead after colleague quits",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg3x"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 81 km ESE of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg43"
+            "title": "\u26a0\ufe0f Mag 5.1 - 162 km SSW of Merizo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 45 km SSE of Quepos, Costa Rica",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98"
+            "title": "\u26a0\ufe0f Mag 5.1 - 81 km ESE of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg43"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck Peru, Vanuatu, and Costa Rica!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5.1-5.3 earthquakes just struck Peru, Vanuatu, and Guam!"
 }
