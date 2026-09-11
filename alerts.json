@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a critical convergence: a booming AI-driven tech market and significant financial sector performance are unfolding against a backdrop of escalating humanitarian crises, urgent environmental sustainability challenges linked to technological expansion, and notably heightened seismic activity across the Pacific Ring of Fire. To navigate this dynamic environment and secure both assets and physical safety, first, immediately reinforce digital infrastructure against sophisticated AI-enabled threats and secure financial assets through diversified investment strategies, hedging against potential tech volatility; second, prioritize physical safety by updating emergency response plans and ensuring robust contingency measures for personnel and critical infrastructure in all seismically active and climate-vulnerable regions; and third, adopt a proactive stance on global resource allocation and supply chain resilience, preparing for potential disruptions stemming from humanitarian crises and the increasing environmental footprint of technological expansion.",
+    "strategicPlan": "The current global intelligence brief reveals a complex, escalating threat matrix spanning geopolitical instability, an AI-driven yet precarious financial sector, and heightened physical vulnerabilities. Despite continued positive momentum in major tech stocks fueled by AI investment, this rapid technological advancement introduces significant environmental costs, infrastructure strain, and explicit warnings from within the industry regarding potential existential risks. Concurrently, acute humanitarian crises, local economic stressors, and a notable increase in moderate-to-strong seismic activity, particularly around Timor Leste, underscore the fundamental fragility of global systems. To navigate this intricate environment, GlobeGuard must immediately implement three strategic directives: 1) Diversify investment portfolios beyond concentrated tech holdings, prioritizing resilience and sustainable ventures that mitigate environmental impact rather than exacerbate it. 2) Conduct a comprehensive audit and reinforcement of critical physical infrastructure in tectonically active zones, coupled with updated, multi-hazard emergency and supply chain disruption plans. 3) Accelerate the development of robust AI governance frameworks and comprehensive contingency strategies to address the profound ethical, environmental, and potential existential risks posed by unconstrained artificial intelligence development.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $221.26 (1.33%)",
+            "title": "\ud83d\udcb0 NVDA: $219.14 (0.36%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.15 (1.71%)",
+            "title": "\ud83d\udcb0 AAPL: $332.66 (1.86%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.93 (0.71%)",
+            "title": "\ud83d\udcb0 MSFT: $495.36 (0.59%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $168.0 (1.29%)",
+            "title": "\ud83d\udcb0 PLTR: $167.12 (0.76%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.42 (1.8%)",
+            "title": "\ud83d\udcb0 AMZN: $256.32 (1.76%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgf2"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes detected globally, largest a 5.9 near Timor Leste!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported globally, including two near Timor Leste!"
 }
