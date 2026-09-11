@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a multifaceted threat environment: socio-economic pressures are intensifying, highlighted by the deepening hunger crisis in Somalia and urban housing crises; financial markets exhibit significant tech sector volatility amidst rapid, yet environmentally controversial, AI expansion; and persistent natural hazards are underscored by recent M5+ seismic activity across multiple Pacific-rim locations. To secure assets and physical safety in this complex scenario, immediately conduct a stringent review of investment portfolios, particularly re-evaluating long-term exposure to the volatile AI sector given its ethical and environmental controversies. Concurrently, initiate a comprehensive audit of all critical physical infrastructure and emergency response plans, prioritizing locations susceptible to seismic events or climate-related disasters. Lastly, elevate monitoring of regional socio-economic stability indicators and resource scarcity to preempt localized crises, ensuring proactive measures can be taken to protect personnel and assets.",
+    "strategicPlan": "The global intelligence landscape indicates a period of heightened, multifaceted risk. Persistent humanitarian crises, underscored by the severe hunger crisis in Somalia and urban social pressures, highlight pervasive geopolitical instability and resource strain, while ongoing moderate seismic activity across the Pacific Rim serves as a constant reminder of inherent geophysical vulnerabilities. Financially, though some tech giants show resilience, key AI-driven entities are experiencing minor market corrections, reflecting growing market sensitivity to the rapid, environmentally taxing, and ethically debated advancement of artificial intelligence, which now faces explicit discussions about existential risk. To secure assets and ensure physical safety, GlobeGuard advises immediate action: **first**, diversify financial holdings, critically evaluating speculative AI investments given their environmental footprint and the escalating ethical scrutiny; **second**, enhance physical safety protocols by reviewing disaster preparedness for all critical infrastructure and personnel, especially within seismically active or climate-vulnerable regions; and **third**, proactively adapt long-term strategies by closely monitoring evolving AI regulatory frameworks and prioritizing investments in sustainable, ethically aligned technological development.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -43,10 +43,6 @@
     ],
     "trend": [
         {
-            "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-            "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
-        },
-        {
             "title": "Microsoft Ups Investment in Polluting AI, but Cuts Down Carbon Removal by 80%",
             "link": "https://gizmodo.com/microsoft-ups-investment-in-polluting-ai-but-cuts-down-carbon-removal-by-80-2000798385"
         },
@@ -57,6 +53,10 @@
         {
             "title": "More than 1 in 10 chance AI \u2018could kill all humans,\u2019 says Anthropic safety lead after colleague quits",
             "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+        },
+        {
+            "title": "Americans love AI. They don't want the data centers that power it.",
+            "link": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9#article"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgf2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 126 km WSW of Alianza Cristiana, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 162 km SSW of Merizo Village, Guam",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 69 km N of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple Mag 5+ earthquakes just struck worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M5 earthquakes detected across the Pacific!"
 }
