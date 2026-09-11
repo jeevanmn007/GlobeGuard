@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a complex, escalating threat matrix spanning geopolitical instability, an AI-driven yet precarious financial sector, and heightened physical vulnerabilities. Despite continued positive momentum in major tech stocks fueled by AI investment, this rapid technological advancement introduces significant environmental costs, infrastructure strain, and explicit warnings from within the industry regarding potential existential risks. Concurrently, acute humanitarian crises, local economic stressors, and a notable increase in moderate-to-strong seismic activity, particularly around Timor Leste, underscore the fundamental fragility of global systems. To navigate this intricate environment, GlobeGuard must immediately implement three strategic directives: 1) Diversify investment portfolios beyond concentrated tech holdings, prioritizing resilience and sustainable ventures that mitigate environmental impact rather than exacerbate it. 2) Conduct a comprehensive audit and reinforcement of critical physical infrastructure in tectonically active zones, coupled with updated, multi-hazard emergency and supply chain disruption plans. 3) Accelerate the development of robust AI governance frameworks and comprehensive contingency strategies to address the profound ethical, environmental, and potential existential risks posed by unconstrained artificial intelligence development.",
+    "strategicPlan": "The global strategic environment presents a complex interplay of divergent forces: robust financial performance in key technology sectors, driven by rapid AI advancements, stands in contrast to escalating humanitarian crises and persistent physical vulnerabilities. While major tech stocks demonstrate resilience, the environmental toll of AI expansion, underscored by reduced carbon removal efforts, coupled with expert warnings regarding existential risks, introduces significant long-term strategic concerns. Simultaneously, acute humanitarian emergencies, such as Somalia's hunger crisis, and systemic economic strains like urban rent crises, signal growing global instability, further complicated by consistent moderate seismic activity across vulnerable regions like Timor Leste, Alaska, and Vanuatu. To navigate this intricate landscape, GlobeGuard must immediately: prioritize the comprehensive review and enhancement of emergency preparedness and physical asset security protocols in seismically active and climate-vulnerable regions; strategically de-risk supply chains and investment portfolios by diversifying away from areas prone to escalating humanitarian crises and resource scarcity; and rigorously evaluate the true societal and environmental costs of advanced technological investments, particularly in AI, to ensure sustainable long-term value and operational resilience.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.14 (0.36%)",
+            "title": "\ud83d\udcb0 NVDA: $218.29 (-0.03%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.66 (1.86%)",
+            "title": "\ud83d\udcb0 AAPL: $332.27 (1.75%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.36 (0.59%)",
+            "title": "\ud83d\udcb0 MSFT: $495.63 (0.65%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $167.12 (0.76%)",
+            "title": "\ud83d\udcb0 PLTR: $167.23 (0.83%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.32 (1.76%)",
+            "title": "\ud83d\udcb0 AMZN: $256.78 (1.94%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - southern East Pacific Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgey"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 151 km WSW of Adak, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 83 km E of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgf2"
+            "title": "\u26a0\ufe0f Mag 4.9 - 69 km N of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 65 km NNW of Sola, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tghk"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported globally, including two near Timor Leste!"
+    "seismicSummary": "Urgent: A 5.9 earthquake just hit near Timor Leste, with other quakes in Alaska and Vanuatu!"
 }
