@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a period of heightened, multifaceted risk. Persistent humanitarian crises, underscored by the severe hunger crisis in Somalia and urban social pressures, highlight pervasive geopolitical instability and resource strain, while ongoing moderate seismic activity across the Pacific Rim serves as a constant reminder of inherent geophysical vulnerabilities. Financially, though some tech giants show resilience, key AI-driven entities are experiencing minor market corrections, reflecting growing market sensitivity to the rapid, environmentally taxing, and ethically debated advancement of artificial intelligence, which now faces explicit discussions about existential risk. To secure assets and ensure physical safety, GlobeGuard advises immediate action: **first**, diversify financial holdings, critically evaluating speculative AI investments given their environmental footprint and the escalating ethical scrutiny; **second**, enhance physical safety protocols by reviewing disaster preparedness for all critical infrastructure and personnel, especially within seismically active or climate-vulnerable regions; and **third**, proactively adapt long-term strategies by closely monitoring evolving AI regulatory frameworks and prioritizing investments in sustainable, ethically aligned technological development.",
+    "strategicPlan": "The current global intelligence brief reveals a critical convergence: a booming AI-driven tech market and significant financial sector performance are unfolding against a backdrop of escalating humanitarian crises, urgent environmental sustainability challenges linked to technological expansion, and notably heightened seismic activity across the Pacific Ring of Fire. To navigate this dynamic environment and secure both assets and physical safety, first, immediately reinforce digital infrastructure against sophisticated AI-enabled threats and secure financial assets through diversified investment strategies, hedging against potential tech volatility; second, prioritize physical safety by updating emergency response plans and ensuring robust contingency measures for personnel and critical infrastructure in all seismically active and climate-vulnerable regions; and third, adopt a proactive stance on global resource allocation and supply chain resilience, preparing for potential disruptions stemming from humanitarian crises and the increasing environmental footprint of technological expansion.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.36 (-2.26%)",
+            "title": "\ud83d\udcb0 NVDA: $221.26 (1.33%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $326.57 (3.56%)",
+            "title": "\ud83d\udcb0 AAPL: $332.15 (1.71%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $492.44 (0.16%)",
+            "title": "\ud83d\udcb0 MSFT: $495.93 (0.71%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $165.86 (-2.16%)",
+            "title": "\ud83d\udcb0 PLTR: $168.0 (1.29%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.89 (-0.2%)",
+            "title": "\ud83d\udcb0 AMZN: $256.42 (1.8%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - 253 km ENE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - southern East Pacific Rise",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgey"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 151 km WSW of Adak, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 83 km E of Lospalos, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgf2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 162 km SSW of Merizo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 69 km N of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5 earthquakes detected across the Pacific!"
+    "seismicSummary": "Multiple strong earthquakes detected globally, largest a 5.9 near Timor Leste!"
 }
