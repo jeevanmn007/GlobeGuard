@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is characterized by a confluence of systemic vulnerabilities, rapid technological shifts, and persistent natural hazards. Geopolitically, we face ongoing humanitarian crises, notably in Somalia, alongside simmering social unrest exemplified by urban affordability issues, echoing historical patterns of prolonged, multi-event disasters. Simultaneously, the tech sector presents a dichotomy: significant investment and hype around AI, with warnings of both environmental degradation and existential risks, yet market performance remains mixed, with key AI players like NVDA seeing dips while major tech firms hold relatively steady. This human and technological volatility is underscored by sustained, dispersed seismic activity across the East Pacific Rise, Timor Leste, Peru, and Guam, reminding us of inherent physical instability. **To navigate this environment, GlobeGuard must immediately implement a three-pronged strategy: First, diversify asset portfolios beyond speculative tech, considering defensive positions and commodities resilient to social and economic volatility. Second, establish robust environmental impact assessments and ethical guidelines for all AI-related investments, anticipating future regulatory scrutiny and reputational risks. Third, conduct an urgent review and update of all disaster preparedness protocols, focusing on supply chain resilience and multi-event physical safety measures for personnel and critical infrastructure in seismically active regions.**",
+    "strategicPlan": "The global intelligence landscape indicates a multifaceted threat environment: socio-economic pressures are intensifying, highlighted by the deepening hunger crisis in Somalia and urban housing crises; financial markets exhibit significant tech sector volatility amidst rapid, yet environmentally controversial, AI expansion; and persistent natural hazards are underscored by recent M5+ seismic activity across multiple Pacific-rim locations. To secure assets and physical safety in this complex scenario, immediately conduct a stringent review of investment portfolios, particularly re-evaluating long-term exposure to the volatile AI sector given its ethical and environmental controversies. Concurrently, initiate a comprehensive audit of all critical physical infrastructure and emergency response plans, prioritizing locations susceptible to seismic events or climate-related disasters. Lastly, elevate monitoring of regional socio-economic stability indicators and resource scarcity to preempt localized crises, ensuring proactive measures can be taken to protect personnel and assets.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,7 +21,7 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.36 (-2.37%)",
+            "title": "\ud83d\udcb0 NVDA: $218.36 (-2.26%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck worldwide!"
+    "seismicSummary": "**Urgent: Multiple Mag 5+ earthquakes just struck worldwide!**"
 }
