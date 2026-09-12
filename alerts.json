@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment reveals a volatile confluence of strategic risks: buoyant financial performance in the tech sector, fueled by accelerating AI development, simultaneously introduces significant environmental liabilities, societal resistance, and unquantified existential threats. This technological surge is set against a backdrop of escalating humanitarian crises\u2014from widespread hunger to urban housing\u2014and the historical precedent of cascading natural disasters, compounded by a heightened state of physical instability evidenced by a significant Mag 6.5 earthquake in Indonesia and persistent global seismic activity. In response, GlobeGuard directs immediate action: secure critical supply chains by assessing and diversifying dependencies in seismically active regions; rigorously audit the environmental footprint and ethical governance of all AI-centric investments to mitigate future reputational and regulatory exposure; and fortify regional humanitarian aid and disaster response capabilities to enhance resilience against persistent social and environmental stressors.",
+    "strategicPlan": "The global environment presents a dynamic interplay of forces: robust financial performance in key technology sectors, particularly those leveraging AI, signals continued innovation and market resilience, yet this growth is shadowed by deepening humanitarian crises, persistent socio-economic pressures, and escalating ethical and environmental concerns surrounding AI's trajectory and infrastructure demands. Simultaneously, ongoing moderate seismic activity in highly active zones like Japan and Vanuatu underscores persistent physical vulnerabilities, reminding us that physical and digital disruptions can cascade. To navigate this environment, **first**, strategically re-evaluate asset portfolios, diversifying exposure in high-growth tech sectors to mitigate risks associated with potential AI regulation, environmental backlash, or infrastructure strain. **Second**, fortify operational resilience by reviewing and updating physical security protocols and disaster preparedness plans for assets and personnel located in seismically active or climate-vulnerable regions. **Third**, closely monitor the evolving AI policy landscape and public sentiment regarding its resource consumption and existential risks, adapting long-term strategic investments and infrastructure planning to align with sustainable and ethically sound development.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.5 - 126 km NNE of Teluknaga, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk"
+            "title": "\u26a0\ufe0f Mag 5.1 - 101 km S of Yudomari, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh"
         }
     ],
-    "seismicSummary": "**Strong Mag 6.5 earthquake near Teluknaga, Indonesia, with multiple smaller quakes also reported in the South Sandwich Islands and Vanuatu.**"
+    "seismicSummary": "Urgent: Multiple M5-level earthquakes just struck across the globe!"
 }
