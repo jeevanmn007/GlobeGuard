@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's current assessment identifies a manageable global threat level (1), yet highlights critical areas of emerging risk. Geopolitically, the severe and underfunded hunger crisis in Somalia underscores persistent humanitarian fragility and potential for regional instability, while localized socio-economic pressures, such as urban rent crises, signal deepening inequalities. Financially, major tech stocks show resilience, but the rapid, resource-intensive expansion of AI presents a complex strategic landscape, marked by both innovation and growing concerns over environmental impact, infrastructure resistance, and existential risk. Physically, a cluster of significant seismic events, particularly a Mag 6.6 in Indonesia and a Mag 5.9 near Timor Leste, signals heightened tectonic stress in critical regions. To proactively secure your assets and ensure physical safety, we direct you to: 1) Immediately review and reinforce critical infrastructure and emergency response plans for all assets and personnel situated in seismically active zones; 2) Reassess your technology investment portfolio, focusing on the long-term ethical and environmental sustainability of AI-centric companies to mitigate emerging ESG liabilities; and 3) Develop robust contingency plans for supply chain disruptions and humanitarian aid requirements in regions prone to resource scarcity and instability.",
+    "strategicPlan": "Current global intelligence reveals a complex strategic environment where the rapid, largely unregulated advancement of AI presents both significant financial opportunities\u2014as reflected in robust tech sector stock performance\u2014and profound existential and environmental risks, including warnings of human-level threats and documented increases in carbon footprint. This technological acceleration unfolds amid persistent global humanitarian crises like the hunger emergency in Somalia, escalating urban social inequalities, and a notably active tectonic plate system, with a significant Mag 6.5 earthquake in Indonesia and multiple events along the Pacific Ring of Fire and South Atlantic. To navigate this multifaceted landscape, first, immediately assess and diversify critical financial assets, particularly those concentrated in volatile tech sectors, to mitigate exposure to potential regulatory pressures, environmental backlashes, or unforeseen AI-related disruptions. Second, conduct a comprehensive review of physical safety protocols and critical infrastructure resilience, especially for operations or personnel situated in seismically active zones or regions vulnerable to climate-related events, ensuring robust emergency preparedness. Finally, develop forward-looking contingency plans that account for the societal and environmental impacts of emerging technologies, prioritizing ethical investment, supply chain diversification, and adaptable responses to both natural disasters and technologically-induced instability.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.6 - 115 km NNE of Teluknaga, Indonesia",
+            "title": "\u26a0\ufe0f Mag 6.5 - 126 km NNE of Teluknaga, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.9 - 253 km ENE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 151 km WSW of Adak, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 147 km WNW of Sola, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 6.6 in Indonesia, just reported globally!"
+    "seismicSummary": "URGENT: A magnitude 6.5 earthquake has struck near Teluknaga, Indonesia, with multiple magnitude ~5 quakes also reported."
 }
