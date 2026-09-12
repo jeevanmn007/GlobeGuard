@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our analysis reveals a complex global environment: while tech markets, notably AI-driven sectors like NVIDIA, demonstrate financial resilience and growth, underlying geopolitical tensions persist with critical humanitarian crises and growing public and environmental scrutiny over AI's resource consumption and potential risks. This is compounded by significant and ongoing physical threats, as evidenced by a substantial Magnitude 6.5 earthquake near Indonesia and other active seismic events. To secure assets and ensure safety, we advise three immediate actions: first, diversify strategic investments to mitigate against AI-specific volatility and broader socio-economic pressures; second, conduct a comprehensive review of global infrastructure and supply chain vulnerabilities, considering both climate impacts and public resistance to critical assets like data centers; and third, escalate the readiness and contingency planning for personnel and physical assets in seismically active regions, ensuring robust disaster response protocols are in place.",
+    "strategicPlan": "The global environment reveals a volatile confluence of strategic risks: buoyant financial performance in the tech sector, fueled by accelerating AI development, simultaneously introduces significant environmental liabilities, societal resistance, and unquantified existential threats. This technological surge is set against a backdrop of escalating humanitarian crises\u2014from widespread hunger to urban housing\u2014and the historical precedent of cascading natural disasters, compounded by a heightened state of physical instability evidenced by a significant Mag 6.5 earthquake in Indonesia and persistent global seismic activity. In response, GlobeGuard directs immediate action: secure critical supply chains by assessing and diversifying dependencies in seismically active regions; rigorously audit the environmental footprint and ethical governance of all AI-centric investments to mitigate future reputational and regulatory exposure; and fortify regional humanitarian aid and disaster response capabilities to enhance resilience against persistent social and environmental stressors.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh"
         }
     ],
-    "seismicSummary": "**URGENT: A Mag 6.5 earthquake has struck near Teluknaga, Indonesia, with other significant quakes reported in the South Sandwich Islands and Vanuatu!**"
+    "seismicSummary": "**Strong Mag 6.5 earthquake near Teluknaga, Indonesia, with multiple smaller quakes also reported in the South Sandwich Islands and Vanuatu.**"
 }
