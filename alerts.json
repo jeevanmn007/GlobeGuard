@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence reveals a complex, interconnected risk environment. Geopolitically, deepening humanitarian crises and social inequalities persist, exacerbated by the unchecked environmental impact of burgeoning AI technologies that, while fueling strong financial performance in leading tech stocks, also carry escalating existential warnings and public infrastructure resistance. This volatile human and technological landscape is underscored by persistent moderate seismic activity across the Pacific Ring of Fire, signaling ongoing physical vulnerabilities. To mitigate these compounding threats, I advise you to immediately secure and diversify digital and financial assets against market and cyber volatility, prioritize robust physical safety protocols and emergency preparedness, and maintain acute situational awareness of geopolitical shifts and AI's evolving ethical and infrastructural challenges.",
+    "strategicPlan": "The current global situation presents a complex interplay of persistent societal vulnerabilities, a dynamic tech market, and ongoing physical instabilities. Geopolitically, we observe widespread crises, from chronic hunger in Somalia and rent affordability in NYC to a historical pattern of prolonged environmental disasters, suggesting systemic challenges and increasing pressure on resources, compounded by concerns over AI's environmental impact and potential existential risks, even as the tech sector (AAPL, MSFT, AMZN, PLTR) generally shows positive financial performance. Simultaneously, the Pacific Ring of Fire exhibits notable seismic activity with multiple moderate quakes in Vanuatu and Japan, underscoring persistent natural hazard risks. To navigate this intricate landscape, GlobeGuard must immediately: 1. **Secure Asset Resilience:** Review and diversify investment portfolios, prioritizing assets with intrinsic value and those less susceptible to both economic downturns driven by societal crises and potential regulatory shifts impacting AI's environmental footprint. 2. **Enhance Physical Preparedness:** Immediately update and practice emergency response protocols for natural disasters, particularly seismic events and prolonged environmental disruptions, focusing on critical infrastructure integrity and personnel safety in high-risk zones. 3. **Strategic Foresight on AI & Environment:** Establish a dedicated monitoring and analysis unit to track the evolving ethical, regulatory, and environmental impacts of AI development, anticipating shifts in public sentiment and policy that could affect operational licenses and future market opportunities.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 101 km S of Yudomari, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 86 km SSW of Isangel, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - Bonin Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple M5 earthquakes detected across the Pacific!**"
+    "seismicSummary": "Multiple moderate earthquakes, up to Mag 5.2, are actively striking Vanuatu and the Pacific!"
 }
