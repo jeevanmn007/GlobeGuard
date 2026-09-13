@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a dynamic landscape where robust performance in the tech sector, particularly AI, masks significant underlying vulnerabilities. While major tech stocks demonstrate strong financial health, the rapid expansion of AI is generating profound ethical concerns, environmental impacts, and even warnings of existential risk, alongside increasing public resistance to its physical infrastructure. Concurrently, severe humanitarian crises, such as the deepening hunger in Somalia, and localized social stressors persist, highlighting regions of instability, while moderate seismic activity across active tectonic zones serves as a constant reminder of physical hazards. To secure assets and physical safety, GlobeGuard issues the following directive: First, diversify asset portfolios to reduce exposure to geopolitical instability and environmental vulnerabilities stemming from both humanitarian crises and AI's resource demands; second, establish continuous monitoring of AI ethical debates and regulatory developments, preparing for potential market shifts and operational constraints; and third, rigorously update and test disaster preparedness plans for all personnel and critical assets situated in seismically active or climate-vulnerable regions.",
+    "strategicPlan": "The global environment is characterized by a dynamic confluence of opportunities and escalating risks: while the tech sector shows robust financial performance driven by AI advancements (e.g., Apple, Amazon, Microsoft up, NVDA stable), this innovation concurrently raises significant environmental concerns (Microsoft's carbon removal cuts), societal resistance to infrastructure (AI data centers), and even existential warnings from industry leaders regarding advanced AI capabilities. This technological push overlays persistent humanitarian crises such as hunger in Somalia and societal strains like the NYC rent crisis, signaling broader geopolitical vulnerabilities. Simultaneously, ongoing moderate seismic activity in critical regions like Japan, Vanuatu, and the South Sandwich Islands underscores a constant physical threat, demanding heightened vigilance. To navigate this complex landscape, GlobeGuard directs the following actions: 1) Strategically review and diversify technology investments, prioritizing entities demonstrating strong ESG (Environmental, Social, and Governance) commitments to mitigate emerging AI-related ethical and environmental liabilities. 2) Immediately bolster physical asset and personnel safety protocols, particularly in seismically active zones and regions susceptible to extreme weather events, drawing lessons from historical disaster patterns. 3) Proactively engage in AI risk management by developing scenario plans for potential disruptions from rapid AI development and advocate for transparent, ethical AI governance frameworks to protect long-term stability and security.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr"
+            "title": "\u26a0\ufe0f Mag 4.9 - Bonin Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh"
         }
     ],
-    "seismicSummary": "ALERT: Multiple M5-class earthquakes detected globally, including Japan and the South Sandwich Islands!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 4.9-5.1 earthquakes reported worldwide!"
 }
