@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our intelligence reveals a dynamic and interconnected threat landscape: escalating global humanitarian crises highlight persistent resource and stability issues, while the tech sector, though financially robust, is shadowed by AI's significant environmental impact and emerging existential risks, generating critical infrastructure concerns. Simultaneously, sustained moderate seismic activity, particularly across Indonesia, indicates ongoing physical vulnerabilities in key regions. To secure your assets and physical safety, immediately undertake these three actions: First, critically review and diversify your financial and digital asset portfolios, consciously hedging against the volatility associated with AI's rapid, often unregulated, evolution and its growing environmental liabilities. Second, assess and fortify your immediate physical surroundings and any remote assets against natural disasters, paying close attention to seismic and flood risks in tectonically active zones. Third, proactively engage with responsible AI practices and sustainable technology investments, not only to mitigate future operational risks but also to identify opportunities within the inevitable shifts towards more resilient global infrastructure.",
+    "strategicPlan": "The global intelligence landscape reveals a complex and convergent threat profile, encompassing escalating humanitarian crises, a technologically transformative yet ethically fraught AI sector, and significant physical instability from persistent tectonic activity. Geopolitically, severe food insecurity in regions like Somalia and systemic societal challenges such as urban affordability and childhood obesity demand immediate attention, while the historical precedent of multi-event floods underscores ongoing climate vulnerability. Financially, the AI sector presents a bifurcated picture, with strong gains in MSFT and PLTR contrasting with NVDA's dip and profound warnings from AI safety leads regarding existential risks, further complicated by environmental concerns over data center expansion and local opposition. Concurrently, a cluster of significant seismic events across the Indo-Pacific Ring of Fire and the Mid-Atlantic Ridge signals a heightened and continuous risk of natural disasters. Therefore, GlobeGuard's immediate directive is three-fold: first, conduct an urgent audit and reinforce all critical infrastructure and supply chain resilience, prioritizing assets and personnel in seismically active regions; second, re-evaluate technology portfolio exposure to AI, balancing growth opportunities with comprehensive risk mitigation strategies addressing ethical, environmental, and regulatory headwinds; and third, elevate monitoring of humanitarian crises for potential regional destabilization and resource impacts, preparing contingency plans for human and logistical asset protection.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.29 (-0.03%)",
+            "title": "\ud83d\udcb0 NVDA: $212.16 (-2.81%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.27 (1.75%)",
+            "title": "\ud83d\udcb0 AAPL: $334.52 (0.68%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.63 (0.65%)",
+            "title": "\ud83d\udcb0 MSFT: $507.6 (2.42%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $167.23 (0.83%)",
+            "title": "\ud83d\udcb0 PLTR: $172.7 (3.27%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.78 (1.94%)",
+            "title": "\ud83d\udcb0 AMZN: $255.09 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 50 km N of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u"
+            "title": "\u26a0\ufe0f Mag 5.2 - 135 km SE of Gizo, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thea"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple Mag 5+ earthquakes are striking, primarily in Indonesia!"
+    "seismicSummary": "Urgent: Multiple magnitude 5+ earthquakes reported worldwide, with several near Indonesia."
 }
