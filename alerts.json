@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a multi-faceted risk landscape characterized by rapid technological advancement alongside critical environmental and humanitarian challenges, underpinned by persistent geophysical volatility. The tech sector continues to drive significant financial activity, with robust performance across major players like Apple, Microsoft, and Amazon, largely fueled by aggressive AI development. However, this progress is shadowed by alarming trends: Microsoft's increased investment in polluting AI while drastically cutting carbon removal, Nvidia's bold claims of AGI amidst growing expert warnings of AI's existential risks, and societal resistance to the physical infrastructure demands of data centers. These geopolitical and technological currents are set against a backdrop of escalating humanitarian crises, such as the hunger emergency in Somalia, alongside sustained seismic activity across the Pacific Ring of Fire, with multiple M5.0+ earthquakes in Vanuatu and Indonesia signaling ongoing physical hazards.\n\nIn light of this, GlobeGuard issues the following directives: First, reassess and diversify existing financial asset allocations, particularly within high-growth technology sectors, to hedge against potential future regulatory impacts or public sentiment shifts related to AI's ethical and environmental footprint. Second, conduct a comprehensive audit of all critical operational dependencies on AI-driven systems and associated physical infrastructure, identifying vulnerabilities in supply chains and energy security, and developing mitigation strategies for potential disruptions. Third, immediately enhance physical safety protocols and contingency planning, focusing on preparedness for natural disasters, particularly for assets and personnel located in or reliant on regions susceptible to seismic events and climate-related disruptions.",
+    "strategicPlan": "While the global threat level remains at 1, indicating no immediate, widespread catastrophic event, a nuanced risk environment demands vigilant strategic foresight. Financially, major tech stocks generally show resilience, yet the AI sector presents a complex dichotomy: rapid innovation and significant investment are increasingly juxtaposed with concerns over environmental impact, potential existential risks as highlighted by industry leaders, and public resistance to necessary data center infrastructure. Concurrently, persistent geopolitical challenges manifest in ongoing humanitarian crises, such as the severe hunger in Somalia and urban housing stress, while routine but significant Mag 5+ seismic activity across the Mid-Atlantic, Vanuatu, Indonesia, and the Loyalty Islands underscores continuous geological instability. To secure assets and ensure physical safety, first, critically assess and diversify technology investments, prioritizing entities committed to sustainable and ethically aligned AI development to mitigate future regulatory and social liabilities. Second, reinforce physical asset security and supply chain resilience by updating emergency protocols and insurance against both localized socio-economic disruptions and natural disasters, particularly in vulnerable regions. Third, implement enhanced intelligence monitoring on evolving AI governance frameworks, public sentiment shifts regarding technological infrastructure, and localized humanitarian crises, as these converging factors can significantly impact global operational continuity and asset valuation.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 43 km ESE of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 86 km SSW of Isangel, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5 earthquakes are striking Vanuatu, Indonesia, and the Loyalty Islands!"
+    "seismicSummary": "Multiple Mag 5 quakes striking worldwide!"
 }
