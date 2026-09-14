@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "While the global threat level remains at 1, indicating no immediate, widespread catastrophic event, a nuanced risk environment demands vigilant strategic foresight. Financially, major tech stocks generally show resilience, yet the AI sector presents a complex dichotomy: rapid innovation and significant investment are increasingly juxtaposed with concerns over environmental impact, potential existential risks as highlighted by industry leaders, and public resistance to necessary data center infrastructure. Concurrently, persistent geopolitical challenges manifest in ongoing humanitarian crises, such as the severe hunger in Somalia and urban housing stress, while routine but significant Mag 5+ seismic activity across the Mid-Atlantic, Vanuatu, Indonesia, and the Loyalty Islands underscores continuous geological instability. To secure assets and ensure physical safety, first, critically assess and diversify technology investments, prioritizing entities committed to sustainable and ethically aligned AI development to mitigate future regulatory and social liabilities. Second, reinforce physical asset security and supply chain resilience by updating emergency protocols and insurance against both localized socio-economic disruptions and natural disasters, particularly in vulnerable regions. Third, implement enhanced intelligence monitoring on evolving AI governance frameworks, public sentiment shifts regarding technological infrastructure, and localized humanitarian crises, as these converging factors can significantly impact global operational continuity and asset valuation.",
+    "strategicPlan": "Our intelligence reveals a dynamic and interconnected threat landscape: escalating global humanitarian crises highlight persistent resource and stability issues, while the tech sector, though financially robust, is shadowed by AI's significant environmental impact and emerging existential risks, generating critical infrastructure concerns. Simultaneously, sustained moderate seismic activity, particularly across Indonesia, indicates ongoing physical vulnerabilities in key regions. To secure your assets and physical safety, immediately undertake these three actions: First, critically review and diversify your financial and digital asset portfolios, consciously hedging against the volatility associated with AI's rapid, often unregulated, evolution and its growing environmental liabilities. Second, assess and fortify your immediate physical surroundings and any remote assets against natural disasters, paying close attention to seismic and flood risks in tectonically active zones. Third, proactively engage with responsible AI practices and sustainable technology investments, not only to mitigate future operational risks but also to identify opportunities within the inevitable shifts towards more resilient global infrastructure.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 78 km NNE of Tobelo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - 187 km SSW of Pelabuhanratu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - northern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 43 km ESE of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 50 km N of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - southeast of the Loyalty Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 quakes striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple Mag 5+ earthquakes are striking, primarily in Indonesia!"
 }
