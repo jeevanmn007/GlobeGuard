@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape presents a complex array of escalating, interconnected risks: widespread societal and affordability crises signal deepening geopolitical instability, while the rapidly advancing AI frontier creates significant financial volatility and sharpens global debates around regulation, ethics, and existential threats, as evidenced by key market movements and calls for bans on superintelligence. Concurrently, a notable surge in moderate to strong seismic activity across critical regions of the Pacific Ring of Fire underscores persistent and unpredictable physical threats. To secure assets and physical safety, first, critically assess and diversify investment exposure, particularly within the volatile AI-driven tech sector, while fortifying digital infrastructure against evolving AI-driven threats. Second, immediately review and enhance emergency preparedness and contingency plans for all personnel and assets located in or transiting seismically active zones. Third, establish robust monitoring of global AI regulatory developments and their potential cascading impact on economic stability, supply chains, and societal infrastructure, preparing for rapid adaptation to policy shifts.",
+    "strategicPlan": "The current global intelligence brief reveals a complex, multi-faceted risk environment: widespread socio-economic instability, manifested in escalating affordability, hunger, and public health crises, persists globally. Simultaneously, the rapid advancement of Artificial Intelligence presents both significant market opportunities, as evidenced by NVDA's resilience amidst broader tech sector declines, and urgent, existential threat concerns regarding its control and potential societal impact. This human-driven complexity is compounded by persistent, moderate tectonic activity across several global fault lines, a constant reminder of underlying physical vulnerabilities. To navigate this evolving landscape, immediately diversify financial assets to mitigate market volatility and protect against economic shocks, enhance digital security protocols and closely monitor AI governance developments to safeguard against technological disruption, and proactively review and update physical emergency preparedness plans, especially for those in seismically active regions, to ensure personal and asset safety.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,27 +21,31 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.96 (-3.36%)",
+            "title": "\ud83d\udcb0 NVDA: $212.04 (0.51%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.08 (0.24%)",
+            "title": "\ud83d\udcb0 AAPL: $330.6 (-0.74%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $505.41 (1.97%)",
+            "title": "\ud83d\udcb0 MSFT: $498.12 (-1.44%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $173.31 (3.64%)",
+            "title": "\ud83d\udcb0 PLTR: $173.65 (0.2%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.54 (-1.26%)",
+            "title": "\ud83d\udcb0 AMZN: $248.63 (-1.93%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
     "trend": [
+        {
+            "title": "Could AI pose a threat to humanity, and can it be regulated?",
+            "link": "https://www.bbc.co.uk/news/videos/ckgjqnz6pd2do"
+        },
         {
             "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
             "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
@@ -53,10 +57,6 @@
         {
             "title": "Americans love AI. They don't want the data centers that power it.",
             "link": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9#article"
-        },
-        {
-            "title": "Bernie Sanders Calls for Global Ban on AI \u2018Superintelligence\u2019",
-            "link": "https://gizmodo.com/bernie-sanders-calls-for-global-ban-on-ai-superintelligence-2000806829"
         }
     ],
     "seismic": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgs"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 135 km SE of Gizo, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thea"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 69 km NW of Lae, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 69 km SSW of Patea, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 28 km WSW of Sip\u00ed, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thh2"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5 earthquakes reported worldwide, from Mexico to the Pacific!**"
+    "seismicSummary": "URGENT: Multiple moderate to strong earthquakes, topping Mag 5.3, just reported globally!"
 }
