@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk landscape presents a multi-faceted challenge, marked by persistent socio-economic strain, rapidly escalating technological uncertainty, and inherent geophysical vulnerabilities. Widespread affordability and hunger crises are creating significant global instability, while the discourse around Artificial Intelligence is reaching a critical inflection point, with AGI claims, dire existential warnings, and growing calls for global bans on 'superintelligence' directly influencing market volatility, as seen in NVDA's recent downturn. This technological upheaval is further complicated by public resistance to essential AI infrastructure. Concurrently, a cluster of moderate-to-strong seismic events across the Pacific Ring of Fire serves as a stark reminder of unmitigated physical threats.\n\n**Strategic Directive:** First, prioritize the immediate reinforcement and review of disaster preparedness protocols and critical infrastructure resilience in all seismically active regions. Second, conduct a comprehensive re-evaluation of all AI-related investments and strategic partnerships, accounting for emerging regulatory landscapes, ethical concerns, and potential market disruption from ongoing debates about AI's societal impact. Third, develop adaptive strategies to mitigate the impacts of escalating global socio-economic crises on supply chains, market access, and operational stability, recognizing their potential to exacerbate other risks.",
+    "strategicPlan": "The global intelligence landscape presents a complex array of escalating, interconnected risks: widespread societal and affordability crises signal deepening geopolitical instability, while the rapidly advancing AI frontier creates significant financial volatility and sharpens global debates around regulation, ethics, and existential threats, as evidenced by key market movements and calls for bans on superintelligence. Concurrently, a notable surge in moderate to strong seismic activity across critical regions of the Pacific Ring of Fire underscores persistent and unpredictable physical threats. To secure assets and physical safety, first, critically assess and diversify investment exposure, particularly within the volatile AI-driven tech sector, while fortifying digital infrastructure against evolving AI-driven threats. Second, immediately review and enhance emergency preparedness and contingency plans for all personnel and assets located in or transiting seismically active zones. Third, establish robust monitoring of global AI regulatory developments and their potential cascading impact on economic stability, supply chains, and societal infrastructure, preparing for rapid adaptation to policy shifts.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 78 km NNE of Tobelo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.5 - 187 km SSW of Pelabuhanratu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - off the coast of Michoacan, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgs"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 135 km SE of Gizo, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thea"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 69 km NW of Lae, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 69 km SSW of Patea, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck Indonesia, Mexico, and the Solomon Islands!"
+    "seismicSummary": "**Multiple Mag 5 earthquakes reported worldwide, from Mexico to the Pacific!**"
 }
