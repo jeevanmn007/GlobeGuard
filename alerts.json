@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a complex, multi-faceted risk environment: widespread socio-economic instability, manifested in escalating affordability, hunger, and public health crises, persists globally. Simultaneously, the rapid advancement of Artificial Intelligence presents both significant market opportunities, as evidenced by NVDA's resilience amidst broader tech sector declines, and urgent, existential threat concerns regarding its control and potential societal impact. This human-driven complexity is compounded by persistent, moderate tectonic activity across several global fault lines, a constant reminder of underlying physical vulnerabilities. To navigate this evolving landscape, immediately diversify financial assets to mitigate market volatility and protect against economic shocks, enhance digital security protocols and closely monitor AI governance developments to safeguard against technological disruption, and proactively review and update physical emergency preparedness plans, especially for those in seismically active regions, to ensure personal and asset safety.",
+    "strategicPlan": "The current global intelligence picture reveals a confluence of escalating systemic risks: mounting socio-economic fragility evidenced by widespread affordability and hunger crises, significant volatility within the tech sector despite speculative AI growth, and persistent geological instability marked by moderate seismic activity across the Pacific Ring of Fire. In response, three immediate directives are critical: first, secure financial holdings by diversifying portfolios beyond speculative tech, prioritizing tangible assets to hedge against market uncertainty and socio-economic downturns. Second, fortify physical security and operational resilience, enhancing emergency preparedness for both seismic events and localized civil unrest. Third, strategically address the burgeoning AI landscape by assessing both its transformative opportunities and the profound, rapidly emerging systemic risks to societal stability and critical infrastructure.",
     "survival": [
         {
             "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.04 (0.51%)",
+            "title": "\ud83d\udcb0 NVDA: $212.17 (0.57%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $330.6 (-0.74%)",
+            "title": "\ud83d\udcb0 AAPL: $331.34 (-0.52%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.12 (-1.44%)",
+            "title": "\ud83d\udcb0 MSFT: $497.12 (-1.64%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $173.65 (0.2%)",
+            "title": "\ud83d\udcb0 PLTR: $172.56 (-0.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.63 (-1.93%)",
+            "title": "\ud83d\udcb0 AMZN: $248.42 (-2.02%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - off the coast of Michoacan, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgs"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 69 km NW of Lae, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 28 km WSW of Sip\u00ed, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thh2"
+            "title": "\u26a0\ufe0f Mag 4.8 - 289 km WSW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 229 km E of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj"
         }
     ],
-    "seismicSummary": "URGENT: Multiple moderate to strong earthquakes, topping Mag 5.3, just reported globally!"
+    "seismicSummary": "Multiple moderate earthquakes, including a Mag 5 in Papua New Guinea, are urgently shaking the Pacific!"
 }
