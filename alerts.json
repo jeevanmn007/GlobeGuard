@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a confluence of escalating systemic risks: mounting socio-economic fragility evidenced by widespread affordability and hunger crises, significant volatility within the tech sector despite speculative AI growth, and persistent geological instability marked by moderate seismic activity across the Pacific Ring of Fire. In response, three immediate directives are critical: first, secure financial holdings by diversifying portfolios beyond speculative tech, prioritizing tangible assets to hedge against market uncertainty and socio-economic downturns. Second, fortify physical security and operational resilience, enhancing emergency preparedness for both seismic events and localized civil unrest. Third, strategically address the burgeoning AI landscape by assessing both its transformative opportunities and the profound, rapidly emerging systemic risks to societal stability and critical infrastructure.",
+    "strategicPlan": "The global environment presents an urgent and multifaceted risk profile, characterized by escalating geopolitical instability driven by compounding humanitarian crises, notably in Somalia where a severe hunger crisis is now intersecting with significant regional seismic activity. Financially, market volatility persists, with a mixed tech sector performance reflecting underlying uncertainty despite specific AI-driven gains, while broader economic affordability crises continue to strain nations. Overarching these factors is the accelerating strategic threat posed by Artificial Intelligence, where rapid advancements are now paired with serious warnings of existential risks from industry leaders, creating profound regulatory and societal challenges. To secure assets and ensure physical safety, GlobeGuard advises three critical measures: First, immediately diversify all asset portfolios, prioritizing resilience against both economic volatility and potential systemic technological disruptions. Second, fortify physical safety and emergency preparedness protocols across all operational zones, with particular emphasis on regions prone to natural disasters or civil unrest. Third, establish an enhanced, proactive intelligence monitoring system focused on AI regulatory frameworks, public sentiment shifts, and escalating geopolitical flashpoints to enable swift strategic adaptation.",
     "survival": [
-        {
-            "title": "This Art Project Slows Down Citi Bikes to Make NYC\u2019s Rent Crisis Feel Real",
-            "link": "https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/"
-        },
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
             "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo"
@@ -17,6 +13,10 @@
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
             "link": "https://www.businessinsider.com/trump-affordability-crisis-fake-food-prices-midterm-convention-inflation-2026-9#article"
+        },
+        {
+            "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
+            "link": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment"
         }
     ],
     "stock": [
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5 - 69 km NW of Lae, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd"
+            "title": "\u26a0\ufe0f Mag 5 - 281 km SSE of Dunhuang, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 69 km SSW of Patea, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv"
+            "title": "\u26a0\ufe0f Mag 5 - 60 km SSW of Oc\u00f3s, Guatemala",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 289 km WSW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr"
+            "title": "\u26a0\ufe0f Mag 4.8 - 47 km WSW of Bah\u00eda Solano, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 229 km E of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj"
+            "title": "\u26a0\ufe0f Mag 4.7 - 161 km N of Caluula, Somalia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6"
         }
     ],
-    "seismicSummary": "Multiple moderate earthquakes, including a Mag 5 in Papua New Guinea, are urgently shaking the Pacific!"
+    "seismicSummary": "**Alert: Two Mag 5 earthquakes among multiple global events reported!**"
 }
