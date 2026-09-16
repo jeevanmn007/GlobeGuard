@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk landscape presents a complex nexus of escalating geopolitical, financial, and physical threats. Geopolitically, we are observing a confluence of humanitarian crises, domestic affordability concerns leading to potential social unrest, and a rapidly emerging, yet profoundly concerning, existential risk from advanced AI development, highlighted by industry leaders' warnings. Financially, while specific AI-centric investments like NVDA show resilience, broader declines across other major tech stocks signal underlying market fragility amidst these mounting pressures. Concurrently, persistent seismic activity globally, particularly along the Pacific Ring of Fire and in other tectonically active zones, reinforces the constant threat of natural disasters and localized disruptions. To secure assets and physical safety, GlobeGuard advises: first, immediately re-evaluate and diversify financial portfolios, reducing over-reliance on volatile tech sectors and fortifying against potential economic contractions driven by affordability crises. Second, implement enhanced cybersecurity protocols and strategic risk assessments specifically targeting AI vulnerabilities and potential societal disruptions that could arise from its rapid, unregulated advancement. Third, ensure robust physical preparedness plans are in place for localized emergencies, including supply chain resilience and personal safety measures, in recognition of ongoing tectonic instability and broader geopolitical volatility.",
+    "strategicPlan": "The global intelligence picture reveals a complex convergence of factors: escalating humanitarian and affordability crises underscore broad geopolitical instability, while the rapid, ethically contentious advancements in AI technology continue to drive significant market shifts, particularly within the tech sector. Simultaneously, a notable cluster of Magnitude 5 seismic events across disparate, tectonically active zones indicates an elevated baseline physical risk. To navigate this dynamic environment, GlobeGuard advises immediate action: secure and diversify critical assets against both economic volatility and potential physical disruptions; thoroughly review and update emergency preparedness plans for physical safety and operational resilience; and maintain acute vigilance on AI developments, assessing both their market impact and long-term existential implications.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.17 (0.57%)",
+            "title": "\ud83d\udcb0 NVDA: $215.73 (1.68%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.34 (-0.52%)",
+            "title": "\ud83d\udcb0 AAPL: $334.08 (0.83%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $497.12 (-1.64%)",
+            "title": "\ud83d\udcb0 MSFT: $493.96 (-0.64%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.56 (-0.43%)",
+            "title": "\ud83d\udcb0 PLTR: $173.1 (0.31%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.42 (-2.02%)",
+            "title": "\ud83d\udcb0 AMZN: $248.16 (-0.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsx"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - 5 km NE of Mitsukaid\u014d, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thv6"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 281 km SSE of Dunhuang, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 60 km SSW of Oc\u00f3s, Guatemala",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 64 km E of Kinablangan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thti"
         }
     ],
-    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes reported worldwide!"
+    "seismicSummary": "Multiple Mag 5 earthquakes are striking globally now!"
 }
