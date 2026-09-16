@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents an urgent and multifaceted risk profile, characterized by escalating geopolitical instability driven by compounding humanitarian crises, notably in Somalia where a severe hunger crisis is now intersecting with significant regional seismic activity. Financially, market volatility persists, with a mixed tech sector performance reflecting underlying uncertainty despite specific AI-driven gains, while broader economic affordability crises continue to strain nations. Overarching these factors is the accelerating strategic threat posed by Artificial Intelligence, where rapid advancements are now paired with serious warnings of existential risks from industry leaders, creating profound regulatory and societal challenges. To secure assets and ensure physical safety, GlobeGuard advises three critical measures: First, immediately diversify all asset portfolios, prioritizing resilience against both economic volatility and potential systemic technological disruptions. Second, fortify physical safety and emergency preparedness protocols across all operational zones, with particular emphasis on regions prone to natural disasters or civil unrest. Third, establish an enhanced, proactive intelligence monitoring system focused on AI regulatory frameworks, public sentiment shifts, and escalating geopolitical flashpoints to enable swift strategic adaptation.",
+    "strategicPlan": "The global risk landscape presents a complex nexus of escalating geopolitical, financial, and physical threats. Geopolitically, we are observing a confluence of humanitarian crises, domestic affordability concerns leading to potential social unrest, and a rapidly emerging, yet profoundly concerning, existential risk from advanced AI development, highlighted by industry leaders' warnings. Financially, while specific AI-centric investments like NVDA show resilience, broader declines across other major tech stocks signal underlying market fragility amidst these mounting pressures. Concurrently, persistent seismic activity globally, particularly along the Pacific Ring of Fire and in other tectonically active zones, reinforces the constant threat of natural disasters and localized disruptions. To secure assets and physical safety, GlobeGuard advises: first, immediately re-evaluate and diversify financial portfolios, reducing over-reliance on volatile tech sectors and fortifying against potential economic contractions driven by affordability crises. Second, implement enhanced cybersecurity protocols and strategic risk assessments specifically targeting AI vulnerabilities and potential societal disruptions that could arise from its rapid, unregulated advancement. Third, ensure robust physical preparedness plans are in place for localized emergencies, including supply chain resilience and personal safety measures, in recognition of ongoing tectonic instability and broader geopolitical volatility.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 172 km ESE of Saipan, Northern Mariana Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsx"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 281 km SSE of Dunhuang, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 47 km WSW of Bah\u00eda Solano, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 161 km N of Caluula, Somalia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6"
+            "title": "\u26a0\ufe0f Mag 4.9 - 64 km E of Kinablangan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thti"
         }
     ],
-    "seismicSummary": "**Alert: Two Mag 5 earthquakes among multiple global events reported!**"
+    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes reported worldwide!"
 }
