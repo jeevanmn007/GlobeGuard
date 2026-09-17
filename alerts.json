@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is characterized by a high-stakes confluence of factors: robust, AI-driven financial markets signal technological acceleration and economic opportunity, yet this very advancement introduces severe, even existential, long-term risks that demand immediate strategic consideration. Concurrently, persistent humanitarian crises abroad and mounting affordability concerns domestically underscore systemic societal pressures, while a dispersed but significant uptick in seismic activity across the Pacific Rim highlights ongoing physical vulnerabilities. To navigate this complex landscape, secure your assets by strategically leveraging AI-fueled market growth while diversifying against emerging tech-sector volatility; enhance physical safety protocols and preparedness for potential seismic events, particularly in high-risk zones; and bolster operational resilience by continuously monitoring geopolitical flashpoints and societal stressors for their ripple effects on global stability and supply chains.",
+    "strategicPlan": "The global situation presents a complex and urgent convergence of threats: persistent humanitarian and economic crises, notably severe hunger in Somalia and domestic affordability issues, stand in stark contrast to the robust performance of the tech sector driven by AI. This technological ascendancy, however, is shadowed by escalating warnings from industry leaders regarding AI's existential risks, alongside growing public resistance to its infrastructure. Concurrently, significant seismic activity across the Pacific Ring of Fire signals heightened physical volatility. To navigate this multi-layered environment, we direct you to three critical actions: first, capitalize on current tech market strength while prudently diversifying assets to mitigate potential future AI-related disruptions; second, immediately review and reinforce emergency preparedness and physical safety protocols for personnel and facilities, especially in seismically active regions; and third, establish a dedicated intelligence cell to monitor AI regulatory developments and the broader societal implications of its rapid advancement for timely strategic adaptation.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.32 (2.53%)",
+            "title": "\ud83d\udcb0 NVDA: $219.34 (2.54%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.02 (1.09%)",
+            "title": "\ud83d\udcb0 AAPL: $337.0 (1.38%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.65 (1.09%)",
+            "title": "\ud83d\udcb0 MSFT: $497.75 (1.52%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.78 (0.83%)",
+            "title": "\ud83d\udcb0 PLTR: $176.24 (1.09%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.37 (2.2%)",
+            "title": "\ud83d\udcb0 AMZN: $251.19 (2.13%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp"
         }
     ],
-    "seismicSummary": "A powerful Mag 6.5 earthquake just struck off Alaska, with multiple other significant quakes reported worldwide!"
+    "seismicSummary": "Multiple strong earthquakes, up to M6.5 in Alaska, have just struck worldwide!"
 }
