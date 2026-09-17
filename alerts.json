@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a complex interplay of escalating threats: persistent humanitarian crises and domestic economic instability are unfolding against a backdrop of accelerating AI development, which, despite fueling certain market sectors, presents profound existential warnings and infrastructure challenges. While the tech sector exhibits mixed financial performance, AI-centric investments remain robust, creating a speculative environment. Critically, a notable cluster of Mag 5+ seismic events across major global fault lines underscores heightened physical instability. To navigate this volatile environment effectively, immediately review and strengthen emergency preparedness and physical security protocols, especially for assets in seismically active zones; proactively diversify financial portfolios beyond the high-growth AI sector to hedge against potential market corrections and broader economic volatility; and maintain acute vigilance on AI regulatory developments and shifts in public sentiment, which will dictate future technological integration and societal risk.",
+    "strategicPlan": "The global intelligence picture reveals an escalating and potentially existential threat from the rapid, unregulated advancement of Artificial General Intelligence, evidenced by industry claims of AGI and stark warnings from safety leads, compounded by mounting societal resistance to its crucial data center infrastructure. This primary emerging risk is unfolding alongside persistent geopolitical and economic stressors, including an acute hunger crisis in Somalia, widespread affordability concerns reflected in political rhetoric, and continuous, moderate seismic activity across the Pacific Ring of Fire. In response, GlobeGuard directs immediate action: 1) Proactively harden digital security and diversify AI dependencies, rigorously advocating for stringent AI safety and governance frameworks; 2) Reinforce critical supply chain resilience and secure access to essential resources, anticipating prolonged global economic and humanitarian strain; and 3) Conduct immediate structural assessments and enhance disaster preparedness for all physical assets situated in seismically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 191 km SE of Mata-Utu, Wallis and Futuna",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 155 km SSE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thz3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 132 km E of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 77 km SSW of San Jose Village, Northern Mariana Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thwt"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 172 km ESE of Saipan, Northern Mariana Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsx"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 29 km WSW of Sip\u00ed, Colombia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 5 km NE of Mitsukaid\u014d, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thv6"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Magnitude 5+ earthquakes have just struck Japan, Colombia, and the Northern Mariana Islands!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck across the Pacific region!"
 }
