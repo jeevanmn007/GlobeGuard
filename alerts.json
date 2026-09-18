@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by a critical confluence of escalating humanitarian crises, notably the underfunded hunger crisis in Somalia, and significant domestic economic volatility, as seen in the ongoing US affordability crisis and political uncertainty. Financial markets reflect this instability, with a mixed tech sector performance where AI-driven NVIDIA remains an outlier, underscoring the intense focus on Artificial Intelligence. This technological frontier itself represents the most profound emerging threat, with serious expert warnings about AI's existential risks, claims of AGI, and societal friction over its physical infrastructure, pointing to an unpredictable future. To navigate this complex environment, first, immediately review and diversify financial portfolios to enhance resilience against market fluctuations and potential AI-driven economic disruptions. Second, implement robust digital security measures and establish a continuous intelligence feed on AI regulatory developments and ethical debates, preparing for rapid shifts in technology governance. Third, conduct thorough physical safety assessments for critical assets and personnel in seismically active regions and areas prone to humanitarian crises, ensuring emergency preparedness plans are current and actionable.",
+    "strategicPlan": "GlobeGuard's analysis reveals a globally volatile environment marked by interconnected geopolitical, financial, and physical threats. Geopolitically, escalating humanitarian crises, from Somalia's severe hunger to global affordability issues, are amplified by a growing public and expert discourse on AI's existential risks and resistance to its necessary infrastructure. Financially, while specific tech stocks show gains, the broader AI sector faces significant regulatory uncertainty and societal friction, suggesting potential market instability. Concurrently, a surge in moderate seismic activity across critical zones in Chile, Indonesia, Japan, and Puerto Rico signals a heightened and pervasive natural disaster threat. To navigate this landscape, immediately secure physical assets and personnel by reviewing and updating emergency preparedness and evacuation protocols, particularly in seismically active regions. Second, strategically diversify investment portfolios beyond concentrated tech plays, proactively hedging against AI regulatory impacts and infrastructure bottlenecks. Finally, fortify critical supply chain resilience for essential commodities, including food and medical provisions, to mitigate the cascading effects of escalating global crises and resource scarcity.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.68 (0.16%)",
+            "title": "\ud83d\udcb0 NVDA: $222.27 (1.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $334.55 (-0.73%)",
+            "title": "\ud83d\udcb0 AAPL: $336.13 (-0.26%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $493.26 (-0.9%)",
+            "title": "\ud83d\udcb0 MSFT: $493.78 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.57 (-0.38%)",
+            "title": "\ud83d\udcb0 PLTR: $177.64 (0.79%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.43 (0.89%)",
+            "title": "\ud83d\udcb0 AMZN: $253.71 (1.0%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 28 km NE of Villa Presidente Frei, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid4"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 189 km SSW of Pelabuhanratu, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.8 - 5 km SW of Gu\u00e1nica, Puerto Rico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261000"
         }
     ],
-    "seismicSummary": "Multiple M4.8-5.2 earthquakes are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just struck globally, including Chile, Indonesia, Japan, and Puerto Rico!"
 }
