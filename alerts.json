@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a paradox of rapid technological advancement and financial market buoyancy against a backdrop of escalating geopolitical instability and inherent physical threats. While the tech sector shows significant strength, particularly in AI-driven enterprises, this growth is concurrent with persistent humanitarian crises, domestic economic pressures, and a notable uptick in seismic activity across critical zones like Alaska, Japan, and Indonesia. The unbridled pace of AI development introduces both transformative potential and existential risks, alongside growing public concerns regarding its societal integration and infrastructure demands. To navigate this complex environment, first, strategically diversify financial assets beyond the current tech surge to mitigate exposure to potential market volatility driven by AI's uncertain trajectory. Second, reinforce physical safety protocols and update emergency preparedness plans, especially for seismic events, given the heightened global activity. Third, implement robust cybersecurity measures and cultivate critical information literacy to counter emerging AI-generated threats and misinformation.",
+    "strategicPlan": "The global strategic landscape is defined by a critical confluence of escalating humanitarian crises, notably the underfunded hunger crisis in Somalia, and significant domestic economic volatility, as seen in the ongoing US affordability crisis and political uncertainty. Financial markets reflect this instability, with a mixed tech sector performance where AI-driven NVIDIA remains an outlier, underscoring the intense focus on Artificial Intelligence. This technological frontier itself represents the most profound emerging threat, with serious expert warnings about AI's existential risks, claims of AGI, and societal friction over its physical infrastructure, pointing to an unpredictable future. To navigate this complex environment, first, immediately review and diversify financial portfolios to enhance resilience against market fluctuations and potential AI-driven economic disruptions. Second, implement robust digital security measures and establish a continuous intelligence feed on AI regulatory developments and ethical debates, preparing for rapid shifts in technology governance. Third, conduct thorough physical safety assessments for critical assets and personnel in seismically active regions and areas prone to humanitarian crises, ensuring emergency preparedness plans are current and actionable.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $219.34 (2.54%)",
+            "title": "\ud83d\udcb0 NVDA: $219.68 (0.16%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $337.0 (1.38%)",
+            "title": "\ud83d\udcb0 AAPL: $334.55 (-0.73%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $497.75 (1.52%)",
+            "title": "\ud83d\udcb0 MSFT: $493.26 (-0.9%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $176.24 (1.09%)",
+            "title": "\ud83d\udcb0 PLTR: $175.57 (-0.38%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.19 (2.13%)",
+            "title": "\ud83d\udcb0 AMZN: $253.43 (0.89%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.5 - 165 km W of Nikolski, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p"
+            "title": "\u26a0\ufe0f Mag 5.2 - 189 km SSW of Pelabuhanratu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - Izu Islands, Japan region",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 34 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9c"
+            "title": "\u26a0\ufe0f Mag 4.8 - 5 km SW of Gu\u00e1nica, Puerto Rico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261000"
         }
     ],
-    "seismicSummary": "A powerful 6.5 magnitude earthquake just struck Alaska, with multiple other significant quakes reported globally!"
+    "seismicSummary": "Multiple M4.8-5.2 earthquakes are striking worldwide!"
 }
