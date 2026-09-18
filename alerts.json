@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex and urgent convergence of threats: persistent humanitarian and economic crises, notably severe hunger in Somalia and domestic affordability issues, stand in stark contrast to the robust performance of the tech sector driven by AI. This technological ascendancy, however, is shadowed by escalating warnings from industry leaders regarding AI's existential risks, alongside growing public resistance to its infrastructure. Concurrently, significant seismic activity across the Pacific Ring of Fire signals heightened physical volatility. To navigate this multi-layered environment, we direct you to three critical actions: first, capitalize on current tech market strength while prudently diversifying assets to mitigate potential future AI-related disruptions; second, immediately review and reinforce emergency preparedness and physical safety protocols for personnel and facilities, especially in seismically active regions; and third, establish a dedicated intelligence cell to monitor AI regulatory developments and the broader societal implications of its rapid advancement for timely strategic adaptation.",
+    "strategicPlan": "The global strategic environment is marked by a critical divergence: a surging tech market, spearheaded by AI's unprecedented growth and attendant existential debate, runs parallel to escalating humanitarian crises and persistent, significant seismic activity. While the tech sector, particularly AI-driven entities like NVDA, shows robust gains, this bullish trend coexists with severe global hunger, affordability concerns, and intense discussions regarding AI's potential to destabilize human society, further complicated by public resistance to essential infrastructure. Concurrently, a notable M6.5 earthquake near Alaska, alongside other global seismic events, underscores an ever-present physical threat, hinting at potential infrastructure and supply chain disruptions. In response, first, reassess portfolio resilience and diversify assets beyond currently booming tech sectors to mitigate AI-driven market volatility and broader economic uncertainties. Second, significantly enhance cybersecurity protocols and data governance strategies across all digital assets, given the widespread AI discussion and potential risks. Third, immediately review and update emergency preparedness plans for seismic events and potential supply chain interruptions, especially for operations or personnel in vulnerable regions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 191 km SE of Mata-Utu, Wallis and Futuna",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw"
+            "title": "\u26a0\ufe0f Mag 4.9 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 155 km SSE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thz3"
+            "title": "\u26a0\ufe0f Mag 4.7 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti83"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 132 km E of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp"
+            "title": "\u26a0\ufe0f Mag 4.7 - 40 km SSW of Sip\u00ed, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, up to M6.5 in Alaska, have just struck worldwide!"
+    "seismicSummary": "**Urgent: A powerful M6.5 earthquake just struck Alaska, with multiple significant tremors also reported globally!**"
 }
