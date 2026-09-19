@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape presents an urgent convergence of significant threats: pervasive societal instability driven by escalating humanitarian and affordability crises, a rapidly accelerating yet contentious AI revolution prompting both unprecedented opportunity and grave existential concerns, and a notable uptick in major seismic events across multiple active tectonic zones. Financially, while AI-centric sectors show robust growth, indicated by companies like NVDA, the broader market exhibits mixed performance, signaling underlying economic anxieties further compounded by public resistance to AI's physical infrastructure. Therefore, GlobeGuard advises immediate action: first, fortify financial resilience through diversified asset management, closely monitoring market volatility and inflation's impact on affordability; second, reinforce physical safety protocols and emergency preparedness, specifically enhancing seismic response plans for vulnerable assets and securing critical supply chains against regional humanitarian disruptions; and third, strategically assess the dual-use implications of advanced AI, ensuring robust data infrastructure while proactively preparing for potential regulatory shifts and societal backlash.",
+    "strategicPlan": "The global operating environment is characterized by escalating volatility, with widespread geopolitical instability driven by deepening affordability and humanitarian crises, notably in Somalia, starkly juxtaposed against the rapid, largely unregulated, and existentially debated advancement of Artificial Intelligence, exemplified by NVDA's market performance amidst warnings of catastrophic risk and infrastructure resistance. Concurrently, a discernible pattern of moderate seismic activity across critical global fault lines, including the Kermadec Islands, Reykjanes Ridge, and Indonesia, signals persistent geological stress. To navigate this complex landscape, GlobeGuard directs immediate action to: diversify investment portfolios to mitigate over-reliance on single, high-volatility tech sectors; fortify critical physical assets and supply chains against both seismic events and localized unrest, particularly in vulnerable regions; and establish robust contingency plans for resource access and communication disruptions while intensifying intelligence on AI governance and its societal implications.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 210 km WNW of Abepura, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 67 km NE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiju"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple M5+ quakes reported globally."
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ quakes hitting now!"
 }
