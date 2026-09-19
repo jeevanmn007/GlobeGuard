@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of geopolitical, financial, and physical threats: escalating humanitarian crises, marked by persistent hunger and affordability challenges, are exacerbating geopolitical instability, while the burgeoning AI sector, despite driving market gains for some (NVDA), simultaneously presents profound existential debates and societal friction over its infrastructure demands. This complex backdrop is further compounded by a concerning increase in significant seismic activity across the Pacific Ring of Fire, indicating heightened tectonic stress. To navigate this volatile environment, we must act decisively: first, strategically diversify investment portfolios to mitigate AI-centric market volatility and prepare for potential regulatory shifts or public resistance to its expansion; second, immediately reinforce disaster preparedness protocols and infrastructure resilience, particularly focusing on seismic safety in vulnerable regions; and third, proactively secure essential supply chains and personal resource autonomy to counter escalating food insecurity and economic uncertainty.",
+    "strategicPlan": "The current global intelligence landscape reveals a complex convergence of transformative technological advancements, deepening socio-economic vulnerabilities, and persistent physical threats. Financially, the AI revolution, highlighted by strong performances in key tech sectors like NVDA, is driving rapid market revaluation and raising existential questions about its societal impact and regulatory future, even as public resistance to its infrastructure emerges. This technological acceleration coincides with severe global hunger crises and widespread affordability challenges, underscoring significant socio-economic fragility. Concurrently, sustained seismic activity across active zones globally signals a constant underlying physical risk. To effectively secure assets and ensure safety, we direct the following: First, strategically re-evaluate and diversify investment portfolios, particularly within the volatile AI sector, to navigate rapid shifts and potential regulatory headwinds. Second, fortify digital infrastructure and data security against increasingly sophisticated AI-driven threats, ensuring robust protection and integrity. Third, enhance physical preparedness plans, including emergency response and supply chain resilience, in light of ongoing seismic activity and broader global instabilities.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 210 km WNW of Abepura, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 28 km NE of Villa Presidente Frei, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid4"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 189 km SSW of Pelabuhanratu, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - Izu Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ quakes are striking globally!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5+ earthquakes reported globally!"
 }
