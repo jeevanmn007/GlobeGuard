@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is characterized by a critical nexus of rapidly advancing technological risks, persistent socio-economic instability, and ongoing physical vulnerabilities. The accelerating pace of AI development, coupled with expert warnings of potential existential threats, represents the most urgent and profound concern, demanding immediate and rigorous oversight. Simultaneously, escalating humanitarian crises, coupled with domestic affordability challenges, underscore widespread socio-economic fragility, while a cluster of moderate seismic events serves as a stark reminder of persistent geological instability in critical regions. To secure your assets and physical safety, we must immediately: 1. Diversify financial holdings and critical data storage, implementing advanced AI-aware cybersecurity protocols to mitigate both market volatility and emerging digital threats. 2. Strategically review and secure essential supply chains and resource dependencies, preparing for potential disruptions stemming from geopolitical unrest or economic instability. 3. Enhance physical security and emergency preparedness plans, particularly in seismically active areas, ensuring robust communication channels and well-practiced contingency measures for personnel and infrastructure.",
+    "strategicPlan": "The global situation presents a multi-faceted risk profile, characterized by persistent humanitarian crises and economic instability, notably in Somalia and the US, alongside the rapid, yet existentially contentious, advancement of Artificial Intelligence that continues to drive significant financial market volatility despite growing public skepticism about its infrastructure. This strategic environment is further complicated by an observable uptick in geographically dispersed seismic activity across several key regions. To secure assets and ensure physical safety, GlobeGuard advises: first, optimize digital and investment portfolios to balance AI sector exposure, mitigating risks from potential regulatory actions and market volatility tied to the technology's existential discourse; second, enhance physical security protocols and emergency preparedness, especially for personnel and critical infrastructure located in seismically active zones or regions vulnerable to resource scarcity; and third, proactively audit and de-risk critical supply chains, establishing robust contingencies for essential resources to bolster resilience against systemic economic and humanitarian pressures.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 28 km NE of Villa Presidente Frei, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid4"
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 189 km SSW of Pelabuhanratu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8"
+            "title": "\u26a0\ufe0f Mag 4.9 - 117 km NW of Barranca, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3"
         }
     ],
-    "seismicSummary": "**URGENT: Four magnitude 5+ earthquakes reported worldwide!**"
+    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes have struck globally!"
 }
