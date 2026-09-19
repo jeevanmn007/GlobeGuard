@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a multi-faceted risk profile, characterized by persistent humanitarian crises and economic instability, notably in Somalia and the US, alongside the rapid, yet existentially contentious, advancement of Artificial Intelligence that continues to drive significant financial market volatility despite growing public skepticism about its infrastructure. This strategic environment is further complicated by an observable uptick in geographically dispersed seismic activity across several key regions. To secure assets and ensure physical safety, GlobeGuard advises: first, optimize digital and investment portfolios to balance AI sector exposure, mitigating risks from potential regulatory actions and market volatility tied to the technology's existential discourse; second, enhance physical security protocols and emergency preparedness, especially for personnel and critical infrastructure located in seismically active zones or regions vulnerable to resource scarcity; and third, proactively audit and de-risk critical supply chains, establishing robust contingencies for essential resources to bolster resilience against systemic economic and humanitarian pressures.",
+    "strategicPlan": "The current global landscape presents an urgent convergence of significant threats: pervasive societal instability driven by escalating humanitarian and affordability crises, a rapidly accelerating yet contentious AI revolution prompting both unprecedented opportunity and grave existential concerns, and a notable uptick in major seismic events across multiple active tectonic zones. Financially, while AI-centric sectors show robust growth, indicated by companies like NVDA, the broader market exhibits mixed performance, signaling underlying economic anxieties further compounded by public resistance to AI's physical infrastructure. Therefore, GlobeGuard advises immediate action: first, fortify financial resilience through diversified asset management, closely monitoring market volatility and inflation's impact on affordability; second, reinforce physical safety protocols and emergency preparedness, specifically enhancing seismic response plans for vulnerable assets and securing critical supply chains against regional humanitarian disruptions; and third, strategically assess the dual-use implications of advanced AI, ensuring robust data infrastructure while proactively preparing for potential regulatory shifts and societal backlash.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis"
+            "title": "\u26a0\ufe0f Mag 5.1 - 67 km NE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiju"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 117 km NW of Barranca, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3"
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis"
         }
     ],
-    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes have struck globally!"
+    "seismicSummary": "\u26a0\ufe0f Multiple M5+ quakes reported globally."
 }
