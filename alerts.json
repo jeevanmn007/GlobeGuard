@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and urgent risk profile: geopolitical stability is eroding due to escalating humanitarian crises in Somalia, exacerbated by critical funding shortfalls, alongside persistent domestic economic anxieties driven by affordability issues. Financially, a distinct bifurcation is evident, with robust investment in AI-centric technologies (e.g., NVDA, PLTR) contrasting with slight downturns in broader tech giants, even as expert warnings concerning AI's existential threat to humanity and its demanding infrastructure footprint intensify. Concurrently, persistent physical tectonic instability is underscored by multiple moderate (Mag 5+) seismic events across key active zones including the Reykjanes Ridge, the Indonesian archipelago, and the South Sandwich Islands. Given this multifaceted threat landscape, we must act decisively: 1) Immediately audit and fortify physical assets and emergency protocols in all seismically vulnerable regions; 2) Strategically rebalance financial portfolios to capture AI-driven growth while diversifying to mitigate broader market volatility; and 3) Enhance supply chain resilience and preparedness for humanitarian aid deployment to address escalating global crises.",
+    "strategicPlan": "The global operating environment presents a complex risk profile characterized by intersecting vulnerabilities. Geopolitically, persistent humanitarian crises in Somalia and domestic affordability concerns underscore foundational societal instability, even as financial markets exhibit mixed tech performance, with AI-centric investments like NVDA showing strength amidst intense debate over AI's potential existential threats and infrastructural demands. Concurrently, a discernible cluster of M5+ seismic activity across critical tectonic zones including Guam, the Reykjanes Ridge, and Indonesia signals elevated physical hazards. To secure assets and ensure safety, GlobeGuard advises three immediate strategic directives: First, rigorously review and diversify investment portfolios, particularly regarding speculative AI growth and inflationary pressures. Second, accelerate the development and implementation of robust AI governance frameworks and security protocols to mitigate both technological and societal risks. Third, immediately audit and fortify emergency preparedness plans for critical infrastructure and personnel in seismically active regions, emphasizing resilience and rapid response capabilities.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 108 km ESE of Yigo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - Reykjanes Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 210 km WNW of Abepura, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 67 km NE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiju"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis"
         }
     ],
-    "seismicSummary": "Four M5+ earthquakes just struck multiple locations globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just struck diverse regions including Guam, Reykjanes Ridge, and Indonesia!"
 }
