@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is characterized by escalating volatility, with widespread geopolitical instability driven by deepening affordability and humanitarian crises, notably in Somalia, starkly juxtaposed against the rapid, largely unregulated, and existentially debated advancement of Artificial Intelligence, exemplified by NVDA's market performance amidst warnings of catastrophic risk and infrastructure resistance. Concurrently, a discernible pattern of moderate seismic activity across critical global fault lines, including the Kermadec Islands, Reykjanes Ridge, and Indonesia, signals persistent geological stress. To navigate this complex landscape, GlobeGuard directs immediate action to: diversify investment portfolios to mitigate over-reliance on single, high-volatility tech sectors; fortify critical physical assets and supply chains against both seismic events and localized unrest, particularly in vulnerable regions; and establish robust contingency plans for resource access and communication disruptions while intensifying intelligence on AI governance and its societal implications.",
+    "strategicPlan": "The global environment presents a complex and urgent risk profile: geopolitical stability is eroding due to escalating humanitarian crises in Somalia, exacerbated by critical funding shortfalls, alongside persistent domestic economic anxieties driven by affordability issues. Financially, a distinct bifurcation is evident, with robust investment in AI-centric technologies (e.g., NVDA, PLTR) contrasting with slight downturns in broader tech giants, even as expert warnings concerning AI's existential threat to humanity and its demanding infrastructure footprint intensify. Concurrently, persistent physical tectonic instability is underscored by multiple moderate (Mag 5+) seismic events across key active zones including the Reykjanes Ridge, the Indonesian archipelago, and the South Sandwich Islands. Given this multifaceted threat landscape, we must act decisively: 1) Immediately audit and fortify physical assets and emergency protocols in all seismically vulnerable regions; 2) Strategically rebalance financial portfolios to capture AI-driven growth while diversifying to mitigate broader market volatility; and 3) Enhance supply chain resilience and preparedness for humanitarian aid deployment to address escalating global crises.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - Reykjanes Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 67 km NE of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiju"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ quakes hitting now!"
+    "seismicSummary": "Four M5+ earthquakes just struck multiple locations globally!"
 }
