@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment presents a complex risk profile characterized by intersecting vulnerabilities. Geopolitically, persistent humanitarian crises in Somalia and domestic affordability concerns underscore foundational societal instability, even as financial markets exhibit mixed tech performance, with AI-centric investments like NVDA showing strength amidst intense debate over AI's potential existential threats and infrastructural demands. Concurrently, a discernible cluster of M5+ seismic activity across critical tectonic zones including Guam, the Reykjanes Ridge, and Indonesia signals elevated physical hazards. To secure assets and ensure safety, GlobeGuard advises three immediate strategic directives: First, rigorously review and diversify investment portfolios, particularly regarding speculative AI growth and inflationary pressures. Second, accelerate the development and implementation of robust AI governance frameworks and security protocols to mitigate both technological and societal risks. Third, immediately audit and fortify emergency preparedness plans for critical infrastructure and personnel in seismically active regions, emphasizing resilience and rapid response capabilities.",
+    "strategicPlan": "The current global intelligence picture reveals a complex and urgent convergence of high-stakes factors. Technologically, the aggressive progression of AI, exemplified by NVIDIA's continued market strength, simultaneously fuels economic opportunity and intensifies profound existential risk debates, necessitating immediate regulatory attention. Geopolitically, persistent humanitarian crises like Somalia's deepening hunger crisis, combined with domestic affordability concerns and political volatility, underscore widespread societal fragility. Concurrently, physical instability is elevated by significant seismic activity, including a 6.4 magnitude earthquake in Papua New Guinea, signaling ongoing tectonic pressures. To secure assets and physical safety, GlobeGuard advises: first, diversify financial portfolios beyond core tech, prioritizing digital asset resilience against emergent cyber threats; second, immediately review and fortify emergency preparedness plans for critical infrastructure, particularly in seismically vulnerable regions; and third, maintain agile strategic awareness by closely tracking AI governance frameworks and their impact on global resource allocation and geopolitical stability.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.4 - 49 km NNE of Kainantu, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 64 km W of Cafayate, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 108 km ESE of Yigo Village, Guam",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 67 km NE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiju"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just struck diverse regions including Guam, Reykjanes Ridge, and Indonesia!"
+    "seismicSummary": "**URGENT: Major 6.4 earthquake in Papua New Guinea, plus significant quakes worldwide!**"
 }
