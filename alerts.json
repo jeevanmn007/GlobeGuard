@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a converging threat matrix across geopolitical, financial, and physical domains. Geopolitically, escalating humanitarian crises in Somalia, coupled with a pervasive 'affordability crisis' and societal resistance to AI infrastructure, indicate rising socio-economic instability and potential for unrest. Financially, while AI-driven growth in companies like NVIDIA persists, the broader market exhibits volatility, pointing to underlying economic anxieties despite tech sector resilience. Concurrently, a surge in significant seismic activity, highlighted by a 6.4 magnitude earthquake in Papua New Guinea, signals persistent physical vulnerabilities in tectonically active regions. To secure assets and ensure physical safety, first, strategically diversify investment portfolios to mitigate against inflation and potential AI market corrections. Second, immediately review and enhance emergency preparedness plans, focusing on natural disaster resilience and ensuring robust supply chains. Third, maintain a vigilant watch on evolving AI regulatory frameworks and geopolitical hotspots, as these will be critical determinants of future global stability and personal security.",
+    "strategicPlan": "The global intelligence landscape reveals a complex and converging threat profile: escalating humanitarian crises, particularly in food security and affordability, persist amidst a volatile yet resilient financial market driven by significant AI sector growth, exemplified by NVIDIA's performance despite rising societal concerns over its impact and infrastructure demands. Concurrently, a surge in significant seismic activity, notably a Mag 6.4 in Papua New Guinea, signals heightened physical risks. GlobeGuard's immediate directive is threefold: first, fortify financial assets through diversified portfolios, strategically engaging with AI's potential while hedging against broader market volatility and persistent inflation; second, rigorously review and reinforce emergency preparedness and supply chain resilience, especially for operations in seismically active regions and critical infrastructure; and third, proactively develop robust strategies to leverage AI for operational advantage while simultaneously mitigating its emerging risks, from ethical concerns to infrastructure strain and potential societal backlash.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - south of Africa",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 68 km NNE of Kainantu, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 64 km W of Cafayate, Argentina",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 108 km ESE of Yigo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl"
         }
     ],
-    "seismicSummary": "A strong M6.4 earthquake just hit Papua New Guinea, alongside multiple M5+ quakes reported globally!"
+    "seismicSummary": "\u26a0\ufe0f Multiple significant earthquakes, including a 6.4 in Papua New Guinea, are striking worldwide!"
 }
