@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape presents a high-stakes convergence of systemic threats, demanding immediate strategic recalibration. Geopolitically, we face acute humanitarian crises like the escalating hunger in Somalia, persistent domestic economic instability evidenced by the US affordability crisis, and the profound, evolving risks associated with AI, ranging from its potential existential threat to public resistance against its data centers\u2014all against a backdrop of mixed but resilient performance in key AI-driven tech sectors. Concurrently, a surge in significant seismic activity, notably a Mag 6.4 in Papua New Guinea and a Mag 5.5 in Indonesia, signals critical physical vulnerabilities in tectonically active regions, posing immediate risks to infrastructure and regional stability. To navigate this complex risk profile, we direct: first, immediately reassess and diversify investment portfolios, considering hedges against inflation and geopolitical volatility, while closely monitoring the long-term regulatory and ethical debates surrounding AI for market shifts; second, urgently review and bolster supply chain resilience, particularly for any dependencies on tectonically active zones in the Pacific Rim, establishing robust contingency logistics; and third, ensure comprehensive physical safety and emergency preparedness protocols are rigorously updated and communicated for all personnel and assets located in high-risk seismic areas.",
+    "strategicPlan": "The current global environment presents a complex, multi-layered risk profile: geopolitical tensions are rising due to widespread food insecurity and an affordability crisis, threatening social stability and potentially exacerbating migratory pressures, even as political leadership struggles with consistent messaging. Financially, the tech sector, particularly AI, demonstrates significant market momentum (e.g., NVDA's growth), yet this progress is shadowed by intense debates concerning AI's existential threats and the societal resistance to its enabling infrastructure. Concurrently, persistent, globally dispersed seismic activity underscores a baseline physical threat, demanding constant vigilance. To navigate this intricate landscape, GlobeGuard directs three immediate actions: Firstly, strategically diversify asset portfolios, balancing investments in high-growth AI sectors with resilient holdings that provide stability against broader economic and social volatilities. Secondly, elevate intelligence gathering and scenario planning for regions experiencing acute food shortages and economic distress, as these are critical precursors to potential unrest and humanitarian crises. Finally, urgently review and update emergency preparedness protocols and physical infrastructure resilience plans, particularly for assets and personnel located in seismically active zones, to mitigate the impact of recurrent natural disasters.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $222.27 (1.34%)",
+            "title": "\ud83d\udcb0 NVDA: $224.38 (0.95%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.13 (-0.26%)",
+            "title": "\ud83d\udcb0 AAPL: $336.0 (-0.04%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $493.78 (-0.8%)",
+            "title": "\ud83d\udcb0 MSFT: $493.39 (-0.08%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $177.64 (0.79%)",
+            "title": "\ud83d\udcb0 PLTR: $179.36 (0.97%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.71 (1.0%)",
+            "title": "\ud83d\udcb0 AMZN: $253.96 (0.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.4 - 49 km NNE of Kainantu, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - south of Africa",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 68 km NNE of Kainantu, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh"
+            "title": "\u26a0\ufe0f Mag 5.2 - 167 km WNW of Mejillones, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 34 km WNW of Luwuk, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4"
         }
     ],
-    "seismicSummary": "URGENT: Magnitude 6.4 in Papua New Guinea leads multiple strong quakes worldwide!"
+    "seismicSummary": "**Urgent: Multiple Mag 5+ earthquakes reported worldwide!**"
 }
