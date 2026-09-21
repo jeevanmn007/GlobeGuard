@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is acutely threatened by a nexus of escalating geopolitical vulnerabilities, persistent financial volatility, and heightened geophysical instability. Humanity faces intensifying challenges from widespread hunger and affordability crises, which could fuel social unrest, while the financial sector, though buoyed by significant AI investment and growth in select tech giants, grapples with profound existential warnings regarding AI's societal impact and infrastructure resistance. Simultaneously, a cluster of significant seismic events, particularly a Magnitude 6.4 in Papua New Guinea, underscores an urgent need for physical preparedness. To secure assets and physical safety, GlobeGuard must immediately diversify financial holdings toward resilient assets, hedging against both market fluctuations and the unpredictable regulatory and ethical trajectory of advanced AI. Concurrently, a rapid audit and reinforcement of critical infrastructure, especially in seismically active zones, is paramount, alongside the development of robust emergency response protocols. Finally, proactive scenario planning for supply chain disruptions, stemming from both socio-economic crises and the physical demands of AI data centers, is essential for maintaining operational continuity and security.",
+    "strategicPlan": "The global intelligence landscape presents a high-stakes convergence of systemic threats, demanding immediate strategic recalibration. Geopolitically, we face acute humanitarian crises like the escalating hunger in Somalia, persistent domestic economic instability evidenced by the US affordability crisis, and the profound, evolving risks associated with AI, ranging from its potential existential threat to public resistance against its data centers\u2014all against a backdrop of mixed but resilient performance in key AI-driven tech sectors. Concurrently, a surge in significant seismic activity, notably a Mag 6.4 in Papua New Guinea and a Mag 5.5 in Indonesia, signals critical physical vulnerabilities in tectonically active regions, posing immediate risks to infrastructure and regional stability. To navigate this complex risk profile, we direct: first, immediately reassess and diversify investment portfolios, considering hedges against inflation and geopolitical volatility, while closely monitoring the long-term regulatory and ethical debates surrounding AI for market shifts; second, urgently review and bolster supply chain resilience, particularly for any dependencies on tectonically active zones in the Pacific Rim, establishing robust contingency logistics; and third, ensure comprehensive physical safety and emergency preparedness protocols are rigorously updated and communicated for all personnel and assets located in high-risk seismic areas.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 68 km NNE of Kainantu, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh"
+            "title": "\u26a0\ufe0f Mag 5.5 - 35 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 64 km W of Cafayate, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2"
+            "title": "\u26a0\ufe0f Mag 5.4 - 68 km NNE of Kainantu, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh"
         }
     ],
-    "seismicSummary": "Urgent: A 6.4 magnitude earthquake just hit Papua New Guinea, alongside multiple other significant global quakes."
+    "seismicSummary": "URGENT: Magnitude 6.4 in Papua New Guinea leads multiple strong quakes worldwide!"
 }
