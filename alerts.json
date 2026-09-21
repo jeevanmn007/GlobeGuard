@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment presents a complex, multi-layered risk profile: geopolitical tensions are rising due to widespread food insecurity and an affordability crisis, threatening social stability and potentially exacerbating migratory pressures, even as political leadership struggles with consistent messaging. Financially, the tech sector, particularly AI, demonstrates significant market momentum (e.g., NVDA's growth), yet this progress is shadowed by intense debates concerning AI's existential threats and the societal resistance to its enabling infrastructure. Concurrently, persistent, globally dispersed seismic activity underscores a baseline physical threat, demanding constant vigilance. To navigate this intricate landscape, GlobeGuard directs three immediate actions: Firstly, strategically diversify asset portfolios, balancing investments in high-growth AI sectors with resilient holdings that provide stability against broader economic and social volatilities. Secondly, elevate intelligence gathering and scenario planning for regions experiencing acute food shortages and economic distress, as these are critical precursors to potential unrest and humanitarian crises. Finally, urgently review and update emergency preparedness protocols and physical infrastructure resilience plans, particularly for assets and personnel located in seismically active zones, to mitigate the impact of recurrent natural disasters.",
+    "strategicPlan": "The global strategic environment is marked by significant instability, encompassing acute humanitarian crises in vulnerable regions, persistent economic pressures highlighted by affordability concerns, and a rapidly evolving technological frontier where AI drives substantial tech sector growth while simultaneously introducing profound existential and regulatory risks. This complex geopolitical and economic backdrop is further complicated by a discernable increase in global seismic activity across multiple tectonically active zones, signaling an elevated physical threat. To navigate this intricate landscape, GlobeGuard advises immediate action: first, strategically rebalance and diversify financial assets, acknowledging both the robust growth in core tech sectors and the emerging regulatory and ethical challenges of AI; second, mandate a comprehensive review and enhancement of all emergency preparedness and disaster response protocols, with a particular focus on seismic resilience for assets and personnel in vulnerable regions; and third, initiate heightened monitoring of global supply chains and resource availability to preempt disruptions exacerbated by ongoing humanitarian and economic stressors.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.38 (0.95%)",
+            "title": "\ud83d\udcb0 NVDA: $227.43 (2.32%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.0 (-0.04%)",
+            "title": "\ud83d\udcb0 AAPL: $338.81 (0.8%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $493.39 (-0.08%)",
+            "title": "\ud83d\udcb0 MSFT: $499.38 (1.13%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $179.36 (0.97%)",
+            "title": "\ud83d\udcb0 PLTR: $181.52 (2.19%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.96 (0.1%)",
+            "title": "\ud83d\udcb0 AMZN: $259.3 (2.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 34 km WNW of Luwuk, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4"
+            "title": "\u26a0\ufe0f Mag 5 - 38 km E of Nobeoka, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixp"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple Mag 5+ earthquakes reported worldwide!**"
+    "seismicSummary": "Global M5+ earthquakes are hitting now!"
 }
