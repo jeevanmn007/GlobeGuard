@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex interplay of emergent existential, economic, and persistent physical risks. Financially, while major tech equities display robust gains, particularly in AI, the concurrent public discourse on AI's existential threat and societal resistance to its infrastructure suggests significant market volatility and geopolitical headwinds are forthcoming. Economically, surging diesel prices are intensifying an affordability crisis, signaling persistent inflationary pressures and acute supply chain vulnerabilities that President Trump's administration is downplaying. Concurrently, a pattern of notable seismic activity globally underscores an enduring physical threat demanding proactive regional preparedness. To secure assets and ensure safety, **diversify investment portfolios away from over-reliance on speculative AI-centric tech, preparing for potential regulatory interventions or market corrections driven by AI ethics concerns; reinforce and update emergency protocols for all personnel and critical infrastructure, especially in seismically active or climate-vulnerable areas; and, critically, audit and de-risk supply chain dependencies against sustained high energy costs and inflationary pressures, prioritizing localized resilience to mitigate economic instability.**",
+    "strategicPlan": "The global strategic environment presents a complex interplay of emerging and escalating risks. Geopolitically, the accelerating affordability crisis, critically underscored by soaring US diesel prices threatening supply chain integrity, points to growing economic instability and potential social unrest, while the politicization of the crisis complicates resolution. Financially, the tech sector exhibits divergent trends, with the rapid advancement and bold claims surrounding Artificial General Intelligence (AGI) driving market interest (e.g., NVDA) but simultaneously raising profound questions about regulation, data center strain, and even existential threats, contributing to overall market volatility. Concurrently, physically, a notable cluster of moderate seismic activity across the Pacific Ring of Fire, including significant events near the Philippines and Japan, demands heightened vigilance for potential regional disruptions. To secure assets and ensure physical safety, **immediately review and stress-test critical supply chains against further energy price shocks and inflationary pressures**, **establish a comprehensive AI governance framework to mitigate both operational and speculative risks associated with AGI development and regulation**, and **update and drill emergency response protocols for assets and personnel located within or transiting high-seismic risk zones.**",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $227.38 (2.3%)",
+            "title": "\ud83d\udcb0 NVDA: $228.23 (0.37%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $338.98 (0.85%)",
+            "title": "\ud83d\udcb0 AAPL: $339.92 (0.28%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $501.61 (1.59%)",
+            "title": "\ud83d\udcb0 MSFT: $497.32 (-0.86%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $183.09 (3.07%)",
+            "title": "\ud83d\udcb0 PLTR: $182.24 (-0.46%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.45 (1.87%)",
+            "title": "\ud83d\udcb0 AMZN: $256.69 (-0.68%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 167 km WNW of Mejillones, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc"
+            "title": "\u26a0\ufe0f Mag 5.1 - 88 km NNW of Uken, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4y"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - Volcano Islands, Japan region",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck globally!"
+    "seismicSummary": "Urgent: Multiple M5+ earthquakes detected worldwide, including Japan and the Philippines!"
 }
