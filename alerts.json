@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Despite any perceived baseline stability, the global environment presents a complex and urgent risk profile. Geopolitically, the escalating affordability crisis and soaring US diesel prices signal significant supply chain disruptions and inflationary pressures that could fuel economic instability and social unrest, while the AI sector experiences a dichotomy of bullish growth driven by AGI claims against stark warnings of existential risk and public pushback against necessary infrastructure. Financially, major tech stocks show robust performance, yet this enthusiasm exists alongside profound, unresolved questions about AI's societal impact and regulatory future. Concurrently, persistent moderate seismic activity across key global regions like the Philippines, Chile, and Japan serves as a constant reminder of underlying physical vulnerabilities that demand vigilance. Given this intricate threat landscape, GlobeGuard directs immediate action: Firstly, aggressively secure supply chain resilience and hedge against escalating energy and commodity costs to mitigate inflationary impacts on operations and maintain economic stability. Secondly, strategically diversify technology investments, balancing high-growth AI opportunities with rigorous assessment of ethical risks, regulatory headwinds, and public perception challenges to ensure sustainable advantage. Finally, proactively reinforce physical infrastructure and emergency preparedness, particularly in seismically active zones, to safeguard personnel and critical assets against natural hazards.",
+    "strategicPlan": "The global landscape presents a complex interplay of emergent existential, economic, and persistent physical risks. Financially, while major tech equities display robust gains, particularly in AI, the concurrent public discourse on AI's existential threat and societal resistance to its infrastructure suggests significant market volatility and geopolitical headwinds are forthcoming. Economically, surging diesel prices are intensifying an affordability crisis, signaling persistent inflationary pressures and acute supply chain vulnerabilities that President Trump's administration is downplaying. Concurrently, a pattern of notable seismic activity globally underscores an enduring physical threat demanding proactive regional preparedness. To secure assets and ensure safety, **diversify investment portfolios away from over-reliance on speculative AI-centric tech, preparing for potential regulatory interventions or market corrections driven by AI ethics concerns; reinforce and update emergency protocols for all personnel and critical infrastructure, especially in seismically active or climate-vulnerable areas; and, critically, audit and de-risk supply chain dependencies against sustained high energy costs and inflationary pressures, prioritizing localized resilience to mitigate economic instability.**",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 92 km S of Sarangani, Philippines",
+            "title": "\u26a0\ufe0f Mag 5.3 - 97 km S of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1s"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z"
+            "title": "\u26a0\ufe0f Mag 5 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 38 km E of Nobeoka, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixp"
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck globally, hitting the Philippines, Chile, Japan, and South Sandwich Islands!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck globally!"
 }
