@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence indicates a complex and evolving global risk profile marked by escalating economic pressures from the affordability crisis and soaring US diesel prices, threatening supply chain stability and social cohesion, while the financial markets show mixed performance with AI-driven tech maintaining gains amidst intense scrutiny over AI's existential risks and public backlash against its physical infrastructure. Simultaneously, a concerning uptick in significant seismic activity across the Pacific Ring of Fire and South Sandwich Islands signals heightened physical instability. Therefore, prioritize immediate actions: 1) **Fortify supply chain resilience** by diversifying logistics and hedging against energy price volatility, especially in goods transport. 2) **Strengthen emergency preparedness** for personnel and assets in tectonically active zones, updating disaster response and evacuation plans. 3) **Strategically navigate the AI landscape** by closely monitoring regulatory developments, managing public perception regarding data center expansion, and prudently evaluating AI investments against both opportunity and existential risk. This integrated approach is critical for securing assets and ensuring safety.",
+    "strategicPlan": "The global strategic landscape presents a complex interplay of escalating threats: financially, soaring diesel prices are intensifying an affordability crisis, directly impacting supply chains and consumer purchasing power; technologically, the rapid trajectory of AI, with AGI claims and serious warnings regarding existential risks, demands immediate strategic engagement; and physically, a notable cluster of moderate seismic activity across the Western Pacific (Philippines-Japan region) underscores persistent geological vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs three immediate actions: first, fortify financial resilience by diversifying critical supply chains and hedging against sustained inflationary pressures, particularly in energy costs; second, rapidly implement robust AI governance and cybersecurity frameworks to mitigate both the strategic and existential risks associated with advanced AI deployment; and third, meticulously review and enhance emergency preparedness and infrastructure resilience plans for all assets and personnel located in seismically active regions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $229.24 (0.82%)",
+            "title": "\ud83d\udcb0 NVDA: $228.87 (0.66%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $341.08 (0.62%)",
+            "title": "\ud83d\udcb0 AAPL: $339.75 (0.23%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.39 (-0.64%)",
+            "title": "\ud83d\udcb0 MSFT: $498.0 (-0.72%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $184.2 (0.61%)",
+            "title": "\ud83d\udcb0 PLTR: $184.99 (1.04%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $255.13 (-1.28%)",
+            "title": "\ud83d\udcb0 AMZN: $254.98 (-1.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
         },
         {
-            "title": "Americans love AI. They don't want the data centers that power it.",
-            "link": "https://www.businessinsider.com/americans-love-ai-they-dont-want-the-data-centers-2026-9#article"
+            "title": "Trump\u2019s Attempt to Rename AI Misunderstands the MAGA Faithful",
+            "link": "https://gizmodo.com/trumps-attempt-to-rename-ai-misunderstands-the-maga-faithful-2000815001"
         }
     ],
     "seismic": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj0z"
+            "title": "\u26a0\ufe0f Mag 4.9 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple magnitude 5 earthquakes just hit across the globe!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported in the Japan/Philippines region!"
 }
