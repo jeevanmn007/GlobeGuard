@@ -1,14 +1,10 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is marked by a profound duality, where extraordinary technological acceleration, particularly in AI, drives significant market gains in the tech sector, yet simultaneously ignites serious existential risk warnings from within the industry. This volatile blend of innovation and concern intersects with escalating geopolitical fragilities, exemplified by an acute humanitarian crisis in Somalia and persistent global economic affordability challenges. Underlying these dynamics is a sustained pattern of moderate seismic activity across multiple vulnerable regions, serving as a constant reminder of inherent physical threats. To secure assets and ensure safety, first, critically assess and diversify financial portfolios, particularly mitigating overexposure to the currently exuberant, AI-driven tech market. Second, reinforce physical safety protocols and disaster preparedness, prioritizing resilience in areas susceptible to natural events or supply chain disruptions. Finally, maintain vigilant strategic awareness of evolving AI developments, including regulatory efforts and ethical debates, to proactively adapt to potential societal and infrastructural transformations.",
+    "strategicPlan": "Despite any perceived baseline stability, the global environment presents a complex and urgent risk profile. Geopolitically, the escalating affordability crisis and soaring US diesel prices signal significant supply chain disruptions and inflationary pressures that could fuel economic instability and social unrest, while the AI sector experiences a dichotomy of bullish growth driven by AGI claims against stark warnings of existential risk and public pushback against necessary infrastructure. Financially, major tech stocks show robust performance, yet this enthusiasm exists alongside profound, unresolved questions about AI's societal impact and regulatory future. Concurrently, persistent moderate seismic activity across key global regions like the Philippines, Chile, and Japan serves as a constant reminder of underlying physical vulnerabilities that demand vigilance. Given this intricate threat landscape, GlobeGuard directs immediate action: Firstly, aggressively secure supply chain resilience and hedge against escalating energy and commodity costs to mitigate inflationary impacts on operations and maintain economic stability. Secondly, strategically diversify technology investments, balancing high-growth AI opportunities with rigorous assessment of ethical risks, regulatory headwinds, and public perception challenges to ensure sustainable advantage. Finally, proactively reinforce physical infrastructure and emergency preparedness, particularly in seismically active zones, to safeguard personnel and critical assets against natural hazards.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
             "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo"
-        },
-        {
-            "title": "Somalia faces another hunger crisis and the UN food agency head says it has far less funds to help",
-            "link": "https://www.yahoo.com/news/world/articles/somalia-faces-another-hunger-crisis-133815641.html"
         },
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -17,6 +13,10 @@
         {
             "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
             "link": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment"
+        },
+        {
+            "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+            "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
         }
     ],
     "stock": [
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 35 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur"
+            "title": "\u26a0\ufe0f Mag 5.2 - 92 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1s"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 167 km WNW of Mejillones, Chile",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixp"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes are hitting globally!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck globally, hitting the Philippines, Chile, Japan, and South Sandwich Islands!"
 }
