@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is marked by escalating economic pressures, particularly evidenced by the affordability crisis and soaring logistics costs, which are directly impacting supply chains and consumer welfare. Concurrently, the rapidly accelerating AI landscape presents both transformative potential and significant existential risks, prompting urgent debate on regulation and societal impact. This is occurring against a backdrop of ongoing global seismic activity, underscoring persistent physical vulnerabilities. To secure assets and ensure physical safety, GlobeGuard advises immediately diversifying financial portfolios to mitigate inflationary pressures and market volatility, critically assessing and bolstering digital infrastructure against emerging AI-driven threats, and meticulously reviewing and updating emergency preparedness plans for all physical assets and personnel, factoring in potential geological and logistical disruptions.",
+    "strategicPlan": "The global environment currently presents a critical convergence of escalating economic, technological, and geophysical vulnerabilities. Geopolitically, the pervasive affordability crisis, intensified by soaring US diesel prices, signifies widespread economic strain and potential social unrest, while the rapid, largely unregulated advancement of AI, complete with existential risk warnings from leading experts, introduces a profound and immediate technological threat. Concurrently, a notable cluster of moderate to strong seismic events across key global fault lines underscores persistent physical instability. To mitigate these multifaceted risks, GlobeGuard must immediately: secure and diversify essential supply chains while stress-testing financial portfolios against inflationary pressures; bolster cyber-physical defenses against advanced AI threats and critically assess internal AI deployments for unforeseen risks; and re-evaluate and fortify physical safety protocols and disaster contingency plans for assets and personnel globally, with particular emphasis on seismically active regions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.49 (-1.27%)",
+            "title": "\ud83d\udcb0 NVDA: $225.51 (-1.47%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.73 (-0.66%)",
+            "title": "\ud83d\udcb0 AAPL: $337.02 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.72 (-0.58%)",
+            "title": "\ud83d\udcb0 MSFT: $500.59 (0.52%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $191.19 (4.42%)",
+            "title": "\ud83d\udcb0 PLTR: $191.79 (3.68%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.54 (-3.45%)",
+            "title": "\ud83d\udcb0 AMZN: $249.27 (-2.24%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx29"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Mariana Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx38"
+            "title": "\u26a0\ufe0f Mag 5 - 140 km NNE of Ba, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx58"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - Scotia Sea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx23"
+            "title": "\u26a0\ufe0f Mag 5 - Mariana Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx38"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M4.9-5.7 earthquakes reported across Tonga, Argentina, and the Mariana Islands!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes, including a 5.7 in Tonga, have struck globally!"
 }
