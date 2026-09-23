@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape presents a complex interplay of escalating threats: financially, soaring diesel prices are intensifying an affordability crisis, directly impacting supply chains and consumer purchasing power; technologically, the rapid trajectory of AI, with AGI claims and serious warnings regarding existential risks, demands immediate strategic engagement; and physically, a notable cluster of moderate seismic activity across the Western Pacific (Philippines-Japan region) underscores persistent geological vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs three immediate actions: first, fortify financial resilience by diversifying critical supply chains and hedging against sustained inflationary pressures, particularly in energy costs; second, rapidly implement robust AI governance and cybersecurity frameworks to mitigate both the strategic and existential risks associated with advanced AI deployment; and third, meticulously review and enhance emergency preparedness and infrastructure resilience plans for all assets and personnel located in seismically active regions.",
+    "strategicPlan": "The current global environment is marked by escalating economic pressures, particularly evidenced by the affordability crisis and soaring logistics costs, which are directly impacting supply chains and consumer welfare. Concurrently, the rapidly accelerating AI landscape presents both transformative potential and significant existential risks, prompting urgent debate on regulation and societal impact. This is occurring against a backdrop of ongoing global seismic activity, underscoring persistent physical vulnerabilities. To secure assets and ensure physical safety, GlobeGuard advises immediately diversifying financial portfolios to mitigate inflationary pressures and market volatility, critically assessing and bolstering digital infrastructure against emerging AI-driven threats, and meticulously reviewing and updating emergency preparedness plans for all physical assets and personnel, factoring in potential geological and logistical disruptions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.87 (0.66%)",
+            "title": "\ud83d\udcb0 NVDA: $224.49 (-1.27%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $339.75 (0.23%)",
+            "title": "\ud83d\udcb0 AAPL: $336.73 (-0.66%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.0 (-0.72%)",
+            "title": "\ud83d\udcb0 MSFT: $498.72 (-0.58%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $184.99 (1.04%)",
+            "title": "\ud83d\udcb0 PLTR: $191.19 (4.42%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.98 (-1.34%)",
+            "title": "\ud83d\udcb0 AMZN: $249.54 (-3.45%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 97 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj1s"
+            "title": "\u26a0\ufe0f Mag 5.7 - 180 km NW of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx3m"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 88 km NNW of Uken, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4y"
+            "title": "\u26a0\ufe0f Mag 5.3 - 51 km WSW of Arauco, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx29"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Volcano Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k"
+            "title": "\u26a0\ufe0f Mag 5 - Mariana Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx38"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - Volcano Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s"
+            "title": "\u26a0\ufe0f Mag 4.9 - Scotia Sea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx23"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported in the Japan/Philippines region!"
+    "seismicSummary": "\ud83d\udea8 Multiple M4.9-5.7 earthquakes reported across Tonga, Argentina, and the Mariana Islands!"
 }
