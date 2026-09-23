@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment currently presents a critical convergence of escalating economic, technological, and geophysical vulnerabilities. Geopolitically, the pervasive affordability crisis, intensified by soaring US diesel prices, signifies widespread economic strain and potential social unrest, while the rapid, largely unregulated advancement of AI, complete with existential risk warnings from leading experts, introduces a profound and immediate technological threat. Concurrently, a notable cluster of moderate to strong seismic events across key global fault lines underscores persistent physical instability. To mitigate these multifaceted risks, GlobeGuard must immediately: secure and diversify essential supply chains while stress-testing financial portfolios against inflationary pressures; bolster cyber-physical defenses against advanced AI threats and critically assess internal AI deployments for unforeseen risks; and re-evaluate and fortify physical safety protocols and disaster contingency plans for assets and personnel globally, with particular emphasis on seismically active regions.",
+    "strategicPlan": "The global strategic environment is exhibiting heightened volatility, characterized by converging economic, technological, and geophysical risks. We face an escalating affordability crisis, driven by soaring energy costs severely impacting supply chains and consumer goods, while political discourse remains divisive on its reality. Concurrently, the rapid, largely unregulated advancement of AI presents an explicit existential threat, with industry leaders acknowledging catastrophic potential and calling for urgent oversight. Layered onto this, recent seismic data reveals a notable increase in significant earthquake activity across multiple vulnerable regions globally, indicating heightened physical risks. To address this complex threat matrix, GlobeGuard directs immediate action: **first,** fortify economic resilience by diversifying critical supply chains and optimizing energy consumption to mitigate inflation and logistics disruptions; **second,** urgently implement robust AI governance and safety protocols across all operations, prioritizing ethical oversight to manage inherent systemic and existential risks; and **third,** meticulously review and update all regional disaster preparedness and asset protection plans, particularly for locations within seismically active zones, to ensure physical safety and operational continuity.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx38"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes, including a 5.7 in Tonga, have struck globally!"
+    "seismicSummary": "Multiple strong earthquakes are striking globally!"
 }
