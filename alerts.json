@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk landscape is acutely complex, presenting converging geopolitical, financial, and physical threats. We observe a deepening affordability crisis, exacerbated by soaring energy costs and political discord, which challenges economic stability and critical supply chain resilience. Concurrently, the rapid, unregulated advance of artificial intelligence is escalating into a systemic, potentially existential threat, evidenced by urgent calls for its ban and dire warnings from industry experts, while simultaneously showcasing transformative capabilities. This is compounded by an elevated global seismic risk, with multiple significant earthquakes across active fault lines posing immediate physical hazards to infrastructure and populations. To navigate this volatile environment, immediately assess and diversify critical supply chains to mitigate economic shocks and ensure access to essential goods, rigorously evaluate and secure all strategic assets against potential AI-driven disruptions or system failures, and comprehensively update physical safety protocols and emergency preparedness plans for all personnel and infrastructure, particularly in seismically vulnerable areas.",
+    "strategicPlan": "The current global situation is defined by escalating economic pressures, particularly from soaring energy costs that exacerbate the affordability crisis and strain supply chains, alongside a rapidly intensifying geopolitical and societal debate surrounding the regulation and existential threat of advanced Artificial Intelligence. This complex environment is further complicated by persistent, moderate tectonic activity across multiple vulnerable regions, underscoring latent physical risks that can destabilize critical infrastructure. To secure assets and ensure physical safety, immediately diversify critical supply chain dependencies to build resilience against inflationary pressures, closely monitor the evolving AI regulatory landscape to inform strategic investments and avoid undue exposure, and proactively update and drill comprehensive emergency preparedness protocols for personnel and infrastructure, especially in seismically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.29 (-0.54%)",
+            "title": "\ud83d\udcb0 NVDA: $224.58 (-0.41%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $337.38 (0.11%)",
+            "title": "\ud83d\udcb0 AAPL: $335.92 (-0.33%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $497.78 (-0.56%)",
+            "title": "\ud83d\udcb0 MSFT: $497.93 (-0.53%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $193.01 (0.64%)",
+            "title": "\ud83d\udcb0 PLTR: $192.59 (0.42%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $250.2 (0.37%)",
+            "title": "\ud83d\udcb0 AMZN: $249.38 (0.04%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
         },
         {
+            "title": "Bernie Sanders Shows There\u2019s a Big Problem With Trump Renaming AI to \u2018Super Intelligence\u2019",
+            "link": "https://gizmodo.com/bernie-sanders-shows-theres-a-big-problem-with-trump-renaming-ai-to-super-intelligence-2000816222"
+        },
+        {
             "title": "Could AI pose a threat to humanity, and can it be regulated?",
             "link": "https://www.bbc.co.uk/news/videos/ckgjqnz6pd2do"
         },
         {
             "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
             "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
-        },
-        {
-            "title": "More than 1 in 10 chance AI \u2018could kill all humans,\u2019 says Anthropic safety lead after colleague quits",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 **URGENT**: A 5.3 magnitude earthquake just hit Turkey, with multiple significant tremors also reported in Papua New Guinea and New Zealand!"
+    "seismicSummary": "Multiple strong earthquakes just reported globally, including a Mag 5.3 in Turkey and others across Papua New Guinea and New Zealand!"
 }
