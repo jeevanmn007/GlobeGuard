@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The global intelligence assessment reveals an escalating and complex threat landscape. Economically, we face mounting inflationary pressures driven by soaring US diesel prices, exacerbating an affordability crisis for consumers and businesses, while major tech stocks exhibit a general downturn. Concurrently, the discourse around Artificial General Intelligence (AGI) has reached a critical juncture, with expert voices now openly discussing a credible existential threat to humanity that demands urgent regulatory consideration, particularly given a key player's repeated claims of AGI achievement. This intricate environment is further compounded by a notable increase in M5+ seismic activity across vulnerable regions including Turkey and the Pacific Ring of Fire, underscoring both physical and operational vulnerabilities. In response, GlobeGuard directs immediate action: first, **diversify critical supply chains and reassess energy dependencies** to mitigate the impact of escalating logistical costs and ensure operational continuity; second, **initiate rapid deployment of comprehensive AI risk assessment frameworks and robust contingency planning** to address the accelerating existential threats posed by advanced AI systems; and third, **review and reinforce emergency preparedness protocols for all key assets and personnel** in seismically active regions, ensuring resilient infrastructure and rapid response capabilities.",
+    "strategicPlan": "The global risk landscape is acutely complex, presenting converging geopolitical, financial, and physical threats. We observe a deepening affordability crisis, exacerbated by soaring energy costs and political discord, which challenges economic stability and critical supply chain resilience. Concurrently, the rapid, unregulated advance of artificial intelligence is escalating into a systemic, potentially existential threat, evidenced by urgent calls for its ban and dire warnings from industry experts, while simultaneously showcasing transformative capabilities. This is compounded by an elevated global seismic risk, with multiple significant earthquakes across active fault lines posing immediate physical hazards to infrastructure and populations. To navigate this volatile environment, immediately assess and diversify critical supply chains to mitigate economic shocks and ensure access to essential goods, rigorously evaluate and secure all strategic assets against potential AI-driven disruptions or system failures, and comprehensively update physical safety protocols and emergency preparedness plans for all personnel and infrastructure, particularly in seismically vulnerable areas.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,27 +21,31 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $222.18 (-1.48%)",
+            "title": "\ud83d\udcb0 NVDA: $224.29 (-0.54%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.74 (-0.08%)",
+            "title": "\ud83d\udcb0 AAPL: $337.38 (0.11%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $495.15 (-1.09%)",
+            "title": "\ud83d\udcb0 MSFT: $497.78 (-0.56%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $192.26 (0.25%)",
+            "title": "\ud83d\udcb0 PLTR: $193.01 (0.64%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.4 (-1.15%)",
+            "title": "\ud83d\udcb0 AMZN: $250.2 (0.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
     "trend": [
+        {
+            "title": "Bernie Sanders proposes banning \u2018superintelligence\u2019 and putting violators in prison",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
+        },
         {
             "title": "Could AI pose a threat to humanity, and can it be regulated?",
             "link": "https://www.bbc.co.uk/news/videos/ckgjqnz6pd2do"
@@ -53,10 +57,6 @@
         {
             "title": "More than 1 in 10 chance AI \u2018could kill all humans,\u2019 says Anthropic safety lead after colleague quits",
             "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
-        },
-        {
-            "title": "Trump\u2019s Attempt to Rename AI Misunderstands the MAGA Faithful",
-            "link": "https://gizmodo.com/trumps-attempt-to-rename-ai-misunderstands-the-maga-faithful-2000815001"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txbm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 140 km NNE of Ba, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx58"
+            "title": "\u26a0\ufe0f Mag 5.1 - 32 km S of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf9"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple strong earthquakes, topped by a 5.3 in Turkey, are striking worldwide!"
+    "seismicSummary": "\ud83d\udea8 **URGENT**: A 5.3 magnitude earthquake just hit Turkey, with multiple significant tremors also reported in Papua New Guinea and New Zealand!"
 }
