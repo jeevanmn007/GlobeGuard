@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently marked by intensifying economic headwinds, rapid technological disruption, and heightened natural hazard risks. Geopolitically, soaring energy costs are deepening the affordability crisis, threatening supply chains, while the escalating debate around AI's existential risks and regulatory needs demands immediate strategic engagement. Financially, major tech sector valuations are under pressure, signaling market discernment amid these strains, although AI-focused entities show resilience. Concurrently, a notable cluster of moderate seismic activity across the Pacific Ring of Fire and other active fault lines indicates an elevated physical risk profile for assets and personnel. To secure assets and physical safety, GlobeGuard directs immediate audits of supply chain resilience against escalating energy costs and a strategic re-evaluation of investment portfolios to adapt to volatile tech markets and AI-driven opportunities. Furthermore, develop or update comprehensive AI governance frameworks, including ethical considerations and data security protocols, in anticipation of rapid advancements and regulatory shifts. Finally, conduct urgent seismic risk assessments for all critical infrastructure and personnel in active fault zones, reinforcing emergency preparedness plans.",
+    "strategicPlan": "GlobeGuard assesses the current global environment as one of escalating volatility, significantly challenging a nominal threat level of 1 due to the convergence of persistent geopolitical, financial, and physical risks. Economically, the spiraling affordability crisis, exacerbated by soaring US diesel prices and political discord over inflation, directly threatens supply chain stability and consumer confidence, thus requiring immediate stress-testing and diversification of critical supply chains against energy price volatility and political instability, prioritizing localized and resilient logistics. Financially, a bifurcated market sees specific AI-leveraged assets like PLTR surge amidst broader tech sector corrections and intense debate about AI's existential risks, necessitating strategic engagement with AI advancements to capitalize on operational efficiencies while simultaneously developing robust ethical guidelines and contingency plans for its profound societal and security implications. Concurrently, a notable increase in moderate-to-strong seismic events across diverse active zones globally demands renewed attention to physical resilience; therefore, review and upgrade physical infrastructure resilience in all operations within seismically active regions, ensuring emergency preparedness and rapid response protocols are meticulously current and regularly exercised.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx3m"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 51 km WSW of Arauco, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx29"
+            "title": "\u26a0\ufe0f Mag 5.3 - 15 km SSW of Hilvan, Turkey",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx9u"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 140 km NNE of Ba, Fiji",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx38"
         }
     ],
-    "seismicSummary": "**Alert: M5+ earthquakes hitting globally, including a 5.7 near Tonga!**"
+    "seismicSummary": "\ud83d\udea8 Multiple 5+ magnitude earthquakes just struck worldwide, from Tonga to Turkey!"
 }
