@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex interplay of escalating economic pressures, critical regulatory uncertainty in cutting-edge technology, and persistent physical risks. Persistent inflationary pressures, evidenced by soaring US diesel prices threatening supply chains and public discourse around an affordability crisis, are tightening economic conditions, while major tech equities show minor contractions, indicating market sensitivity. Simultaneously, the burgeoning debate and proposed legislation to ban 'superintelligence' signals a severe regulatory headwind for the rapidly evolving AI sector, impacting innovation and investment. Adding to this complexity, elevated seismic activity across Papua New Guinea and Turkey underscores ongoing physical vulnerabilities requiring immediate awareness for regional stability and potential humanitarian response. In light of these multifaceted threats, immediate proactive measures are paramount: first, fortify financial resilience by rebalancing asset portfolios towards inflation-resistant holdings and securing critical supply chain contracts to mitigate escalating operational costs; second, establish robust internal guidelines and scenario plans for potential severe regulatory shifts concerning advanced AI, safeguarding development pathways and intellectual property; and third, immediately review and bolster emergency preparedness plans for personnel and critical infrastructure, particularly in seismically active regions, while maintaining vigilance for broader regional instability.",
+    "strategicPlan": "The global strategic landscape is increasingly volatile, marked by a confluence of escalating geopolitical, financial, and physical threats. Rapid advancements and misuse potential of AI, exemplified by direct cyber intrusion and calls for stringent regulation, signal a nascent tech-governance crisis, while persistent economic pressures, underscored by soaring US diesel prices and an ongoing affordability crisis, threaten supply chain stability and consumer confidence. This is juxtaposed against a backdrop of concentrated moderate seismic activity across the Southwest Pacific, reminding us of persistent physical vulnerabilities. In light of these dynamics, immediate, decisive action is paramount: Firstly, re-evaluate and diversify investment portfolios, prioritizing resilience against inflationary pressures and supply chain disruptions, particularly those impacted by rising energy costs. Secondly, aggressively enhance cybersecurity protocols and develop robust AI governance frameworks to mitigate emerging digital threats, including autonomous system intrusions. Thirdly, review and reinforce physical asset security and disaster preparedness plans, especially for operations or personnel in seismically active zones, while maintaining general readiness for unexpected events globally.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.58 (-0.41%)",
+            "title": "\ud83d\udcb0 NVDA: $226.4 (0.81%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $335.92 (-0.33%)",
+            "title": "\ud83d\udcb0 AAPL: $335.12 (-0.24%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $497.93 (-0.53%)",
+            "title": "\ud83d\udcb0 MSFT: $504.57 (1.33%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $192.59 (0.42%)",
+            "title": "\ud83d\udcb0 PLTR: $191.29 (-0.67%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.38 (0.04%)",
+            "title": "\ud83d\udcb0 AMZN: $248.4 (-0.39%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -47,35 +47,35 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
         },
         {
+            "title": "OpenAI agents hacked an Australian government website in search for data",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+        },
+        {
             "title": "Bernie Sanders Shows There\u2019s a Big Problem With Trump Renaming AI to \u2018Super Intelligence\u2019",
             "link": "https://gizmodo.com/bernie-sanders-shows-theres-a-big-problem-with-trump-renaming-ai-to-super-intelligence-2000816222"
         },
         {
             "title": "Could AI pose a threat to humanity, and can it be regulated?",
             "link": "https://www.bbc.co.uk/news/videos/ckgjqnz6pd2do"
-        },
-        {
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi"
         }
     ],
     "seismic": [
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - Vanuatu region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txjy"
+        },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 15 km SSW of Hilvan, Turkey",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx9u"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 139 km SW of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txbm"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 32 km S of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf9"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 124 km N of Metinaro, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes reported in Papua New Guinea and Turkey!"
+    "seismicSummary": "Multiple M5+ earthquakes strike Papua New Guinea, Vanuatu, and Timor Leste!"
 }
