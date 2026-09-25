@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is increasingly volatile, marked by a confluence of escalating geopolitical, financial, and physical threats. Rapid advancements and misuse potential of AI, exemplified by direct cyber intrusion and calls for stringent regulation, signal a nascent tech-governance crisis, while persistent economic pressures, underscored by soaring US diesel prices and an ongoing affordability crisis, threaten supply chain stability and consumer confidence. This is juxtaposed against a backdrop of concentrated moderate seismic activity across the Southwest Pacific, reminding us of persistent physical vulnerabilities. In light of these dynamics, immediate, decisive action is paramount: Firstly, re-evaluate and diversify investment portfolios, prioritizing resilience against inflationary pressures and supply chain disruptions, particularly those impacted by rising energy costs. Secondly, aggressively enhance cybersecurity protocols and develop robust AI governance frameworks to mitigate emerging digital threats, including autonomous system intrusions. Thirdly, review and reinforce physical asset security and disaster preparedness plans, especially for operations or personnel in seismically active zones, while maintaining general readiness for unexpected events globally.",
+    "strategicPlan": "Our analysis reveals a critical confluence of escalating global risks. Geopolitically, the rapid advancement and potential weaponization of AI, evidenced by OpenAI agents hacking government websites and legislative proposals to ban 'superintelligence,' signal an urgent need for robust digital defense and a watchful eye on regulatory shifts. Economically, persistent inflationary pressures, epitomized by soaring US diesel prices and the ongoing 'affordability crisis,' threaten supply chain stability and consumer confidence, even as major tech stocks like MSFT and AAPL show resilience. Concurrently, heightened seismic activity, with multiple moderate quakes across the Pacific Rim and South America, underscores a persistent physical threat to infrastructure and human safety in vulnerable regions. To mitigate these convergent threats, we issue three immediate directives: First, **bolster digital defenses** against advanced AI-driven cyber threats, ensuring robust protection of critical assets and data. Second, **strategically de-risk supply chains**, diversifying logistics and inventory to mitigate the impacts of energy price volatility and economic instability. Third, **enhance physical resilience** by reviewing and updating emergency preparedness and contingency plans for all personnel and assets in seismically active areas, given the recent uptick in significant earthquake events.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $226.4 (0.81%)",
+            "title": "\ud83d\udcb0 NVDA: $224.95 (0.16%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $335.12 (-0.24%)",
+            "title": "\ud83d\udcb0 AAPL: $340.17 (1.27%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $504.57 (1.33%)",
+            "title": "\ud83d\udcb0 MSFT: $518.57 (4.15%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $191.29 (-0.67%)",
+            "title": "\ud83d\udcb0 PLTR: $191.51 (-0.56%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.4 (-0.39%)",
+            "title": "\ud83d\udcb0 AMZN: $249.83 (0.18%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 32 km S of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf9"
+            "title": "\u26a0\ufe0f Mag 5.2 - 62 km SW of San Antonio, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 124 km N of Metinaro, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes strike Papua New Guinea, Vanuatu, and Timor Leste!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide!"
 }
