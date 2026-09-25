@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global situation is defined by escalating economic pressures, particularly from soaring energy costs that exacerbate the affordability crisis and strain supply chains, alongside a rapidly intensifying geopolitical and societal debate surrounding the regulation and existential threat of advanced Artificial Intelligence. This complex environment is further complicated by persistent, moderate tectonic activity across multiple vulnerable regions, underscoring latent physical risks that can destabilize critical infrastructure. To secure assets and ensure physical safety, immediately diversify critical supply chain dependencies to build resilience against inflationary pressures, closely monitor the evolving AI regulatory landscape to inform strategic investments and avoid undue exposure, and proactively update and drill comprehensive emergency preparedness protocols for personnel and infrastructure, especially in seismically active zones.",
+    "strategicPlan": "The global environment presents a complex interplay of escalating economic pressures, critical regulatory uncertainty in cutting-edge technology, and persistent physical risks. Persistent inflationary pressures, evidenced by soaring US diesel prices threatening supply chains and public discourse around an affordability crisis, are tightening economic conditions, while major tech equities show minor contractions, indicating market sensitivity. Simultaneously, the burgeoning debate and proposed legislation to ban 'superintelligence' signals a severe regulatory headwind for the rapidly evolving AI sector, impacting innovation and investment. Adding to this complexity, elevated seismic activity across Papua New Guinea and Turkey underscores ongoing physical vulnerabilities requiring immediate awareness for regional stability and potential humanitarian response. In light of these multifaceted threats, immediate proactive measures are paramount: first, fortify financial resilience by rebalancing asset portfolios towards inflation-resistant holdings and securing critical supply chain contracts to mitigate escalating operational costs; second, establish robust internal guidelines and scenario plans for potential severe regulatory shifts concerning advanced AI, safeguarding development pathways and intellectual property; and third, immediately review and bolster emergency preparedness plans for personnel and critical infrastructure, particularly in seismically active regions, while maintaining vigilance for broader regional instability.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 15 km SSW of Hilvan, Turkey",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx9u"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 32 km S of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes just reported globally, including a Mag 5.3 in Turkey and others across Papua New Guinea and New Zealand!"
+    "seismicSummary": "Multiple M5+ earthquakes reported in Papua New Guinea and Turkey!"
 }
