@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex and volatile risk profile characterized by converging threats. Economically, persistent inflationary pressures, epitomized by soaring US diesel prices, threaten supply chain stability and consumer affordability, while politically, intense scrutiny and calls for stringent regulation of advanced AI, following demonstrated hacking capabilities, signal an impending shift in the tech sector's operational environment. Concurrently, a cluster of significant seismic events in the New Caledonia/Papua New Guinea region underscores inherent physical vulnerabilities across key Pacific maritime routes. To secure assets and ensure physical safety, first, critically assess and diversify supply chain dependencies, particularly those reliant on fuel-intensive logistics, and hedge against continued inflationary pressures. Second, immediately enhance digital security frameworks and conduct vulnerability assessments, anticipating increased AI-driven cyber threats and potential regulatory shifts impacting AI-dependent operations. Third, review and update emergency preparedness protocols for both personnel and critical infrastructure, accounting for potential physical disruptions, especially in seismically active regions or along vulnerable trade arteries.",
+    "strategicPlan": "The global strategic environment is acutely challenged by a perilous confluence of factors: deepening economic instability manifest in soaring diesel prices and an escalating affordability crisis, alongside a rapidly intensifying regulatory and security paradigm shift around Artificial Intelligence, evidenced by proposals for outright bans and confirmed AI-driven cyber intrusions. Compounding these systemic risks is a pronounced increase in seismic activity across the tectonically volatile South Pacific, posing direct physical threats to infrastructure and supply chains. To mitigate exposure, immediately diversify critical asset portfolios to hedge against inflationary pressures and supply chain shocks, rigorously audit and fortify all digital infrastructure against advanced AI-driven threats, and ensure robust physical contingency plans are in place, particularly for personnel and assets within or reliant on infrastructure in seismically active regions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.6 - 80 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.6 - 74 km ESE of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 69 km ENE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 58 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu"
         }
     ],
-    "seismicSummary": "A M6.6 earthquake just struck near New Caledonia, with multiple other strong quakes reported across the Pacific region!"
+    "seismicSummary": "Multiple M5+ earthquakes, including a cluster, just struck New Caledonia and Papua New Guinea!"
 }
