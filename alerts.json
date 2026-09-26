@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals an urgent, multi-faceted threat landscape: domestically, a burgeoning 'affordability crisis' fueled by soaring energy costs and political volatility threatens economic stability, while globally, heightened and active seismic instability across the Pacific Ring of Fire introduces unpredictable natural disaster risks. Simultaneously, the unchecked evolution of AI presents a novel geopolitical and cybersecurity challenge, with documented intrusions and calls for extreme regulatory measures signaling a new frontier of systemic risk. To navigate this complex environment, GlobeGuard must immediately: 1) Enhance physical safety and supply chain resilience, particularly for assets and personnel in seismically active regions, and develop contingencies for sustained commodity price volatility. 2) Fortify digital infrastructure and cybersecurity protocols against sophisticated, AI-driven threats, while closely monitoring emerging AI regulatory frameworks to anticipate legislative impacts. 3) Diversify financial strategies to mitigate inflationary pressures and political uncertainty, focusing on sectors resilient to both economic shocks and technological disruption.",
+    "strategicPlan": "The global environment, while currently assessed at threat level 1, exhibits escalating systemic pressures across geopolitical, financial, and physical domains. Persistent inflationary pressures, particularly soaring US diesel prices, exacerbate a domestic affordability crisis and threaten broader supply chain stability, while the unchecked proliferation of AI technology poses an emergent geopolitical and security risk, evidenced by government website hacks and calls for extreme regulatory intervention against 'superintelligence'. Concurrently, a significant and active seismic cluster off New Caledonia, centered around a magnitude 6.6 event, demands immediate attention for regional physical safety. In response, GlobeGuard must immediately: 1. Initiate a comprehensive review of critical supply chain vulnerabilities and implement hedging strategies against escalating energy costs. 2. Establish a dedicated AI governance task force to audit internal AI deployments for security weaknesses and prepare for forthcoming stringent regulatory compliance. 3. Enforce heightened seismic and tsunami preparedness protocols for all personnel and assets in the Pacific Rim, with specific focus on the New Caledonia region.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Vanuatu region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txjy"
+            "title": "\u26a0\ufe0f Mag 5.5 - 61 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp"
+            "title": "\u26a0\ufe0f Mag 5.4 - 69 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 62 km SW of San Antonio, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme"
+            "title": "\u26a0\ufe0f Mag 5.3 - 58 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu"
         }
     ],
-    "seismicSummary": "**M6.6 earthquake just struck New Caledonia, plus multiple other strong quakes hitting the Pacific Rim!**"
+    "seismicSummary": "**Urgent: Major 6.6 earthquake near Tadine, New Caledonia, with multiple strong aftershocks!**"
 }
