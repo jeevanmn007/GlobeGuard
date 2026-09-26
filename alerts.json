@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is marked by escalating economic pressures, particularly evident in soaring US diesel prices and a deepening affordability crisis that will strain supply chains and consumer stability, while simultaneously the geopolitical landscape navigates an urgent debate surrounding AI superintelligence, its regulation, and demonstrated cyber vulnerabilities following recent government system breaches. Overlaying these human-driven challenges is a significant physical threat, highlighted by the cluster of powerful seismic events in New Caledonia, demanding immediate attention to regional stability. To secure assets and physical safety, first, critically assess and diversify essential supply chain dependencies, evaluating hedges against persistent energy inflation and its trickle-down effects. Second, maintain immediate readiness for potential aftershocks or broader regional disruptions in the Pacific Rim, ensuring all physical safety protocols and emergency response plans for personnel and assets in the region are current and rehearsed. Third, intensify monitoring of evolving legislative efforts around advanced AI, and simultaneously bolster digital perimeter defenses and data security protocols against increasingly sophisticated AI-driven cyber probes.",
+    "strategicPlan": "The global environment currently presents a critical convergence of escalating economic pressures, notably an intensifying affordability crisis exacerbated by soaring US diesel prices and political discord on economic realities. Simultaneously, the rapid and often unsettling advancements in Artificial Intelligence pose significant strategic and security risks, with calls for outright bans on \"superintelligence\" juxtaposed against confirmed AI-driven government system breaches. This complex human-made landscape is underscored by heightened natural hazards, specifically a cluster of significant seismic events in the South Pacific, serving as a stark reminder of persistent physical vulnerabilities. To secure assets and physical safety, GlobeGuard mandates three immediate actions: first, proactively review and stress-test all critical supply chains against rising fuel costs and economic instability, exploring diversification and localization strategies; second, bolster digital security infrastructure against sophisticated AI-driven cyber threats and establish a clear AI governance framework to navigate evolving regulatory landscapes; and third, conduct an immediate audit of physical assets in seismically active regions, ensuring robust emergency preparedness, business continuity plans, and comprehensive insurance are in place.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 74 km ESE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 61 km ENE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 69 km ENE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 58 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a M6.6, just hit Tadine, New Caledonia!"
+    "seismicSummary": "**Major 6.6 magnitude earthquake strikes New Caledonia, followed by multiple strong aftershocks!**"
 }
