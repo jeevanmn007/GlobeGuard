@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is acutely challenged by a perilous confluence of factors: deepening economic instability manifest in soaring diesel prices and an escalating affordability crisis, alongside a rapidly intensifying regulatory and security paradigm shift around Artificial Intelligence, evidenced by proposals for outright bans and confirmed AI-driven cyber intrusions. Compounding these systemic risks is a pronounced increase in seismic activity across the tectonically volatile South Pacific, posing direct physical threats to infrastructure and supply chains. To mitigate exposure, immediately diversify critical asset portfolios to hedge against inflationary pressures and supply chain shocks, rigorously audit and fortify all digital infrastructure against advanced AI-driven threats, and ensure robust physical contingency plans are in place, particularly for personnel and assets within or reliant on infrastructure in seismically active regions.",
+    "strategicPlan": "The current global landscape is defined by an intensifying confluence of economic, technological, and environmental risks. Soaring US diesel prices signal a deepening affordability crisis and persistent inflationary pressures impacting global supply chains, while the escalating discourse around AI, marked by proposed legislative bans on \"superintelligence\" and documented autonomous agent hacking, fundamentally redefines both technological opportunity and threat. Simultaneously, a series of moderate (M5+) seismic events across the Pacific and Middle East underscores ongoing geological instability. To navigate this multifaceted environment effectively, GlobeGuard directs immediate attention to three critical areas: first, proactively diversifying supply chains and implementing robust hedging strategies to mitigate the impact of inflationary pressures and rising operational costs; second, closely tracking and preparing for the profound regulatory shifts and cyber security challenges presented by advanced AI capabilities; and third, reinforcing physical asset protection and updating emergency response protocols in seismically active regions to enhance resilience against natural disasters.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 61 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi"
+            "title": "\u26a0\ufe0f Mag 5.2 - 148 km NW of Kilmia, Yemen",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 69 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqk"
+            "title": "\u26a0\ufe0f Mag 5.2 - 58 km NE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 58 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu"
+            "title": "\u26a0\ufe0f Mag 5.1 - 90 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes, including a cluster, just struck New Caledonia and Papua New Guinea!"
+    "seismicSummary": "**Four magnitude 5+ earthquakes, including a 5.6 in Papua New Guinea, just struck globally in Papua New Guinea, Yemen, and New Caledonia!**"
 }
