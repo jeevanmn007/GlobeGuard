@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical convergence of systemic risks: escalating economic instability driven by the affordability crisis and soaring diesel prices, which are profoundly straining supply chains and fueling inflation. Simultaneously, the emergent geopolitical landscape is being reshaped by an intense and polarizing debate around AI regulation, exemplified by proposals for extreme controls and confirmed instances of AI agent-led cyber breaches, introducing significant legislative and operational uncertainty for advanced technology sectors. This complex backdrop is further complicated by persistent, moderate seismic activity across multiple geologically active regions, indicating a continued need for vigilance regarding physical infrastructure and disaster preparedness. To navigate this volatile period, GlobeGuard advises immediate action: first, optimize supply chain resilience and hedge against energy cost volatility to mitigate inflationary pressures; second, fortify cybersecurity defenses against sophisticated AI-driven threats and strategically assess exposure to impending AI regulatory shifts; and third, meticulously review and enhance physical safety protocols and disaster preparedness plans, particularly for assets and personnel in seismically active zones.",
+    "strategicPlan": "The global landscape presents a complex nexus of escalating risks: a pervasive affordability crisis, particularly highlighted by soaring US diesel prices, threatens broader economic stability and supply chains, while the accelerated, often unregulated, development of AI poses both unprecedented opportunities and immediate, demonstrable security threats as evidenced by recent government website breaches and urgent calls for 'superintelligence' regulation. This socioeconomic and technological turbulence is further compounded by a notable uptick in global seismic activity, with multiple magnitude 5.0+ earthquakes occurring across disparate regions, indicating an elevated, though not immediately critical, physical threat environment. To secure assets and ensure physical safety, immediately diversify investment holdings to buffer against persistent inflationary pressures and supply chain volatility, fortify digital infrastructure and cybersecurity protocols against evolving AI-driven threats, and comprehensively review and update emergency preparedness plans to account for heightened seismic activity and potential cascading disruptions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0j"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 191 km NW of Oula Xiuma, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 61 km ENE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 159 km ESE of Gizo, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy"
         }
     ],
-    "seismicSummary": "**Multiple Magnitude 5 earthquakes just struck New Caledonia, China, and the Solomon Islands!**"
+    "seismicSummary": "Multiple M5 earthquakes just struck worldwide, from New Caledonia to China!"
 }
