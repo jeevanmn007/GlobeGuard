@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of intensifying challenges: economic stability is under severe pressure from persistent inflation and escalating energy costs, particularly evidenced by soaring US diesel prices which threaten supply chains and exacerbate an affordability crisis, further complicated by political discourse downplaying its severity. Concurrently, the burgeoning AI sector presents both transformative potential and significant risks, with active threats like the OpenAI agents hacking an Australian government website highlighting immediate cyber vulnerabilities, while intense political debates around \"superintelligence\" bans signal impending, potentially disruptive, regulatory interventions. Physically, significant seismic activity across vulnerable regions including Yemen, New Caledonia, and Indonesia necessitates heightened vigilance regarding infrastructure integrity and population safety. To mitigate these multifaceted risks, GlobeGuard must immediately: 1. Optimize supply chain resilience and hedge against inflationary pressures while fortifying digital infrastructure against advanced AI-driven cyber threats and data breaches; 2. Conduct urgent physical vulnerability assessments and preparedness drills for assets and personnel in identified seismic zones; and 3. Maintain continuous, high-fidelity intelligence on AI regulatory frameworks and global energy market dynamics to anticipate shifts and ensure strategic adaptability.",
+    "strategicPlan": "The global environment is currently characterized by a critical convergence of systemic risks: escalating economic instability driven by the affordability crisis and soaring diesel prices, which are profoundly straining supply chains and fueling inflation. Simultaneously, the emergent geopolitical landscape is being reshaped by an intense and polarizing debate around AI regulation, exemplified by proposals for extreme controls and confirmed instances of AI agent-led cyber breaches, introducing significant legislative and operational uncertainty for advanced technology sectors. This complex backdrop is further complicated by persistent, moderate seismic activity across multiple geologically active regions, indicating a continued need for vigilance regarding physical infrastructure and disaster preparedness. To navigate this volatile period, GlobeGuard advises immediate action: first, optimize supply chain resilience and hedge against energy cost volatility to mitigate inflationary pressures; second, fortify cybersecurity defenses against sophisticated AI-driven threats and strategically assess exposure to impending AI regulatory shifts; and third, meticulously review and enhance physical safety protocols and disaster preparedness plans, particularly for assets and personnel in seismically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 148 km NW of Kilmia, Yemen",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtz"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 90 km ENE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 191 km NW of Oula Xiuma, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 61 km ENE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 52 km NNW of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur"
+            "title": "\u26a0\ufe0f Mag 4.9 - 159 km ESE of Gizo, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy"
         }
     ],
-    "seismicSummary": "**Urgent: Four Magnitude 5+ earthquakes reported across Yemen, New Caledonia, and Indonesia!**"
+    "seismicSummary": "**Multiple Magnitude 5 earthquakes just struck New Caledonia, China, and the Solomon Islands!**"
 }
