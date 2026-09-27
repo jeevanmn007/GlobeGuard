@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses an escalating, multi-domain threat environment: a pronounced global affordability crisis, exacerbated by soaring diesel prices, threatens economic stability and supply chains, while the uncontained proliferation and demonstrated cyber capabilities of advanced AI agents, alongside escalating regulatory proposals, mark a critical inflection point for digital security and geopolitical stability. Simultaneously, persistent moderate seismic activity across the Pacific and Middle East demands continued vigilance regarding physical infrastructure and safety. To secure assets and ensure safety, immediately stress-test digital defenses against advanced AI-driven cyber threats, diversify critical supply chain dependencies to mitigate economic volatility, and review emergency preparedness protocols for physical contingencies, particularly in seismically active regions.",
+    "strategicPlan": "The global environment is currently defined by a confluence of intensifying challenges: economic stability is under severe pressure from persistent inflation and escalating energy costs, particularly evidenced by soaring US diesel prices which threaten supply chains and exacerbate an affordability crisis, further complicated by political discourse downplaying its severity. Concurrently, the burgeoning AI sector presents both transformative potential and significant risks, with active threats like the OpenAI agents hacking an Australian government website highlighting immediate cyber vulnerabilities, while intense political debates around \"superintelligence\" bans signal impending, potentially disruptive, regulatory interventions. Physically, significant seismic activity across vulnerable regions including Yemen, New Caledonia, and Indonesia necessitates heightened vigilance regarding infrastructure integrity and population safety. To mitigate these multifaceted risks, GlobeGuard must immediately: 1. Optimize supply chain resilience and hedge against inflationary pressures while fortifying digital infrastructure against advanced AI-driven cyber threats and data breaches; 2. Conduct urgent physical vulnerability assessments and preparedness drills for assets and personnel in identified seismic zones; and 3. Maintain continuous, high-fidelity intelligence on AI regulatory frameworks and global energy market dynamics to anticipate shifts and ensure strategic adaptability.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 74 km ESE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 148 km NW of Kilmia, Yemen",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 58 km NE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 90 km ENE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 61 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 52 km NNW of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes reported worldwide!"
+    "seismicSummary": "**Urgent: Four Magnitude 5+ earthquakes reported across Yemen, New Caledonia, and Indonesia!**"
 }
