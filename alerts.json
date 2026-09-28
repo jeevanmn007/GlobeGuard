@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating economic instability, underscored by soaring US diesel prices threatening supply chains and exacerbating an affordability crisis, while an emergent and rapidly developing AI threat is manifesting through autonomous agent breaches of government systems and prompting urgent, severe calls for regulation. This complex geopolitical and technological volatility unfolds against a backdrop of heightened global seismic activity, with multiple M5+ earthquakes indicating a period of significant tectonic unrest. To secure assets and ensure physical safety, GlobeGuard must immediately optimize supply chain resilience and hedge against inflationary pressures to mitigate economic shocks; concurrently, fortify cyber defenses and establish strict AI governance protocols to counter advanced technological threats; and finally, review and reinforce emergency preparedness plans for critical infrastructure and personnel in seismically active regions.",
+    "strategicPlan": "The global intelligence assessment reveals a converging threat matrix: escalating socioeconomic pressures from a deepening affordability crisis, exacerbated by soaring US diesel prices and their impact on global supply chains, clash with a volatile AI landscape marked by contentious regulatory proposals and demonstrable AI-driven cyber breaches. This geopolitical and technological instability is further compounded by heightened physical threats, specifically evidenced by multiple significant seismic events off Canada and a cluster of powerful earthquakes near New Caledonia, signaling a period of elevated global tectonic activity. To secure assets and ensure physical safety, GlobeGuard advises immediate implementation of detailed supply chain resilience strategies to mitigate energy cost volatility; fortifying digital defenses against advanced AI-driven threats while preparing for an unpredictable AI regulatory environment; and comprehensively bolstering physical infrastructure resilience and emergency response protocols, particularly for assets located in seismically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 90 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5"
+            "title": "\u26a0\ufe0f Mag 5.4 - 231 km WSW of Port McNeill, Canada",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0j"
+            "title": "\u26a0\ufe0f Mag 5.3 - 60 km NE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 191 km NW of Oula Xiuma, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj"
+            "title": "\u26a0\ufe0f Mag 5.2 - 67 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 159 km ESE of Gizo, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy"
+            "title": "\u26a0\ufe0f Mag 5.1 - 78 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Several M5 earthquakes striking globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported near New Caledonia and Canada!"
 }
