@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a critical confluence of escalating economic pressures, rapidly evolving technological risks, and persistent geophysical instability. Soaring US diesel prices and an unaddressed affordability crisis are deepening global supply chain strains and economic uncertainty, while the demonstrated capacity of AI agents to hack government systems, alongside urgent calls for AI regulation, signals a profound and immediate technological and geopolitical threat. Concurrently, moderate seismic activity across multiple active zones, including two events near Port McNeill, Canada, underscores the ongoing physical vulnerabilities. To secure assets and ensure physical safety, GlobeGuard must immediately: diversify critical supply chains and investment portfolios to mitigate inflationary impacts and tech sector volatility; strengthen digital infrastructure against advanced AI-driven exploitation, establishing clear AI governance policies ahead of impending regulations; and review and update emergency preparedness for personnel and assets in seismically active regions, ensuring redundant systems for physical safety and operational continuity.",
+    "strategicPlan": "The global intelligence outlook reveals a volatile convergence of technological, economic, and physical risks. Geopolitically, the accelerating debate around AI regulation, exemplified by proposed bans on \"superintelligence\" and documented AI agent-led cyber incursions into government systems, highlights a rapidly evolving threat landscape for data integrity and national security. Financially, the market shows underlying fragility with major tech stocks declining, while surging US diesel prices past $6 a gallon exacerbate an affordability crisis and signal persistent inflationary pressures that threaten supply chain stability. Concurrently, a cluster of significant seismic activity across Svalbard, Canada's Pacific coast, and New Caledonia indicates widespread tectonic stress requiring vigilant monitoring.\n\nTo navigate this complex environment, secure your assets and ensure physical safety by implementing the following directives: **first**, immediately fortify digital infrastructure against advanced AI-driven cyber threats and scrutinize supply chain resilience for critical operational inputs; **second**, proactively stress-test financial portfolios against sustained inflation and market volatility, diversifying investments to mitigate economic exposure; and **third**, urgently review and update all emergency preparedness protocols, especially for seismic events, to protect personnel and ensure operational continuity.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $230.37 (2.35%)",
+            "title": "\ud83d\udcb0 NVDA: $228.86 (1.68%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $340.16 (-0.27%)",
+            "title": "\ud83d\udcb0 AAPL: $338.4 (-0.78%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $512.23 (-0.76%)",
+            "title": "\ud83d\udcb0 MSFT: $509.22 (-1.35%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $189.75 (0.04%)",
+            "title": "\ud83d\udcb0 PLTR: $187.48 (-1.15%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $247.1 (-1.03%)",
+            "title": "\ud83d\udcb0 AMZN: $246.15 (-1.41%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5+ earthquakes detected worldwide, including Canada, New Caledonia, and north of Svalbard!"
+    "seismicSummary": "**Urgent: Multiple significant (Mag 5+) earthquakes reported globally, with two near Canada!**"
 }
