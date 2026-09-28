@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex nexus of escalating risks: a pervasive affordability crisis, particularly highlighted by soaring US diesel prices, threatens broader economic stability and supply chains, while the accelerated, often unregulated, development of AI poses both unprecedented opportunities and immediate, demonstrable security threats as evidenced by recent government website breaches and urgent calls for 'superintelligence' regulation. This socioeconomic and technological turbulence is further compounded by a notable uptick in global seismic activity, with multiple magnitude 5.0+ earthquakes occurring across disparate regions, indicating an elevated, though not immediately critical, physical threat environment. To secure assets and ensure physical safety, immediately diversify investment holdings to buffer against persistent inflationary pressures and supply chain volatility, fortify digital infrastructure and cybersecurity protocols against evolving AI-driven threats, and comprehensively review and update emergency preparedness plans to account for heightened seismic activity and potential cascading disruptions.",
+    "strategicPlan": "The global environment is marked by escalating economic instability, underscored by soaring US diesel prices threatening supply chains and exacerbating an affordability crisis, while an emergent and rapidly developing AI threat is manifesting through autonomous agent breaches of government systems and prompting urgent, severe calls for regulation. This complex geopolitical and technological volatility unfolds against a backdrop of heightened global seismic activity, with multiple M5+ earthquakes indicating a period of significant tectonic unrest. To secure assets and ensure physical safety, GlobeGuard must immediately optimize supply chain resilience and hedge against inflationary pressures to mitigate economic shocks; concurrently, fortify cyber defenses and establish strict AI governance protocols to counter advanced technological threats; and finally, review and reinforce emergency preparedness plans for critical infrastructure and personnel in seismically active regions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 61 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu"
+            "title": "\u26a0\ufe0f Mag 4.9 - 159 km ESE of Gizo, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just struck worldwide, from New Caledonia to China!"
+    "seismicSummary": "\ud83d\udea8 Several M5 earthquakes striking globally!"
 }
