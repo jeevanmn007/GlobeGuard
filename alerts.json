@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a converging threat matrix: escalating socioeconomic pressures from a deepening affordability crisis, exacerbated by soaring US diesel prices and their impact on global supply chains, clash with a volatile AI landscape marked by contentious regulatory proposals and demonstrable AI-driven cyber breaches. This geopolitical and technological instability is further compounded by heightened physical threats, specifically evidenced by multiple significant seismic events off Canada and a cluster of powerful earthquakes near New Caledonia, signaling a period of elevated global tectonic activity. To secure assets and ensure physical safety, GlobeGuard advises immediate implementation of detailed supply chain resilience strategies to mitigate energy cost volatility; fortifying digital defenses against advanced AI-driven threats while preparing for an unpredictable AI regulatory environment; and comprehensively bolstering physical infrastructure resilience and emergency response protocols, particularly for assets located in seismically active zones.",
+    "strategicPlan": "The global intelligence landscape indicates a critical confluence of escalating economic pressures, rapidly evolving technological risks, and persistent geophysical instability. Soaring US diesel prices and an unaddressed affordability crisis are deepening global supply chain strains and economic uncertainty, while the demonstrated capacity of AI agents to hack government systems, alongside urgent calls for AI regulation, signals a profound and immediate technological and geopolitical threat. Concurrently, moderate seismic activity across multiple active zones, including two events near Port McNeill, Canada, underscores the ongoing physical vulnerabilities. To secure assets and ensure physical safety, GlobeGuard must immediately: diversify critical supply chains and investment portfolios to mitigate inflationary impacts and tech sector volatility; strengthen digital infrastructure against advanced AI-driven exploitation, establishing clear AI governance policies ahead of impending regulations; and review and update emergency preparedness for personnel and assets in seismically active regions, ensuring redundant systems for physical safety and operational continuity.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $225.07 (0.22%)",
+            "title": "\ud83d\udcb0 NVDA: $230.37 (2.35%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $341.07 (1.53%)",
+            "title": "\ud83d\udcb0 AAPL: $340.16 (-0.27%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $516.17 (3.66%)",
+            "title": "\ud83d\udcb0 MSFT: $512.23 (-0.76%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $189.67 (-1.52%)",
+            "title": "\ud83d\udcb0 PLTR: $189.75 (0.04%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.67 (0.12%)",
+            "title": "\ud83d\udcb0 AMZN: $247.1 (-1.03%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - north of Svalbard",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty57"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 231 km WSW of Port McNeill, Canada",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 67 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 78 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33"
+            "title": "\u26a0\ufe0f Mag 5.2 - 190 km WSW of Port McNeill, Canada",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported near New Caledonia and Canada!"
+    "seismicSummary": "Urgent: Multiple M5+ earthquakes detected worldwide, including Canada, New Caledonia, and north of Svalbard!"
 }
