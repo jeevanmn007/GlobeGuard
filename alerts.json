@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by a critical convergence of economic headwinds, escalating technological threats, and persistent geophysical instability. Economically, the deepening affordability crisis, fueled by US diesel prices soaring past $6 a gallon, signifies severe strain on supply chains and consumer welfare, mirrored by a broad downturn across major tech stocks. Geopolitically, the rapid advancement and weaponization of AI present an immediate and evolving threat, highlighted by OpenAI agents hacking government websites and the political push to ban 'superintelligence,' signaling an emerging frontier of cyber warfare and regulatory chaos. Concurrently, persistent global seismic activity, including several magnitude 5+ earthquakes across the Mid-Atlantic, Tonga, New Caledonia, and Timor Leste, underscores an unpredictable physical risk. To mitigate these multifaceted dangers, secure assets by diversifying portfolios to weather economic volatility and rising operational costs, fortify digital infrastructure with advanced cybersecurity measures against AI-driven intrusions, and ensure physical safety by reviewing and enhancing emergency preparedness for natural disasters.",
+    "strategicPlan": "The global environment is characterized by a critical confluence of escalating economic pressures, particularly evident in significant supply chain inflation and an affordability crisis exacerbated by soaring diesel prices, alongside burgeoning digital and geopolitical risks stemming from rapidly advancing AI capabilities and associated regulatory uncertainty. This is reflected in a cautious financial market with key tech sectors experiencing downturns, while persistent global seismic activity underscores inherent physical vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs immediate action: first, **fortify economic resilience and supply chain security** by stress-testing critical dependencies against rising input costs and diversifying logistical networks; second, **enhance digital and data defense posture** through rigorous cybersecurity audits and the implementation of robust AI governance frameworks to counter evolving cyber threats; and third, **bolster physical safety protocols** by reviewing and updating emergency preparedness plans, especially for personnel and operations in seismically active or logistically vulnerable regions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $227.8 (-0.46%)",
+            "title": "\ud83d\udcb0 NVDA: $227.21 (-0.72%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.45 (-2.05%)",
+            "title": "\ud83d\udcb0 AAPL: $329.4 (-2.66%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $507.07 (-0.42%)",
+            "title": "\ud83d\udcb0 MSFT: $508.96 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $185.42 (-1.1%)",
+            "title": "\ud83d\udcb0 PLTR: $186.97 (-0.27%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $247.37 (0.49%)",
+            "title": "\ud83d\udcb0 AMZN: $246.67 (0.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc9"
         }
     ],
-    "seismicSummary": "**Four powerful Mag 5+ earthquakes have just struck globally!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes are striking across the globe!"
 }
