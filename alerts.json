@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by escalating economic instability, driven by a persistent affordability crisis exacerbated by soaring energy costs and a downturn in key tech sectors, creating significant societal and market pressures. Concurrently, the rapidly advancing and immediately weaponizable nature of Artificial Intelligence, evidenced by government website breaches and urgent calls for regulation, presents a complex and evolving national security and digital infrastructure threat. This intricate tapestry of geopolitical and financial pressures is further underscored by a discernible uptick in significant global seismic activity across diverse regions. In response, GlobeGuard directs all stakeholders to immediately bolster financial resilience through strategic asset diversification, fortify critical digital infrastructure against sophisticated AI-driven cyber threats with enhanced protocols, and ensure comprehensive emergency preparedness plans are current and accessible, accounting for both supply chain vulnerabilities and potential physical hazards.",
+    "strategicPlan": "The global landscape is demonstrating acute instability, characterized by persistent economic headwinds including an escalating affordability crisis exacerbated by soaring energy costs, with major tech stocks showing downward trends despite an outlier in NVIDIA. Simultaneously, the rapid and largely unregulated advancement of AI presents a novel, profound threat, evidenced by confirmed malicious AI-driven activity against sovereign infrastructure and urgent legislative calls for restrictive oversight. This complex geopolitical and technological volatility is underscored by a notable increase in mid-magnitude seismic activity across critical regions, from Svalbard to the Pacific Rim. To navigate this converging risk environment, GlobeGuard directs immediate attention to bolstering economic resilience through diversified asset management and supply chain stress-testing; fortifying digital infrastructure against sophisticated, AI-driven cyber threats and data exfiltration attempts; and reviewing physical safety protocols and disaster preparedness plans for all assets and personnel, particularly within seismically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 190 km WSW of Port McNeill, Canada",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43"
+            "title": "\u26a0\ufe0f Mag 5 - 77 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 67 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38"
+            "title": "\u26a0\ufe0f Mag 4.9 - 2 km SW of Sakai, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty7u"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported globally!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just hit worldwide!"
 }
