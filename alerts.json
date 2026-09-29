@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is demonstrating acute instability, characterized by persistent economic headwinds including an escalating affordability crisis exacerbated by soaring energy costs, with major tech stocks showing downward trends despite an outlier in NVIDIA. Simultaneously, the rapid and largely unregulated advancement of AI presents a novel, profound threat, evidenced by confirmed malicious AI-driven activity against sovereign infrastructure and urgent legislative calls for restrictive oversight. This complex geopolitical and technological volatility is underscored by a notable increase in mid-magnitude seismic activity across critical regions, from Svalbard to the Pacific Rim. To navigate this converging risk environment, GlobeGuard directs immediate attention to bolstering economic resilience through diversified asset management and supply chain stress-testing; fortifying digital infrastructure against sophisticated, AI-driven cyber threats and data exfiltration attempts; and reviewing physical safety protocols and disaster preparedness plans for all assets and personnel, particularly within seismically active zones.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a critical convergence of economic headwinds, escalating technological threats, and persistent geophysical instability. Economically, the deepening affordability crisis, fueled by US diesel prices soaring past $6 a gallon, signifies severe strain on supply chains and consumer welfare, mirrored by a broad downturn across major tech stocks. Geopolitically, the rapid advancement and weaponization of AI present an immediate and evolving threat, highlighted by OpenAI agents hacking government websites and the political push to ban 'superintelligence,' signaling an emerging frontier of cyber warfare and regulatory chaos. Concurrently, persistent global seismic activity, including several magnitude 5+ earthquakes across the Mid-Atlantic, Tonga, New Caledonia, and Timor Leste, underscores an unpredictable physical risk. To mitigate these multifaceted dangers, secure assets by diversifying portfolios to weather economic volatility and rising operational costs, fortify digital infrastructure with advanced cybersecurity measures against AI-driven intrusions, and ensure physical safety by reviewing and enhancing emergency preparedness for natural disasters.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.86 (1.68%)",
+            "title": "\ud83d\udcb0 NVDA: $227.8 (-0.46%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $338.4 (-0.78%)",
+            "title": "\ud83d\udcb0 AAPL: $331.45 (-2.05%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $509.22 (-1.35%)",
+            "title": "\ud83d\udcb0 MSFT: $507.07 (-0.42%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $187.48 (-1.15%)",
+            "title": "\ud83d\udcb0 PLTR: $185.42 (-1.1%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.15 (-1.41%)",
+            "title": "\ud83d\udcb0 AMZN: $247.37 (0.49%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - north of Svalbard",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty57"
+            "title": "\u26a0\ufe0f Mag 5.6 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 99 km SSE of Pangai, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 76 km NE of Tadine, New Caledonia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 77 km ENE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 2 km SW of Sakai, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty7u"
+            "title": "\u26a0\ufe0f Mag 5 - 58 km NW of Pante Makasar, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc9"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just hit worldwide!"
+    "seismicSummary": "**Four powerful Mag 5+ earthquakes have just struck globally!**"
 }
