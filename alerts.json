@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence outlook reveals a volatile convergence of technological, economic, and physical risks. Geopolitically, the accelerating debate around AI regulation, exemplified by proposed bans on \"superintelligence\" and documented AI agent-led cyber incursions into government systems, highlights a rapidly evolving threat landscape for data integrity and national security. Financially, the market shows underlying fragility with major tech stocks declining, while surging US diesel prices past $6 a gallon exacerbate an affordability crisis and signal persistent inflationary pressures that threaten supply chain stability. Concurrently, a cluster of significant seismic activity across Svalbard, Canada's Pacific coast, and New Caledonia indicates widespread tectonic stress requiring vigilant monitoring.\n\nTo navigate this complex environment, secure your assets and ensure physical safety by implementing the following directives: **first**, immediately fortify digital infrastructure against advanced AI-driven cyber threats and scrutinize supply chain resilience for critical operational inputs; **second**, proactively stress-test financial portfolios against sustained inflation and market volatility, diversifying investments to mitigate economic exposure; and **third**, urgently review and update all emergency preparedness protocols, especially for seismic events, to protect personnel and ensure operational continuity.",
+    "strategicPlan": "The global landscape is characterized by escalating economic instability, driven by a persistent affordability crisis exacerbated by soaring energy costs and a downturn in key tech sectors, creating significant societal and market pressures. Concurrently, the rapidly advancing and immediately weaponizable nature of Artificial Intelligence, evidenced by government website breaches and urgent calls for regulation, presents a complex and evolving national security and digital infrastructure threat. This intricate tapestry of geopolitical and financial pressures is further underscored by a discernible uptick in significant global seismic activity across diverse regions. In response, GlobeGuard directs all stakeholders to immediately bolster financial resilience through strategic asset diversification, fortify critical digital infrastructure against sophisticated AI-driven cyber threats with enhanced protocols, and ensure comprehensive emergency preparedness plans are current and accessible, accounting for both supply chain vulnerabilities and potential physical hazards.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty57"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 231 km WSW of Port McNeill, Canada",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 60 km NE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b"
+            "title": "\u26a0\ufe0f Mag 5.3 - 76 km NE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 190 km WSW of Port McNeill, Canada",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 67 km ENE of Tadine, New Caledonia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty38"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple significant (Mag 5+) earthquakes reported globally, with two near Canada!**"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes reported globally!"
 }
