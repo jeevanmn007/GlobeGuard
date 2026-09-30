@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is currently characterized by a critical nexus of escalating economic strain, profound technological disruption, and persistent geological instability. Soaring energy costs, notably US diesel prices surpassing $6 a gallon, are significantly deepening the affordability crisis and stressing supply chains, while the tech sector shows marked financial vulnerability with key stocks experiencing notable downturns. Concurrently, the rapid, largely unregulated advancement of AI presents severe emergent security risks, evidenced by AI agent-driven government website hacks and growing legislative efforts to ban 'superintelligence.' Underlying these challenges is a sustained pattern of moderate seismic activity across multiple active zones, demanding continued vigilance. To secure assets and ensure physical safety in this complex landscape, we must immediately: 1) Rigorously re-evaluate and fortify supply chain resilience against inflationary and energy cost surges, while strategically diversifying investment portfolios to mitigate tech sector volatility; 2) Upgrade cyber defense protocols to counter sophisticated AI-driven threats, establishing clear ethical guidelines for internal AI adoption and actively monitoring regulatory shifts; and 3) Review and enhance emergency preparedness and physical infrastructure resilience plans, accounting for potential localized disruptions and ongoing geological risks.",
+    "strategicPlan": "The global environment currently reflects a critical confluence of escalating risks: economic stability is under severe strain from a deepening affordability crisis exacerbated by soaring diesel prices and a retreating tech market; the geopolitical landscape is rapidly shifting with urgent debates and demonstrated misuse of advanced AI, signifying new forms of cyber and systemic risk; and the physical domain shows heightened seismic activity across multiple critical regions. To navigate this complex threat matrix, GlobeGuard directs immediate action to secure liquid assets and diversify holdings against economic volatility and supply chain disruptions; proactively fortify digital defenses and implement robust AI governance protocols to counter emergent cyber and advanced AI threats; and ensure comprehensive physical safety and disaster preparedness plans are updated and actionable, particularly for seismic events and their potential cascading impacts.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 74 km S of Yonakuni, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.6 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 99 km SSE of Pangai, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 76 km NE of Tadine, New Caledonia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 58 km NW of Pante Makasar, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc9"
         }
     ],
-    "seismicSummary": "**ALERT:** Four Magnitude 5+ earthquakes detected worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple significant M5 earthquakes striking worldwide!"
 }
