@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a bifurcated economic picture with persistent inflationary pressures, notably soaring US diesel prices deepening the affordability crisis, while major tech stocks demonstrate resilience. Concurrently, the rapid advancement of AI introduces significant geopolitical and cybersecurity risks, underscored by governmental data breaches and urgent regulatory debates, coinciding with ongoing moderate seismic activity along the Pacific Rim, particularly near Japan and Papua New Guinea. To secure your assets and physical safety, we advise: 1) Proactively review and diversify financial portfolios to hedge against persistent inflation and supply chain vulnerabilities, while capitalizing on resilient tech sector performance; 2) Immediately strengthen digital infrastructure and cyber defenses to mitigate sophisticated AI-driven threats, concurrently monitoring legislative movements around AI regulation for strategic compliance; and 3) Re-evaluate and update emergency preparedness protocols for all critical assets and personnel, with particular emphasis on regions prone to seismic activity, ensuring robust communication and evacuation strategies are in place.",
+    "strategicPlan": "The global strategic environment is exhibiting heightened volatility, marked by a pervasive affordability crisis driven by soaring energy costs and strained supply chains, directly impacting economic stability and public welfare. Simultaneously, the rapid, unchecked advancement and demonstrated misuse of AI, exemplified by state-level hacking incidents and urgent calls for draconian regulation, presents a critical and immediate threat to national security and digital infrastructure. This complex geopolitical and economic instability is compounded by persistent, notable seismic activity across geologically sensitive regions, necessitating continuous vigilance. To navigate this challenging period, secure your financial liquidity and diversify core assets against ongoing inflationary pressures, immediately strengthen all digital and physical security protocols given the escalating AI-driven cyber threats, and meticulously update all emergency preparedness plans, including communication strategies and supply caches, for potential natural disasters.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $230.64 (1.51%)",
+            "title": "\ud83d\udcb0 NVDA: $228.38 (0.51%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $337.62 (2.5%)",
+            "title": "\ud83d\udcb0 AAPL: $333.02 (1.1%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $518.33 (1.84%)",
+            "title": "\ud83d\udcb0 MSFT: $512.9 (0.77%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $190.26 (1.76%)",
+            "title": "\ud83d\udcb0 PLTR: $187.05 (0.04%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.09 (1.79%)",
+            "title": "\ud83d\udcb0 AMZN: $249.15 (1.01%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit"
         }
     ],
-    "seismicSummary": "**Significant earthquake activity: Four M5+ quakes reported across diverse regions!**"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just struck near Japan, Papua New Guinea, and the Balleny Islands!"
 }
