@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment currently reflects a critical confluence of escalating risks: economic stability is under severe strain from a deepening affordability crisis exacerbated by soaring diesel prices and a retreating tech market; the geopolitical landscape is rapidly shifting with urgent debates and demonstrated misuse of advanced AI, signifying new forms of cyber and systemic risk; and the physical domain shows heightened seismic activity across multiple critical regions. To navigate this complex threat matrix, GlobeGuard directs immediate action to secure liquid assets and diversify holdings against economic volatility and supply chain disruptions; proactively fortify digital defenses and implement robust AI governance protocols to counter emergent cyber and advanced AI threats; and ensure comprehensive physical safety and disaster preparedness plans are updated and actionable, particularly for seismic events and their potential cascading impacts.",
+    "strategicPlan": "The global landscape presents a bifurcated economic picture with persistent inflationary pressures, notably soaring US diesel prices deepening the affordability crisis, while major tech stocks demonstrate resilience. Concurrently, the rapid advancement of AI introduces significant geopolitical and cybersecurity risks, underscored by governmental data breaches and urgent regulatory debates, coinciding with ongoing moderate seismic activity along the Pacific Rim, particularly near Japan and Papua New Guinea. To secure your assets and physical safety, we advise: 1) Proactively review and diversify financial portfolios to hedge against persistent inflation and supply chain vulnerabilities, while capitalizing on resilient tech sector performance; 2) Immediately strengthen digital infrastructure and cyber defenses to mitigate sophisticated AI-driven threats, concurrently monitoring legislative movements around AI regulation for strategic compliance; and 3) Re-evaluate and update emergency preparedness protocols for all critical assets and personnel, with particular emphasis on regions prone to seismic activity, ensuring robust communication and evacuation strategies are in place.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $227.21 (-0.72%)",
+            "title": "\ud83d\udcb0 NVDA: $230.64 (1.51%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $329.4 (-2.66%)",
+            "title": "\ud83d\udcb0 AAPL: $337.62 (2.5%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $508.96 (-0.05%)",
+            "title": "\ud83d\udcb0 MSFT: $518.33 (1.84%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $186.97 (-0.27%)",
+            "title": "\ud83d\udcb0 PLTR: $190.26 (1.76%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.67 (0.21%)",
+            "title": "\ud83d\udcb0 AMZN: $251.09 (1.79%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - Balleny Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 99 km SSE of Pangai, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1"
+            "title": "\u26a0\ufe0f Mag 5.2 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 121 km S of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple significant M5 earthquakes striking worldwide!"
+    "seismicSummary": "**Significant earthquake activity: Four M5+ quakes reported across diverse regions!**"
 }
