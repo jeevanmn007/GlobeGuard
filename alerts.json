@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is exhibiting heightened volatility, marked by a pervasive affordability crisis driven by soaring energy costs and strained supply chains, directly impacting economic stability and public welfare. Simultaneously, the rapid, unchecked advancement and demonstrated misuse of AI, exemplified by state-level hacking incidents and urgent calls for draconian regulation, presents a critical and immediate threat to national security and digital infrastructure. This complex geopolitical and economic instability is compounded by persistent, notable seismic activity across geologically sensitive regions, necessitating continuous vigilance. To navigate this challenging period, secure your financial liquidity and diversify core assets against ongoing inflationary pressures, immediately strengthen all digital and physical security protocols given the escalating AI-driven cyber threats, and meticulously update all emergency preparedness plans, including communication strategies and supply caches, for potential natural disasters.",
+    "strategicPlan": "The global environment is critically poised, characterized by a deepening financial affordability crisis driven by soaring diesel prices and pervasive supply chain strain, while political leadership remains starkly divided on core economic realities. Simultaneously, the rapid, largely unregulated advancement of Artificial Intelligence presents significant and immediate cyber risks, as demonstrated by government system breaches, alongside profound political polarization on its governance and very definition. This complex geopolitical and technological volatility is further compounded by a notable increase in global seismic activity, signaling elevated physical threats across multiple regions. To secure assets and ensure physical safety, GlobeGuard must immediately: 1. Optimize and diversify supply chains to mitigate the impact of rising operational costs and potential disruptions, while adjusting financial forecasts for persistent inflation. 2. Fortify all digital infrastructure against sophisticated AI-driven cyber threats, instituting rigorous data protection protocols and monitoring for novel attack vectors. 3. Initiate a swift review of emergency preparedness and asset security protocols for personnel and critical infrastructure located in seismically active zones, ensuring readiness for potential physical instability.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -43,6 +43,10 @@
     ],
     "trend": [
         {
+            "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
+            "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+        },
+        {
             "title": "Bernie Sanders proposes banning \u2018superintelligence\u2019 and putting violators in prison",
             "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
         },
@@ -53,20 +57,16 @@
         {
             "title": "Bernie Sanders Shows There\u2019s a Big Problem With Trump Renaming AI to \u2018Super Intelligence\u2019",
             "link": "https://gizmodo.com/bernie-sanders-shows-theres-a-big-problem-with-trump-renaming-ai-to-super-intelligence-2000816222"
-        },
-        {
-            "title": "Could AI pose a threat to humanity, and can it be regulated?",
-            "link": "https://www.bbc.co.uk/news/videos/ckgjqnz6pd2do"
         }
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 74 km S of Yonakuni, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk"
+            "title": "\u26a0\ufe0f Mag 5.6 - 94 km SW of Tamarindo, Costa Rica",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi"
+            "title": "\u26a0\ufe0f Mag 5.2 - 7 km ESE of Baghl\u0101n, Afghanistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - Balleny Islands region",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck near Japan, Papua New Guinea, and the Balleny Islands!"
+    "seismicSummary": "Multiple Mag 5+ earthquakes just struck diverse locations globally!"
 }
