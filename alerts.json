@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a critical confluence of escalating risks: a deepening affordability crisis exacerbated by soaring energy costs and political discord, the immediate and future ramifications of an unregulated AI landscape evidenced by active cyber intrusions, and significant, persistent tectonic activity across multiple vulnerable regions. To secure assets and ensure safety, we must act decisively: prioritize immediate diversification of financial portfolios and critical supply chains to buffer against economic volatility and inflationary pressures. Simultaneously, fortify all digital infrastructure with advanced cybersecurity measures against the demonstrated threat of AI-driven exploits. Finally, meticulously review and upgrade all emergency preparedness plans, ensuring robust protocols for physical safety and operational continuity, especially in areas prone to seismic events.",
+    "strategicPlan": "The global strategic landscape is characterized by a converging array of escalating threats: an intensifying economic affordability crisis, particularly in the US, driven by soaring diesel prices which signals persistent inflationary pressures and supply chain vulnerabilities; a rapidly evolving geopolitical and cybersecurity threat vector presented by advanced AI, evidenced by government hacks and a contentious regulatory debate; and an underlying physical instability highlighted by a cluster of multiple magnitude 5+ seismic events across disparate global regions. To secure your assets and physical safety amidst this complex environment, immediately implement the following: 1) Diversify financial portfolios and de-risk supply chains to mitigate the impact of sustained inflation and commodity price volatility. 2) Fortify digital security infrastructure and protocols against sophisticated AI-driven intrusion attempts, ensuring critical data protection and robust backup systems. 3) Review and update all personal and organizational emergency preparedness plans for natural disasters, with specific emphasis on earthquake readiness for personnel and assets located in seismically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $229.93 (0.68%)",
+            "title": "\ud83d\udcb0 NVDA: $230.86 (1.09%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $328.69 (-1.3%)",
+            "title": "\ud83d\udcb0 AAPL: $330.32 (-0.81%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $514.06 (0.23%)",
+            "title": "\ud83d\udcb0 MSFT: $512.8 (-0.02%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $188.53 (0.79%)",
+            "title": "\ud83d\udcb0 PLTR: $190.04 (1.6%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.99 (-0.87%)",
+            "title": "\ud83d\udcb0 AMZN: $248.23 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 176 km NNE of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyua"
+            "title": "\u26a0\ufe0f Mag 5.1 - 176 km SE of Lata, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyx0"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5+ earthquakes are striking globally!**"
+    "seismicSummary": "Multiple Mag 5+ earthquakes are striking across the globe!"
 }
