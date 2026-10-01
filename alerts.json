@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically poised, characterized by a deepening financial affordability crisis driven by soaring diesel prices and pervasive supply chain strain, while political leadership remains starkly divided on core economic realities. Simultaneously, the rapid, largely unregulated advancement of Artificial Intelligence presents significant and immediate cyber risks, as demonstrated by government system breaches, alongside profound political polarization on its governance and very definition. This complex geopolitical and technological volatility is further compounded by a notable increase in global seismic activity, signaling elevated physical threats across multiple regions. To secure assets and ensure physical safety, GlobeGuard must immediately: 1. Optimize and diversify supply chains to mitigate the impact of rising operational costs and potential disruptions, while adjusting financial forecasts for persistent inflation. 2. Fortify all digital infrastructure against sophisticated AI-driven cyber threats, instituting rigorous data protection protocols and monitoring for novel attack vectors. 3. Initiate a swift review of emergency preparedness and asset security protocols for personnel and critical infrastructure located in seismically active zones, ensuring readiness for potential physical instability.",
+    "strategicPlan": "The global environment is currently defined by a critical confluence of escalating risks: a deepening affordability crisis exacerbated by soaring energy costs and political discord, the immediate and future ramifications of an unregulated AI landscape evidenced by active cyber intrusions, and significant, persistent tectonic activity across multiple vulnerable regions. To secure assets and ensure safety, we must act decisively: prioritize immediate diversification of financial portfolios and critical supply chains to buffer against economic volatility and inflationary pressures. Simultaneously, fortify all digital infrastructure with advanced cybersecurity measures against the demonstrated threat of AI-driven exploits. Finally, meticulously review and upgrade all emergency preparedness plans, ensuring robust protocols for physical safety and operational continuity, especially in areas prone to seismic events.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.38 (0.51%)",
+            "title": "\ud83d\udcb0 NVDA: $229.93 (0.68%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.02 (1.1%)",
+            "title": "\ud83d\udcb0 AAPL: $328.69 (-1.3%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $512.9 (0.77%)",
+            "title": "\ud83d\udcb0 MSFT: $514.06 (0.23%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $187.05 (0.04%)",
+            "title": "\ud83d\udcb0 PLTR: $188.53 (0.79%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.15 (1.01%)",
+            "title": "\ud83d\udcb0 AMZN: $246.99 (-0.87%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 0 km NNE of Y\u014dkaichiba, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 7 km ESE of Baghl\u0101n, Afghanistan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 121 km S of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit"
+            "title": "\u26a0\ufe0f Mag 5 - 176 km NNE of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyua"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes just struck diverse locations globally!"
+    "seismicSummary": "**Multiple Mag 5+ earthquakes are striking globally!**"
 }
