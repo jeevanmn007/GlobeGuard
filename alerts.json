@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating economic strain, digital frontier volatility, and persistent geophysical unrest. Geopolitically, the contentious debate around \"superintelligence\" and the demonstrated capacity of AI agents to infiltrate government systems signal an urgent need for robust cybersecurity and proactive engagement with emerging AI governance frameworks. Economically, the deepening affordability crisis, evidenced by surging US diesel prices driving inflationary pressures across supply chains, demands immediate strategies for financial resilience. Concurrently, sustained moderate seismic activity across the Pacific Ring of Fire necessitates heightened vigilance for geophysical instability. To secure assets and ensure physical safety, GlobeGuard advises 1) immediate review and diversification of critical supply chain logistics to mitigate escalating energy costs; 2) fortification of digital infrastructure and close monitoring of AI governance developments to counter emerging cyber threats; and 3) updating and rehearsing emergency preparedness protocols, particularly for personnel and assets located in tectonically active zones.",
+    "strategicPlan": "The global strategic environment is reaching a critical inflection point, marked by the rapid emergence of unsupervised AI as a geopolitical flashpoint with proven hacking capabilities, an intensifying global affordability crisis driven by soaring diesel prices, and heightened seismic activity in critical regions. This volatile convergence demands immediate, decisive action. Therefore, we direct the immediate prioritization of comprehensive digital infrastructure audits to preempt AI-agent vulnerabilities, the urgent diversification and localization of critical supply chains to cushion against escalating logistics costs and economic instability, and the reinforcement of emergency preparedness protocols for all physical assets and personnel situated in seismically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $234.56 (1.6%)",
+            "title": "\ud83d\udcb0 NVDA: $233.95 (1.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.45 (0.95%)",
+            "title": "\ud83d\udcb0 AAPL: $333.69 (1.02%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $514.79 (0.39%)",
+            "title": "\ud83d\udcb0 MSFT: $517.53 (0.92%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $189.23 (-0.43%)",
+            "title": "\ud83d\udcb0 PLTR: $188.75 (-0.68%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $250.54 (0.93%)",
+            "title": "\ud83d\udcb0 AMZN: $251.52 (1.33%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.1 - 199 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8c"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 159 km SE of Gizo, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 176 km SE of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyx0"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 171 km SE of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tywu"
+            "title": "\u26a0\ufe0f Mag 5 - 171 km SE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8l"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.8, just struck Russia and the Solomon Islands!"
+    "seismicSummary": "**URGENT: Multiple 5+ magnitude quakes, including a 5.8, just struck near Vilyuchinsk, Russia!**"
 }
