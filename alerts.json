@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "**STRATEGIC DIRECTIVE**\n\nThe global environment presents a complex risk profile characterized by deepening economic strain, as evidenced by the affordability crisis and soaring diesel prices threatening supply chains, even amidst sustained growth in the tech sector. This economic fragility is overlaid with a rapidly advancing and politically contentious AI landscape, wherein AI agents have already demonstrated offensive cyber capabilities against governmental infrastructure. Concurrently, a persistent physical threat is underscored by significant seismic activity in the Pacific Ring of Fire. To navigate this convergence of risks, immediately prioritize hardening your operational resilience against economic shocks, reinforce digital defenses against sophisticated AI-driven cyber threats, and ensure all critical assets and personnel in seismically active regions are covered by updated disaster preparedness protocols.",
+    "strategicPlan": "The global environment is marked by escalating economic strain, digital frontier volatility, and persistent geophysical unrest. Geopolitically, the contentious debate around \"superintelligence\" and the demonstrated capacity of AI agents to infiltrate government systems signal an urgent need for robust cybersecurity and proactive engagement with emerging AI governance frameworks. Economically, the deepening affordability crisis, evidenced by surging US diesel prices driving inflationary pressures across supply chains, demands immediate strategies for financial resilience. Concurrently, sustained moderate seismic activity across the Pacific Ring of Fire necessitates heightened vigilance for geophysical instability. To secure assets and ensure physical safety, GlobeGuard advises 1) immediate review and diversification of critical supply chain logistics to mitigate escalating energy costs; 2) fortification of digital infrastructure and close monitoring of AI governance developments to counter emerging cyber threats; and 3) updating and rehearsing emergency preparedness protocols, particularly for personnel and assets located in tectonically active zones.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $237.07 (2.69%)",
+            "title": "\ud83d\udcb0 NVDA: $234.56 (1.6%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.95 (0.49%)",
+            "title": "\ud83d\udcb0 AAPL: $333.45 (0.95%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $516.83 (0.79%)",
+            "title": "\ud83d\udcb0 MSFT: $514.79 (0.39%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $192.42 (1.25%)",
+            "title": "\ud83d\udcb0 PLTR: $189.23 (-0.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $252.25 (1.62%)",
+            "title": "\ud83d\udcb0 AMZN: $250.54 (0.93%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 165 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 159 km SE of Gizo, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 171 km SE of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tywu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 108 km ENE of Miyako, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyw6"
         }
     ],
-    "seismicSummary": "Four Mag 5.1 quakes just hit: three near the Solomon Islands, one near Japan!"
+    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.8, just struck Russia and the Solomon Islands!"
 }
