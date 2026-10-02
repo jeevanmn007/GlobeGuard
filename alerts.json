@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is characterized by a converging array of escalating threats: an intensifying economic affordability crisis, particularly in the US, driven by soaring diesel prices which signals persistent inflationary pressures and supply chain vulnerabilities; a rapidly evolving geopolitical and cybersecurity threat vector presented by advanced AI, evidenced by government hacks and a contentious regulatory debate; and an underlying physical instability highlighted by a cluster of multiple magnitude 5+ seismic events across disparate global regions. To secure your assets and physical safety amidst this complex environment, immediately implement the following: 1) Diversify financial portfolios and de-risk supply chains to mitigate the impact of sustained inflation and commodity price volatility. 2) Fortify digital security infrastructure and protocols against sophisticated AI-driven intrusion attempts, ensuring critical data protection and robust backup systems. 3) Review and update all personal and organizational emergency preparedness plans for natural disasters, with specific emphasis on earthquake readiness for personnel and assets located in seismically active zones.",
+    "strategicPlan": "GlobeGuard assesses the global landscape as increasingly volatile, marked by a confluence of critical geopolitical, financial, and physical threats. Economically, the escalating affordability crisis, driven by soaring energy costs and political discord, directly imperils supply chain stability and consumer confidence. Simultaneously, the contentious and unregulated rise of 'Super Intelligence' presents a dual risk of transformative opportunity and severe cyber vulnerability, as evidenced by recent AI-driven breaches. Compounding these factors, persistent seismic activity across the Pacific Ring of Fire underscores an underlying physical fragility that demands constant vigilance. To secure assets and ensure physical safety, GlobeGuard directs immediate action: 1) Bolster supply chain resilience by diversifying logistics and pre-positioning essential resources to mitigate high energy costs and regional disruptions. 2) Implement advanced cybersecurity protocols and robust internal AI governance frameworks to counter evolving digital threats and navigate the fragmented regulatory environment. 3) Strategically re-evaluate financial portfolios to hedge against inflation and capitalize on targeted AI-driven growth, while maintaining liquidity for unforeseen shocks.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 94 km SW of Tamarindo, Costa Rica",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 0 km NNE of Y\u014dkaichiba, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 7 km ESE of Baghl\u0101n, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny"
+            "title": "\u26a0\ufe0f Mag 5.1 - 159 km SE of Gizo, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 176 km SE of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyx0"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 171 km SE of Lata, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tywu"
         }
     ],
-    "seismicSummary": "Multiple Mag 5+ earthquakes are striking across the globe!"
+    "seismicSummary": "Multiple M5+ earthquakes, including a 5.3 in Japan, just struck Japan and the Solomon Islands!"
 }
