@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is reaching a critical inflection point, marked by the rapid emergence of unsupervised AI as a geopolitical flashpoint with proven hacking capabilities, an intensifying global affordability crisis driven by soaring diesel prices, and heightened seismic activity in critical regions. This volatile convergence demands immediate, decisive action. Therefore, we direct the immediate prioritization of comprehensive digital infrastructure audits to preempt AI-agent vulnerabilities, the urgent diversification and localization of critical supply chains to cushion against escalating logistics costs and economic instability, and the reinforcement of emergency preparedness protocols for all physical assets and personnel situated in seismically active zones.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape characterized by escalating global economic strain, immediate technological volatility, and ongoing geophysical instability. Pervasive inflation, particularly in energy and logistics, threatens supply chains and societal stability, while the contentious and rapid advancement of AI, evidenced by state-sponsored hacking and deeply polarized regulatory debates, introduces significant cybersecurity and governance risks. Concurrently, a cluster of moderate seismic activity off Russia's Kamchatka coast necessitates vigilance for potential escalation or wider regional impacts. To mitigate these risks, we issue the following directive: Firstly, strengthen supply chain redundancy and review financial hedging strategies against persistent inflationary pressures, especially concerning fuel and logistics costs. Secondly, reinforce digital security protocols against sophisticated AI-driven threats, while closely monitoring global AI policy developments and their potential impact on data governance and national security. Lastly, activate enhanced geophysical monitoring for the Kamchatka-Vilyuchinsk seismic cluster, ensuring robust emergency preparedness plans are in place for personnel and critical assets in vulnerable regions.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8c"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 159 km SE of Gizo, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl"
+            "title": "\u26a0\ufe0f Mag 5 - 163 km SE of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 171 km SE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8l"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple 5+ magnitude quakes, including a 5.8, just struck near Vilyuchinsk, Russia!**"
+    "seismicSummary": "**Urgent: Multiple powerful earthquakes, including a Mag 5.8, reported off Russia's Kamchatka coast near Vilyuchinsk!**"
 }
