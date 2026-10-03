@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is characterized by the accelerating dual nature of Artificial Intelligence: a pivotal political battle over its definition and regulation (from \"Super Intelligence\" orders to proposed bans) unfolds concurrently with confirmed AI-agent-led cyber incursions against government infrastructure, even as major tech stocks tied to this sector maintain strong performance. This digital frontier, fraught with both opportunity and significant risk, is set against a backdrop of persistent global affordability crises and a concerning cluster of moderate-to-strong seismic events off Russia's Kamchatka Peninsula, highlighting latent physical instabilities and ongoing vulnerabilities in global travel security following recent incidents. To secure assets and ensure safety, **immediately harden digital infrastructure against advanced AI-driven cyber threats and data exploitation efforts**, **strategically re-evaluate and diversify investment portfolios, particularly within the potentially volatile tech and AI sectors**, and **ensure robust physical security protocols are current for international travel and pre-positioned for potential seismic activity in vulnerable regions.**",
+    "strategicPlan": "The current global landscape presents a multifaceted threat profile, characterized by escalating technological volatility, persistent socio-economic strain, and significant localized geophysical instability. The rapid politicization and demonstrated autonomous capabilities of 'Super Intelligence' (AI), as evidenced by both high-level executive orders and disruptive cyber intrusions, represent an immediate and evolving frontier of risk. This technological acceleration unfolds against a backdrop of deep-seated societal vulnerabilities, including contentious debates on economic affordability and critical public health crises, further compounded by emergent threats to physical security such as the recent violent airline incident. Concurrently, a cluster of notable seismic events across the Kamchatka region and Southeast Asia underscores the persistent threat of natural disasters. To navigate this complex environment, prioritize securing your assets and physical safety through three critical actions: **First, immediately strengthen digital perimeters and invest in advanced AI-driven threat intelligence to counter evolving cyber risks posed by increasingly capable autonomous agents.** **Second, diversify both financial portfolios and physical asset holdings, focusing on resilience against economic shocks and supply chain disruptions, while re-evaluating personal and operational security protocols to mitigate unpredictable physical threats.** **Third, ensure comprehensive disaster preparedness plans are updated and rehearsed, particularly for areas susceptible to seismic activity and broader infrastructural disruptions, to safeguard personnel and critical infrastructure.**",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 165 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 199 km SSE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8c"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 171 km SE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8l"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 72 km NE of Sittwe, Burma (Myanmar)",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp"
         }
     ],
-    "seismicSummary": "**Urgent: Several strong earthquakes, including a Mag 5.8, just struck off Kamchatka, Russia!**"
+    "seismicSummary": "Multiple Mag 5 earthquakes, including a 5.1, just rocked Russia and Myanmar!"
 }
