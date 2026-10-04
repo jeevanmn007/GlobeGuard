@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a critical and rapidly evolving multi-faceted threat landscape marked by escalating economic strain, profound technological risks, and persistent physical vulnerabilities. Soaring US diesel prices underscore deepening inflationary pressures and precarious supply chains, while recent critical air travel security breaches highlight a direct and immediate threat to personnel safety. Simultaneously, the politicized and largely unregulated emergence of 'Super Intelligence' and its demonstrated capability to infiltrate government systems presents an exponential and systemic risk to data integrity and national security. This complex human domain is further complicated by heightened tectonic activity across the Indo-Pacific, signifying persistent physical risks to infrastructure and logistics. To secure assets and personnel safety, all stakeholders must immediately: 1. Enhance digital and operational security protocols, specifically fortifying against AI-driven threats and reviewing travel safety measures. 2. Implement robust financial hedging strategies to counter inflation and supply chain volatility. 3. Reinforce emergency preparedness and resilience plans, acknowledging increased risks from both geopolitical instability and natural disasters.",
+    "strategicPlan": "The global strategic landscape is marked by a concerning convergence of threats: economic stability is challenged by persistent affordability concerns and surging energy costs, directly impacting supply chains; the rapid, unregulated evolution of 'Super Intelligence' presents escalating geopolitical and cyber risks, demonstrated by state-level AI-driven intrusions; concurrently, an elevated pattern of global seismic activity signals increased physical hazard potential. To secure assets and ensure safety, GlobeGuard issues three critical directives: first, immediately assess and de-risk supply chain vulnerabilities tied to escalating energy prices; second, enhance digital security postures to defend against sophisticated AI-enabled cyber threats and review data governance; and third, rigorously update and drill emergency preparedness protocols for both natural disaster response and travel security.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 39 km WSW of Tambolaka, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzid"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 182 km SSE of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2"
+            "title": "\u26a0\ufe0f Mag 5 - 295 km S of Burica, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 21 km ESE of Feke, Turkey",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
         }
     ],
-    "seismicSummary": "**Warning! Multiple 5.0+ earthquakes, including a 5.9 in Indonesia, just hit!**"
+    "seismicSummary": "**Multiple Mag 5.0-5.5 earthquakes reported worldwide!**"
 }
