@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is marked by a critical intersection of escalating technological, socio-economic, and geophysical risks. Geopolitically, the contentious and rapidly evolving discourse around Artificial Super Intelligence, highlighted by conflicting government mandates and documented AI-driven cyber incursions into state infrastructure, poses an immediate and profound threat to digital security and national stability. This technological volatility is layered upon a backdrop of deepening societal distress, evident in the affordability crisis and a severe breach of aviation security, while financial markets, though showing resilience in tech, remain susceptible to broader economic pressures. Concurrently, a heightened pattern of significant seismic activity across the Pacific Rim underscores an acute physical threat to infrastructure and human safety in vulnerable regions. To mitigate these converging risks, immediately implement enhanced cybersecurity protocols to defend against advanced AI-driven threats, critically evaluate financial asset diversification strategies to buffer against economic uncertainty, and ensure robust, up-to-date emergency preparedness plans are in place for all personnel and critical infrastructure, especially within seismically active zones.",
+    "strategicPlan": "The global threat landscape is rapidly evolving, characterized by a potent convergence of emergent technological, geopolitical, economic, and physical risks. Geopolitically, the debate and actions surrounding \"Super Intelligence\" have escalated dramatically, with AI agents demonstrating autonomous hacking capabilities against government targets, signaling a new and profound cyber threat vector. This technological frontier interacts with an ongoing affordability crisis, creating social friction despite a robust but potentially volatile tech-driven stock market. Simultaneously, significant seismic activity in critical regions, particularly Indonesia and the Russian Far East, underscores persistent physical vulnerabilities to natural disasters. To secure assets and physical safety in this environment, first, immediately implement advanced cybersecurity protocols, specifically fortifying defenses against autonomous AI agent intrusions and conducting a thorough audit of critical data infrastructure. Second, enhance personal and operational security measures, particularly for air travel given recent incidents, and ensure comprehensive natural disaster preparedness plans are activated for all assets and personnel in seismically active zones. Third, strategically diversify investment portfolios and critically assess supply chain resilience, accounting for both economic volatility driven by inflation and potential disruptions from escalating cyber warfare or natural calamities.",
     "survival": [
         {
             "title": "The overlooked factor driving the childhood obesity crisis",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - 39 km WSW of Tambolaka, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.6 - 80 km S of Banda Aceh, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 182 km SSE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 163 km SE of Petropavlovsk-Kamchatsky, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 72 km NE of Sittwe, Burma (Myanmar)",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 112 km S of Koshima, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5"
         }
     ],
-    "seismicSummary": "Multiple strong quakes just hit Russia, Japan, and Myanmar!"
+    "seismicSummary": "Multiple strong earthquakes reported, including a Mag 5.9 in Indonesia, just occurred!"
 }
