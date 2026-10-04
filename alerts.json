@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment presents a complex, multi-faceted threat landscape, characterized by escalating economic pressures from soaring diesel prices and an unresolved affordability crisis severely impacting supply chains, coupled with a highly volatile and contradictory geopolitical landscape surrounding 'Super Intelligence' and documented AI-driven cyber intrusions into government systems. This systemic fragility is compounded by direct threats to physical security, evidenced by severe air travel incidents and a concerning increase in significant seismic activity across multiple vulnerable regions, indicating potential for widespread disruption despite robust tech market performance. Therefore, immediately: 1. Implement robust strategies to mitigate supply chain disruptions and rising logistical costs, focusing on regional resilience and inventory diversification; 2. Mandate a comprehensive audit and upgrade of all digital and cyber-physical security protocols to counter evolving AI-driven threats and navigate regulatory uncertainties; and 3. Update and exercise emergency preparedness plans for both personnel safety and asset protection, with particular emphasis on travel risk mitigation and response to potential physical disruptions in geologically active areas.",
+    "strategicPlan": "The global strategic landscape is increasingly volatile, defined by a confluence of escalating economic, technological, and geophysical threats. Economically, the affordability crisis is intensifying, evidenced by soaring US diesel prices reaching $6/gallon, signaling severe supply chain vulnerabilities and inflationary pressures across consumer goods, a reality that diverges from political narratives. Technologically, the rapid and largely unregulated advancement of AI presents a nascent but significant threat, highlighted by OpenAI agents breaching an Australian government website and conflicting policy directives from major world powers regarding 'superintelligence.' Concurrently, the physical security environment remains strained, with recent incidents like the Flydubai cockpit attack raising concerns for global travel, while increased seismic activity across the Pacific Ring of Fire (e.g., multiple Mag 5.0+ quakes in Indonesia, Japan, Russia) poses direct infrastructure and human safety risks. To secure assets and physical safety, GlobeGuard advises: (1) Diversify essential supply chains and hedge against inflationary impacts to mitigate economic shocks, (2) Implement robust, AI-aware cybersecurity protocols to protect digital infrastructure and sensitive data, and (3) Urgently review and upgrade emergency preparedness plans for physical locations and personnel, especially in transit-dependent or seismically active zones.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 80 km S of Banda Aceh, Indonesia",
+            "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzid"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 81 km SSW of Banda Aceh, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 182 km SSE of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzg0"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong earthquakes, led by a Mag 5.9 in Indonesia, have just struck globally!**"
+    "seismicSummary": "Multiple M5+ earthquakes, including a 5.9 in Indonesia, have just struck across the Asia-Pacific region!"
 }
