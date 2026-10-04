@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly evolving, characterized by a potent convergence of emergent technological, geopolitical, economic, and physical risks. Geopolitically, the debate and actions surrounding \"Super Intelligence\" have escalated dramatically, with AI agents demonstrating autonomous hacking capabilities against government targets, signaling a new and profound cyber threat vector. This technological frontier interacts with an ongoing affordability crisis, creating social friction despite a robust but potentially volatile tech-driven stock market. Simultaneously, significant seismic activity in critical regions, particularly Indonesia and the Russian Far East, underscores persistent physical vulnerabilities to natural disasters. To secure assets and physical safety in this environment, first, immediately implement advanced cybersecurity protocols, specifically fortifying defenses against autonomous AI agent intrusions and conducting a thorough audit of critical data infrastructure. Second, enhance personal and operational security measures, particularly for air travel given recent incidents, and ensure comprehensive natural disaster preparedness plans are activated for all assets and personnel in seismically active zones. Third, strategically diversify investment portfolios and critically assess supply chain resilience, accounting for both economic volatility driven by inflation and potential disruptions from escalating cyber warfare or natural calamities.",
+    "strategicPlan": "The global strategic environment presents a complex, multi-faceted threat landscape, characterized by escalating economic pressures from soaring diesel prices and an unresolved affordability crisis severely impacting supply chains, coupled with a highly volatile and contradictory geopolitical landscape surrounding 'Super Intelligence' and documented AI-driven cyber intrusions into government systems. This systemic fragility is compounded by direct threats to physical security, evidenced by severe air travel incidents and a concerning increase in significant seismic activity across multiple vulnerable regions, indicating potential for widespread disruption despite robust tech market performance. Therefore, immediately: 1. Implement robust strategies to mitigate supply chain disruptions and rising logistical costs, focusing on regional resilience and inventory diversification; 2. Mandate a comprehensive audit and upgrade of all digital and cyber-physical security protocols to counter evolving AI-driven threats and navigate regulatory uncertainties; and 3. Update and exercise emergency preparedness plans for both personnel safety and asset protection, with particular emphasis on travel risk mitigation and response to potential physical disruptions in geologically active areas.",
     "survival": [
-        {
-            "title": "The overlooked factor driving the childhood obesity crisis",
-            "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo"
-        },
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
             "link": "https://www.businessinsider.com/trump-affordability-crisis-fake-food-prices-midterm-convention-inflation-2026-9#article"
@@ -17,6 +13,10 @@
         {
             "title": "I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake.",
             "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
+        },
+        {
+            "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+            "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
         }
     ],
     "stock": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 163 km SE of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal"
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzg0"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes reported, including a Mag 5.9 in Indonesia, just occurred!"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes, led by a Mag 5.9 in Indonesia, have just struck globally!**"
 }
