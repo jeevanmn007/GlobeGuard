@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Converging global threats demand immediate, decisive action. Deepening economic instability, characterized by record high US diesel prices exacerbating an affordability crisis, strains supply chains and fuels geopolitical uncertainty. Concurrently, the chaotic and often weaponized evolution of AI, exemplified by government hacks and conflicting regulatory mandates, introduces critical cyber and governance risks, even as tech markets show resilience. Adding to this complex environment, heightened global seismic activity across multiple regions signals persistent physical vulnerabilities. To secure assets and physical safety, prioritize immediate diversification and resilience of essential supply chains, fortify digital infrastructure against advanced AI-driven threats, and ensure robust emergency preparedness plans are in place for natural disasters, particularly seismic events, maintaining constant situational awareness.",
+    "strategicPlan": "The global intelligence picture reveals a critical confluence of escalating economic strain, particularly from soaring US diesel prices impacting supply chains and fueling a national affordability crisis debate, a rapidly evolving and politically contentious AI landscape demonstrating real-world cyber vulnerabilities through an Australian government hack, and persistent, significant seismic activity across multiple regions. This dynamic environment, coupled with isolated but severe aviation security incidents, necessitates immediate and comprehensive risk mitigation. To secure assets and physical safety, GlobeGuard advises: First, bolster economic and supply chain resilience by immediately assessing and diversifying critical supply chains to mitigate the impact of rising energy costs, exploring hedging strategies against persistent inflation. Second, upgrade digital and physical defenses by prioritizing enhancement of AI-driven cybersecurity protocols against sophisticated intrusions, concurrently reviewing and updating emergency preparedness plans for personnel and assets in seismically active areas. Third, intensify strategic horizon scanning, maintaining acute vigilance on global AI regulatory shifts and geopolitical rhetoric, while comprehensively reassessing travel and operational security frameworks in response to evolving threats.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 295 km S of Burica, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8"
+            "title": "\u26a0\ufe0f Mag 5 - 71 km E of \u2018Ohonua, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 21 km ESE of Feke, Turkey",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
+            "title": "\u26a0\ufe0f Mag 5 - 295 km S of Burica, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
+    "seismicSummary": "Multiple M5+ earthquakes, including M5.5 near Japan, just struck globally!"
 }
