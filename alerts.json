@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is marked by a concerning convergence of threats: economic stability is challenged by persistent affordability concerns and surging energy costs, directly impacting supply chains; the rapid, unregulated evolution of 'Super Intelligence' presents escalating geopolitical and cyber risks, demonstrated by state-level AI-driven intrusions; concurrently, an elevated pattern of global seismic activity signals increased physical hazard potential. To secure assets and ensure safety, GlobeGuard issues three critical directives: first, immediately assess and de-risk supply chain vulnerabilities tied to escalating energy prices; second, enhance digital security postures to defend against sophisticated AI-enabled cyber threats and review data governance; and third, rigorously update and drill emergency preparedness protocols for both natural disaster response and travel security.",
+    "strategicPlan": "Converging global threats demand immediate, decisive action. Deepening economic instability, characterized by record high US diesel prices exacerbating an affordability crisis, strains supply chains and fuels geopolitical uncertainty. Concurrently, the chaotic and often weaponized evolution of AI, exemplified by government hacks and conflicting regulatory mandates, introduces critical cyber and governance risks, even as tech markets show resilience. Adding to this complex environment, heightened global seismic activity across multiple regions signals persistent physical vulnerabilities. To secure assets and physical safety, prioritize immediate diversification and resilience of essential supply chains, fortify digital infrastructure against advanced AI-driven threats, and ensure robust emergency preparedness plans are in place for natural disasters, particularly seismic events, maintaining constant situational awareness.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzid"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 81 km SSW of Banda Aceh, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
+            "title": "\u26a0\ufe0f Mag 5.3 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 295 km S of Burica, Panama",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzip"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5.0-5.5 earthquakes reported worldwide!**"
+    "seismicSummary": "Multiple M5+ earthquakes are striking globally!"
 }
