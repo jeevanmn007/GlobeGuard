@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critical confluence of escalating economic strain, particularly from soaring US diesel prices impacting supply chains and fueling a national affordability crisis debate, a rapidly evolving and politically contentious AI landscape demonstrating real-world cyber vulnerabilities through an Australian government hack, and persistent, significant seismic activity across multiple regions. This dynamic environment, coupled with isolated but severe aviation security incidents, necessitates immediate and comprehensive risk mitigation. To secure assets and physical safety, GlobeGuard advises: First, bolster economic and supply chain resilience by immediately assessing and diversifying critical supply chains to mitigate the impact of rising energy costs, exploring hedging strategies against persistent inflation. Second, upgrade digital and physical defenses by prioritizing enhancement of AI-driven cybersecurity protocols against sophisticated intrusions, concurrently reviewing and updating emergency preparedness plans for personnel and assets in seismically active areas. Third, intensify strategic horizon scanning, maintaining acute vigilance on global AI regulatory shifts and geopolitical rhetoric, while comprehensively reassessing travel and operational security frameworks in response to evolving threats.",
+    "strategicPlan": "The global intelligence picture reveals a critical convergence of risks: geopolitical instability driven by US economic strain from soaring diesel prices and an unaddressed affordability crisis, alongside the urgent, dual-edged threat of rapidly advancing and weaponized AI as demonstrated by government hacks and conflicting regulatory approaches. Concurrently, heightened seismic activity across multiple major fault lines in the Pacific and Atlantic regions indicates elevated physical hazards, which could exacerbate existing supply chain vulnerabilities and economic pressures despite resilience in select tech stocks. To navigate this complex environment, secure your financial assets by diversifying into inflation-resistant instruments and meticulously monitoring critical supply chain dependencies; enhance physical safety protocols, particularly for international travel and in seismically active areas, by updating emergency preparedness plans; and urgently fortify cyber defenses against advanced AI-driven threats, while closely tracking global AI governance developments.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $233.95 (1.34%)",
+            "title": "\ud83d\udcb0 NVDA: $237.9 (1.69%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.69 (1.02%)",
+            "title": "\ud83d\udcb0 AAPL: $332.8 (-0.27%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $517.53 (0.92%)",
+            "title": "\ud83d\udcb0 MSFT: $525.01 (1.44%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $188.75 (-0.68%)",
+            "title": "\ud83d\udcb0 PLTR: $189.2 (0.24%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.52 (1.33%)",
+            "title": "\ud83d\udcb0 AMZN: $253.59 (0.82%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - Volcano Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzid"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 187 km ENE of Saipan, Northern Mariana Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzna"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 71 km E of \u2018Ohonua, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 295 km S of Burica, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8"
+            "title": "\u26a0\ufe0f Mag 4.9 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes, including M5.5 near Japan, just struck globally!"
+    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5 earthquakes just struck across various regions!"
 }
