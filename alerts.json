@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a volatile confluence of economic strain, emerging technological and security threats, and persistent geohazards. Significant economic pressure from soaring diesel prices signals impending supply chain disruptions and exacerbates the affordability crisis, while political discord around AI, coupled with confirmed AI-driven hacking, introduces a novel and escalating cybersecurity threat, further complicated by critical security vulnerabilities in global transit demonstrated by the cockpit attack. This instability is underpinned by a cluster of moderate seismic events across the Pacific Ring of Fire, underscoring persistent physical risks. To navigate this complex landscape, secure assets by diversifying critical supply chains and increasing inventory buffers; bolster digital and transit security by reinforcing cybersecurity defenses, establishing rapid response protocols for AI-driven threats, and enhancing global travel security measures; and ensure physical safety by updating and exercising emergency preparedness plans for natural disasters, particularly for assets and personnel in seismically active zones.",
+    "strategicPlan": "The global intelligence assessment reveals a diverging and volatile threat landscape: a resilient tech sector belies a significant real-world affordability crisis, exacerbated by soaring diesel prices and political indecision, which directly impacts supply chain stability and public welfare, alongside an immediate and critical vulnerability in air travel security. Simultaneously, the rapid and politically contested emergence of \"Super Intelligence\" poses an escalating cybersecurity risk, with demonstrated AI agent breaches of government systems highlighting an urgent need for advanced digital defenses. Underlying these human-centric pressures is persistent, moderate seismic activity across key Pacific regions, serving as a constant reminder of inherent physical hazards. Therefore, GlobeGuard directs immediate action: first, fortify all digital assets and critical infrastructure with advanced AI-aware cybersecurity protocols to mitigate emergent cyber threats; second, conduct a comprehensive review of personal and organizational financial resilience, adjusting strategies for supply chain disruptions and persistent inflation; and third, update and stress-test all emergency preparedness plans, enhancing physical safety measures and travel advisories in light of both geopolitical instability and ongoing natural disaster risks.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $238.9 (2.12%)",
+            "title": "\ud83d\udcb0 NVDA: $242.25 (1.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.89 (-0.24%)",
+            "title": "\ud83d\udcb0 AAPL: $332.8 (-0.03%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $525.18 (1.48%)",
+            "title": "\ud83d\udcb0 MSFT: $534.14 (1.71%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $189.4 (0.34%)",
+            "title": "\ud83d\udcb0 PLTR: $192.38 (1.57%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.4 (-0.05%)",
+            "title": "\ud83d\udcb0 AMZN: $254.78 (1.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 187 km ENE of Saipan, Northern Mariana Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzna"
+            "title": "\u26a0\ufe0f Mag 4.9 - 48 km NNE of Semporna, Malaysia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwg"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 55 km ESE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - State of Yap, Federated States of Micronesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 86 km N of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes just hit across various Pacific islands!"
+    "seismicSummary": "\ud83d\udea8 Multiple ~Mag 5 earthquakes just hit the Pacific region!"
 }
