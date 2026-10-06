@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a critical convergence of risks: geopolitical instability driven by US economic strain from soaring diesel prices and an unaddressed affordability crisis, alongside the urgent, dual-edged threat of rapidly advancing and weaponized AI as demonstrated by government hacks and conflicting regulatory approaches. Concurrently, heightened seismic activity across multiple major fault lines in the Pacific and Atlantic regions indicates elevated physical hazards, which could exacerbate existing supply chain vulnerabilities and economic pressures despite resilience in select tech stocks. To navigate this complex environment, secure your financial assets by diversifying into inflation-resistant instruments and meticulously monitoring critical supply chain dependencies; enhance physical safety protocols, particularly for international travel and in seismically active areas, by updating emergency preparedness plans; and urgently fortify cyber defenses against advanced AI-driven threats, while closely tracking global AI governance developments.",
+    "strategicPlan": "The global environment is currently defined by a volatile confluence of economic strain, emerging technological and security threats, and persistent geohazards. Significant economic pressure from soaring diesel prices signals impending supply chain disruptions and exacerbates the affordability crisis, while political discord around AI, coupled with confirmed AI-driven hacking, introduces a novel and escalating cybersecurity threat, further complicated by critical security vulnerabilities in global transit demonstrated by the cockpit attack. This instability is underpinned by a cluster of moderate seismic events across the Pacific Ring of Fire, underscoring persistent physical risks. To navigate this complex landscape, secure assets by diversifying critical supply chains and increasing inventory buffers; bolster digital and transit security by reinforcing cybersecurity defenses, establishing rapid response protocols for AI-driven threats, and enhancing global travel security measures; and ensure physical safety by updating and exercising emergency preparedness plans for natural disasters, particularly for assets and personnel in seismically active zones.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $237.9 (1.69%)",
+            "title": "\ud83d\udcb0 NVDA: $238.9 (2.12%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.8 (-0.27%)",
+            "title": "\ud83d\udcb0 AAPL: $332.89 (-0.24%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $525.01 (1.44%)",
+            "title": "\ud83d\udcb0 MSFT: $525.18 (1.48%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $189.2 (0.24%)",
+            "title": "\ud83d\udcb0 PLTR: $189.4 (0.34%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.59 (0.82%)",
+            "title": "\ud83d\udcb0 AMZN: $251.4 (-0.05%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
+            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 187 km ENE of Saipan, Northern Mariana Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzna"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 71 km E of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme"
+            "title": "\u26a0\ufe0f Mag 4.9 - State of Yap, Federated States of Micronesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - Volcano Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt"
+            "title": "\u26a0\ufe0f Mag 4.8 - 86 km N of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple Mag 5 earthquakes just struck across various regions!"
+    "seismicSummary": "Multiple Mag 5 earthquakes just hit across various Pacific islands!"
 }
