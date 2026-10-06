@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a diverging and volatile threat landscape: a resilient tech sector belies a significant real-world affordability crisis, exacerbated by soaring diesel prices and political indecision, which directly impacts supply chain stability and public welfare, alongside an immediate and critical vulnerability in air travel security. Simultaneously, the rapid and politically contested emergence of \"Super Intelligence\" poses an escalating cybersecurity risk, with demonstrated AI agent breaches of government systems highlighting an urgent need for advanced digital defenses. Underlying these human-centric pressures is persistent, moderate seismic activity across key Pacific regions, serving as a constant reminder of inherent physical hazards. Therefore, GlobeGuard directs immediate action: first, fortify all digital assets and critical infrastructure with advanced AI-aware cybersecurity protocols to mitigate emergent cyber threats; second, conduct a comprehensive review of personal and organizational financial resilience, adjusting strategies for supply chain disruptions and persistent inflation; and third, update and stress-test all emergency preparedness plans, enhancing physical safety measures and travel advisories in light of both geopolitical instability and ongoing natural disaster risks.",
+    "strategicPlan": "The global intelligence assessment reveals a heightened, multi-faceted risk environment. Geopolitically, the US faces escalating internal friction with political indecision on a deepening affordability crisis marked by soaring diesel prices, while a contentious debate around AI \"Super Intelligence\" signals potential regulatory chaos and new cyber vulnerabilities, starkly demonstrated by OpenAI's breach of an Australian government website. Financially, despite modest gains in major tech stocks, persistent inflationary pressures and supply chain strains represent a significant economic threat. Concurrently, a pattern of widespread seismic activity across the Pacific Rim and South Asia underscores a persistent, unpredictable physical hazard. To secure assets and ensure safety, we advise: **1.** Immediately diversify financial portfolios to hedge against inflation and supply chain disruptions, securing essential goods and resources. **2.** Conduct an urgent review and bolster all digital and physical security protocols against sophisticated AI-driven cyber threats and aviation vulnerabilities. **3.** Reinforce emergency preparedness plans, focusing on readiness for both economic shocks and geographically diverse natural disasters.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $242.25 (1.4%)",
+            "title": "\ud83d\udcb0 NVDA: $239.24 (0.14%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $332.8 (-0.03%)",
+            "title": "\ud83d\udcb0 AAPL: $333.63 (0.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $534.14 (1.71%)",
+            "title": "\ud83d\udcb0 MSFT: $529.3 (0.78%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $192.38 (1.57%)",
+            "title": "\ud83d\udcb0 PLTR: $192.07 (1.41%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.78 (1.34%)",
+            "title": "\ud83d\udcb0 AMZN: $256.29 (1.95%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - 264 km SSW of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - 92 km NNW of Aleneva, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 34 km NNW of B\u0101geshwar, India",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 48 km NNE of Semporna, Malaysia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwg"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 55 km ESE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - State of Yap, Federated States of Micronesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple ~Mag 5 earthquakes just hit the Pacific region!"
+    "seismicSummary": "\ud83d\udea8 Major Mag 5+ earthquakes hitting globally: 5.9 Russia, 5.5 Alaska, 5.1 India, 5.0 Fiji!"
 }
