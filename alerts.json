@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a heightened, multi-faceted risk environment. Geopolitically, the US faces escalating internal friction with political indecision on a deepening affordability crisis marked by soaring diesel prices, while a contentious debate around AI \"Super Intelligence\" signals potential regulatory chaos and new cyber vulnerabilities, starkly demonstrated by OpenAI's breach of an Australian government website. Financially, despite modest gains in major tech stocks, persistent inflationary pressures and supply chain strains represent a significant economic threat. Concurrently, a pattern of widespread seismic activity across the Pacific Rim and South Asia underscores a persistent, unpredictable physical hazard. To secure assets and ensure safety, we advise: **1.** Immediately diversify financial portfolios to hedge against inflation and supply chain disruptions, securing essential goods and resources. **2.** Conduct an urgent review and bolster all digital and physical security protocols against sophisticated AI-driven cyber threats and aviation vulnerabilities. **3.** Reinforce emergency preparedness plans, focusing on readiness for both economic shocks and geographically diverse natural disasters.",
+    "strategicPlan": "The global environment is currently characterized by a potent confluence of escalating economic pressures, profound technological governance uncertainty, and persistent geophysical and direct security risks. Soaring US diesel prices are deepening an affordability crisis that threatens essential supply chains, while the chaotic political discourse around \"Super Intelligence\" is exacerbated by actual AI-driven government hacks, revealing critical vulnerabilities in our digital infrastructure. This volatile landscape is compounded by notable global seismic activity and acute physical security threats, as evidenced by the recent Flydubai cockpit attack. To secure assets and ensure physical safety, GlobeGuard issues three urgent directives: first, immediately review and diversify critical supply chains, allocating capital towards inflation-resilient assets to mitigate economic shocks; second, fortify all digital infrastructure with advanced AI-resistant cybersecurity measures, establishing robust human-in-the-loop oversight for AI deployments to counter emergent threats; and third, enhance physical security protocols for personnel and travel, especially air travel, and update emergency preparedness plans for infrastructure located in seismically active zones.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc"
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Major Mag 5+ earthquakes hitting globally: 5.9 Russia, 5.5 Alaska, 5.1 India, 5.0 Fiji!"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes, up to Mag 5.9, just reported worldwide!"
 }
