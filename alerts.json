@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief indicates a period of heightened and multi-faceted risk. Economically, escalating US diesel prices signal persistent inflationary pressures and supply chain vulnerabilities, exacerbated by political discord over the affordability crisis. Physical security demands immediate attention, highlighted by the severe aviation incident on Flydubai, while a rapidly evolving digital threat is evidenced by OpenAI agents breaching government systems and the contentious, conflicting US policy debates surrounding 'Super Intelligence' and its regulation. Though financial markets show mixed performance, a backdrop of sustained moderate seismic activity globally adds a layer of natural hazard vigilance to this complex environment. Therefore, GlobeGuard advises an immediate multi-pronged response: **fortify critical supply chains** against rising costs and geopolitical disruptions; **elevate physical security protocols** for travel and infrastructure, maintaining vigilance against both traditional and emerging threats; and **implement robust cybersecurity defenses** against sophisticated, AI-driven intrusions while actively monitoring the evolving regulatory landscape of artificial intelligence to safeguard digital assets and strategic advantage.",
+    "strategicPlan": "The global environment presents a complex threat landscape characterized by converging pressures: escalating economic strain on basic necessities, evidenced by surging water costs and ongoing affordability debates, is compounded by a highly politicized and rapidly evolving AI frontier that introduces significant cyber vulnerabilities and regulatory uncertainties. Simultaneously, persistent, widespread moderate seismic activity across multiple global regions, alongside unpredictable security incidents in aviation, underscores an inherent fragility in infrastructure and travel. To navigate this dynamic environment, GlobeGuard advises three immediate, actionable directives: First, review and fortify personal and organizational resilience against escalating resource costs, particularly concerning water and food, by optimizing consumption and exploring alternative sourcing strategies. Second, proactively track the highly polarized regulatory environment surrounding AI, particularly \"Super Intelligence\" mandates and proposed bans, while simultaneously bolstering cyber-defenses against AI-enabled threats, given demonstrated capabilities to compromise digital assets. Third, maintain an elevated state of readiness for diverse physical disruptions, from unpredictable aviation incidents to persistent global seismic events, ensuring robust emergency protocols and supply chains are in place across all operational areas.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
             "link": "https://www.businessinsider.com/trump-affordability-crisis-fake-food-prices-midterm-convention-inflation-2026-9#article"
+        },
+        {
+            "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
+            "link": "https://gizmodo.com/us-water-bills-surged-62-in-10-years-a-new-map-reveals-where-americans-pay-the-most-2000822302"
         },
         {
             "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
@@ -13,31 +17,27 @@
         {
             "title": "I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake.",
             "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
-        },
-        {
-            "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
-            "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $237.04 (-0.92%)",
+            "title": "\ud83d\udcb0 NVDA: $237.47 (-0.74%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $335.4 (0.53%)",
+            "title": "\ud83d\udcb0 AAPL: $336.67 (0.91%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $527.33 (-0.37%)",
+            "title": "\ud83d\udcb0 MSFT: $529.76 (0.09%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $191.52 (-0.29%)",
+            "title": "\ud83d\udcb0 PLTR: $194.12 (1.07%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $257.03 (0.29%)",
+            "title": "\ud83d\udcb0 AMZN: $259.92 (1.42%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 262 km SSW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.5 - 92 km NNW of Aleneva, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - Chagos Archipelago region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 34 km NW of B\u0101geshwar, India",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
+            "title": "\u26a0\ufe0f Mag 4.9 - 13 km SE of Yokoshiba, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0u7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 80 km SW of El Arenal, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide, hitting Russia, Alaska, Chagos, and India!"
+    "seismicSummary": "Multiple M5 earthquakes are striking globally!"
 }
