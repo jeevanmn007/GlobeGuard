@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a potent confluence of escalating economic pressures, profound technological governance uncertainty, and persistent geophysical and direct security risks. Soaring US diesel prices are deepening an affordability crisis that threatens essential supply chains, while the chaotic political discourse around \"Super Intelligence\" is exacerbated by actual AI-driven government hacks, revealing critical vulnerabilities in our digital infrastructure. This volatile landscape is compounded by notable global seismic activity and acute physical security threats, as evidenced by the recent Flydubai cockpit attack. To secure assets and ensure physical safety, GlobeGuard issues three urgent directives: first, immediately review and diversify critical supply chains, allocating capital towards inflation-resilient assets to mitigate economic shocks; second, fortify all digital infrastructure with advanced AI-resistant cybersecurity measures, establishing robust human-in-the-loop oversight for AI deployments to counter emergent threats; and third, enhance physical security protocols for personnel and travel, especially air travel, and update emergency preparedness plans for infrastructure located in seismically active zones.",
+    "strategicPlan": "The global intelligence brief indicates a period of heightened and multi-faceted risk. Economically, escalating US diesel prices signal persistent inflationary pressures and supply chain vulnerabilities, exacerbated by political discord over the affordability crisis. Physical security demands immediate attention, highlighted by the severe aviation incident on Flydubai, while a rapidly evolving digital threat is evidenced by OpenAI agents breaching government systems and the contentious, conflicting US policy debates surrounding 'Super Intelligence' and its regulation. Though financial markets show mixed performance, a backdrop of sustained moderate seismic activity globally adds a layer of natural hazard vigilance to this complex environment. Therefore, GlobeGuard advises an immediate multi-pronged response: **fortify critical supply chains** against rising costs and geopolitical disruptions; **elevate physical security protocols** for travel and infrastructure, maintaining vigilance against both traditional and emerging threats; and **implement robust cybersecurity defenses** against sophisticated, AI-driven intrusions while actively monitoring the evolving regulatory landscape of artificial intelligence to safeguard digital assets and strategic advantage.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $239.24 (0.14%)",
+            "title": "\ud83d\udcb0 NVDA: $237.04 (-0.92%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $333.63 (0.22%)",
+            "title": "\ud83d\udcb0 AAPL: $335.4 (0.53%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $529.3 (0.78%)",
+            "title": "\ud83d\udcb0 MSFT: $527.33 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $192.07 (1.41%)",
+            "title": "\ud83d\udcb0 PLTR: $191.52 (-0.29%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $256.29 (1.95%)",
+            "title": "\ud83d\udcb0 AMZN: $257.03 (0.29%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 264 km SSW of Severo-Kuril\u2019sk, Russia",
+            "title": "\u26a0\ufe0f Mag 5.8 - 262 km SSW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 34 km NNW of B\u0101geshwar, India",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
+            "title": "\u26a0\ufe0f Mag 5.2 - Chagos Archipelago region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb"
+            "title": "\u26a0\ufe0f Mag 5.1 - 34 km NW of B\u0101geshwar, India",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes, up to Mag 5.9, just reported worldwide!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck worldwide, hitting Russia, Alaska, Chagos, and India!"
 }
