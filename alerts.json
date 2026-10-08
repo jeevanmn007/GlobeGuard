@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a complex and escalating risk environment. Geopolitically, we are observing a precarious interplay between an intensifying public debate and legislative pushback regarding \"Super Intelligence,\" even as AI-driven cyber intrusions become a tangible threat, alongside persistent domestic economic stressors like the affordability crisis and surging water costs that threaten societal stability. While financial markets exhibit mixed but stable performance, these underlying economic vulnerabilities could quickly translate to broader volatility. Concurrently, elevated seismic activity, particularly across the Pacific Ring of Fire, highlights a consistent physical threat to infrastructure and life. In light of this, GlobeGuard advises immediate action: first, prioritize securing financial stability by diversifying critical assets towards tangible holdings and optimizing operational budgets against escalating costs; second, strengthen digital defenses against advanced AI-driven cyber threats, including robust data integrity and backup systems; and third, review and enhance physical emergency plans, particularly for seismic events, and heighten vigilance regarding travel security.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape characterized by severe economic instability, escalating physical and cyber risks, and heightened geohazard activity. The US faces an acute affordability crisis with soaring costs for essentials like water and fuel, compounded by political division, while significant seismic events across the Pacific Ring of Fire demand immediate attention for potential natural disasters. Concurrently, the demonstrated capacity for advanced AI to conduct cyber intrusions, alongside a chilling cockpit attack, underscores multifaceted threats to both physical and digital security amidst a critical debate on AI regulation and control. To navigate this complex environment, first, prioritize diversifying critical supply chains and bolstering reserves of essential goods against economic shocks; second, immediately review and strengthen all digital security protocols and data hygiene practices, assuming advanced AI cyber threats are active; and third, update all emergency preparedness plans, including contingency travel routes and communication strategies, especially for regions prone to seismic events or increased security incidents.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -11,33 +11,33 @@
             "link": "https://gizmodo.com/us-water-bills-surged-62-in-10-years-a-new-map-reveals-where-americans-pay-the-most-2000822302"
         },
         {
-            "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
-            "link": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment"
-        },
-        {
             "title": "I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake.",
             "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
+        },
+        {
+            "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+            "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $235.47 (-0.84%)",
+            "title": "\ud83d\udcb0 NVDA: $230.48 (-2.94%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $339.64 (0.88%)",
+            "title": "\ud83d\udcb0 AAPL: $340.42 (1.11%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $531.45 (0.32%)",
+            "title": "\ud83d\udcb0 MSFT: $522.61 (-1.35%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $198.16 (2.08%)",
+            "title": "\ud83d\udcb0 PLTR: $198.78 (2.4%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.55 (-0.53%)",
+            "title": "\ud83d\udcb0 AMZN: $254.06 (-2.25%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Magnitude 6.3 near Vanuatu, have struck the Pacific region!"
+    "seismicSummary": "**M6.3 in Vanuatu and multiple strong quakes reported across the Pacific!**"
 }
