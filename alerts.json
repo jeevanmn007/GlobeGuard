@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a converging risk profile marked by escalating socio-economic fragility within the US, evidenced by a critical affordability crisis and surging water costs, juxtaposed with the rapid, politically polarizing evolution of AI that poses significant cyber and governmental risks despite sustained tech market performance. This domestic and technological volatility is amplified by a period of pronounced global tectonic instability, with multiple significant seismic events underscoring widespread physical vulnerability. To secure assets and ensure physical safety, first, immediately assess and bolster personal and organizational resilience in essential resource access, including water and critical supply chains, to counter domestic economic pressures. Second, strengthen all digital security postures, implement advanced AI-driven threat intelligence, and closely monitor the evolving regulatory landscape of 'Super Intelligence' to mitigate novel cyber threats. Third, meticulously review and update emergency preparedness plans, securing physical assets and ensuring personnel safety protocols are robust against global seismic activity and other potential disruptions.",
+    "strategicPlan": "The global intelligence picture reveals a complex and escalating risk environment. Geopolitically, we are observing a precarious interplay between an intensifying public debate and legislative pushback regarding \"Super Intelligence,\" even as AI-driven cyber intrusions become a tangible threat, alongside persistent domestic economic stressors like the affordability crisis and surging water costs that threaten societal stability. While financial markets exhibit mixed but stable performance, these underlying economic vulnerabilities could quickly translate to broader volatility. Concurrently, elevated seismic activity, particularly across the Pacific Ring of Fire, highlights a consistent physical threat to infrastructure and life. In light of this, GlobeGuard advises immediate action: first, prioritize securing financial stability by diversifying critical assets towards tangible holdings and optimizing operational budgets against escalating costs; second, strengthen digital defenses against advanced AI-driven cyber threats, including robust data integrity and backup systems; and third, review and enhance physical emergency plans, particularly for seismic events, and heighten vigilance regarding travel security.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $237.47 (-0.74%)",
+            "title": "\ud83d\udcb0 NVDA: $235.47 (-0.84%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.67 (0.91%)",
+            "title": "\ud83d\udcb0 AAPL: $339.64 (0.88%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $529.76 (0.09%)",
+            "title": "\ud83d\udcb0 MSFT: $531.45 (0.32%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $194.12 (1.07%)",
+            "title": "\ud83d\udcb0 PLTR: $198.16 (2.08%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.92 (1.42%)",
+            "title": "\ud83d\udcb0 AMZN: $258.55 (-0.53%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.3 - 102 km NE of Norsup, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 17 km SW of Burias, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Chagos Archipelago region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 92 km N of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa"
+            "title": "\u26a0\ufe0f Mag 5.1 - 236 km E of Levuka, Fiji",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong M5+ earthquakes detected worldwide!"
+    "seismicSummary": "Multiple strong earthquakes, including a Magnitude 6.3 near Vanuatu, have struck the Pacific region!"
 }
