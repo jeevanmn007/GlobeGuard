@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly converging threat landscape characterized by severe economic instability, escalating physical and cyber risks, and heightened geohazard activity. The US faces an acute affordability crisis with soaring costs for essentials like water and fuel, compounded by political division, while significant seismic events across the Pacific Ring of Fire demand immediate attention for potential natural disasters. Concurrently, the demonstrated capacity for advanced AI to conduct cyber intrusions, alongside a chilling cockpit attack, underscores multifaceted threats to both physical and digital security amidst a critical debate on AI regulation and control. To navigate this complex environment, first, prioritize diversifying critical supply chains and bolstering reserves of essential goods against economic shocks; second, immediately review and strengthen all digital security protocols and data hygiene practices, assuming advanced AI cyber threats are active; and third, update all emergency preparedness plans, including contingency travel routes and communication strategies, especially for regions prone to seismic events or increased security incidents.",
+    "strategicPlan": "The current global intelligence picture indicates a complex and escalating threat environment, driven by persistent inflationary pressures eroding affordability across critical sectors like utilities and logistics, alongside a highly contentious and rapidly evolving AI regulatory landscape marked by demonstrated security vulnerabilities. Financially, major tech stocks show mixed performance with a downward bias, reflecting underlying market anxieties. This geopolitical and economic volatility is compounded by significant tectonic instability across the Pacific Ring of Fire, posing direct physical risks to infrastructure and populations. To navigate this period, secure liquid assets and critically reassess supply chain resilience against rising operational costs; immediately bolster digital defenses and monitor the polarized AI policy discussions for disruptive shifts; and finally, review and update all physical safety protocols and travel contingencies, especially in seismically active zones and considering emergent air travel security incidents.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn"
         }
     ],
-    "seismicSummary": "**M6.3 in Vanuatu and multiple strong quakes reported across the Pacific!**"
+    "seismicSummary": "Warning: Multiple strong earthquakes, including a Mag 6.3 in Vanuatu, just reported!"
 }
