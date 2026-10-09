@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture indicates a complex and escalating threat environment, driven by persistent inflationary pressures eroding affordability across critical sectors like utilities and logistics, alongside a highly contentious and rapidly evolving AI regulatory landscape marked by demonstrated security vulnerabilities. Financially, major tech stocks show mixed performance with a downward bias, reflecting underlying market anxieties. This geopolitical and economic volatility is compounded by significant tectonic instability across the Pacific Ring of Fire, posing direct physical risks to infrastructure and populations. To navigate this period, secure liquid assets and critically reassess supply chain resilience against rising operational costs; immediately bolster digital defenses and monitor the polarized AI policy discussions for disruptive shifts; and finally, review and update all physical safety protocols and travel contingencies, especially in seismically active zones and considering emergent air travel security incidents.",
+    "strategicPlan": "The global threat landscape is acutely volatile, characterized by simultaneous economic deterioration, escalating technological and security vulnerabilities, and active geological instability. Domestically, severe inflation, manifested in surging utility costs and fuel prices, is creating widespread affordability challenges and political division, while globally, critical infrastructure faces emerging threats from aviation security breaches and unchecked AI development, demonstrated by government system hacks and contentious regulatory debates. This economic and technological friction contributes to market volatility, with key tech stocks showing declines. Concurrently, significant seismic activity across the Pacific Ring of Fire presents an ongoing physical risk to regional stability and supply chains. To mitigate these threats, GlobeGuard advises three immediate actions: 1) Secure financial resilience by diversifying assets away from speculative markets and fortifying essential supply chains against inflationary pressures. 2) Implement stringent digital and physical security protocols, especially for critical data infrastructure and international travel. 3) Develop robust, multi-hazard emergency preparedness plans, acknowledging both geopolitical and geological unpredictability.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 17 km SW of Burias, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.5 - west of Macquarie Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws"
+            "title": "\u26a0\ufe0f Mag 5.2 - 117 km SE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 236 km E of Levuka, Fiji",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13y"
         }
     ],
-    "seismicSummary": "Warning: Multiple strong earthquakes, including a Mag 6.3 in Vanuatu, just reported!"
+    "seismicSummary": "**M6.3 near Vanuatu! Multiple other strong quakes reported across Fiji and Indonesia.**"
 }
