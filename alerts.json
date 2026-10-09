@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is acutely volatile, characterized by simultaneous economic deterioration, escalating technological and security vulnerabilities, and active geological instability. Domestically, severe inflation, manifested in surging utility costs and fuel prices, is creating widespread affordability challenges and political division, while globally, critical infrastructure faces emerging threats from aviation security breaches and unchecked AI development, demonstrated by government system hacks and contentious regulatory debates. This economic and technological friction contributes to market volatility, with key tech stocks showing declines. Concurrently, significant seismic activity across the Pacific Ring of Fire presents an ongoing physical risk to regional stability and supply chains. To mitigate these threats, GlobeGuard advises three immediate actions: 1) Secure financial resilience by diversifying assets away from speculative markets and fortifying essential supply chains against inflationary pressures. 2) Implement stringent digital and physical security protocols, especially for critical data infrastructure and international travel. 3) Develop robust, multi-hazard emergency preparedness plans, acknowledging both geopolitical and geological unpredictability.",
+    "strategicPlan": "The global landscape is characterized by a confluence of escalating internal and external pressures. Domestically, the US faces significant economic headwinds driven by soaring utility and fuel costs, intensifying an affordability crisis amidst political indecision. The rapid, unmonitored advancement of AI poses a dual threat, demonstrated by sophisticated cyber intrusions and fueling a deeply polarized regulatory debate. Globally, aviation security has been compromised, while persistent moderate-to-strong seismic activity across the Pacific Rim indicates heightened geological instability. Financial markets show a mixed tech performance, suggesting resilience in specific sectors but overall vulnerability to these emerging systemic risks. To navigate this complex environment, GlobeGuard directs immediate action: 1) Prioritize diversifying liquid assets and securing critical supply chains against increasing operational costs and potential economic volatility. 2) Immediately reinforce digital infrastructure and data security protocols, implementing AI-resistant countermeasures against evolving cyber threats and data breaches. 3) Review and update emergency preparedness plans for both travel and natural disasters, ensuring communication redundancy and robust physical safety protocols.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $230.48 (-2.94%)",
+            "title": "\ud83d\udcb0 NVDA: $229.36 (-0.49%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $340.42 (1.11%)",
+            "title": "\ud83d\udcb0 AAPL: $333.93 (-1.91%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $522.61 (-1.35%)",
+            "title": "\ud83d\udcb0 MSFT: $534.47 (2.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $198.78 (2.4%)",
+            "title": "\ud83d\udcb0 PLTR: $205.41 (3.34%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.06 (-2.25%)",
+            "title": "\ud83d\udcb0 AMZN: $261.26 (2.83%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.3 - 102 km NE of Norsup, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi"
+            "title": "\u26a0\ufe0f Mag 5.9 - west of Macquarie Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 99 km NE of Norsup, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 117 km SE of Bitung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 236 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13y"
+            "title": "\u26a0\ufe0f Mag 5.1 - 72 km SSW of Colchane, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153"
         }
     ],
-    "seismicSummary": "**M6.3 near Vanuatu! Multiple other strong quakes reported across Fiji and Indonesia.**"
+    "seismicSummary": "Urgent: Four M5+ earthquakes have just struck globally!"
 }
