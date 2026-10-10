@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global environment signals a convergence of critical physical, economic, and technological threats. A significant seismic cluster centered on Panama, including a severe Mag 7.7 event, poses an immediate and substantial risk to critical infrastructure, regional stability, and global maritime logistics. Concurrently, escalating affordability crises in the US, marked by surging water and fuel costs, threaten domestic economic stability and supply chain resilience amidst political discord. This is compounded by the volatile evolution of artificial intelligence, presenting both strategic investment opportunities (evident in targeted tech gains) and profound national security vulnerabilities, as demonstrated by documented AI-driven breaches of government systems. To navigate this complex threat matrix, first, immediately assess and fortify supply chain redundancies and infrastructure dependencies, particularly those traversing the Panama region, and ensure preparedness for seismic-related disruptions. Second, re-evaluate and diversify asset portfolios towards defensive inflation-hedged sectors and strategically vetted AI ventures, recognizing both their disruptive potential and inherent risks. Finally, implement an urgent, comprehensive audit and upgrade of all digital security protocols, anticipating sophisticated AI-powered cyber offensives targeting critical data and operational continuity.",
+    "strategicPlan": "GlobeGuard assesses a rapidly escalating global threat landscape, marked by immediate physical instability from a significant cluster of powerful earthquakes centered in Panama, posing critical risks to global shipping and infrastructure. Concurrently, a severe and deepening socio-economic affordability crisis, driven by soaring utility and fuel costs, is exacerbating domestic political tensions and stressing supply chains, as highlighted by a volatile technology market amidst broader economic pressures. This environment is further complicated by a high-stakes, conflicting global debate on Artificial Intelligence, where state-level policy discord directly correlates with confirmed malicious AI activity against government systems, signaling profound national security and data integrity vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs the following: First, immediately evaluate and diversify critical supply chain dependencies, particularly those traversing seismically active regions or political choke points, securing alternative logistics for essential goods and energy. Second, implement robust cybersecurity enhancements and advanced AI threat detection protocols against autonomous agents, while simultaneously establishing clear internal AI governance frameworks to navigate conflicting external policies and mitigate misuse. Third, urgently review and stress-test personal and organizational emergency preparedness plans, prioritizing self-sufficiency for essential resources like water, power, and communications in anticipation of widespread infrastructure disruptions.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - west of Macquarie Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164"
+            "title": "\u26a0\ufe0f Mag 6 - 7 km N of La Tronosa, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 1 km S of El Cacao, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
+            "title": "\u26a0\ufe0f Mag 5.9 - west of Macquarie Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164"
         }
     ],
-    "seismicSummary": "**URGENT: A major 7.7 magnitude earthquake just struck Panama, accompanied by other strong quakes including a 6.6 and 5.8 in the region, plus a 5.9 near Macquarie Island.**"
+    "seismicSummary": "\u26a0\ufe0f Panama hit by a powerful 7.7 magnitude earthquake and multiple other strong quakes!"
 }
