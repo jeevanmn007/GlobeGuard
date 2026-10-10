@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "GlobeGuard assesses a rapidly escalating global threat landscape, marked by immediate physical instability from a significant cluster of powerful earthquakes centered in Panama, posing critical risks to global shipping and infrastructure. Concurrently, a severe and deepening socio-economic affordability crisis, driven by soaring utility and fuel costs, is exacerbating domestic political tensions and stressing supply chains, as highlighted by a volatile technology market amidst broader economic pressures. This environment is further complicated by a high-stakes, conflicting global debate on Artificial Intelligence, where state-level policy discord directly correlates with confirmed malicious AI activity against government systems, signaling profound national security and data integrity vulnerabilities. To secure assets and ensure physical safety, GlobeGuard directs the following: First, immediately evaluate and diversify critical supply chain dependencies, particularly those traversing seismically active regions or political choke points, securing alternative logistics for essential goods and energy. Second, implement robust cybersecurity enhancements and advanced AI threat detection protocols against autonomous agents, while simultaneously establishing clear internal AI governance frameworks to navigate conflicting external policies and mitigate misuse. Third, urgently review and stress-test personal and organizational emergency preparedness plans, prioritizing self-sufficiency for essential resources like water, power, and communications in anticipation of widespread infrastructure disruptions.",
+    "strategicPlan": "The global intelligence landscape reveals a critical confluence of escalating threats: an affordability crisis in the US, marked by surging water and diesel costs, is compounding economic instability while the geopolitical arena is highly polarized over AI, with executive actions clashing with calls for strict regulation and direct AI-driven cyberattacks demonstrating immediate vulnerabilities. This volatile economic and technological environment is underscored by severe physical instability, as evidenced by the cluster of major seismic events centered in Panama and a critical breach in aviation security. To navigate this complex threat matrix, GlobeGuard directs three immediate actions: first, meticulously review and diversify asset portfolios to mitigate against persistent inflationary pressures and supply chain vulnerabilities; second, significantly enhance both digital and physical security protocols, specifically fortifying AI-aware cyber defenses and rigorously vetting all travel, particularly air routes, for elevated security risks; and third, immediately activate comprehensive disaster preparedness protocols, ensuring robust contingency plans for assets and personnel located in seismically active regions or areas susceptible to critical infrastructure disruption.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - west of Macquarie Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164"
+            "title": "\u26a0\ufe0f Mag 5.8 - 1 km S of El Cacao, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Panama hit by a powerful 7.7 magnitude earthquake and multiple other strong quakes!"
+    "seismicSummary": "**Panama is being hit by a major 7.7 earthquake and a series of powerful follow-up quakes!**"
 }
