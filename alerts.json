@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by significant and accelerating systemic risks: escalating domestic economic strain, highlighted by an affordability crisis in essential goods and services and a politically polarized, yet dangerously advanced, AI landscape exhibiting autonomous offensive capabilities. This confluence of internal economic fragility and an emergent, unregulated digital threat is compounded by persistent, moderate-to-high magnitude seismic activity across multiple key global regions, reminding us of underlying physical vulnerabilities. To mitigate these evolving threats, secure critical assets, and ensure physical safety, GlobeGuard advises three immediate actions: first, fortify economic resilience by scrutinizing supply chains, diversifying essential resources, and stress-testing financial liquidity against persistent inflationary pressures; second, urgently upgrade and audit all digital security protocols, anticipating sophisticated AI-driven cyber threats, and establish robust offline data backups; third, enhance personal and operational preparedness by reviewing emergency contingency plans, maintaining critical supply reserves, and staying alert to both localized physical disruptions and global travel advisories.",
+    "strategicPlan": "The current global operating environment is characterized by escalating geopolitical and technological friction, with conflicting directives on 'Super Intelligence' and a demonstrated AI capacity for cyber intrusion (OpenAI hacking Australian government), creating an unpredictable digital landscape. This converges with persistent economic pressures, marked by soaring essential costs like water and diesel, alongside significant physical security threats evidenced by the Flydubai attack and a spate of powerful seismic events across multiple regions (Papua New Guinea, Russia, Peru, Indonesia). To navigate this complex risk profile, immediately: 1) Strengthen financial resilience by re-evaluating critical expenditures and diversifying supply chain dependencies to mitigate inflation and rising utility costs; 2) Augment digital and physical security protocols, specifically addressing advanced AI-driven cyber threats and refining emergency preparedness for both travel and natural disaster scenarios; and 3) Maintain acute situational awareness on AI regulatory developments and geopolitical flashpoints to anticipate rapid shifts in the threat matrix.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gs"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 101 km SSW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 18 km SSE of Caman\u00e1, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 180 km S of Pelabuhanratu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6"
         }
     ],
-    "seismicSummary": "**Mag 6.2 in Papua New Guinea tops multiple global quakes!**"
+    "seismicSummary": "\ud83d\udea8 Urgent: A Mag 6.2 earthquake hit Papua New Guinea, alongside multiple Mag 5.2 quakes detected globally!"
 }
