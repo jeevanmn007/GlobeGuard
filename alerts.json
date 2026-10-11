@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat landscape is rapidly converging, marked by escalating economic strain from soaring utility and fuel costs that fuel geopolitical debate, while a contentious and rapidly evolving AI domain presents both significant opportunity and critical cybersecurity vulnerabilities, as evidenced by recent government system breaches and an unsettling in-flight incident. Financially, tech market volatility persists, with mixed performance reflecting underlying uncertainty despite some sectors showing resilience. This multifaceted instability is compounded by ongoing, albeit moderate, seismic activity across various global regions, serving as a constant reminder of inherent physical risks. To secure assets and physical safety, first, immediately assess and diversify financial holdings to mitigate inflationary pressures and digital asset exposure against AI-enabled cyber threats. Second, fortify physical resilience by reviewing critical supply chain dependencies, optimizing energy and water conservation strategies, and updating emergency preparedness plans in light of increased logistical costs and potential disruptions. Finally, remain acutely vigilant of rapidly developing AI regulatory shifts and their implications for both economic stability and national security, adapting strategies to leverage its benefits while mitigating its profound risks.",
+    "strategicPlan": "The current global threat landscape is characterized by an escalating convergence of economic instability, rapidly evolving technological risks, and persistent physical vulnerabilities. Geopolitically, the inconsistent discourse on affordability amid soaring essential costs like diesel and water, coupled with the immediate threat of AI agents demonstrating hacking capabilities and the contentious \"Super Intelligence\" debate, signals profound regulatory and security challenges. Financially, while some tech sectors show resilience, the underlying economic pressures on citizens are acute, impacting supply chains and general welfare. Physically, ongoing moderate seismic activity across disparate regions, alongside high-risk air travel incidents, underscores the need for constant vigilance. To navigate this complex environment, GlobeGuard advises three immediate, actionable directives: **First, prioritize the diversification and resilience of essential resource supply chains**, focusing on local sourcing and contingency planning for water, food, and energy to mitigate escalating costs and potential disruptions. **Second, implement an urgent review and hardening of all digital and data security protocols**, given the demonstrated capabilities of AI agents and the intensifying debate around \"Super Intelligence.\" **Third, reinforce personal and corporate physical safety protocols**, updating emergency preparedness plans for seismic events and travel, while maintaining heightened situational awareness regarding geopolitical and technological developments.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 141 km E of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv"
+            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gm"
         }
     ],
-    "seismicSummary": "**Alert: Multiple M5+ earthquakes have just been detected across the globe.**"
+    "seismicSummary": "**Alert: Multiple magnitude 5 earthquakes just struck worldwide!**"
 }
