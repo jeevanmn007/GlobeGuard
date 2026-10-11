@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically strained by escalating economic pressures, evidenced by a broad affordability crisis, soaring utility and fuel costs, and critical supply chain vulnerabilities, while simultaneously navigating profound geopolitical and technological uncertainty stemming from a polarized debate over rapidly evolving AI, punctuated by both government mandates and direct cyber exploitation attempts. This human-centric volatility is further complicated by a notable increase in significant seismic activity, particularly in Central America, and recent critical failures in aviation security. Despite mixed financial indicators, resilience in core tech sectors suggests targeted opportunities amidst broader instability. To mitigate these converging risks, GlobeGuard directs immediate action to fortify both financial and physical assets: first, by critically assessing and diversifying investments while building robust contingencies against economic erosion and supply chain disruptions; second, by rigorously upgrading digital and information security protocols to counter advanced AI-driven threats; and third, by thoroughly updating emergency preparedness plans, particularly for seismic events, and exercising heightened vigilance across all travel and operational security measures.",
+    "strategicPlan": "The global threat landscape is rapidly converging, marked by escalating economic strain from soaring utility and fuel costs that fuel geopolitical debate, while a contentious and rapidly evolving AI domain presents both significant opportunity and critical cybersecurity vulnerabilities, as evidenced by recent government system breaches and an unsettling in-flight incident. Financially, tech market volatility persists, with mixed performance reflecting underlying uncertainty despite some sectors showing resilience. This multifaceted instability is compounded by ongoing, albeit moderate, seismic activity across various global regions, serving as a constant reminder of inherent physical risks. To secure assets and physical safety, first, immediately assess and diversify financial holdings to mitigate inflationary pressures and digital asset exposure against AI-enabled cyber threats. Second, fortify physical resilience by reviewing critical supply chain dependencies, optimizing energy and water conservation strategies, and updating emergency preparedness plans in light of increased logistical costs and potential disruptions. Finally, remain acutely vigilant of rapidly developing AI regulatory shifts and their implications for both economic stability and national security, adapting strategies to leverage its benefits while mitigating its profound risks.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 7 km N of La Tronosa, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gs"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 41 km NNE of Yigo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd"
+            "title": "\u26a0\ufe0f Mag 5.2 - 180 km S of Pelabuhanratu, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 1 km NNE of Tonos\u00ed, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu"
+            "title": "\u26a0\ufe0f Mag 5 - 3 km NW of Flores, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 141 km E of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv"
         }
     ],
-    "seismicSummary": "URGENT: Mag 6 in Panama, plus multiple 5+ quakes reported across the Pacific region!"
+    "seismicSummary": "**Alert: Multiple M5+ earthquakes have just been detected across the globe.**"
 }
