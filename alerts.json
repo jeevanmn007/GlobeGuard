@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global threat landscape is characterized by an escalating convergence of economic instability, rapidly evolving technological risks, and persistent physical vulnerabilities. Geopolitically, the inconsistent discourse on affordability amid soaring essential costs like diesel and water, coupled with the immediate threat of AI agents demonstrating hacking capabilities and the contentious \"Super Intelligence\" debate, signals profound regulatory and security challenges. Financially, while some tech sectors show resilience, the underlying economic pressures on citizens are acute, impacting supply chains and general welfare. Physically, ongoing moderate seismic activity across disparate regions, alongside high-risk air travel incidents, underscores the need for constant vigilance. To navigate this complex environment, GlobeGuard advises three immediate, actionable directives: **First, prioritize the diversification and resilience of essential resource supply chains**, focusing on local sourcing and contingency planning for water, food, and energy to mitigate escalating costs and potential disruptions. **Second, implement an urgent review and hardening of all digital and data security protocols**, given the demonstrated capabilities of AI agents and the intensifying debate around \"Super Intelligence.\" **Third, reinforce personal and corporate physical safety protocols**, updating emergency preparedness plans for seismic events and travel, while maintaining heightened situational awareness regarding geopolitical and technological developments.",
+    "strategicPlan": "The global environment is currently defined by significant and accelerating systemic risks: escalating domestic economic strain, highlighted by an affordability crisis in essential goods and services and a politically polarized, yet dangerously advanced, AI landscape exhibiting autonomous offensive capabilities. This confluence of internal economic fragility and an emergent, unregulated digital threat is compounded by persistent, moderate-to-high magnitude seismic activity across multiple key global regions, reminding us of underlying physical vulnerabilities. To mitigate these evolving threats, secure critical assets, and ensure physical safety, GlobeGuard advises three immediate actions: first, fortify economic resilience by scrutinizing supply chains, diversifying essential resources, and stress-testing financial liquidity against persistent inflationary pressures; second, urgently upgrade and audit all digital security protocols, anticipating sophisticated AI-driven cyber threats, and establish robust offline data backups; third, enhance personal and operational preparedness by reviewing emergency contingency plans, maintaining critical supply reserves, and staying alert to both localized physical disruptions and global travel advisories.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.2 - 79 km SSE of Panguna, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - southeast of Easter Island",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gs"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 180 km S of Pelabuhanratu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6"
+            "title": "\u26a0\ufe0f Mag 5.2 - 101 km SSW of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 3 km NW of Flores, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gm"
+            "title": "\u26a0\ufe0f Mag 5.2 - 18 km SSE of Caman\u00e1, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt"
         }
     ],
-    "seismicSummary": "**Alert: Multiple magnitude 5 earthquakes just struck worldwide!**"
+    "seismicSummary": "**Mag 6.2 in Papua New Guinea tops multiple global quakes!**"
 }
