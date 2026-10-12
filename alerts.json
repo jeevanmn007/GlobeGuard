@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global operating environment is characterized by escalating geopolitical and technological friction, with conflicting directives on 'Super Intelligence' and a demonstrated AI capacity for cyber intrusion (OpenAI hacking Australian government), creating an unpredictable digital landscape. This converges with persistent economic pressures, marked by soaring essential costs like water and diesel, alongside significant physical security threats evidenced by the Flydubai attack and a spate of powerful seismic events across multiple regions (Papua New Guinea, Russia, Peru, Indonesia). To navigate this complex risk profile, immediately: 1) Strengthen financial resilience by re-evaluating critical expenditures and diversifying supply chain dependencies to mitigate inflation and rising utility costs; 2) Augment digital and physical security protocols, specifically addressing advanced AI-driven cyber threats and refining emergency preparedness for both travel and natural disaster scenarios; and 3) Maintain acute situational awareness on AI regulatory developments and geopolitical flashpoints to anticipate rapid shifts in the threat matrix.",
+    "strategicPlan": "The current global intelligence picture reveals a complex and challenging environment, marked by significant economic pressures manifesting in soaring essential utility and fuel costs across the US, alongside a rapidly escalating and polarized debate over the governance and autonomous capabilities of Artificial Intelligence, exemplified by recent hacking incidents by AI agents. This volatile socio-economic and technological landscape is underpinned by a sustained pattern of significant seismic activity across the Pacific Rim, indicating ongoing physical instability in key regions, while an isolated but severe aviation security incident underscores unpredictable risks. To navigate this confluence of threats, GlobeGuard directs immediate action: first, conduct a comprehensive audit of critical resource dependencies, particularly water and fuel, and implement strategies for diversification and conservation to mitigate rising costs and potential supply chain disruptions; second, fortify all digital infrastructure and update cybersecurity protocols to specifically counter advanced AI-driven threats and autonomous agent exploits; and third, meticulously review and update emergency preparedness plans, including travel advisories and personal safety protocols, to account for both physical (seismic) and unpredictable security incidents.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - 150 km W of Gorontalo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 101 km SSW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 18 km SSE of Caman\u00e1, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 180 km S of Pelabuhanratu, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: A Mag 6.2 earthquake hit Papua New Guinea, alongside multiple Mag 5.2 quakes detected globally!"
+    "seismicSummary": "Major M6.2 quake in Papua New Guinea leads multiple strong global seismic events."
 }
