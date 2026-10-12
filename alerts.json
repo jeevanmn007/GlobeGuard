@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a complex and challenging environment, marked by significant economic pressures manifesting in soaring essential utility and fuel costs across the US, alongside a rapidly escalating and polarized debate over the governance and autonomous capabilities of Artificial Intelligence, exemplified by recent hacking incidents by AI agents. This volatile socio-economic and technological landscape is underpinned by a sustained pattern of significant seismic activity across the Pacific Rim, indicating ongoing physical instability in key regions, while an isolated but severe aviation security incident underscores unpredictable risks. To navigate this confluence of threats, GlobeGuard directs immediate action: first, conduct a comprehensive audit of critical resource dependencies, particularly water and fuel, and implement strategies for diversification and conservation to mitigate rising costs and potential supply chain disruptions; second, fortify all digital infrastructure and update cybersecurity protocols to specifically counter advanced AI-driven threats and autonomous agent exploits; and third, meticulously review and update emergency preparedness plans, including travel advisories and personal safety protocols, to account for both physical (seismic) and unpredictable security incidents.",
+    "strategicPlan": "The current global intelligence picture reveals a complex and compounding threat landscape: persistent and intensifying affordability crises are fueling economic instability and supply chain vulnerabilities, while the rapidly evolving AI domain presents both unprecedented opportunities and demonstrable security risks, underscored by critical geopolitical debate. Concurrently, heightened seismic activity across the Pacific Ring of Fire introduces a significant physical threat, impacting infrastructure and potentially disrupting vital global arteries. To navigate this volatility, we must immediately: 1. Optimize supply chain resilience and local resource acquisition strategies to mitigate soaring operational costs and potential disruptions. 2. Strengthen digital infrastructure and monitor AI regulatory shifts closely, ensuring robust cybersecurity defenses against emerging technological threats. 3. Proactively review and update emergency preparedness and physical asset security protocols, particularly for operations and personnel in seismically active regions.",
     "survival": [
         {
             "title": "President Trump can't decide if the affordability crisis is real or not",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 122 km W of Neiafu, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 150 km W of Gorontalo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 101 km SSW of Severo-Kuril\u2019sk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 18 km SSE of Caman\u00e1, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt"
         }
     ],
-    "seismicSummary": "Major M6.2 quake in Papua New Guinea leads multiple strong global seismic events."
+    "seismicSummary": "**Alert: A Mag 6.2 quake in Papua New Guinea leads multiple quakes above 5.0 worldwide!**"
 }
