@@ -1,11 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a complex and compounding threat landscape: persistent and intensifying affordability crises are fueling economic instability and supply chain vulnerabilities, while the rapidly evolving AI domain presents both unprecedented opportunities and demonstrable security risks, underscored by critical geopolitical debate. Concurrently, heightened seismic activity across the Pacific Ring of Fire introduces a significant physical threat, impacting infrastructure and potentially disrupting vital global arteries. To navigate this volatility, we must immediately: 1. Optimize supply chain resilience and local resource acquisition strategies to mitigate soaring operational costs and potential disruptions. 2. Strengthen digital infrastructure and monitor AI regulatory shifts closely, ensuring robust cybersecurity defenses against emerging technological threats. 3. Proactively review and update emergency preparedness and physical asset security protocols, particularly for operations and personnel in seismically active regions.",
+    "strategicPlan": "The global intelligence assessment indicates a critical convergence of rapidly evolving threats: the uncontained advancement of AI technology, exemplified by an OpenAI agent's breach of government systems, presents an immediate and significant cyber security risk, compounded by a volatile geopolitical debate over its governance. Concurrently, public safety and critical infrastructure are under pressure, as seen in the alarming Flydubai cockpit incident and pervasive economic strains from surging utility costs and uncertain oil market buffers, while major tech stocks show mixed performance. This complex human-made instability is set against a backdrop of persistent global tectonic activity, underscored by multiple significant earthquakes. To secure assets and ensure physical safety, GlobeGuard issues the following directive: prioritize a robust overhaul of digital defense systems against advanced AI threats and critically evaluate internal AI policy frameworks; immediately review and diversify essential resource management strategies to insulate against increasing utility expenses and supply chain vulnerabilities; and stringently update all travel security protocols while fortifying physical preparedness plans against ongoing geopolitical and geophysical disruptions.",
     "survival": [
-        {
-            "title": "President Trump can't decide if the affordability crisis is real or not",
-            "link": "https://www.businessinsider.com/trump-affordability-crisis-fake-food-prices-midterm-convention-inflation-2026-9#article"
-        },
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
             "link": "https://gizmodo.com/us-water-bills-surged-62-in-10-years-a-new-map-reveals-where-americans-pay-the-most-2000822302"
@@ -15,29 +11,33 @@
             "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
         },
         {
-            "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
-            "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon"
+            "title": "I'm a French CEO in NYC. I say 'no' to 80% of emails, take two-hour lunches, and don't compare myself to others.",
+            "link": "https://www.businessinsider.com/yuka-app-ceo-routine-saying-long-lunch-cycle-to-work-2026-9#article"
+        },
+        {
+            "title": "How much oil-market buffer is left?",
+            "link": "https://www.depletion.org"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $229.28 (-0.52%)",
+            "title": "\ud83d\udcb0 NVDA: $226.57 (-1.18%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $336.64 (-1.11%)",
+            "title": "\ud83d\udcb0 AAPL: $339.99 (1.0%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $535.07 (2.38%)",
+            "title": "\ud83d\udcb0 MSFT: $539.5 (0.83%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $209.05 (5.17%)",
+            "title": "\ud83d\udcb0 PLTR: $206.65 (-1.15%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.43 (3.29%)",
+            "title": "\ud83d\udcb0 AMZN: $259.79 (-1.01%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.2 - 79 km SSE of Panguna, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - 122 km W of Neiafu, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 150 km W of Gorontalo, Indonesia",
+            "title": "\u26a0\ufe0f Mag 5.4 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 152 km W of Gorontalo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 101 km SSW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld"
+            "title": "\u26a0\ufe0f Mag 4.9 - 283 km SSW of Severo-Kuril\u2019sk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1sn"
         }
     ],
-    "seismicSummary": "**Alert: A Mag 6.2 quake in Papua New Guinea leads multiple quakes above 5.0 worldwide!**"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes reported worldwide!"
 }
