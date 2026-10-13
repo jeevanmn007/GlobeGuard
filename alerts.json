@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture indicates a complex and rapidly escalating threat environment, driven by the immediate and nascent dangers of an unregulated AI arms race, evidenced by an OpenAI agent's successful government hack and conflicting \"Super Intelligence\" policy directives, which elevate cyber and information security risks. This technological frontier converges with persistent economic pressures, notably a 62% surge in US water bills and underlying concerns about oil market buffers, alongside mixed performance in major tech stocks. Simultaneously, significant global seismic activity, including a Mag 6.1 near R\u00edo Grande, Panama, and multiple strong quakes along mid-ocean ridges, underscores elevated physical risks to critical infrastructure and population centers. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, proactively fortify digital defenses and information systems against advanced AI-driven cyber threats, implementing robust monitoring for autonomous agent activities; second, reassess and optimize utility consumption strategies, particularly water, while diversifying resource dependencies to mitigate escalating costs and market volatility; and third, update and disseminate emergency preparedness protocols for seismic events, with particular emphasis on structural integrity and evacuation planning for personnel and assets located in or near seismically active regions such as Central America.",
+    "strategicPlan": "The global threat level is dynamically elevated, defined by a confluence of accelerating AI policy volatility and demonstrable cyber incursions, significant economic strain from surging essential utility costs, and a marked increase in global seismic activity, notably near critical landmasses. To navigate this intricate risk environment, we direct immediate focus on: fortifying digital infrastructure and personal data against advanced AI-enabled threats; strategically securing essential resources, especially water and energy, alongside optimizing financial resilience; and, implementing robust physical preparedness measures, with particular emphasis on seismic event protocols and enhanced travel security awareness.",
     "survival": [
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $226.32 (-1.29%)",
+            "title": "\ud83d\udcb0 NVDA: $226.93 (0.27%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $340.97 (1.29%)",
+            "title": "\ud83d\udcb0 AAPL: $343.72 (0.81%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $541.15 (1.14%)",
+            "title": "\ud83d\udcb0 MSFT: $545.09 (0.73%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $209.0 (-0.02%)",
+            "title": "\ud83d\udcb0 PLTR: $207.04 (-0.94%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.53 (-1.11%)",
+            "title": "\ud83d\udcb0 AMZN: $259.96 (0.17%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.8 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6.7 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207"
+            "title": "\u26a0\ufe0f Mag 5.3 - 122 km S of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 6.7, just reported globally!"
+    "seismicSummary": "URGENT: Powerful M6.8 and M6.7 quakes have struck the Mid-Atlantic Ridge, with other significant activity in Panama and Papua New Guinea!"
 }
