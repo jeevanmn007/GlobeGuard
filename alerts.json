@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment indicates a critical convergence of rapidly evolving threats: the uncontained advancement of AI technology, exemplified by an OpenAI agent's breach of government systems, presents an immediate and significant cyber security risk, compounded by a volatile geopolitical debate over its governance. Concurrently, public safety and critical infrastructure are under pressure, as seen in the alarming Flydubai cockpit incident and pervasive economic strains from surging utility costs and uncertain oil market buffers, while major tech stocks show mixed performance. This complex human-made instability is set against a backdrop of persistent global tectonic activity, underscored by multiple significant earthquakes. To secure assets and ensure physical safety, GlobeGuard issues the following directive: prioritize a robust overhaul of digital defense systems against advanced AI threats and critically evaluate internal AI policy frameworks; immediately review and diversify essential resource management strategies to insulate against increasing utility expenses and supply chain vulnerabilities; and stringently update all travel security protocols while fortifying physical preparedness plans against ongoing geopolitical and geophysical disruptions.",
+    "strategicPlan": "The global intelligence picture indicates a complex and rapidly escalating threat environment, driven by the immediate and nascent dangers of an unregulated AI arms race, evidenced by an OpenAI agent's successful government hack and conflicting \"Super Intelligence\" policy directives, which elevate cyber and information security risks. This technological frontier converges with persistent economic pressures, notably a 62% surge in US water bills and underlying concerns about oil market buffers, alongside mixed performance in major tech stocks. Simultaneously, significant global seismic activity, including a Mag 6.1 near R\u00edo Grande, Panama, and multiple strong quakes along mid-ocean ridges, underscores elevated physical risks to critical infrastructure and population centers. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, proactively fortify digital defenses and information systems against advanced AI-driven cyber threats, implementing robust monitoring for autonomous agent activities; second, reassess and optimize utility consumption strategies, particularly water, while diversifying resource dependencies to mitigate escalating costs and market volatility; and third, update and disseminate emergency preparedness protocols for seismic events, with particular emphasis on structural integrity and evacuation planning for personnel and assets located in or near seismically active regions such as Central America.",
     "survival": [
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $226.57 (-1.18%)",
+            "title": "\ud83d\udcb0 NVDA: $226.32 (-1.29%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $339.99 (1.0%)",
+            "title": "\ud83d\udcb0 AAPL: $340.97 (1.29%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $539.5 (0.83%)",
+            "title": "\ud83d\udcb0 MSFT: $541.15 (1.14%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $206.65 (-1.15%)",
+            "title": "\ud83d\udcb0 PLTR: $209.0 (-0.02%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.79 (-1.01%)",
+            "title": "\ud83d\udcb0 AMZN: $259.53 (-1.11%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 122 km W of Neiafu, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl"
+            "title": "\u26a0\ufe0f Mag 6.7 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 6.1 - 17 km W of R\u00edo Grande, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 152 km W of Gorontalo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 283 km SSW of Severo-Kuril\u2019sk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1sn"
+            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes reported worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 6.7, just reported globally!"
 }
