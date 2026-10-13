@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat level is dynamically elevated, defined by a confluence of accelerating AI policy volatility and demonstrable cyber incursions, significant economic strain from surging essential utility costs, and a marked increase in global seismic activity, notably near critical landmasses. To navigate this intricate risk environment, we direct immediate focus on: fortifying digital infrastructure and personal data against advanced AI-enabled threats; strategically securing essential resources, especially water and energy, alongside optimizing financial resilience; and, implementing robust physical preparedness measures, with particular emphasis on seismic event protocols and enhanced travel security awareness.",
+    "strategicPlan": "The current global intelligence brief reveals a complex and escalating threat landscape across geopolitical, financial, and physical domains. Geopolitically, the accelerated and contentious debate surrounding 'Super Intelligence,' coupled with documented AI-driven government system breaches, signals a high-stakes, volatile technological frontier. Financially, the US economy faces a \"rough patch\" marked by significant surges in essential costs like water and looming concerns over oil market buffers, set against a backdrop of mixed tech sector performance. Concurrently, a notable cluster of M6+ seismic events, particularly along the Mid-Atlantic Ridge, Panama, and Papua New Guinea, indicates elevated global tectonic activity. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: First, enhance digital and financial resilience by strengthening cyber defenses against AI-enabled threats and diversifying investment portfolios to mitigate economic volatility. Second, reinforce physical safety protocols by reviewing emergency preparedness plans, securing vital resources like water, and having contingency measures for natural disasters. Third, closely monitor regulatory developments in AI and global energy market stability for rapid adaptation to emerging risks.",
     "survival": [
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
@@ -11,33 +11,33 @@
             "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
         },
         {
-            "title": "I'm a French CEO in NYC. I say 'no' to 80% of emails, take two-hour lunches, and don't compare myself to others.",
-            "link": "https://www.businessinsider.com/yuka-app-ceo-routine-saying-long-lunch-cycle-to-work-2026-9#article"
-        },
-        {
             "title": "How much oil-market buffer is left?",
             "link": "https://www.depletion.org"
+        },
+        {
+            "title": "A new measure of financial conditions shows the US economy heading for a rough patch",
+            "link": "https://www.businessinsider.com/us-economy-outlook-financial-conditions-interest-rate-hike-recession-2026-9#article"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $226.93 (0.27%)",
+            "title": "\ud83d\udcb0 NVDA: $228.52 (0.97%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.72 (0.81%)",
+            "title": "\ud83d\udcb0 AAPL: $341.27 (0.09%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $545.09 (0.73%)",
+            "title": "\ud83d\udcb0 MSFT: $543.45 (0.43%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $207.04 (-0.94%)",
+            "title": "\ud83d\udcb0 PLTR: $208.67 (-0.16%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.96 (0.17%)",
+            "title": "\ud83d\udcb0 AMZN: $258.58 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 122 km S of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s"
+            "title": "\u26a0\ufe0f Mag 6 - 126 km S of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c"
         }
     ],
-    "seismicSummary": "URGENT: Powerful M6.8 and M6.7 quakes have struck the Mid-Atlantic Ridge, with other significant activity in Panama and Papua New Guinea!"
+    "seismicSummary": "\ud83d\udea8 Multiple M6+ earthquakes are shaking the globe, including two major quakes on the Mid-Atlantic Ridge!"
 }
