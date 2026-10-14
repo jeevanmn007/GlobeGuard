@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently marked by a critical confluence of escalating systemic risks: mounting resource scarcity in water and energy, significant volatility in key technology financial markets, and the emergence of advanced, politically contentious AI capabilities posing novel cyber and national security threats. This complex environment is further underscored by persistent heightened seismic activity across the Pacific Rim and a recent critical aviation security breach. To secure assets and ensure physical safety, immediately prioritize three actionable points: diversify and localize critical resource dependencies, particularly water and energy, against escalating scarcity and price volatility; implement robust, multi-layered cybersecurity protocols and off-grid data solutions to counter advanced AI-driven threats; and enhance comprehensive emergency preparedness plans for natural disasters and evolving aviation security risks.",
+    "strategicPlan": "The current global intelligence brief reveals a complex, multi-layered risk environment, despite a low immediate global threat level. Geopolitically, the accelerating, unregulated development and deployment of 'Super Intelligence' AI, as evidenced by government hacking incidents and contentious policy debates, presents an emergent systemic risk, alongside a deepening global water crisis and persistent vulnerabilities in air travel security. Financially, major tech stocks show a concerning downward trend, signaling market unease. Concurrently, moderate seismic activity across the Pacific Rim indicates ongoing planetary instability. To navigate this evolving landscape, prioritize immediate assessment and diversification of critical resource dependencies, particularly water; fortify digital and information assets against advanced AI-driven threats with enhanced cyber defenses and data integrity protocols; and bolster overall resilience through diversified financial holdings and updated emergency preparedness for both natural hazards and travel security.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.57 (-3.48%)",
+            "title": "\ud83d\udcb0 NVDA: $221.3 (-3.16%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $342.73 (0.43%)",
+            "title": "\ud83d\udcb0 AAPL: $342.96 (0.5%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $534.07 (-1.73%)",
+            "title": "\ud83d\udcb0 MSFT: $533.69 (-1.8%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $201.13 (-3.61%)",
+            "title": "\ud83d\udcb0 PLTR: $200.97 (-3.69%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.51 (-1.96%)",
+            "title": "\ud83d\udcb0 AMZN: $254.08 (-1.74%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 126 km S of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.9 - Fiji region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 98 km NW of Coquimbo, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 121 km S of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u27u"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong earthquakes detected, including a Mag 6 in Papua New Guinea!**"
+    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes, led by a Mag 5.9 near Fiji, reported across the Pacific!"
 }
