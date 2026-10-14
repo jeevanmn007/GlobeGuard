@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a complex and escalating threat landscape across geopolitical, financial, and physical domains. Geopolitically, the accelerated and contentious debate surrounding 'Super Intelligence,' coupled with documented AI-driven government system breaches, signals a high-stakes, volatile technological frontier. Financially, the US economy faces a \"rough patch\" marked by significant surges in essential costs like water and looming concerns over oil market buffers, set against a backdrop of mixed tech sector performance. Concurrently, a notable cluster of M6+ seismic events, particularly along the Mid-Atlantic Ridge, Panama, and Papua New Guinea, indicates elevated global tectonic activity. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: First, enhance digital and financial resilience by strengthening cyber defenses against AI-enabled threats and diversifying investment portfolios to mitigate economic volatility. Second, reinforce physical safety protocols by reviewing emergency preparedness plans, securing vital resources like water, and having contingency measures for natural disasters. Third, closely monitor regulatory developments in AI and global energy market stability for rapid adaptation to emerging risks.",
+    "strategicPlan": "The global threat landscape presents a complex and urgent convergence of financial instability, rapidly evolving technological risks, and heightened geological activity. The US economy faces a \"rough patch\" indicated by financial conditions, amplified by a significant surge in essential resource costs like water, while geopolitical friction over \"Super Intelligence\" AI is shadowed by demonstrated AI-driven cyberattacks on government entities and persistent aviation security vulnerabilities. Simultaneously, high-magnitude seismic events along the Mid-Atlantic Ridge and in the Pacific Ring of Fire signal active tectonic pressures demanding attention. GlobeGuard directs immediate action: 1) Fortify financial resilience by diversifying asset holdings, securing liquidity, and stress-testing against commodity price volatility and economic downturns. 2) Significantly enhance cybersecurity defenses against advanced AI threats and reinforce physical security protocols, particularly for travel and critical infrastructure. 3) Thoroughly review and update all disaster preparedness plans, with a specific focus on seismic safety for personnel and assets in tectonically active zones.",
     "survival": [
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - 17 km W of R\u00edo Grande, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6 - 126 km S of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 122 km S of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M6+ earthquakes are shaking the globe, including two major quakes on the Mid-Atlantic Ridge!"
+    "seismicSummary": "**Multiple major earthquakes have just struck, including two near M6.8 in the Mid-Atlantic Ridge and a M6 in Papua New Guinea!**"
 }
