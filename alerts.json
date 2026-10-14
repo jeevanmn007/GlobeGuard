@@ -1,7 +1,11 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's intelligence indicates a compounding threat matrix: Geopolitically, the battle over AI's classification as 'Super Intelligence' and its proven capabilities to breach government systems (OpenAI) signals a rapidly evolving and insecure digital frontier, subject to highly volatile regulatory shifts. Economically, the US is bracing for a significant downturn characterized by surging essential resource costs (water bills up 62%), depleting oil market buffers, and a generally softening financial outlook with mixed tech stock performance. Concurrently, heightened physical instability is evident through persistent, significant seismic activity across the Pacific Ring of Fire and critical lapses in aviation security, as highlighted by the Flydubai incident. To safeguard assets and ensure physical safety, we direct you to: 1) Immediately secure access to vital resources and strategically diversify financial portfolios to weather impending economic contractions and market volatility. 2) Augment digital defenses against sophisticated AI-driven threats, while closely tracking regulatory developments surrounding 'Super Intelligence' for strategic adaptation. 3) Conduct a comprehensive review and update of all emergency preparedness and physical security protocols, accounting for elevated natural disaster risks and critical infrastructure vulnerabilities.",
+    "strategicPlan": "The global landscape is currently marked by a critical confluence of escalating systemic risks: mounting resource scarcity in water and energy, significant volatility in key technology financial markets, and the emergence of advanced, politically contentious AI capabilities posing novel cyber and national security threats. This complex environment is further underscored by persistent heightened seismic activity across the Pacific Rim and a recent critical aviation security breach. To secure assets and ensure physical safety, immediately prioritize three actionable points: diversify and localize critical resource dependencies, particularly water and energy, against escalating scarcity and price volatility; implement robust, multi-layered cybersecurity protocols and off-grid data solutions to counter advanced AI-driven threats; and enhance comprehensive emergency preparedness plans for natural disasters and evolving aviation security risks.",
     "survival": [
+        {
+            "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
+            "link": "https://gizmodo.com/nasa-satellite-data-exposes-a-hidden-global-water-crisis-2000825217"
+        },
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
             "link": "https://gizmodo.com/us-water-bills-surged-62-in-10-years-a-new-map-reveals-where-americans-pay-the-most-2000822302"
@@ -13,31 +17,27 @@
         {
             "title": "How much oil-market buffer is left?",
             "link": "https://www.depletion.org"
-        },
-        {
-            "title": "A new measure of financial conditions shows the US economy heading for a rough patch",
-            "link": "https://www.businessinsider.com/us-economy-outlook-financial-conditions-interest-rate-hike-recession-2026-9#article"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $224.61 (-1.71%)",
+            "title": "\ud83d\udcb0 NVDA: $220.57 (-3.48%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $344.65 (0.99%)",
+            "title": "\ud83d\udcb0 AAPL: $342.73 (0.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $543.44 (-0.0%)",
+            "title": "\ud83d\udcb0 MSFT: $534.07 (-1.73%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $205.43 (-1.55%)",
+            "title": "\ud83d\udcb0 PLTR: $201.13 (-3.61%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.11 (-0.18%)",
+            "title": "\ud83d\udcb0 AMZN: $253.51 (-1.96%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 122 km S of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 93 km NNW of Coquimbo, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 98 km NW of Coquimbo, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a Magnitude 6 in Papua New Guinea, are striking worldwide!"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes detected, including a Mag 6 in Papua New Guinea!**"
 }
