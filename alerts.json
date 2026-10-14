@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape reveals a precarious confluence of escalating threats: the US economy faces a rough patch with surging water costs and tightening financial conditions, while the dwindling global oil buffer signals heightened energy vulnerability. Geopolitically, the volatile debate and demonstrated offensive capabilities of 'Super Intelligence' AI, including state-level hacking, introduce a new, significant vector of cyber and governance risk. These man-made instabilities are compounded by a notable increase in global seismic activity, specifically a Mag 6.8 event on the central Mid-Atlantic Ridge and multiple significant quakes near Papua New Guinea, indicating potential for widespread infrastructure disruption and localized humanitarian crises. Therefore, GlobeGuard advises immediate proactive measures: secure financial assets by hedging against economic downturns and rising essential costs; rigorously audit and upgrade digital and physical security defenses to counter advanced AI threats and unpredictable geopolitical incidents like the Flydubai attack; and critically, reinforce emergency preparedness and supply chain resilience plans, accounting for both significant seismic events and broader resource scarcity.",
+    "strategicPlan": "GlobeGuard's intelligence indicates a compounding threat matrix: Geopolitically, the battle over AI's classification as 'Super Intelligence' and its proven capabilities to breach government systems (OpenAI) signals a rapidly evolving and insecure digital frontier, subject to highly volatile regulatory shifts. Economically, the US is bracing for a significant downturn characterized by surging essential resource costs (water bills up 62%), depleting oil market buffers, and a generally softening financial outlook with mixed tech stock performance. Concurrently, heightened physical instability is evident through persistent, significant seismic activity across the Pacific Ring of Fire and critical lapses in aviation security, as highlighted by the Flydubai incident. To safeguard assets and ensure physical safety, we direct you to: 1) Immediately secure access to vital resources and strategically diversify financial portfolios to weather impending economic contractions and market volatility. 2) Augment digital defenses against sophisticated AI-driven threats, while closely tracking regulatory developments surrounding 'Super Intelligence' for strategic adaptation. 3) Conduct a comprehensive review and update of all emergency preparedness and physical security protocols, accounting for elevated natural disaster risks and critical infrastructure vulnerabilities.",
     "survival": [
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $228.52 (0.97%)",
+            "title": "\ud83d\udcb0 NVDA: $224.61 (-1.71%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $341.27 (0.09%)",
+            "title": "\ud83d\udcb0 AAPL: $344.65 (0.99%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $543.45 (0.43%)",
+            "title": "\ud83d\udcb0 MSFT: $543.44 (-0.0%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $208.67 (-0.16%)",
+            "title": "\ud83d\udcb0 PLTR: $205.43 (-1.55%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.58 (-0.37%)",
+            "title": "\ud83d\udcb0 AMZN: $258.11 (-0.18%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.8 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6 - 126 km S of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.9 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 122 km S of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207"
+            "title": "\u26a0\ufe0f Mag 5.1 - 93 km NNW of Coquimbo, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c"
         }
     ],
-    "seismicSummary": "Multiple major earthquakes, including a Mag 6.8, are occurring globally!"
+    "seismicSummary": "Multiple strong earthquakes, including a Magnitude 6 in Papua New Guinea, are striking worldwide!"
 }
