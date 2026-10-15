@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our analysis reveals a complex and escalating global threat landscape. Geopolitically, we face the ominous confluence of a documented global water crisis intensifying resource scarcity and economic strain, profound instability in the nascent but powerful AI domain marked by conflicting regulation and demonstrated offensive capabilities, and persistent vulnerabilities in critical infrastructure like air travel and energy supply. Financially, a significant downturn across major tech sectors signals broader market unease. Physically, elevated seismic activity across the Pacific Ring of Fire underscores ongoing natural hazard risks, demanding immediate strategic adjustment. To secure your assets and physical safety, prioritize the diversification of financial holdings away from volatile tech sectors, implement robust water and energy resilience plans, and critically assess and update all digital security protocols alongside personal and travel safety measures, particularly for those in seismically active or politically unstable regions.",
+    "strategicPlan": "The global intelligence landscape reveals an immediate and escalating threat convergence: sophisticated AI capabilities are demonstrably weaponized for cyber intrusion, threatening critical infrastructure and data amidst a volatile regulatory debate; simultaneously, a hidden global water crisis is intensifying, driving up costs and resource scarcity, while financial markets show significant tech sector weakness. This complex backdrop is further punctuated by persistent moderate global seismic activity and renewed concerns over air travel security. To secure assets and ensure physical safety, GlobeGuard advises three critical actions: first, implement robust, AI-aware cybersecurity protocols and diversify financial holdings to mitigate market volatility; second, strategically secure vital resources by investing in independent water solutions and assessing alternative energy provisions; and third, enhance personal and operational safety by updating emergency preparedness plans for both travel and natural disasters, with specific attention to seismic zones.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -61,8 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y"
+            "title": "\u26a0\ufe0f Mag 5.6 - 43 km NNW of Lake Minchumina, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 43 km SSE of Otorohanga, New Zealand",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 30 km E of Safotu, Samoa",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh"
+            "title": "\u26a0\ufe0f Mag 4.8 - off the coast of Ecuador",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2gd"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, up to Mag 5.9, have just hit the Pacific region!"
+    "seismicSummary": "\u26a0\ufe0f Multiple significant earthquakes up to Mag 5.6 are striking globally right now!"
 }
