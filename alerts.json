@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a complex, multi-layered risk environment, despite a low immediate global threat level. Geopolitically, the accelerating, unregulated development and deployment of 'Super Intelligence' AI, as evidenced by government hacking incidents and contentious policy debates, presents an emergent systemic risk, alongside a deepening global water crisis and persistent vulnerabilities in air travel security. Financially, major tech stocks show a concerning downward trend, signaling market unease. Concurrently, moderate seismic activity across the Pacific Rim indicates ongoing planetary instability. To navigate this evolving landscape, prioritize immediate assessment and diversification of critical resource dependencies, particularly water; fortify digital and information assets against advanced AI-driven threats with enhanced cyber defenses and data integrity protocols; and bolster overall resilience through diversified financial holdings and updated emergency preparedness for both natural hazards and travel security.",
+    "strategicPlan": "Our analysis reveals a complex and escalating global threat landscape. Geopolitically, we face the ominous confluence of a documented global water crisis intensifying resource scarcity and economic strain, profound instability in the nascent but powerful AI domain marked by conflicting regulation and demonstrated offensive capabilities, and persistent vulnerabilities in critical infrastructure like air travel and energy supply. Financially, a significant downturn across major tech sectors signals broader market unease. Physically, elevated seismic activity across the Pacific Ring of Fire underscores ongoing natural hazard risks, demanding immediate strategic adjustment. To secure your assets and physical safety, prioritize the diversification of financial holdings away from volatile tech sectors, implement robust water and energy resilience plans, and critically assess and update all digital security protocols alongside personal and travel safety measures, particularly for those in seismically active or politically unstable regions.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 93 km NNW of Coquimbo, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c"
+            "title": "\u26a0\ufe0f Mag 5.3 - 43 km SSE of Otorohanga, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 98 km NW of Coquimbo, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f"
+            "title": "\u26a0\ufe0f Mag 5.1 - 36 km E of Safotu, Samoa",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 121 km S of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u27u"
+            "title": "\u26a0\ufe0f Mag 4.8 - 30 km E of Safotu, Samoa",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple significant earthquakes, led by a Mag 5.9 near Fiji, reported across the Pacific!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, up to Mag 5.9, have just hit the Pacific region!"
 }
