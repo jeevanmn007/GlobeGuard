@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is under acute pressure, characterized by a burgeoning water crisis threatening resource stability and economic security, alongside the volatile, rapidly advancing realm of \"super-intelligence\" AI, which has already demonstrated direct cyber-offensive capabilities against state infrastructure. This is compounded by a notable uptick in moderate seismic activity across key fault lines, underscoring ongoing physical vulnerabilities, while financial markets show mixed signals against a backdrop of uncertain energy buffers and increasing air travel risks. To secure assets and physical safety, first, immediately audit and enhance digital security protocols against sophisticated AI-driven cyber threats, recognizing the proven capacity for autonomous infiltration. Second, review and fortify personal and organizational water and energy resilience strategies, assessing local supply vulnerabilities and initiating conservation or alternative sourcing measures. Third, maintain readiness for physical disruptions by updating emergency preparedness plans, particularly in seismically active regions, and rigorously vetting travel security advisories and protocols.",
+    "strategicPlan": "The global strategic environment is undergoing a critical shift, characterized by a rapidly escalating global water crisis confirmed by NASA data, the volatile and weaponizable advancements of AI now confirmed capable of state-level cyber intrusion, and persistent moderate seismic activity across key regions. To effectively navigate these converging threats and secure assets and physical safety, individuals and organizations must immediately: (1) Secure proactive and redundant access to potable water through localized purification and storage, assessing regional supply resilience; (2) Fortify digital assets and infrastructure against sophisticated AI-driven cyber threats, emphasizing robust encryption, multi-factor authentication, and geographically diversified data backups; and (3) Implement comprehensive emergency preparedness protocols, including redundant communication systems and structural integrity assessments to mitigate physical risks from seismic events.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.22 (-1.84%)",
+            "title": "\ud83d\udcb0 NVDA: $217.23 (-1.84%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.11 (0.04%)",
+            "title": "\ud83d\udcb0 AAPL: $342.0 (-0.28%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $539.14 (1.02%)",
+            "title": "\ud83d\udcb0 MSFT: $539.44 (1.08%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $199.61 (-0.68%)",
+            "title": "\ud83d\udcb0 PLTR: $200.5 (-0.23%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.97 (-0.04%)",
+            "title": "\ud83d\udcb0 AMZN: $254.76 (0.27%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hp"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes reported worldwide!"
+    "seismicSummary": "**Urgent: Multiple M5+ earthquakes just struck worldwide, including Alaska and the South Pacific!**"
 }
