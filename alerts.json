@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a rapidly converging risk profile: acute resource scarcity, highlighted by a hidden global water crisis and diminishing oil buffers, is intersecting with significant financial market volatility in key tech sectors and an escalating, politicized debate around AI superintelligence, punctuated by demonstrated AI-driven cyber intrusions. Compounding these systemic pressures, a pattern of high-magnitude seismic activity continues across the Pacific Ring of Fire, posing immediate physical threats. Therefore, we issue three urgent directives: first, fortify local resource independence by assessing and enhancing water collection and purification capabilities; second, strategically de-risk financial portfolios through diversification away from volatile tech, while simultaneously bolstering digital defenses against sophisticated AI-enabled threats; and third, meticulously review and drill comprehensive emergency preparedness plans, specifically addressing seismic events and broader operational security against emergent threats.",
+    "strategicPlan": "The current global intelligence brief reveals a complex, escalating threat landscape characterized by convergent geopolitical, financial, and physical stressors. A confirmed global water crisis, compounded by surging utility costs, presents an immediate and foundational resource challenge. Simultaneously, the unregulated and politically contentious emergence of \"Super Intelligence,\" already demonstrating cyber intrusion capabilities, introduces a profound and unpredictable digital security risk. This volatility is mirrored in financial markets, with significant dips in major tech stocks, while a critical aviation security incident and a period of heightened global seismic activity, including a Magnitude 6.9 event, underscore pervasive physical vulnerabilities. To navigate this environment, GlobeGuard directs immediate action: prioritize auditing water resource availability and developing contingency plans to mitigate the impact of the global crisis and rising utility costs; enhance digital defenses against evolving AI-driven threats while simultaneously reviewing and bolstering physical security protocols, especially in high-value aviation and critical infrastructure sectors; and immediately update emergency response plans, focusing on seismic event readiness given the sustained global tectonic activity, and ensure robust personal and asset safety measures are in place.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.38 (-0.85%)",
+            "title": "\ud83d\udcb0 NVDA: $214.13 (-1.43%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $342.69 (0.2%)",
+            "title": "\ud83d\udcb0 AAPL: $343.46 (0.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $524.75 (-2.72%)",
+            "title": "\ud83d\udcb0 MSFT: $529.05 (-1.93%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $185.39 (-7.54%)",
+            "title": "\ud83d\udcb0 PLTR: $186.03 (-7.22%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.88 (-1.92%)",
+            "title": "\ud83d\udcb0 AMZN: $250.0 (-1.87%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - off the coast of Ecuador",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - Auckland Islands, New Zealand region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2q5"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 119 km SSW of Merizo Village, Guam",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pl"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 31 km ENE of Kinablangan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2"
         }
     ],
-    "seismicSummary": "**URGENT: A magnitude 6.9 earthquake just struck Russia, with several other significant quakes reported globally!**"
+    "seismicSummary": "URGENT: A major Mag 6.9 earthquake just struck Russia, with multiple other significant quakes reported globally!"
 }
