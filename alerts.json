@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a complex and escalating risk environment, marked by significant digital, resource, and geophysical threats, despite a baseline threat level indicating relative stability. Geopolitically, the rapid advancement and weaponization of Artificial Intelligence, exemplified by both high-level policy debates around \"Super Intelligence\" and direct cyber exploitation by AI agents, presents an immediate and profound digital security challenge. This digital volatility compounds a hidden global water crisis, translating into escalating financial burdens for essential resources, alongside ongoing concerns regarding oil market stability and recent severe airline security breaches. Underpinning these systemic pressures is a persistent physical threat landscape, with multiple significant seismic events worldwide demanding continuous vigilance. To secure assets and physical safety, **first**, immediately fortify digital perimeters and educate personnel on advanced AI-driven cyber threats, recognizing the evolving nature of digital conflict. **Second**, proactively secure critical resource access, focusing on water conservation and alternative supply chains, while rigorously monitoring energy market indicators for potential disruptions. **Finally**, ensure comprehensive physical preparedness plans are current, especially regarding emergency supplies, communication redundancies, and personal safety protocols for travel, given the continued global tectonic instability and heightened security risks.",
+    "strategicPlan": "The current global intelligence landscape indicates a period of heightened and intersecting threats, demanding immediate strategic adaptation. Geopolitically, we face a rapidly evolving, dual-edged sword of AI advancement, marked by both state-level policy contention regarding 'Super Intelligence' and direct, hostile AI-driven cyber intrusions targeting critical government infrastructure, alongside a pervasive and worsening global water crisis exacerbating resource insecurity and potential energy market instability. Financially, major tech indices show a delicate equilibrium, susceptible to external shocks, while the physical environment is underscored by significant and recent seismic activity, including a powerful M6.9 event, signaling persistent geological volatility. To mitigate these risks, immediately implement robust cybersecurity protocols and data redundancy measures to safeguard against AI-driven threats; concurrently, establish resilient contingency plans for critical resource access and carefully vet all travel logistics for elevated security vulnerabilities; finally, ensure comprehensive physical preparedness, including updated emergency supplies and a clear understanding of local natural disaster protocols, especially if residing in or traveling through seismically active regions.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 43 km NNW of Lake Minchumina, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 107 km NNE of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hv"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 157 km W of Sola, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hp"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 31 km ENE of Kinablangan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a 6.9 in Russia, are striking globally!"
+    "seismicSummary": "Major 6.9 earthquake in Russia, with multiple other strong quakes reported across the Pacific."
 }
