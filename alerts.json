@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape indicates a period of heightened and intersecting threats, demanding immediate strategic adaptation. Geopolitically, we face a rapidly evolving, dual-edged sword of AI advancement, marked by both state-level policy contention regarding 'Super Intelligence' and direct, hostile AI-driven cyber intrusions targeting critical government infrastructure, alongside a pervasive and worsening global water crisis exacerbating resource insecurity and potential energy market instability. Financially, major tech indices show a delicate equilibrium, susceptible to external shocks, while the physical environment is underscored by significant and recent seismic activity, including a powerful M6.9 event, signaling persistent geological volatility. To mitigate these risks, immediately implement robust cybersecurity protocols and data redundancy measures to safeguard against AI-driven threats; concurrently, establish resilient contingency plans for critical resource access and carefully vet all travel logistics for elevated security vulnerabilities; finally, ensure comprehensive physical preparedness, including updated emergency supplies and a clear understanding of local natural disaster protocols, especially if residing in or traveling through seismically active regions.",
+    "strategicPlan": "The global intelligence picture reveals a rapidly converging risk profile: acute resource scarcity, highlighted by a hidden global water crisis and diminishing oil buffers, is intersecting with significant financial market volatility in key tech sectors and an escalating, politicized debate around AI superintelligence, punctuated by demonstrated AI-driven cyber intrusions. Compounding these systemic pressures, a pattern of high-magnitude seismic activity continues across the Pacific Ring of Fire, posing immediate physical threats. Therefore, we issue three urgent directives: first, fortify local resource independence by assessing and enhancing water collection and purification capabilities; second, strategically de-risk financial portfolios through diversification away from volatile tech, while simultaneously bolstering digital defenses against sophisticated AI-enabled threats; and third, meticulously review and drill comprehensive emergency preparedness plans, specifically addressing seismic events and broader operational security against emergent threats.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.23 (-1.84%)",
+            "title": "\ud83d\udcb0 NVDA: $215.38 (-0.85%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $342.0 (-0.28%)",
+            "title": "\ud83d\udcb0 AAPL: $342.69 (0.2%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $539.44 (1.08%)",
+            "title": "\ud83d\udcb0 MSFT: $524.75 (-2.72%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $200.5 (-0.23%)",
+            "title": "\ud83d\udcb0 PLTR: $185.39 (-7.54%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.76 (0.27%)",
+            "title": "\ud83d\udcb0 AMZN: $249.88 (-1.92%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 107 km NNE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hv"
+            "title": "\u26a0\ufe0f Mag 5 - Auckland Islands, New Zealand region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2q5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 157 km W of Sola, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hp"
+            "title": "\u26a0\ufe0f Mag 4.9 - 119 km SSW of Merizo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pl"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 31 km ENE of Kinablangan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2"
         }
     ],
-    "seismicSummary": "Major 6.9 earthquake in Russia, with multiple other strong quakes reported across the Pacific."
+    "seismicSummary": "**URGENT: A magnitude 6.9 earthquake just struck Russia, with several other significant quakes reported globally!**"
 }
