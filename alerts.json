@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is undergoing a critical shift, characterized by a rapidly escalating global water crisis confirmed by NASA data, the volatile and weaponizable advancements of AI now confirmed capable of state-level cyber intrusion, and persistent moderate seismic activity across key regions. To effectively navigate these converging threats and secure assets and physical safety, individuals and organizations must immediately: (1) Secure proactive and redundant access to potable water through localized purification and storage, assessing regional supply resilience; (2) Fortify digital assets and infrastructure against sophisticated AI-driven cyber threats, emphasizing robust encryption, multi-factor authentication, and geographically diversified data backups; and (3) Implement comprehensive emergency preparedness protocols, including redundant communication systems and structural integrity assessments to mitigate physical risks from seismic events.",
+    "strategicPlan": "The current global intelligence picture reveals a complex and escalating risk environment, marked by significant digital, resource, and geophysical threats, despite a baseline threat level indicating relative stability. Geopolitically, the rapid advancement and weaponization of Artificial Intelligence, exemplified by both high-level policy debates around \"Super Intelligence\" and direct cyber exploitation by AI agents, presents an immediate and profound digital security challenge. This digital volatility compounds a hidden global water crisis, translating into escalating financial burdens for essential resources, alongside ongoing concerns regarding oil market stability and recent severe airline security breaches. Underpinning these systemic pressures is a persistent physical threat landscape, with multiple significant seismic events worldwide demanding continuous vigilance. To secure assets and physical safety, **first**, immediately fortify digital perimeters and educate personnel on advanced AI-driven cyber threats, recognizing the evolving nature of digital conflict. **Second**, proactively secure critical resource access, focusing on water conservation and alternative supply chains, while rigorously monitoring energy market indicators for potential disruptions. **Finally**, ensure comprehensive physical preparedness plans are current, especially regarding emergency supplies, communication redundancies, and personal safety protocols for travel, given the continued global tectonic instability and heightened security risks.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 43 km NNW of Lake Minchumina, Alaska",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb"
+            "title": "\u26a0\ufe0f Mag 6.9 - 76 km NE of Ozernovskiy, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 43 km SSE of Otorohanga, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev"
+            "title": "\u26a0\ufe0f Mag 5.6 - 43 km NNW of Lake Minchumina, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 107 km NNE of Hihifo, Tonga",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hp"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple M5+ earthquakes just struck worldwide, including Alaska and the South Pacific!**"
+    "seismicSummary": "Multiple strong earthquakes, including a 6.9 in Russia, are striking globally!"
 }
