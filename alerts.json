@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's latest analysis reveals a complex and challenging global threat matrix, defined by an accelerating, unaddressed global water crisis with significant domestic economic impact, coupled with clear indicators of a broader US economic contraction and concurrent volatility in key tech markets. Geopolitically, the emergence of advanced AI is proving to be a highly contentious and potentially disruptive force, demonstrated by both legislative attempts to control \"superintelligence\" and confirmed AI-driven cyber infiltration, while critical infrastructure and aviation security remain vulnerable as highlighted by the recent Flydubai incident. This dynamic environment is further underpinned by persistent, globally dispersed moderate seismic activity. In light of these converging threats, we direct you to immediately fortify personal and enterprise resilience by: 1) securing essential resource independence, particularly regarding water, and strategically diversifying financial assets to mitigate market volatility; 2) implementing robust digital and physical security enhancements, particularly against sophisticated cyber threats and travel-related risks; and 3) updating and practicing comprehensive emergency preparedness plans for a range of contingencies, from natural disasters to systemic disruptions, ensuring robust communication and supply lines.",
+    "strategicPlan": "The current global intelligence picture reveals a complex and escalating threat landscape, demanding immediate strategic adaptation. Geopolitically, we face an accelerating global water crisis driving up essential resource costs, a concerning lapse in aviation security following recent incidents, and a contentious, high-stakes debate surrounding Artificial Super Intelligence, highlighted by state-level AI-driven cyber intrusions. Financially, major equity markets are signaling an impending economic downturn with significant corrections across key tech sectors. Concurrently, a discernible cluster of significant seismic activity across multiple continents indicates a period of heightened geological instability. To navigate these converging risks, GlobeGuard advises three immediate, actionable directives: **First**, critically review and diversify all investment portfolios towards liquidity and defensive assets, while simultaneously building substantial emergency financial reserves to withstand anticipated economic turbulence. **Second**, proactively secure access to critical resources, particularly potable water, by establishing robust personal emergency supplies and understanding local infrastructure resilience. **Third**, enhance all physical and operational security protocols, including updating comprehensive disaster preparedness kits for seismic events and exercising extreme vigilance regarding travel, given recent aviation security breaches.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - off the coast of Ecuador",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8"
+            "title": "\u26a0\ufe0f Mag 5.2 - 86 km SW of Brisas Barra de Suchiate, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Auckland Islands, New Zealand region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2q5"
+            "title": "\u26a0\ufe0f Mag 5.2 - off the coast of Ecuador",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 115 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.7, are reported globally!"
+    "seismicSummary": "**\ud83d\udea8 Multiple significant earthquakes just struck worldwide, including a Mag 5.7 in Pakistan!**"
 }
