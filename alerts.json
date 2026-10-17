@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a period of converging instabilities, with geopolitical tensions around rapidly evolving AI \"superintelligence\" and its demonstrated cyber capabilities, alongside an intensifying global water crisis and looming oil market vulnerabilities, creating a complex risk environment. Financially, significant downturns across major tech stocks signal market volatility and potential economic shifts. Physically, an observed increase in global seismic activity, punctuated by a strong M6.9 earthquake, underscores heightened natural hazard risks. To navigate these immediate and long-term challenges, we issue the following directive: First, prioritize bolstering personal and organizational water and energy resilience plans to mitigate future resource shocks. Second, critically reassess and diversify digital asset portfolios, recognizing both market fragility and the emerging threat vectors posed by advanced AI. Third, immediately update and exercise comprehensive emergency preparedness protocols for both natural disasters and unforeseen security incidents, especially concerning critical infrastructure and personal travel.",
+    "strategicPlan": "The global environment presents a complex interplay of systemic vulnerabilities: a deepening global water crisis compounded by rising costs, alongside a volatile tech market showing broad downturns, particularly in key AI-related stocks. Geopolitically, the debate over AI \"Super Intelligence\" is intensifying, with demonstrated immediate risks from AI agents actively compromising government systems. Concurrently, persistent, moderate seismic activity across multiple regions underscores the ongoing natural hazard risks, adding another layer of physical instability to an already fraught human and economic landscape. In light of this, GlobeGuard advises three immediate strategic priorities: first, diversify digital asset holdings away from over-reliance on volatile tech sectors and reinforce personal cybersecurity given observed AI agent activities; second, secure access to essential resources, specifically evaluating local water infrastructure resilience and considering alternative or emergency water storage solutions; and third, develop and rehearse comprehensive disaster preparedness plans, including emergency supply caches and communication strategies, accounting for both natural (seismic) and man-made (infrastructure compromise, aviation threats) disruptions.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.9 - 76 km NE of Ozernovskiy, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - off the coast of Ecuador",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8"
         },
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2q5"
         },
         {
+            "title": "\u26a0\ufe0f Mag 4.9 - 115 km SW of Puerto Madero, Mexico",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.9 - 119 km SSW of Merizo Village, Guam",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pl"
         }
     ],
-    "seismicSummary": "URGENT: A 6.9 magnitude quake hit Russia, with multiple other strong tremors striking globally!"
+    "seismicSummary": "URGENT: Multiple moderate (M4.9-5.2) earthquakes just reported worldwide, with a M5.2 off Ecuador!"
 }
