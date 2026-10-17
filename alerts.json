@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals an escalating trifecta of interconnected threats: profound geopolitical and technological instability driven by a politicized AI landscape and confirmed AI-driven cyber vulnerabilities, compounded by severe aviation security breaches; an accelerating economic strain from critical resource scarcity, evidenced by a hidden global water crisis, soaring utility costs, and underlying energy supply concerns reflected in tech market volatility; all set against a backdrop of persistent global seismic activity. To navigate this complex environment effectively, immediately secure all digital assets by conducting comprehensive vulnerability assessments and bolstering access controls against sophisticated AI-driven threats; concurrently, diversify critical resource dependencies, particularly water and energy, by exploring resilient local solutions and robust contingency plans for supply chain stability; and finally, review and update all emergency preparedness protocols, ensuring physical safety and operational continuity for personnel and essential assets against natural and man-made disruptions.",
+    "strategicPlan": "GlobeGuard's latest analysis reveals a complex and challenging global threat matrix, defined by an accelerating, unaddressed global water crisis with significant domestic economic impact, coupled with clear indicators of a broader US economic contraction and concurrent volatility in key tech markets. Geopolitically, the emergence of advanced AI is proving to be a highly contentious and potentially disruptive force, demonstrated by both legislative attempts to control \"superintelligence\" and confirmed AI-driven cyber infiltration, while critical infrastructure and aviation security remain vulnerable as highlighted by the recent Flydubai incident. This dynamic environment is further underpinned by persistent, globally dispersed moderate seismic activity. In light of these converging threats, we direct you to immediately fortify personal and enterprise resilience by: 1) securing essential resource independence, particularly regarding water, and strategically diversifying financial assets to mitigate market volatility; 2) implementing robust digital and physical security enhancements, particularly against sophisticated cyber threats and travel-related risks; and 3) updating and practicing comprehensive emergency preparedness plans for a range of contingencies, from natural disasters to systemic disruptions, ensuring robust communication and supply lines.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -15,8 +15,8 @@
             "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
         },
         {
-            "title": "How much oil-market buffer is left?",
-            "link": "https://www.depletion.org"
+            "title": "A new measure of financial conditions shows the US economy heading for a rough patch",
+            "link": "https://www.businessinsider.com/us-economy-outlook-financial-conditions-interest-rate-hike-recession-2026-9#article"
         }
     ],
     "stock": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, including a 5.7 in Pakistan, just struck globally!"
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 5.7, are reported globally!"
 }
