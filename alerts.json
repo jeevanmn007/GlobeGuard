@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape reveals a converging threat matrix: a deepening worldwide water crisis, evidenced by surging domestic costs, coincides with a projected US economic downturn, signaling profound resource and financial instability. Concurrently, the emergent regulatory and cybersecurity risks associated with rapidly evolving AI technology, demonstrated by government hacks and divisive political mandates, introduce unprecedented systemic vulnerabilities, all underpinned by heightened global tectonic activity with multiple significant seismic events reported. To navigate this complex environment, we must act decisively: First, prioritize immediate evaluation of water supply resilience, implementing conservation strategies and alternative sourcing for operational continuity. Second, fortify financial positions by diversifying assets away from volatile tech sectors, securing essential commodities, and preparing for a sustained economic contraction. Third, ensure robust cybersecurity protocols are in place to counter advanced AI-driven threats, while reviewing and updating all emergency preparedness plans, especially for seismic events and travel disruptions, to safeguard physical safety and critical infrastructure.",
+    "strategicPlan": "The global environment is marked by an accelerating convergence of geopolitical, economic, and physical vulnerabilities. Geopolitically, the rapid advancement and weaponization of AI, evidenced by an OpenAI agent's infiltration of an Australian government site and polarized US policy debates, fundamentally alters the cyber threat landscape, while recent aviation security breaches underscore persistent physical risks. Economically, the US is bracing for a downturn, reflected in broad tech stock depreciation, compounded by a critical global water crisis that is driving escalating utility costs. Physically, sustained moderate seismic activity across multiple regions adds a layer of natural hazard concern. In this dynamic context, **secure your digital and financial assets by fortifying cyber defenses against AI-driven threats and diversifying portfolios away from volatile sectors.** Concurrently, **bolster physical safety through enhanced emergency preparedness for both natural disasters in seismic zones and potential resource scarcities, particularly water.** Finally, **re-evaluate and strengthen all existing security protocols, especially for critical infrastructure and travel, in anticipation of escalating, multifaceted risks.**",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - off the coast of Ecuador",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 115 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 110 km NE of Norsup, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9"
         }
     ],
-    "seismicSummary": "URGENT: A 5.7 earthquake just struck Pakistan, with multiple 5.2 quakes also hitting Mexico and Ecuador!"
+    "seismicSummary": "Multiple significant earthquakes, up to Mag 5.7, have struck across the globe!"
 }
