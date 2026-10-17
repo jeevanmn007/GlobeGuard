@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex interplay of systemic vulnerabilities: a deepening global water crisis compounded by rising costs, alongside a volatile tech market showing broad downturns, particularly in key AI-related stocks. Geopolitically, the debate over AI \"Super Intelligence\" is intensifying, with demonstrated immediate risks from AI agents actively compromising government systems. Concurrently, persistent, moderate seismic activity across multiple regions underscores the ongoing natural hazard risks, adding another layer of physical instability to an already fraught human and economic landscape. In light of this, GlobeGuard advises three immediate strategic priorities: first, diversify digital asset holdings away from over-reliance on volatile tech sectors and reinforce personal cybersecurity given observed AI agent activities; second, secure access to essential resources, specifically evaluating local water infrastructure resilience and considering alternative or emergency water storage solutions; and third, develop and rehearse comprehensive disaster preparedness plans, including emergency supply caches and communication strategies, accounting for both natural (seismic) and man-made (infrastructure compromise, aviation threats) disruptions.",
+    "strategicPlan": "The global intelligence picture reveals an escalating trifecta of interconnected threats: profound geopolitical and technological instability driven by a politicized AI landscape and confirmed AI-driven cyber vulnerabilities, compounded by severe aviation security breaches; an accelerating economic strain from critical resource scarcity, evidenced by a hidden global water crisis, soaring utility costs, and underlying energy supply concerns reflected in tech market volatility; all set against a backdrop of persistent global seismic activity. To navigate this complex environment effectively, immediately secure all digital assets by conducting comprehensive vulnerability assessments and bolstering access controls against sophisticated AI-driven threats; concurrently, diversify critical resource dependencies, particularly water and energy, by exploring resilient local solutions and robust contingency plans for supply chain stability; and finally, review and update all emergency preparedness protocols, ensuring physical safety and operational continuity for personnel and essential assets against natural and man-made disruptions.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 48 km WNW of Khuzdar, Pakistan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - off the coast of Ecuador",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 115 km SW of Puerto Madero, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 119 km SSW of Merizo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pl"
         }
     ],
-    "seismicSummary": "URGENT: Multiple moderate (M4.9-5.2) earthquakes just reported worldwide, with a M5.2 off Ecuador!"
+    "seismicSummary": "Multiple significant earthquakes, including a 5.7 in Pakistan, just struck globally!"
 }
