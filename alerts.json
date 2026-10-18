@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is currently characterized by a critical convergence of systemic risks: a significant downturn in major tech financial markets, coupled with an explicit forecast for a rough patch in the US economy, indicates widespread financial instability. Geopolitically, the rapid, contentious, and actively exploitable evolution of AI, marked by government hacking incidents and deeply divisive legislative proposals, presents an immediate and potent cyber and strategic threat. Concurrently, profound physical vulnerabilities are accelerating, driven by an emergent global water crisis with direct economic consequences through rising utility costs, alongside ongoing moderate seismic activity across multiple key regions that demands constant vigilance. To navigate this complex threat landscape, immediately re-evaluate and diversify investment portfolios away from volatile tech, fortify all digital and physical security protocols against evolving AI-driven and state-actor threats, and proactively implement comprehensive water conservation and emergency preparedness plans tailored for both resource scarcity and potential seismic events to secure essential assets and ensure personal safety.",
+    "strategicPlan": "The current global intelligence brief indicates a critical convergence of systemic threats, demanding immediate strategic recalibration. A hidden global water crisis is intensifying resource insecurity, exacerbated by soaring utility costs and compounded by a clear signal of an impending US economic contraction reflected in widespread tech stock declines. Geopolitical and social stability remain fragile, underscored by aviation security incidents and the rapid, contentious emergence of AI as a dual-use technology with significant cyber implications, as demonstrated by the OpenAI agent's breach. Simultaneously, persistent moderate seismic activity across multiple tectonically active zones serves as a constant physical threat multiplier. In response, we direct the following: (1) Secure critical assets by diversifying investment portfolios away from volatile tech sectors and prioritizing regional water resource resilience assessments, including securing alternative water supplies. (2) Bolster physical safety protocols by updating comprehensive emergency preparedness plans, with a specific focus on seismic event readiness, and maintaining heightened situational awareness during all domestic and international travel. (3) Mitigate emergent risks by reviewing and fortifying digital infrastructure against AI-powered cyber intrusions, while closely monitoring the evolving regulatory landscape surrounding advanced AI capabilities.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 86 km SW of Brisas Barra de Suchiate, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.8 - 31 km SE of Kainantu, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.6 - 88 km SSW of Uyuni, Bolivia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.5 - Kermadec Islands, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including two Mag 5.2s, reported globally!"
+    "seismicSummary": "Multiple strong earthquakes just struck globally, including a Mag 5.2 in Indonesia!"
 }
