@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief indicates a critical convergence of systemic threats, demanding immediate strategic recalibration. A hidden global water crisis is intensifying resource insecurity, exacerbated by soaring utility costs and compounded by a clear signal of an impending US economic contraction reflected in widespread tech stock declines. Geopolitical and social stability remain fragile, underscored by aviation security incidents and the rapid, contentious emergence of AI as a dual-use technology with significant cyber implications, as demonstrated by the OpenAI agent's breach. Simultaneously, persistent moderate seismic activity across multiple tectonically active zones serves as a constant physical threat multiplier. In response, we direct the following: (1) Secure critical assets by diversifying investment portfolios away from volatile tech sectors and prioritizing regional water resource resilience assessments, including securing alternative water supplies. (2) Bolster physical safety protocols by updating comprehensive emergency preparedness plans, with a specific focus on seismic event readiness, and maintaining heightened situational awareness during all domestic and international travel. (3) Mitigate emergent risks by reviewing and fortifying digital infrastructure against AI-powered cyber intrusions, while closely monitoring the evolving regulatory landscape surrounding advanced AI capabilities.",
+    "strategicPlan": "The current global landscape reveals a critical convergence of escalating threats. Geopolitically, a hidden global water crisis is intensifying, driving up costs and contributing to social unrest, as seen in France, while aviation security remains vulnerable following a cockpit attack. Financially, major tech stocks are experiencing significant downturns, indicating broader market volatility. Concurrently, the rapid advancement and potential weaponization of AI are starkly highlighted by a government hack and contentious legislative debates, all set against a backdrop of heightened seismic activity across multiple regions. To secure assets and ensure physical safety, first, prioritize securing critical resources, specifically water, by assessing regional supply chain resilience and personal/organizational consumption patterns amidst escalating global scarcity and cost. Second, diversify financial holdings and ensure robust liquidity, particularly by stress-testing portfolios against further downturns in the volatile tech sector. Third, enhance preparedness for physical and cyber disruptions, including reviewing disaster protocols for seismic events, strengthening digital infrastructure against AI-driven threats, and updating personal security awareness for travel and public spaces.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
             "link": "https://gizmodo.com/nasa-satellite-data-exposes-a-hidden-global-water-crisis-2000825217"
+        },
+        {
+            "title": "Scuffles and fires break out as protesters rally across France, joining students",
+            "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
         },
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
@@ -13,10 +17,6 @@
         {
             "title": "I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake.",
             "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
-        },
-        {
-            "title": "A new measure of financial conditions shows the US economy heading for a rough patch",
-            "link": "https://www.businessinsider.com/us-economy-outlook-financial-conditions-interest-rate-hike-recession-2026-9#article"
         }
     ],
     "stock": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.6 - 88 km SSW of Uyuni, Bolivia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x"
+            "title": "\u26a0\ufe0f Mag 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.5 - Kermadec Islands, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes just struck globally, including a Mag 5.2 in Indonesia!"
+    "seismicSummary": "\ud83d\udea8 Earthquakes worldwide, topping out at Mag 5.2!"
 }
