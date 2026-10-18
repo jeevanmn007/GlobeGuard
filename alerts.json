@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape reveals a critical convergence of escalating threats. Geopolitically, a hidden global water crisis is intensifying, driving up costs and contributing to social unrest, as seen in France, while aviation security remains vulnerable following a cockpit attack. Financially, major tech stocks are experiencing significant downturns, indicating broader market volatility. Concurrently, the rapid advancement and potential weaponization of AI are starkly highlighted by a government hack and contentious legislative debates, all set against a backdrop of heightened seismic activity across multiple regions. To secure assets and ensure physical safety, first, prioritize securing critical resources, specifically water, by assessing regional supply chain resilience and personal/organizational consumption patterns amidst escalating global scarcity and cost. Second, diversify financial holdings and ensure robust liquidity, particularly by stress-testing portfolios against further downturns in the volatile tech sector. Third, enhance preparedness for physical and cyber disruptions, including reviewing disaster protocols for seismic events, strengthening digital infrastructure against AI-driven threats, and updating personal security awareness for travel and public spaces.",
+    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic threats: escalating resource scarcity, exemplified by the global water crisis and rising utility costs, is already fueling civil unrest in key regions like France, indicating a widening socio-political instability. Concurrently, the burgeoning AI landscape is marked by intense regulatory discord and demonstrable security vulnerabilities, with AI agents actively probing government systems, posing a significant digital and geopolitical risk. Financially, major tech equities are experiencing notable declines, signaling broader market uncertainty amidst these challenges. Underpinning these human-generated pressures is a persistent pattern of moderate seismic activity across diverse global fault lines, introducing an unpredictable layer of physical peril. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, prioritize securing essential water resources and bolstering local community resilience plans to mitigate the impacts of resource scarcity and unrest; second, diversify financial holdings, strengthen digital infrastructure against evolving AI-driven threats, and implement robust cybersecurity measures; and third, meticulously review and update all emergency preparedness and response protocols, particularly for personnel and assets situated in tectonically active zones.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 71 km ESE of \u2018Ohonua, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 55 km NNW of Ruteng, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.5 - Kermadec Islands, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Earthquakes worldwide, topping out at Mag 5.2!"
+    "seismicSummary": "**Alert: Multiple moderate earthquakes, up to Mag 5.2, reported worldwide!**"
 }
