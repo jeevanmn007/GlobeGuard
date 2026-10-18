@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a critical nexus of evolving threats: a deepening global water crisis with direct financial implications for utilities, early indicators of a significant US economic downturn marked by tech sector volatility, and a rapidly polarizing geopolitical and regulatory landscape surrounding AI, underscored by recent cyber intrusions and its potential for misuse. This systemic fragility is compounded by persistent moderate seismic activity across multiple key regions and a clear warning regarding air travel security. To mitigate these immediate and interconnected challenges, GlobeGuard directs immediate action: prioritize the assessment and bolstering of local water resource security and financial resilience against rising utility costs; strategically adjust financial portfolios to mitigate exposure to volatile tech markets amidst projected economic headwinds, while reinforcing overall liquidity; and implement enhanced digital perimeter defenses against AI-driven cyber threats, meticulously review and update all travel security protocols, and ensure robust physical safety plans are in place for areas prone to seismic events.",
+    "strategicPlan": "The global operating environment is currently characterized by a critical convergence of systemic risks: a significant downturn in major tech financial markets, coupled with an explicit forecast for a rough patch in the US economy, indicates widespread financial instability. Geopolitically, the rapid, contentious, and actively exploitable evolution of AI, marked by government hacking incidents and deeply divisive legislative proposals, presents an immediate and potent cyber and strategic threat. Concurrently, profound physical vulnerabilities are accelerating, driven by an emergent global water crisis with direct economic consequences through rising utility costs, alongside ongoing moderate seismic activity across multiple key regions that demands constant vigilance. To navigate this complex threat landscape, immediately re-evaluate and diversify investment portfolios away from volatile tech, fortify all digital and physical security protocols against evolving AI-driven and state-actor threats, and proactively implement comprehensive water conservation and emergency preparedness plans tailored for both resource scarcity and potential seismic events to secure essential assets and ensure personal safety.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 55 km NNW of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 86 km SW of Brisas Barra de Suchiate, Mexico",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 110 km NE of Norsup, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.6 - 88 km SSW of Uyuni, Bolivia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple moderate earthquakes (M4.6-M5.2) reported globally!"
+    "seismicSummary": "Multiple strong earthquakes, including two Mag 5.2s, reported globally!"
 }
