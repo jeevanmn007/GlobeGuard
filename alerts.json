@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a critical convergence of systemic threats: escalating resource scarcity, exemplified by the global water crisis and rising utility costs, is already fueling civil unrest in key regions like France, indicating a widening socio-political instability. Concurrently, the burgeoning AI landscape is marked by intense regulatory discord and demonstrable security vulnerabilities, with AI agents actively probing government systems, posing a significant digital and geopolitical risk. Financially, major tech equities are experiencing notable declines, signaling broader market uncertainty amidst these challenges. Underpinning these human-generated pressures is a persistent pattern of moderate seismic activity across diverse global fault lines, introducing an unpredictable layer of physical peril. To secure assets and ensure physical safety, GlobeGuard advises three immediate actions: first, prioritize securing essential water resources and bolstering local community resilience plans to mitigate the impacts of resource scarcity and unrest; second, diversify financial holdings, strengthen digital infrastructure against evolving AI-driven threats, and implement robust cybersecurity measures; and third, meticulously review and update all emergency preparedness and response protocols, particularly for personnel and assets situated in tectonically active zones.",
+    "strategicPlan": "The global environment signals heightened systemic risk, characterized by a worsening global water crisis acting as a fundamental geopolitical stressor and a catalyst for social unrest, as evidenced by widespread protests in France and surging utility costs. Concurrently, the rapid, contentious advancement of 'Super Intelligence' poses immediate cyber threats, exemplified by AI agent breaches of government systems, while contributing to significant market volatility with notable dips across major tech equities. This complex landscape is further complicated by persistent geophysical instability, with a cluster of moderate seismic events across the Pacific Ring of Fire serving as a stark reminder of natural disaster potential. To navigate this converging threat matrix, immediately secure diversified water resources and robust emergency preparedness kits against both resource scarcity and potential seismic events; fortify digital asset cybersecurity against sophisticated AI-driven threats; and de-risk investment portfolios from volatile tech sectors by exploring diversification into essential commodities and defensive assets.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 31 km SE of Kainantu, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r"
+            "title": "\u26a0\ufe0f Mag 5.1 - 129 km SSE of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d"
+            "title": "\u26a0\ufe0f Mag 4.8 - 31 km SE of Kainantu, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r"
         }
     ],
-    "seismicSummary": "**Alert: Multiple moderate earthquakes, up to Mag 5.2, reported worldwide!**"
+    "seismicSummary": "Multiple strong quakes (Mag 4.8-5.2) just struck Tonga, Indonesia, and Papua New Guinea!"
 }
