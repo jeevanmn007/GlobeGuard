@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals heightened systemic risk, characterized by a worsening global water crisis acting as a fundamental geopolitical stressor and a catalyst for social unrest, as evidenced by widespread protests in France and surging utility costs. Concurrently, the rapid, contentious advancement of 'Super Intelligence' poses immediate cyber threats, exemplified by AI agent breaches of government systems, while contributing to significant market volatility with notable dips across major tech equities. This complex landscape is further complicated by persistent geophysical instability, with a cluster of moderate seismic events across the Pacific Ring of Fire serving as a stark reminder of natural disaster potential. To navigate this converging threat matrix, immediately secure diversified water resources and robust emergency preparedness kits against both resource scarcity and potential seismic events; fortify digital asset cybersecurity against sophisticated AI-driven threats; and de-risk investment portfolios from volatile tech sectors by exploring diversification into essential commodities and defensive assets.",
+    "strategicPlan": "The global landscape reveals an accelerating convergence of systemic risks, demanding immediate and decisive action. Geopolitically, the escalating global water crisis, exacerbated by surging costs and contributing to widespread civil unrest in France, highlights fundamental resource insecurity and societal instability. This is compounded by direct, unpredictable threats to physical safety, as demonstrated by the Flydubai cockpit attack, while the rapid advancements and questionable ethics of AI, underscored by government hacking and contentious regulatory debate, introduce significant new cybersecurity and strategic vulnerabilities, mirrored by the downturn in major tech stocks. Simultaneously, persistent moderate seismic activity across the Pacific Ring of Fire serves as a constant reminder of underlying natural hazard risks. To navigate this complex environment, **prioritize securing essential water resources, assessing local infrastructure vulnerabilities, and developing contingency plans for supply chain disruptions.** **Strengthen all digital defenses against evolving AI-driven threats and strategically re-evaluate financial portfolios, diversifying away from volatile tech assets toward more resilient sectors.** **Finally, immediately update all physical safety protocols and emergency preparedness plans, focusing on robust measures for civil unrest, travel, and natural disasters, ensuring multiple redundancies for communication and essential supplies.**",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 31 km SE of Kainantu, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r"
+            "title": "\u26a0\ufe0f Mag 4.7 - 147 km SSW of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b"
         }
     ],
-    "seismicSummary": "Multiple strong quakes (Mag 4.8-5.2) just struck Tonga, Indonesia, and Papua New Guinea!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck Tonga, Indonesia, and Papua New Guinea!"
 }
