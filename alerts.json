@@ -1,10 +1,14 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape reveals an accelerating convergence of systemic risks, demanding immediate and decisive action. Geopolitically, the escalating global water crisis, exacerbated by surging costs and contributing to widespread civil unrest in France, highlights fundamental resource insecurity and societal instability. This is compounded by direct, unpredictable threats to physical safety, as demonstrated by the Flydubai cockpit attack, while the rapid advancements and questionable ethics of AI, underscored by government hacking and contentious regulatory debate, introduce significant new cybersecurity and strategic vulnerabilities, mirrored by the downturn in major tech stocks. Simultaneously, persistent moderate seismic activity across the Pacific Ring of Fire serves as a constant reminder of underlying natural hazard risks. To navigate this complex environment, **prioritize securing essential water resources, assessing local infrastructure vulnerabilities, and developing contingency plans for supply chain disruptions.** **Strengthen all digital defenses against evolving AI-driven threats and strategically re-evaluate financial portfolios, diversifying away from volatile tech assets toward more resilient sectors.** **Finally, immediately update all physical safety protocols and emergency preparedness plans, focusing on robust measures for civil unrest, travel, and natural disasters, ensuring multiple redundancies for communication and essential supplies.**",
+    "strategicPlan": "The current global intelligence picture reveals a complex, multi-faceted threat landscape: geopolitical tensions are rising due to a worsening global water crisis exacerbating social unrest in key regions like France, compounded by a deepening domestic drug crisis. Financially, major tech stocks are exhibiting significant volatility and downward pressure, signaling broader market uncertainty. Simultaneously, the rapid and controversial advancement of AI, exemplified by direct state-sponsored hacking incidents, introduces novel and substantial cyber risks. This complex environment is further underscored by persistent, moderate seismic activity across multiple tectonically active zones. To navigate this period of heightened instability, GlobeGuard directs immediate action: first, fortify critical resource security, particularly water access and supply chains, anticipating price surges and scarcity; second, aggressively enhance digital defenses against evolving AI-driven cyber threats, recognizing their proven capacity for infiltration; and third, strategically re-evaluate and diversify asset portfolios while establishing robust contingency plans for both physical safety and operational continuity amidst social and physical disruptions.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
             "link": "https://gizmodo.com/nasa-satellite-data-exposes-a-hidden-global-water-crisis-2000825217"
+        },
+        {
+            "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+            "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o"
         },
         {
             "title": "Scuffles and fires break out as protesters rally across France, joining students",
@@ -13,10 +17,6 @@
         {
             "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
             "link": "https://gizmodo.com/us-water-bills-surged-62-in-10-years-a-new-map-reveals-where-americans-pay-the-most-2000822302"
-        },
-        {
-            "title": "I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake.",
-            "link": "https://www.businessinsider.com/flydubai-flight-pilot-stabbing-incident-passenger-what-happened-2026-10#article"
         }
     ],
     "stock": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.7 - 147 km SSW of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b"
+            "title": "\u26a0\ufe0f Mag 4.9 - 68 km WSW of San Juan del Sur, Nicaragua",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a8"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck Tonga, Indonesia, and Papua New Guinea!"
+    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 5+ earthquakes reported across several regions!"
 }
