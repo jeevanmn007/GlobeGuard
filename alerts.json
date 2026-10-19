@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by a critical confluence of escalating threats. Geopolitically, a hidden global water crisis is intensifying social unrest, evidenced by surging water costs and protests in France, while a deepening synthetic drug crisis undermines public health. The volatile discourse surrounding AI, from calls for \"Super Intelligence\" to proposals for outright bans and reported hacking incidents, signals significant technological and regulatory uncertainty. Financially, while key tech stocks demonstrate robust growth, this contrasts sharply with the broader resource and social fragilities. This complex environment is further compounded by significant tectonic activity, with multiple strong earthquakes reported in Vanuatu and Iceland, posing immediate physical risks and potential for broader infrastructure disruption. To navigate this landscape, we must prioritize three key directives: First, immediately audit and secure critical water resources, implementing water conservation strategies and diversifying supply chains to mitigate the growing global water crisis. Second, fortify all digital infrastructure and data assets against sophisticated cyber threats, specifically developing a robust AI governance framework that balances innovation with security in light of evolving regulatory landscapes and autonomous agent risks. Third, conduct an urgent reassessment of physical asset vulnerability, particularly in seismically active regions, ensuring comprehensive emergency preparedness plans, including off-grid communication and survival provisions, are current and actionable.",
+    "strategicPlan": "The global environment presents a complex, elevated risk profile marked by escalating systemic vulnerabilities: a deepening, widespread water crisis with significant economic and social implications, increasing social instability evidenced by drug crises and widespread protests in key Western nations, and a rapidly politicized AI development landscape characterized by both unprecedented innovation and demonstrated security vulnerabilities from autonomous agents. Concurrently, a cluster of significant seismic events in the tectonically active Vanuatu region signals ongoing physical instability. While the tech sector, particularly AI-driven assets, continues to show strong financial performance, these underlying geopolitical and physical threats demand immediate strategic response. To secure assets and ensure physical safety, **first**, prioritize resource diversification and resilience, particularly regarding water and critical supply chains, while stress-testing against both scarcity and social disruption; **second**, fortify all digital infrastructure with advanced cybersecurity protocols, recognizing the explicit threat posed by AI-driven hacking; and **third**, maintain high situational awareness regarding social unrest with robust emergency action plans, alongside immediate preparedness for seismic events for those in vulnerable regions.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.73 (2.15%)",
+            "title": "\ud83d\udcb0 NVDA: $217.09 (1.38%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.25 (-0.06%)",
+            "title": "\ud83d\udcb0 AAPL: $342.94 (-0.15%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $534.59 (1.05%)",
+            "title": "\ud83d\udcb0 MSFT: $533.52 (0.84%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $195.59 (5.14%)",
+            "title": "\ud83d\udcb0 PLTR: $194.15 (4.36%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.19 (4.88%)",
+            "title": "\ud83d\udcb0 AMZN: $262.45 (4.98%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - 203 km WNW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.7 - 198 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 196 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 184 km WNW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 116 km WNW of H\u00f6fn, Iceland",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ct"
         }
     ],
-    "seismicSummary": "URGENT: A Mag 6 earthquake and multiple strong tremors reported near Port-Olry, Vanuatu, with another in Iceland!"
+    "seismicSummary": "A Mag 6 and multiple strong earthquakes are currently rocking Port-Olry, Vanuatu!"
 }
