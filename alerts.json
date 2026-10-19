@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a complex, multi-faceted threat landscape: geopolitical tensions are rising due to a worsening global water crisis exacerbating social unrest in key regions like France, compounded by a deepening domestic drug crisis. Financially, major tech stocks are exhibiting significant volatility and downward pressure, signaling broader market uncertainty. Simultaneously, the rapid and controversial advancement of AI, exemplified by direct state-sponsored hacking incidents, introduces novel and substantial cyber risks. This complex environment is further underscored by persistent, moderate seismic activity across multiple tectonically active zones. To navigate this period of heightened instability, GlobeGuard directs immediate action: first, fortify critical resource security, particularly water access and supply chains, anticipating price surges and scarcity; second, aggressively enhance digital defenses against evolving AI-driven cyber threats, recognizing their proven capacity for infiltration; and third, strategically re-evaluate and diversify asset portfolios while establishing robust contingency plans for both physical safety and operational continuity amidst social and physical disruptions.",
+    "strategicPlan": "The global situation demands immediate attention, marked by a critical confluence of escalating threats. Geopolitically, a hidden global water crisis is intensifying social unrest, evidenced by surging water costs and protests in France, while a deepening synthetic drug crisis undermines public health. The volatile discourse surrounding AI, from calls for \"Super Intelligence\" to proposals for outright bans and reported hacking incidents, signals significant technological and regulatory uncertainty. Financially, while key tech stocks demonstrate robust growth, this contrasts sharply with the broader resource and social fragilities. This complex environment is further compounded by significant tectonic activity, with multiple strong earthquakes reported in Vanuatu and Iceland, posing immediate physical risks and potential for broader infrastructure disruption. To navigate this landscape, we must prioritize three key directives: First, immediately audit and secure critical water resources, implementing water conservation strategies and diversifying supply chains to mitigate the growing global water crisis. Second, fortify all digital infrastructure and data assets against sophisticated cyber threats, specifically developing a robust AI governance framework that balances innovation with security in light of evolving regulatory landscapes and autonomous agent risks. Third, conduct an urgent reassessment of physical asset vulnerability, particularly in seismically active regions, ensuring comprehensive emergency preparedness plans, including off-grid communication and survival provisions, are current and actionable.",
     "survival": [
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $214.13 (-1.43%)",
+            "title": "\ud83d\udcb0 NVDA: $218.73 (2.15%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.46 (0.43%)",
+            "title": "\ud83d\udcb0 AAPL: $343.25 (-0.06%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $529.05 (-1.93%)",
+            "title": "\ud83d\udcb0 MSFT: $534.59 (1.05%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $186.03 (-7.22%)",
+            "title": "\ud83d\udcb0 PLTR: $195.59 (5.14%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $250.0 (-1.87%)",
+            "title": "\ud83d\udcb0 AMZN: $262.19 (4.88%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 71 km ESE of \u2018Ohonua, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h"
+            "title": "\u26a0\ufe0f Mag 6 - 186 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 55 km NNW of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e"
+            "title": "\u26a0\ufe0f Mag 5.4 - 196 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 129 km SSE of Kokopo, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g"
+            "title": "\u26a0\ufe0f Mag 5.4 - 184 km WNW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 68 km WSW of San Juan del Sur, Nicaragua",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3a8"
+            "title": "\u26a0\ufe0f Mag 5.3 - 116 km WNW of H\u00f6fn, Iceland",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ct"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f Multiple magnitude 5+ earthquakes reported across several regions!"
+    "seismicSummary": "URGENT: A Mag 6 earthquake and multiple strong tremors reported near Port-Olry, Vanuatu, with another in Iceland!"
 }
