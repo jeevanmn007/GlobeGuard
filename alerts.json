@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape presents a complex threat matrix characterized by escalating social and humanitarian crises\u2014including widespread water scarcity, a synthetic drug epidemic, and civil unrest in France\u2014fueling geopolitical instability, alongside a rapid, unregulated advancement in AI that introduces new cyber and ethical risks as political discourse polarizes. Financially, while key tech stocks like AMZN, PLTR, NVDA, and MSFT show robust growth, underlying 'credit crunch' concerns persist, while concurrently, a severe cluster of significant seismic events (Mag 5.7-6.3) near Vanuatu signals an acute and heightened natural disaster risk in the Pacific region. Our immediate strategic directive is to secure assets by strategically diversifying investments, particularly leveraging resilient tech sectors while hedging against broader economic downturns and the emerging risks associated with advanced AI. Simultaneously, bolster physical safety by establishing robust contingency plans for essential resources amidst potential social unrest and escalating humanitarian challenges. Finally, immediately review and enhance disaster preparedness protocols, especially regarding seismic events and associated infrastructure vulnerabilities, to protect personnel and critical assets from the immediate and cascading effects of natural disasters.",
+    "strategicPlan": "The current global intelligence picture reveals a convergent threat landscape characterized by escalating socio-economic vulnerabilities, an accelerating technological arms race, and persistent environmental and geological instability. Geopolitically, widespread social unrest in France, a looming credit crunch, and a pervasive global water crisis underscore systemic fragility, while the unchecked proliferation of AI, demonstrated by both political contention over \"super intelligence\" and confirmed AI-driven cyber intrusions, introduces unprecedented digital risks. This is further compounded by significant seismic activity, notably multiple strong quakes near Vanuatu, demanding immediate attention. To secure assets and ensure physical safety, individuals must: first, prioritize robust emergency preparedness, establishing secure access to vital resources like water and developing contingency plans for communication and movement, particularly in seismically active or socially unstable regions; second, defensively restructure financial portfolios towards liquidity and diversification, mitigating exposure to broader economic instability; and third, fortify digital infrastructure with advanced cybersecurity measures, recognizing the immediate and evolving threat from AI-driven data breaches and informational warfare.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6 - 186 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.7 - 203 km WNW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.7 - 198 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 116 km WNW of H\u00f6fn, Iceland",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ct"
         }
     ],
-    "seismicSummary": "Urgent: Multiple powerful earthquakes, including a 6.3 magnitude, have struck near Port-Olry, Vanuatu!"
+    "seismicSummary": "**Mag 6.3 earthquake strikes Vanuatu, with multiple strong quakes reported there and in Iceland!**"
 }
