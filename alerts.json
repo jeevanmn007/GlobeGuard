@@ -1,7 +1,11 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex, elevated risk profile marked by escalating systemic vulnerabilities: a deepening, widespread water crisis with significant economic and social implications, increasing social instability evidenced by drug crises and widespread protests in key Western nations, and a rapidly politicized AI development landscape characterized by both unprecedented innovation and demonstrated security vulnerabilities from autonomous agents. Concurrently, a cluster of significant seismic events in the tectonically active Vanuatu region signals ongoing physical instability. While the tech sector, particularly AI-driven assets, continues to show strong financial performance, these underlying geopolitical and physical threats demand immediate strategic response. To secure assets and ensure physical safety, **first**, prioritize resource diversification and resilience, particularly regarding water and critical supply chains, while stress-testing against both scarcity and social disruption; **second**, fortify all digital infrastructure with advanced cybersecurity protocols, recognizing the explicit threat posed by AI-driven hacking; and **third**, maintain high situational awareness regarding social unrest with robust emergency action plans, alongside immediate preparedness for seismic events for those in vulnerable regions.",
+    "strategicPlan": "The current global landscape presents a complex threat matrix characterized by escalating social and humanitarian crises\u2014including widespread water scarcity, a synthetic drug epidemic, and civil unrest in France\u2014fueling geopolitical instability, alongside a rapid, unregulated advancement in AI that introduces new cyber and ethical risks as political discourse polarizes. Financially, while key tech stocks like AMZN, PLTR, NVDA, and MSFT show robust growth, underlying 'credit crunch' concerns persist, while concurrently, a severe cluster of significant seismic events (Mag 5.7-6.3) near Vanuatu signals an acute and heightened natural disaster risk in the Pacific region. Our immediate strategic directive is to secure assets by strategically diversifying investments, particularly leveraging resilient tech sectors while hedging against broader economic downturns and the emerging risks associated with advanced AI. Simultaneously, bolster physical safety by establishing robust contingency plans for essential resources amidst potential social unrest and escalating humanitarian challenges. Finally, immediately review and enhance disaster preparedness protocols, especially regarding seismic events and associated infrastructure vulnerabilities, to protect personnel and critical assets from the immediate and cascading effects of natural disasters.",
     "survival": [
+        {
+            "title": "'Neets crisis is moral failure' and 'Credit crunch'",
+            "link": "https://www.bbc.co.uk/news/articles/cmy56p9elwd1o"
+        },
         {
             "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
             "link": "https://gizmodo.com/nasa-satellite-data-exposes-a-hidden-global-water-crisis-2000825217"
@@ -13,10 +17,6 @@
         {
             "title": "Scuffles and fires break out as protesters rally across France, joining students",
             "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
-        },
-        {
-            "title": "US Water Bills Surged 62% in 10 Years. A New Map Reveals Where Americans Pay the Most",
-            "link": "https://gizmodo.com/us-water-bills-surged-62-in-10-years-a-new-map-reveals-where-americans-pay-the-most-2000822302"
         }
     ],
     "stock": [
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.3 - 197 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6 - 186 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.7 - 198 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 196 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
         }
     ],
-    "seismicSummary": "A Mag 6 and multiple strong earthquakes are currently rocking Port-Olry, Vanuatu!"
+    "seismicSummary": "Urgent: Multiple powerful earthquakes, including a 6.3 magnitude, have struck near Port-Olry, Vanuatu!"
 }
