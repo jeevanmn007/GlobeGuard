@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our assessment indicates a rapidly deteriorating global risk environment characterized by multifaceted threats. Geopolitically, we observe a surge in internal societal instability, evidenced by widespread protests and fires in France, deepening social crises from unemployment ('Neets') and synthetic drugs, and a critical global water scarcity issue confirmed by satellite data. The AI domain presents a complex new frontier, with significant regulatory debates coinciding with confirmed incidents of AI agents breaching government systems. Financially, a 'credit crunch' narrative signals tightening economic conditions, further pressuring vulnerable sectors. Simultaneously, a potent cluster of seismic activity, including a Magnitude 6.3 earthquake in Vanuatu, underscores persistent physical hazards. In light of this escalating confluence, we issue the following directives: 1) **Fortify digital and financial resilience:** Diversify investments, implement robust cybersecurity measures, and secure essential data against emerging AI-driven threats. 2) **Enhance physical preparedness:** Develop comprehensive emergency plans, secure vital resources (water, non-perishables), and maintain situational awareness regarding local social unrest and natural disaster readiness, especially in seismically active zones. 3) **Prioritize vetted intelligence:** Actively monitor evolving geopolitical and technological landscapes from credible sources, critically evaluating information to preempt disinformation and understand rapidly changing threats.",
+    "strategicPlan": "The global environment is marked by a complex interplay of escalating threats: significant socio-economic instability manifesting as a credit crunch, a growing NEETs crisis, widespread social unrest in France, and a looming global water scarcity. This is compounded by an intensifying geopolitical and ethical debate surrounding \"Super Intelligence\" AI, already demonstrating offensive capabilities with a reported hack of an Australian government website, while major tech stocks experience a downturn. Concurrently, heightened global seismic activity, including a Magnitude 6.3 event near Vanuatu and notable quakes in Panama and Portugal, underscores persistent physical hazards. To navigate this volatile landscape, secure your assets by diversifying financial holdings to mitigate tech sector dips and credit crunch impacts; enhance physical safety and resource resilience through updated emergency preparedness for seismic events and by ensuring critical water access; and robustly fortify digital defenses against AI-driven threats, while closely monitoring AI regulatory developments.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.38 (0.14%)",
+            "title": "\ud83d\udcb0 NVDA: $216.47 (-0.29%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $340.94 (-0.58%)",
+            "title": "\ud83d\udcb0 AAPL: $339.5 (-1.0%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $532.1 (-0.27%)",
+            "title": "\ud83d\udcb0 MSFT: $531.87 (-0.31%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $195.07 (0.47%)",
+            "title": "\ud83d\udcb0 PLTR: $192.6 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.92 (0.18%)",
+            "title": "\ud83d\udcb0 AMZN: $262.63 (0.07%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 203 km WNW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.7 - 198 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
+            "title": "\u26a0\ufe0f Mag 5.4 - 192 km S of Burica, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 206 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 39 km W of Mosteiros, Portugal",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, led by a Mag 6.3, are shaking Vanuatu near Port-Olry!"
+    "seismicSummary": "\ud83d\udea8 Major 6.3 quake in Vanuatu amidst multiple significant tremors worldwide, from Panama to Portugal!"
 }
