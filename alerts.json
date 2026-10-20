@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a convergent threat landscape characterized by escalating socio-economic vulnerabilities, an accelerating technological arms race, and persistent environmental and geological instability. Geopolitically, widespread social unrest in France, a looming credit crunch, and a pervasive global water crisis underscore systemic fragility, while the unchecked proliferation of AI, demonstrated by both political contention over \"super intelligence\" and confirmed AI-driven cyber intrusions, introduces unprecedented digital risks. This is further compounded by significant seismic activity, notably multiple strong quakes near Vanuatu, demanding immediate attention. To secure assets and ensure physical safety, individuals must: first, prioritize robust emergency preparedness, establishing secure access to vital resources like water and developing contingency plans for communication and movement, particularly in seismically active or socially unstable regions; second, defensively restructure financial portfolios towards liquidity and diversification, mitigating exposure to broader economic instability; and third, fortify digital infrastructure with advanced cybersecurity measures, recognizing the immediate and evolving threat from AI-driven data breaches and informational warfare.",
+    "strategicPlan": "Our assessment indicates a rapidly deteriorating global risk environment characterized by multifaceted threats. Geopolitically, we observe a surge in internal societal instability, evidenced by widespread protests and fires in France, deepening social crises from unemployment ('Neets') and synthetic drugs, and a critical global water scarcity issue confirmed by satellite data. The AI domain presents a complex new frontier, with significant regulatory debates coinciding with confirmed incidents of AI agents breaching government systems. Financially, a 'credit crunch' narrative signals tightening economic conditions, further pressuring vulnerable sectors. Simultaneously, a potent cluster of seismic activity, including a Magnitude 6.3 earthquake in Vanuatu, underscores persistent physical hazards. In light of this escalating confluence, we issue the following directives: 1) **Fortify digital and financial resilience:** Diversify investments, implement robust cybersecurity measures, and secure essential data against emerging AI-driven threats. 2) **Enhance physical preparedness:** Develop comprehensive emergency plans, secure vital resources (water, non-perishables), and maintain situational awareness regarding local social unrest and natural disaster readiness, especially in seismically active zones. 3) **Prioritize vetted intelligence:** Actively monitor evolving geopolitical and technological landscapes from credible sources, critically evaluating information to preempt disinformation and understand rapidly changing threats.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.09 (1.38%)",
+            "title": "\ud83d\udcb0 NVDA: $217.38 (0.14%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $342.94 (-0.15%)",
+            "title": "\ud83d\udcb0 AAPL: $340.94 (-0.58%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $533.52 (0.84%)",
+            "title": "\ud83d\udcb0 MSFT: $532.1 (-0.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $194.15 (4.36%)",
+            "title": "\ud83d\udcb0 PLTR: $195.07 (0.47%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.45 (4.98%)",
+            "title": "\ud83d\udcb0 AMZN: $262.92 (0.18%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 116 km WNW of H\u00f6fn, Iceland",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ct"
+            "title": "\u26a0\ufe0f Mag 5.2 - 206 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
         }
     ],
-    "seismicSummary": "**Mag 6.3 earthquake strikes Vanuatu, with multiple strong quakes reported there and in Iceland!**"
+    "seismicSummary": "Multiple strong earthquakes, led by a Mag 6.3, are shaking Vanuatu near Port-Olry!"
 }
