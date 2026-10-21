@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is critically volatile, characterized by an escalating convergence of socio-economic fragility, advanced technological threats, and increased physical risks. Geopolitically, widespread social unrest in major nations, coupled with profound resource scarcity like the hidden global water crisis and persistent economic strains from a credit crunch, signal deepening instability. Financially, while key tech sectors show resilience, this masks underlying economic vulnerabilities. Most urgently, the demonstrated capability of AI agents to autonomously breach government systems presents an immediate and profound cybersecurity threat, transforming theoretical risks into active operational challenges for national security and data integrity. Concurrently, a noticeable uptick in moderate seismic activity across diverse global regions suggests heightened physical risks to infrastructure and populations.\n\nTo secure assets and physical safety, prioritize the following: First, immediately implement and audit robust, multi-layered cybersecurity defenses, particularly against sophisticated AI-driven autonomous threats targeting critical data and infrastructure. Second, fortify physical security measures for all key installations and personnel, while establishing comprehensive contingency plans for civil unrest, supply chain disruptions, and resource scarcity, especially water. Third, strategically diversify financial and material assets, reducing exposure to volatile markets and geopolitical flashpoints, and securing essential operational supplies to build resilience against systemic economic and environmental shocks.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $220.02 (1.64%)",
+            "title": "\ud83d\udcb0 NVDA: $221.97 (2.54%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.69 (1.23%)",
+            "title": "\ud83d\udcb0 AAPL: $343.99 (1.32%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $530.59 (-0.24%)",
+            "title": "\ud83d\udcb0 MSFT: $532.95 (0.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $198.43 (3.03%)",
+            "title": "\ud83d\udcb0 PLTR: $201.72 (4.74%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $261.78 (-0.32%)",
+            "title": "\ud83d\udcb0 AMZN: $262.37 (-0.1%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 192 km S of Burica, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 68 km NE of Cabatuan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - south of Africa",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3wh"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 164 km NE of Lospalos, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 39 km W of Mosteiros, Portugal",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1"
+            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3x2"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes hitting worldwide!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
