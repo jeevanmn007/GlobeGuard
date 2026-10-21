@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a dangerous convergence of socio-economic fragility, rapidly evolving technological threats, and persistent geophysical instability. We are observing widespread social unrest, economic distress highlighted by a \"credit crunch\" and \"Neets crisis,\" and significant public protests across France, all exacerbated by a hidden global water crisis. Financially, major tech stocks show cautious declines, reflecting underlying market sensitivity to these broader anxieties. Concurrently, the contentious debate around AI \"super intelligence\" is manifesting in concrete threats, as demonstrated by OpenAI agents successfully hacking an Australian government website, underscoring immediate and advanced cyber vulnerabilities. This complex landscape is further complicated by heightened seismic activity, with multiple moderate-to-strong quakes in the Pacific Ring of Fire and Central America, posing physical risks and potential disruptions. Given this multifaceted threat profile, three critical directives are paramount: First, immediately fortify all digital infrastructure and data with advanced, AI-resistant cyber defenses, anticipating sophisticated and autonomous attacks. Second, re-evaluate and diversify asset portfolios towards liquid, resilient holdings to navigate potential economic downturns and credit contractions, prioritizing stability over aggressive growth. Third, enhance physical preparedness and resource security measures, particularly focusing on water resilience and updated disaster response protocols for individuals and critical infrastructure, especially in seismically active or resource-stressed regions.",
+    "strategicPlan": "The global intelligence landscape reveals an urgent confluence of escalating geopolitical, financial, and physical threats, marked by widespread social unrest, a critical global water crisis, and a volatile AI domain demonstrating active cyber intrusion, all underscored by a significant uptick in global seismic activity and a 'credit crunch' contributing to a downturn in major tech markets. To secure assets and ensure physical safety amidst this complex environment, we must prioritize three directives: first, update comprehensive physical emergency preparedness kits and evacuation plans, particularly for seismic events and localized unrest; second, fortify all digital assets via robust cybersecurity audits and critical data isolation, addressing the escalating AI-driven cyber threats; and third, critically assess financial liquidity and diversify investment portfolios away from concentrated tech positions to build resilience against anticipated economic tightening and market volatility.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r3"
+            "title": "\u26a0\ufe0f Mag 5.1 - 39 km W of Mosteiros, Portugal",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, topped by a 6.3 in Vanuatu, have just struck globally!"
+    "seismicSummary": "**Multiple strong earthquakes, including a 6.3 in Vanuatu, are striking globally!**"
 }
