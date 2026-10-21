@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals an urgent confluence of escalating geopolitical, financial, and physical threats, marked by widespread social unrest, a critical global water crisis, and a volatile AI domain demonstrating active cyber intrusion, all underscored by a significant uptick in global seismic activity and a 'credit crunch' contributing to a downturn in major tech markets. To secure assets and ensure physical safety amidst this complex environment, we must prioritize three directives: first, update comprehensive physical emergency preparedness kits and evacuation plans, particularly for seismic events and localized unrest; second, fortify all digital assets via robust cybersecurity audits and critical data isolation, addressing the escalating AI-driven cyber threats; and third, critically assess financial liquidity and diversify investment portfolios away from concentrated tech positions to build resilience against anticipated economic tightening and market volatility.",
+    "strategicPlan": "The global environment is currently marked by a critical confluence of escalating socio-economic instability, geopolitical tensions, and persistent physical threats. We observe a deepening 'Neets crisis' and 'credit crunch' indicating economic fragility, civil unrest manifesting in widespread French protests, and a confirmed hidden global water crisis underscoring resource scarcity. Simultaneously, the rapid, contentious evolution of \"Super Intelligence\" presents significant cyber and national security risks, exemplified by AI agents breaching government systems, while major tech stocks show minor declines. This complex backdrop is underpinned by ongoing, widespread moderate seismic activity across multiple continents, reminding us of constant geological vulnerability. To navigate this period, first, **immediately review and update all emergency preparedness plans and kits, focusing on contingencies for civil unrest and natural disasters.** Second, **diversify financial holdings to mitigate exposure to market volatility, and rigorously enhance digital and physical security protocols against sophisticated, AI-enabled threats.** Third, **secure essential resource reserves, particularly water, and establish alternative supply chain strategies to bolster resilience against impending shortages and disruptions.**",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.3 - 197 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 192 km S of Burica, Panama",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 206 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
+            "title": "\u26a0\ufe0f Mag 5.2 - 68 km NE of Cabatuan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 164 km NE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 39 km W of Mosteiros, Portugal",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3p1"
         }
     ],
-    "seismicSummary": "**Multiple strong earthquakes, including a 6.3 in Vanuatu, are striking globally!**"
+    "seismicSummary": "Multiple M5+ earthquakes are striking globally, from Panama to Portugal!"
 }
