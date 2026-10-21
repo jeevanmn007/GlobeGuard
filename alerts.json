@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment presents a critical, converging risk matrix: geopolitical stability is eroding due to widespread social unrest, significant economic fragilities, and a hidden global water crisis, all amplified by a contested and rapidly advancing AI frontier that has already demonstrated cyber offensive capabilities. This complex human-made instability is further compounded by a distinct rise in global seismic activity, indicating heightened physical risks. Therefore, this directive mandates: first, a strategic re-evaluation of financial asset allocation towards resilient, digitally secure sectors, with immediate prioritization of robust cybersecurity against sophisticated AI-driven threats and close monitoring of AI regulatory developments; second, an urgent review and enhancement of all emergency preparedness plans for physical safety, specifically addressing seismic events and civil unrest, ensuring clear communication and evacuation protocols; and third, the proactive securing of diversified, redundant access to critical resources, particularly water, alongside comprehensive supply chain resilience assessments to mitigate the impacts of societal and environmental disruptions.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 68 km NE of Cabatuan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 164 km NE of Lospalos, Timor Leste",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3x2"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes are striking globally!"
 }
