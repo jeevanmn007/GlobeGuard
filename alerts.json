@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents an urgent, multi-faceted threat profile, marked by escalating geopolitical, financial, and physical vulnerabilities. Economically, a deepening credit crunch and significant declines across major tech stocks signal pronounced market fragility. Geopolitically, the contentious rise of \"Super Intelligence\" (AI) is a primary concern, evidenced by conflicting policy directives and documented AI agents compromising government systems, alongside persistent social unrest in France, a looming global water crisis, and a domestic drug epidemic. Physically, a powerful Mag 7 earthquake in Nagqu, China, highlights severe seismic risks demanding immediate attention. To secure assets and physical safety, first, prioritize financial resilience by increasing liquidity and diversifying investments away from volatile tech sectors. Second, immediately fortify digital infrastructure with advanced cybersecurity measures and establish rigorous AI governance protocols to mitigate novel cyber threats. Third, comprehensively review and strengthen emergency preparedness plans for both natural disasters and socio-political disruptions, ensuring robust supply chains and essential resource readiness.",
+    "strategicPlan": "The global intelligence landscape indicates a concerning convergence of systemic vulnerabilities: social and economic stability is eroding, evidenced by burgeoning crises from credit to water scarcity and civil unrest; financial markets are exhibiting significant volatility with a notable downturn across key tech sectors; and critically, recent high-magnitude seismic events, including a Mag 7 in China, underscore elevated physical risks. This precarious environment is further complicated by rapid, contested advancements in AI, now demonstrating capabilities for cyber intrusion against state entities, presenting a new frontier of technological and national security threats. To secure assets and physical safety, immediately: 1. Fortify financial resilience by diversifying investments away from volatile tech, securing liquid capital, and evaluating stable asset classes. 2. Implement proactive physical safety measures by updating emergency preparedness protocols, securing essential supplies, and monitoring regional alerts for social unrest or natural disasters. 3. Bolster digital and data security infrastructure against advanced AI-driven threats through enhanced cyber defenses, robust data encryption, and regular system audits.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.37 (-4.32%)",
+            "title": "\ud83d\udcb0 NVDA: $212.21 (-4.4%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $347.79 (1.1%)",
+            "title": "\ud83d\udcb0 AAPL: $348.22 (1.23%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $521.65 (-2.12%)",
+            "title": "\ud83d\udcb0 MSFT: $521.08 (-2.23%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $195.81 (-2.93%)",
+            "title": "\ud83d\udcb0 PLTR: $196.19 (-2.74%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $250.05 (-4.7%)",
+            "title": "\ud83d\udcb0 AMZN: $250.38 (-4.57%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yj"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 201 km ENE of Nagqu, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 153 km S of Kokopo, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 207 km ENE of Nagqu, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j"
         }
     ],
-    "seismicSummary": "Major M7 earthquake strikes near Nagqu, China, with multiple strong M5+ quakes reported globally, including an M5.3 near Reykjanes Ridge!"
+    "seismicSummary": "**URGENT:** A major Mag 7 earthquake has struck near Nagqu, China, with multiple strong aftershocks."
 }
