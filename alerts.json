@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals escalating systemic fragility, driven by deepening socio-economic crises like the credit crunch, widespread water scarcity, and civil unrest across nations. Simultaneously, the rapid, largely unregulated proliferation of 'Super Intelligence' AI introduces profound cyber and societal risks, evidenced by government hacks, even as investment concentrates in this volatile tech sector. This intricate human and technological landscape is further underscored by persistent, moderate global seismic activity across multiple regions. To navigate this period of heightened uncertainty, your immediate focus must be to secure diversified assets against both economic downturns and sophisticated digital exploits by hardening cybersecurity, prepare proactively for localized disruptions by ensuring critical resource availability and physical safety plans, and strategically engage with the ethical integration of AI while rigorously mitigating its inherent risks to data and operational integrity.",
+    "strategicPlan": "The global strategic environment presents a multifaceted and evolving threat profile characterized by escalating socio-economic instability, a rapidly advancing yet unregulated technological frontier, and heightened geophysical risks. Geopolitically, widespread social unrest in France, coupled with domestic 'Neets' crises, credit crunches, and a looming global water scarcity, signals profound systemic fragilities. Financially, while the tech sector, particularly AI-driven entities like NVDA and PLTR, shows significant growth, the contentious political discourse around \"Super Intelligence\" and evidence of autonomous AI agents engaging in unauthorized activities (e.g., Australian government site intrusion) underscores a significant emerging vector for both opportunity and systemic cyber-financial risk. Concurrently, a surge in magnitude 5 seismic events along the Reykjanes Ridge indicates an increasing physical tectonic threat in a critical North Atlantic region. To navigate this complex landscape, GlobeGuard advises three immediate actions: first, diversify and harden digital and physical asset portfolios against both economic volatility and advanced AI-driven cyber threats; second, secure critical local resources, particularly water and essential supply chains, in anticipation of deepening resource crises and social disruption; and third, implement robust, localized emergency preparedness plans, prioritizing monitoring of geologically active zones and potential flashpoints for civil unrest.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 68 km NE of Cabatuan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - south of Africa",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3wh"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 164 km NE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
+            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yp"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3x2"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5 earthquakes reported globally!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple magnitude 5 earthquakes detected, primarily at Reykjanes Ridge!"
 }
