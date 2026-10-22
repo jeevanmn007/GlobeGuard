@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard's latest intelligence indicates a critical and multifaceted global threat landscape. Geopolitically, we face escalating social unrest in France, a worsening global credit crunch, a profound youth employment crisis, an emerging global water crisis, and a surge in synthetic drugs, all against a backdrop of intensifying geopolitical and regulatory conflict surrounding AI, evidenced by government breaches. Financially, key tech stocks like NVDA, AMZN, and MSFT are experiencing significant downturns, indicating market volatility and economic uncertainty. Physically, seismic activity is elevated, marked by a Mag 7 earthquake in China and persistent activity on the Reykjanes Ridge. To navigate this complex environment, GlobeGuard advises three immediate actions: 1) **Strategically Reallocate Assets:** Diversify investment portfolios away from volatile tech, considering sectors resilient to economic contraction and resource scarcity. 2) **Fortify Digital and AI Defenses:** Implement advanced cybersecurity measures, particularly against AI-driven threats and data breaches, while closely monitoring evolving AI policy and its implications. 3) **Bolster Physical and Operational Preparedness:** Update emergency plans for natural disasters, including earthquakes and water shortages, and ensure robust continuity protocols are in place to mitigate the impacts of social unrest and economic instability.",
+    "strategicPlan": "The global environment presents an urgent, multi-faceted threat profile, marked by escalating geopolitical, financial, and physical vulnerabilities. Economically, a deepening credit crunch and significant declines across major tech stocks signal pronounced market fragility. Geopolitically, the contentious rise of \"Super Intelligence\" (AI) is a primary concern, evidenced by conflicting policy directives and documented AI agents compromising government systems, alongside persistent social unrest in France, a looming global water crisis, and a domestic drug epidemic. Physically, a powerful Mag 7 earthquake in Nagqu, China, highlights severe seismic risks demanding immediate attention. To secure assets and physical safety, first, prioritize financial resilience by increasing liquidity and diversifying investments away from volatile tech sectors. Second, immediately fortify digital infrastructure with advanced cybersecurity measures and establish rigorous AI governance protocols to mitigate novel cyber threats. Third, comprehensively review and strengthen emergency preparedness plans for both natural disasters and socio-political disruptions, ensuring robust supply chains and essential resource readiness.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $213.4 (-3.86%)",
+            "title": "\ud83d\udcb0 NVDA: $212.37 (-4.32%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $344.67 (0.2%)",
+            "title": "\ud83d\udcb0 AAPL: $347.79 (1.1%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $525.92 (-1.32%)",
+            "title": "\ud83d\udcb0 MSFT: $521.65 (-2.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $199.26 (-1.22%)",
+            "title": "\ud83d\udcb0 PLTR: $195.81 (-2.93%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.44 (-4.17%)",
+            "title": "\ud83d\udcb0 AMZN: $250.05 (-4.7%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7 - 183 km ENE of Nagqu, China",
+            "title": "\u26a0\ufe0f Mag 7 - 191 km ENE of Nagqu, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g"
         },
         {
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of Africa",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3wh"
+            "title": "\u26a0\ufe0f Mag 5.2 - 201 km ENE of Nagqu, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yp"
+            "title": "\u26a0\ufe0f Mag 5 - 207 km ENE of Nagqu, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j"
         }
     ],
-    "seismicSummary": "**URGENT:** A massive Magnitude 7 earthquake just struck China, alongside multiple other strong quakes globally!"
+    "seismicSummary": "Major M7 earthquake strikes near Nagqu, China, with multiple strong M5+ quakes reported globally, including an M5.3 near Reykjanes Ridge!"
 }
