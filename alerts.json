@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a precarious convergence of threats: geopolitical instability manifests in deepening socio-economic crises (youth unemployment, credit crunch) and escalating civil unrest in France, exacerbated by a hidden global water crisis and pervasive synthetic drug epidemic. Financially, while specific tech stocks demonstrate mixed performance, underlying systemic vulnerabilities persist. Of paramount concern is the rapid and contentious emergence of 'Super Intelligence' AI, already proven capable of government system breaches, which introduces a profound and immediate geopolitical and cybersecurity risk given the conflicting regulatory approaches. Concurrently, localized physical threats are highlighted by clustered moderate seismic activity in Italy and other key regions. To mitigate these risks, immediately diversify financial and digital assets, fortifying cyber defenses against advanced AI threats. Simultaneously, enhance physical safety through robust emergency preparedness, with an emphasis on water security and civil disturbance protocols, particularly in identified vulnerable areas. Finally, exercise extreme caution in all digital interactions and maintain acute vigilance on AI policy developments, recognizing the accelerating weaponization of this technology.",
+    "strategicPlan": "Despite a nominal global threat level of 1, an intensifying confluence of geopolitical, financial, and physical risks demands immediate attention. Geopolitically, escalating social unrest in France, combined with a 'Neets' crisis, a hidden global water crisis, and the proliferation of synthetic drugs, signals profound societal fragility and resource strain. Financially, while major tech stocks exhibit minor volatility, the broader 'credit crunch' suggests underlying economic pressure. A critical new vector of risk emerges from AI, with urgent political debate over 'Super Intelligence' juxtaposed against confirmed AI-driven government website hacks. Tectonically, moderate seismic activity across Italy, Japan, and Papua New Guinea underscores persistent natural hazards. Therefore, to secure your assets and physical safety, prioritize immediate diversification of financial portfolios beyond volatile tech and robust fortification of all digital infrastructure against AI-enabled cyber threats; implement localized emergency preparedness plans focused on water security and civil unrest protocols; and actively monitor the evolving AI policy landscape to adapt your strategic posture and mitigate emerging technological vulnerabilities.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $213.14 (0.44%)",
+            "title": "\ud83d\udcb0 NVDA: $211.65 (-0.26%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $347.6 (-0.18%)",
+            "title": "\ud83d\udcb0 AAPL: $346.85 (-0.39%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $524.77 (0.71%)",
+            "title": "\ud83d\udcb0 MSFT: $523.98 (0.56%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $196.87 (0.35%)",
+            "title": "\ud83d\udcb0 PLTR: $195.35 (-0.43%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.92 (-0.58%)",
+            "title": "\ud83d\udcb0 AMZN: $248.29 (-0.83%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 201 km ENE of Nagqu, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n"
+            "title": "\u26a0\ufe0f Mag 5.1 - 72 km ENE of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 153 km S of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes just struck in Italy (twice), China, and Papua New Guinea!"
+    "seismicSummary": "Multiple M5+ earthquakes just struck globally, including a 5.7 in Italy!"
 }
