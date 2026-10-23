@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals an increasingly complex and volatile environment, characterized by escalating geopolitical instability manifested through widespread social discontent, a critical and deepening global water crisis, and an immediate, unsecured threat from advanced AI, as evidenced by recent hacking incidents and regulatory conflicts. Financially, major tech markets are experiencing a significant downturn, indicating broader economic headwinds and a potential credit crunch. Concurrently, a substantial Mag 7 earthquake in China, alongside other significant seismic activity, underscores a persistent and unpredictable physical threat. To navigate these multifaceted risks, GlobeGuard directs immediate action: first, fortify all digital and data security protocols against rapidly evolving cyber threats; second, meticulously review and diversify financial portfolios to enhance resilience against market volatility and economic contraction; and third, ensure comprehensive physical emergency preparedness, including updated disaster kits and communication strategies, especially for assets and personnel in seismically active or vulnerable regions.",
+    "strategicPlan": "The global intelligence picture reveals a precarious convergence of threats: geopolitical instability manifests in deepening socio-economic crises (youth unemployment, credit crunch) and escalating civil unrest in France, exacerbated by a hidden global water crisis and pervasive synthetic drug epidemic. Financially, while specific tech stocks demonstrate mixed performance, underlying systemic vulnerabilities persist. Of paramount concern is the rapid and contentious emergence of 'Super Intelligence' AI, already proven capable of government system breaches, which introduces a profound and immediate geopolitical and cybersecurity risk given the conflicting regulatory approaches. Concurrently, localized physical threats are highlighted by clustered moderate seismic activity in Italy and other key regions. To mitigate these risks, immediately diversify financial and digital assets, fortifying cyber defenses against advanced AI threats. Simultaneously, enhance physical safety through robust emergency preparedness, with an emphasis on water security and civil disturbance protocols, particularly in identified vulnerable areas. Finally, exercise extreme caution in all digital interactions and maintain acute vigilance on AI policy developments, recognizing the accelerating weaponization of this technology.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $212.21 (-4.4%)",
+            "title": "\ud83d\udcb0 NVDA: $213.14 (0.44%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $348.22 (1.23%)",
+            "title": "\ud83d\udcb0 AAPL: $347.6 (-0.18%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $521.08 (-2.23%)",
+            "title": "\ud83d\udcb0 MSFT: $524.77 (0.71%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $196.19 (-2.74%)",
+            "title": "\ud83d\udcb0 PLTR: $196.87 (0.35%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $250.38 (-4.57%)",
+            "title": "\ud83d\udcb0 AMZN: $248.92 (-0.58%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,8 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 7 - 191 km ENE of Nagqu, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g"
+            "title": "\u26a0\ufe0f Mag 5.7 - 61 km WNW of Leni, Italy",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 50 km WNW of Malfa, Italy",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 201 km ENE of Nagqu, China",
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 153 km S of Kokopo, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 207 km ENE of Nagqu, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j"
         }
     ],
-    "seismicSummary": "URGENT: A powerful M7 earthquake struck near Nagqu, China, alongside multiple M5+ quakes!"
+    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes just struck in Italy (twice), China, and Papua New Guinea!"
 }
