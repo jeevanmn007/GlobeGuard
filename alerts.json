@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Our current global intelligence synthesis reveals an environment of heightened systemic risk, encompassing geopolitical, financial, and physical tectonic dimensions. Geopolitically, we are observing a deteriorating social fabric marked by widespread unrest (France, 'Neets' crisis), growing global water scarcity, and the destabilizing proliferation of synthetic drugs. Concurrently, the contentious politicization of 'Super Intelligence' alongside confirmed AI-driven cyber intrusions underscore significant emerging technological threats. Financially, a nascent credit crunch is exerting pressure, reflected in general market stagnation among major tech equities. This complex landscape is further underscored by intense seismic activity in Vanuatu, serving as a stark reminder of persistent, severe physical risks. To navigate this period, we direct the following actions: First, immediately fortify financial asset resilience through diversification and stress-testing against economic downturns, concurrently enhancing digital infrastructure defenses against sophisticated AI-enabled threats. Second, institute robust contingency plans for physical safety, focusing on monitoring local socio-political instability and securing essential resources in anticipation of potential supply chain disruptions. Third, conduct a thorough re-evaluation of strategic assets and critical infrastructure vulnerabilities globally, particularly in seismically active zones, while actively tracking and preparing for the implications of rapidly evolving AI policy and capabilities.",
+    "strategicPlan": "The global intelligence assessment reveals a complex and escalating threat matrix: Geopolitically, we face mounting social unrest and economic fragility evidenced by a looming credit crunch, a documented global water crisis, and increasing societal fragmentation driven by drug epidemics and protests across key nations. Financially, while major tech stocks show mixed minor movements, the underlying economic outlook remains precarious, vulnerable to these social pressures. Concurrently, a significant cluster of high-magnitude seismic activity near Vanuatu and Bouvet Island signals heightened tectonic instability, carrying potential for widespread physical disruption. Most critically, the unbridled advancement and weaponization of AI, highlighted by government intervention and documented cyber exploits against critical infrastructure, introduce an unprecedented layer of systemic risk across digital security and information integrity. To secure assets and ensure safety, GlobeGuard directs immediate action: First, bolster financial and physical resilience by diversifying portfolios into tangible, resilient assets and rigorously reviewing emergency preparedness for resource scarcity and geological events, especially in vulnerable regions. Second, implement advanced cybersecurity protocols, emphasizing AI-proof defenses, to protect digital assets and data from sophisticated state and non-state actors exploiting emerging AI capabilities. Third, establish comprehensive contingency plans for localized and regional disruptions, including self-sufficiency measures for essential resources, anticipating both natural and technologically-driven systemic shocks.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
         },
         {
-            "title": "Bernie Sanders proposes banning \u2018superintelligence\u2019 and putting violators in prison",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
-        },
-        {
             "title": "OpenAI agents hacked an Australian government website in search for data",
             "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
         },
         {
             "title": "Bernie Sanders Shows There\u2019s a Big Problem With Trump Renaming AI to \u2018Super Intelligence\u2019",
             "link": "https://gizmodo.com/bernie-sanders-shows-theres-a-big-problem-with-trump-renaming-ai-to-super-intelligence-2000816222"
+        },
+        {
+            "title": "It appears .agent and .agi are about to be the hot new domains",
+            "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
         }
     ],
     "seismic": [
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 182 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6"
+            "title": "\u26a0\ufe0f Mag 5.8 - Bouvet Island region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn"
         }
     ],
-    "seismicSummary": "A powerful Mag 6.9 earthquake and multiple strong tremors have struck near Port-Olry, Vanuatu!"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes, including M6.9 and M6.3, are striking Port-Olry, Vanuatu, with another M5.8 near Bouvet Island.**"
 }
