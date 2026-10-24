@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief indicates a complex and volatile environment marked by significant, multi-faceted threats. Geopolitically, we observe escalating social unrest across Europe, notably France, compounded by a looming credit crunch and a deepening global water crisis that strains essential resources. The rapid, ungoverned advancement of AI presents both disruptive opportunities and immediate security vulnerabilities, as demonstrated by recent breaches and contentious political debates. Financially, major tech markets are exhibiting minor fluctuations indicative of underlying economic uncertainty. Physically, a cluster of moderate seismic events, particularly in Italy, necessitates immediate attention to physical infrastructure and safety protocols. To secure assets and ensure safety, GlobeGuard advises: first, immediately review and diversify financial portfolios to mitigate credit crunch risks, while simultaneously upgrading digital infrastructure against sophisticated AI-driven cyber threats; second, update and drill emergency response plans for both civil unrest and natural disasters, with specific attention to personnel and assets in seismically active zones and regions prone to social upheaval; and third, strategically assess long-term operational resilience against resource scarcity, particularly water, and proactively engage with AI governance frameworks to leverage its benefits while mitigating its inherent risks.",
+    "strategicPlan": "Current global intelligence indicates a critical confluence of emergent and compounding threats, despite a reported global threat level of 1. Geopolitically, the rapid, uncoordinated evolution of AI, marked by a contentious US debate on 'Super Intelligence' and confirmed instances of AI agents hacking government systems, introduces a volatile new domain of digital and strategic risk. Economically, a pervasive 'credit crunch' and a 'Neets crisis' are fueling social unrest, as evidenced by widespread protests in France, indicating deepening societal fragilities. These human-centric pressures are further complicated by the long-term, existential threat of a hidden global water crisis. Physically, immediate concern centers on the cluster of high-magnitude seismic events near Vanuatu, signaling potential for regional instability and highlighting the ever-present geological hazards. To secure assets and physical safety, we direct you to: 1) Immediately audit and fortify digital infrastructure against AI-driven infiltration, prioritizing robust data and network security. 2) Rebalance asset portfolios towards resilience against a credit crunch, diversifying beyond volatile tech and securing essential resource supply chains. 3) Implement enhanced physical contingency plans for seismic events, including secure water provisions, and monitor local socio-political stability for potential unrest.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 61 km WNW of Leni, Italy",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk"
+            "title": "\u26a0\ufe0f Mag 6.9 - 197 km WNW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 50 km WNW of Malfa, Italy",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc"
+            "title": "\u26a0\ufe0f Mag 6.3 - 170 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 203 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7"
+            "title": "\u26a0\ufe0f Mag 5.8 - 182 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 72 km ENE of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2"
+            "title": "\u26a0\ufe0f Mag 5.8 - 203 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple Mag 5+ earthquakes just struck globally, including two significant quakes in Italy!**"
+    "seismicSummary": "**URGENT: Major 6.9 earthquake and multiple strong quakes reported near Port-Olry, Vanuatu!**"
 }
