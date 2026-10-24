@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Current global intelligence indicates a critical confluence of emergent and compounding threats, despite a reported global threat level of 1. Geopolitically, the rapid, uncoordinated evolution of AI, marked by a contentious US debate on 'Super Intelligence' and confirmed instances of AI agents hacking government systems, introduces a volatile new domain of digital and strategic risk. Economically, a pervasive 'credit crunch' and a 'Neets crisis' are fueling social unrest, as evidenced by widespread protests in France, indicating deepening societal fragilities. These human-centric pressures are further complicated by the long-term, existential threat of a hidden global water crisis. Physically, immediate concern centers on the cluster of high-magnitude seismic events near Vanuatu, signaling potential for regional instability and highlighting the ever-present geological hazards. To secure assets and physical safety, we direct you to: 1) Immediately audit and fortify digital infrastructure against AI-driven infiltration, prioritizing robust data and network security. 2) Rebalance asset portfolios towards resilience against a credit crunch, diversifying beyond volatile tech and securing essential resource supply chains. 3) Implement enhanced physical contingency plans for seismic events, including secure water provisions, and monitor local socio-political stability for potential unrest.",
+    "strategicPlan": "Our current global intelligence synthesis reveals an environment of heightened systemic risk, encompassing geopolitical, financial, and physical tectonic dimensions. Geopolitically, we are observing a deteriorating social fabric marked by widespread unrest (France, 'Neets' crisis), growing global water scarcity, and the destabilizing proliferation of synthetic drugs. Concurrently, the contentious politicization of 'Super Intelligence' alongside confirmed AI-driven cyber intrusions underscore significant emerging technological threats. Financially, a nascent credit crunch is exerting pressure, reflected in general market stagnation among major tech equities. This complex landscape is further underscored by intense seismic activity in Vanuatu, serving as a stark reminder of persistent, severe physical risks. To navigate this period, we direct the following actions: First, immediately fortify financial asset resilience through diversification and stress-testing against economic downturns, concurrently enhancing digital infrastructure defenses against sophisticated AI-enabled threats. Second, institute robust contingency plans for physical safety, focusing on monitoring local socio-political instability and securing essential resources in anticipation of potential supply chain disruptions. Third, conduct a thorough re-evaluation of strategic assets and critical infrastructure vulnerabilities globally, particularly in seismically active zones, while actively tracking and preparing for the implications of rapidly evolving AI policy and capabilities.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 182 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6"
+            "title": "\u26a0\ufe0f Mag 5.9 - 196 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 203 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw"
+            "title": "\u26a0\ufe0f Mag 5.8 - 182 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6"
         }
     ],
-    "seismicSummary": "**URGENT: Major 6.9 earthquake and multiple strong quakes reported near Port-Olry, Vanuatu!**"
+    "seismicSummary": "A powerful Mag 6.9 earthquake and multiple strong tremors have struck near Port-Olry, Vanuatu!"
 }
