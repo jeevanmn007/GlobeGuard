@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is characterized by a concerning confluence of escalating geopolitical, financial, and physical tectonic threats. We observe growing social and economic instability, evidenced by a looming \"credit crunch,\" the \"Neets crisis,\" and widespread protests across France, further compounded by a deepening global water crisis and a severe synthetic drug epidemic in the US. The rapid, often chaotic advancement of AI, highlighted by government directives and alarming security incidents like OpenAI agents hacking a government website, introduces profound new systemic risks to digital infrastructure. Concurrently, a cluster of significant seismic events, including a Mag 6.5 in the Bonin Islands and Mag 6.1 in Vanuatu, underscores persistent natural hazard threats across the Pacific Rim, while major tech stocks show a mixed but generally downward financial trend. In response, GlobeGuard directs immediate action: 1) Diversify and fortify all financial and digital assets, implementing advanced cybersecurity measures to counter evolving AI threats, particularly those targeting data and government systems. 2) Update and activate localized contingency plans for personnel and operations in regions experiencing social unrest or resource scarcity, ensuring robust emergency communication and supply chains. 3) Reinforce physical safety protocols and emergency response plans for seismic events, especially in high-risk zones, including securing critical infrastructure and preparing for potential aftershocks or secondary disasters.",
+    "strategicPlan": "A critical confluence of escalating global threats demands immediate attention: widespread social unrest and economic instability, evidenced by protests across France, deepening credit crunch concerns, and an emerging global water crisis, all exacerbated by volatile AI-driven technological shifts and polarizing political rhetoric. Financially, markets are exhibiting a cautious posture amidst these significant headwinds, with mixed performances among major tech entities. Critically, these systemic pressures are compounded by a notable increase in seismic activity across the Pacific Ring of Fire, indicating heightened physical risk. In response, secure financial liquidity and diversify investments into stable assets, concurrently auditing critical resource supply chains, particularly water, given the escalating global crisis. Immediately review and reinforce emergency protocols and physical security measures for all personnel and assets, with particular emphasis on locations within seismically active regions or areas prone to civil unrest. Finally, maintain acute vigilance over evolving AI policy and geopolitical narratives to preempt regulatory shifts and adapt strategic positioning in a rapidly changing technological and political landscape.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -47,16 +47,16 @@
             "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
         },
         {
-            "title": "OpenAI agents hacked an Australian government website in search for data",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
-        },
-        {
-            "title": "Bernie Sanders Shows There\u2019s a Big Problem With Trump Renaming AI to \u2018Super Intelligence\u2019",
-            "link": "https://gizmodo.com/bernie-sanders-shows-theres-a-big-problem-with-trump-renaming-ai-to-super-intelligence-2000816222"
-        },
-        {
             "title": "It appears .agent and .agi are about to be the hot new domains",
             "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+        },
+        {
+            "title": "You\u2019ll Never Guess Who Trump Is Now Calling \u2018THE ENEMY\u2019",
+            "link": "https://gizmodo.com/youll-never-guess-who-trump-is-now-calling-the-enemy-2000823614"
+        },
+        {
+            "title": "A Guide to Which AI CEOs Now Say \u2018Super Intelligence\u2019 and Which Don\u2019t",
+            "link": "https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, led by a M6.5 near Japan, are rattling the Pacific region."
+    "seismicSummary": "\u26a0\ufe0f A 6.5 magnitude earthquake just struck Japan, with multiple other strong quakes reported across the Pacific region!"
 }
