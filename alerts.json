@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment currently presents a complex and acutely unstable threat matrix: active social unrest and deepening socio-economic crises in key regions are compounded by an escalating hidden global water crisis and a burgeoning synthetic drug epidemic. Simultaneously, the rapid, largely unregulated proliferation of AI introduces immediate and significant cyber vulnerabilities, as evidenced by government system breaches, challenging existing digital defenses, while major tech stocks exhibit minor fluctuations amidst a looming 'credit crunch'. Most critically, the clustering of multiple strong seismic events, notably a Magnitude 6.9 earthquake near Vanuatu, indicates high geological instability with potential for cascading physical impacts. To navigate this period of heightened risk, GlobeGuard advises three immediate actions: first, prioritize physical safety by updating emergency preparedness plans, securing essential resources, and establishing robust communication protocols for all personnel, especially in seismically active or politically volatile areas; second, fortify digital infrastructure with advanced AI-aware cybersecurity defenses to counter evolving threat vectors and safeguard sensitive data; and third, strategically diversify financial and supply chain assets to build resilience against economic downturns and resource scarcity, ensuring continuity amidst global instability.",
+    "strategicPlan": "The global situation presents a complex and increasingly volatile threat matrix, characterized by escalating socio-economic instability exemplified by widespread protests and the 'Neets' crisis, a foundational global water crisis, and the emergent systemic risks posed by advanced AI capabilities, evidenced by government system intrusions. This is further compounded by an underlying 'credit crunch' signaling financial tightening, and persistent, high-frequency seismic activity across multiple active zones, notably in the Pacific. Despite any nominal low threat assessment, the convergence of these factors demands immediate, proactive measures. To secure assets and physical safety, first, prioritize an immediate re-evaluation and diversification of investment portfolios towards resilient and liquid assets; second, implement comprehensive emergency preparedness plans, including robust water security and disaster response protocols tailored to regional seismic and social unrest risks; and third, fortify all digital infrastructure and personal online identities against sophisticated AI-driven cyber threats and data exploitation.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,12 +61,12 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.9 - 197 km WNW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2"
+            "title": "\u26a0\ufe0f Mag 6.5 - Bonin Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.3 - 170 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb"
+            "title": "\u26a0\ufe0f Mag 6.1 - 25 km ENE of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.9 - 196 km NW of Port-Olry, Vanuatu",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn"
         }
     ],
-    "seismicSummary": "**Urgent: A powerful 6.9 magnitude earthquake and multiple strong tremors just struck Vanuatu; another 5.8 hit near Bouvet Island.**"
+    "seismicSummary": "Multiple powerful earthquakes, including a Mag 6.5 near Japan, have just been reported globally!"
 }
