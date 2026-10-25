@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is marked by a compounding confluence of significant threats: mounting geopolitical instability driven by widespread social unrest in key nations like France, deepening water resource crises, and a pervasive domestic drug epidemic; an underlying economic fragility highlighted by an impending credit crunch and mixed, volatile performance in major tech sectors; and a critical new dimension of risk posed by the rapid, unregulated advancement of AI, evidenced by state-level hacking and contentious policy debates, directly impacting cyber and information security. Concurrently, persistent high-magnitude seismic activity across the Pacific Rim mandates ongoing vigilance for physical infrastructure. In response, **secure your financial and digital assets** by diversifying liquid capital against economic volatility and rigorously updating cyber defenses, including robust offline backups, to counter escalating AI-driven threats. **Prioritize physical security and resource preparedness** by developing and practicing robust contingency plans for civil unrest and water scarcity, establishing equipped, self-sufficient safe havens, and ensuring readiness for potential seismic events. Lastly, maintain **strategic intelligence and monitoring** by implementing continuous, advanced threat intelligence for both AI-driven cyber threats and evolving sociopolitical indicators, especially concerning resource distribution, to enable proactive decision-making.",
+    "strategicPlan": "The global landscape presents a heightened, multi-domain threat profile, intertwining acute geopolitical, financial, and physical tectonic pressures. Geopolitically, widespread social unrest, economic distress marked by a credit crunch and youth crises, and escalating protests in France highlight societal fragilities, compounded by a hidden global water crisis and a surge in synthetic drugs. Simultaneously, an accelerating, poorly governed AI frontier poses novel risks, exemplified by autonomous agents hacking government systems, while financially, major tech stocks exhibit modest declines amidst this volatility. Physically, a significant uptick in seismic activity across the Pacific Ring of Fire, with multiple severe quakes (e.g., Mag 6.5 Japan, 6.1 Vanuatu), underscores pervasive geological instability. To secure assets and ensure physical safety, first, immediately prioritize asset liquidity and diversification, reviewing credit exposures and regional economic dependencies. Second, conduct urgent physical infrastructure vulnerability assessments, particularly for holdings in seismically active or water-stressed regions, and reinforce emergency preparedness. Third, enhance digital security protocols against sophisticated AI-driven threats while meticulously monitoring local geopolitical shifts and social unrest indicators for operational continuity.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - Bouvet Island region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn"
+            "title": "\u26a0\ufe0f Mag 5.9 - 218 km ENE of Nagqu, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 33 km ESE of Ambunti, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a 6.5 near Japan, are striking worldwide!**"
+    "seismicSummary": "URGENT: Multiple strong earthquakes, including a M6.5 near Japan, are hitting the Pacific/Asia region!"
 }
