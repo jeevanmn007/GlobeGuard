@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation presents a complex and increasingly volatile threat matrix, characterized by escalating socio-economic instability exemplified by widespread protests and the 'Neets' crisis, a foundational global water crisis, and the emergent systemic risks posed by advanced AI capabilities, evidenced by government system intrusions. This is further compounded by an underlying 'credit crunch' signaling financial tightening, and persistent, high-frequency seismic activity across multiple active zones, notably in the Pacific. Despite any nominal low threat assessment, the convergence of these factors demands immediate, proactive measures. To secure assets and physical safety, first, prioritize an immediate re-evaluation and diversification of investment portfolios towards resilient and liquid assets; second, implement comprehensive emergency preparedness plans, including robust water security and disaster response protocols tailored to regional seismic and social unrest risks; and third, fortify all digital infrastructure and personal online identities against sophisticated AI-driven cyber threats and data exploitation.",
+    "strategicPlan": "The global strategic environment is marked by a compounding confluence of significant threats: mounting geopolitical instability driven by widespread social unrest in key nations like France, deepening water resource crises, and a pervasive domestic drug epidemic; an underlying economic fragility highlighted by an impending credit crunch and mixed, volatile performance in major tech sectors; and a critical new dimension of risk posed by the rapid, unregulated advancement of AI, evidenced by state-level hacking and contentious policy debates, directly impacting cyber and information security. Concurrently, persistent high-magnitude seismic activity across the Pacific Rim mandates ongoing vigilance for physical infrastructure. In response, **secure your financial and digital assets** by diversifying liquid capital against economic volatility and rigorously updating cyber defenses, including robust offline backups, to counter escalating AI-driven threats. **Prioritize physical security and resource preparedness** by developing and practicing robust contingency plans for civil unrest and water scarcity, establishing equipped, self-sufficient safe havens, and ensuring readiness for potential seismic events. Lastly, maintain **strategic intelligence and monitoring** by implementing continuous, advanced threat intelligence for both AI-driven cyber threats and evolving sociopolitical indicators, especially concerning resource distribution, to enable proactive decision-making.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 196 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.8 - Bouvet Island region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 33 km ESE of Ambunti, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq"
         }
     ],
-    "seismicSummary": "Multiple powerful earthquakes, including a Mag 6.5 near Japan, have just been reported globally!"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a 6.5 near Japan, are striking worldwide!**"
 }
