@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence brief reveals a critical confluence of escalating threats: pervasive social and economic instability marked by a burgeoning 'Neets' crisis, a deepening credit crunch, and widespread protests in France, compounded by a critical hidden global water crisis and a surge in synthetic drug use. Paradoxically, the financial markets show a strong bullish trend in key technology sectors like AI, driven by an urgent political and commercial embrace of 'Super Intelligence,' even as this growth coexists with heightened seismic activity across the Pacific Ring of Fire. GlobeGuard advises immediate proactive measures: **first, secure your essential resources and build local community resilience**, particularly concerning water access, to insulate against social unrest and scarcity; **second, strategically capitalize on the undeniable momentum in AI and digital infrastructure**, ensuring your asset diversification includes these resilient sectors; and **third, meticulously review and enhance your physical safety protocols and infrastructure against natural disasters**, especially within or adjacent to tectonically active regions, given the recent cluster of significant seismic events.",
+    "strategicPlan": "The global environment presents a convergent threat matrix: persistent socio-economic fragility is evident in a looming 'credit crunch', widespread youth unemployment, a critical global water crisis, and escalating social unrest across key Western nations like France, while a synthetic drug epidemic deepens in the US. This human vulnerability unfolds against a backdrop of consistent, moderate seismic activity within the Pacific Ring of Fire (Fiji, Vanuatu, Indonesia), highlighting ongoing geophysical risks. Concurrently, a rapid technological acceleration, epitomized by the intense political and corporate focus on 'Super Intelligence' and the emergence of new AI-centric internet domains (.agent, .agi), promises profound systemic disruption, creating both opportunities and novel threat vectors. **To secure assets and ensure physical safety, GlobeGuard directs immediate action: 1) Strategically diversify financial assets towards inflation-resistant and resilient sectors, while strengthening digital asset security against emerging AI-driven threats. 2) Rehearse and update comprehensive emergency preparedness plans for both personnel and critical infrastructure, accounting for resource scarcity, civil unrest, and potential natural disasters, particularly in tectonically active zones. 3) Heighten vigilance against information warfare and cyber threats, specifically those leveraging AI or targeting new domain structures, to protect organizational integrity and operational continuity.**",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.23 (2.5%)",
+            "title": "\ud83d\udcb0 NVDA: $216.0 (2.39%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $342.9 (-1.39%)",
+            "title": "\ud83d\udcb0 AAPL: $343.91 (-1.1%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $531.72 (1.38%)",
+            "title": "\ud83d\udcb0 MSFT: $532.6 (1.54%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $199.19 (1.24%)",
+            "title": "\ud83d\udcb0 PLTR: $198.84 (1.06%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.43 (0.18%)",
+            "title": "\ud83d\udcb0 AMZN: $249.09 (0.44%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - Bonin Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 205 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 218 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 45 km NNW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1"
         }
     ],
-    "seismicSummary": "Urgent: Four M5-M5.5 earthquakes have just struck Fiji, Vanuatu, and Japan!"
+    "seismicSummary": "URGENT: Multiple 5+ magnitude earthquakes have struck Fiji, Vanuatu, and Indonesia!"
 }
