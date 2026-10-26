@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "A critical confluence of escalating global threats demands immediate attention: widespread social unrest and economic instability, evidenced by protests across France, deepening credit crunch concerns, and an emerging global water crisis, all exacerbated by volatile AI-driven technological shifts and polarizing political rhetoric. Financially, markets are exhibiting a cautious posture amidst these significant headwinds, with mixed performances among major tech entities. Critically, these systemic pressures are compounded by a notable increase in seismic activity across the Pacific Ring of Fire, indicating heightened physical risk. In response, secure financial liquidity and diversify investments into stable assets, concurrently auditing critical resource supply chains, particularly water, given the escalating global crisis. Immediately review and reinforce emergency protocols and physical security measures for all personnel and assets, with particular emphasis on locations within seismically active regions or areas prone to civil unrest. Finally, maintain acute vigilance over evolving AI policy and geopolitical narratives to preempt regulatory shifts and adapt strategic positioning in a rapidly changing technological and political landscape.",
+    "strategicPlan": "The global environment presents an increasingly complex and volatile threat matrix: geopolitical tensions are rising with widespread social unrest across France, an emerging \"Neets crisis\" highlighting economic disaffection, and a hidden global water crisis compounding resource scarcity, all set against a backdrop of escalating political rhetoric around \"Super Intelligence\" and new digital frontiers. Financially, the market exhibits caution, with key tech stocks showing mixed performance amidst broader credit crunch concerns. Concurrently, heightened geological instability is evident with significant seismic activity across the Pacific Ring of Fire and Central Asia. To navigate this landscape, immediately secure your financial liquidity and diversify investments into resilient sectors; establish robust emergency preparedness protocols, including a secure communication plan and pre-positioned supplies for potential civil unrest or natural disaster; and maintain continuous vigilance on evolving resource scarcity and geopolitical developments, adapting your contingency plans accordingly.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f A 6.5 magnitude earthquake just struck Japan, with multiple other strong quakes reported across the Pacific region!"
+    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 6.5 near Japan, are striking the Pacific Rim!"
 }
