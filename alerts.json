@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a period of escalating systemic risk, characterized by a confluence of geopolitical, financial, and physical tectonic pressures. Geopolitically, widespread social unrest and economic fragility in key regions are exacerbated by a burgeoning global water crisis and a synthetic drug epidemic. The rapid, politicized advancement of AI, now framed as 'Super Intelligence,' is driving profound technological shifts alongside significant regulatory and geopolitical uncertainty. Financially, a pervasive credit crunch signals broader economic contraction, despite mixed performance among tech giants. Concurrently, heightened seismic activity, particularly across the Pacific Ring of Fire and Central Asia, underscores a persistent physical threat. In response, GlobeGuard directs the following immediate actions: First, secure financial assets by fortifying liquidity and diversifying investments against a worsening credit crunch and economic volatility. Second, strategically leverage emerging AI capabilities for operational efficiency while simultaneously enhancing cybersecurity defenses and preparing for rapid regulatory shifts associated with 'Super Intelligence.' Third, prioritize physical safety and resilience through updated natural disaster preparedness in seismically active zones and reinforce local security protocols to mitigate risks from social unrest and public health crises, including resource scarcity.",
+    "strategicPlan": "The current global intelligence brief reveals a critical confluence of escalating threats: pervasive social and economic instability marked by a burgeoning 'Neets' crisis, a deepening credit crunch, and widespread protests in France, compounded by a critical hidden global water crisis and a surge in synthetic drug use. Paradoxically, the financial markets show a strong bullish trend in key technology sectors like AI, driven by an urgent political and commercial embrace of 'Super Intelligence,' even as this growth coexists with heightened seismic activity across the Pacific Ring of Fire. GlobeGuard advises immediate proactive measures: **first, secure your essential resources and build local community resilience**, particularly concerning water access, to insulate against social unrest and scarcity; **second, strategically capitalize on the undeniable momentum in AI and digital infrastructure**, ensuring your asset diversification includes these resilient sectors; and **third, meticulously review and enhance your physical safety protocols and infrastructure against natural disasters**, especially within or adjacent to tectonically active regions, given the recent cluster of significant seismic events.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $210.96 (-0.59%)",
+            "title": "\ud83d\udcb0 NVDA: $216.23 (2.5%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $347.73 (-0.14%)",
+            "title": "\ud83d\udcb0 AAPL: $342.9 (-1.39%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $524.51 (0.66%)",
+            "title": "\ud83d\udcb0 MSFT: $531.72 (1.38%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $196.75 (0.29%)",
+            "title": "\ud83d\udcb0 PLTR: $199.19 (1.24%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $248.0 (-0.95%)",
+            "title": "\ud83d\udcb0 AMZN: $248.43 (0.18%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 59 km SW of Ashk\u0101sham, Afghanistan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va"
+            "title": "\u26a0\ufe0f Mag 5 - 218 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6"
         }
     ],
-    "seismicSummary": "Multiple significant Mag 5+ earthquakes just occurred worldwide, including Fiji, Japan, Vanuatu, and Afghanistan."
+    "seismicSummary": "Urgent: Four M5-M5.5 earthquakes have just struck Fiji, Vanuatu, and Japan!"
 }
