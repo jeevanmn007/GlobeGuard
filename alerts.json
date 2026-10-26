@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents an increasingly complex and volatile threat matrix: geopolitical tensions are rising with widespread social unrest across France, an emerging \"Neets crisis\" highlighting economic disaffection, and a hidden global water crisis compounding resource scarcity, all set against a backdrop of escalating political rhetoric around \"Super Intelligence\" and new digital frontiers. Financially, the market exhibits caution, with key tech stocks showing mixed performance amidst broader credit crunch concerns. Concurrently, heightened geological instability is evident with significant seismic activity across the Pacific Ring of Fire and Central Asia. To navigate this landscape, immediately secure your financial liquidity and diversify investments into resilient sectors; establish robust emergency preparedness protocols, including a secure communication plan and pre-positioned supplies for potential civil unrest or natural disaster; and maintain continuous vigilance on evolving resource scarcity and geopolitical developments, adapting your contingency plans accordingly.",
+    "strategicPlan": "The global landscape presents a confluence of escalating and interconnected risks. Widespread social fragmentation, exemplified by protests in France, a deepening synthetic drug crisis, and a critical hidden global water crisis, are exerting immense pressure on societal stability, compounded by an impending 'Credit crunch.' While financial markets show cautious movement in key tech sectors, the intense political and commercial focus on 'Super Intelligence' and AI-driven domain expansion introduces significant innovation alongside potential for volatility and speculative bubbles. Simultaneously, persistent moderate seismic activity across critical regions like China, Japan, and the Pacific Ring of Fire demands continuous vigilance, highlighting the enduring physical threats that could compound existing societal and economic vulnerabilities. To navigate this complex environment, GlobeGuard directs immediate action: **(1)** Secure financial resilience by diversifying portfolios, prioritizing liquid assets, and strategically evaluating AI-driven opportunities against market correction risks. **(2)** Enhance physical safety by maintaining updated emergency preparedness for seismic events and other natural disasters, concurrently exercising heightened situational awareness regarding social unrest. **(3)** Fortify information and digital security, rigorously vetting data amidst politically charged rhetoric and rapidly advancing AI capabilities that could weaponize misinformation.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.5 - Bonin Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 6.1 - 25 km ENE of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.9 - 218 km ENE of Nagqu, China",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 33 km ESE of Ambunti, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 205 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - Bonin Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we"
         }
     ],
-    "seismicSummary": "URGENT: Multiple strong earthquakes, including a Mag 6.5 near Japan, are striking the Pacific Rim!"
+    "seismicSummary": "Four strong earthquakes, magnitudes 5.3-5.9, just hit the Pacific region!"
 }
