@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a precarious convergence of threats: widespread socio-economic instability manifested in civil unrest (France, 'Neets crisis') and a looming 'credit crunch,' compounded by escalating resource scarcity (water crisis) and a rapidly accelerating, politically charged technological pivot towards AI. Simultaneously, persistent moderate seismic activity across the Pacific Ring of Fire underscores the constant threat of natural hazards. To navigate this complex environment, GlobeGuard directs immediate action: first, fortify and diversify financial holdings against both economic volatility and rapid technological shifts, concurrently bolstering digital security protocols against evolving threats. Second, implement robust emergency preparedness plans for local and regional disruptions, including civil unrest, resource scarcity, and potential natural disasters, diligently assessing geographic exposure. Third, maintain continuous intelligence vigilance on AI policy, emerging technologies, and geopolitical rhetoric, developing agile strategies to adapt to the evolving landscape and secure your physical and informational assets.",
+    "strategicPlan": "The current global environment is characterized by a precarious balance of multifaceted threats: Geopolitically, we are witnessing escalating social instability and protest, a deepening global water crisis, and widespread social disruption from synthetic drugs, all underpinned by a looming \"credit crunch\" despite sustained growth in key technology sectors. Concurrently, the political landscape is intensely focused on the rapid evolution and definition of \"Super Intelligence\" AI, signaling significant shifts in regulatory and economic spheres. On the physical front, a concentrated cluster of magnitude 5+ seismic events in the South Pacific (Vanuatu, Tonga) indicates persistent tectonic activity, requiring vigilance for potential regional impacts. To navigate this complex landscape, I direct you to: 1) Secure your financial posture by diversifying holdings, prioritizing resilient tech investments while preparing for broader economic volatility. 2) Proactively protect your digital assets and intellectual property, given the accelerating trend toward AI-centric domains and evolving governmental oversight. 3) Reinforce physical safety protocols and contingency plans for personnel and assets, with particular attention to regions susceptible to civil unrest, resource scarcity, and potential natural disasters.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 283 km E of Levuka, Fiji",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr"
+            "title": "\u26a0\ufe0f Mag 5.8 - 196 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 205 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 218 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6"
+            "title": "\u26a0\ufe0f Mag 5 - 206 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 45 km NNW of Ende, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1"
+            "title": "\u26a0\ufe0f Mag 5 - 95 km NNE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc"
         }
     ],
-    "seismicSummary": "**Alert: Multiple magnitude 5-5.5 earthquakes reported across Fiji, Vanuatu, and Indonesia!**"
+    "seismicSummary": "Multiple strong earthquakes, including a 5.8 magnitude, are rocking Vanuatu and Tonga."
 }
