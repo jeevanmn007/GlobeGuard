@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is characterized by a precarious balance of multifaceted threats: Geopolitically, we are witnessing escalating social instability and protest, a deepening global water crisis, and widespread social disruption from synthetic drugs, all underpinned by a looming \"credit crunch\" despite sustained growth in key technology sectors. Concurrently, the political landscape is intensely focused on the rapid evolution and definition of \"Super Intelligence\" AI, signaling significant shifts in regulatory and economic spheres. On the physical front, a concentrated cluster of magnitude 5+ seismic events in the South Pacific (Vanuatu, Tonga) indicates persistent tectonic activity, requiring vigilance for potential regional impacts. To navigate this complex landscape, I direct you to: 1) Secure your financial posture by diversifying holdings, prioritizing resilient tech investments while preparing for broader economic volatility. 2) Proactively protect your digital assets and intellectual property, given the accelerating trend toward AI-centric domains and evolving governmental oversight. 3) Reinforce physical safety protocols and contingency plans for personnel and assets, with particular attention to regions susceptible to civil unrest, resource scarcity, and potential natural disasters.",
+    "strategicPlan": "The global strategic landscape is defined by a mounting systemic fragility, where significant social unrest across Europe, a deepening credit crunch, and pervasive resource scarcity evidenced by a hidden global water crisis underscore severe geopolitical and economic instability. While major tech stocks exhibit sustained growth, this resilience appears increasingly decoupled from the underlying societal challenges and public health crises driven by synthetic drugs and political polarization. Concurrently, elevated seismic activity across the Pacific Ring of Fire signals persistent physical threats, while the accelerating \"Super Intelligence\" AI trend demands immediate attention for both its transformative potential and inherent risks. To navigate this volatile environment, immediately secure and diversify tangible assets beyond traditional financial instruments, fortify personal and familial preparedness for resource disruptions and natural hazards, and implement stringent protocols for digital and informational vigilance against evolving AI-driven threats and misinformation campaigns.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $216.0 (2.39%)",
+            "title": "\ud83d\udcb0 NVDA: $218.85 (1.32%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.91 (-1.1%)",
+            "title": "\ud83d\udcb0 AAPL: $346.02 (0.61%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $532.6 (1.54%)",
+            "title": "\ud83d\udcb0 MSFT: $533.67 (0.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $198.84 (1.06%)",
+            "title": "\ud83d\udcb0 PLTR: $200.93 (1.05%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $249.09 (0.44%)",
+            "title": "\ud83d\udcb0 AMZN: $253.56 (1.79%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 205 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4zb"
+            "title": "\u26a0\ufe0f Mag 5.4 - 128 km S of Pundong, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 206 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe"
+            "title": "\u26a0\ufe0f Mag 5.2 - 191 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 95 km NNE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc"
+            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgq"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a 5.8 magnitude, are rocking Vanuatu and Tonga."
+    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes just struck Vanuatu, Indonesia, and Fiji!"
 }
