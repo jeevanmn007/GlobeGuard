@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by a mounting systemic fragility, where significant social unrest across Europe, a deepening credit crunch, and pervasive resource scarcity evidenced by a hidden global water crisis underscore severe geopolitical and economic instability. While major tech stocks exhibit sustained growth, this resilience appears increasingly decoupled from the underlying societal challenges and public health crises driven by synthetic drugs and political polarization. Concurrently, elevated seismic activity across the Pacific Ring of Fire signals persistent physical threats, while the accelerating \"Super Intelligence\" AI trend demands immediate attention for both its transformative potential and inherent risks. To navigate this volatile environment, immediately secure and diversify tangible assets beyond traditional financial instruments, fortify personal and familial preparedness for resource disruptions and natural hazards, and implement stringent protocols for digital and informational vigilance against evolving AI-driven threats and misinformation campaigns.",
+    "strategicPlan": "The global situation presents a complex and urgent risk profile, combining escalating geopolitical volatility with critical financial and physical threats. We observe a persistent undercurrent of socio-economic unrest, evidenced by the 'Neets crisis,' 'credit crunch' warnings, and widespread protests in France, compounded by a critical, hidden global water crisis and the pervasive spread of synthetic drugs. Simultaneously, the strategic landscape is rapidly shifting around AI, with major powers defining 'Super Intelligence' and new digital domains emerging, while financial markets show mixed resilience in key tech sectors. Crucially, a distinct and elevated pattern of significant seismic activity across the Pacific Rim and Eurasia, with multiple M5+ earthquakes, signals heightened physical tectonic instability. Therefore, GlobeGuard advises immediate action to secure your operational continuity and physical safety: conduct a comprehensive review of critical supply chains and resource dependencies, particularly water, establishing robust emergency reserves; diversify investment portfolios to mitigate economic volatility and secure digital assets against sophisticated AI-driven threats and potential cyber warfare; and immediately update and drill physical disaster preparedness protocols, securing infrastructure, and establishing redundant communication plans, especially for regions prone to seismic activity.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $218.85 (1.32%)",
+            "title": "\ud83d\udcb0 NVDA: $217.94 (0.9%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $346.02 (0.61%)",
+            "title": "\ud83d\udcb0 AAPL: $347.1 (0.93%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $533.67 (0.2%)",
+            "title": "\ud83d\udcb0 MSFT: $531.33 (-0.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $200.93 (1.05%)",
+            "title": "\ud83d\udcb0 PLTR: $198.73 (-0.06%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.56 (1.79%)",
+            "title": "\ud83d\udcb0 AMZN: $253.1 (1.61%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 210 km ENE of Nagqu, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 128 km S of Pundong, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 191 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgq"
         }
     ],
-    "seismicSummary": "Urgent: Multiple Mag 5+ earthquakes just struck Vanuatu, Indonesia, and Fiji!"
+    "seismicSummary": "Multiple strong earthquakes, including a Mag 5.8, have just struck Vanuatu, China, and Indonesia."
 }
