@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical convergence of escalating geopolitical friction, persistent economic contraction evidenced by broad tech market downturns and a pervasive 'credit crunch', and significantly elevated seismic activity across multiple global hot zones. To mitigate these dynamic threats, immediately reallocate financial assets towards highly diversified, resilient portfolios with emphasis on robust liquidity, while simultaneously updating and drilling emergency preparedness protocols, particularly for seismic events in susceptible regions and civil unrest contingency in urban areas. Proactively, secure critical resource supply chains, focusing on water and essential commodities, against potential environmental or socio-economic disruptions to ensure continuity and resilience.",
+    "strategicPlan": "The global environment is currently characterized by a complex and converging threat profile: widespread social unrest in key regions like France, deepening domestic crises spanning youth disengagement and synthetic drug proliferation, and a critical global water shortage are accelerating geopolitical instability, further amplified by charged political discourse surrounding AI and national security. Concurrently, financial markets are exhibiting early signs of contraction, with tech sector slowdowns coinciding with warnings of an impending credit crunch. This economic tension is compounded by a marked increase in significant global seismic activity, with notable tremors recorded in vulnerable zones such as Vanuatu and Japan, indicating heightened physical risks. To navigate this period of escalating volatility, immediately de-risk financial portfolios by diversifying away from speculative tech and into more resilient, stable assets, anticipating further economic tightening. Second, rigorously update and localize emergency preparedness and evacuation plans for both civil unrest and natural disasters, especially if operating in seismically active regions or areas prone to resource scarcity. Third, establish enhanced intelligence streams to continuously monitor evolving geopolitical flashpoints, AI policy shifts, and localized resource access, enabling proactive and agile adjustments to personal and operational security postures.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $217.3 (-0.3%)",
+            "title": "\ud83d\udcb0 NVDA: $215.38 (-1.17%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $344.91 (-0.63%)",
+            "title": "\ud83d\udcb0 AAPL: $343.83 (-0.94%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $527.33 (-0.75%)",
+            "title": "\ud83d\udcb0 MSFT: $531.01 (-0.06%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $194.21 (-2.27%)",
+            "title": "\ud83d\udcb0 PLTR: $196.81 (-0.97%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $252.3 (-0.31%)",
+            "title": "\ud83d\udcb0 AMZN: $254.6 (0.59%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes, including a Mag 6 near Vanuatu, are hitting globally!"
+    "seismicSummary": "Urgent: Multiple strong earthquakes (Mag 5.5-6) just struck Vanuatu, Japan, and the Reykjanes Ridge!"
 }
