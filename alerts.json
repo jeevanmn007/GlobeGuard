@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a complex and converging threat profile: widespread social unrest in key regions like France, deepening domestic crises spanning youth disengagement and synthetic drug proliferation, and a critical global water shortage are accelerating geopolitical instability, further amplified by charged political discourse surrounding AI and national security. Concurrently, financial markets are exhibiting early signs of contraction, with tech sector slowdowns coinciding with warnings of an impending credit crunch. This economic tension is compounded by a marked increase in significant global seismic activity, with notable tremors recorded in vulnerable zones such as Vanuatu and Japan, indicating heightened physical risks. To navigate this period of escalating volatility, immediately de-risk financial portfolios by diversifying away from speculative tech and into more resilient, stable assets, anticipating further economic tightening. Second, rigorously update and localize emergency preparedness and evacuation plans for both civil unrest and natural disasters, especially if operating in seismically active regions or areas prone to resource scarcity. Third, establish enhanced intelligence streams to continuously monitor evolving geopolitical flashpoints, AI policy shifts, and localized resource access, enabling proactive and agile adjustments to personal and operational security postures.",
+    "strategicPlan": "The global risk environment is characterized by a dangerous convergence of escalating social and economic instability, marked by widespread public unrest, a deepening credit crunch with corresponding tech market declines, and a critical hidden global water crisis. These human security threats are compounded by intense political polarization, the rapid, unregulated emergence of 'Super Intelligence' AI, and persistent physical risks from elevated seismic activity across multiple tectonically active regions. To proactively mitigate these multifaceted challenges, GlobeGuard advises three immediate actions: first, aggressively diversify financial holdings beyond conventional equities and secure digital assets against evolving cyber threats; second, establish comprehensive emergency preparedness, prioritizing potable water and essential survival supplies in light of the global water crisis; and third, implement robust personal and family safety protocols, including monitoring local socio-political dynamics and ensuring readiness for natural disaster events, especially in seismically active zones.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -47,35 +47,35 @@
             "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
         },
         {
+            "title": "Trump Triples Down on \u2018Super Intelligence\u2019",
+            "link": "https://gizmodo.com/trump-triples-down-on-super-intelligence-2000831476"
+        },
+        {
             "title": "It appears .agent and .agi are about to be the hot new domains",
             "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
         },
         {
             "title": "You\u2019ll Never Guess Who Trump Is Now Calling \u2018THE ENEMY\u2019",
             "link": "https://gizmodo.com/youll-never-guess-who-trump-is-now-calling-the-enemy-2000823614"
-        },
-        {
-            "title": "A Guide to Which AI CEOs Now Say \u2018Super Intelligence\u2019 and Which Don\u2019t",
-            "link": "https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804"
         }
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 214 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm"
+            "title": "\u26a0\ufe0f Mag 5.8 - 110 km ENE of Barcelona, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 174 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt"
+            "title": "\u26a0\ufe0f Mag 5.7 - 82 km NE of Kiunga, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 5 km ESE of Asahi, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe"
+            "title": "\u26a0\ufe0f Mag 5.7 - 271 km WSW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - Reykjanes Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc"
+            "title": "\u26a0\ufe0f Mag 5.6 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes (Mag 5.5-6) just struck Vanuatu, Japan, and the Reykjanes Ridge!"
+    "seismicSummary": "**\ud83d\udea8 Multiple 5.6-5.8 magnitude earthquakes reported worldwide!**"
 }
