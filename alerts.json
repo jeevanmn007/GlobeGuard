@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is characterized by a rapidly converging array of escalating threats: economic instability is tightening its grip, evidenced by a looming credit crunch and widespread social unrest in key European nations, further compounded by a hidden global water crisis and a deepening domestic synthetic drug epidemic. Simultaneously, the political sphere is volatile, marked by divisive rhetoric and a frenetic push towards \"Super Intelligence\" that is poised to redefine digital domains and geopolitical power structures. Financially, major tech equities are showing significant volatility and downturns, reflecting underlying market anxieties. Physically, the heightened seismic activity across the Pacific Ring of Fire underscores persistent geological instability, presenting a non-negligible risk of natural disasters. In response, strategically re-evaluate your portfolio for liquidity and diversification, focusing on resilient assets while prudently monitoring the highly speculative AI sector for long-term plays; secure critical physical resources, especially water, and establish contingency plans for localized civil unrest or natural disasters; and finally, fortify your digital infrastructure and critically assess emerging AI capabilities, as these will fundamentally reshape security paradigms.",
+    "strategicPlan": "The global intelligence brief reveals a complex, converging threat environment: profound socio-economic instability underscored by a hidden global water crisis, escalating social unrest in key Western nations like France, and a deepening synthetic drug crisis, all against a backdrop of financial market volatility indicated by significant tech stock downturns. Concurrently, heightened global seismic activity, with multiple significant magnitude quakes reported across diverse regions, amplifies immediate physical risks. To navigate this intricate landscape, prioritize securing your physical and digital assets by diversifying investment portfolios into resilient sectors and tangible holdings; implement advanced cybersecurity measures, leveraging next-generation AI defenses to protect against emerging threats, while strategically assessing the impact of 'Super Intelligence' advancements; and crucially, fortify physical safety protocols by preparing for civil disruptions, resource scarcities, and natural disasters, particularly in seismically active or politically volatile areas.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $213.36 (-0.94%)",
+            "title": "\ud83d\udcb0 NVDA: $213.66 (-0.8%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $349.57 (1.67%)",
+            "title": "\ud83d\udcb0 AAPL: $348.91 (1.48%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $527.13 (-0.73%)",
+            "title": "\ud83d\udcb0 MSFT: $530.14 (-0.16%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $196.06 (-0.38%)",
+            "title": "\ud83d\udcb0 PLTR: $196.42 (-0.2%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $245.63 (-3.52%)",
+            "title": "\ud83d\udcb0 AMZN: $243.79 (-4.25%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -51,12 +51,12 @@
             "link": "https://gizmodo.com/trump-triples-down-on-super-intelligence-2000831476"
         },
         {
-            "title": "It appears .agent and .agi are about to be the hot new domains",
-            "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+            "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
+            "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
         },
         {
-            "title": "You\u2019ll Never Guess Who Trump Is Now Calling \u2018THE ENEMY\u2019",
-            "link": "https://gizmodo.com/youll-never-guess-who-trump-is-now-calling-the-enemy-2000823614"
+            "title": "It appears .agent and .agi are about to be the hot new domains",
+            "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
         }
     ],
     "seismic": [
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua"
         }
     ],
-    "seismicSummary": "**URGENT:** Multiple significant earthquakes, including a Mag 6.4, reported across diverse global locations!"
+    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 6.4, have struck worldwide!"
 }
