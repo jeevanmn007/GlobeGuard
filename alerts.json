@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global risk environment is characterized by a dangerous convergence of escalating social and economic instability, marked by widespread public unrest, a deepening credit crunch with corresponding tech market declines, and a critical hidden global water crisis. These human security threats are compounded by intense political polarization, the rapid, unregulated emergence of 'Super Intelligence' AI, and persistent physical risks from elevated seismic activity across multiple tectonically active regions. To proactively mitigate these multifaceted challenges, GlobeGuard advises three immediate actions: first, aggressively diversify financial holdings beyond conventional equities and secure digital assets against evolving cyber threats; second, establish comprehensive emergency preparedness, prioritizing potable water and essential survival supplies in light of the global water crisis; and third, implement robust personal and family safety protocols, including monitoring local socio-political dynamics and ensuring readiness for natural disaster events, especially in seismically active zones.",
+    "strategicPlan": "The global landscape is characterized by a rapidly converging array of escalating threats: economic instability is tightening its grip, evidenced by a looming credit crunch and widespread social unrest in key European nations, further compounded by a hidden global water crisis and a deepening domestic synthetic drug epidemic. Simultaneously, the political sphere is volatile, marked by divisive rhetoric and a frenetic push towards \"Super Intelligence\" that is poised to redefine digital domains and geopolitical power structures. Financially, major tech equities are showing significant volatility and downturns, reflecting underlying market anxieties. Physically, the heightened seismic activity across the Pacific Ring of Fire underscores persistent geological instability, presenting a non-negligible risk of natural disasters. In response, strategically re-evaluate your portfolio for liquidity and diversification, focusing on resilient assets while prudently monitoring the highly speculative AI sector for long-term plays; secure critical physical resources, especially water, and establish contingency plans for localized civil unrest or natural disasters; and finally, fortify your digital infrastructure and critically assess emerging AI capabilities, as these will fundamentally reshape security paradigms.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $215.38 (-1.17%)",
+            "title": "\ud83d\udcb0 NVDA: $213.36 (-0.94%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.83 (-0.94%)",
+            "title": "\ud83d\udcb0 AAPL: $349.57 (1.67%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $531.01 (-0.06%)",
+            "title": "\ud83d\udcb0 MSFT: $527.13 (-0.73%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $196.81 (-0.97%)",
+            "title": "\ud83d\udcb0 PLTR: $196.06 (-0.38%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $254.6 (0.59%)",
+            "title": "\ud83d\udcb0 AMZN: $245.63 (-3.52%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.4 - southeast of Easter Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.8 - 110 km ENE of Barcelona, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.7 - 271 km WSW of Tual, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.6 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Multiple 5.6-5.8 magnitude earthquakes reported worldwide!**"
+    "seismicSummary": "**URGENT:** Multiple significant earthquakes, including a Mag 6.4, reported across diverse global locations!"
 }
