@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and rapidly deteriorating threat matrix. We are witnessing a significant economic contraction, highlighted by broad tech market depreciation and a looming credit crunch, which exacerbates widespread social unrest and a burgeoning global water crisis. Concurrently, the accelerated and politicized development of AI introduces both novel opportunities and amplified cyber risks, while persistent high-magnitude seismic activity in critical regions adds a layer of unpredictable physical danger. To mitigate these intersecting threats, immediate and decisive action is imperative: First, diversify and de-risk financial portfolios, prioritizing liquidity and assets demonstrably resilient to economic contraction and credit tightening. Second, critically review and reinforce physical security protocols and supply chain resilience, particularly for operations within regions prone to civil unrest, water scarcity, or seismic events. Third, aggressively bolster digital defenses with advanced AI-driven cybersecurity solutions, and assess exposure to emerging .agent/.agi domain threats, securing all critical intellectual property.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "We are facing a convergence of critical global challenges: significant social and economic instability is manifesting through widespread protests and a deepening \"credit crunch\" in key regions, while a hidden global water crisis and escalating synthetic drug epidemic erode societal resilience. Financially, major tech markets are experiencing a broad downturn, signaling investor anxiety and potential economic contraction. Concurrently, the Pacific Ring of Fire is exhibiting heightened seismic activity with multiple significant earthquakes, posing acute physical threats. In light of these conditions, immediately review and de-risk investment portfolios, prioritizing liquidity and diversification against a backdrop of economic uncertainty. Enhance emergency preparedness protocols, focusing on seismic event readiness and resilience against potential infrastructure disruptions. Lastly, maintain acute situational awareness regarding local and regional stability, particularly concerning resource scarcity and civil unrest, securing essential supplies to mitigate potential supply chain and social impacts.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.14 (-3.05%)",
+            "title": "\ud83d\udcb0 NVDA: $203.34 (-4.83%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $344.85 (-1.16%)",
+            "title": "\ud83d\udcb0 AAPL: $343.42 (-1.57%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $522.8 (-1.38%)",
+            "title": "\ud83d\udcb0 MSFT: $520.49 (-1.82%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $189.07 (-3.74%)",
+            "title": "\ud83d\udcb0 PLTR: $185.22 (-5.7%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $238.95 (-1.99%)",
+            "title": "\ud83d\udcb0 AMZN: $239.29 (-1.85%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a M6.2 in Vanuatu, are rapidly hitting the Pacific Rim!"
+    "seismicSummary": "Four major earthquakes, up to Mag 6.2, just struck the Pacific Rim!"
 }
