@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "We are facing a convergence of critical global challenges: significant social and economic instability is manifesting through widespread protests and a deepening \"credit crunch\" in key regions, while a hidden global water crisis and escalating synthetic drug epidemic erode societal resilience. Financially, major tech markets are experiencing a broad downturn, signaling investor anxiety and potential economic contraction. Concurrently, the Pacific Ring of Fire is exhibiting heightened seismic activity with multiple significant earthquakes, posing acute physical threats. In light of these conditions, immediately review and de-risk investment portfolios, prioritizing liquidity and diversification against a backdrop of economic uncertainty. Enhance emergency preparedness protocols, focusing on seismic event readiness and resilience against potential infrastructure disruptions. Lastly, maintain acute situational awareness regarding local and regional stability, particularly concerning resource scarcity and civil unrest, securing essential supplies to mitigate potential supply chain and social impacts.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The current global intelligence landscape reveals a dangerous convergence of escalating social, economic, technological, and environmental stressors. Widespread civil unrest and deepening social crises, exemplified by French protests, the 'Neets' crisis, and the rise of synthetic drugs, signal internal instability, compounded by an imminent global water crisis. Financially, a broad market downturn across major tech stocks, alongside indicators of a credit crunch, points to significant economic headwinds. Concurrently, rapid AI advancements introduce new dimensions of cyber risk and political manipulation, while persistent seismic activity in the Pacific Rim underscores ongoing natural hazard vulnerabilities. To navigate this volatile period, **first, prioritize immediate liquidity and strategically diversify asset holdings beyond conventional equities, hedging against further market downturns and the tightening credit environment. Second, reassess and strengthen localized security protocols and supply chain resilience, particularly for operations in regions experiencing civil unrest or resource scarcity. Third, fortify your digital security infrastructure and critically evaluate all information streams to counter AI-driven disinformation and evolving cyber threats.**",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,31 +21,27 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $203.34 (-4.83%)",
+            "title": "\ud83d\udcb0 NVDA: $204.64 (-4.22%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.42 (-1.57%)",
+            "title": "\ud83d\udcb0 AAPL: $344.63 (-1.23%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $520.49 (-1.82%)",
+            "title": "\ud83d\udcb0 MSFT: $521.91 (-1.55%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $185.22 (-5.7%)",
+            "title": "\ud83d\udcb0 PLTR: $184.11 (-6.27%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $239.29 (-1.85%)",
+            "title": "\ud83d\udcb0 AMZN: $240.35 (-1.41%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
     "trend": [
-        {
-            "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
-            "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
-        },
         {
             "title": "Trump Triples Down on \u2018Super Intelligence\u2019",
             "link": "https://gizmodo.com/trump-triples-down-on-super-intelligence-2000831476"
@@ -57,13 +53,13 @@
         {
             "title": "It appears .agent and .agi are about to be the hot new domains",
             "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+        },
+        {
+            "title": "You\u2019ll Never Guess Who Trump Is Now Calling \u2018THE ENEMY\u2019",
+            "link": "https://gizmodo.com/youll-never-guess-who-trump-is-now-calling-the-enemy-2000823614"
         }
     ],
     "seismic": [
-        {
-            "title": "\u26a0\ufe0f Mag 6.2 - 43 km ESE of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f"
-        },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Balleny Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j"
@@ -73,9 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 131 km NNW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u"
+            "title": "\u26a0\ufe0f Mag 4.8 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 222 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufc"
         }
     ],
-    "seismicSummary": "Four major earthquakes, up to Mag 6.2, just struck the Pacific Rim!"
+    "seismicSummary": "**URGENT: Multiple earthquakes up to Mag 5.1 are striking the Pacific region!**"
 }
