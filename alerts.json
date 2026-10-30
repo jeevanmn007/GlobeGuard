@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is defined by escalating socio-economic instability, evidenced by persistent credit challenges, a critical global water crisis, and civil unrest in key regions, all while financial markets display volatility, notably in major tech. Concurrently, a rapid, politically-driven acceleration in AI capabilities, including \"Super Intelligence\" initiatives, signals profound technological shifts and potential new threat vectors. Physically, a marked increase in significant seismic activity across diverse global locations (Mag 6.4 near Easter Island, Mag 6.2 in Vanuatu, etc.) elevates the overall physical threat profile. Therefore, GlobeGuard directs immediate action: 1) Proactively diversify digital and hard assets, enhancing cybersecurity measures against sophisticated AI-driven threats, and re-evaluate exposure to volatile market sectors. 2) Secure critical resources, especially water, and develop robust contingency plans for localized socio-economic disruptions and potential civil unrest. 3) Conduct urgent assessments and reinforcements of physical infrastructure in seismically active zones, alongside establishing comprehensive emergency preparedness protocols for natural disasters.",
+    "strategicPlan": "The global environment presents a complex and rapidly deteriorating threat matrix. We are witnessing a significant economic contraction, highlighted by broad tech market depreciation and a looming credit crunch, which exacerbates widespread social unrest and a burgeoning global water crisis. Concurrently, the accelerated and politicized development of AI introduces both novel opportunities and amplified cyber risks, while persistent high-magnitude seismic activity in critical regions adds a layer of unpredictable physical danger. To mitigate these intersecting threats, immediate and decisive action is imperative: First, diversify and de-risk financial portfolios, prioritizing liquidity and assets demonstrably resilient to economic contraction and credit tightening. Second, critically review and reinforce physical security protocols and supply chain resilience, particularly for operations within regions prone to civil unrest, water scarcity, or seismic events. Third, aggressively bolster digital defenses with advanced AI-driven cybersecurity solutions, and assess exposure to emerging .agent/.agi domain threats, securing all critical intellectual property.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $213.66 (-0.8%)",
+            "title": "\ud83d\udcb0 NVDA: $207.14 (-3.05%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $348.91 (1.48%)",
+            "title": "\ud83d\udcb0 AAPL: $344.85 (-1.16%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $530.14 (-0.16%)",
+            "title": "\ud83d\udcb0 MSFT: $522.8 (-1.38%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $196.42 (-0.2%)",
+            "title": "\ud83d\udcb0 PLTR: $189.07 (-3.74%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $243.79 (-4.25%)",
+            "title": "\ud83d\udcb0 AMZN: $238.95 (-1.99%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.4 - southeast of Easter Island",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 6.2 - 43 km ESE of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 114 km ENE of Barcelona, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn"
+            "title": "\u26a0\ufe0f Mag 5.1 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 131 km NNW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u"
         }
     ],
-    "seismicSummary": "URGENT: Multiple significant earthquakes, including a Mag 6.4, just reported worldwide."
+    "seismicSummary": "Multiple strong earthquakes, including a M6.2 in Vanuatu, are rapidly hitting the Pacific Rim!"
 }
