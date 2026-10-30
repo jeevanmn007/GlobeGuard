@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief reveals a complex, converging threat environment: profound socio-economic instability underscored by a hidden global water crisis, escalating social unrest in key Western nations like France, and a deepening synthetic drug crisis, all against a backdrop of financial market volatility indicated by significant tech stock downturns. Concurrently, heightened global seismic activity, with multiple significant magnitude quakes reported across diverse regions, amplifies immediate physical risks. To navigate this intricate landscape, prioritize securing your physical and digital assets by diversifying investment portfolios into resilient sectors and tangible holdings; implement advanced cybersecurity measures, leveraging next-generation AI defenses to protect against emerging threats, while strategically assessing the impact of 'Super Intelligence' advancements; and crucially, fortify physical safety protocols by preparing for civil disruptions, resource scarcities, and natural disasters, particularly in seismically active or politically volatile areas.",
+    "strategicPlan": "The global strategic landscape is defined by escalating socio-economic instability, evidenced by persistent credit challenges, a critical global water crisis, and civil unrest in key regions, all while financial markets display volatility, notably in major tech. Concurrently, a rapid, politically-driven acceleration in AI capabilities, including \"Super Intelligence\" initiatives, signals profound technological shifts and potential new threat vectors. Physically, a marked increase in significant seismic activity across diverse global locations (Mag 6.4 near Easter Island, Mag 6.2 in Vanuatu, etc.) elevates the overall physical threat profile. Therefore, GlobeGuard directs immediate action: 1) Proactively diversify digital and hard assets, enhancing cybersecurity measures against sophisticated AI-driven threats, and re-evaluate exposure to volatile market sectors. 2) Secure critical resources, especially water, and develop robust contingency plans for localized socio-economic disruptions and potential civil unrest. 3) Conduct urgent assessments and reinforcements of physical infrastructure in seismically active zones, alongside establishing comprehensive emergency preparedness protocols for natural disasters.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 110 km ENE of Barcelona, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3"
+            "title": "\u26a0\ufe0f Mag 6.2 - 43 km ESE of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 82 km NE of Kiunga, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5"
+            "title": "\u26a0\ufe0f Mag 5.4 - 114 km ENE of Barcelona, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - 271 km WSW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua"
+            "title": "\u26a0\ufe0f Mag 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a Mag 6.4, have struck worldwide!"
+    "seismicSummary": "URGENT: Multiple significant earthquakes, including a Mag 6.4, just reported worldwide."
 }
