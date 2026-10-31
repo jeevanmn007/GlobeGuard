@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment signals a converging threat matrix: significant economic contraction evidenced by widespread market decline and a pronounced \"credit crunch,\" alongside escalating social unrest in key nations fueled by resource scarcity and internal crises like the synthetic drug wave. Simultaneously, the geopolitical sphere is increasingly shaped by unpredictable rhetoric surrounding advanced AI, while persistent moderate seismic activity in the Pacific rim reminds us of underlying physical vulnerabilities. In this rapidly destabilizing context, GlobeGuard advises immediate action: **first**, consolidate and diversify financial assets, prioritizing liquidity and risk-averse strategies to weather the economic contraction. **Second**, reinforce digital security protocols, anticipating increased cyber threats targeting AI-driven systems and critical infrastructure. **Third**, critically assess and secure local resource dependencies, particularly water, and enhance physical situational awareness given the escalating social volatility and public safety concerns.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j"
+            "title": "\u26a0\ufe0f Mag 5 - 196 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 236 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 213 km W of Sola, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 97 km ENE of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 222 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufc"
         }
     ],
-    "seismicSummary": "Multiple significant quakes, up to M5.1, reported across the Pacific."
+    "seismicSummary": "Analyzing tectonic data..."
 }
