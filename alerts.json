@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence landscape reveals a dangerous convergence of escalating social, economic, technological, and environmental stressors. Widespread civil unrest and deepening social crises, exemplified by French protests, the 'Neets' crisis, and the rise of synthetic drugs, signal internal instability, compounded by an imminent global water crisis. Financially, a broad market downturn across major tech stocks, alongside indicators of a credit crunch, points to significant economic headwinds. Concurrently, rapid AI advancements introduce new dimensions of cyber risk and political manipulation, while persistent seismic activity in the Pacific Rim underscores ongoing natural hazard vulnerabilities. To navigate this volatile period, **first, prioritize immediate liquidity and strategically diversify asset holdings beyond conventional equities, hedging against further market downturns and the tightening credit environment. Second, reassess and strengthen localized security protocols and supply chain resilience, particularly for operations in regions experiencing civil unrest or resource scarcity. Third, fortify your digital security infrastructure and critically evaluate all information streams to counter AI-driven disinformation and evolving cyber threats.**",
+    "strategicPlan": "The global environment signals a converging threat matrix: significant economic contraction evidenced by widespread market decline and a pronounced \"credit crunch,\" alongside escalating social unrest in key nations fueled by resource scarcity and internal crises like the synthetic drug wave. Simultaneously, the geopolitical sphere is increasingly shaped by unpredictable rhetoric surrounding advanced AI, while persistent moderate seismic activity in the Pacific rim reminds us of underlying physical vulnerabilities. In this rapidly destabilizing context, GlobeGuard advises immediate action: **first**, consolidate and diversify financial assets, prioritizing liquidity and risk-averse strategies to weather the economic contraction. **Second**, reinforce digital security protocols, anticipating increased cyber threats targeting AI-driven systems and critical infrastructure. **Third**, critically assess and secure local resource dependencies, particularly water, and enhance physical situational awareness given the escalating social volatility and public safety concerns.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,8 +65,8 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q"
+            "title": "\u26a0\ufe0f Mag 4.8 - 97 km ENE of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - Fiji region",
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufc"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple earthquakes up to Mag 5.1 are striking the Pacific region!**"
+    "seismicSummary": "Multiple significant quakes, up to M5.1, reported across the Pacific."
 }
