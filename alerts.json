@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "GlobeGuard intelligence indicates a critical confluence of escalating global risks demanding immediate attention. Geopolitically, we face broadening social instability marked by economic malaise, a worsening global water crisis, the spread of synthetic drugs, and significant civil unrest in key regions like France, all against a backdrop of intensifying political rhetoric and the rapid advancement of AI's strategic implications for cybersecurity and digital infrastructure. Financially, major tech stocks are undergoing a significant correction, signaling broad market apprehension. Physically, persistent moderate seismic activity, particularly around Vanuatu and Panama, underscores ongoing geological instability. In response, **first**, immediately re-evaluate and diversify financial portfolios towards resilient, defensive assets, while rigorously enhancing digital security against emerging AI-driven cyber threats. **Second**, prioritize localized resource security, specifically water and essential supplies, and update all emergency preparedness plans to account for both escalating social unrest and potential natural disasters. **Third**, maintain heightened situational awareness, monitoring geopolitical shifts and social indicators closely, and critically verify information to counter the spread of disinformation in this volatile environment.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 4 km S of Bajo Corral, Panama",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5 - 196 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 213 km W of Sola, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 97 km ENE of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "Multiple magnitude 5 earthquakes just struck Panama and Vanuatu!"
 }
