@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global environment is currently characterized by a convergence of significant systemic risks: a deepening financial credit crunch and broad market downturn across key tech sectors signals acute economic contraction, while widespread social unrest, including protests in France and deepening crises from synthetic drugs to unemployment, points to profound societal fragility. Concurrently, a critical, hidden global water crisis exacerbates environmental pressures, compounded by a statistically significant cluster of major seismic events in high-risk zones. This complex interplay, alongside the rapid, potentially disruptive advancement of AI technologies, elevates the overall threat landscape beyond traditional classifications.\n\nTherefore, for immediate action, GlobeGuard advises: First, secure financial assets by prioritizing liquidity, diversifying investments away from volatile tech, and critically reviewing all credit exposures. Second, enhance physical safety by updating emergency preparedness plans for natural disasters, particularly seismic events, and securing essential resources like water and emergency supplies while assessing local social stability. Third, fortify digital assets and information infrastructure, given the acceleration of AI advancements and new domain vulnerabilities, to guard against evolving cyber threats.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global environment is currently characterized by escalating multi-faceted instability. Geopolitically, widespread social unrest in France, a burgeoning 'Neets crisis,' and the proliferation of synthetic drugs point to severe societal fractures and public health challenges, compounded by a looming global water crisis and divisive political rhetoric. Financially, major tech stocks are experiencing significant declines across the board, signaling a broad market downturn and potential 'credit crunch' that demands vigilance. Concurrently, heightened seismic activity, particularly multiple significant events around Vanuatu and the South Sandwich Islands, underscores ongoing physical risks in tectonically active zones. This confluence of social, economic, environmental, and physical stressors demands immediate proactive measures. To secure assets and physical safety, we advise: first, **diversify financial holdings away from volatile tech sectors and prioritize liquidity**, anticipating prolonged economic uncertainty; second, **review and fortify personal and organizational emergency preparedness plans**, focusing on securing essential resources like water and establishing contingency for civil unrest; and third, **enhance digital security protocols** in anticipation of increasing cyber threats and the disruptive potential of emerging AI/AGI technologies.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6 - 58 km SSE of Shima, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.4 - 203 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 200 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqk"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 201 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund"
         }
     ],
-    "seismicSummary": "Urgent: Two M6 earthquakes have struck Japan and Vanuatu, with multiple strong quakes in Vanuatu!"
+    "seismicSummary": "URGENT: A magnitude 6 earthquake and multiple strong tremors have struck near Port-Olry, Vanuatu!"
 }
