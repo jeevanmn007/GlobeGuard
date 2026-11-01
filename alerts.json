@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly intensifying global threat landscape, characterized by acute economic contraction and widespread societal instability. The significant downturn across major tech stocks, indicative of a broader credit crunch and the 'Neets crisis,' is exacerbating social fault lines, evidenced by the global water crisis, surging synthetic drug issues, and active civil unrest in France. These systemic pressures are underscored by persistent moderate seismic activity in vulnerable regions, and further complicated by rapid advancements in AI alongside increasing political polarization. To secure assets and physical safety, immediately **de-risk financial portfolios** by reallocating volatile investments into stable, liquid assets and reviewing debt exposure; simultaneously, **bolster physical resilience** through securing critical resources like water and updating emergency protocols for both natural disasters and civil unrest; and finally, **fortify digital perimeters** with advanced cybersecurity measures against evolving AI-driven threats, ensuring robust, redundant communication channels.",
+    "strategicPlan": "The global intelligence landscape indicates a period of elevated systemic risk, characterized by escalating socio-economic instability evident in widespread social unrest, a burgeoning hidden global water crisis, and severe credit crunch anxieties reflected in significant downturns across major tech markets. Concurrently, a pronounced uptick in seismic activity across critical geopolitical regions further compounds physical security and supply chain vulnerabilities, while the accelerating AI frontier and shifting political rhetoric signal emerging vectors of competition and threat. To navigate this complex environment, we advise immediate and decisive action: first, fortify and diversify financial portfolios, prioritizing liquidity and de-risking exposure to volatile assets; second, rigorously review and enhance physical security protocols and supply chain resilience against both natural disasters and social disruptions; and third, implement advanced cybersecurity measures and maintain strategic vigilance against evolving information warfare and emerging technological threats.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - 58 km SSE of Shima, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 200 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 4 km S of Bajo Corral, Panama",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 196 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 236 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 213 km W of Sola, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs"
+            "title": "\u26a0\ufe0f Mag 5 - 115 km SE of Bushehr, Iran",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm"
         }
     ],
-    "seismicSummary": "Urgent: Mag 5.2 earthquake in Panama, multiple 4.9-5.0 events near Vanuatu."
+    "seismicSummary": "**\ud83d\udea8 Urgent: Multiple strong earthquakes reported globally, including a Magnitude 6 in Japan!**"
 }
