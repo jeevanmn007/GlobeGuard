@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a complex and deteriorating risk environment, characterized by escalating geopolitical and socio-economic fragilities. Pervasive social instability, evidenced by a 'Neets crisis,' a deepening 'Credit crunch,' the proliferation of synthetic drugs, and violent civil unrest across France, points to widespread societal fragility. The looming global water crisis adds a critical long-term environmental dimension, while heightened political rhetoric intensifies polarization. Financially, a broad downturn across major tech equities signals significant market apprehension and a potential economic contraction. Concurrently, a surge in seismic activity, highlighted by a magnitude 6 earthquake near Japan, presents immediate physical threats and the potential for significant infrastructure and supply chain disruption. Given this multi-faceted threat landscape, GlobeGuard advises proactive measures: **first**, fortify financial positions by diversifying assets and ensuring liquidity amidst the credit crunch; **second**, enhance physical safety and resource security by updating emergency preparedness plans for seismic events and civil unrest, securing essential local resources; and **third**, continuously monitor regional socio-political developments and global supply chain vulnerabilities to preempt potential disruptions.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The global intelligence landscape reveals a critical confluence of threats: widespread geopolitical instability marked by social unrest across France, a deepening \"Neets\" crisis, and a hidden global water crisis points to escalating systemic vulnerabilities. Financially, major tech stocks are experiencing a significant downturn amidst a looming \"credit crunch,\" signaling broad market instability. Concurrently, heightened physical risks are evident from multiple strong seismic events (M6.0 in Vanuatu and Japan) in active tectonic zones. To navigate this complex environment, first, immediately assess and diversify financial portfolios, prioritizing resilient assets and fortifying digital defenses against emerging AI-driven cyber threats. Second, ensure robust personal and operational emergency preparedness plans are updated, specifically for seismic events and potential civil unrest, including critical supplies and communication redundancies. Third, conduct a thorough audit of critical resource dependencies, particularly water and supply chains, and establish robust alternative contingencies to build resilience against broader systemic shocks.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6 - 165 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6 - 58 km SSE of Shima, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 200 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 4 km S of Bajo Corral, Panama",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: A M6 quake near Shima, Japan, leads multiple strong tremors worldwide!"
+    "seismicSummary": "\ud83d\udea8 Two M6 quakes and multiple M5+ tremors have rocked Vanuatu and Japan!"
 }
