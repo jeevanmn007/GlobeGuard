@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape indicates a period of elevated systemic risk, characterized by escalating socio-economic instability evident in widespread social unrest, a burgeoning hidden global water crisis, and severe credit crunch anxieties reflected in significant downturns across major tech markets. Concurrently, a pronounced uptick in seismic activity across critical geopolitical regions further compounds physical security and supply chain vulnerabilities, while the accelerating AI frontier and shifting political rhetoric signal emerging vectors of competition and threat. To navigate this complex environment, we advise immediate and decisive action: first, fortify and diversify financial portfolios, prioritizing liquidity and de-risking exposure to volatile assets; second, rigorously review and enhance physical security protocols and supply chain resilience against both natural disasters and social disruptions; and third, implement advanced cybersecurity measures and maintain strategic vigilance against evolving information warfare and emerging technological threats.",
+    "strategicPlan": "The global intelligence picture reveals a complex and deteriorating risk environment, characterized by escalating geopolitical and socio-economic fragilities. Pervasive social instability, evidenced by a 'Neets crisis,' a deepening 'Credit crunch,' the proliferation of synthetic drugs, and violent civil unrest across France, points to widespread societal fragility. The looming global water crisis adds a critical long-term environmental dimension, while heightened political rhetoric intensifies polarization. Financially, a broad downturn across major tech equities signals significant market apprehension and a potential economic contraction. Concurrently, a surge in seismic activity, highlighted by a magnitude 6 earthquake near Japan, presents immediate physical threats and the potential for significant infrastructure and supply chain disruption. Given this multi-faceted threat landscape, GlobeGuard advises proactive measures: **first**, fortify financial positions by diversifying assets and ensuring liquidity amidst the credit crunch; **second**, enhance physical safety and resource security by updating emergency preparedness plans for seismic events and civil unrest, securing essential local resources; and **third**, continuously monitor regional socio-political developments and global supply chain vulnerabilities to preempt potential disruptions.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 203 km NW of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - 200 km NW of Port-Olry, Vanuatu",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 4 km S of Bajo Corral, Panama",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 115 km SE of Bushehr, Iran",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Urgent: Multiple strong earthquakes reported globally, including a Magnitude 6 in Japan!**"
+    "seismicSummary": "\ud83d\udea8 Urgent: A M6 quake near Shima, Japan, leads multiple strong tremors worldwide!"
 }
