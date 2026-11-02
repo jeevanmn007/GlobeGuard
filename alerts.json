@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by escalating multi-faceted instability. Geopolitically, widespread social unrest in France, a burgeoning 'Neets crisis,' and the proliferation of synthetic drugs point to severe societal fractures and public health challenges, compounded by a looming global water crisis and divisive political rhetoric. Financially, major tech stocks are experiencing significant declines across the board, signaling a broad market downturn and potential 'credit crunch' that demands vigilance. Concurrently, heightened seismic activity, particularly multiple significant events around Vanuatu and the South Sandwich Islands, underscores ongoing physical risks in tectonically active zones. This confluence of social, economic, environmental, and physical stressors demands immediate proactive measures. To secure assets and physical safety, we advise: first, **diversify financial holdings away from volatile tech sectors and prioritize liquidity**, anticipating prolonged economic uncertainty; second, **review and fortify personal and organizational emergency preparedness plans**, focusing on securing essential resources like water and establishing contingency for civil unrest; and third, **enhance digital security protocols** in anticipation of increasing cyber threats and the disruptive potential of emerging AI/AGI technologies.",
+    "strategicPlan": "The global intelligence brief reveals an acutely elevated risk profile across multiple vectors. Financially, a pervasive credit crunch is evident through significant downturns in major tech stocks, signaling broad economic contraction and increased unemployment. Geopolitically, we observe deepening crises including global water scarcity, widespread synthetic drug proliferation, and escalating civil unrest in key nations like France, all against a backdrop of rapid AI advancements driving both opportunity and sophisticated cyber threats. Concurrently, a sustained period of heightened seismic activity across the Pacific Ring of Fire presents a tangible physical hazard. In response, GlobeGuard advises immediate action: **1)** Consolidate liquid assets, diversify investment portfolios away from volatile tech, and rigorously stress-test financial resilience against continued economic downturns. **2)** Fortify physical security, secure essential resources (especially water), and establish robust contingency plans for civil unrest or supply chain disruptions in vulnerable regions. **3)** Significantly enhance digital security infrastructure against emerging AI-driven threats, and meticulously update all emergency preparedness protocols, including detailed response plans for seismic events and their potential cascading effects.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqk"
+            "title": "\u26a0\ufe0f Mag 5.1 - Kermadec Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 201 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund"
+            "title": "\u26a0\ufe0f Mag 5.1 - Banda Sea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv"
         }
     ],
-    "seismicSummary": "URGENT: A magnitude 6 earthquake and multiple strong tremors have struck near Port-Olry, Vanuatu!"
+    "seismicSummary": "**ALERT: A powerful Mag 6 earthquake has struck near Vanuatu, with several other Mag 5+ quakes reported across the wider region!**"
 }
