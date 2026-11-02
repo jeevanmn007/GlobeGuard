@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief reveals an acutely elevated risk profile across multiple vectors. Financially, a pervasive credit crunch is evident through significant downturns in major tech stocks, signaling broad economic contraction and increased unemployment. Geopolitically, we observe deepening crises including global water scarcity, widespread synthetic drug proliferation, and escalating civil unrest in key nations like France, all against a backdrop of rapid AI advancements driving both opportunity and sophisticated cyber threats. Concurrently, a sustained period of heightened seismic activity across the Pacific Ring of Fire presents a tangible physical hazard. In response, GlobeGuard advises immediate action: **1)** Consolidate liquid assets, diversify investment portfolios away from volatile tech, and rigorously stress-test financial resilience against continued economic downturns. **2)** Fortify physical security, secure essential resources (especially water), and establish robust contingency plans for civil unrest or supply chain disruptions in vulnerable regions. **3)** Significantly enhance digital security infrastructure against emerging AI-driven threats, and meticulously update all emergency preparedness protocols, including detailed response plans for seismic events and their potential cascading effects.",
+    "strategicPlan": "The global environment is currently defined by a complex convergence of escalating social and economic instability, marked by widespread civil unrest in key nations, a deepening global water crisis, and severe public health challenges. This volatility is set against a dynamic financial landscape seeing robust growth in advanced technology sectors, particularly AI and cybersecurity, while moderate, persistent seismic activity across multiple tectonic plates serves as a constant physical risk factor. To navigate this intricate threat matrix, we advise three immediate actions: first, strategically re-evaluate and diversify digital asset portfolios, prioritizing advanced cybersecurity and emergent AI-driven solutions to capitalize on technological gains while mitigating economic volatility; second, significantly enhance localized situational awareness and contingency planning for social unrest, resource scarcity, and public health threats; and third, bolster physical infrastructure resilience and emergency preparedness protocols, given the ongoing tectonic activity and environmental pressures.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.64 (-4.22%)",
+            "title": "\ud83d\udcb0 NVDA: $209.57 (2.41%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $344.63 (-1.23%)",
+            "title": "\ud83d\udcb0 AAPL: $340.42 (-1.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $521.91 (-1.55%)",
+            "title": "\ud83d\udcb0 MSFT: $528.24 (1.21%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $184.11 (-6.27%)",
+            "title": "\ud83d\udcb0 PLTR: $186.91 (1.52%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $240.35 (-1.41%)",
+            "title": "\ud83d\udcb0 AMZN: $252.38 (5.01%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,12 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6 - 165 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 203 km NW of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8"
+            "title": "\u26a0\ufe0f Mag 5.1 - 19 km WNW of Tomohon, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Kermadec Islands region",
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - Banda Sea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqk"
         }
     ],
-    "seismicSummary": "**ALERT: A powerful Mag 6 earthquake has struck near Vanuatu, with several other Mag 5+ quakes reported across the wider region!**"
+    "seismicSummary": "Urgent: Four widespread Mag 5.1 earthquakes just hit globally!"
 }
