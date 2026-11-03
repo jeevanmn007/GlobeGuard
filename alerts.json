@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief reveals a converging and elevated risk profile: widespread social and economic instability, evidenced by escalating protests and a 'Neets' crisis in France, deepening global water and synthetic drug crises, and a significant financial downturn reflected in major tech stock depreciations and an impending 'credit crunch'. This socio-economic turbulence is set against a backdrop of rapidly advancing AI, posing both technological opportunities and enhanced cybersecurity threats, while a marked increase in global seismic activity across diverse regions underscores persistent physical infrastructure and safety vulnerabilities. To mitigate these risks, immediately diversify financial assets towards liquid and tangible stores of value, rigorously review and update personal and family emergency preparedness plans to include physical security and resilience, and fortify digital security measures against increasingly sophisticated cyber threats.",
+    "strategicPlan": "The global strategic environment is characterized by a confluence of escalating systemic risks across geopolitical, financial, and physical domains. Geopolitically, we observe significant social instability with widespread protests, a deepening youth unemployment crisis, and a surging synthetic drug epidemic, all intensified by stark political polarization and an unaddressed global water crisis. Financially, a looming \"credit crunch\" creates market volatility, with sector-specific gains (NVDA) failing to offset broader uncertainties and declines (AAPL, PLTR). Concurrently, a discernible uptick in moderate seismic activity globally (Colombia, Greece, Peru, South Sandwich Islands) underscores persistent natural hazard risks. To secure assets and physical safety, GlobeGuard directs the following: First, prioritize financial resilience by diversifying holdings into stable, tangible assets, and fortifying against potential economic shocks. Second, immediately strengthen personal and community preparedness for natural hazards and resource scarcity, focusing on emergency supplies, particularly water, and clear communication plans. Third, enhance digital and informational security protocols to counter advanced cyber threats and disinformation campaigns emerging from rapid AI development and intensified political rhetoric.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $202.06 (-1.26%)",
+            "title": "\ud83d\udcb0 NVDA: $207.86 (2.87%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $338.32 (-1.83%)",
+            "title": "\ud83d\udcb0 AAPL: $331.25 (-2.09%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $507.12 (-2.83%)",
+            "title": "\ud83d\udcb0 MSFT: $511.67 (0.9%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $178.34 (-3.13%)",
+            "title": "\ud83d\udcb0 PLTR: $169.67 (-4.86%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $245.63 (2.2%)",
+            "title": "\ud83d\udcb0 AMZN: $247.11 (0.6%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 24 km NNW of Rioblanco, Colombia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.3 - 81 km SSE of Palekastro, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 19 km WNW of Tomohon, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.7 - 74 km E of Petropavlovsk-Kamchatsky, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv2p"
+            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple M5+ earthquakes just struck globally, led by a 5.3 in Greece!**"
+    "seismicSummary": "Urgent: Multiple strong earthquakes up to Mag 5.4 just struck in Colombia, Greece, Peru, and the South Sandwich Islands."
 }
