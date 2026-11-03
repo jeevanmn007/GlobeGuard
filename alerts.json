@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating social and economic fragmentation, evidenced by widespread civil unrest in major European nations and a significant downturn in critical tech sector valuations, while a deepening global water crisis and persistent moderate seismic activity underscore systemic physical vulnerabilities. To secure assets and ensure safety, GlobeGuard directs immediate action: prioritize liquidity and re-evaluate investment portfolios for defensive positioning against market volatility; enhance local intelligence gathering on social unrest hotspots and update emergency protocols for physical safety and resource security; and maintain vigilance on emerging societal destabilizers and volatile political rhetoric, ensuring robust contingency plans are in place for rapid deployment.",
+    "strategicPlan": "The global intelligence brief reveals a converging and elevated risk profile: widespread social and economic instability, evidenced by escalating protests and a 'Neets' crisis in France, deepening global water and synthetic drug crises, and a significant financial downturn reflected in major tech stock depreciations and an impending 'credit crunch'. This socio-economic turbulence is set against a backdrop of rapidly advancing AI, posing both technological opportunities and enhanced cybersecurity threats, while a marked increase in global seismic activity across diverse regions underscores persistent physical infrastructure and safety vulnerabilities. To mitigate these risks, immediately diversify financial assets towards liquid and tangible stores of value, rigorously review and update personal and family emergency preparedness plans to include physical security and resilience, and fortify digital security measures against increasingly sophisticated cyber threats.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Kermadec Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4"
+            "title": "\u26a0\ufe0f Mag 4.7 - 74 km E of Petropavlovsk-Kamchatsky, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv2p"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5+ earthquakes are striking worldwide!"
+    "seismicSummary": "**URGENT: Multiple M5+ earthquakes just struck globally, led by a 5.3 in Greece!**"
 }
