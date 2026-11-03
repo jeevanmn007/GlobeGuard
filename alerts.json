@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is characterized by a confluence of escalating systemic risks across geopolitical, financial, and physical domains. Geopolitically, we observe significant social instability with widespread protests, a deepening youth unemployment crisis, and a surging synthetic drug epidemic, all intensified by stark political polarization and an unaddressed global water crisis. Financially, a looming \"credit crunch\" creates market volatility, with sector-specific gains (NVDA) failing to offset broader uncertainties and declines (AAPL, PLTR). Concurrently, a discernible uptick in moderate seismic activity globally (Colombia, Greece, Peru, South Sandwich Islands) underscores persistent natural hazard risks. To secure assets and physical safety, GlobeGuard directs the following: First, prioritize financial resilience by diversifying holdings into stable, tangible assets, and fortifying against potential economic shocks. Second, immediately strengthen personal and community preparedness for natural hazards and resource scarcity, focusing on emergency supplies, particularly water, and clear communication plans. Third, enhance digital and informational security protocols to counter advanced cyber threats and disinformation campaigns emerging from rapid AI development and intensified political rhetoric.",
+    "strategicPlan": "The global operating environment is under significant stress, characterized by escalating geopolitical instability, acute financial fragility, and persistent physical vulnerabilities. Geopolitically, social unrest is intensifying across regions (France, 'Neets' crisis), exacerbated by a critical, hidden global water crisis and the proliferation of synthetic drugs, while the accelerating AI arms race reshapes national security. Financially, despite resilience in select tech sectors, a pervasive 'credit crunch' and mixed market performance signal systemic economic fragility. Concurrently, moderate but widespread seismic activity (Colombia, Japan) demands constant vigilance against natural disasters. To secure assets and ensure safety, GlobeGuard issues three directives: first, immediately fortify digital and financial assets through diversification and advanced cybersecurity, especially against AI-driven threats; second, implement localized contingency plans for civil unrest, secure access to vital resources, and bolster readiness for seismic events; and third, maintain agile intelligence on AI development and geopolitical shifts to pre-empt crises and identify strategic advantages.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $207.86 (2.87%)",
+            "title": "\ud83d\udcb0 NVDA: $206.79 (2.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $331.25 (-2.09%)",
+            "title": "\ud83d\udcb0 AAPL: $330.52 (-2.31%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $511.67 (0.9%)",
+            "title": "\ud83d\udcb0 MSFT: $522.28 (2.99%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.67 (-4.86%)",
+            "title": "\ud83d\udcb0 PLTR: $175.9 (-1.37%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $247.11 (0.6%)",
+            "title": "\ud83d\udcb0 AMZN: $251.69 (2.47%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 81 km SSE of Palekastro, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy"
+            "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 50 km WSW of Huarmey, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxg"
+            "title": "\u26a0\ufe0f Mag 5.2 - Volcano Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes up to Mag 5.4 just struck in Colombia, Greece, Peru, and the South Sandwich Islands."
+    "seismicSummary": "Urgent: Multiple M5+ earthquakes striking globally!"
 }
