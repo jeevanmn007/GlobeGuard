@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is under significant stress, characterized by escalating geopolitical instability, acute financial fragility, and persistent physical vulnerabilities. Geopolitically, social unrest is intensifying across regions (France, 'Neets' crisis), exacerbated by a critical, hidden global water crisis and the proliferation of synthetic drugs, while the accelerating AI arms race reshapes national security. Financially, despite resilience in select tech sectors, a pervasive 'credit crunch' and mixed market performance signal systemic economic fragility. Concurrently, moderate but widespread seismic activity (Colombia, Japan) demands constant vigilance against natural disasters. To secure assets and ensure safety, GlobeGuard issues three directives: first, immediately fortify digital and financial assets through diversification and advanced cybersecurity, especially against AI-driven threats; second, implement localized contingency plans for civil unrest, secure access to vital resources, and bolster readiness for seismic events; and third, maintain agile intelligence on AI development and geopolitical shifts to pre-empt crises and identify strategic advantages.",
+    "strategicPlan": "The global environment presents a complex and escalating threat profile marked by widespread social and economic distress, including deepening domestic crises, global water scarcity, and civil unrest in key European nations, all set against persistent, moderate-level global seismic activity. Despite selective resilience in core technology sectors, the overarching \"credit crunch\" and societal strain indicate systemic fragility, further complicated by rapid, potentially destabilizing advancements in AI and associated information warfare. To mitigate these converging risks, first, secure financial assets by prioritizing liquidity and diversifying into resilient, tangible holdings as a hedge against economic volatility and supply chain disruptions. Second, conduct immediate, localized risk assessments, updating emergency preparedness plans for civil unrest, resource scarcity (especially water), and natural disaster response, particularly in seismically active or politically volatile regions. Third, fortify digital perimeters and data integrity using advanced AI-driven cybersecurity solutions to counter emerging threats and safeguard against information manipulation in this rapidly evolving technological landscape.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $206.79 (2.34%)",
+            "title": "\ud83d\udcb0 NVDA: $206.69 (2.29%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $330.52 (-2.31%)",
+            "title": "\ud83d\udcb0 AAPL: $331.9 (-1.9%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $522.28 (2.99%)",
+            "title": "\ud83d\udcb0 MSFT: $520.99 (2.74%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $175.9 (-1.37%)",
+            "title": "\ud83d\udcb0 PLTR: $175.4 (-1.65%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $251.69 (2.47%)",
+            "title": "\ud83d\udcb0 AMZN: $250.69 (2.06%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - 91 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvtj"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs3"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - Volcano Islands, Japan region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i"
         }
     ],
-    "seismicSummary": "Urgent: Multiple M5+ earthquakes striking globally!"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes just struck Colombia, Kyrgyzstan, the Mid-Indian Ridge, and Japan!"
 }
