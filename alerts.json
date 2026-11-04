@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global environment presents a converging risk profile, characterized by escalating socio-economic instability, a bifurcated financial market, and persistent seismic activity. Geopolitically, we observe widespread social unrest fueled by economic hardship, resource scarcity (especially water), and a deepening drug crisis, compounded by divisive political rhetoric and the rapid, dual-edged progression of AI technology and associated cyber threats. Financially, while major tech sectors like Apple, Microsoft, and Amazon show robust gains, underlying credit crunches and youth unemployment signal broader economic fragility. Concurrently, moderate but consistent seismic events across diverse regions underscore the ongoing physical threats to infrastructure and populations. Therefore, GlobeGuard directs immediate action: **First**, secure digital and financial assets by diversifying portfolios to mitigate against economic volatility while fortifying cybersecurity defenses against rapidly evolving AI-driven threats; **second**, enhance physical safety and preparedness by establishing robust emergency provisions, closely monitoring local socio-political developments for unrest, and updating disaster response protocols, particularly for seismic events and potential resource scarcity; and **third**, proactively manage critical supply chain resilience by auditing vulnerabilities, securing access to essential resources, and developing agile contingency plans for economic shocks or natural disruptions.",
+    "strategicPlan": "The current global intelligence picture registers a moderate threat level (2), defined by a confluence of geopolitical, financial, and physical vulnerabilities. Geopolitically, burgeoning social unrest from economic pressures and youth unemployment, a looming credit crunch, and a hidden global water crisis are fostering widespread instability, compounded by the surge of synthetic drugs and escalating political polarization around advanced AI. Financially, while certain tech giants demonstrate strength, critical AI-adjacent sectors show volatility, indicating underlying market sensitivity amidst broader economic uncertainty. Physically, the sustained tectonic activity across the Pacific Ring of Fire underscores a constant risk of localized natural disasters. In response, GlobeGuard issues the following directives: First, strategically rebalance financial portfolios toward resilient, liquid assets while positioning for long-term opportunities in verified AI advancements, understanding the 'credit crunch' implications. Second, immediately enhance physical security and ensure comprehensive emergency preparedness for resource scarcity, civil unrest, and natural disaster contingencies, especially in vulnerable regions. Third, fortify intelligence gathering and verification processes to navigate complex information environments, discerning real threats from noise, particularly concerning rapidly evolving AI capabilities and geopolitical narratives.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $204.17 (-1.22%)",
+            "title": "\ud83d\udcb0 NVDA: $200.13 (-3.17%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $353.76 (6.59%)",
+            "title": "\ud83d\udcb0 AAPL: $349.51 (5.31%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $557.49 (7.01%)",
+            "title": "\ud83d\udcb0 MSFT: $555.8 (6.68%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.35 (-1.74%)",
+            "title": "\ud83d\udcb0 PLTR: $171.7 (-2.11%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.24 (7.0%)",
+            "title": "\ud83d\udcb0 AMZN: $266.03 (6.12%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 91 km ESE of Kyzyl-Eshme, Kyrgyzstan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvtj"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs3"
+            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 207 km ESE of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8869503562808 - 9 km N of Delta, B.C., MX",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572064"
+            "title": "\u26a0\ufe0f Mag 4.6 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.5 - 2 km W of Chinandega, Nicaragua",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k"
         }
     ],
-    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes are striking diverse global locations, from Kyrgyzstan to Mexico!"
+    "seismicSummary": "**URGENT: Multiple strong earthquakes, including two Mag 5s, have struck Fiji, the Philippines, and Nicaragua!**"
 }
