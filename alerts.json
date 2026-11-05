@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global landscape is critically unstable, characterized by escalating socio-economic instability driven by widespread resource scarcity, a looming credit crunch, and persistent societal unrest fueled by drug crises and youth unemployment, all exacerbated by intense geopolitical polarization. While major tech equities demonstrate a mixed but overall resilient performance, underlying financial vulnerabilities persist amidst these social pressures. Concurrently, moderate but persistent seismic activity across multiple vulnerable regions underscores ongoing physical threats. To secure your assets and ensure physical safety, first, immediately fortify digital and financial holdings through strategic diversification and by deploying advanced, AI-driven cybersecurity measures to counter evolving threats. Second, prioritize physical safety and resource resilience by establishing robust emergency preparedness, securing vital resources like water, and maintaining heightened situational awareness regarding local social unrest and public health crises. Third, strategically leverage emerging AI capabilities for enhanced threat intelligence and proactive defense, while rigorously vetting all information to counter pervasive disinformation and maintain clear operational clarity.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global environment, while officially maintaining a Threat Level 1, is characterized by a complex and deepening multifaceted instability. Geopolitically, widespread social unrest fueled by economic disenfranchisement, a looming global water crisis, and a wave of synthetic drugs are evident, epitomized by protests in France and ongoing credit crunch concerns. Financially, while major tech equities demonstrate robust performance, underlying economic fragility persists. Technologically, the accelerating AI race brings both significant cybersecurity advancements and polarized political narratives, reshaping digital and informational landscapes. Physically, continuous moderate seismic activity across diverse regions serves as a persistent reminder of natural hazards. To secure assets and ensure physical safety, GlobeGuard directs: 1) Prioritize financial liquidity and strategic investment diversification, closely monitoring credit market shifts. 2) Fortify physical preparedness, including emergency supplies and water security measures, particularly in regions susceptible to natural disasters. 3) Enhance digital asset protection and critically evaluate information flows, given the volatile AI and political narrative landscape.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,17 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5 - 207 km ESE of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj"
+            "title": "\u26a0\ufe0f Mag 5.1 - 19 km NNW of Masumbwe, Tanzania",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.96 - 111 km W of Petrolia, CA",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - Sea of Okhotsk",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw7b"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.6 - south of the Fiji Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.5 - 2 km W of Chinandega, Nicaragua",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k"
         }
     ],
-    "seismicSummary": "Urgent: A Mag 5 earthquake struck Sarangani, Philippines, amidst other strong quakes!"
+    "seismicSummary": "**Multiple moderate earthquakes, topping Mag 5.1 in Tanzania, just reported worldwide!**"
 }
