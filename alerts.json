@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global environment, while officially maintaining a Threat Level 1, is characterized by a complex and deepening multifaceted instability. Geopolitically, widespread social unrest fueled by economic disenfranchisement, a looming global water crisis, and a wave of synthetic drugs are evident, epitomized by protests in France and ongoing credit crunch concerns. Financially, while major tech equities demonstrate robust performance, underlying economic fragility persists. Technologically, the accelerating AI race brings both significant cybersecurity advancements and polarized political narratives, reshaping digital and informational landscapes. Physically, continuous moderate seismic activity across diverse regions serves as a persistent reminder of natural hazards. To secure assets and ensure physical safety, GlobeGuard directs: 1) Prioritize financial liquidity and strategic investment diversification, closely monitoring credit market shifts. 2) Fortify physical preparedness, including emergency supplies and water security measures, particularly in regions susceptible to natural disasters. 3) Enhance digital asset protection and critically evaluate information flows, given the volatile AI and political narrative landscape.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "GlobeGuard's intelligence indicates an escalating global threat landscape characterized by a severe financial downturn, with major tech equities suffering significant losses amidst warnings of a 'credit crunch' and widespread social instability manifested by surging protest activity in France, a growing 'Neets' crisis, and critical global water shortages. This volatile human environment is underpinned by an elevated frequency of significant seismic events worldwide, including a Mag 6.1 in Fiji and multiple other substantial tremors, signaling persistent physical vulnerabilities. To mitigate these convergent risks, we advise the following three urgent actions: First, immediately rebalance financial portfolios, divesting from highly volatile tech assets towards defensive, stable holdings, and critically review all credit exposures. Second, implement or update robust emergency preparedness plans, prioritizing water security, natural disaster response (especially seismic events), and personal safety protocols in anticipation of civil unrest and evolving health threats. Third, enhance digital infrastructure resilience and cybersecurity measures against rapidly advancing AI-driven threats, while safeguarding critical intelligence assets against manipulation in an increasingly polarized information environment.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $200.13 (-3.17%)",
+            "title": "\ud83d\udcb0 NVDA: $182.44 (-8.84%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $349.51 (5.31%)",
+            "title": "\ud83d\udcb0 AAPL: $345.29 (-1.21%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $555.8 (6.68%)",
+            "title": "\ud83d\udcb0 MSFT: $534.36 (-3.86%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.7 (-2.11%)",
+            "title": "\ud83d\udcb0 PLTR: $154.49 (-10.02%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.03 (6.12%)",
+            "title": "\ud83d\udcb0 AMZN: $258.82 (-2.71%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.1 - Fiji region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 19 km NNW of Masumbwe, Tanzania",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5 - 130 km NE of Thang, India",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 4.96 - 111 km W of Petrolia, CA",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - Sea of Okhotsk",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw7b"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43"
         }
     ],
-    "seismicSummary": "**Multiple moderate earthquakes, topping Mag 5.1 in Tanzania, just reported worldwide!**"
+    "seismicSummary": "Multiple significant earthquakes are striking global regions, including a Mag 6.1 in Fiji and a 4.96 near California!"
 }
