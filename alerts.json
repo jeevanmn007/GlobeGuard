@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The current global intelligence picture registers a moderate threat level (2), defined by a confluence of geopolitical, financial, and physical vulnerabilities. Geopolitically, burgeoning social unrest from economic pressures and youth unemployment, a looming credit crunch, and a hidden global water crisis are fostering widespread instability, compounded by the surge of synthetic drugs and escalating political polarization around advanced AI. Financially, while certain tech giants demonstrate strength, critical AI-adjacent sectors show volatility, indicating underlying market sensitivity amidst broader economic uncertainty. Physically, the sustained tectonic activity across the Pacific Ring of Fire underscores a constant risk of localized natural disasters. In response, GlobeGuard issues the following directives: First, strategically rebalance financial portfolios toward resilient, liquid assets while positioning for long-term opportunities in verified AI advancements, understanding the 'credit crunch' implications. Second, immediately enhance physical security and ensure comprehensive emergency preparedness for resource scarcity, civil unrest, and natural disaster contingencies, especially in vulnerable regions. Third, fortify intelligence gathering and verification processes to navigate complex information environments, discerning real threats from noise, particularly concerning rapidly evolving AI capabilities and geopolitical narratives.",
+    "strategicPlan": "The global landscape is critically unstable, characterized by escalating socio-economic instability driven by widespread resource scarcity, a looming credit crunch, and persistent societal unrest fueled by drug crises and youth unemployment, all exacerbated by intense geopolitical polarization. While major tech equities demonstrate a mixed but overall resilient performance, underlying financial vulnerabilities persist amidst these social pressures. Concurrently, moderate but persistent seismic activity across multiple vulnerable regions underscores ongoing physical threats. To secure your assets and ensure physical safety, first, immediately fortify digital and financial holdings through strategic diversification and by deploying advanced, AI-driven cybersecurity measures to counter evolving threats. Second, prioritize physical safety and resource resilience by establishing robust emergency preparedness, securing vital resources like water, and maintaining heightened situational awareness regarding local social unrest and public health crises. Third, strategically leverage emerging AI capabilities for enhanced threat intelligence and proactive defense, while rigorously vetting all information to counter pervasive disinformation and maintain clear operational clarity.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,17 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 207 km ESE of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.6 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv"
+            "title": "\u26a0\ufe0f Mag 4.6 - south of the Fiji Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw43"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.5 - 2 km W of Chinandega, Nicaragua",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw3k"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple strong earthquakes, including two Mag 5s, have struck Fiji, the Philippines, and Nicaragua!**"
+    "seismicSummary": "Urgent: A Mag 5 earthquake struck Sarangani, Philippines, amidst other strong quakes!"
 }
