@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation is critical, marked by a volatile convergence of deepening socio-economic instability, including a looming credit crunch and widespread protests, compounded by a worsening hidden global water crisis and an escalating synthetic drug epidemic. While specific tech sectors like AI demonstrate robust growth, indicating strategic opportunities, the underlying economic fragility and widespread social unrest demand heightened vigilance. This complex geopolitical and financial landscape is now under immediate pressure from significant physical threats, evidenced by recent Mag 6.1 earthquakes in the Japan and Fiji regions, signaling a period of heightened tectonic instability. To navigate this environment, first, secure your assets by stress-testing financial portfolios against potential market contractions and diversifying holdings; second, ensure physical safety through robust emergency preparedness plans, specifically accounting for seismic events and localized civil unrest; and third, fortify digital defenses with advanced cybersecurity measures, recognizing the rapid evolution of AI-driven threats and opportunities.",
+    "strategicPlan": "The global intelligence landscape presents a confluence of escalating threats: geopolitical instability is evident in widespread social unrest across France and deepening societal crises such as the 'Neets' phenomenon and a synthetic drug epidemic, while significant political polarization persists. Economically, a looming 'credit crunch' signals systemic fragility despite a mixed performance in key tech stocks, where an accelerating AI/AGI trend dominates innovation and potential new risk vectors. These human-driven challenges are compounded by critical physical threats, including an exposed global water crisis and active seismic zones, notably a recent Mag 6.1 event near Japan, demanding immediate attention. To secure assets and ensure physical safety, we direct you to (1) immediately review and diversify financial portfolios to enhance liquidity and resilience against economic downturns; (2) implement advanced cybersecurity measures for all critical digital assets, leveraging new AI-driven defense mechanisms while mitigating associated risks; and (3) update and reinforce comprehensive emergency preparedness protocols, focusing on water security and seismic readiness for all personnel and operational hubs, particularly within the Pacific Rim.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $188.21 (3.64%)",
+            "title": "\ud83d\udcb0 NVDA: $186.64 (2.78%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $343.73 (-0.13%)",
+            "title": "\ud83d\udcb0 AAPL: $342.37 (-0.52%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $535.11 (-0.15%)",
+            "title": "\ud83d\udcb0 MSFT: $530.61 (-0.99%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $161.36 (4.11%)",
+            "title": "\ud83d\udcb0 PLTR: $160.38 (3.48%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $262.17 (0.75%)",
+            "title": "\ud83d\udcb0 AMZN: $259.3 (-0.35%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 41 km SW of Balangonan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - 36 km WNW of Poso, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.7 - 139 km SSE of False Pass, Alaska",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 **Widespread seismic activity reported, including two powerful Mag 6.1 earthquakes!**"
+    "seismicSummary": "**URGENT: Multiple earthquakes detected, including a significant Magnitude 6.1 off Japan, with others in the Philippines, Indonesia, and Alaska.**"
 }
