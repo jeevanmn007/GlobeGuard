@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "The global strategic outlook is volatile and multifaceted, defined by interconnected geopolitical, financial, and physical threats. Geopolitically, we observe escalating social unrest across France, a looming \"credit crunch\" signaling broader economic fragility, and a critical hidden global water crisis, all amplified by a surging synthetic drug epidemic and the disruptive potential of rapidly advancing AI with evolving cyber threats. Financially, major tech stocks are experiencing significant declines, indicating broad market apprehension. Concurrently, a cluster of notable seismic events, including a Mag 6.1 in Fiji and multiple 5+ magnitude quakes across diverse regions, highlights persistent and acute geophysical risks. To navigate this complex environment, immediately: 1) Bolster financial resilience by diversifying portfolios away from volatile tech, and fortify digital assets with enhanced cybersecurity measures against emerging AI-driven threats. 2) Update emergency preparedness plans, prioritizing water security, and maintain acute situational awareness regarding civil unrest and local seismic activity. 3) Proactively assess and optimize critical resource consumption, particularly water, to build long-term resilience against escalating environmental and economic pressures.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global situation is critical, marked by a volatile convergence of deepening socio-economic instability, including a looming credit crunch and widespread protests, compounded by a worsening hidden global water crisis and an escalating synthetic drug epidemic. While specific tech sectors like AI demonstrate robust growth, indicating strategic opportunities, the underlying economic fragility and widespread social unrest demand heightened vigilance. This complex geopolitical and financial landscape is now under immediate pressure from significant physical threats, evidenced by recent Mag 6.1 earthquakes in the Japan and Fiji regions, signaling a period of heightened tectonic instability. To navigate this environment, first, secure your assets by stress-testing financial portfolios against potential market contractions and diversifying holdings; second, ensure physical safety through robust emergency preparedness plans, specifically accounting for seismic events and localized civil unrest; and third, fortify digital defenses with advanced cybersecurity measures, recognizing the rapid evolution of AI-driven threats and opportunities.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $181.6 (-9.26%)",
+            "title": "\ud83d\udcb0 NVDA: $188.21 (3.64%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $344.17 (-1.53%)",
+            "title": "\ud83d\udcb0 AAPL: $343.73 (-0.13%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $535.93 (-3.58%)",
+            "title": "\ud83d\udcb0 MSFT: $535.11 (-0.15%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $154.99 (-9.73%)",
+            "title": "\ud83d\udcb0 PLTR: $161.36 (4.11%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $260.21 (-2.19%)",
+            "title": "\ud83d\udcb0 AMZN: $262.17 (0.75%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.1 - 144 km SE of Hasaki, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6.1 - Fiji region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 19 km NNW of Masumbwe, Tanzania",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 130 km NE of Thang, India",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 41 km SW of Balangonan, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 139 km SSE of False Pass, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, up to Mag 6.1, are hitting diverse global locations now!"
+    "seismicSummary": "\ud83d\udea8 **Widespread seismic activity reported, including two powerful Mag 6.1 earthquakes!**"
 }
