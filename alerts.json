@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "GlobeGuard's intelligence indicates an escalating global threat landscape characterized by a severe financial downturn, with major tech equities suffering significant losses amidst warnings of a 'credit crunch' and widespread social instability manifested by surging protest activity in France, a growing 'Neets' crisis, and critical global water shortages. This volatile human environment is underpinned by an elevated frequency of significant seismic events worldwide, including a Mag 6.1 in Fiji and multiple other substantial tremors, signaling persistent physical vulnerabilities. To mitigate these convergent risks, we advise the following three urgent actions: First, immediately rebalance financial portfolios, divesting from highly volatile tech assets towards defensive, stable holdings, and critically review all credit exposures. Second, implement or update robust emergency preparedness plans, prioritizing water security, natural disaster response (especially seismic events), and personal safety protocols in anticipation of civil unrest and evolving health threats. Third, enhance digital infrastructure resilience and cybersecurity measures against rapidly advancing AI-driven threats, while safeguarding critical intelligence assets against manipulation in an increasingly polarized information environment.",
+    "strategicPlan": "The global strategic outlook is volatile and multifaceted, defined by interconnected geopolitical, financial, and physical threats. Geopolitically, we observe escalating social unrest across France, a looming \"credit crunch\" signaling broader economic fragility, and a critical hidden global water crisis, all amplified by a surging synthetic drug epidemic and the disruptive potential of rapidly advancing AI with evolving cyber threats. Financially, major tech stocks are experiencing significant declines, indicating broad market apprehension. Concurrently, a cluster of notable seismic events, including a Mag 6.1 in Fiji and multiple 5+ magnitude quakes across diverse regions, highlights persistent and acute geophysical risks. To navigate this complex environment, immediately: 1) Bolster financial resilience by diversifying portfolios away from volatile tech, and fortify digital assets with enhanced cybersecurity measures against emerging AI-driven threats. 2) Update emergency preparedness plans, prioritizing water security, and maintain acute situational awareness regarding civil unrest and local seismic activity. 3) Proactively assess and optimize critical resource consumption, particularly water, to build long-term resilience against escalating environmental and economic pressures.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $182.44 (-8.84%)",
+            "title": "\ud83d\udcb0 NVDA: $181.6 (-9.26%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $345.29 (-1.21%)",
+            "title": "\ud83d\udcb0 AAPL: $344.17 (-1.53%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $534.36 (-3.86%)",
+            "title": "\ud83d\udcb0 MSFT: $535.93 (-3.58%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $154.49 (-10.02%)",
+            "title": "\ud83d\udcb0 PLTR: $154.99 (-9.73%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.82 (-2.71%)",
+            "title": "\ud83d\udcb0 AMZN: $260.21 (-2.19%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.96 - 111 km W of Petrolia, CA",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637"
+            "title": "\u26a0\ufe0f Mag 4.9 - 41 km SW of Balangonan, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes are striking global regions, including a Mag 6.1 in Fiji and a 4.96 near California!"
+    "seismicSummary": "Multiple strong earthquakes, up to Mag 6.1, are hitting diverse global locations now!"
 }
