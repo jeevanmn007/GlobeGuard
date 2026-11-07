@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by an alarming confluence of escalating geopolitical, financial, and physical threats. Geopolitically, we observe mounting social unrest and economic distress, underscored by a deepening \"Neets\" and credit crisis, a hidden global water crisis intensifying resource competition, and widespread public protests in key nations like France. Concurrently, the accelerating \"Super Intelligence\" race and advancements in AI (e.g., Gemini 4 Carbon's cybersecurity focus) introduce both transformative opportunities and significant new vectors for cyber and strategic threats. Financially, while specialized tech sectors like AI (NVDA, PLTR) demonstrate growth, broader market indices show signs of contraction amidst the prevailing \"credit crunch\" narrative. Physically, persistent and geographically diverse seismic activity, including recent magnitude 4.8-5.5 earthquakes across Japan, Namibia, and Indonesia, confirms ongoing geological volatility. In response, GlobeGuard directs immediate action: 1) **Diversify and Harden Assets:** Prioritize liquid asset diversification, stress-test financial resilience against economic contractions, and implement advanced cybersecurity measures against emerging AI-driven threats to secure digital assets. 2) **Elevate Physical Readiness:** Develop and review comprehensive emergency preparedness plans for natural disasters, especially in seismically active regions, and enhance personal security protocols in areas prone to social unrest and resource competition. 3) **Secure Critical Resources and Supply Chains:** Conduct immediate assessments of local water security and critical supply chain vulnerabilities, establishing redundancy and localized sourcing strategies to mitigate disruptions from resource scarcity and economic shocks.",
+    "strategicPlan": "The global landscape is exhibiting heightened volatility across multiple vectors: persistent social and economic instability, evidenced by widespread protests, a deepening credit crunch, and a surging synthetic drug crisis, is exacerbated by a critical, hidden global water crisis. Concurrently, while core tech giants show minor dips, the AI and data sectors are experiencing significant growth, driven by an accelerating 'Super Intelligence' race and advanced cybersecurity developments. This technological dynamism unfolds against a backdrop of notable seismic activity, particularly two M5.5 tremors in Japan, underscoring ongoing physical risks. To navigate this complex environment, first, strategically rebalance portfolios towards tangible, resilient assets while critically evaluating exposure to rapidly evolving AI/cybersecurity sectors for both opportunity and risk mitigation. Second, implement robust, AI-enhanced cybersecurity measures and data redundancy protocols to protect against escalating cyber threats and capitalize on new `.agent` and `.agi` domain opportunities. Third, establish robust contingency plans for resource scarcity and enhance physical safety protocols, paying particular attention to seismic activity in vulnerable regions and localized social unrest.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 10 km NW of Hamakita, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 74 km NE of Hasaki, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 4.9 - southern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.8 - 36 km WNW of Poso, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, including a Mag 5.5 in Japan, just reported globally!"
+    "seismicSummary": "URGENT: Two Mag 5.5 earthquakes just hit Japan, with other significant quakes reported globally!"
 }
