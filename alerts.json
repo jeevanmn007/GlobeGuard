@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global environment is characterized by escalating multi-faceted instability: persistent socio-economic strain and resource scarcity, as evidenced by a hidden global water crisis and civil unrest across Europe, coincide with a high-stakes, largely unregulated race for 'Super Intelligence' and heightened cyber threats, even as select tech sectors show growth amid overall market caution. This complex geopolitical and technological flux is underpinned by significant and ongoing seismic activity, notably a Mag 6.1 near Japan. Therefore, GlobeGuard directs immediate action: first, reinforce all physical safety protocols and emergency preparedness for assets and personnel in seismically active regions; second, fortify digital assets and infrastructure with advanced, AI-driven cybersecurity defenses, considering the rapidly evolving tech landscape; and third, strategically diversify critical resource access and supply chains to mitigate risks from both climate pressures and escalating social instability.",
+    "strategicPlan": "The global landscape is currently defined by escalating socio-economic instability, evidenced by a looming \"Credit crunch,\" a burgeoning \"Neets crisis,\" and widespread civil unrest erupting in France, compounded by a deepening synthetic drug crisis across the US. A silent, yet critical, global water crisis further exacerbates long-term resource scarcity, demanding immediate attention. Financially, while key tech stocks like Apple and Microsoft experience minor declines, a pronounced surge in AI-related equities such as NVDA and PLTR underscores a significant strategic pivot towards \"Super Intelligence\" and advanced cybersecurity, signifying both immense opportunity and evolving digital vulnerabilities. Beneath these human-made pressures, persistent geological instability is highlighted by a significant Mag 6.1 earthquake off Japan, underscoring the constant physical threat posed by tectonic activity. To navigate this multifaceted environment, we advise the following: 1) Proactively diversify digital and physical assets, prioritizing investments in resilient sectors and advanced AI-driven cybersecurity solutions to capitalize on technological shifts while safeguarding against emerging threats. 2) Enhance resource security by assessing and bolstering critical supply chains for water, energy, and essential goods, establishing contingency plans and localized reserves to mitigate against potential disruptions from environmental crises or civil unrest. 3) Immediately review and update personal and operational disaster preparedness protocols, particularly for seismic events, ensuring robust emergency kits, evacuation plans, and structural integrity assessments, especially for assets located in known risk zones.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 41 km SW of Balangonan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfk"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.8 - 36 km WNW of Poso, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.5 - 101 km SSE of Palekastro, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twhq"
+            "title": "\u26a0\ufe0f Mag 4.6 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.6 - 11 km ENE of Yigo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqm"
         }
     ],
-    "seismicSummary": "**Urgent: A 6.1 magnitude earthquake has struck near Japan, with multiple other quakes reported globally!**"
+    "seismicSummary": "**Major 6.1 earthquake strikes Japan amid multiple global tremors!**"
 }
