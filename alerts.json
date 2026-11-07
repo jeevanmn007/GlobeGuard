@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by escalating socio-economic instability, evidenced by a looming \"Credit crunch,\" a burgeoning \"Neets crisis,\" and widespread civil unrest erupting in France, compounded by a deepening synthetic drug crisis across the US. A silent, yet critical, global water crisis further exacerbates long-term resource scarcity, demanding immediate attention. Financially, while key tech stocks like Apple and Microsoft experience minor declines, a pronounced surge in AI-related equities such as NVDA and PLTR underscores a significant strategic pivot towards \"Super Intelligence\" and advanced cybersecurity, signifying both immense opportunity and evolving digital vulnerabilities. Beneath these human-made pressures, persistent geological instability is highlighted by a significant Mag 6.1 earthquake off Japan, underscoring the constant physical threat posed by tectonic activity. To navigate this multifaceted environment, we advise the following: 1) Proactively diversify digital and physical assets, prioritizing investments in resilient sectors and advanced AI-driven cybersecurity solutions to capitalize on technological shifts while safeguarding against emerging threats. 2) Enhance resource security by assessing and bolstering critical supply chains for water, energy, and essential goods, establishing contingency plans and localized reserves to mitigate against potential disruptions from environmental crises or civil unrest. 3) Immediately review and update personal and operational disaster preparedness protocols, particularly for seismic events, ensuring robust emergency kits, evacuation plans, and structural integrity assessments, especially for assets located in known risk zones.",
+    "strategicPlan": "The global landscape is currently defined by an alarming confluence of escalating geopolitical, financial, and physical threats. Geopolitically, we observe mounting social unrest and economic distress, underscored by a deepening \"Neets\" and credit crisis, a hidden global water crisis intensifying resource competition, and widespread public protests in key nations like France. Concurrently, the accelerating \"Super Intelligence\" race and advancements in AI (e.g., Gemini 4 Carbon's cybersecurity focus) introduce both transformative opportunities and significant new vectors for cyber and strategic threats. Financially, while specialized tech sectors like AI (NVDA, PLTR) demonstrate growth, broader market indices show signs of contraction amidst the prevailing \"credit crunch\" narrative. Physically, persistent and geographically diverse seismic activity, including recent magnitude 4.8-5.5 earthquakes across Japan, Namibia, and Indonesia, confirms ongoing geological volatility. In response, GlobeGuard directs immediate action: 1) **Diversify and Harden Assets:** Prioritize liquid asset diversification, stress-test financial resilience against economic contractions, and implement advanced cybersecurity measures against emerging AI-driven threats to secure digital assets. 2) **Elevate Physical Readiness:** Develop and review comprehensive emergency preparedness plans for natural disasters, especially in seismically active regions, and enhance personal security protocols in areas prone to social unrest and resource competition. 3) **Secure Critical Resources and Supply Chains:** Conduct immediate assessments of local water security and critical supply chain vulnerabilities, establishing redundancy and localized sourcing strategies to mitigate disruptions from resource scarcity and economic shocks.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - 144 km SE of Hasaki, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9"
+            "title": "\u26a0\ufe0f Mag 5.5 - 74 km NE of Hasaki, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 77 km NNW of Khorixas, Namibia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - southern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.8 - 36 km WNW of Poso, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twmr"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.6 - 11 km ENE of Yigo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqm"
         }
     ],
-    "seismicSummary": "**Major 6.1 earthquake strikes Japan amid multiple global tremors!**"
+    "seismicSummary": "Multiple significant earthquakes, including a Mag 5.5 in Japan, just reported globally!"
 }
