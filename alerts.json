@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is exhibiting heightened volatility across multiple vectors: persistent social and economic instability, evidenced by widespread protests, a deepening credit crunch, and a surging synthetic drug crisis, is exacerbated by a critical, hidden global water crisis. Concurrently, while core tech giants show minor dips, the AI and data sectors are experiencing significant growth, driven by an accelerating 'Super Intelligence' race and advanced cybersecurity developments. This technological dynamism unfolds against a backdrop of notable seismic activity, particularly two M5.5 tremors in Japan, underscoring ongoing physical risks. To navigate this complex environment, first, strategically rebalance portfolios towards tangible, resilient assets while critically evaluating exposure to rapidly evolving AI/cybersecurity sectors for both opportunity and risk mitigation. Second, implement robust, AI-enhanced cybersecurity measures and data redundancy protocols to protect against escalating cyber threats and capitalize on new `.agent` and `.agi` domain opportunities. Third, establish robust contingency plans for resource scarcity and enhance physical safety protocols, paying particular attention to seismic activity in vulnerable regions and localized social unrest.",
+    "strategicPlan": "The global operational environment is rapidly deteriorating, characterized by escalating geopolitical and socioeconomic instability, financial market apprehension, and persistent physical hazards. Widespread civil unrest (France), critical resource scarcity (global water crisis), and a looming credit crunch compound societal fragility, while a mixed financial market sees specialized AI/defense tech gains amidst broader tech declines, signaling underlying economic anxieties. Concurrently, moderate seismic activity in vulnerable regions like Japan underscores ongoing natural disaster risks, all set against a backdrop of accelerating AI development and evolving cyber threats. To navigate this landscape, GlobeGuard advises three immediate strategic directives: first, **fortify digital asset protection** by implementing advanced AI-driven cybersecurity solutions and strategically managing emerging AI-centric domain threats; second, **enhance physical resilience** through robust contingency planning for civil unrest and proactive measures to secure critical resources, particularly water; and third, **update and drill disaster protocols** specifically for seismic events, ensuring immediate readiness in high-risk zones.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 10 km NW of Hamakita, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 77 km NNW of Khorixas, Namibia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - southern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt"
+            "title": "\u26a0\ufe0f Mag 5.1 - 91 km ENE of Hihifo, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus"
         }
     ],
-    "seismicSummary": "URGENT: Two Mag 5.5 earthquakes just hit Japan, with other significant quakes reported globally!"
+    "seismicSummary": "URGENT: Multiple significant earthquakes just struck, including a 5.9 in the Mid-Atlantic and twin 5.5s near Japan!"
 }
