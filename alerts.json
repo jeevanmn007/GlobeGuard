@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a high-stakes convergence of destabilizing forces: widespread socio-economic discontent evidenced by the \"Neets crisis,\" \"credit crunch,\" and escalating protests in France; critical resource strains highlighted by a \"hidden global water crisis\" and the disruptive proliferation of synthetic drugs; and persistent seismic activity across key regions, including Japan and the Mid-Atlantic. While investment in \"Super Intelligence\" and advanced AI technologies continues to drive specific market segments like NVDA and PLTR, the broader financial climate remains cautious, with major tech firms seeing slight declines. This intricate backdrop necessitates immediate and proactive measures: First, secure diverse financial assets against impending credit contraction and market volatility, leveraging AI-driven analytics for enhanced protection. Second, fortify physical safety protocols and community resilience plans, anticipating civil unrest, resource disruptions, and the ongoing threat of seismic events. Third, strategically invest in and implement advanced AI for threat intelligence and cybersecurity, securing digital infrastructure against novel vulnerabilities emerging from the rapid advancement of \"super intelligence\" capabilities.",
+    "strategicPlan": "The global environment is currently defined by a confluence of escalating socio-economic instability, evidenced by rising youth crises, a looming credit crunch, and pervasive resource scarcity, which, combined with potent synthetic drug threats, fuels visible civil unrest in key regions. Financially, while advanced AI and data-driven technologies demonstrate robust growth, broader market indices show mild contraction, pointing to a strategic divergence driven by rapid technological advancements in 'Super Intelligence' and cybersecurity. Concurrently, heightened seismic activity, particularly across the Pacific Ring of Fire, signals an elevated physical threat. In response, I advise immediately diversifying digital and financial assets towards resilient, AI-centric infrastructure and defensive positions, securing critical personal resources and maintaining acute situational awareness regarding social instability, and meticulously reviewing and reinforcing physical safety protocols and emergency preparedness plans tailored for increased natural disaster risk.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 74 km NE of Hasaki, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 91 km ENE of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 41 km WSW of Gadung, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twur"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes, including a 5.8, have just been reported across the globe!"
+    "seismicSummary": "**A 5.8 magnitude earthquake leads multiple other strong quakes striking diverse locations worldwide!**"
 }
