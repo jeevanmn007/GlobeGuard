@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently defined by a confluence of escalating socio-economic instability, evidenced by rising youth crises, a looming credit crunch, and pervasive resource scarcity, which, combined with potent synthetic drug threats, fuels visible civil unrest in key regions. Financially, while advanced AI and data-driven technologies demonstrate robust growth, broader market indices show mild contraction, pointing to a strategic divergence driven by rapid technological advancements in 'Super Intelligence' and cybersecurity. Concurrently, heightened seismic activity, particularly across the Pacific Ring of Fire, signals an elevated physical threat. In response, I advise immediately diversifying digital and financial assets towards resilient, AI-centric infrastructure and defensive positions, securing critical personal resources and maintaining acute situational awareness regarding social instability, and meticulously reviewing and reinforcing physical safety protocols and emergency preparedness plans tailored for increased natural disaster risk.",
+    "strategicPlan": "The global landscape is escalating in complexity and risk, marked by significant socio-economic and environmental instability\u2014including widespread civil unrest in France, a deepening credit crunch, an emerging global water crisis, and a severe synthetic drug epidemic in the US. Financially, while specialized AI and data analytics firms like NVDA and PLTR are exhibiting strong growth amidst an intense political and industry focus on \"Super Intelligence,\" broader market leaders like AAPL, MSFT, and AMZN show signs of stagnation, indicating a cautious financial recalibration is underway. This human-driven turbulence is further complicated by persistent, moderate global seismic activity, underscoring inherent physical vulnerabilities. Therefore, GlobeGuard directs you to: first, fortify your financial posture by diversifying investments towards resilience and liquidity, while prudently evaluating emerging AI-driven opportunities; second, secure critical physical resources, particularly water, and rigorously update all emergency preparedness protocols; and third, enhance digital and cybersecurity defenses against rapidly evolving threats, staying abreast of \"Super Intelligence\" advancements and their regulatory implications.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 10 km NW of Hamakita, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 91 km ENE of Hihifo, Tonga",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus"
         },
         {
             "title": "\u26a0\ufe0f Mag 4.9 - 41 km WSW of Gadung, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twur"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.8 - central Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc"
         }
     ],
-    "seismicSummary": "**A 5.8 magnitude earthquake leads multiple other strong quakes striking diverse locations worldwide!**"
+    "seismicSummary": "**URGENT: Multiple earthquakes, including a Mag 5.8, are striking globally!**"
 }
