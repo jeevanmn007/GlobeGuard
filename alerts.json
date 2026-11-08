@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is escalating in complexity and risk, marked by significant socio-economic and environmental instability\u2014including widespread civil unrest in France, a deepening credit crunch, an emerging global water crisis, and a severe synthetic drug epidemic in the US. Financially, while specialized AI and data analytics firms like NVDA and PLTR are exhibiting strong growth amidst an intense political and industry focus on \"Super Intelligence,\" broader market leaders like AAPL, MSFT, and AMZN show signs of stagnation, indicating a cautious financial recalibration is underway. This human-driven turbulence is further complicated by persistent, moderate global seismic activity, underscoring inherent physical vulnerabilities. Therefore, GlobeGuard directs you to: first, fortify your financial posture by diversifying investments towards resilience and liquidity, while prudently evaluating emerging AI-driven opportunities; second, secure critical physical resources, particularly water, and rigorously update all emergency preparedness protocols; and third, enhance digital and cybersecurity defenses against rapidly evolving threats, staying abreast of \"Super Intelligence\" advancements and their regulatory implications.",
+    "strategicPlan": "The global landscape presents a complex interplay of escalating threats: socio-economic instability is deepening with a credit crunch, youth unemployment crises, and widespread protests, compounded by critical resource deficits like the hidden global water crisis and the proliferation of synthetic drugs. Concurrently, a fierce 'super intelligence' race is unfolding, driving both advanced cybersecurity solutions and new vulnerabilities, while the financial markets show a mixed picture of AI-driven tech growth amidst broader volatility. Beneath this human-driven complexity, persistent moderate seismic activity across diverse global locations underscores a constant, inherent physical vulnerability. To navigate this environment, individuals must prioritize three actionable points: First, fortify all digital assets with advanced, AI-aware cybersecurity protocols and strategically rebalance financial portfolios towards resilience in volatile sectors. Second, develop robust local contingency plans addressing potential resource scarcity, particularly water, and enhance community resilience against socio-economic disruptions. Third, meticulously review and reinforce personal and localized emergency preparedness protocols, with specific attention to seismic events, recognizing pervasive global vulnerabilities.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - central Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 91 km ENE of Hihifo, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 41 km WSW of Gadung, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twur"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.8 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - Southwest Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxn"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 46 km NW of Huara, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.7 - 137 km E of Miyako, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1"
         }
     ],
-    "seismicSummary": "**URGENT: Multiple earthquakes, including a Mag 5.8, are striking globally!**"
+    "seismicSummary": "URGENT: Four M4.7-4.8 earthquakes reported across the globe!"
 }
