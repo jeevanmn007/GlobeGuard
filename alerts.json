@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operational environment is rapidly deteriorating, characterized by escalating geopolitical and socioeconomic instability, financial market apprehension, and persistent physical hazards. Widespread civil unrest (France), critical resource scarcity (global water crisis), and a looming credit crunch compound societal fragility, while a mixed financial market sees specialized AI/defense tech gains amidst broader tech declines, signaling underlying economic anxieties. Concurrently, moderate seismic activity in vulnerable regions like Japan underscores ongoing natural disaster risks, all set against a backdrop of accelerating AI development and evolving cyber threats. To navigate this landscape, GlobeGuard advises three immediate strategic directives: first, **fortify digital asset protection** by implementing advanced AI-driven cybersecurity solutions and strategically managing emerging AI-centric domain threats; second, **enhance physical resilience** through robust contingency planning for civil unrest and proactive measures to secure critical resources, particularly water; and third, **update and drill disaster protocols** specifically for seismic events, ensuring immediate readiness in high-risk zones.",
+    "strategicPlan": "The global environment presents a high-stakes convergence of destabilizing forces: widespread socio-economic discontent evidenced by the \"Neets crisis,\" \"credit crunch,\" and escalating protests in France; critical resource strains highlighted by a \"hidden global water crisis\" and the disruptive proliferation of synthetic drugs; and persistent seismic activity across key regions, including Japan and the Mid-Atlantic. While investment in \"Super Intelligence\" and advanced AI technologies continues to drive specific market segments like NVDA and PLTR, the broader financial climate remains cautious, with major tech firms seeing slight declines. This intricate backdrop necessitates immediate and proactive measures: First, secure diverse financial assets against impending credit contraction and market volatility, leveraging AI-driven analytics for enhanced protection. Second, fortify physical safety protocols and community resilience plans, anticipating civil unrest, resource disruptions, and the ongoing threat of seismic events. Third, strategically invest in and implement advanced AI for threat intelligence and cybersecurity, securing digital infrastructure against novel vulnerabilities emerging from the rapid advancement of \"super intelligence\" capabilities.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,7 +61,7 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - central Mid-Atlantic Ridge",
+            "title": "\u26a0\ufe0f Mag 5.8 - central Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun"
         },
         {
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus"
         }
     ],
-    "seismicSummary": "URGENT: Multiple significant earthquakes just struck, including a 5.9 in the Mid-Atlantic and twin 5.5s near Japan!"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes, including a 5.8, have just been reported across the globe!"
 }
