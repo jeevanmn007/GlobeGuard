@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is characterized by converging and intensifying threats across multiple domains. Geopolitically, we observe escalating social unrest in key regions like France, a deepening domestic crisis in the US with synthetic drugs, and a looming global water crisis compounding existing economic fragility evidenced by a 'credit crunch' and youth unemployment in the UK. Financially, while AI-driven tech (NVDA, PLTR) shows resilience, the broader market exhibits vulnerability. Simultaneously, a significant uptick in seismic activity across the Pacific Ring of Fire, including a Mag 6.4 in the Solomon Islands and Mag 5.7 near Japan, signals heightened physical disruption risks to infrastructure and supply lines. In this complex landscape, strategic resilience is paramount: First, immediately audit and fortify all digital and physical security postures, particularly against evolving AI-driven threats. Second, diversify and secure critical assets, prioritizing liquidity and geographically dispersed holdings to mitigate regional instability and economic shocks. Third, implement robust emergency preparedness plans for physical safety and essential supply chain continuity, especially for personnel and operations in seismically active or politically volatile zones.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "**Strategic Directive:** The global environment is characterized by a complex convergence of significant geopolitical, financial, and geophysical threats. Geopolitically, we face escalating social unrest driven by economic disenfranchisement (\"Neets crisis,\" \"credit crunch\"), critical resource scarcity evidenced by a hidden global water crisis, and the profound, dual-edged implications of rapidly advancing AI technologies\u2014ranging from enhanced cybersecurity to potential societal disruption and misinformation. Financially, while major tech companies show mixed but generally positive growth, the underlying \"credit crunch\" narrative and NVDA's dip highlight persistent economic vulnerabilities. Concurrently, heightened seismic activity across the Pacific Ring of Fire, with multiple moderate-to-strong earthquakes, presents an immediate and tangible physical hazard. Therefore, immediate and decisive action is required: **first**, rigorously secure all digital and financial assets, diversifying investments and bolstering cyber defenses against evolving AI-driven threats and economic volatility; **second**, review and fortify physical security protocols and emergency preparedness plans for all personnel and operational sites, especially those in regions prone to civil unrest or seismic activity; **third**, proactively assess and mitigate vulnerabilities within critical supply chains and resource dependencies, prioritizing strategies to ensure continuity against growing scarcity and potential disruptions.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $186.64 (2.78%)",
+            "title": "\ud83d\udcb0 NVDA: $179.31 (-3.93%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $342.37 (-0.52%)",
+            "title": "\ud83d\udcb0 AAPL: $350.86 (2.48%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $530.61 (-0.99%)",
+            "title": "\ud83d\udcb0 MSFT: $541.88 (2.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $160.38 (3.48%)",
+            "title": "\ud83d\udcb0 PLTR: $169.4 (5.62%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $259.3 (-0.35%)",
+            "title": "\ud83d\udcb0 AMZN: $269.42 (3.9%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
         },
         {
-            "title": "It appears .agent and .agi are about to be the hot new domains",
-            "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+            "title": "AI is the new dating dealbreaker",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
         }
     ],
     "seismic": [
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f"
+            "title": "\u26a0\ufe0f Mag 5.4 - 160 km E of Masohi, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x"
+            "title": "\u26a0\ufe0f Mag 5.3 - 80 km ENE of Lagunas, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes, up to Mag 6.4, are hitting the Pacific region!"
+    "seismicSummary": "Multiple significant earthquakes, up to 6.4 magnitude, are striking globally!"
 }
