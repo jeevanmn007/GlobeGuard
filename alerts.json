@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global operating environment is marked by escalating multi-faceted instability, encompassing geopolitical tensions evidenced by widespread social unrest, a deepening global water crisis, and a burgeoning synthetic drug epidemic, alongside a volatile financial landscape exhibiting divergent tech sector performance amidst a broader credit crunch. This complexity is further compounded by a concerning pattern of significant seismic activity across vulnerable regions. To navigate this intricate threat matrix, prioritize the diversification of digital and physical assets, coupled with the immediate reinforcement of advanced cybersecurity protocols against evolving AI-driven vulnerabilities. Simultaneously, ensure emergency preparedness plans are not merely current but regularly exercised, focusing on resource security and communication contingencies in areas susceptible to both civic unrest and geophysical events. Finally, maintain hyper-vigilance regarding regional resource availability and supply chain integrity, leveraging real-time intelligence to proactively mitigate potential disruptions to operations and personal safety.",
+    "strategicPlan": "GlobeGuard assesses a complex and increasingly volatile global risk landscape, marked by significant financial market downturns in key tech sectors, a looming \"credit crunch,\" and deepening social instability evidenced by widespread French protests, youth crises, and a proliferation of synthetic drugs. Concurrently, a critical global water crisis is intensifying, while the geopolitical and technological spheres are experiencing rapid shifts with an intense focus on \"Super Intelligence\" and advanced cybersecurity. This multi-faceted tension is further underscored by a distinct uptick in significant seismic activity across the Pacific Ring of Fire, indicating heightened geological instability. To strategically secure assets and ensure physical safety, we direct immediate re-evaluation and de-risking of financial portfolios towards liquidity and diversification; fortification of physical security and supply chain resilience for essential resources, coupled with pre-positioned emergency response plans for both civil unrest and natural disasters; and proactive investment in advanced cybersecurity and AI-driven threat intelligence to safeguard digital assets and operational integrity.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $178.67 (-4.27%)",
+            "title": "\ud83d\udcb0 NVDA: $166.95 (-6.56%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $350.69 (2.43%)",
+            "title": "\ud83d\udcb0 AAPL: $348.01 (-0.77%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $545.18 (2.75%)",
+            "title": "\ud83d\udcb0 MSFT: $543.16 (-0.37%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.2 (5.5%)",
+            "title": "\ud83d\udcb0 PLTR: $166.22 (-1.76%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.93 (2.94%)",
+            "title": "\ud83d\udcb0 AMZN: $268.73 (0.67%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.6 - 43 km S of Puerto San Jos\u00e9, Guatemala",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - Pulau Pulau Tanimbar, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 160 km E of Masohi, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 80 km ENE of Lagunas, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38"
+            "title": "\u26a0\ufe0f Mag 5.2 - 140 km ESE of Labuha, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 19 km WSW of Lata, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple M5+ earthquakes, including two 5.4s, just hit Indonesia, Peru, and the Solomon Islands!"
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple 5+ magnitude earthquakes detected across Guatemala, Indonesia, and the Solomon Islands!"
 }
