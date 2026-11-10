@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "globalThreatLevel": 1,
+    "strategicPlan": "The global operating environment is marked by escalating multi-faceted instability, encompassing geopolitical tensions evidenced by widespread social unrest, a deepening global water crisis, and a burgeoning synthetic drug epidemic, alongside a volatile financial landscape exhibiting divergent tech sector performance amidst a broader credit crunch. This complexity is further compounded by a concerning pattern of significant seismic activity across vulnerable regions. To navigate this intricate threat matrix, prioritize the diversification of digital and physical assets, coupled with the immediate reinforcement of advanced cybersecurity protocols against evolving AI-driven vulnerabilities. Simultaneously, ensure emergency preparedness plans are not merely current but regularly exercised, focusing on resource security and communication contingencies in areas susceptible to both civic unrest and geophysical events. Finally, maintain hyper-vigilance regarding regional resource availability and supply chain integrity, leveraging real-time intelligence to proactively mitigate potential disruptions to operations and personal safety.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,12 +61,8 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.4 - 30 km WSW of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.7 - 106 km ENE of Hasaki, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f"
+            "title": "\u26a0\ufe0f Mag 5.4 - Pulau Pulau Tanimbar, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 160 km E of Masohi, Indonesia",
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.3 - 80 km ENE of Lagunas, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 19 km WSW of Lata, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "\ud83d\udea8 Urgent: Multiple M5+ earthquakes, including two 5.4s, just hit Indonesia, Peru, and the Solomon Islands!"
 }
