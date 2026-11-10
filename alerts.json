@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a complex and increasingly volatile global risk landscape, marked by significant financial market downturns in key tech sectors, a looming \"credit crunch,\" and deepening social instability evidenced by widespread French protests, youth crises, and a proliferation of synthetic drugs. Concurrently, a critical global water crisis is intensifying, while the geopolitical and technological spheres are experiencing rapid shifts with an intense focus on \"Super Intelligence\" and advanced cybersecurity. This multi-faceted tension is further underscored by a distinct uptick in significant seismic activity across the Pacific Ring of Fire, indicating heightened geological instability. To strategically secure assets and ensure physical safety, we direct immediate re-evaluation and de-risking of financial portfolios towards liquidity and diversification; fortification of physical security and supply chain resilience for essential resources, coupled with pre-positioned emergency response plans for both civil unrest and natural disasters; and proactive investment in advanced cybersecurity and AI-driven threat intelligence to safeguard digital assets and operational integrity.",
+    "strategicPlan": "The global strategic landscape is rapidly deteriorating, marked by escalating multi-faceted crises: profound socioeconomic instability evidenced by a 'Neets' crisis, a broadening 'credit crunch' impacting major tech stocks (e.g., NVDA, MSFT), and widespread civil unrest across France. Concurrently, a critical global water crisis is emerging, compounded by a surge in dangerous synthetic drugs, indicating deep societal vulnerabilities. Adding a significant layer of physical threat, we observe a cluster of high-magnitude seismic events across the Ring of Fire and Mid-Indian Ridge, signifying heightened geological instability. Given this confluence of geopolitical, financial, and physical threats, GlobeGuard directs immediate action: 1. Secure financial resilience by diversifying assets away from volatile tech, emphasizing liquidity and essential holdings. 2. Implement robust preparedness measures for resource scarcity, specifically water, and establish comprehensive earthquake response protocols for all operational regions. 3. Maintain acute situational awareness regarding local social unrest and evolving geopolitical tensions, ensuring physical safety by avoiding high-risk areas and securing critical infrastructure.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $166.95 (-6.56%)",
+            "title": "\ud83d\udcb0 NVDA: $168.89 (-5.47%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $348.01 (-0.77%)",
+            "title": "\ud83d\udcb0 AAPL: $348.51 (-0.62%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $543.16 (-0.37%)",
+            "title": "\ud83d\udcb0 MSFT: $533.16 (-2.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $166.22 (-1.76%)",
+            "title": "\ud83d\udcb0 PLTR: $168.82 (-0.22%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $268.73 (0.67%)",
+            "title": "\ud83d\udcb0 AMZN: $270.87 (1.48%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 140 km ESE of Labuha, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi"
+            "title": "\u26a0\ufe0f Mag 5.2 - 21 km WNW of Popondetta, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc0"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 19 km WSW of Lata, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s"
+            "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc3"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Urgent: Multiple 5+ magnitude earthquakes detected across Guatemala, Indonesia, and the Solomon Islands!"
+    "seismicSummary": "Multiple significant magnitude 5+ earthquakes have just struck worldwide!"
 }
