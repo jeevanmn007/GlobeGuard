@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "**Strategic Directive:** The global environment is characterized by a complex convergence of significant geopolitical, financial, and geophysical threats. Geopolitically, we face escalating social unrest driven by economic disenfranchisement (\"Neets crisis,\" \"credit crunch\"), critical resource scarcity evidenced by a hidden global water crisis, and the profound, dual-edged implications of rapidly advancing AI technologies\u2014ranging from enhanced cybersecurity to potential societal disruption and misinformation. Financially, while major tech companies show mixed but generally positive growth, the underlying \"credit crunch\" narrative and NVDA's dip highlight persistent economic vulnerabilities. Concurrently, heightened seismic activity across the Pacific Ring of Fire, with multiple moderate-to-strong earthquakes, presents an immediate and tangible physical hazard. Therefore, immediate and decisive action is required: **first**, rigorously secure all digital and financial assets, diversifying investments and bolstering cyber defenses against evolving AI-driven threats and economic volatility; **second**, review and fortify physical security protocols and emergency preparedness plans for all personnel and operational sites, especially those in regions prone to civil unrest or seismic activity; **third**, proactively assess and mitigate vulnerabilities within critical supply chains and resource dependencies, prioritizing strategies to ensure continuity against growing scarcity and potential disruptions.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $179.31 (-3.93%)",
+            "title": "\ud83d\udcb0 NVDA: $178.67 (-4.27%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $350.86 (2.48%)",
+            "title": "\ud83d\udcb0 AAPL: $350.69 (2.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $541.88 (2.12%)",
+            "title": "\ud83d\udcb0 MSFT: $545.18 (2.75%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $169.4 (5.62%)",
+            "title": "\ud83d\udcb0 PLTR: $169.2 (5.5%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $269.42 (3.9%)",
+            "title": "\ud83d\udcb0 AMZN: $266.93 (2.94%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38"
         }
     ],
-    "seismicSummary": "Multiple significant earthquakes, up to 6.4 magnitude, are striking globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
