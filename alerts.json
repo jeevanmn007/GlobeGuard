@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic landscape is rapidly deteriorating, marked by escalating multi-faceted crises: profound socioeconomic instability evidenced by a 'Neets' crisis, a broadening 'credit crunch' impacting major tech stocks (e.g., NVDA, MSFT), and widespread civil unrest across France. Concurrently, a critical global water crisis is emerging, compounded by a surge in dangerous synthetic drugs, indicating deep societal vulnerabilities. Adding a significant layer of physical threat, we observe a cluster of high-magnitude seismic events across the Ring of Fire and Mid-Indian Ridge, signifying heightened geological instability. Given this confluence of geopolitical, financial, and physical threats, GlobeGuard directs immediate action: 1. Secure financial resilience by diversifying assets away from volatile tech, emphasizing liquidity and essential holdings. 2. Implement robust preparedness measures for resource scarcity, specifically water, and establish comprehensive earthquake response protocols for all operational regions. 3. Maintain acute situational awareness regarding local social unrest and evolving geopolitical tensions, ensuring physical safety by avoiding high-risk areas and securing critical infrastructure.",
+    "strategicPlan": "The global environment is currently defined by a confluence of significant destabilizing factors: geopolitical fragility, evidenced by escalating social unrest in France, a looming credit crunch, and critical global water scarcity, is compounded by a deepening public health crisis driven by synthetic drugs, all while major tech markets signal economic unease with broad downturns. Concurrently, a surge in governmental and industry focus on \"Super Intelligence\" highlights a rapid and potentially transformative technological frontier, necessitating heightened vigilance for both opportunities and risks, even as moderate but persistent seismic activity globally underscores inherent physical dangers. In response, GlobeGuard directs you to: (1) Immediately review and diversify financial portfolios, prioritizing liquidity and assets resilient to a credit crunch and tech sector volatility; (2) Enhance personal and familial safety protocols, focusing on emergency preparedness, secure essential resource access, and vigilance against potential civil unrest or resource-driven disruptions; and (3) Fortify digital assets and infrastructure against advanced cyber threats, acknowledging the dual-use potential of rapid AI advancements.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - Pulau Pulau Tanimbar, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.2 - 21 km WNW of Popondetta, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc0"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 140 km ESE of Labuha, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi"
         }
     ],
-    "seismicSummary": "Multiple significant magnitude 5+ earthquakes have just struck worldwide!"
+    "seismicSummary": "Urgent: Multiple M5.2-5.6 earthquakes just hit globally, including a M5.6 near Guatemala."
 }
