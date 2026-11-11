@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Current global intelligence indicates a complex and escalating risk environment demanding immediate attention. Geopolitically, widespread social unrest in France, a deepening 'credit crunch,' and a global water crisis highlight profound societal fragilities, further exacerbated by a surging synthetic drug crisis. Financially, major tech stocks are experiencing significant downturns, signaling market volatility amidst broader economic uncertainty. Concurrently, a rapid escalation in \"Super Intelligence\" discourse from political bodies and a leap in AI cybersecurity (Google Gemini 4 Carbon) signals a new frontier of systemic risk and opportunity. This is further compounded by a noticeable uptick in seismic activity across multiple active zones globally, reinforcing the constant threat of unpredictable natural events. Therefore, GlobeGuard directs the following: First, re-evaluate digital asset security and investment portfolios, diversifying away from highly volatile tech sectors, while exploring opportunities in resilient infrastructure and resource management. Second, update emergency preparedness protocols for both civic unrest and potential seismic events, ensuring robust supply chains for essential resources, particularly water. Third, accelerate integration of advanced AI risk assessment and defensive capabilities into critical infrastructure, recognizing 'Super Intelligence' as a rapidly developing domain demanding proactive engagement and secure implementation.",
+    "strategicPlan": "The global environment is currently characterized by a critical confluence of escalating socio-economic instability, marked by widespread protests, a looming credit crunch, and a hidden global water crisis, while an accelerating AI revolution introduces both unprecedented opportunities and new threat vectors across digital and national security. This complex geopolitical and technological landscape is further complicated by persistent moderate seismic activity across multiple active zones, underscoring a constant physical hazard. To secure assets and physical safety, GlobeGuard directs immediate action to: 1) Diversify critical resource supplies and financial holdings to hedge against economic volatility and resource scarcity, especially given the credit crunch and water crisis. 2) Fortify all digital and physical perimeters with advanced cybersecurity measures and enhanced site security protocols, anticipating both AI-driven threats and potential social unrest. 3) Maintain acute, real-time situational awareness of geopolitical shifts and regional natural hazard advisories, ensuring comprehensive preparedness plans are updated and immediately actionable for both personnel and strategic assets.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $168.89 (-5.47%)",
+            "title": "\ud83d\udcb0 NVDA: $177.33 (5.0%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $348.51 (-0.62%)",
+            "title": "\ud83d\udcb0 AAPL: $355.14 (1.9%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $533.16 (-2.2%)",
+            "title": "\ud83d\udcb0 MSFT: $521.44 (-2.2%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $168.82 (-0.22%)",
+            "title": "\ud83d\udcb0 PLTR: $173.45 (2.74%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $270.87 (1.48%)",
+            "title": "\ud83d\udcb0 AMZN: $266.54 (-1.6%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.6 - 43 km S of Puerto San Jos\u00e9, Guatemala",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8"
+            "title": "\u26a0\ufe0f Mag 5.1 - 80 km W of Panguna, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 21 km WNW of Popondetta, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc0"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - Mid-Indian Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txc3"
+            "title": "\u26a0\ufe0f Mag 5.1 - 27 km WSW of Calama, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 140 km ESE of Labuha, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi"
+            "title": "\u26a0\ufe0f Mag 5.1 - Pulau Pulau Tanimbar, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txir"
         }
     ],
-    "seismicSummary": "URGENT: Multiple M5+ earthquakes just struck worldwide, including Guatemala, Papua New Guinea, and Indonesia."
+    "seismicSummary": "**Alert! Four Mag 5.1 earthquakes just struck across the globe!**"
 }
