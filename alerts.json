@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex interplay of escalating socio-economic instability, marked by deepening credit crises, widespread social unrest, and a critical global water deficit. Financially, while specific tech sectors show growth, broader economic indicators suggest underlying fragility. Concurrently, persistent seismic activity underscores ongoing physical risks to infrastructure and populations, necessitating heightened vigilance. In response, **first**, enhance physical security and emergency preparedness protocols for all personnel and critical infrastructure, particularly focusing on earthquake readiness in vulnerable regions and civil unrest mitigation in urban centers. **Second**, diversify financial holdings to mitigate risks from global credit crunch warnings and market volatility, prioritizing resilient assets and sectors less exposed to immediate consumer discretionary downturns. **Third**, assess and secure critical resource dependencies, especially water, while simultaneously fortifying digital assets and cybersecurity defenses against emerging AI-driven threats and general systemic vulnerabilities.",
+    "strategicPlan": "The global situation is critical, marked by a dangerous convergence of escalating socio-economic instability\u2014manifesting as widespread credit strain, youth unemployment, and hidden water crises fueling civil unrest\u2014with a rapid, government-backed AI arms race that fundamentally reshapes both opportunity and cyber risk. This human-driven volatility is compounded by a fragile financial market showing selective weakness and persistent, moderate seismic activity across multiple global fault lines. To mitigate these multifaceted threats, GlobeGuard directs all stakeholders to immediately: 1) Bolster financial resilience through strategic diversification and robust liquidity management amidst market volatility and credit tightening; 2) Activate comprehensive emergency preparedness, securing essential resources like water, and rehearsing civil unrest and disaster response protocols; and 3) Fortify digital defenses against emergent AI-driven cyber threats, recognizing the critical importance of information integrity in this evolving landscape.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $173.73 (2.87%)",
+            "title": "\ud83d\udcb0 NVDA: $165.16 (-4.93%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $355.63 (2.04%)",
+            "title": "\ud83d\udcb0 AAPL: $355.58 (-0.01%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $521.13 (-2.26%)",
+            "title": "\ud83d\udcb0 MSFT: $528.51 (1.42%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $172.4 (2.12%)",
+            "title": "\ud83d\udcb0 PLTR: $172.13 (-0.16%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.17 (-1.74%)",
+            "title": "\ud83d\udcb0 AMZN: $269.22 (1.15%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 80 km W of Panguna, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8"
+            "title": "\u26a0\ufe0f Mag 5 - 48 km NW of Ancud, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg"
+            "title": "\u26a0\ufe0f Mag 4.9 - 116 km E of Georgetown, Saint Helena",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpa"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 27 km WSW of Calama, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
+            "title": "\u26a0\ufe0f Mag 4.8 - 155 km E of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx"
         }
     ],
-    "seismicSummary": "Four M5+ earthquakes just hit the South Sandwich Islands, Papua New Guinea, and Chile!"
+    "seismicSummary": "\ud83d\udea8 Strong earthquakes up to Mag 5.4 just hit multiple locations worldwide!"
 }
