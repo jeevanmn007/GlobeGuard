@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is currently characterized by a critical confluence of escalating socio-economic instability, marked by widespread protests, a looming credit crunch, and a hidden global water crisis, while an accelerating AI revolution introduces both unprecedented opportunities and new threat vectors across digital and national security. This complex geopolitical and technological landscape is further complicated by persistent moderate seismic activity across multiple active zones, underscoring a constant physical hazard. To secure assets and physical safety, GlobeGuard directs immediate action to: 1) Diversify critical resource supplies and financial holdings to hedge against economic volatility and resource scarcity, especially given the credit crunch and water crisis. 2) Fortify all digital and physical perimeters with advanced cybersecurity measures and enhanced site security protocols, anticipating both AI-driven threats and potential social unrest. 3) Maintain acute, real-time situational awareness of geopolitical shifts and regional natural hazard advisories, ensuring comprehensive preparedness plans are updated and immediately actionable for both personnel and strategic assets.",
+    "strategicPlan": "The global landscape presents a complex interplay of escalating socio-economic instability, marked by deepening credit crises, widespread social unrest, and a critical global water deficit. Financially, while specific tech sectors show growth, broader economic indicators suggest underlying fragility. Concurrently, persistent seismic activity underscores ongoing physical risks to infrastructure and populations, necessitating heightened vigilance. In response, **first**, enhance physical security and emergency preparedness protocols for all personnel and critical infrastructure, particularly focusing on earthquake readiness in vulnerable regions and civil unrest mitigation in urban centers. **Second**, diversify financial holdings to mitigate risks from global credit crunch warnings and market volatility, prioritizing resilient assets and sectors less exposed to immediate consumer discretionary downturns. **Third**, assess and secure critical resource dependencies, especially water, while simultaneously fortifying digital assets and cybersecurity defenses against emerging AI-driven threats and general systemic vulnerabilities.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $177.33 (5.0%)",
+            "title": "\ud83d\udcb0 NVDA: $173.73 (2.87%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $355.14 (1.9%)",
+            "title": "\ud83d\udcb0 AAPL: $355.63 (2.04%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $521.44 (-2.2%)",
+            "title": "\ud83d\udcb0 MSFT: $521.13 (-2.26%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $173.45 (2.74%)",
+            "title": "\ud83d\udcb0 PLTR: $172.4 (2.12%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.54 (-1.6%)",
+            "title": "\ud83d\udcb0 AMZN: $266.17 (-1.74%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 80 km W of Panguna, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 27 km WSW of Calama, Chile",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - Pulau Pulau Tanimbar, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txir"
         }
     ],
-    "seismicSummary": "**Alert! Four Mag 5.1 earthquakes just struck across the globe!**"
+    "seismicSummary": "Four M5+ earthquakes just hit the South Sandwich Islands, Papua New Guinea, and Chile!"
 }
