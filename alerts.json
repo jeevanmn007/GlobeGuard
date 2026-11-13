@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "AI systems offline. Proceed with caution.",
+    "strategicPlan": "The global environment is marked by escalating multi-domain instability: Geopolitically, widening societal fissures are evident with a looming 'credit crunch' and 'Neets crisis,' a critical hidden global water scarcity, and spreading social unrest exemplified by protests in France and a deepening synthetic drug crisis. Financially, while strategic focus on 'super intelligence' continues, key tech stocks like NVDA and PLTR are experiencing downturns, notably amplified by Jensen Huang's resignation as Nvidia CEO, signaling market caution amidst broader economic pressures. Concurrently, the planet exhibits persistent volatility, with multiple global Mag 5+ seismic events, including a significant 5.8 near Peru, underscoring acute physical threats that can exacerbate existing vulnerabilities. To proactively secure your assets and physical safety, GlobeGuard directs you to: 1) Bolster financial resilience by diversifying portfolios away from highly volatile tech, prioritizing liquidity, and hedging against economic contraction. 2) Proactively secure critical resources by assessing local water supply stability and establishing robust contingency plans for potential social unrest and infrastructural disruptions. 3) Fortify both digital and physical defenses, implementing advanced cybersecurity measures against evolving AI-driven threats, and updating emergency preparedness for seismic activity and civil unrest.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $159.41 (-4.08%)",
+            "title": "\ud83d\udcb0 NVDA: $162.85 (-2.01%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $358.46 (1.01%)",
+            "title": "\ud83d\udcb0 AAPL: $356.27 (0.39%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $524.22 (0.23%)",
+            "title": "\ud83d\udcb0 MSFT: $523.88 (0.17%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $167.29 (-2.5%)",
+            "title": "\ud83d\udcb0 PLTR: $167.99 (-2.09%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $264.95 (-0.93%)",
+            "title": "\ud83d\udcb0 AMZN: $266.66 (-0.29%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 148 km NW of Kavieng, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp"
+            "title": "\u26a0\ufe0f Mag 5.8 - 79 km WSW of Changuillo, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 79 km NE of Kuqa, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - West Chile Rise",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 39 km S of Mo\u00edres, Greece",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - western Indian-Antarctic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txw9"
+            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3q"
         }
     ],
-    "seismicSummary": "Analyzing tectonic data..."
+    "seismicSummary": "**Alert: Multiple magnitude 5+ earthquakes just struck across the globe!**"
 }
