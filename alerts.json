@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by a severe confluence of escalating risks: widespread socioeconomic instability, evidenced by a credit crunch, youth unemployment, and emergent social unrest across key European nations, is compounded by a critical, hidden global water crisis that threatens long-term resource security. Financially, markets exhibit volatility, particularly in the tech sector, indicating underlying economic fragility. Concurrently, a heightened period of significant global seismic activity across multiple continents presents an immediate and tangible physical threat. To mitigate these interwoven dangers, we direct you to three critical actions: First, **fortify asset resilience** by diversifying financial portfolios towards stable, real assets, and preparing for supply chain disruptions from resource scarcity and civil unrest. Second, **update and reinforce emergency preparedness plans** for seismic events, ensuring physical safety protocols are robust and emergency caches are accessible for all personnel and dependents, especially in vulnerable regions. Third, **maintain vigilant situational awareness** of local and regional sociopolitical developments concerning resource availability and potential for unrest, strengthening personal and family security measures accordingly.",
+    "strategicPlan": "AI systems offline. Proceed with caution.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $166.19 (-4.34%)",
+            "title": "\ud83d\udcb0 NVDA: $159.41 (-4.08%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $354.88 (-0.14%)",
+            "title": "\ud83d\udcb0 AAPL: $358.46 (1.01%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $523.0 (0.36%)",
+            "title": "\ud83d\udcb0 MSFT: $524.22 (0.23%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $171.58 (-0.48%)",
+            "title": "\ud83d\udcb0 PLTR: $167.29 (-2.5%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.44 (0.48%)",
+            "title": "\ud83d\udcb0 AMZN: $264.95 (-0.93%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -55,8 +55,8 @@
             "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
         },
         {
-            "title": "AI is the new dating dealbreaker",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
+            "title": "Jensen Huang Resigns as Nvidia CEO",
+            "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
         }
     ],
     "seismic": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp"
         },
         {
+            "title": "\u26a0\ufe0f Mag 5.2 - West Chile Rise",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.1 - 39 km S of Mo\u00edres, Greece",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - western Indian-Antarctic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txw9"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl"
         }
     ],
-    "seismicSummary": "Urgent: Multiple significant earthquakes, up to magnitude 5.8, have just struck globally!"
+    "seismicSummary": "Analyzing tectonic data..."
 }
