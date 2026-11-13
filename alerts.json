@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically unstable, marked by a dangerous confluence of geopolitical, financial, and physical threats. Pervasive social unrest, fueled by economic contractions, a deepening 'credit crunch,' and a hidden global water crisis, signals widespread systemic fragility. Financially, significant tech sector volatility underscores increasing market uncertainty. Concurrently, persistent and elevated seismic activity globally, including a notable magnitude 4.9 in China, highlights ongoing physical vulnerabilities in a world grappling with rapid AI advancements. Given this multifaceted risk profile, we advise immediately: 1) Secure physical assets and review emergency protocols for civil unrest and natural disaster preparedness, focusing on resource scarcity and supply chain resilience. 2) Fortify financial resilience through enhanced liquidity and diversified holdings to mitigate severe economic shocks. 3) Bolster digital defenses against evolving cyber threats, remaining acutely aware of both the strategic opportunities and risks posed by accelerating AI capabilities.",
+    "strategicPlan": "The global landscape is currently defined by a severe confluence of escalating risks: widespread socioeconomic instability, evidenced by a credit crunch, youth unemployment, and emergent social unrest across key European nations, is compounded by a critical, hidden global water crisis that threatens long-term resource security. Financially, markets exhibit volatility, particularly in the tech sector, indicating underlying economic fragility. Concurrently, a heightened period of significant global seismic activity across multiple continents presents an immediate and tangible physical threat. To mitigate these interwoven dangers, we direct you to three critical actions: First, **fortify asset resilience** by diversifying financial portfolios towards stable, real assets, and preparing for supply chain disruptions from resource scarcity and civil unrest. Second, **update and reinforce emergency preparedness plans** for seismic events, ensuring physical safety protocols are robust and emergency caches are accessible for all personnel and dependents, especially in vulnerable regions. Third, **maintain vigilant situational awareness** of local and regional sociopolitical developments concerning resource availability and potential for unrest, strengthening personal and family security measures accordingly.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -25,7 +25,7 @@
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $354.88 (-0.21%)",
+            "title": "\ud83d\udcb0 AAPL: $354.88 (-0.14%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr"
+            "title": "\u26a0\ufe0f Mag 5.1 - 39 km S of Mo\u00edres, Greece",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - western Indian-Antarctic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txw9"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 41 km N of Weining, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw"
+            "title": "\u26a0\ufe0f Mag 5 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl"
         }
     ],
-    "seismicSummary": "Urgent: Multiple significant earthquakes, including a 5.8 near Papua New Guinea, are striking globally!"
+    "seismicSummary": "Urgent: Multiple significant earthquakes, up to magnitude 5.8, have just struck globally!"
 }
