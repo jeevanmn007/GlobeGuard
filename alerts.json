@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Global stability is deteriorating amidst an unprecedented convergence of geopolitical, economic, and physical threats. Widespread social unrest, exacerbated by a deepening global water crisis, rising synthetic drug epidemics, and a looming \"credit crunch\" alongside significant NEETs populations, signals profound societal fragility. Financially, major tech stocks like NVDA and PLTR show notable declines, reflective of market volatility and leadership shifts, even as AI's strategic importance escalates with both governmental and corporate focus on \"super intelligence\" and advanced cybersecurity. Simultaneously, persistent and significant seismic activity across multiple continents underscores ongoing physical hazards. In light of this complex environment, it is imperative to: 1) Immediately diversify and de-risk financial portfolios from volatile sectors, ensuring significant liquidity and hardening digital assets against escalating cyber threats. 2) Implement robust emergency preparedness protocols, including comprehensive kits and evacuation plans, specifically tailored for both seismic events and localized civil unrest. 3) Continuously monitor regional sociopolitical and resource-related developments, particularly regarding water scarcity and public health crises, to inform proactive measures for personal and family safety.",
+    "strategicPlan": "The global intelligence brief reveals a converging threat matrix characterized by escalating socioeconomic distress, market volatility, and persistent physical instability. Geopolitically, the 'Neets crisis' and 'credit crunch' warnings signal economic fragility, exacerbated by widespread civil unrest in France, a deepening synthetic drug crisis in the US, and a critical hidden global water crisis, all pointing to systemic societal pressures. Financially, key tech stocks exhibit volatility, underscored by the significant leadership change at Nvidia, indicating underlying market uncertainty. Concurrently, a sustained pattern of significant seismic activity across diverse global regions highlights a heightened baseline for natural hazards. To secure assets and ensure physical safety, we must immediately: (1) review and diversify financial portfolios, prioritizing liquidity and resilient assets against market downturns and credit tightening; (2) fortify critical supply chains and physical infrastructure against social unrest and resource scarcity, particularly focusing on water and essential goods; and (3) activate and review comprehensive emergency preparedness protocols for seismic events, ensuring personnel and key assets in vulnerable regions are ready for sudden physical disruptions.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 79 km NE of Kuqa, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty14"
+            "title": "\u26a0\ufe0f Mag 5.5 - northern Mid-Atlantic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - West Chile Rise",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s"
+            "title": "\u26a0\ufe0f Mag 5.2 - State of Yap, Federated States of Micronesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 153 km NW of Kavieng, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56"
+            "title": "\u26a0\ufe0f Mag 5.2 - off the west coast of northern Sumatra",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n"
         }
     ],
-    "seismicSummary": "**Multiple Mag 5+ earthquakes are striking worldwide right now!**"
+    "seismicSummary": "Four earthquakes, magnitudes 5.2 to 5.8, just struck multiple regions worldwide!"
 }
