@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief reveals a converging threat matrix characterized by escalating socioeconomic distress, market volatility, and persistent physical instability. Geopolitically, the 'Neets crisis' and 'credit crunch' warnings signal economic fragility, exacerbated by widespread civil unrest in France, a deepening synthetic drug crisis in the US, and a critical hidden global water crisis, all pointing to systemic societal pressures. Financially, key tech stocks exhibit volatility, underscored by the significant leadership change at Nvidia, indicating underlying market uncertainty. Concurrently, a sustained pattern of significant seismic activity across diverse global regions highlights a heightened baseline for natural hazards. To secure assets and ensure physical safety, we must immediately: (1) review and diversify financial portfolios, prioritizing liquidity and resilient assets against market downturns and credit tightening; (2) fortify critical supply chains and physical infrastructure against social unrest and resource scarcity, particularly focusing on water and essential goods; and (3) activate and review comprehensive emergency preparedness protocols for seismic events, ensuring personnel and key assets in vulnerable regions are ready for sudden physical disruptions.",
+    "strategicPlan": "The global environment presents a critical convergence of escalating threats, with pervasive socioeconomic instability evident in a deepening credit crunch, widespread civil unrest across key Western nations, and an accelerating global water crisis, all exacerbated by a deepening synthetic drug epidemic. This fragility is mirrored in significant leadership shifts and market dips within the tech sector, while a notable increase in global seismic activity adds a physical dimension to the elevated risk profile. Concurrently, the rapid advancements and governmental focus on 'Super Intelligence' introduce complex new layers of geopolitical and cybersecurity risk. Therefore, clients must immediately re-evaluate and diversify investment portfolios, prioritizing liquidity and essential commodities over volatile tech equities; secure critical physical resources, especially water, and bolster contingency plans for potential civil unrest or infrastructure disruptions; and strengthen digital security protocols against sophisticated AI-driven threats while implementing rigorous information verification processes to counter widespread misinformation.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,10 +61,6 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 79 km WSW of Changuillo, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.5 - northern Mid-Atlantic Ridge",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84"
         },
@@ -75,7 +71,11 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - off the west coast of northern Sumatra",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 153 km NW of Kavieng, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56"
         }
     ],
-    "seismicSummary": "Four earthquakes, magnitudes 5.2 to 5.8, just struck multiple regions worldwide!"
+    "seismicSummary": "\ud83d\udea8 Four magnitude 5+ earthquakes, topped by a 5.5, have struck across multiple regions!"
 }
