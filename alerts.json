@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment is marked by escalating multi-domain instability: Geopolitically, widening societal fissures are evident with a looming 'credit crunch' and 'Neets crisis,' a critical hidden global water scarcity, and spreading social unrest exemplified by protests in France and a deepening synthetic drug crisis. Financially, while strategic focus on 'super intelligence' continues, key tech stocks like NVDA and PLTR are experiencing downturns, notably amplified by Jensen Huang's resignation as Nvidia CEO, signaling market caution amidst broader economic pressures. Concurrently, the planet exhibits persistent volatility, with multiple global Mag 5+ seismic events, including a significant 5.8 near Peru, underscoring acute physical threats that can exacerbate existing vulnerabilities. To proactively secure your assets and physical safety, GlobeGuard directs you to: 1) Bolster financial resilience by diversifying portfolios away from highly volatile tech, prioritizing liquidity, and hedging against economic contraction. 2) Proactively secure critical resources by assessing local water supply stability and establishing robust contingency plans for potential social unrest and infrastructural disruptions. 3) Fortify both digital and physical defenses, implementing advanced cybersecurity measures against evolving AI-driven threats, and updating emergency preparedness for seismic activity and civil unrest.",
+    "strategicPlan": "Global stability is deteriorating amidst an unprecedented convergence of geopolitical, economic, and physical threats. Widespread social unrest, exacerbated by a deepening global water crisis, rising synthetic drug epidemics, and a looming \"credit crunch\" alongside significant NEETs populations, signals profound societal fragility. Financially, major tech stocks like NVDA and PLTR show notable declines, reflective of market volatility and leadership shifts, even as AI's strategic importance escalates with both governmental and corporate focus on \"super intelligence\" and advanced cybersecurity. Simultaneously, persistent and significant seismic activity across multiple continents underscores ongoing physical hazards. In light of this complex environment, it is imperative to: 1) Immediately diversify and de-risk financial portfolios from volatile sectors, ensuring significant liquidity and hardening digital assets against escalating cyber threats. 2) Implement robust emergency preparedness protocols, including comprehensive kits and evacuation plans, specifically tailored for both seismic events and localized civil unrest. 3) Continuously monitor regional sociopolitical and resource-related developments, particularly regarding water scarcity and public health crises, to inform proactive measures for personal and family safety.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - South Sandwich Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty3q"
+            "title": "\u26a0\ufe0f Mag 5.1 - 153 km NW of Kavieng, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56"
         }
     ],
-    "seismicSummary": "**Alert: Multiple magnitude 5+ earthquakes just struck across the globe!**"
+    "seismicSummary": "**Multiple Mag 5+ earthquakes are striking worldwide right now!**"
 }
