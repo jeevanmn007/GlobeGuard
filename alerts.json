@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The confluence of escalating global instability is stark: widespread social unrest across France, severe resource scarcity in critical regions like Yemen, and a deepening public health crisis from synthetic drugs underscore systemic societal decay, further exacerbated by a 'Neets crisis' and 'credit crunch' indicating broader socio-economic fragility. This is compounded by significant tech market volatility, highlighted by NVDA's decline and leadership change amidst emerging \"super intelligence\" trends that present both opportunity and risk, alongside a notable surge in seismic activity across the Pacific Ring of Fire, posing direct physical and logistical threats. To secure assets and ensure safety, we advise the immediate diversification and reassessment of financial portfolios, particularly in volatile tech sectors, while simultaneously reviewing and updating all disaster preparedness protocols for seismic events, especially for assets and personnel in vulnerable regions, and conducting localized security assessments with robust contingency plans for essential resources like water and medical supplies, given the pervasive social and health crises.",
+    "strategicPlan": "GlobeGuard assesses a rapidly evolving global risk landscape marked by converging threats. Geopolitically, widespread social unrest in France and the UK's 'Neets' crisis signal internal pressures, while a deepening drug crisis in the US and the besieged Yemeni city's water scarcity underscore escalating humanitarian concerns. Simultaneously, the tech sector faces significant shifts with Nvidia's CEO resignation and increased political focus on 'Super Intelligence' and cybersecurity. Financially, a broader 'credit crunch' combined with mixed tech market performance, particularly NVDA's downturn, signals economic volatility. Physically, the Pacific Ring of Fire exhibits elevated seismic activity, with multiple moderate quakes in the Philippines, Fiji, and Indonesia. To navigate this environment, we issue the following directives: 1. Immediately review and diversify financial portfolios, prioritizing liquidity and defensive assets given the 'credit crunch' and tech sector uncertainty. 2. Proactively update and practice personal and family emergency plans, including communication strategies and supply caches, for both civil unrest and natural disaster scenarios. 3. Strengthen personal digital security protocols against emerging cyber threats, and maintain situational awareness of local security conditions and potential supply chain disruptions from global instability.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.8 - 19 km NW of Albard\u00f3n, Argentina",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx"
+            "title": "\u26a0\ufe0f Mag 5 - 256 km SSE of Ambon, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes up to Mag 5.5 reported globally!"
+    "seismicSummary": "URGENT: Multiple magnitude 5.0-5.5 earthquakes just struck the Pacific region, including the Philippines, Fiji, and Indonesia."
 }
