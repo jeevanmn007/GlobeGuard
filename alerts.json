@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence assessment reveals a complex and escalating threat environment, characterized by significant geopolitical pressures including a burgeoning global water crisis, widespread social unrest in key regions like France, and looming economic instability signaled by a 'credit crunch.' This is compounded by a mixed financial market with notable dips in critical tech sectors and persistent tectonic activity evidenced by multiple M5+ seismic events globally. To navigate this multi-faceted instability, GlobeGuard mandates three immediate actions: first, rigorously diversify financial assets, prioritizing liquidity and strategic hedges against economic downturns; second, enhance physical security protocols and resource management plans, with specific attention to water scarcity and civil unrest contingencies; and third, strengthen digital defenses and intelligence gathering capabilities to counter evolving cyber threats and leverage advancements in AI responsibly.",
+    "strategicPlan": "The global landscape is characterized by escalating, interconnected instability across geopolitical, financial, and physical domains, demanding immediate strategic focus. Profound economic and social distress, evidenced by a deepening \"Credit crunch,\" a burgeoning \"Neets crisis,\" widespread civil unrest in France, and a growing synthetic drug crisis in the US, collectively erode societal resilience. Concurrently, a critical global water crisis is intensifying, while sustained, elevated seismic activity across key tectonic zones signals underlying planetary stress. Financially, significant volatility in tech stocks, underscored by the resignation of Nvidia's CEO and an intensifying political and technological focus on \"Super Intelligence\" and advanced cybersecurity, heralds a rapidly evolving threat and opportunity landscape. To navigate this complex environment, individuals must immediately: (1) fortify digital and financial assets through enhanced cybersecurity protocols and diversified holdings against market fluctuations and sophisticated AI-driven threats; (2) establish comprehensive physical safety and emergency preparedness plans, including supply caches and communication protocols, to counter potential civil unrest and resource scarcity; and (3) critically assess and bolster the resilience of local infrastructure and supply chains against both social disruptions and the persistent threat of natural hazards.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 153 km NW of Kavieng, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56"
+            "title": "\u26a0\ufe0f Mag 4.9 - 7 km SE of Tagbina, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes just struck across the globe!"
+    "seismicSummary": "**ALERT: Multiple strong earthquakes (Mag 4.9-5.5) just struck globally!**"
 }
