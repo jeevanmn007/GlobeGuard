@@ -1,14 +1,10 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global operating environment, despite a baseline threat level, is exhibiting a concerning convergence of systemic vulnerabilities: escalating socio-economic instability reflected in credit crunch warnings, a looming global water crisis, and widespread civil unrest in key European nations, compounded by a domestic drug epidemic. Financially, while major tech stocks show mixed performance, significant drops in AI-centric valuations (NVDA, PLTR) alongside a critical leadership change at Nvidia signal potential market volatility, all occurring against a backdrop of persistent moderate global seismic activity. To navigate this complex landscape, GlobeGuard advises three immediate strategic imperatives: First, **de-risk financial holdings** by enhancing liquidity, diversifying investments away from over-concentrated tech assets, and stress-testing financial reserves against potential economic contraction. Second, **bolster operational resilience** by hardening digital infrastructure against advanced AI-driven cyber threats and developing robust contingency plans for potential resource scarcity and civil unrest. Third, **prioritize physical and situational preparedness** by reviewing and updating all emergency protocols, securing essential utilities, and ensuring personal safety measures are in place, particularly for those in regions susceptible to increased seismic events.",
+    "strategicPlan": "The confluence of escalating global instability is stark: widespread social unrest across France, severe resource scarcity in critical regions like Yemen, and a deepening public health crisis from synthetic drugs underscore systemic societal decay, further exacerbated by a 'Neets crisis' and 'credit crunch' indicating broader socio-economic fragility. This is compounded by significant tech market volatility, highlighted by NVDA's decline and leadership change amidst emerging \"super intelligence\" trends that present both opportunity and risk, alongside a notable surge in seismic activity across the Pacific Ring of Fire, posing direct physical and logistical threats. To secure assets and ensure safety, we advise the immediate diversification and reassessment of financial portfolios, particularly in volatile tech sectors, while simultaneously reviewing and updating all disaster preparedness protocols for seismic events, especially for assets and personnel in vulnerable regions, and conducting localized security assessments with robust contingency plans for essential resources like water and medical supplies, given the pervasive social and health crises.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
             "link": "https://www.bbc.co.uk/news/articles/cmy56p9elwd1o"
-        },
-        {
-            "title": "NASA Satellite Data Exposes a Hidden Global Water Crisis",
-            "link": "https://gizmodo.com/nasa-satellite-data-exposes-a-hidden-global-water-crisis-2000825217"
         },
         {
             "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -17,6 +13,10 @@
         {
             "title": "Scuffles and fires break out as protesters rally across France, joining students",
             "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
+        },
+        {
+            "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+            "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
         }
     ],
     "stock": [
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.5 - 9 km E of Union, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - Fiji region",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - northern Mid-Atlantic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84"
+            "title": "\u26a0\ufe0f Mag 5.1 - 169 km NW of Gorontalo, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 7 km SE of Tagbina, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - south of the Kermadec Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty90"
+            "title": "\u26a0\ufe0f Mag 4.8 - 19 km NW of Albard\u00f3n, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx"
         }
     ],
-    "seismicSummary": "URGENT: Multiple earthquakes, including two Mag 5.5 events, reported globally."
+    "seismicSummary": "Urgent: Multiple strong earthquakes up to Mag 5.5 reported globally!"
 }
