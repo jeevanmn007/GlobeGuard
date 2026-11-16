@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape reveals a converging threat profile: escalating social unrest in France, deepening humanitarian crises in Yemen, and a pervasive US drug epidemic signal profound geopolitical instability, exacerbated by a looming \"credit crunch\" and tech market volatility highlighted by Nvidia's leadership change and significant stock declines. Simultaneously, the Pacific Ring of Fire exhibits heightened physical risk with a cluster of Magnitude 5.0-5.5 seismic events. GlobeGuard directs immediate action: First, enhance physical safety protocols and emergency preparedness for assets and personnel, especially in seismically active regions and areas of civil unrest. Second, bolster financial resilience by prioritizing liquidity and diversifying investment portfolios to mitigate exposure to volatile sectors. Third, proactively fortify digital infrastructure and intellectual property defenses against rapidly evolving AI and cyber threats.",
+    "strategicPlan": "GlobeGuard assesses a rapidly converging threat matrix characterized by escalating global instability, marked economic contraction, and pronounced seismic activity. Geopolitically, widespread social unrest in France, a deepening synthetic drug crisis in the US, and critical water shortages in conflict zones like Yemen underscore pervasive systemic fragilities, compounded by a declared 'credit crunch' and growing NEETs crisis; this mirrors financial volatility with key tech stocks like NVDA and PLTR experiencing declines despite significant political and technological focus on AI and cybersecurity. Simultaneously, a notable cluster of Mag 5.0+ earthquakes across the Pacific Ring of Fire (Philippines, Japan, Indonesia) presents immediate physical hazards and amplifies long-term supply chain and infrastructure vulnerabilities. Given this complex environment, GlobeGuard directs immediate action: first, fortify financial resilience by diversifying portfolios into stable assets, reassessing exposure to volatile tech, and enhancing digital security against evolving AI-driven threats; second, ensure physical safety by reviewing and updating emergency preparedness protocols for natural disasters and maintaining heightened situational awareness regarding local civil unrest; and third, secure critical resource dependencies by identifying alternative supply chains and fostering localized community support networks to enhance overall resilience.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - Fiji region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca"
+            "title": "\u26a0\ufe0f Mag 5.4 - 20 km NW of Anamizu, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.1 - 169 km NW of Gorontalo, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 256 km SSE of Ambon, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6"
+            "title": "\u26a0\ufe0f Mag 5 - 68 km S of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil"
         }
     ],
-    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes are active across the Pacific region, including the Philippines, Indonesia, and Fiji!"
+    "seismicSummary": "Multiple magnitude 5+ earthquakes just struck across the Pacific Ring of Fire."
 }
