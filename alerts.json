@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "GlobeGuard assesses a rapidly converging threat matrix characterized by escalating global instability, marked economic contraction, and pronounced seismic activity. Geopolitically, widespread social unrest in France, a deepening synthetic drug crisis in the US, and critical water shortages in conflict zones like Yemen underscore pervasive systemic fragilities, compounded by a declared 'credit crunch' and growing NEETs crisis; this mirrors financial volatility with key tech stocks like NVDA and PLTR experiencing declines despite significant political and technological focus on AI and cybersecurity. Simultaneously, a notable cluster of Mag 5.0+ earthquakes across the Pacific Ring of Fire (Philippines, Japan, Indonesia) presents immediate physical hazards and amplifies long-term supply chain and infrastructure vulnerabilities. Given this complex environment, GlobeGuard directs immediate action: first, fortify financial resilience by diversifying portfolios into stable assets, reassessing exposure to volatile tech, and enhancing digital security against evolving AI-driven threats; second, ensure physical safety by reviewing and updating emergency preparedness protocols for natural disasters and maintaining heightened situational awareness regarding local civil unrest; and third, secure critical resource dependencies by identifying alternative supply chains and fostering localized community support networks to enhance overall resilience.",
+    "strategicPlan": "The global landscape presents a critical confluence of threats: significant geopolitical instability is evident through widespread social unrest across key nations, deepening humanitarian crises, and a worsening credit crunch, while the financial sector exhibits a broad downturn across major tech stocks. Concurrently, elevated seismic activity globally necessitates increased vigilance. To proactively secure assets and ensure physical safety, GlobeGuard issues the following directive: **First, immediately assess and diversify financial portfolios to mitigate against market volatility and potential economic contraction. Second, fortify digital infrastructure and operational resilience against evolving cyber threats and potential disruptions from social unrest. Third, review and update comprehensive emergency preparedness plans for both physical safety and asset protection, particularly for regions susceptible to natural disasters or civil unrest.**",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $162.85 (-2.01%)",
+            "title": "\ud83d\udcb0 NVDA: $155.65 (-4.42%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $356.27 (0.39%)",
+            "title": "\ud83d\udcb0 AAPL: $351.92 (-1.22%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $523.88 (0.17%)",
+            "title": "\ud83d\udcb0 MSFT: $518.07 (-1.11%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $167.99 (-2.09%)",
+            "title": "\ud83d\udcb0 PLTR: $159.83 (-4.86%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $266.66 (-0.29%)",
+            "title": "\ud83d\udcb0 AMZN: $258.05 (-3.23%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.5 - 9 km E of Union, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek"
+            "title": "\u26a0\ufe0f Mag 5.4 - 95 km WSW of Changuillo, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.4 - 20 km NW of Anamizu, Japan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 169 km NW of Gorontalo, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 68 km S of Sarangani, Philippines",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 256 km SSE of Ambon, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5+ earthquakes just struck across the Pacific Ring of Fire."
+    "seismicSummary": "Multiple M5.0-5.4 earthquakes just struck Peru, Japan, Philippines, and Indonesia!"
 }
