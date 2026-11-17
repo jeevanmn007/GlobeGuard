@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape presents a complex nexus of converging threats, warranting a reassessment beyond the indicated 'globalThreatLevel' of 1. Geopolitically, widespread social unrest in France, a deepening synthetic drug crisis in the US, and severe humanitarian distress in Yemen signal profound internal fragilities, while the UK grapples with a credit crunch and social welfare crisis. Financially, major tech stocks are experiencing a significant downturn, amplified by Nvidia's CEO resignation, indicating heightened market volatility and a potential flight from growth assets. Concurrently, a potent 6.6 magnitude earthquake off Indonesia, alongside notable seismic activity across the Pacific Ring of Fire, highlights acute physical vulnerabilities and potential disruptions to critical infrastructure and global supply routes. To navigate this challenging environment, we advise three immediate actions: first, secure financial assets by diversifying investment portfolios away from volatile tech sectors and increasing liquidity; second, bolster physical safety by reviewing and updating emergency preparedness plans for natural disasters, especially in seismically active regions; and third, proactively assess and de-risk supply chain dependencies vulnerable to geopolitical instability or environmental disruptions in key maritime regions.",
+    "strategicPlan": "The global strategic environment is critically complex, defined by a confluence of escalating internal social and economic instability across key nations, evident in widespread protests and humanitarian crises, while financial markets signal caution with a notable downturn in major tech stocks. This is set against a backdrop of intense strategic focus on advanced AI and cybersecurity, marked by significant leadership shifts in the tech sector, heralding a period of rapid technological evolution with uncertain implications. Furthermore, persistent moderate seismic activity across high-risk zones serves as a constant physical reminder of latent natural threats. To navigate this intricate landscape, I issue the following directives: First, immediately diversify financial holdings to mitigate tech sector volatility and reassess credit exposures given broader economic strains. Second, fortify digital infrastructure with advanced cybersecurity measures, concurrently developing robust contingency plans for potential social unrest and supply chain disruptions. Third, ensure comprehensive physical emergency preparedness, particularly for personnel and assets in seismically active regions, while maintaining heightened vigilance regarding local security conditions.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $156.14 (-4.12%)",
+            "title": "\ud83d\udcb0 NVDA: $155.46 (-0.44%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $352.78 (-0.98%)",
+            "title": "\ud83d\udcb0 AAPL: $351.91 (-0.25%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $517.99 (-1.12%)",
+            "title": "\ud83d\udcb0 MSFT: $506.24 (-2.27%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $160.39 (-4.52%)",
+            "title": "\ud83d\udcb0 PLTR: $156.56 (-2.39%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $257.75 (-3.34%)",
+            "title": "\ud83d\udcb0 AMZN: $257.89 (0.05%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.6 - 148 km WSW of Tual, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 95 km WSW of Changuillo, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh"
+            "title": "\u26a0\ufe0f Mag 5.2 - south of the Kermadec Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysq"
         },
         {
             "title": "\u26a0\ufe0f Mag 5 - 137 km SSE of Kirakira, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5"
         },
         {
-            "title": "\u26a0\ufe0f Mag 4.9 - 173 km ENE of Noda, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrw"
+            "title": "\u26a0\ufe0f Mag 4.9 - 135 km S of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt4"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 102 km ENE of Ozernovskiy, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt3"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a Mag 6.6 in Indonesia, are striking globally!**"
+    "seismicSummary": "Multiple strong earthquakes, including a 5.2, are striking globally!"
 }
