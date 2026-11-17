@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a critical confluence of threats: significant geopolitical instability is evident through widespread social unrest across key nations, deepening humanitarian crises, and a worsening credit crunch, while the financial sector exhibits a broad downturn across major tech stocks. Concurrently, elevated seismic activity globally necessitates increased vigilance. To proactively secure assets and ensure physical safety, GlobeGuard issues the following directive: **First, immediately assess and diversify financial portfolios to mitigate against market volatility and potential economic contraction. Second, fortify digital infrastructure and operational resilience against evolving cyber threats and potential disruptions from social unrest. Third, review and update comprehensive emergency preparedness plans for both physical safety and asset protection, particularly for regions susceptible to natural disasters or civil unrest.**",
+    "strategicPlan": "The global threat level is demonstrably elevated across all critical vectors. Geopolitically, widespread social unrest in major economies, deepening humanitarian crises in conflict zones, and surging domestic challenges underscore profound instability, further complicated by rapid, yet uncertain, advancements in AI and a significant tech leadership transition. Financially, a broad market downturn across leading technology stocks signals acute economic uncertainty and potential recessionary pressures. Simultaneously, elevated seismic activity globally, including a notable Mag 6.6 event, poses tangible physical threats to infrastructure and human safety in susceptible regions. Therefore, GlobeGuard directs immediate, proactive measures: first, **strategically de-risk financial portfolios**, shifting away from concentrated tech holdings towards more resilient assets amidst market volatility; second, **implement robust, AI-aware cybersecurity fortifications** across all digital assets, anticipating sophisticated threat evolution; and third, **urgently update and drill comprehensive emergency preparedness protocols** for both seismic events and potential civil unrest, ensuring physical safety and supply chain resilience.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $155.65 (-4.42%)",
+            "title": "\ud83d\udcb0 NVDA: $156.14 (-4.12%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $351.92 (-1.22%)",
+            "title": "\ud83d\udcb0 AAPL: $352.78 (-0.98%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $518.07 (-1.11%)",
+            "title": "\ud83d\udcb0 MSFT: $517.99 (-1.12%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $159.83 (-4.86%)",
+            "title": "\ud83d\udcb0 PLTR: $160.39 (-4.52%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $258.05 (-3.23%)",
+            "title": "\ud83d\udcb0 AMZN: $257.75 (-3.34%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.6 - 148 km WSW of Tual, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 95 km WSW of Changuillo, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh"
         },
@@ -69,13 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 68 km S of Sarangani, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 256 km SSE of Ambon, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6"
+            "title": "\u26a0\ufe0f Mag 5 - 137 km SSE of Kirakira, Solomon Islands",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5"
         }
     ],
-    "seismicSummary": "Multiple M5.0-5.4 earthquakes just struck Peru, Japan, Philippines, and Indonesia!"
+    "seismicSummary": "**Urgent: A powerful M6.6 earthquake just struck Indonesia, with several other significant quakes globally!**"
 }
