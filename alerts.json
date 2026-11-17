@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global threat level is demonstrably elevated across all critical vectors. Geopolitically, widespread social unrest in major economies, deepening humanitarian crises in conflict zones, and surging domestic challenges underscore profound instability, further complicated by rapid, yet uncertain, advancements in AI and a significant tech leadership transition. Financially, a broad market downturn across leading technology stocks signals acute economic uncertainty and potential recessionary pressures. Simultaneously, elevated seismic activity globally, including a notable Mag 6.6 event, poses tangible physical threats to infrastructure and human safety in susceptible regions. Therefore, GlobeGuard directs immediate, proactive measures: first, **strategically de-risk financial portfolios**, shifting away from concentrated tech holdings towards more resilient assets amidst market volatility; second, **implement robust, AI-aware cybersecurity fortifications** across all digital assets, anticipating sophisticated threat evolution; and third, **urgently update and drill comprehensive emergency preparedness protocols** for both seismic events and potential civil unrest, ensuring physical safety and supply chain resilience.",
+    "strategicPlan": "The current global landscape presents a complex nexus of converging threats, warranting a reassessment beyond the indicated 'globalThreatLevel' of 1. Geopolitically, widespread social unrest in France, a deepening synthetic drug crisis in the US, and severe humanitarian distress in Yemen signal profound internal fragilities, while the UK grapples with a credit crunch and social welfare crisis. Financially, major tech stocks are experiencing a significant downturn, amplified by Nvidia's CEO resignation, indicating heightened market volatility and a potential flight from growth assets. Concurrently, a potent 6.6 magnitude earthquake off Indonesia, alongside notable seismic activity across the Pacific Ring of Fire, highlights acute physical vulnerabilities and potential disruptions to critical infrastructure and global supply routes. To navigate this challenging environment, we advise three immediate actions: first, secure financial assets by diversifying investment portfolios away from volatile tech sectors and increasing liquidity; second, bolster physical safety by reviewing and updating emergency preparedness plans for natural disasters, especially in seismically active regions; and third, proactively assess and de-risk supply chain dependencies vulnerable to geopolitical instability or environmental disruptions in key maritime regions.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -69,13 +69,13 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.4 - 20 km NW of Anamizu, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 137 km SSE of Kirakira, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 4.9 - 173 km ENE of Noda, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrw"
         }
     ],
-    "seismicSummary": "**Urgent: A powerful M6.6 earthquake just struck Indonesia, with several other significant quakes globally!**"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a Mag 6.6 in Indonesia, are striking globally!**"
 }
