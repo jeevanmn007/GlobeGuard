@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global intelligence picture reveals a rapidly deteriorating and multi-layered risk landscape. Geopolitically, we face escalating social unrest and resource scarcity, evidenced by the 'Neets crisis,' widespread French protests, and critical water shortages in Yemen, alongside a deepening synthetic drug crisis in the US. Financially, a pervasive 'credit crunch' coincides with significant tech market weakness\u2014most major stocks are down, compounded by key leadership shifts like Nvidia's CEO resignation\u2014while the 'super intelligence' arms race intensifies, demanding advanced cybersecurity defenses. Underlying these human-made pressures is a sustained pattern of elevated global seismic activity, adding another layer of physical instability. To navigate this volatile confluence of threats and secure your assets and physical safety, you must immediately diversify investment portfolios towards stable, recession-resilient assets and increase liquidity; prioritize local supply chain resilience and securing essential resources, including water and non-perishable goods, coupled with a thorough review of emergency preparedness plans for all physical locations, especially in seismically active zones; and decisively fortify digital security protocols and intelligence gathering capabilities against advanced cyber threats as the global AI race intensifies.",
+    "strategicPlan": "The global landscape is currently defined by escalating socioeconomic unrest across Europe and the Middle East, a deepening domestic drug crisis, and a cautious tech market underscored by significant leadership changes and the emerging 'super intelligence' paradigm. Simultaneously, heightened global seismic activity, with multiple significant quakes detected across diverse regions, introduces an immediate physical threat. To navigate this complex environment, we direct three immediate actions: First, diversify investment portfolios away from volatile tech, simultaneously bolstering digital asset defenses against advanced cyber threats. Second, critically review and update all emergency preparedness protocols for personnel and operations in regions prone to civil unrest or high seismic activity, ensuring readiness for rapid response and resource scarcity. Third, meticulously re-evaluate supply chain vulnerabilities, identifying alternative sourcing and logistical routes to insulate against disruptions from both geopolitical instability and natural disasters.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.9 - 85 km WNW of San Juan, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.8 - 40 km N of Ruteng, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.8 - 99 km ESE of Madang, Papua New Guinea",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.8 - 150 km SW of Merizo Village, Guam",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 16 km W of Nereju Mic, Romania",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - south of the Kermadec Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysq"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 135 km S of Vilyuchinsk, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt4"
         }
     ],
-    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a Mag 5.8 near Guam, just reported globally!**"
+    "seismicSummary": "Multiple strong (Mag 5.8-5.9) earthquakes just rocked Peru, Indonesia, Papua New Guinea, and Guam!"
 }
