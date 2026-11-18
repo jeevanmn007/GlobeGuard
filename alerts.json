@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global strategic environment is critically complex, defined by a confluence of escalating internal social and economic instability across key nations, evident in widespread protests and humanitarian crises, while financial markets signal caution with a notable downturn in major tech stocks. This is set against a backdrop of intense strategic focus on advanced AI and cybersecurity, marked by significant leadership shifts in the tech sector, heralding a period of rapid technological evolution with uncertain implications. Furthermore, persistent moderate seismic activity across high-risk zones serves as a constant physical reminder of latent natural threats. To navigate this intricate landscape, I issue the following directives: First, immediately diversify financial holdings to mitigate tech sector volatility and reassess credit exposures given broader economic strains. Second, fortify digital infrastructure with advanced cybersecurity measures, concurrently developing robust contingency plans for potential social unrest and supply chain disruptions. Third, ensure comprehensive physical emergency preparedness, particularly for personnel and assets in seismically active regions, while maintaining heightened vigilance regarding local security conditions.",
+    "strategicPlan": "The current global intelligence picture reveals a rapidly deteriorating and multi-layered risk landscape. Geopolitically, we face escalating social unrest and resource scarcity, evidenced by the 'Neets crisis,' widespread French protests, and critical water shortages in Yemen, alongside a deepening synthetic drug crisis in the US. Financially, a pervasive 'credit crunch' coincides with significant tech market weakness\u2014most major stocks are down, compounded by key leadership shifts like Nvidia's CEO resignation\u2014while the 'super intelligence' arms race intensifies, demanding advanced cybersecurity defenses. Underlying these human-made pressures is a sustained pattern of elevated global seismic activity, adding another layer of physical instability. To navigate this volatile confluence of threats and secure your assets and physical safety, you must immediately diversify investment portfolios towards stable, recession-resilient assets and increase liquidity; prioritize local supply chain resilience and securing essential resources, including water and non-perishable goods, coupled with a thorough review of emergency preparedness plans for all physical locations, especially in seismically active zones; and decisively fortify digital security protocols and intelligence gathering capabilities against advanced cyber threats as the global AI race intensifies.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.8 - 150 km SW of Merizo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.3 - 16 km W of Nereju Mic, Romania",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.2 - south of the Kermadec Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tysq"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 137 km SSE of Kirakira, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 4.9 - 135 km S of Vilyuchinsk, Russia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt4"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - 102 km ENE of Ozernovskiy, Russia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyt3"
         }
     ],
-    "seismicSummary": "Multiple strong earthquakes, including a 5.2, are striking globally!"
+    "seismicSummary": "**Urgent: Multiple strong earthquakes, including a Mag 5.8 near Guam, just reported globally!**"
 }
