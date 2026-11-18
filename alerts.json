@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape is currently defined by escalating socioeconomic unrest across Europe and the Middle East, a deepening domestic drug crisis, and a cautious tech market underscored by significant leadership changes and the emerging 'super intelligence' paradigm. Simultaneously, heightened global seismic activity, with multiple significant quakes detected across diverse regions, introduces an immediate physical threat. To navigate this complex environment, we direct three immediate actions: First, diversify investment portfolios away from volatile tech, simultaneously bolstering digital asset defenses against advanced cyber threats. Second, critically review and update all emergency preparedness protocols for personnel and operations in regions prone to civil unrest or high seismic activity, ensuring readiness for rapid response and resource scarcity. Third, meticulously re-evaluate supply chain vulnerabilities, identifying alternative sourcing and logistical routes to insulate against disruptions from both geopolitical instability and natural disasters.",
+    "strategicPlan": "The global intelligence landscape presents an immediate confluence of critical challenges: escalating societal unrest and resource scarcity in various regions, pronounced volatility and leadership shifts within the pivotal technology sector amid a race for advanced AI capabilities, and sustained moderate seismic activity underscoring persistent physical risks worldwide. To navigate this complex environment, GlobeGuard directs immediate action: 1) Diversify and secure critical supply chains, particularly for essential goods and tech components, to mitigate risks from ongoing civil unrest and resource constraints; 2) Conduct a comprehensive review of technology investments and cybersecurity protocols, adapting to shifts in the AI landscape and enhancing digital resilience against evolving threats; and 3) Bolster emergency preparedness and infrastructure resilience, especially in seismically active areas, to safeguard personnel and physical assets against sudden geological events.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $155.46 (-0.44%)",
+            "title": "\ud83d\udcb0 NVDA: $150.96 (-2.89%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $351.91 (-0.25%)",
+            "title": "\ud83d\udcb0 AAPL: $352.45 (0.15%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $506.24 (-2.27%)",
+            "title": "\ud83d\udcb0 MSFT: $508.29 (0.4%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $156.56 (-2.39%)",
+            "title": "\ud83d\udcb0 PLTR: $156.67 (0.07%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $257.89 (0.05%)",
+            "title": "\ud83d\udcb0 AMZN: $267.74 (3.82%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.1 - Pacific-Antarctic Ridge",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.9 - 85 km WNW of San Juan, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.8 - 99 km ESE of Madang, Papua New Guinea",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.8 - 150 km SW of Merizo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi"
         }
     ],
-    "seismicSummary": "Multiple strong (Mag 5.8-5.9) earthquakes just rocked Peru, Indonesia, Papua New Guinea, and Guam!"
+    "seismicSummary": "\u26a0\ufe0f Multiple powerful earthquakes, up to Mag 6.1, are striking worldwide!"
 }
