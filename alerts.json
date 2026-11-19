@@ -1,22 +1,22 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global situation demands immediate attention, marked by a critical convergence of escalating geopolitical tensions, financial instability, and notable physical vulnerabilities. Social unrest intensifies in Europe with widespread protests in France, while economic headwinds, including a looming \"credit crunch\" and a \"Neets crisis,\" threaten broader stability. Concurrently, regional conflicts like Yemen's water crisis and domestic challenges such as the US synthetic drug epidemic underscore a deteriorating humanitarian and social fabric. Financially, mixed tech performance (NVDA's dip, AMZN's surge) indicates market sensitivity amidst a broader economic fragility. These human-made challenges are juxtaposed against a heightened level of significant seismic activity across the Pacific and Antarctic regions. To secure assets and ensure safety, we issue the following directives: First, immediately re-evaluate and diversify investment portfolios towards resilient, liquid assets to mitigate the impacts of economic volatility and potential 'credit crunch' effects. Second, activate enhanced intelligence gathering on civil unrest flashpoints and critical resource supply chains (e.g., water, essential goods) for proactive contingency planning against localized disruptions and potential humanitarian crises. Third, fortify all digital infrastructure with cutting-edge cybersecurity protocols, leveraging advanced AI defense mechanisms, to safeguard against an increasingly complex threat landscape and maintain data integrity.",
+    "strategicPlan": "Strategic Directive: The current global intelligence assessment reveals a critical nexus of converging threats, characterized by escalating geopolitical instability through humanitarian crises and democratic erosion, compounded by an imminent \"cyber vulnerability tsunami\" threatening all digital infrastructure. This precarious environment is undergirded by latent financial fragility, signaled by credit crunch warnings and pivotal leadership changes in the tech sector, all while heightened seismic activity across the Pacific Rim necessitates localized vigilance. To secure assets and personnel, GlobeGuard directs an immediate and comprehensive fortification of digital defenses against advanced cyber threats, a strategic diversification of financial holdings towards liquidity and defensive assets, and a rigorous review and update of emergency preparedness protocols for physical safety and operational resilience in all at-risk geographical areas.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
             "link": "https://www.bbc.co.uk/news/articles/cmy56p9elwd1o"
         },
         {
-            "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-            "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o"
-        },
-        {
-            "title": "Scuffles and fires break out as protesters rally across France, joining students",
-            "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
-        },
-        {
             "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
             "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+        },
+        {
+            "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+            "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls"
+        },
+        {
+            "title": "What smart people are saying about the cybersecurity 'vulnerability tsunami' that's roiling the internet",
+            "link": "https://www.businessinsider.com/what-smart-people-say-cybersecurity-openai-internet-threats-2026-10#article"
         }
     ],
     "stock": [
@@ -65,17 +65,17 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 85 km WNW of San Juan, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8"
+            "title": "\u26a0\ufe0f Mag 5.3 - 4 km NNW of Tsunagi, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 40 km N of Ruteng, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi"
+            "title": "\u26a0\ufe0f Mag 5.3 - 149 km SSW of Merizo Village, Guam",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.8 - 99 km ESE of Madang, Papua New Guinea",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2"
+            "title": "\u26a0\ufe0f Mag 5.2 - 130 km W of Teluk Dalam, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb"
         }
     ],
-    "seismicSummary": "Several strong earthquakes, up to Mag 6.1, are striking globally."
+    "seismicSummary": "Urgent: Multiple strong earthquakes, up to magnitude 6.1, just struck across the Pacific!"
 }
