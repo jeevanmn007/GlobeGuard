@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "Strategic Directive: The current global intelligence assessment reveals a critical nexus of converging threats, characterized by escalating geopolitical instability through humanitarian crises and democratic erosion, compounded by an imminent \"cyber vulnerability tsunami\" threatening all digital infrastructure. This precarious environment is undergirded by latent financial fragility, signaled by credit crunch warnings and pivotal leadership changes in the tech sector, all while heightened seismic activity across the Pacific Rim necessitates localized vigilance. To secure assets and personnel, GlobeGuard directs an immediate and comprehensive fortification of digital defenses against advanced cyber threats, a strategic diversification of financial holdings towards liquidity and defensive assets, and a rigorous review and update of emergency preparedness protocols for physical safety and operational resilience in all at-risk geographical areas.",
+    "strategicPlan": "The global environment is currently defined by a heightened convergence of geopolitical, financial, and physical threats. Geopolitically, we face escalating socio-economic distress and democratic instability, acute humanitarian crises stemming from resource scarcity and conflict, and a pervasive \"cybersecurity vulnerability tsunami\" amplified by the rapid advancements and regulatory focus on \"Super Intelligence.\" Financially, a broad market downturn in critical tech sectors, coupled with significant leadership transitions and a general \"credit crunch,\" signals impending economic contraction and heightened volatility. Simultaneously, ongoing moderate seismic activity across diverse global regions serves as a persistent reminder of underlying physical risks. To secure assets and ensure physical safety, immediately initiate a comprehensive audit and upgrade of all digital security infrastructure, proactively rebalance investment portfolios to enhance resilience against projected market volatility, and conduct urgent assessments of local critical resource resilience, particularly water supplies and infrastructure, in preparation for potential physical disruptions.",
     "survival": [
         {
             "title": "'Neets crisis is moral failure' and 'Credit crunch'",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $150.96 (-2.89%)",
+            "title": "\ud83d\udcb0 NVDA: $145.98 (-3.3%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $352.45 (0.15%)",
+            "title": "\ud83d\udcb0 AAPL: $349.21 (-0.92%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $508.29 (0.4%)",
+            "title": "\ud83d\udcb0 MSFT: $498.3 (-1.97%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $156.67 (0.07%)",
+            "title": "\ud83d\udcb0 PLTR: $153.68 (-1.91%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $267.74 (3.82%)",
+            "title": "\ud83d\udcb0 AMZN: $257.37 (-3.87%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.1 - Pacific-Antarctic Ridge",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 4 km NNW of Tsunagi, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.3 - 149 km SSW of Merizo Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a"
+            "title": "\u26a0\ufe0f Mag 5.3 - South Georgia Island region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc2q"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 130 km W of Teluk Dalam, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 169 km S of Attu Station, Alaska",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubw3"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - 99 km WSW of Illapel, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x"
         }
     ],
-    "seismicSummary": "Urgent: Multiple strong earthquakes, up to magnitude 6.1, just struck across the Pacific!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes striking worldwide!"
 }
