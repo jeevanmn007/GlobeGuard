@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a complex and urgent risk profile, characterized by intensifying geopolitical pressures including humanitarian crises and democratic instability, coupled with a significant downturn across critical tech markets exacerbated by leadership changes and a declared 'cybersecurity vulnerability tsunami.' Concurrently, persistent moderate seismic activity worldwide underscores ongoing natural hazard exposures. To secure assets and ensure physical safety, prioritize robust multi-factor authentication and comprehensive cybersecurity audits across all digital infrastructure; rebalance financial portfolios to mitigate exposure to current tech market volatility; and urgently review and update emergency preparedness plans, focusing on physical safety and critical resource continuity against both geopolitical and natural disruptions.",
+    "globalThreatLevel": 2,
+    "strategicPlan": "The current global strategic environment is marked by a concerning confluence of escalating risks: geopolitical instabilities are manifesting in humanitarian crises and democratic backsliding, while the financial sector, particularly tech, is undergoing a significant downturn (e.g., NVDA -12.34%, Jensen Huang's resignation), exacerbated by an declared 'cybersecurity vulnerability tsunami.' Simultaneously, ongoing M5+ seismic activity across multiple regions serves as a constant reminder of persistent physical threats. In response, GlobeGuard advises immediate action: first, conduct a thorough audit and diversification of all financial portfolios, prioritizing stability over speculative growth, especially in volatile tech assets; second, rigorously enhance digital security protocols across all operations, implementing advanced threat detection and resilient backup strategies in anticipation of evolving cyber threats; and third, update and practice emergency preparedness plans for physical safety, securing assets and ensuring personnel readiness against natural and man-made disruptions.",
     "survival": [
         {
             "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $145.98 (-3.3%)",
+            "title": "\ud83d\udcb0 NVDA: $127.97 (-12.34%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $349.21 (-0.92%)",
+            "title": "\ud83d\udcb0 AAPL: $344.55 (-1.33%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $498.3 (-1.78%)",
+            "title": "\ud83d\udcb0 MSFT: $487.15 (-2.24%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $153.68 (-1.91%)",
+            "title": "\ud83d\udcb0 PLTR: $144.59 (-5.91%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $257.37 (-3.87%)",
+            "title": "\ud83d\udcb0 AMZN: $247.98 (-3.65%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -73,9 +73,9 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc2q"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 99 km WSW of Illapel, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x"
+            "title": "\u26a0\ufe0f Mag 5.1 - 32 km NE of Port-Olry, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucd6"
         }
     ],
-    "seismicSummary": "Urgent: Multiple magnitude 5 earthquakes have struck worldwide!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes just struck globally!"
 }
