@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "GlobeGuard assesses a convergent and escalating global risk matrix characterized by significant financial instability, critical geopolitical flashpoints, and heightened physical threats. We observe a sharp downturn across major tech equities, notably NVDA's severe drop following its CEO's resignation, indicative of broader market uncertainty and potential regulatory pressures surrounding 'Super Intelligence.' Simultaneously, intensifying humanitarian crises in Yemen and widespread political disenfranchisement in India are compounding geopolitical instability, all while a pervasive 'cybersecurity vulnerability tsunami' threatens digital infrastructure globally. Concurrently, a surge in severe seismic activity, particularly a Mag 6.7 in Peru, underscores an elevated and immediate physical risk. To mitigate these threats, GlobeGuard advises three immediate actions: First, critically de-risk financial portfolios by reducing exposure to volatile tech equities susceptible to market shifts and AI regulatory impact. Second, immediately fortify all digital security defenses and operational protocols to counter the pervasive 'cybersecurity tsunami.' Third, activate comprehensive physical disaster preparedness plans for personnel and critical infrastructure, while mapping supply chain vulnerabilities stemming from global geopolitical flashpoints.",
+    "strategicPlan": "The global strategic environment is exhibiting critical strain across multiple vectors: significant geopolitical instability is manifest in humanitarian crises like Yemen and large-scale social unrest indicators in India, while a pervasive \"vulnerability tsunami\" poses an existential threat to digital infrastructure, underscored by intense global focus on AI's security implications. Financially, major tech equities are undergoing a broad and substantial downturn, with Nvidia's sharp decline coinciding with a leadership change, signaling pronounced market volatility and systemic fragility. Concurrently, a surge in global seismic activity, with multiple significant earthquakes across diverse regions, highlights an acutely elevated physical hazard risk. In response, **immediately initiate a comprehensive audit and hardening of all digital assets against advanced cyber threats**, **re-evaluate and diversify investment portfolios, prioritizing liquidity and resilience against sustained market volatility**, and **update and drill emergency preparedness protocols for physical assets and personnel, especially in seismically active or geopolitically unstable zones.**",
     "survival": [
         {
             "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.8 - 105 km NE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 6.7 - 9 km NE of Carhuamayo, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 32 km NE of Port-Olry, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucd6"
+            "title": "\u26a0\ufe0f Mag 5.9 - 238 km SW of Yanglong, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 15 km SSW of Balangonan, Philippines",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc96"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 0 km NE of Carhuamayo, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd"
+            "title": "\u26a0\ufe0f Mag 5.2 - 112 km SSE of Tateyama, Japan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucky"
         }
     ],
-    "seismicSummary": "**\ud83d\udea8 Urgent: Multiple strong earthquakes reported, including a major M6.7 in Peru!**"
+    "seismicSummary": "\ud83d\udea8 Major 6.8 and 6.7 earthquakes just hit Timor Leste and Peru, with other significant quakes worldwide."
 }
