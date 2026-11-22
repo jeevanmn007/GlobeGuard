@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence picture reveals a rapidly deteriorating risk landscape, characterized by a severe and widespread cybersecurity 'vulnerability tsunami' impacting critical infrastructure, a significant market downturn across major tech equities including Nvidia's substantial decline amidst CEO transition, and elevated global seismic activity with multiple significant quakes across the Asia-Pacific and South American regions. This complex confluence of digital, financial, and physical threats is compounded by persistent geopolitical instability in regions like Yemen and widespread internal political disruptions in India, signalling a period of extreme volatility. To secure assets and ensure physical safety, GlobeGuard directs immediate action: first, fortify all digital assets with advanced, AI-driven cybersecurity defenses and multi-factor authentication to counter the 'vulnerability tsunami'; second, conduct a swift financial portfolio review, prioritizing liquidity and diversifying holdings to mitigate exposure to current market volatility and leadership shifts; and third, update and practice comprehensive emergency preparedness plans for all personnel and facilities, specifically addressing seismic resilience and supply chain redundancy in light of increased global tectonic events.",
+    "strategicPlan": "The global strategic landscape is rapidly converging on a heightened, multifaceted risk profile, demanding immediate and decisive action. Geopolitically, persistent humanitarian crises in regions like Yemen, significant democratic erosion in India, and the accelerating climate crisis underpin pervasive social and political instability. Financially, the market is experiencing a significant downturn, particularly severe across major technology stocks with Nvidia's sharp decline correlating with its CEO's resignation, signaling profound economic volatility and uncertainty within a critical sector. Concurrently, a pattern of moderate yet globally dispersed seismic activity serves as a stark reminder of ever-present physical threats. In response, GlobeGuard issues the following directives: first, meticulously review and fortify all digital security defenses against the escalating 'vulnerability tsunami' and the evolving landscape of 'Super Intelligence'; second, critically assess and de-risk financial portfolios, particularly those heavily exposed to the volatile tech sector amidst leadership changes and market corrections; and third, urgently update and test emergency preparedness protocols for both physical safety and critical resource resilience, acknowledging the continued seismic activity and broader geopolitical disruptions.",
     "survival": [
         {
             "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.8 - 105 km NE of Lospalos, Timor Leste",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij"
+            "title": "\u26a0\ufe0f Mag 5.4 - 224 km NE of Bitung, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrb"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - 238 km SW of Yanglong, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly"
+            "title": "\u26a0\ufe0f Mag 5.1 - 45 km SE of \u00dcr\u00fcmqi, China",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrp"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 112 km SSE of Tateyama, Japan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucky"
+            "title": "\u26a0\ufe0f Mag 5 - 15 km NNE of Carhuamayo, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucqu"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 0 km NE of Carhuamayo, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd"
+            "title": "\u26a0\ufe0f Mag 4.9 - 246 km ESE of Sarangani, Philippines",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucr3"
         }
     ],
-    "seismicSummary": "**URGENT: A major 6.8 magnitude earthquake just struck Timor Leste, with multiple other significant quakes reported globally!**"
+    "seismicSummary": "Multiple moderate earthquakes, ranging from Mag 4.9 to 5.4, are striking globally right now!"
 }
