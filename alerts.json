@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "The global intelligence landscape reveals a converging threat matrix demanding immediate, strategic action. Geopolitically, humanitarian crises like Yemen's water scarcity persist amidst escalating debates on 'super intelligence' and AI governance, signaling regulatory turbulence. Financially, the tech sector is experiencing a significant downturn, exemplified by Nvidia's substantial stock drop and CEO resignation, indicating a broad market re-evaluation. This is further compounded by a declared 'vulnerability tsunami' in cybersecurity and persistent moderate seismic activity worldwide, notably multiple Mag 5+ quakes across diverse regions. To navigate this complex environment, first, immediately de-risk and diversify financial portfolios, prioritizing liquidity over speculative tech holdings. Second, implement advanced, multi-layered cybersecurity defenses, including robust data backups and continuous threat monitoring, to counter the elevated digital threat. Third, review and fortify physical security protocols and update comprehensive emergency preparedness kits, including essential supplies like water, in anticipation of both geopolitical instability and natural hazards.",
+    "strategicPlan": "GlobeGuard assesses an escalating global threat posture marked by a critical 'vulnerability tsunami' in cybersecurity, further amplified by intense governmental focus on 'Super Intelligence' and a major leadership transition at Nvidia, precipitating a sharp downturn across key tech markets. Concurrently, persistent regional geopolitical instability (Yemen) and the overarching climate crisis continue to degrade human security, while significant tectonic activity across multiple regions underscores ongoing physical risks. As such, immediately prioritize bolstering digital defenses against the 'vulnerability tsunami' with comprehensive system audits and enhanced AI-driven threat detection; conduct an urgent review of investment portfolios, considering diversification and liquidity amidst tech sector volatility; and ensure personal and operational readiness for localized physical disruptions through updated emergency plans and supply stockpiles.",
     "survival": [
         {
             "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 6.5 - Vanuatu region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.5 - west of Macquarie Island",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucxi"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.4 - 181 km NE of Lospalos, Timor Leste",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucx6"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 9 km N of Carhuamayo, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.4 - 224 km NE of Bitung, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrb"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.1 - 45 km SE of \u00dcr\u00fcmqi, China",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrp"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 15 km NNE of Carhuamayo, Peru",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucqu"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes have just hit Peru, Indonesia, and China!"
+    "seismicSummary": "A 6.5 magnitude earthquake struck Vanuatu, with several other significant quakes reported globally!"
 }
