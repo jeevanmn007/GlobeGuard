@@ -1,6 +1,6 @@
 {
-    "globalThreatLevel": 2,
-    "strategicPlan": "GlobeGuard assesses an escalating global threat posture marked by a critical 'vulnerability tsunami' in cybersecurity, further amplified by intense governmental focus on 'Super Intelligence' and a major leadership transition at Nvidia, precipitating a sharp downturn across key tech markets. Concurrently, persistent regional geopolitical instability (Yemen) and the overarching climate crisis continue to degrade human security, while significant tectonic activity across multiple regions underscores ongoing physical risks. As such, immediately prioritize bolstering digital defenses against the 'vulnerability tsunami' with comprehensive system audits and enhanced AI-driven threat detection; conduct an urgent review of investment portfolios, considering diversification and liquidity amidst tech sector volatility; and ensure personal and operational readiness for localized physical disruptions through updated emergency plans and supply stockpiles.",
+    "globalThreatLevel": 3,
+    "strategicPlan": "The current global intelligence assessment reveals an elevated and complex threat landscape, driven by persistent geopolitical instability, exemplified by the critical water crisis in Yemen, and a rapidly accelerating global 'cybersecurity vulnerability tsunami' fueled by intense focus on 'Super Intelligence' and an emerging AI arms race. Financially, while major tech stocks show strong immediate gains, the unexpected resignation of Nvidia CEO Jensen Huang introduces significant strategic uncertainty and potential future volatility within a pivotal sector. Concurrently, continuous moderate to strong seismic activity across diverse global regions underscores a constant physical risk. To secure assets and ensure physical safety, GlobeGuard must immediately: 1. Implement advanced cybersecurity fortifications and intelligence monitoring, particularly against AI-driven threats, to safeguard all critical digital infrastructure. 2. Conduct an urgent, strategic review and rebalancing of financial portfolios, especially high-tech sector holdings, to mitigate risks associated with key leadership transitions and potential market shifts. 3. Strengthen comprehensive physical preparedness protocols, including robust emergency response plans and critical resource contingencies, for all personnel and assets in seismically active or geopolitically sensitive zones.",
     "survival": [
         {
             "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $125.53 (-14.01%)",
+            "title": "\ud83d\udcb0 NVDA: $165.05 (31.48%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $342.56 (-1.9%)",
+            "title": "\ud83d\udcb0 AAPL: $349.08 (1.9%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $484.52 (-2.77%)",
+            "title": "\ud83d\udcb0 MSFT: $492.5 (1.65%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $143.49 (-6.63%)",
+            "title": "\ud83d\udcb0 PLTR: $159.36 (11.06%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $246.82 (-4.1%)",
+            "title": "\ud83d\udcb0 AMZN: $255.39 (3.47%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf"
         }
     ],
-    "seismicSummary": "A 6.5 magnitude earthquake struck Vanuatu, with several other significant quakes reported globally!"
+    "seismicSummary": "Urgent: A 6.5 magnitude earthquake just struck Vanuatu, with multiple other strong tremors reported globally."
 }
