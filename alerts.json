@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 2,
-    "strategicPlan": "Our analysis indicates a confluence of escalating global threats: geopolitical instability highlighted by humanitarian crises like Yemen's dwindling water supplies, a 'vulnerability tsunami' severely impacting global cybersecurity, and significant market volatility evidenced by sharp declines in major tech stocks, particularly NVDA, following its CEO's resignation. While seismic activity remains moderate across several regions, the overarching sentiment of global crisis preparedness, coupled with the urgent focus on \"Super Intelligence\" at the highest levels, underscores a pervasive and complex risk environment. To navigate this landscape, GlobeGuard directs immediate action: first, conduct a comprehensive audit and upgrade of all digital security protocols and critical infrastructure defenses, integrating robust threat intelligence; second, de-risk financial portfolios by diversifying investments away from highly volatile tech sectors and bolstering liquidity reserves to weather market corrections; and third, assess and reinforce critical supply chain resilience and develop localized contingency plans for resource scarcity and potential infrastructure disruptions.",
+    "strategicPlan": "The global intelligence landscape reveals a converging threat matrix demanding immediate, strategic action. Geopolitically, humanitarian crises like Yemen's water scarcity persist amidst escalating debates on 'super intelligence' and AI governance, signaling regulatory turbulence. Financially, the tech sector is experiencing a significant downturn, exemplified by Nvidia's substantial stock drop and CEO resignation, indicating a broad market re-evaluation. This is further compounded by a declared 'vulnerability tsunami' in cybersecurity and persistent moderate seismic activity worldwide, notably multiple Mag 5+ quakes across diverse regions. To navigate this complex environment, first, immediately de-risk and diversify financial portfolios, prioritizing liquidity over speculative tech holdings. Second, implement advanced, multi-layered cybersecurity defenses, including robust data backups and continuous threat monitoring, to counter the elevated digital threat. Third, review and fortify physical security protocols and update comprehensive emergency preparedness kits, including essential supplies like water, in anticipation of both geopolitical instability and natural hazards.",
     "survival": [
         {
             "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.4 - 9 km N of Carhuamayo, Peru",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.4 - 224 km NE of Bitung, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrb"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5 - 15 km NNE of Carhuamayo, Peru",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucqu"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 4.9 - south of the Fiji Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucs1"
         }
     ],
-    "seismicSummary": "Multiple Mag 5 earthquakes are striking globally!"
+    "seismicSummary": "Multiple M5+ earthquakes have just hit Peru, Indonesia, and China!"
 }
