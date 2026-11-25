@@ -1,15 +1,7 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a critical convergence of escalating threats: persistent geopolitical instability exemplified by the Yemeni humanitarian crisis and resource scarcity, a declared \"cybersecurity vulnerability tsunami\" compounded by the rapid ascent of \"Super Intelligence\" initiatives, and significant financial volatility underscored by Nvidia's leadership transition and stock decline. Concurrently, heightened seismic activity globally, including a notable Mag 6.4 event near Mauritius, signals an elevated physical risk profile. To secure assets and ensure physical safety, first, implement immediate and advanced cybersecurity protocols, thoroughly auditing digital infrastructure for vulnerabilities and deploying robust AI-driven defenses. Second, diversify critical asset holdings and establish resilient, off-grid financial access points to mitigate financial contagion from tech sector instability and supply chain disruptions. Third, update and rehearse comprehensive emergency preparedness plans, prioritizing physical safety, securing essential resource stockpiles, and ensuring redundant communication capabilities.",
+    "strategicPlan": "The global environment presents a dynamic convergence of geopolitical tensions, market volatility, and elevated physical risks. Geopolitically, the intense focus on \"Super Intelligence\" by major powers and tech giants signals an accelerating AI arms race, while regional instability persists in areas like Haiti, even as communication resilience (e.g., Starlink in Ukraine) shows improvement. Financially, the tech sector exhibits significant shifts, notably a substantial downturn in NVDA following Jensen Huang's resignation, suggesting market sensitivity to leadership changes and the broader AI landscape. Concurrently, heightened seismic activity, including multiple Magnitude 5+ events across the Pacific Ring of Fire, particularly near densely populated regions like Taiwan and Indonesia, underscores a persistent and immediate physical threat. To navigate this complex landscape, GlobeGuard directs you to: 1) Critically review and de-risk your technology investment portfolio, especially in light of recent market volatility and leadership transitions in key AI players. 2) Conduct an immediate audit of critical infrastructure, especially within seismically active zones, ensuring robust physical safety protocols and comprehensive emergency preparedness plans are in place. 3) Bolster your digital defenses with cutting-edge AI-driven cybersecurity solutions, safeguarding against sophisticated threats and ensuring resilient communication channels amidst evolving geopolitical and technological disruptions.",
     "survival": [
-        {
-            "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-            "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
-        },
-        {
-            "title": "What smart people are saying about the cybersecurity 'vulnerability tsunami' that's roiling the internet",
-            "link": "https://www.businessinsider.com/what-smart-people-say-cybersecurity-openai-internet-threats-2026-10#article"
-        },
         {
             "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
             "link": "https://www.nature.com/articles/d41586-026-03760-2"
@@ -17,27 +9,35 @@
         {
             "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
             "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o"
+        },
+        {
+            "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+            "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo"
+        },
+        {
+            "title": "Ukraine says Starlink is back to normal after disruptions",
+            "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $152.59 (-7.55%)",
+            "title": "\ud83d\udcb0 NVDA: $155.38 (-5.86%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $352.52 (0.99%)",
+            "title": "\ud83d\udcb0 AAPL: $354.07 (1.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $501.05 (1.74%)",
+            "title": "\ud83d\udcb0 MSFT: $496.13 (0.74%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $161.45 (1.31%)",
+            "title": "\ud83d\udcb0 PLTR: $161.18 (1.14%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $253.09 (-0.9%)",
+            "title": "\ud83d\udcb0 AMZN: $252.29 (-1.21%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 6.4 - Mauritius - Reunion region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h"
+            "title": "\u26a0\ufe0f Mag 5.9 - Balleny Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udd1"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 67 km WNW of Mangan, India",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud3i"
+            "title": "\u26a0\ufe0f Mag 5.3 - 83 km ESE of Hengchun, Taiwan",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udef"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 93 km WSW of Puerto Madero, Mexico",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6z"
+            "title": "\u26a0\ufe0f Mag 5.2 - 175 km N of Hicks Bay, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ude3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 24 km WNW of Piti Village, Guam",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud73"
+            "title": "\u26a0\ufe0f Mag 5 - 67 km NNE of Luwuk, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udf2"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple strong earthquakes, including a 6.4, just hit worldwide!"
+    "seismicSummary": "\u26a0\ufe0f ALERT: Multiple Magnitude 5+ earthquakes reported globally!"
 }
