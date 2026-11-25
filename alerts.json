@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global environment presents a dynamic convergence of geopolitical tensions, market volatility, and elevated physical risks. Geopolitically, the intense focus on \"Super Intelligence\" by major powers and tech giants signals an accelerating AI arms race, while regional instability persists in areas like Haiti, even as communication resilience (e.g., Starlink in Ukraine) shows improvement. Financially, the tech sector exhibits significant shifts, notably a substantial downturn in NVDA following Jensen Huang's resignation, suggesting market sensitivity to leadership changes and the broader AI landscape. Concurrently, heightened seismic activity, including multiple Magnitude 5+ events across the Pacific Ring of Fire, particularly near densely populated regions like Taiwan and Indonesia, underscores a persistent and immediate physical threat. To navigate this complex landscape, GlobeGuard directs you to: 1) Critically review and de-risk your technology investment portfolio, especially in light of recent market volatility and leadership transitions in key AI players. 2) Conduct an immediate audit of critical infrastructure, especially within seismically active zones, ensuring robust physical safety protocols and comprehensive emergency preparedness plans are in place. 3) Bolster your digital defenses with cutting-edge AI-driven cybersecurity solutions, safeguarding against sophisticated threats and ensuring resilient communication channels amidst evolving geopolitical and technological disruptions.",
+    "strategicPlan": "The global intelligence landscape is marked by a complex convergence of factors: persistent long-term climate risks and public crisis preparedness, ongoing regional geopolitical instability (Haiti, Ukraine's digital resilience), and significant market volatility within the critical technology sector, evidenced by Nvidia's leadership change and broader tech dips. Simultaneously, a pervasive focus on advanced AI, from political rhetoric to Google's cybersecurity advancements, signals profound technological and regulatory shifts, while a heightened pattern of moderate-to-strong seismic activity across multiple vulnerable zones underscores the need for physical preparedness. To navigate this dynamic environment, GlobeGuard must immediately: 1) enhance all digital and operational cybersecurity postures, leveraging advanced defensive AI where possible and diversifying critical communication channels, 2) conduct a rapid strategic review and rebalancing of financial portfolios, prioritizing resilience and liquidity against market fluctuations, and 3) fortify physical safety and continuity of operations through updated emergency protocols, structural integrity assessments for critical infrastructure, and ensuring robust, diversified backup systems in seismically active areas.",
     "survival": [
         {
             "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
@@ -21,23 +21,23 @@
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $155.38 (-5.86%)",
+            "title": "\ud83d\udcb0 NVDA: $149.3 (-3.91%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $354.07 (1.43%)",
+            "title": "\ud83d\udcb0 AAPL: $355.58 (0.43%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $496.13 (0.74%)",
+            "title": "\ud83d\udcb0 MSFT: $489.93 (-1.25%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $161.18 (1.14%)",
+            "title": "\ud83d\udcb0 PLTR: $163.59 (1.5%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $252.29 (-1.21%)",
+            "title": "\ud83d\udcb0 AMZN: $244.43 (-3.12%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -77,5 +77,5 @@
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udf2"
         }
     ],
-    "seismicSummary": "\u26a0\ufe0f ALERT: Multiple Magnitude 5+ earthquakes reported globally!"
+    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just struck across the Pacific region!"
 }
