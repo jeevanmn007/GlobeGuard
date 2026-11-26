@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global landscape presents a complex interplay of heightened, albeit localized, instability and underlying preparedness anxieties, directly influencing both financial markets and physical security. Geopolitically, ongoing efforts to stabilize regions like Haiti underscore persistent social fragmentation, while the pervasive discussion around global crisis preparedness highlights a diffuse sense of impending challenges. Financially, significant volatility in key tech stocks, particularly the sharp decline in NVDA coinciding with CEO Jensen Huang's resignation, signals potential sector recalibration amidst a burgeoning focus on advanced AI and cybersecurity. Concurrently, a cluster of moderate seismic events across the Pacific Ring of Fire (Indonesia, Tonga, New Zealand) necessitates heightened awareness of persistent physical risks. To secure assets and ensure physical safety, GlobeGuard advises: first, prudently re-evaluate and diversify technology sector investments, particularly those impacted by leadership changes or market corrections; second, immediately review and update personal and operational emergency preparedness plans, especially for those in or with assets in seismically active zones; and third, fortify all digital infrastructure and cybersecurity protocols against evolving threats, leveraging advancements in the field.",
+    "strategicPlan": "The global intelligence picture reveals a convergent risk landscape: persistent M5+ seismic activity across the Pacific Rim underscores continuous physical threats, while significant volatility in key tech stocks like NVDA and Amazon, alongside leadership shifts and an intensified global push into AI and cybersecurity, signals both economic uncertainty and strategic technological competition. Geopolitically, a heightened focus on crisis preparedness and localized conflict resolution (e.g., Haiti) reflects a world navigating both emergent technological frontiers and enduring societal vulnerabilities. In this dynamic environment, GlobeGuard directs three immediate actions: First, conduct a thorough audit and diversification of all financial and digital assets, implementing advanced cybersecurity protocols to counter escalating digital threats. Second, urgently review and bolster personal and organizational emergency preparedness plans, ensuring robust responses to natural disasters, particularly in seismically active regions, and broader societal disruptions. Third, maintain acute vigilance over regional geopolitical hotspots and critical supply chains, anticipating potential disruptions stemming from both conflict and environmental factors.",
     "survival": [
         {
             "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
@@ -61,6 +61,10 @@
     ],
     "seismic": [
         {
+            "title": "\u26a0\ufe0f Mag 5.7 - Revilla Gigedo Islands region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udq5"
+        },
+        {
             "title": "\u26a0\ufe0f Mag 5.5 - 204 km S of Taliwang, Indonesia",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udm8"
         },
@@ -71,11 +75,7 @@
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 183 km N of Hicks Bay, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5 - 184 km N of Hicks Bay, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjz"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes active across the Pacific!"
+    "seismicSummary": "URGENT: Multiple Mag 5+ earthquakes, including a 5.7, just struck worldwide!"
 }
