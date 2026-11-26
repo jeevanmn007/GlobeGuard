@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence brief reveals a critical juncture defined by converging threats: Geopolitically, increasing awareness of the climate crisis, global preparedness initiatives, and the intense focus on \"super intelligence\" signal a new era of systemic risk management, while regional stability efforts in places like Haiti and infrastructure resilience in Ukraine underscore persistent challenges. Financially, significant volatility plagues major tech stocks, notably Nvidia following its CEO's resignation, indicating potential market instability and sector-specific downturns. Concurrently, the physical threat landscape remains active, with multiple Mag 5+ seismic events reported near critical manufacturing hubs in Taiwan and the geologically sensitive New Zealand, posing tangible risks to supply chains and regional infrastructure. To secure assets and physical safety, GlobeGuard must immediately: (1) **Conduct a comprehensive risk assessment of all critical supply chains**, focusing on exposure to seismically active zones and areas of geopolitical instability, particularly in East Asia. (2) **Re-evaluate and diversify investment portfolios**, especially within the tech sector, to mitigate the impact of market volatility and potential regulatory shifts related to artificial intelligence advancements. (3) **Strengthen and widely disseminate emergency preparedness and communication plans** for all personnel and operational sites, ensuring robust readiness for natural disasters and other unforeseen disruptions.",
+    "strategicPlan": "The global landscape presents a complex interplay of heightened, albeit localized, instability and underlying preparedness anxieties, directly influencing both financial markets and physical security. Geopolitically, ongoing efforts to stabilize regions like Haiti underscore persistent social fragmentation, while the pervasive discussion around global crisis preparedness highlights a diffuse sense of impending challenges. Financially, significant volatility in key tech stocks, particularly the sharp decline in NVDA coinciding with CEO Jensen Huang's resignation, signals potential sector recalibration amidst a burgeoning focus on advanced AI and cybersecurity. Concurrently, a cluster of moderate seismic events across the Pacific Ring of Fire (Indonesia, Tonga, New Zealand) necessitates heightened awareness of persistent physical risks. To secure assets and ensure physical safety, GlobeGuard advises: first, prudently re-evaluate and diversify technology sector investments, particularly those impacted by leadership changes or market corrections; second, immediately review and update personal and operational emergency preparedness plans, especially for those in or with assets in seismically active zones; and third, fortify all digital infrastructure and cybersecurity protocols against evolving threats, leveraging advancements in the field.",
     "survival": [
         {
             "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
@@ -15,8 +15,8 @@
             "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo"
         },
         {
-            "title": "Ukraine says Starlink is back to normal after disruptions",
-            "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+            "title": "No, the World Won\u2019t Shut Down on Nov. 17. What the Blackout Rumors Get Wrong",
+            "link": "https://www.cnet.com/news/social-media/blackout-rumors-nov-17-emergency-alert-system-prepare-supplies/"
         }
     ],
     "stock": [
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.3 - 83 km ESE of Hengchun, Taiwan",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udef"
+            "title": "\u26a0\ufe0f Mag 5.5 - 204 km S of Taliwang, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udm8"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 265 km WNW of Houma, Tonga",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udmc"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 183 km N of Hicks Bay, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.2 - 175 km N of Hicks Bay, New Zealand",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ude3"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5 - 184 km N of Hicks Bay, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjz"
         }
     ],
-    "seismicSummary": "Multiple M5 earthquakes just struck Taiwan and New Zealand!"
+    "seismicSummary": "\ud83d\udea8 Multiple Mag 5+ earthquakes active across the Pacific!"
 }
