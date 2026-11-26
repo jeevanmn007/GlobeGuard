@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence landscape is marked by a complex convergence of factors: persistent long-term climate risks and public crisis preparedness, ongoing regional geopolitical instability (Haiti, Ukraine's digital resilience), and significant market volatility within the critical technology sector, evidenced by Nvidia's leadership change and broader tech dips. Simultaneously, a pervasive focus on advanced AI, from political rhetoric to Google's cybersecurity advancements, signals profound technological and regulatory shifts, while a heightened pattern of moderate-to-strong seismic activity across multiple vulnerable zones underscores the need for physical preparedness. To navigate this dynamic environment, GlobeGuard must immediately: 1) enhance all digital and operational cybersecurity postures, leveraging advanced defensive AI where possible and diversifying critical communication channels, 2) conduct a rapid strategic review and rebalancing of financial portfolios, prioritizing resilience and liquidity against market fluctuations, and 3) fortify physical safety and continuity of operations through updated emergency protocols, structural integrity assessments for critical infrastructure, and ensuring robust, diversified backup systems in seismically active areas.",
+    "strategicPlan": "The global intelligence brief reveals a critical juncture defined by converging threats: Geopolitically, increasing awareness of the climate crisis, global preparedness initiatives, and the intense focus on \"super intelligence\" signal a new era of systemic risk management, while regional stability efforts in places like Haiti and infrastructure resilience in Ukraine underscore persistent challenges. Financially, significant volatility plagues major tech stocks, notably Nvidia following its CEO's resignation, indicating potential market instability and sector-specific downturns. Concurrently, the physical threat landscape remains active, with multiple Mag 5+ seismic events reported near critical manufacturing hubs in Taiwan and the geologically sensitive New Zealand, posing tangible risks to supply chains and regional infrastructure. To secure assets and physical safety, GlobeGuard must immediately: (1) **Conduct a comprehensive risk assessment of all critical supply chains**, focusing on exposure to seismically active zones and areas of geopolitical instability, particularly in East Asia. (2) **Re-evaluate and diversify investment portfolios**, especially within the tech sector, to mitigate the impact of market volatility and potential regulatory shifts related to artificial intelligence advancements. (3) **Strengthen and widely disseminate emergency preparedness and communication plans** for all personnel and operational sites, ensuring robust readiness for natural disasters and other unforeseen disruptions.",
     "survival": [
         {
             "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.9 - Balleny Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udd1"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.3 - 83 km ESE of Hengchun, Taiwan",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udef"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.2 - 183 km N of Hicks Bay, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx"
         },
         {
             "title": "\u26a0\ufe0f Mag 5.2 - 175 km N of Hicks Bay, New Zealand",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ude3"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 67 km NNE of Luwuk, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udf2"
+            "title": "\u26a0\ufe0f Mag 5 - 184 km N of Hicks Bay, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjz"
         }
     ],
-    "seismicSummary": "\ud83d\udea8 Multiple M5+ earthquakes just struck across the Pacific region!"
+    "seismicSummary": "Multiple M5 earthquakes just struck Taiwan and New Zealand!"
 }
