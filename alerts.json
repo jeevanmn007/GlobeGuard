@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The current global landscape presents a complex interplay of systemic vulnerabilities and emerging disruptions. Geopolitically, while regional efforts address localized instability, a palpable undercurrent of societal anxiety regarding future crises persists, fueled by climate concerns and misinformation; simultaneously, the high-stakes \"super intelligence\" race now directly impacts leadership in foundational tech companies like Nvidia, contributing to significant market volatility in key tech stocks. Concurrently, routine but significant tectonic activity across the Pacific Ring of Fire underscores the immutable physical risks to infrastructure and populations. Therefore, GlobeGuard directs immediate action: **first,** re-evaluate and diversify investment portfolios, particularly within the volatile tech sector, considering recent leadership changes and market shifts; **second,** enhance digital resilience by verifying information channels and fortifying cybersecurity measures against increasingly complex threats; and **third,** update physical emergency preparedness plans and critical supply inventories, acknowledging both natural hazards and broader societal readiness concerns.",
+    "strategicPlan": "The global intelligence picture reveals a complex interplay of escalating threats: geopolitical instability persists, marked by regional security actions (Haiti) and pervasive climate crisis concerns driving global preparedness. Financially, the tech sector, particularly AI and e-commerce, demonstrates robust growth, yet the sudden leadership transition at Nvidia signals potential shifts within a critical market segment. Simultaneously, elevated seismic activity across the Pacific Ring of Fire serves as a stark reminder of ongoing natural disaster vulnerabilities. In response, GlobeGuard must immediately prioritize strategic vigilance over AI regulatory developments and tech leadership changes, fortify both digital assets with enhanced cybersecurity measures and physical infrastructure against natural hazards, and proactively review and diversify supply chains to build resilience against geopolitical and environmental disruptions.",
     "survival": [
         {
             "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
@@ -15,29 +15,29 @@
             "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo"
         },
         {
-            "title": "No, the World Won\u2019t Shut Down on Nov. 17. What the Blackout Rumors Get Wrong",
-            "link": "https://www.cnet.com/news/social-media/blackout-rumors-nov-17-emergency-alert-system-prepare-supplies/"
+            "title": "How a Thanksgiving Crisis Inspired the Invention of Swanson\u2019s TV Dinner (1953)",
+            "link": "https://www.openculture.com/2026/11/how-a-thanksgiving-crisis-inspired-the-invention-of-swansons-tv-dinner-1953.html"
         }
     ],
     "stock": [
         {
-            "title": "\ud83d\udcb0 NVDA: $149.3 (-3.91%)",
+            "title": "\ud83d\udcb0 NVDA: $150.49 (0.8%)",
             "link": "https://finance.yahoo.com/quote/NVDA"
         },
         {
-            "title": "\ud83d\udcb0 AAPL: $355.58 (0.43%)",
+            "title": "\ud83d\udcb0 AAPL: $358.54 (0.83%)",
             "link": "https://finance.yahoo.com/quote/AAPL"
         },
         {
-            "title": "\ud83d\udcb0 MSFT: $489.93 (-1.25%)",
+            "title": "\ud83d\udcb0 MSFT: $492.85 (0.6%)",
             "link": "https://finance.yahoo.com/quote/MSFT"
         },
         {
-            "title": "\ud83d\udcb0 PLTR: $163.59 (1.5%)",
+            "title": "\ud83d\udcb0 PLTR: $172.17 (5.24%)",
             "link": "https://finance.yahoo.com/quote/PLTR"
         },
         {
-            "title": "\ud83d\udcb0 AMZN: $244.43 (-3.12%)",
+            "title": "\ud83d\udcb0 AMZN: $254.12 (3.96%)",
             "link": "https://finance.yahoo.com/quote/AMZN"
         }
     ],
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.7 - Revilla Gigedo Islands region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udq5"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.5 - 204 km S of Taliwang, Indonesia",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udm8"
-        },
-        {
-            "title": "\u26a0\ufe0f Mag 5.2 - 265 km WNW of Houma, Tonga",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udmc"
-        },
-        {
             "title": "\u26a0\ufe0f Mag 5.1 - 107 km SSE of Auki, Solomon Islands",
             "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt9"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5.1 - Bonin Islands, Japan region",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udry"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - Off the coast of Aisen, Chile",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udua"
+        },
+        {
+            "title": "\u26a0\ufe0f Mag 5 - 89 km SSE of Sola, Vanuatu",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udtu"
         }
     ],
-    "seismicSummary": "Multiple M5+ earthquakes, including a M5.7, just struck across the Pacific!"
+    "seismicSummary": "Multiple magnitude 5 earthquakes just struck globally, from Japan to Chile!"
 }
