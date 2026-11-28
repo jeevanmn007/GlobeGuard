@@ -1,6 +1,6 @@
 {
     "globalThreatLevel": 1,
-    "strategicPlan": "The global intelligence picture reveals a complex interplay of escalating threats: geopolitical instability persists, marked by regional security actions (Haiti) and pervasive climate crisis concerns driving global preparedness. Financially, the tech sector, particularly AI and e-commerce, demonstrates robust growth, yet the sudden leadership transition at Nvidia signals potential shifts within a critical market segment. Simultaneously, elevated seismic activity across the Pacific Ring of Fire serves as a stark reminder of ongoing natural disaster vulnerabilities. In response, GlobeGuard must immediately prioritize strategic vigilance over AI regulatory developments and tech leadership changes, fortify both digital assets with enhanced cybersecurity measures and physical infrastructure against natural hazards, and proactively review and diversify supply chains to build resilience against geopolitical and environmental disruptions.",
+    "strategicPlan": "The current global intelligence picture indicates a landscape of accelerated technological evolution, particularly within the AI domain, evidenced by Google's cybersecurity advancements and the significant, market-moving leadership transition at Nvidia, which warrants close monitoring despite current stock performance. This rapid tech advancement unfolds against a backdrop of persistent regional instability, as seen with ongoing efforts against organized crime in Haiti, and pervasive long-term climate-related risks, while global tectonic plates demonstrate routine, moderate seismic activity. To secure your position, we advise three immediate actions: first, elevate your digital security protocols to counter sophisticated, AI-driven cyber threats; second, critically reassess your investment portfolio's exposure to the volatile tech sector, especially in light of major leadership changes, ensuring diversified resilience; and third, update and verify your physical emergency preparedness plans and provisions, given the constant potential for localized natural or man-made disruptions.",
     "survival": [
         {
             "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
@@ -61,21 +61,21 @@
     ],
     "seismic": [
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - 107 km SSE of Auki, Solomon Islands",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt9"
+            "title": "\u26a0\ufe0f Mag 5.2 - 93 km W of San Antonio de los Cobres, Argentina",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1h"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5.1 - Bonin Islands, Japan region",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udry"
+            "title": "\u26a0\ufe0f Mag 5.1 - 73 km NNW of Ph\u00f4ngsali, Laos",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1b"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - Off the coast of Aisen, Chile",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udua"
+            "title": "\u26a0\ufe0f Mag 4.8 - 167 km N of Hicks Bay, New Zealand",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1a"
         },
         {
-            "title": "\u26a0\ufe0f Mag 5 - 89 km SSE of Sola, Vanuatu",
-            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udtu"
+            "title": "\u26a0\ufe0f Mag 4.8 - 183 km SSE of Vilyuchinsk, Russia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udw4"
         }
     ],
-    "seismicSummary": "Multiple magnitude 5 earthquakes just struck globally, from Japan to Chile!"
+    "seismicSummary": "Multiple M4.8-5.2 earthquakes are hitting globally right now!"
 }
